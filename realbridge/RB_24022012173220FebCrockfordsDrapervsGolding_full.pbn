@@ -1,0 +1,4019 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "1"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.95.K6.JT83 A32.T63.Q3.KQ742 JT98.J8.T875.A96 Q.AKQ742.AJ942.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "282252822585bb785bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  8
+S  H  2
+S  D  2
+S  C  5
+E NT  8
+E  S  5
+E  H 11
+E  D 11
+E  C  7
+W NT  8
+W  S  5
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,185,163,618,167,230,103,179,70,301,36,44,248,93,41,36,253,42,43,37,22,38,16,15,55,16,18,29,192,34,21,38
+[Auction "N"]
+2S Pass 3S 4H 
+Pass Pass Pass 
+[Play "N"]
+S5 SA SJ SQ 
+DK DQ D5 D2 
+S4 S2 S8 H2 
+H5 H3 H8 HA 
+H9 H6 HJ HK 
+C3 CK CA C5 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "1"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.95.K6.JT83 A32.T63.Q3.KQ742 JT98.J8.T875.A96 Q.AKQ742.AJ942.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "282252822585bb785bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  8
+S  H  2
+S  D  2
+S  C  5
+E NT  8
+E  S  5
+E  H 11
+E  D 11
+E  C  7
+W NT  8
+W  S  5
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 22,0,3,257,214,33,135,43,162,33,488,49,159,40,148,49,175,40,133,50,24,20,515,38,105,33,111,40,20,17,172,310,16,32,69,68,26,85,44,22,39,33,38,42,15,55,60,18,42,4,96,22,30,4,54,22,15,9
+[Auction "N"]
+Pass 1D =1= Pass 1H 
+Pass 1NT =2= Pass 2D =3= 
+Pass 2H =4= Pass 3H 
+Pass 3S =5= Pass 4C 
+Pass 4H Pass 4NT 
+Pass 5C =6= Pass 5H 
+Pass Pass Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Note "2: 11-13 bal without 4-card support"]
+[Note "3: GF Checkback"]
+[Note "4: 3H, <4S"]
+[Note "5: cue (1st or 2nd)"]
+[Note "6: 1 or 4 of 5"]
+[Play "N"]
+CJ CQ CA C5 
+SK SA SJ SQ 
+DK DQ D5 D4 
+S5 S2 S8 H2 
+H5 H3 H8 HA 
+H9 H6 HJ HK 
+D6 D3 D7 DA 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "2"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q62.J84.Q54.KJT9 JT75.73.KT63.Q52 A843.AT652.J72.8 K9.KQ9.A98.A7643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56754567557768877688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  8
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 7,2,1,63,299,104,115,26,150,75,125,58,39,34,78,75,79,15,68,41,10,13,21,21,21,16,38,28,12,23,292,28,25,44,52,103,25,23,129,38,15,10,96,37,16,12,105
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+Pass 2D =2= Pass 2H 
+Pass Pass Pass 
+[Note "1: 15/17"]
+[Note "2: both M"]
+[Play "E"]
+C2 C8 CA C9 
+D3 D2 DA D4 
+DK D7 D9 D5 
+D6 DJ D8 DQ 
+H3 HT HK H4 
+CQ H2 C6 CT 
+H7 HA H9 H8 
+S5 S3 SK S2 
+-  -  HQ -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "2"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q62.J84.Q54.KJT9 JT75.73.KT63.Q52 A843.AT652.J72.8 K9.KQ9.A98.A7643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56754567557768877688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  8
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 7,0,3,63,37,184,54,42,243,127,117,55,53,51,45,39,215,542,46,26,57,31,19,12,90,20,12,6,72,9,11,11,110,31,42,13,50,261,27,9,499,48,12,12,67,30,13,15
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+Pass X =2= Pass 2C =3= 
+Pass 2H =4= Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: minors, majors or diamonds"]
+[Note "3: preference for minor"]
+[Note "4:  * majors [0:07]"]
+[Play "W"]
+D8 D4 DT DJ 
+CA C9 C5 C8 
+DA D5 D6 D2 
+D9 DQ DK D7 
+HQ H4 H3 H2 
+C4 CT CQ H5 
+H9 H8 H7 HA 
+SK S2 S5 S3 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "3"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:852.AJ42.J7652.2 AQT743.T83.K.J64 9.KQ75.QT.T98753 KJ6.96.A9843.AKQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "21746217469b5879b587"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  7
+N  D  4
+N  C  6
+S NT  2
+S  S  1
+S  H  7
+S  D  4
+S  C  6
+E NT  9
+E  S 11
+E  H  5
+E  D  8
+E  C  7
+W NT  9
+W  S 11
+W  H  5
+W  D  8
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,186,174,73,115,157,130,85,35,41,33,31,40,195,157,47,266,33,33,29,189,35,27,20,135,36,28,89,174,22,12,35,58,76,13,20,13,22,20,52,14,18,33,164
+[Auction "S"]
+Pass 1NT =1= Pass 2H =2= 
+X 2S =3= Pass 4S 
+Pass Pass Pass 
+[Note "1: 15/17"]
+[Note "2: ♠"]
+[Note "3: shows 3"]
+[Play "N"]
+C2 C4 CT CK 
+D2 DK DT D3 
+S2 S3 S9 SK 
+S5 S4 C9 SJ 
+D5 S7 DQ D4 
+S8 SA C8 S6 
+H4 C6 C3 CQ 
+D6 ST C5 D8 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "3"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:852.AJ42.J7652.2 AQT743.T83.K.J64 9.KQ75.QT.T98753 KJ6.96.A9843.AKQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "21746217469b5879b587"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  7
+N  D  4
+N  C  6
+S NT  2
+S  S  1
+S  H  7
+S  D  4
+S  C  6
+E NT  9
+E  S 11
+E  H  5
+E  D  8
+E  C  7
+W NT  9
+W  S 11
+W  H  5
+W  D  8
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,44,151,55,145,23,59,36,29,18,20,35,212,155,73,31,89,20,61,10,119,14,17,17,48,14,24,20,20,18,22,12,29,24,12,5
+[Auction "S"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: S"]
+[Play "N"]
+C2 C4 C3 CK 
+S2 SA S9 S6 
+D2 DK DT D3 
+S8 S3 H7 SK 
+S5 S4 C5 SJ 
+D7 H3 DQ DA 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "4"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J87.KQ9.K8743.AJ 94.JT6432.J2.Q52 AKQT65.A85.Q6.87 32.7.AT95.KT9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "ab895ab8952154821548"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D  9
+N  C  5
+S NT 10
+S  S 11
+S  H  8
+S  D  9
+S  C  5
+E NT  2
+E  S  1
+E  H  5
+E  D  4
+E  C  8
+W NT  2
+W  S  1
+W  H  5
+W  D  4
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 14,2,1,339,54,50,322,106,65,36,356,117,42,23,204,132,51,31,29,19,28,38,61
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+H4 H5 H7 HQ 
+D2 DQ DA D3 
+-  -  CT -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "4"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J87.KQ9.K8743.AJ 94.JT6432.J2.Q52 AKQT65.A85.Q6.87 32.7.AT95.KT9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "ab895ab8952154821548"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D  9
+N  C  5
+S NT 10
+S  S 11
+S  H  8
+S  D  9
+S  C  5
+E NT  2
+E  S  1
+E  H  5
+E  D  4
+E  C  8
+W NT  2
+W  S  1
+W  H  5
+W  D  4
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,132,166,70,563,144,129,60,21,53,239,204,21,65,370,26,18,30,49,27,40,27,131,295,102,21,36,50,13,11,20,15,27,41,10,21,18,14
+[Auction "W"]
+Pass 1NT =1= Pass 4H =2= 
+Pass 4S =3= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: spades"]
+[Note "3: forced"]
+[Play "E"]
+DJ D6 D5 DK 
+D2 DQ DA D4 
+C5 C7 C9 CA 
+S9 ST D9 D7 
+S4 SA S2 S7 
+H6 S5 S3 SJ 
+H4 SQ DT D3 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "5"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T84.976.T3.Q8654 AQ765.QT5.A9876. KJ93.K84.KJ5.A92 2.AJ32.Q42.KJT73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "12"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "343254432599ab888aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  2
+N  C  5
+S NT  4
+S  S  4
+S  H  3
+S  D  2
+S  C  5
+E NT  9
+E  S  9
+E  H 10
+E  D 11
+E  C  8
+W NT  8
+W  S  8
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 6,2,1,73,45,313,181,90,76,61,412,81,164,345,69,22,585,50,18,21,468,124,35,23,157,41,22,15,141,61,14,26,42,17,19,24,28,18,27,25,109,14,44,47,87,34,13,12,25,16,19,11
+[Auction "N"]
+Pass 1S 1NT X 
+2C 2D Pass Pass 
+Pass 
+[Play "S"]
+CA C3 C4 D6 
+DK D2 D3 D7 
+D5 D4 DT DA 
+HK HA H6 HQ 
+DJ DQ C5 D8 
+C2 CK C6 S5 
+C9 CJ C8 S6 
+S3 C7 CQ D9 
+H4 H2 H7 HT 
+H8 HJ H9 H5 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "5"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T84.976.T3.Q8654 AQ765.QT5.A9876. KJ93.K84.KJ5.A92 2.AJ32.Q42.KJT73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "343254432599ab888aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  2
+N  C  5
+S NT  4
+S  S  4
+S  H  3
+S  D  2
+S  C  5
+E NT  9
+E  S  9
+E  H 10
+E  D 11
+E  C  8
+W NT  8
+W  S  8
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 6,0,3,62,60,113,300,464,248,27,36,42,33,76,88,44,281,496,29,16,43,56,15,18,73,65,20,26,552,23,10,30,87,19,33,23,19,15,17,11,82,15,20,8,137,18,21,36,21,16,11,8,16,4,12,10,17,8,12,16,13,16,10,13,4,18,7,10
+[Auction "N"]
+Pass 1S 1NT X 
+2C =1= Pass Pass X 
+Pass 2D Pass Pass 
+Pass 
+[Note "1: natural, may be start of rescue if you double"]
+[Play "S"]
+C2 CT CQ D6 
+DK D2 D3 D7 
+D5 DQ DT D8 
+CA CK C5 S5 
+DJ D4 S4 DA 
+HK HA H6 HQ 
+C9 CJ C4 S6 
+S3 C3 C6 D9 
+H8 H2 H7 HT 
+H4 HJ H9 H5 
+S9 H3 S8 S7 
+SK S2 ST SQ 
+SJ C7 C8 SA 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "6"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:6.KQT7543..AQT97 AJ842.J62.AQ.K32 KQ95.A9.KT86.865 T73.8.J975432.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7b5ba7b5b3628236282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D  5
+N  C 11
+S NT 10
+S  S  7
+S  H 11
+S  D  5
+S  C 11
+E NT  3
+E  S  6
+E  H  2
+E  D  8
+E  C  2
+W NT  3
+W  S  6
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,307,172,160,116,66,102,96,154,131,194,18,40,24,10,15,20,17,20,62,24,22,22,9,87,26,16,29
+[Auction "E"]
+1NT Pass 2NT =1= 4H 
+Pass Pass Pass 
+[Note "1: Trans to D"]
+[Play "E"]
+DA D6 D2 H4 
+H2 H9 H8 HK 
+H6 HA D3 H3 
+DQ DK D4 S6 
+CK C5 C4 CT 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "6"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:6.KQT7543..AQT97 AJ842.J62.AQ.K32 KQ95.A9.KT86.865 T73.8.J975432.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7b5ba7b5b3628236282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D  5
+N  C 11
+S NT 10
+S  S  7
+S  H 11
+S  D  5
+S  C 11
+E NT  3
+E  S  6
+E  H  2
+E  D  8
+E  C  2
+W NT  3
+W  S  6
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,139,29,86,69,166,61,64,62,85,110,16,315,28,26,35,141,18,8,21,26,15,12,22,68,29,41,11,25,10,29,18,82,25,15,10,30,16
+[Auction "E"]
+1S Pass 2S 4H 
+Pass Pass Pass 
+[Play "E"]
+SA S5 S7 S6 
+C2 C5 CJ CQ 
+H2 H9 H8 HK 
+H6 HA D5 H5 
+S2 SK S3 C7 
+S4 SQ ST C9 
+C3 C6 C4 CT 
+HJ -  -  HQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "7"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ98.842.52.JT95 T753.A3.T8743.43 Q62.KQJ95.AKJ.Q8 K4.T76.Q96.AK762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "99a78a9a783436434364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT 10
+S  S  9
+S  H 10
+S  D  7
+S  C  8
+E NT  3
+E  S  4
+E  H  3
+E  D  6
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 8,0,3,106,142,131,35,90,23,376,33,105,51,239,315,28,12,92,16,12,12,85,28,56,31,18,26,17,44,178,17,28,18,31,17,12,39,27,19,16,11
+[Auction "S"]
+1H 2C Pass Pass 
+X Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+C4 C8 CK C5 
+C3 CQ CA C9 
+HA H5 H6 H4 
+H3 HK H7 H8 
+S3 S2 S4 SJ 
+S5 S6 SK SA 
+S7 SQ HT S8 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "7"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ98.842.52.JT95 T753.A3.T8743.43 Q62.KQJ95.AKJ.Q8 K4.T76.Q96.AK762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "99a78a9a783436434364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT 10
+S  S  9
+S  H 10
+S  D  7
+S  C  8
+E NT  3
+E  S  4
+E  H  3
+E  D  6
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,2,1,332,121,49,53,206,89,85,47,193,40,39,21,96,221,14,116,219,35,9,16,48,196,24,367,138,49,23,25,81,46,34,57,561,35,26,9,54,29,49,11,22,43,25,20,40,19,27,57,61,24,41,14
+[Auction "S"]
+1H Pass 1S Pass 
+2NT =1= Pass 3H Pass 
+4H Pass Pass Pass 
+[Note "1: 18-19"]
+[Play "W"]
+CA C5 C3 C8 
+CK C9 C4 CQ 
+C6 CT H3 H5 
+H6 H2 HA HQ 
+D6 D2 D4 DA 
+D9 D5 D7 DK 
+DQ H8 D3 DJ 
+H7 H4 D8 HK 
+HT S8 S3 HJ 
+SK SA S5 SQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "8"]
+[West "Francis Morton#11330"]
+[North "Mike Hampton#429305"]
+[East "Anthony Golding#99960"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT97.QJT4.AKJ.T6 AQJ54.AK72.874.4 .653.QT92.KJ9732 8632.98.653.AQ85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "63778537787966579665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  7
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  7
+S  C  8
+E NT  7
+E  S  9
+E  H  6
+E  D  6
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,0,3,114,206,210,172,289,156,28,44,69,46,259,27,22,168,36,46,28,28,28,22,19,39,16,38,23,47,21,21,8,23,20,130,17,43,20,15,13
+[Auction "W"]
+Pass 1NT =1= 2C =2= 2NT =3= 
+Pass 3C =4= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: majors"]
+[Note "3: leb"]
+[Note "4: forced"]
+[Play "E"]
+HA H3 H8 H4 
+C4 C2 CQ C6 
+HK H5 H9 HJ 
+H7 H6 C5 HQ 
+D8 D2 D3 DA 
+S4 C3 CA CT 
+D4 DQ D5 DJ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "8"]
+[West "Anne Rosen#96384"]
+[North "David Kendrick#94543"]
+[East "Ian Draper#91338"]
+[South "Roger Gibbons#75530"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT97.QJT4.AKJ.T6 AQJ54.AK72.874.4 .653.QT92.KJ9732 8632.98.653.AQ85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "63778537787966579665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  7
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  7
+S  C  8
+E NT  7
+E  S  9
+E  H  6
+E  D  6
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 9,2,1,144,95,202,716,118,119,139,242,241,35,34,42,29,13,246,47,43,40,82,90,58,67,22,275,46,18,13,58,38,27,31,46,118,19,17,74,21,9,30,11,13,8,13,9,24,8,11,10,32,10,11,14,23
+[Auction "W"]
+Pass 1NT 2C =1= 2NT =2= 
+Pass Pass Pass 
+[Note "1: H+another"]
+[Note "2: leb"]
+[Play "E"]
+SQ H3 S6 SK 
+C4 C2 C5 CT 
+D8 CJ CQ C6 
+HK H5 H9 HJ 
+SA C3 S2 S7 
+SJ C7 S3 S9 
+S5 C9 S8 ST 
+D4 D2 D3 DA 
+D7 D9 D5 DK 
+H2 DQ D6 DJ 
+H7 DT C8 H4 
+-  H6 H8 -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "9"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK3.T96.T543.AJ9 75.Q3.KQ98.T8754 Q984.K752.J62.Q2 JT62.AJ84.A7.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "66664666646667867678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,0,109,29,180,52,55,43,422,46,561,274,29,27,37,35,14,97,422,51,9,16,41,19,166,49,72,22,8,59,31,14,13,21,11,15,11,12,18,13,43,22,41,29,24,52,118,33,9,22,11,22,9,20,11,18
+[Auction "N"]
+1D Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+C8 C2 C3 C9 
+H3 H2 HJ H9 
+C4 CQ CK CA 
+HQ HK HA HT 
+C5 D2 C6 CJ 
+S7 S4 S6 SA 
+S5 S8 S2 SK 
+D9 SQ ST S3 
+D8 D6 D7 D3 
+C7 S9 H4 H6 
+CT DJ H8 D4 
+DK H5 -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "9"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK3.T96.T543.AJ9 75.Q3.KQ98.T8754 Q984.K752.J62.Q2 JT62.AJ84.A7.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "66664666646667867678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,1,3,247,50,115,47,284,44,56,89,227,181,53,28,620,40,16,17,192,152,23,38,33,19,20,39,98,53,35,18,151,41,13,13,34,24,78,27,322,23,11,10,89,60,25,19,44,16,14,10,32,28,29,11
+[Auction "N"]
+1C =1= Pass 1H Pass 
+1NT Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+DQ D2 D7 D5 
+D8 D6 DA D3 
+S5 S4 SJ SA 
+DK DJ H4 D4 
+HQ HK HA H6 
+H3 H2 HJ HT 
+C8 H5 H8 H9 
+S7 S8 S2 SK 
+D9 SQ S6 S3 
+C4 H7 C6 C9 
+C5 C2 C3 CJ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "10"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT65.4.J83.QT943 AJ8.86.QT9642.52 32.AQT753.A5.J76 K974.KJ92.K7.AK8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2343523435a98a8a98a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  3
+N  C  5
+S NT  2
+S  S  3
+S  H  4
+S  D  3
+S  C  5
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C  8
+W NT 10
+W  S  9
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 4,1,3,89,56,178,93,102,41,108,520,111,26,70,16,28,130,81,45,22,62,46,17,47,35,69,52,22,120,690,29,38,33,41,20,24,21,71,28,14,100,51,20,45,26,41,49,71,111,101,16,35,25,19,15,17,10,15,20,8,16
+[Auction "E"]
+Pass 1H 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-18"]
+[Play "N"]
+CT C2 CJ C8 
+C3 C5 C7 CA 
+D3 D2 D5 DK 
+D8 D9 DA D7 
+C4 H6 C6 CK 
+S5 SA S3 S4 
+DJ DQ H3 H2 
+S6 DT H5 H9 
+H4 D4 H7 HJ 
+C9 D6 HT HK 
+ST S8 S2 SK 
+SQ SJ HQ S7 
+CQ H8 HA S9 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "10"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT65.4.J83.QT943 AJ8.86.QT9642.52 32.AQT753.A5.J76 K974.KJ92.K7.AK8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2343523435a98a8a98a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  3
+N  C  5
+S NT  2
+S  S  3
+S  H  4
+S  D  3
+S  C  5
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C  8
+W NT 10
+W  S  9
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 10,2,0,138,118,570,132,61,638,477,49,57,70,633,13,231,52,80,35,25,96,53,14,19,65,35,135,54,143,90,13,25,37,47,7,80,185,898,24,37,21,20,37,4,71,19,20,34,53
+[Auction "E"]
+2D =1= 2H X =2= XX 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: penalties"]
+[Play "W"]
+DK D3 DT DA 
+SK S5 S8 S3 
+D7 D8 D9 D5 
+C8 DJ DQ S2 
+CA C3 C5 C6 
+CK C4 C2 C7 
+S9 ST SJ CJ 
+H2 H4 H8 HA 
+HK C9 H6 HQ 
+-  S6 -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "11"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:65.KT732.953.Q86 74.QJ98654.J72.3 KT92.A.K.AKT9742 AQJ83..AQT864.J5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "434194342a4a9b34a9b3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  1
+N  C  9
+S NT  4
+S  S  3
+S  H  4
+S  D  2
+S  C 10
+E NT  4
+E  S 10
+E  H  9
+E  D 11
+E  C  3
+W NT  4
+W  S 10
+W  H  9
+W  D 11
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 25,1,3,275,346,109,100,133,289,72,36,498,162,79,43,120,119,12,21,1070,45,11,37,83,33,17,10,40,49,216,64,90,38,10,38,46,32,30,16,49,24,9,34,24,14,35,35,30,15,9,7
+[Auction "S"]
+1C =1= 1D 1H 2D 
+2S 5D Pass Pass 
+6C Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+DA D3 D7 DK 
+DQ D5 D2 C7 
+C5 C6 C3 CA 
+CJ H2 H4 HA 
+D8 D9 DJ C9 
+S3 CQ H5 C4 
+D4 HK H6 S2 
+SA S5 S4 SK 
+SQ S6 S7 S9 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "11"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:65.KT732.953.Q86 74.QJ98654.J72.3 KT92.A.K.AKT9742 AQJ83..AQT864.J5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "434194342a4a9b34a9b3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  1
+N  C  9
+S NT  4
+S  S  3
+S  H  4
+S  D  2
+S  C 10
+E NT  4
+E  S 10
+E  H  9
+E  D 11
+E  C  3
+W NT  4
+W  S 10
+W  H  9
+W  D 11
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 15,2,0,322,153,53,72,675,296,87,255,324,42,39,34,73,46,53,34,267,196,19,17,803,48,41,44,310,29,25,5,377,47,9,69,343,24,16,4,233,332,39,10,315,25,23,22
+[Auction "S"]
+1C 1D 1H 2D 
+2S X =1= 3C Pass 
+Pass 3D Pass Pass 
+4C Pass Pass Pass 
+[Note "1: penalties"]
+[Play "W"]
+DA D3 D2 DK 
+D6 D5 D7 C2 
+SJ S5 S7 ST 
+D4 D9 DJ C9 
+C5 C6 C3 CA 
+CJ H2 H4 HA 
+SA S6 S4 S2 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "12"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJT93.A732..J965 74.JT9.AK953.T43 62.K8.JT862.AKQ2 AQ85.Q654.Q74.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8987a8987a5356254562"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  7
+N  C 10
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C 10
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  2
+W NT  5
+W  S  4
+W  H  5
+W  D  6
+W  C  2
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 10,1,3,172,41,53,74,40,80,40,283,48,160,33,197,66,176,395,23,31,21,38,18,12,129,80,18,33,37,36,18,9,157,32,14,9,455,31,13,22,36,13,14,20,41,17,10,19
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2C 
+Pass 3C Pass Pass 
+Pass 
+[Play "W"]
+C8 C5 C3 CQ 
+SA S3 S4 S6 
+H5 H2 H9 HK 
+C7 C6 C4 CA 
+H4 C9 CT CK 
+S5 S9 S7 S2 
+S8 SK D3 D2 
+SQ ST D5 C2 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "12"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJT93.A732..J965 74.JT9.AK953.T43 62.K8.JT862.AKQ2 AQ85.Q654.Q74.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8987a8987a5356254562"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  7
+N  C 10
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C 10
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  2
+W NT  5
+W  S  4
+W  H  5
+W  D  6
+W  C  2
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,0,192,387,39,97,56,56,102,175,43,64,17,1149,453,8,53,66,24,26,31,176,18,31,27,50,22,33,9,82,270,29,54,538,21,22,27,58,81,30,4,30,40,24,12,26,26,12,15,291,28,19,12,25,27
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H4 H2 H9 HK 
+S8 S9 S7 S2 
+C8 C5 C3 CQ 
+SA S3 S4 S6 
+H5 HA HT H8 
+C7 C6 C4 CK 
+D4 C9 CT CA 
+D7 CJ D9 C2 
+S5 SK D5 D2 
+SQ ST D3 D6 
+H6 H3 -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "13"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T6.9652.Q8.87652 Q873.KT7.7543.K4 A5.AJ83.KT62.T93 KJ942.Q4.AJ9.AQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33747337479969699696"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  7
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  7
+S  D  4
+S  C  7
+E NT  9
+E  S  9
+E  H  6
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H  6
+W  D  9
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,1,3,57,23,344,250,63,326,126,50,43,27,32,123,636,35,27,59,36,32,42,21,42,33,14,61,23,85,31,68,27,25,15,205,49,10,19,45,45,32,33,35,96,14,34
+[Auction "N"]
+Pass Pass 1C =1= 1S 
+Pass 3S =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: stronger raises available"]
+[Play "N"]
+C7 C4 C9 CJ 
+S6 S3 SA SJ 
+DQ D3 D2 D9 
+D8 D4 D6 DJ 
+ST S7 S5 SK 
+C2 CK C3 CQ 
+H6 H7 H3 HQ 
+H2 D5 DT DA 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "13"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T6.9652.Q8.87652 Q873.KT7.7543.K4 A5.AJ83.KT62.T93 KJ942.Q4.AJ9.AQJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33747337479969699696"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  7
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  7
+S  D  4
+S  C  7
+E NT  9
+E  S  9
+E  H  6
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H  6
+W  D  9
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,2,0,80,59,165,145,122,28,73,41,41,14,44,60,448,38,13,88,44,8,47,69,17,20,8,151,13,41,26
+[Auction "N"]
+Pass Pass 1H X 
+2H 2S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+CT CJ C2 C4 
+SA SJ S6 S3 
+HA H4 H2 HT 
+H3 HQ H5 H7 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "14"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQ976.J6.JT.JT62 K84.43.A6432.A94 JT32.K852.K5.K53 5.AQT97.Q987.Q87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5743557435869a7869a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  3
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S  6
+E  H  9
+E  D 10
+E  C  7
+W NT  8
+W  S  6
+W  H  9
+W  D 10
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,1,3,241,233,69,113,127,381,336,228,45,263,75,516,74,133,109,20,185,39,49,14,17,70,31,12,18,20,17,23,35,22,19,6,80,18,25,12,19,36,13,19
+[Auction "E"]
+1D =1= Pass 1H 1S 
+Pass 2NT =2= X Pass 
+3D Pass Pass Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Note "2: 4 card limit raise"]
+[Play "S"]
+SJ S5 SA S4 
+CK C7 CJ C4 
+C5 CQ C2 C9 
+D5 D7 DT DA 
+DK D8 DJ D2 
+C3 C8 CT CA 
+H5 HQ H6 H3 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "14"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQ976.J6.JT.JT62 K84.43.A6432.A94 JT32.K852.K5.K53 5.AQT97.Q987.Q87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5743557435869a7869a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  3
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S  6
+E  H  9
+E  D 10
+E  C  7
+W NT  8
+W  S  6
+W  H  9
+W  D 10
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,2,0,166,174,169,101,34,44,34,33,26,46,44,39,101,60,30,85,50,291,52,24,192,28,20,28,272,39,21,46,31,31,21,56,127,53,18,46,27,21,12,12,25,28,24,18
+[Auction "E"]
+1NT Pass 2D =1= Pass 
+2H Pass Pass 2S 
+Pass Pass X Pass 
+3D Pass Pass Pass 
+[Note "1: ♡"]
+[Play "N"]
+C2 C4 CK C7 
+C6 C9 C5 CQ 
+DT DA D5 D7 
+H6 H3 H2 HQ 
+SA S4 SJ S5 
+CT CA C3 C8 
+DJ D2 DK D8 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "15"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K85.T8.95.QJ9764 AT42.95.QT86.AT3 Q96.A7.AJ43.K852 J73.KQJ6432.K72."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "753697536958a7458a74"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  3
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H  3
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H 10
+E  D  7
+E  C  4
+W NT  5
+W  S  8
+W  H 10
+W  D  7
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,255,316,140,37,41,118,586,39,512,43,38,25,18,41,22,22,32,247,45,37,29,63,35,18,119,936,52,31,58,44,763,48,20
+[Auction "S"]
+1C =1= 4H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "N"]
+CQ CA C2 D2 
+H8 H5 H7 HK 
+HT H9 HA HQ 
+C7 C3 C5 H3 
+D5 D6 DA DK 
+SK SA S6 S3 
+S8 S2 SQ S7 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "15"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K85.T8.95.QJ9764 AT42.95.QT86.AT3 Q96.A7.AJ43.K852 J73.KQJ6432.K72."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "753697536958a7458a74"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  3
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H  3
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H 10
+E  D  7
+E  C  4
+W NT  5
+W  S  8
+W  H 10
+W  D  7
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,252,106,320,18,61,45,411,48,24,43,46,18,22,752,33,57,18,35,31,9,180,117,26,44,16,44,23,21,59,49,18,31,920,22,43,20,181,18,14,8,16,23,26,8,13,13,12
+[Auction "S"]
+1C 4H Pass Pass 
+Pass 
+[Play "N"]
+CQ CA C8 D7 
+D9 D6 DA D2 
+C9 C3 C2 H2 
+H8 H5 HA HQ 
+HT H9 H7 HK 
+C4 S2 C5 HJ 
+C6 S4 CK H6 
+D5 ST D3 H4 
+C7 D8 D4 DK 
+S5 SA S6 S3 
+-  DQ DJ -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "16"]
+[West "Francis Morton#11330"]
+[North "Ian Draper#91338"]
+[East "Anthony Golding#99960"]
+[South "Anne Rosen#96384"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K82.T6.JT4.AQJ72 73.A742.972.K965 AQJ54.Q83.AKQ8.8 T96.KJ95.653.T43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "9b7b99b7b93150431504"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D 11
+N  C  9
+S NT  9
+S  S 11
+S  H  7
+S  D 11
+S  C  9
+E NT  3
+E  S  1
+E  H  5
+E  D  0
+E  C  4
+W NT  3
+W  S  1
+W  H  5
+W  D  0
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,1,3,192,147,30,165,83,61,34,281,44,146,39,206,61,128,46,847,60,798,156,31,19,27,65,39,26,111,326,34,29,36,17,20,20,47,13,36,14,46,37,17,10,15,17,12,12,16,19,17,37,9
+[Auction "W"]
+Pass 1C =1= Pass 1S 
+Pass 2S Pass 3D 
+Pass 3S Pass 4C 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "W"]
+H9 H6 HA H8 
+HJ HT H2 H3 
+D6 DJ D9 D8 
+S6 SK S3 S4 
+S9 S2 S7 SA 
+HK S8 H4 HQ 
+C4 CA C5 C8 
+C3 C2 C9 SJ 
+-  -  -  SQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "16"]
+[West "Mike Hampton#429305"]
+[North "David Kendrick#94543"]
+[East "Michael Prior#110955"]
+[South "Roger Gibbons#75530"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K82.T6.JT4.AQJ72 73.A742.972.K965 AQJ54.Q83.AKQ8.8 T96.KJ95.653.T43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "9b7b99b7b93150431504"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D 11
+N  C  9
+S NT  9
+S  S 11
+S  H  7
+S  D 11
+S  C  9
+E NT  3
+E  S  1
+E  H  5
+E  D  0
+E  C  4
+W NT  3
+W  S  1
+W  H  5
+W  D  0
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 28,2,0,50,60,21,367,35,65,21,205,65,84,42,625,2081,22,55,61,25,24,27,20,26,11,19,9,18,43,19,260,34,5,153,71,20,19,16,33,18,13,15,33,35,21,18,16,17
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2S Pass 6S 
+Pass Pass Pass 
+[Play "W"]
+D5 D4 D9 DK 
+C3 CQ CK C8 
+H9 H6 HA H3 
+HJ HT H2 H8 
+D6 DT D2 D8 
+S6 S2 S3 SJ 
+S9 SK S7 S4 
+C4 CA C5 HQ 
+-  S8 D7 -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "17"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K832.AT9843.2.QT AQT.J72.A74.K964 9764.K.K963.AJ52 J5.Q65.QJT85.873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "69857688577456674466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  7
+W  S  4
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,3,0,488,46,307,73,236,37,215,41,118,15,219,120,10,28,6,34,29,95,21,14,13,26,45,20,20,34,113,297,18,13,135,23,20,9,8,17,34,10,4,18,17,18,39,11,14,12,27,11,24,14,18,5,13,10,14,16,11,4,14,10,9,7
+[Auction "N"]
+1H Pass 1S =1= Pass 
+1NT =2= Pass 2S Pass 
+Pass Pass 
+[Note "1: F1 enquiry, usually 8+, <5S"]
+[Note "2: Shows 4S, non-maximum"]
+[Play "W"]
+DQ D2 DA D3 
+C3 CQ C4 C2 
+H5 H3 H2 HK 
+S5 S2 ST S6 
+D8 H4 D7 DK 
+SJ SK SA S4 
+D5 S3 SQ S7 
+DT S8 D4 D6 
+H6 HA H7 D9 
+C7 CT C6 C5 
+HQ H8 HJ S9 
+C8 H9 C9 CA 
+DJ HT CK CJ 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "17"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K832.AT9843.2.QT AQT.J72.A74.K964 9764.K.K963.AJ52 J5.Q65.QJT85.873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "69857688577456674466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  7
+W  S  4
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 6,1,2,302,211,82,54,82,89,133,200,335,42,43,138,65,17,18,67,50,35,26,262,111,48,25,460,36,9,20,11,17,16,14,121,22,12,20,19,129,18,29,71,35,30,11,46,56,10,39,11,21,9,52
+[Auction "N"]
+Pass 1C Pass 1D 
+1H Pass 1NT 2D 
+Pass Pass Pass 
+[Play "N"]
+HA H2 HK H5 
+H8 H7 D3 H6 
+SK SA S7 SJ 
+S2 SQ S4 S5 
+S3 ST S6 C3 
+D2 DA D6 D8 
+H4 D4 DK DQ 
+H3 D7 D9 DJ 
+H9 HJ C2 DT 
+HT C4 C5 HQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "18"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:.QJ87643.K2.A986 AKQ2.52.854.KJ54 976543.T.JT7.T72 JT8.AK9.AQ963.Q3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2362423624a96a7a97a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  3
+S  H  6
+S  D  2
+S  C  4
+E NT 10
+E  S  9
+E  H  6
+E  D 10
+E  C  7
+W NT 10
+W  S  9
+W  H  7
+W  D 10
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,1,2,221,86,47,149,90,58,109,97,38,38,174,324,125,36,513,24,11,25,119,35,20,32,11,15,33,31,171,30,40,12,18,45,14,76
+[Auction "E"]
+1S Pass 2D 2H 
+Pass Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+C9 C4 C7 CQ 
+D2 D4 D7 DA 
+H6 SA S7 S8 
+DK D5 DT DQ 
+HQ H2 HT HA 
+H3 D8 DJ D3 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "18"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:.QJ87643.K2.A986 AKQ2.52.854.KJ54 976543.T.JT7.T72 JT8.AK9.AQ963.Q3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2362423624a96a7a97a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  3
+S  H  6
+S  D  2
+S  C  4
+E NT 10
+E  S  9
+E  H  6
+E  D 10
+E  C  7
+W NT 10
+W  S  9
+W  H  7
+W  D 10
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,3,0,78,55,126,183,791,68,597,64,16,26,145,222,186,15,113,21,100,10,68,37,11,16,24,28,47,32,276,98,48,12,13,65,22,10,38,14,13,32,32,13,9,26,143,17,7,18,18,10,9,52,13,15,8,21,17,13,9,29,5,9,7,10
+[Auction "E"]
+1NT Pass 2C =1= 2H 
+2S Pass 3NT Pass 
+Pass Pass 
+[Note "1: asks about majors"]
+[Play "S"]
+HT H9 HJ H2 
+S3 HK H4 H5 
+C7 CQ CA C4 
+S7 HA H6 D4 
+S4 SJ H3 S2 
+S5 S8 C6 SQ 
+S6 ST H7 SA 
+S9 D3 C9 SK 
+C2 C3 C8 CK 
+CT D6 H8 CJ 
+D7 D9 HQ C5 
+DT DA D2 D5 
+DJ DQ DK D8 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "19"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T842.K63.K83.AT2 K95.A84.AT7642.4 Q76.QJ9752.J9.J8 AJ3.T.Q5.KQ97653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NTX"]
+[Result "9"]
+[Score "NS -750"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "4572345723986ba986ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  2
+N  C  3
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  3
+E NT  9
+E  S  8
+E  H  6
+E  D 11
+E  C 10
+W NT  9
+W  S  8
+W  H  6
+W  D 11
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,3,0,270,134,236,90,98,27,141,57,162,39,85,199,24,19,56,12,44,16,75,82,11,6,533,19,26,47,216,1792,30,14,37,18,13,72
+[Auction "S"]
+2D =1= 3C 3H 3NT 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: weak 2H or 16+ 4-4-4-1 any singleton"]
+[Play "S"]
+H7 HT HK H4 
+H9 C3 H6 H8 
+HJ C5 H3 HA 
+D9 DQ DK D2 
+DJ D5 D8 DA 
+C8 CQ CA C4 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "19"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T842.K63.K83.AT2 K95.A84.AT7642.4 Q76.QJ9752.J9.J8 AJ3.T.Q5.KQ97653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "4572345723986ba986ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  2
+N  C  3
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  3
+E NT  9
+E  S  8
+E  H  6
+E  D 11
+E  C 10
+W NT  9
+W  S  8
+W  H  6
+W  D 11
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,2,216,187,437,298,89,20,22,150,319,29,71,101,158,32,170,147,25,39,559,19,44,40,1516,43,35,29,17,254,43,22,70,50,17,16,20,60,219,16,15
+[Auction "S"]
+2D =1= 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: wk 2 in a major"]
+[Play "S"]
+HQ HT H3 H4 
+H5 S3 HK H8 
+H7 C3 H6 HA 
+C8 CQ C2 C4 
+CJ CK CA D2 
+SQ SA S4 S5 
+H2 C9 CT D4 
+S6 SJ S2 S9 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "20"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AJ97.K53.A9753.5 K52.T987.Q4.K963 QT843.Q62.T.AT84 6.AJ4.KJ862.QJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6a7656a7666357763577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  7
+N  D  6
+N  C  5
+S NT  6
+S  S 10
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  3
+E  H  5
+E  D  7
+E  C  7
+W NT  6
+W  S  3
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,3,0,91,156,61,107,120,880,34,53,38,90,636,19,17,67,26,16,20,42,15,14,19,16,9,21,35,15,21,13,12,13,123,19,21,15,20,14,5,72,12,19,32,23,19,113,28,21,20,17,19,44,17,33,17,19,11,4,10,11,10,3,10
+[Auction "W"]
+1D Pass 1H 1S 
+2H 4S Pass Pass 
+Pass 
+[Play "W"]
+CQ C5 C3 CA 
+H4 HK HT H2 
+D2 DA D4 DT 
+D6 D3 DQ S3 
+C2 S7 C6 C4 
+D8 D5 C9 S4 
+C7 S9 CK C8 
+DJ D7 H7 S8 
+CJ SJ SK CT 
+S6 SA S2 ST 
+DK D9 H8 H6 
+HA H3 H9 HQ 
+HJ H5 S5 SQ 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "20"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AJ97.K53.A9753.5 K52.T987.Q4.K963 QT843.Q62.T.AT84 6.AJ4.KJ862.QJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6a7656a7666357763577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  7
+N  D  6
+N  C  5
+S NT  6
+S  S 10
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  3
+E  H  5
+E  D  7
+E  C  7
+W NT  6
+W  S  3
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,1,2,109,59,42,95,37,274,72,117,47,49,46,36,29,46,1170,39,30,56,36,67,25,156,24,18,12,127,19,23,12,29,28,88,20,173,39,18,21,29,213,31,30,24,31,28,23,22,32,48,16,118,17,7,23,23,12,49,19
+[Auction "W"]
+1D Pass 1H 1S 
+2H 3H =1= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * S raise [0:11]"]
+[Play "W"]
+C2 C5 CK CA 
+C7 S7 C6 C4 
+D2 DA D4 DT 
+D6 D3 DQ S3 
+CJ S9 C3 C8 
+HA HK HT H2 
+S6 SA S2 S4 
+H4 H3 H7 HQ 
+CQ SJ C9 CT 
+HJ H5 H8 H6 
+DK D5 H9 S8 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "21"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T.KQJ74.98754.K8 AJ753.T53.A.JT64 6.A96.KQJT632.A9 KQ9842.82..Q7532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "63bb363bb36921969219"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 11
+N  D 11
+N  C  3
+S NT  6
+S  S  3
+S  H 11
+S  D 11
+S  C  3
+E NT  6
+E  S  9
+E  H  2
+E  D  1
+E  C  9
+W NT  6
+W  S  9
+W  H  2
+W  D  1
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 23,3,0,214,71,328,190,294,64,301,29,58,25,101,21,542,31,34,34,162,90,37,12,109,39,16,21,36,33,41,12,19,27,49,14,95
+[Auction "N"]
+Pass Pass 1D =1= 3S 
+4H 4S 5H Pass 
+Pass 5S Pass Pass 
+X Pass Pass Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Play "N"]
+CK C4 C9 C2 
+C8 C6 CA C3 
+H4 H3 HA H8 
+HJ H5 H9 H2 
+HK -  -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "21"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T.KQJ74.98754.K8 AJ753.T53.A.JT64 6.A96.KQJT632.A9 KQ9842.82..Q7532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "63bb363bb36921969219"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 11
+N  D 11
+N  C  3
+S NT  6
+S  S  3
+S  H 11
+S  D 11
+S  C  3
+E NT  6
+E  S  9
+E  H  2
+E  D  1
+E  C  9
+W NT  6
+W  S  9
+W  H  2
+W  D  1
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,1,2,155,301,401,79,333,60,544,38,96,43,52,71,99,25,1234,32,47,22,58,34,31,18,60,40,7
+[Auction "N"]
+2H =1= Pass 2NT =2= 3S 
+Pass 4S X Pass 
+Pass Pass 
+[Note "1:  * H=m 5/5+ weak [0:11]"]
+[Note "2:  * enquirygame interest [0:13]"]
+[Play "N"]
+HK H3 H6 H8 
+HJ H5 HA H2 
+CK C4 C9 C3 
+C8 CJ CA -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "22"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K65.Q7.JT632.Q54 AQ98742.965.KQ.K JT.KJ42.A8.A8763 3.AT83.9754.JT92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "65587655775865658656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  7
+E NT  5
+E  S  8
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,3,0,58,103,143,69,47,75,23,47,43,124,63,15,23,14,41,22,24,52,8,17,194,21,39,26,51,15,19,16,82,22,10,28,10,35,299,29,139,24,8,19,13,18,9,46,112,21,24,46,16,20,4,60,4,14,7,16
+[Auction "E"]
+1S Pass 1NT Pass 
+2S Pass Pass Pass 
+[Play "S"]
+DA D4 D3 DQ 
+D8 D5 D2 DK 
+CA C2 C4 CK 
+H2 H3 HQ H5 
+ST D7 DJ S7 
+HK HA H7 H6 
+SJ S3 S6 SQ 
+C3 D9 S5 SA 
+C6 C9 SK S8 
+H4 CT DT S2 
+C7 H8 C5 S9 
+C8 HT D6 S4 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "22"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K65.Q7.JT632.Q54 AQ98742.965.KQ.K JT.KJ42.A8.A8763 3.AT83.9754.JT92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "65587655775865658656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  7
+E NT  5
+E  S  8
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,1,2,139,313,83,48,357,94,41,38,274,169,38,25,68,31,65,29,153,104,20,15,100,55,13,43,1120,63,32,10,66,9,17,8,276,21,232,28,58,23,16,6,397,32,14,14,20,21,13
+[Auction "E"]
+1S Pass 1NT Pass 
+3S Pass Pass Pass 
+[Play "S"]
+DA D4 D6 DQ 
+D8 D5 D3 DK 
+CA C2 C4 CK 
+C3 C9 CQ S2 
+HJ HA H7 H9 
+C6 CT C5 H5 
+C7 CJ S6 S7 
+ST S3 S5 SA 
+SJ H3 SK SQ 
+H2 -  HQ H6 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "23"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9863.T876.AT5.J2 QJ5.KQJ2.KJ6.A75 AT4.94.Q972.K864 K72.A53.843.QT93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "45454454548897888978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  4
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  8
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,3,0,67,46,85,145,50,120,68,180,76,31,36,13,41,54,578,33,14,24,13,51,8,204,28,10,32,152,70,9,17,35,9,21,10,53,313,28,14,13,34,11,24
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 2H Pass 2NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 17-18 with 4 hearts"]
+[Play "S"]
+D7 D3 DA D6 
+DQ D4 DT DJ 
+D2 D8 D5 DK 
+SA S2 S3 SQ 
+D9 H3 S6 C5 
+ST SK S8 S5 
+CK CQ C2 C7 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "23"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9863.T876.AT5.J2 QJ5.KQJ2.KJ6.A75 AT4.94.Q972.K864 K72.A53.843.QT93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "45454454548897888978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  4
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  8
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,2,383,38,85,115,113,32,34,29,81,41,477,21,46,38,43,50,28,23,28,7,42,943,96,25,14,513,46,26,12,16,85,44,159,39
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+D2 D3 DA D6 
+DQ D4 DT DJ 
+D9 D8 D5 DK 
+S4 S2 S3 SJ 
+CK C3 C2 C5 
+D7 H3 H8 C7 
+SA -  -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "24"]
+[West "Mike Hampton#429305"]
+[North "Francis Morton#11330"]
+[East "Michael Prior#110955"]
+[South "Anthony Golding#99960"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQT.A95.JT632.98 A9876.Q73.K98.K4 42.KJ8.7.AQJT762 J53.T642.AQ54.53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "9788b9788b3655236552"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  8
+N  C 11
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 11
+E NT  3
+E  S  6
+E  H  5
+E  D  5
+E  C  2
+W NT  3
+W  S  6
+W  H  5
+W  D  5
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 10,3,0,53,93,74,75,53,193,43,41,32,63,23,81,88,36,21,17,39,32,19,14,12,27,27,21,5,20,19,108,154,22,11,48,20,22,20
+[Auction "W"]
+Pass Pass 1S 2C 
+2S Pass Pass 3C 
+Pass Pass Pass 
+[Play "W"]
+S3 SQ SA S2 
+HT HA H7 H8 
+C3 C9 C4 C2 
+C5 C8 CK CA 
+D5 DT DK D7 
+H2 H5 H3 HJ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "24"]
+[West "David Kendrick#94543"]
+[North "Ian Draper#91338"]
+[East "Roger Gibbons#75530"]
+[South "Anne Rosen#96384"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQT.A95.JT632.98 A9876.Q73.K98.K4 42.KJ8.7.AQJT762 J53.T642.AQ54.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "9788b9788b3655236552"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  8
+N  C 11
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 11
+E NT  3
+E  S  6
+E  H  5
+E  D  5
+E  C  2
+W NT  3
+W  S  6
+W  H  5
+W  D  5
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,1,2,430,63,73,162,80,1046,124,269,94,168,54,431,43,34,43,119,179,44,35,42,35,37,36,51,38,27,13,124,57,18,246,28,17,20,96,42,29,63,58,23,18,14,89,19,11,14,71,29,11,16,15,19,16
+[Auction "W"]
+Pass Pass 1S 2C 
+X XX =1= Pass Pass 
+2S 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Play "E"]
+S9 S2 SJ SK 
+C4 C2 C3 C9 
+CK CA C5 C8 
+S6 CQ D5 D2 
+S7 CJ S5 D3 
+D8 CT S3 H5 
+H3 C6 H2 D6 
+S8 C7 H4 DT 
+H7 H8 H6 HA 
+HQ -  -  H9 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "25"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT54..AT943.9542 J8.QT876.KJ8652. AQ632.A543..QJ76 97.KJ92.Q7.AKT83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "7a5697a4586386463874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  6
+N  C  9
+S NT  7
+S  S 10
+S  H  4
+S  D  5
+S  C  8
+E NT  6
+E  S  3
+E  H  8
+E  D  6
+E  C  4
+W NT  6
+W  S  3
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,3,1,151,174,156,177,142,40,37,46,217,1330,34,15,17,46,10,11,18,26,11,67,17,16,19,10,18,24,12,12,16,14,13,66,929,31,29,22,52,18,19,15,13,16,18,15,19,28,37,16,50,34,14,19
+[Auction "N"]
+Pass 2H =1= 2S 4H 
+4S Pass Pass Pass 
+[Note "1: H=M 5/5+ weak"]
+[Play "W"]
+HK C2 H6 HA 
+H2 S4 H7 H3 
+D7 DA D2 C6 
+DQ D3 D5 S2 
+H9 S5 H8 H4 
+S7 D4 D6 S3 
+CA C4 D8 C7 
+CK C5 HT CJ 
+C3 C9 S8 CQ 
+C8 D9 DJ SQ 
+HJ ST HQ H5 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "25"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT54..AT943.9542 J8.QT876.KJ8652. AQ632.A543..QJ76 97.KJ92.Q7.AKT83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "7a5697a4586386463874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  6
+N  C  9
+S NT  7
+S  S 10
+S  H  4
+S  D  5
+S  C  8
+E NT  6
+E  S  3
+E  H  8
+E  D  6
+E  C  4
+W NT  6
+W  S  3
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,2,67,242,101,406,78,114,22,63,34,29,19,14,120,257,20,975,33,52,42,431,481,47,14,143,40,6,29,264,32,55,21
+[Auction "N"]
+Pass 2H =1= 2S 4H 
+4S Pass Pass X 
+Pass Pass Pass 
+[Note "1: 5H/5m wk"]
+[Play "W"]
+CK C2 D8 C6 
+C3 C4 S8 C7 
+D7 D3 D2 S2 
+S7 S4 SJ SA 
+S9 S5 H6 SQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "26"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:97.K764.T2.AK654 AJ8653.QT.Q73.T2 KQT.AJ52.865.J97 42.983.AKJ94.Q83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "76a5a76a5a4727347273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D  5
+N  C 10
+S NT  7
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  4
+E  S  7
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  7
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 7,3,1,188,202,107,155,47,61,99,160,44,72,256,122,79,101,33,48,26,44,18,67,14,279,52,14,15,107,19,25,11,46,14,30,16,31,37,30,9,27,111,15,11,41,15,44,19,14
+[Auction "E"]
+Pass 1D =1= Pass 1H 
+1S 2H Pass Pass 
+Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Play "E"]
+CT CJ CQ CK 
+HT H2 H3 HK 
+HQ HA H8 H7 
+C2 C9 C3 C4 
+S3 HJ H9 H4 
+S5 C7 C8 CA 
+S6 D5 D4 C5 
+S8 D6 D9 C6 
+SA ST S4 S7 
+D3 -  -  -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "26"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:97.K764.T2.AK654 AJ8653.QT.Q73.T2 KQT.AJ52.865.J97 42.983.AKJ94.Q83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "76a5a76a5a4727347273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D  5
+N  C 10
+S NT  7
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  4
+E  S  7
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  7
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 8,0,2,449,94,100,42,64,50,29,65,53,556,31,154,33,24,22,73,143,28,21,36,564,58,18,22,171,30,24,19,147,66,46,12,113,23,13,42,26,21,12,7
+[Auction "E"]
+2D =1= Pass 2H Pass 
+2S Pass Pass Pass 
+[Note "1: multi, wk M"]
+[Play "S"]
+D6 DK D2 D3 
+SQ S2 S7 SJ 
+H2 H3 HK HT 
+C7 C3 CK CT 
+HA H8 H4 HQ 
+CJ C8 C5 C2 
+C9 CQ CA S3 
+SK S4 S9 SA 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "27"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT854.A53.AT9.K3 AK2.T972.Q5.QT76 3.KQ86.K432.A982 J976.J4.J876.J54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "99aa999aa94433444334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D 10
+N  C  9
+S NT  9
+S  S  9
+S  H 10
+S  D 10
+S  C  9
+E NT  4
+E  S  4
+E  H  3
+E  D  3
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,0,2,269,27,50,49,50,28,211,55,91,30,66,235,48,258,44,19,73,250,37,11,23,21,13,57,43,412,29,58,57,16,10,37,67,26,34,12,45,27,8,9,22,27,5,10,14,26,15,12,176,38,5,40,32,56,5,50,8,30,5,11,10,11,11,12
+[Auction "S"]
+1D Pass 1S Pass 
+2C Pass 2H =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: Fourth suit forcing GF"]
+[Play "W"]
+SJ SQ SK S3 
+H4 H3 HT HK 
+D6 D9 DQ D2 
+HJ H5 H2 HQ 
+D8 DT D5 D3 
+D7 DA S2 D4 
+DJ HA H7 H6 
+C4 CK C6 C2 
+C5 C3 CT CA 
+S6 S4 H9 DK 
+S7 S5 C7 H8 
+CJ S8 CQ C8 
+S9 ST SA C9 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "27"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT854.A53.AT9.K3 AK2.T972.Q5.QT76 3.KQ86.K432.A982 J976.J4.J876.J54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "99aa999aa94433444334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D 10
+N  C  9
+S NT  9
+S  S  9
+S  H 10
+S  D 10
+S  C  9
+E NT  4
+E  S  4
+E  H  3
+E  D  3
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 11,3,1,118,102,82,116,268,59,713,43,118,44,649,39,123,50,186,96,168,344,42,13,31,30,16,14,225,29,15,23,121,21,17,9,37,11,15,24,40,69,12,22,93,30,25,11,1133,37,24,16,13,14,13,20,39,701,30,10,18,6,17,16,17,16,11,6,15,13,10,11
+[Auction "S"]
+1D =1= Pass 1S X 
+Pass 2C X Pass 
+2H Pass 2S Pass 
+3D Pass Pass Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Play "W"]
+C4 CK C7 C2 
+C5 C3 C6 CA 
+CJ D9 CQ C8 
+H4 HA H2 H6 
+HJ H3 H7 HK 
+D6 H5 H9 HQ 
+S6 ST SK S3 
+D7 DA DQ D2 
+S7 S4 S2 D3 
+S9 DT HT H8 
+SJ S5 SA D4 
+D8 S8 D5 DK 
+DJ SQ CT C9 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "28"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ5.KQJ95.K8.J76 AT62.AT4.AT7.832 83.876.QJ53.AKQ9 J974.32.9642.T54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a7a9a87a893634336343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  6
+E  H  3
+E  D  4
+E  C  3
+W NT  3
+W  S  6
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,0,2,54,58,59,117,29,106,178,150,33,63,46,18,58,572,188,11,15,46,22,18,41,122,38,17,6,195,46,23,32,54,34,11,9,28,269,20,12,239,34,17,13,910,22,10
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 2NT =1= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 15-19"]
+[Play "E"]
+C8 CA C4 C6 
+H4 H6 H2 HK 
+HA H7 H3 HQ 
+C3 C9 CT CJ 
+HT H8 C5 HJ 
+D7 D3 D4 DK 
+DA D5 D2 D8 
+S2 S3 SJ -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "28"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ5.KQJ95.K8.J76 AT62.AT4.AT7.832 83.876.QJ53.AKQ9 J974.32.9642.T54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a7a9a87a893634336343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  6
+E  H  3
+E  D  4
+E  C  3
+W NT  3
+W  S  6
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,3,1,234,149,40,293,115,177,34,89,230,33,10,59,65,30,48,319,52,31,16,102,49,21,31,43,49,25,33,37,24,16,7
+[Auction "W"]
+Pass 1H Pass 4H =1= 
+Pass Pass Pass 
+[Note "1:  * could be values or shape [0:20]"]
+[Play "E"]
+C8 CQ C4 C6 
+HA H6 H3 HK 
+DA D3 D6 D8 
+SA S3 S9 S5 
+DT D5 D2 DK 
+H4 H7 H2 HQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "29"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT532.5.AK9.A953 QJ.QT98.Q62.QJT4 94.AJ74.JT8753.7 K876.K632.4.K862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "586a5586a55462854628"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D 10
+N  C  5
+S NT  5
+S  S  8
+S  H  6
+S  D 10
+S  C  5
+E NT  5
+E  S  4
+E  H  6
+E  D  2
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  2
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 8,0,2,94,211,61,26,73,49,94,23,44,41,38,815,45,27,539,30,28,60,137,35,12,11,211,33,8,58,12,32,19,10,74,17,18,20,40,24,25,14,45,14,38,15,134,27,9,8,14,27,13,20,36,28,17,12,10,20,20,10,15,7
+[Auction "N"]
+1S Pass 1NT Pass 
+2C Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+HT HA H6 H5 
+H8 H4 HK S2 
+D2 D3 D4 DA 
+C4 C7 C8 CA 
+CT S4 C2 C5 
+H9 H7 H3 S3 
+CJ S9 C6 C3 
+HQ HJ H2 S5 
+SJ D5 S6 SA 
+D6 D7 S7 DK 
+CQ D8 CK C9 
+SQ DT S8 ST 
+DQ DJ -  -  
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "29"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT532.5.AK9.A953 QJ.QT98.Q62.QJT4 94.AJ74.JT8753.7 K876.K632.4.K862"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "586a5586a55462854628"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D 10
+N  C  5
+S NT  5
+S  S  8
+S  H  6
+S  D 10
+S  C  5
+E NT  5
+E  S  4
+E  H  6
+E  D  2
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  2
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,3,1,265,32,368,155,264,62,115,192,365,39,320,50,420,418,31,37,142,24,17,21,47,19,12,26,757,64,468,32,14,117,83,25,22,16,30,11,15,31,10,37,11,17,9,6,14,22,8,7,11,11,10,13
+[Auction "N"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+3D Pass Pass Pass 
+[Note "1: enquiry, usually 8+"]
+[Note "2: Nat or bal"]
+[Note "3: to play"]
+[Play "W"]
+D4 DK D2 D3 
+S8 SA SJ S4 
+S6 S2 SQ S9 
+H2 D9 D6 D7 
+S7 S3 DQ H4 
+C2 CA CQ C7 
+SK S5 HT D5 
+H3 H5 H8 HA 
+H6 DA H9 H7 
+C6 ST C4 HJ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "30"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K9.J72.K87642.A2 AT752.954.93.J53 J43.K8.QJT5.KQT9 Q86.AQT63.A.8764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2CX"]
+[Result "5"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "65598655984884448844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  9
+N  C  8
+S NT  6
+S  S  5
+S  H  5
+S  D  9
+S  C  8
+E NT  4
+E  S  8
+E  H  8
+E  D  4
+E  C  4
+W NT  4
+W  S  8
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 5,0,2,88,29,115,1216,249,58,43,138,80,29,32,275,29,52,62,120,38,14,13,118,26,9,18,45,31,1057,33,12,15,114,42,7,28,94,49,30,36,7,28,132,36,15,12,80,21,182,9,14,11,15,21,29,20,20,20,6,12,10,11
+[Auction "E"]
+Pass 1NT 2C X =1= 
+Pass =2= Pass Pass 
+[Note "1: values"]
+[Note "2: to play if m = C"]
+[Play "N"]
+D6 D3 DT DA 
+C2 C3 C9 C4 
+CA C5 CQ C6 
+D4 D9 DJ S6 
+D7 CJ CK C7 
+D8 S2 CT C8 
+DK H4 DQ H3 
+D2 S5 D5 H6 
+H2 H5 HK HA 
+SK SA S3 SQ 
+H7 H9 H8 HQ 
+S9 ST SJ S8 
+HJ S7 S4 HT 
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "30"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K9.J72.K87642.A2 AT752.954.93.J53 J43.K8.QJT5.KQT9 Q86.AQT63.A.8764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "65598655984884448844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  9
+N  C  8
+S NT  6
+S  S  5
+S  H  5
+S  D  9
+S  C  8
+E NT  4
+E  S  8
+E  H  8
+E  D  4
+E  C  4
+W NT  4
+W  S  8
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 21,3,1,86,247,143,532,88,228,97,291,39,101,57,239,70,20,25,882,33,29,30,84,30,11,17,24,22,25,87,20,57,16,30,18,24,15,82
+[Auction "E"]
+Pass 1D =1= 1H 2D =2= 
+2H 3D Pass 5D 
+Pass Pass Pass 
+[Note "1: nat up to 16 or 11-13 bal"]
+[Note "2: Inverted raise"]
+[Play "W"]
+HA H2 H9 H8 
+C8 C2 CJ CK 
+C6 CA C5 C9 
+H3 H7 H5 HK 
+C4 S9 C3 CT 
+C7 SK D3 CQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "31"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q94.42.98652.T85 KJ7632.J.QT7.AK9 A5.KQT965.K3.J73 T8.A873.AJ4.Q642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "11531115318c7ac8c7ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  3
+N  C  1
+S NT  1
+S  S  1
+S  H  5
+S  D  3
+S  C  1
+E NT  8
+E  S 12
+E  H  7
+E  D 10
+E  C 12
+W NT  8
+W  S 12
+W  H  7
+W  D 10
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,0,2,116,40,47,399,77,69,38,18,14,14,265,10,20,75,14,26,127,42,28,10,26,82,25,23,20,18,14,30,8,28,36,19,10,119,14
+[Auction "S"]
+1H Pass Pass 2S =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: intermediate"]
+[Play "S"]
+HK HA H4 HJ 
+SA ST S4 S2 
+HQ H3 H2 S3 
+D3 DJ D2 D7 
+S5 S8 S9 SJ 
+H6 H7 SQ SK 
+DK -  -  DQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "31"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q94.42.98652.T85 KJ7632.J.QT7.AK9 A5.KQT965.K3.J73 T8.A873.AJ4.Q642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "11531115318c7ac8c7ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  3
+N  C  1
+S NT  1
+S  S  1
+S  H  5
+S  D  3
+S  C  1
+E NT  8
+E  S 12
+E  H  7
+E  D 10
+E  C 12
+W NT  8
+W  S 12
+W  H  7
+W  D 10
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,3,1,186,118,86,212,174,50,48,22,28,37,161,20,26,43,43,33,29,68,26,24,37,148,40,19,55,25,36,23,11,20,19,15,47,22,17
+[Auction "S"]
+1H Pass Pass 2S =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * Intermedioate [0:08]"]
+[Play "S"]
+HK HA H2 HJ 
+SA ST S4 S2 
+HQ H3 H4 S3 
+D3 DJ D6 D7 
+S5 S8 S9 SJ 
+H5 H7 SQ SK 
+DK -  -  DQ 
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "32"]
+[West "David Kendrick#94543"]
+[North "Mike Hampton#429305"]
+[East "Roger Gibbons#75530"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T.954.K72.JT9843 J63.AT2.943.KQ75 Q954.KQJ83.AJT.2 AK872.76.Q865.A6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44757457579857598575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  5
+N  C  7
+S NT  4
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  9
+E  S  8
+E  H  5
+E  D  7
+E  C  5
+W NT  9
+W  S  8
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,2,431,35,92,102,60,64,30,33,25,33,133,190,12,12,374,21,12,27,15,39,12,9,48,30,10,25,15,32,12,197,15,35,66,12,4,23,24,27,4,170,16,13,23,51,14,4,10,18,12,33,13,190,26,6,12
+[Auction "W"]
+1S Pass 2S 3H 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+H5 HA H8 H6 
+ST S3 S4 SA 
+C3 S6 S5 SK 
+C4 C5 C2 CA 
+C8 CK S9 C6 
+C9 SJ SQ S2 
+H9 H2 HK H7 
+H4 HT HQ S7 
+D2 D3 DA DQ 
+CT C7 HJ S8 
+D7 D9 DT D5 
+-  -  H3 -  
+*
+
+[Event "20 Feb Crockfords Draper vs Golding"]
+[Site "RealBridge"]
+[Date "2024.02.20"]
+[Board "32"]
+[West "Anne Rosen#96384"]
+[North "Francis Morton#11330"]
+[East "Ian Draper#91338"]
+[South "Anthony Golding#99960"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T.954.K72.JT9843 J63.AT2.943.KQ75 Q954.KQJ83.AJT.2 AK872.76.Q865.A6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Golding team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44757457579857598575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  5
+N  C  7
+S NT  4
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  9
+E  S  8
+E  H  5
+E  D  7
+E  C  5
+W NT  9
+W  S  8
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 13,3,1,144,78,42,85,79,320,111,73,169,410,15,25,396,45,80,11,237,52,13,22,179,44,10,36,42,22,37,14,18,47,12,48,23,16,76,18,403,19,68,39,15,20,13,9,12,59,21,16,17,28,11,30,14,17,12,8,13,20,10,9
+[Auction "W"]
+1S Pass 2S 3H 
+3S Pass Pass Pass 
+[Play "N"]
+CJ C5 C2 CA 
+ST S3 S4 SA 
+H9 S6 S5 SK 
+C8 CQ S9 C6 
+C3 SJ SQ S2 
+H4 HA HK H6 
+C4 CK H3 H7 
+D7 D3 DT D5 
+H5 H2 HQ S7 
+D2 D9 DJ D6 
+C9 HT HJ S8 
+DK D4 DA D8 
+CT C7 H8 DQ 

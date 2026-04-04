@@ -1,0 +1,2974 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "1"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K82.AJ52.A43.KT8 Q654.98.65.J9762 A93.K764.KQJ72.Q JT7.QT3.T98.A543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "c9cc7c9cc71311513115"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C  7
+S NT 12
+S  S  9
+S  H 12
+S  D 12
+S  C  7
+E NT  1
+E  S  3
+E  H  1
+E  D  1
+E  C  5
+W NT  1
+W  S  3
+W  H  1
+W  D  1
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,0,3,823,72,436,95,320,89,21,35,503,38,378,552,41,19,12,51,17,37,30,21,39,7,20,27,10,14,16,28,24,22,13,23,36,19,37,88,16,25
+[Auction "N"]
+1NT Pass 3D Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+S4 SA SJ S2 
+C7 CQ CA C8 
+S5 S3 S7 SK 
+C2 S9 C5 CK 
+H8 HK H3 H2 
+H9 H4 HT HJ 
+D5 H6 HQ HA 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "1"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K82.AJ52.A43.KT8 Q654.98.65.J9762 A93.K764.KQJ72.Q JT7.QT3.T98.A543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "c9cc7c9cc71311513115"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C  7
+S NT 12
+S  S  9
+S  H 12
+S  D 12
+S  C  7
+E NT  1
+E  S  3
+E  H  1
+E  D  1
+E  C  5
+W NT  1
+W  S  3
+W  H  1
+W  D  1
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 22,2,1,737,50,606,117,154,88,615,133,160,16,166,330,84,27,107,32,406,26,146,60,51,16,346,104,25,15,42,171,18,12,193,14,8,31,9,12,10,25
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+3H Pass 3S Pass 
+3NT Pass 4C X 
+Pass Pass 4D Pass 
+4NT Pass 5H Pass 
+Pass Pass 
+[Play "E"]
+C6 CQ CA C8 
+S4 S3 SJ SK 
+H8 H4 H3 HA 
+H9 HK HT H2 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "2"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJT2.AT.AQJ965.2 76.542.K843.K974 43.KQ8763.T2.QT8 AQ985.J9.7.AJ653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "769a4769a56743867438"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D 10
+N  C  4
+S NT  7
+S  S  6
+S  H  9
+S  D 10
+S  C  5
+E NT  6
+E  S  7
+E  H  4
+E  D  3
+E  C  8
+W NT  6
+W  S  7
+W  H  4
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,71,53,111,412,108,17,37,151,237,72,52,89,25,72,18,849,29,15,6,58,34,14,6,67,146,31,7,13,32,9,22,14,35,8,17,26,21,7,19,7,18,7,32
+[Auction "E"]
+Pass 2H 2S 4H 
+Pass Pass Pass 
+[Play "W"]
+D7 D5 DK D2 
+H9 D6 D3 DT 
+SA S2 S6 S3 
+CA C2 C4 C8 
+C6 HA C7 CT 
+HJ HT H2 HQ 
+S8 ST H4 HK 
+S5 SK S7 S4 
+C3 DA D4 CQ 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "2"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJT2.AT.AQJ965.2 76.542.K843.K974 43.KQ8763.T2.QT8 AQ985.J9.7.AJ653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "769a4769a56743867438"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D 10
+N  C  4
+S NT  7
+S  S  6
+S  H  9
+S  D 10
+S  C  5
+E NT  6
+E  S  7
+E  H  4
+E  D  3
+E  C  8
+W NT  6
+W  S  7
+W  H  4
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,46,102,266,62,28,315,338,556,23,28,86,199,776,22,15,72,24,74,35,1302,35,9,13,62,21,5,17,31,168,19,18,229,29,9,20,20,21,7,57,12,9,14,23
+[Auction "E"]
+Pass 2D =1= Pass 2NT =2= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+D7 DJ DK D2 
+H9 D5 D3 DT 
+SA S2 S6 S4 
+CA C2 C4 C8 
+S8 SK S7 S3 
+HJ HA H2 H3 
+C6 DA D4 CT 
+S5 DQ D8 CQ 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "3"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT876.A53..AQT82 5.Q9.KJ98642.J75 2.KJT8762.T3.643 KQJ943.4.AQ75.K9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "66c4c66c4c3719137191"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 12
+N  D  4
+N  C 12
+S NT  6
+S  S  6
+S  H 12
+S  D  4
+S  C 12
+E NT  3
+E  S  7
+E  H  1
+E  D  9
+E  C  1
+W NT  3
+W  S  7
+W  H  1
+W  D  9
+W  C  1
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 22,0,3,286,376,74,73,19,102,34,149,18,47,131,40,15,540,94,167,21,36,271,130,75,34,75,19,30,24,531,30,40,17,26,28,8,20,19,16,18,35,27,19,21,15,17,38,7,37
+[Auction "S"]
+3H 3S 4H Pass 
+Pass X Pass 5D 
+Pass Pass 5H Pass 
+Pass Pass 
+[Play "W"]
+SK SA S5 S2 
+S3 S6 C7 H2 
+C9 CT CJ C3 
+D5 H3 D8 D3 
+H4 HA H9 H6 
+S4 H5 HQ HK 
+CK CA C5 C4 
+S9 CQ D2 C6 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "3"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT876.A53..AQT82 5.Q9.KJ98642.J75 2.KJT8762.T3.643 KQJ943.4.AQ75.K9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "66c4c66c4c3719137191"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 12
+N  D  4
+N  C 12
+S NT  6
+S  S  6
+S  H 12
+S  D  4
+S  C 12
+E NT  3
+E  S  7
+E  H  1
+E  D  9
+E  C  1
+W NT  3
+W  S  7
+W  H  1
+W  D  9
+W  C  1
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,222,258,156,36,26,25,73,84,55,12,64,34,40,90,23,111,22,28,155,111,14,54,116,166,32,23,35,45,17,32,48,30,11,14,25,20,7,23,56,20,24,10,20,83,16,6,14
+[Auction "S"]
+3H 4S X Pass 
+Pass Pass 
+[Play "N"]
+HA H9 H6 H4 
+H5 HQ HK S3 
+S6 S5 S2 SQ 
+SA D2 C6 SJ 
+H3 D4 HT S4 
+S7 D6 D3 DA 
+CA C5 C4 C9 
+C2 C7 C3 CK 
+S8 D8 H7 SK 
+ST D9 DT DQ 
+CQ -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "4"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT87.3.KJT643.J6 AJ42.T4.5.KQT753 953.KQJ9852.97.4 K6.A76.AQ82.A982"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1165111651cb78ccc78c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  6
+N  D  5
+N  C  1
+S NT  1
+S  S  1
+S  H  6
+S  D  5
+S  C  1
+E NT 12
+E  S 11
+E  H  7
+E  D  8
+E  C 12
+W NT 12
+W  S 12
+W  H  7
+W  D  8
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,177,50,206,53,345,37,158,35,267,40,27,13,786,434,31,25,33,26,159,50,131
+[Auction "W"]
+1D Pass 2C 2H 
+3H =1= Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+H3 H4 H9 H6 
+D6 HT HJ H7 
+-  -  S5 -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "4"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT87.3.KJT643.J6 AJ42.T4.5.KQT753 953.KQJ9852.97.4 K6.A76.AQ82.A982"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1165111651cb78ccc78c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  6
+N  D  5
+N  C  1
+S NT  1
+S  S  1
+S  H  6
+S  D  5
+S  C  1
+E NT 12
+E  S 11
+E  H  7
+E  D  8
+E  C 12
+W NT 12
+W  S 12
+W  H  7
+W  D  8
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 20,2,1,196,326,771,220,776,36,64,161,96,45,88,19,26,39,207,107,30,13,256,18,19,38,15,20,16,27,28,31,20,9,18,27,15,110,23,26,10,10
+[Auction "W"]
+1C 2D 5C Pass 
+Pass Pass 
+[Play "N"]
+H3 H4 H8 HA 
+C6 CK C4 C2 
+CJ C3 H5 CA 
+D3 D5 D7 DA 
+D4 C5 D9 D2 
+S7 S2 S5 SK 
+DT CT H2 D8 
+S8 SA S3 S6 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "5"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK43.A2.73.KQ982 .QJT9763.QJ5.T64 Q9652.4.AK2.J753 JT87.K85.T9864.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6b46b6b46a3297232972"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  4
+N  D  6
+N  C 11
+S NT  6
+S  S 11
+S  H  4
+S  D  6
+S  C 10
+E NT  3
+E  S  2
+E  H  9
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  9
+W  D  7
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 23,0,3,104,191,99,105,687,107,77,43,527,71,84,12,53,130,153,26,34,35,27,32,137,32,131,15,13,37,9,15,12,42,9,46,18,353,23,18,14
+[Auction "N"]
+1C 3H 3S 4H 
+5S Pass Pass Pass 
+[Play "W"]
+H5 HA HQ H4 
+S7 SA H3 S2 
+CA CK C6 C3 
+HK H2 H6 S5 
+S8 SK H7 S6 
+ST S3 HT SQ 
+D6 C2 C4 CJ 
+-  -  -  C7 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "5"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK43.A2.73.KQ982 .QJT9763.QJ5.T64 Q9652.4.AK2.J753 JT87.K85.T9864.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6b46b6b46a3297232972"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  4
+N  D  6
+N  C 11
+S NT  6
+S  S 11
+S  H  4
+S  D  6
+S  C 10
+E NT  3
+E  S  2
+E  H  9
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  9
+W  D  7
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,129,162,1630,179,298,29,194,74,24,8,80,260,29,12,72,149,41,30,218,25,10,29,456
+[Auction "N"]
+1NT 2D =1= 3S Pass 
+4C Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+H5 HA H6 H4 
+S7 SK H7 S2 
+CA CK C6 C5 
+DT -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "6"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J9.JT6.AK8432.72 AK43.AK874.97.Q9 T876.Q.J65.AT854 Q52.9532.QT.KJ63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "75496754966894768947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  4
+N  D  9
+N  C  6
+S NT  7
+S  S  5
+S  H  4
+S  D  9
+S  C  6
+E NT  6
+E  S  8
+E  H  9
+E  D  4
+E  C  7
+W NT  6
+W  S  8
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,173,58,52,67,67,45,155,300,28,37,30,51,20,12,23,48,17,25,23,59,26,24,15,64,38,19,26,35,17,11,23,21,28,8,9,33,8
+[Auction "E"]
+1H Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+S8 S2 SJ SA 
+HQ H2 H6 HA 
+S7 H3 HT HK 
+CA C3 C7 CQ 
+ST S5 S9 SK 
+C4 CK C2 C9 
+C5 CJ HJ D7 
+D6 -  DA D9 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "6"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J9.JT6.AK8432.72 AK43.AK874.97.Q9 T876.Q.J65.AT854 Q52.9532.QT.KJ63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "75496754966894768947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  4
+N  D  9
+N  C  6
+S NT  7
+S  S  5
+S  H  4
+S  D  9
+S  C  6
+E NT  6
+E  S  8
+E  H  9
+E  D  4
+E  C  7
+W NT  6
+W  S  8
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 16,2,1,214,95,163,230,134,321,94,31,58,31,68,86,75,241,15,344,27,73,13,12,15,16,8,13,25,11,16,334,22,11,14,15,11,12,11,91,21,7,23,11,30,8,7,76,28,7,6,74,45,11,11
+[Auction "E"]
+1H Pass 3C =1= 3D 
+3H 4C Pass 4D 
+Pass Pass Pass 
+[Play "E"]
+HK HQ H2 H6 
+SA S6 S2 S9 
+SK S7 S5 SJ 
+S3 S8 SQ D2 
+D7 D5 DT DA 
+D9 D6 DQ DK 
+C9 CA C3 C2 
+S4 ST H5 C7 
+CQ C4 CK D3 
+H4 C5 H3 HT 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "7"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ65.985.J8.K542 KQ972.KQ63.93.86 83.A742.AK7652.3 T4.JT.QT4.AQJT97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "75785757856855868558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  5
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  8
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  8
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,148,85,60,155,54,47,127,339,82,483,42,10,331,64,36,11,65,24,48,14,10,21,15,24,17,25,22,13,15,30,9,20,36,102,26,13,47,25,13,10,108,36,8,74,21,26,17,8,14,14,27,26,9,17,14,14,18,14,7,11
+[Auction "S"]
+1D 2C X 2S 
+3D Pass Pass Pass 
+[Play "W"]
+ST SJ SQ S3 
+HT H5 HK H4 
+S4 SA SK S8 
+D4 D8 D3 DK 
+DT DJ D9 DA 
+HJ H8 H3 HA 
+CA C2 C6 C3 
+CQ CK C8 H2 
+DQ S5 S7 D2 
+CJ C4 S2 D5 
+C7 C5 S9 D7 
+C9 H9 H6 D6 
+CT S6 HQ H7 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "7"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ65.985.J8.K542 KQ972.KQ63.93.86 83.A742.AK7652.3 T4.JT.QT4.AQJT97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "75785757856855868558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  5
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  8
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  8
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,184,169,132,114,252,96,439,34,203,178,31,134,32,44,29,73,12,14,127,19,8,20,14,26,8,6,26,16,15,12,42,49,10,16,16,34,16,25,21,25,39,9,14,28,57,13,12
+[Auction "S"]
+1D 2C X 2S 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+C8 C3 C9 C2 
+C6 H2 CQ CK 
+D3 DA D4 D8 
+D9 DK DT DJ 
+S2 D7 DQ S5 
+H3 H4 CA C4 
+S7 H7 CJ C5 
+H6 S3 CT S6 
+HQ D2 C7 H5 
+-  -  ST -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "8"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A92.T.Q965.AT953 KJ6.A9873.K7.QJ7 QT854.Q5.AJT4.64 73.KJ642.832.K82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "6a4a86a4a86393463934"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D 10
+N  C  8
+S NT  6
+S  S 10
+S  H  4
+S  D 10
+S  C  8
+E NT  6
+E  S  3
+E  H  9
+E  D  3
+E  C  4
+W NT  6
+W  S  3
+W  H  9
+W  D  3
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 8,0,3,75,51,115,276,115,35,41,26,139,384,1037,38,22,10,42,98,45,41,41,19,8,31,24,21,93,499,25,12,36,23,26,14,28,16,23,14,24,15,27,14,15
+[Auction "W"]
+Pass Pass 1NT 2H =1= 
+Pass 2S =2= Pass Pass 
+Pass 
+[Play "E"]
+CQ C4 C8 CA 
+H8 HQ HK HT 
+C7 C6 CK C3 
+CJ S4 C2 C5 
+H3 H5 H2 S2 
+DK DA D3 DQ 
+S6 S5 S3 SA 
+SK S8 S7 S9 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "8"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A92.T.Q965.AT953 KJ6.A9873.K7.QJ7 QT854.Q5.AJT4.64 73.KJ642.832.K82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "6a4a86a4a86393463934"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D 10
+N  C  8
+S NT  6
+S  S 10
+S  H  4
+S  D 10
+S  C  8
+E NT  6
+E  S  3
+E  H  9
+E  D  3
+E  C  4
+W NT  6
+W  S  3
+W  H  9
+W  D  3
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,152,64,57,84,71,75,183,54,222,33,212,106,19,20,475,84,47,30,696,28,77,10,100,16,70,8,105,12,8,9,45,25,20,15,19,22,10,24
+[Auction "W"]
+Pass Pass 1NT Pass 
+2D Pass 2NT =1= Pass 
+3D Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+S5 S3 SA S6 
+DA D2 D6 DK 
+DJ D3 D9 D7 
+D4 D8 DQ H3 
+H5 HK HT H7 
+HQ H2 C3 HA 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "9"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ7.6.KQ2.JT8652 932.JT3.AJ65.KQ4 AQ54.A9842.943.A T86.KQ75.T87.973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "7a88a7a8896354363543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  8
+N  D  8
+N  C 10
+S NT  7
+S  S 10
+S  H  8
+S  D  8
+S  C  9
+E NT  6
+E  S  3
+E  H  5
+E  D  4
+E  C  3
+W NT  6
+W  S  3
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 6,2,1,179,26,64,93,92,29,100,35,425,29,254,742,58,17,21,45,12,8,522,38,12,10,9,19,9,6,15,18,14,16,20,23,21,7,26,27,10,27,24,15,11,15,210,20,12,11,8,16,25,12,23,61,10,7,33,13,9,9,9,9,13,9
+[Auction "N"]
+Pass Pass 1H Pass 
+1NT =1= Pass 2D Pass 
+Pass Pass 
+[Play "W"]
+S8 S7 S9 SA 
+C7 C2 C4 CA 
+H5 H6 HT HA 
+H7 D2 H3 H2 
+C3 C5 CQ D3 
+HQ DQ HJ H4 
+ST SJ S2 SQ 
+HK DK DA H8 
+D7 C6 DJ D4 
+DT C8 D5 D9 
+D8 CT D6 S4 
+C9 CJ CK S5 
+S6 SK S3 H9 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "9"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ7.6.KQ2.JT8652 932.JT3.AJ65.KQ4 AQ54.A9842.943.A T86.KQ75.T87.973"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "7a88a7a8896354363543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  8
+N  D  8
+N  C 10
+S NT  7
+S  S 10
+S  H  8
+S  D  8
+S  C  9
+E NT  6
+E  S  3
+E  H  5
+E  D  4
+E  C  3
+W NT  6
+W  S  3
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 9,0,3,395,59,49,58,260,33,85,34,481,39,688,39,158,983,48,20,19,34,14,17,14,19,17,24,31,36,11,28,168,322,29,10,312,33,58,9,777,35,25,168,19,30,9,19,11,21,6,20,33,70,22,19,340,20,17,25
+[Auction "N"]
+Pass Pass 1H Pass 
+2C Pass 2H Pass 
+2NT Pass Pass Pass 
+[Play "E"]
+S3 S4 ST SK 
+C4 CA C7 C2 
+D5 D3 D7 DQ 
+CK H2 C3 CJ 
+HJ H4 H5 H6 
+H3 H8 HQ C5 
+HT HA H7 C6 
+S9 S5 S6 SJ 
+S2 SQ S8 S7 
+D6 SA C9 C8 
+DA D4 D8 DK 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "10"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T4.AQT3.6542.T97 QJ83.J74.J973.J5 765.962.Q8.AKQ43 AK92.K85.AKT.862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "54758547586958569585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  5
+N  C  8
+S NT  5
+S  S  4
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,55,267,153,39,38,150,33,118,19,247,104,177,97,205,12,53,17,44,10,95,20,58,16,12,14,37,12,28,17,12,9,34,20,20,12,41,14,12,37,13,47,11,23,36
+[Auction "E"]
+Pass 1C X 1D =1= 
+Pass 1H Pass 1NT =2= 
+Pass Pass Pass 
+[Play "E"]
+D3 DQ DK D4 
+D7 D8 DA D5 
+DJ H2 DT D6 
+D9 S5 S2 D2 
+S3 S6 SK S4 
+S8 S7 SA ST 
+SJ H6 S9 H3 
+SQ C3 C8 HT 
+H4 -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "10"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T4.AQT3.6542.T97 QJ83.J74.J973.J5 765.962.Q8.AKQ43 AK92.K85.AKT.862"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "54758547586958569585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  5
+N  C  8
+S NT  5
+S  S  4
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 5,0,3,122,169,110,44,129,73,59,25,41,97,40,51,20,804,33,22,18,195,31,54,30,46,24,15,6,57,31,12,48,85,21,16,29,31,34,31,35,49,25,17,48,46,31,22,17,19,19,10,24,23,13,49,7,20,12,14,16,16,15,6,16
+[Auction "E"]
+Pass 1C X 1H 
+Pass 2C Pass Pass 
+Pass 
+[Play "W"]
+SK S4 SQ S5 
+S2 ST SJ S6 
+DT D2 D9 D8 
+DK D4 D7 DQ 
+DA D5 D3 C3 
+S9 C7 S3 S7 
+C2 CT C5 C4 
+C6 C9 CJ CQ 
+C8 H3 S8 CK 
+H5 HT HJ H2 
+SA D6 DJ CA 
+H8 HQ H4 H6 
+HK HA H7 H9 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "11"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT542.Q743.KT3.4 J9.AKJ.Q87652.QT Q7.T95.J4.AK9765 A863.862.A9.J832"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "46646466468669786697"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  6
+S NT  4
+S  S  6
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  7
+W NT  8
+W  S  6
+W  H  6
+W  D  9
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 11,2,1,149,121,42,212,131,71,736,262,89,14,9,1099,19,14,10,51,28,27,12,44,20,20,16,15,14,19,11,91,49,18,9,55,58,11,24,24,25,33,12
+[Auction "S"]
+1C Pass 1H 3D 
+Pass Pass Pass 
+[Play "S"]
+CK C2 C4 CT 
+C7 C3 D3 CQ 
+HT H2 H3 HA 
+D4 DA DT D2 
+DJ D9 DK D5 
+H5 H6 H4 HJ 
+S7 SA S2 S9 
+H9 H8 HQ HK 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "11"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT542.Q743.KT3.4 J9.AKJ.Q87652.QT Q7.T95.J4.AK9765 A863.862.A9.J832"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "46646466468669786697"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  6
+S NT  4
+S  S  6
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  7
+W NT  8
+W  S  6
+W  H  6
+W  D  9
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 13,0,3,113,83,39,135,52,78,122,41,37,39,167,285,31,10,559,90,30,40,293,37,36,31,10,40,15,30,81,17,22,7,170,22,65,22,274,426,227,23,33,11,24,13,10,26,19,29,24,221,31,9,20,17,8,14,9,14,6,13,6,14,5,14
+[Auction "S"]
+Pass Pass 1S 2D 
+3C Pass 3S Pass 
+Pass Pass 
+[Play "E"]
+HK H5 H8 H3 
+CQ CA C2 C4 
+CT CK C3 D3 
+HJ HT H2 H4 
+HA H9 H6 H7 
+D6 D4 DA DT 
+S9 C5 C8 HQ 
+D2 DJ D9 DK 
+SJ SQ SA S2 
+D5 C6 CJ S4 
+D7 S7 S3 SK 
+D8 C7 S6 ST 
+DQ C9 S8 S5 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "12"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J.A9.QJT853.J762 97.JT7432.964.Q3 AKQT8.K6.K72.AT8 65432.Q85.A.K954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bb6aabb6aa1171211712"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  6
+N  D 10
+N  C 10
+S NT 11
+S  S 11
+S  H  6
+S  D 10
+S  C 10
+E NT  1
+E  S  1
+E  H  7
+E  D  1
+E  C  2
+W NT  1
+W  S  1
+W  H  7
+W  D  1
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,2,1,365,65,65,82,39,33,21,599,126,28,21,201,35,55,11,284,21,240
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 1NT =1= Pass 2C =2= 
+Pass 2D =3= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+H4 -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "12"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J.A9.QJT853.J762 97.JT7432.964.Q3 AKQT8.K6.K72.AT8 65432.Q85.A.K954"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bb6aabb6aa1171211712"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  6
+N  D 10
+N  C 10
+S NT 11
+S  S 11
+S  H  6
+S  D 10
+S  C 10
+E NT  1
+E  S  1
+E  H  7
+E  D  1
+E  C  2
+W NT  1
+W  S  1
+W  H  7
+W  D  1
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,123,39,103,419,167,17,26,293,186,45,14,29,26,23,28,42,28,29,22,28,41,10,42,12,24,9,59,52,20,14,38,11,21,15,37,11
+[Auction "W"]
+Pass Pass 2H 3NT 
+Pass Pass Pass 
+[Play "W"]
+H5 H9 HT HK 
+DA D3 D9 DK 
+HQ HA H4 H6 
+S5 SJ S7 S8 
+C4 DQ D4 D2 
+C5 DJ D6 D7 
+S2 DT S9 C8 
+-  D8 -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "13"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT84.976.AJT.752 AQ962.KJT5..JT84 75.Q843.K9873.96 K3.A2.Q6542.AKQ3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -1370"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "3135031350aca8daca8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  5
+N  C  0
+S NT  3
+S  S  1
+S  H  3
+S  D  5
+S  C  0
+E NT 10
+E  S 12
+E  H 10
+E  D  8
+E  C 13
+W NT 10
+W  S 12
+W  H 10
+W  D  8
+W  C 13
+[OptimumScore "NS -2140"]
+[Competition "Teams"]
+% RBDATA 25,2,1,216,40,85,400,33,64,177,158,35,158,39,170,109,12,55,522,349,22,33,482,34,17,15,37,20,28,26,62,24,15,11,32,23,21,24,360,28,16,20,145,26,12,9,33,16,26,17,19,113,51,17,66,133,46,10
+[Auction "N"]
+Pass 1S Pass 2C 
+Pass 3C Pass 3H 
+Pass 4H Pass 6C 
+Pass Pass Pass 
+[Play "N"]
+DA C4 D7 D4 
+S4 S2 S5 SK 
+DT C8 D3 D5 
+H9 H5 H3 HA 
+DJ CT D8 D6 
+S8 SA S7 S3 
+H7 HK H4 H2 
+H6 HT H8 C3 
+SJ CJ D9 D2 
+ST SQ C9 CQ 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "13"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT84.976.AJT.752 AQ962.KJT5..JT84 75.Q843.K9873.96 K3.A2.Q6542.AKQ3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "3135031350aca8daca8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  5
+N  C  0
+S NT  3
+S  S  1
+S  H  3
+S  D  5
+S  C  0
+E NT 10
+E  S 12
+E  H 10
+E  D  8
+E  C 13
+W NT 10
+W  S 12
+W  H 10
+W  D  8
+W  C 13
+[OptimumScore "NS -2140"]
+[Competition "Teams"]
+% RBDATA 19,0,3,57,173,45,121,56,32,23,438,106,79,25,1610,33,460,27,735,999,56,31,53,48,67,9,73,34,20,34,43,88,42,26,991,29,25,10,22,16,30,7,29,18,32,14,1696,33,22,37,22,32,21,16,38,51,44,29,90,15,6,12,10,17,46,17,21,16,7,11
+[Auction "N"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3C 
+Pass 4C Pass 4NT 
+Pass Pass Pass 
+[Play "N"]
+C5 C4 C9 CK 
+C7 C8 C6 CQ 
+C2 CT D3 C3 
+H6 CJ H4 CA 
+S4 S2 S5 SK 
+ST SA S7 S3 
+S8 SQ D7 D2 
+H9 H5 H3 HA 
+H7 HT HQ H2 
+DA S6 D9 DQ 
+SJ S9 H8 D4 
+DJ HJ D8 D5 
+DT HK DK D6 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "14"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:.AQJ9863.JT74.A4 6542..AKQ2.QJT53 AKJT987.T54..962 Q3.K72.98653.K87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "13"]
+[Score "NS 260"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "5dd354cd3500088500a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 13
+N  H 13
+N  D  3
+N  C  5
+S NT  4
+S  S 12
+S  H 13
+S  D  3
+S  C  5
+E NT  0
+E  S  0
+E  H  0
+E  D  8
+E  C  8
+W NT  5
+W  S  0
+W  H  0
+W  D 10
+W  C  7
+[OptimumScore "NS +1510"]
+[Competition "Teams"]
+% RBDATA 13,2,1,83,197,161,32,50,127,932,49,113,584,31,13,69,20,20,18,7,39,19,21,7,156,70,16,7,19,32,20,7,862,36,13,7
+[Auction "E"]
+1C 3S Pass Pass 
+Pass 
+[Play "W"]
+C7 CA CT C2 
+D3 D4 DQ S7 
+S3 H3 S2 SA 
+SQ H8 S4 SK 
+D5 C4 S5 SJ 
+D6 D7 S6 ST 
+H2 H6 C3 HT 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "14"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:.AQJ9863.JT74.A4 6542..AKQ2.QJT53 AKJT987.T54..962 Q3.K72.98653.K87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "5dd354cd3500088500a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 13
+N  H 13
+N  D  3
+N  C  5
+S NT  4
+S  S 12
+S  H 13
+S  D  3
+S  C  5
+E NT  0
+E  S  0
+E  H  0
+E  D  8
+E  C  8
+W NT  5
+W  S  0
+W  H  0
+W  D 10
+W  C  7
+[OptimumScore "NS +1510"]
+[Competition "Teams"]
+% RBDATA 17,0,3,278,41,120,601,39,14,72,103,344,72,18,22,21,8,29,19,17,16,20,378,736,35,57,42,55,24,23,33,19,140,21,13,48,6,20,3
+[Auction "E"]
+1C 3S Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+DA H4 D3 D4 
+S2 SA S3 C4 
+S4 SK SQ D7 
+S5 SJ C7 DT 
+S6 ST C8 DJ 
+CT HT H2 HA 
+D2 H5 HK HQ 
+-  -  H7 -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "15"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K65.876.KQT62.QT AT84.KQT92.5.K86 Q97.5.94.A975432 J32.AJ43.AJ873.J"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "542685426879a7579a74"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  2
+N  D  6
+N  C  8
+S NT  5
+S  S  4
+S  H  2
+S  D  6
+S  C  8
+E NT  7
+E  S  9
+E  H 10
+E  D  7
+E  C  5
+W NT  7
+W  S  9
+W  H 10
+W  D  7
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,236,120,53,27,33,109,35,101,110,18,17,487,186,25,21,180,27,8,26,10,16,13,76,133,140,10,7,27,38,18,7,38,20,7,14,254,19,35,30,35,27,30,11,16,24,11,11,11,12,8,33,8,20,8,6,8,12,9,8,11,8,7,10
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+S7 S2 SK SA 
+H5 HA H7 H2 
+C4 H3 H6 HK 
+C3 H4 H8 HQ 
+SQ S3 S5 S4 
+S9 SJ S6 S8 
+CA CJ CQ CK 
+D9 DA D6 D5 
+D4 D3 DT H9 
+C2 D7 D2 ST 
+C7 HJ CT C6 
+C5 D8 DQ HT 
+C9 DJ DK C8 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "15"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K65.876.KQT62.QT AT84.KQT92.5.K86 Q97.5.94.A975432 J32.AJ43.AJ873.J"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "542685426879a7579a74"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  2
+N  D  6
+N  C  8
+S NT  5
+S  S  4
+S  H  2
+S  D  6
+S  C  8
+E NT  7
+E  S  9
+E  H 10
+E  D  7
+E  C  5
+W NT  7
+W  S  9
+W  H 10
+W  D  7
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,182,143,35,54,17,56,38,119,86,73,24,769,527,31,14,32,28,40,18,23,49,36,720,81,41,15,18,214,26,44,45,103,37,22,24,42,22,18,180,52,27,14,8,22,17,15,11,22,18,13,6,21,19,19,5,14,24,4,24,15,17,17,23
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+D9 DA D6 D5 
+CA CJ CQ CK 
+D4 D3 DT H2 
+C2 H3 CT C6 
+S9 S2 S5 S8 
+S7 S3 SK SA 
+C9 HJ S6 C8 
+H5 HA H6 H9 
+C3 H4 H7 HK 
+C4 D7 H8 HQ 
+SQ SJ D2 S4 
+C7 D8 DQ HT 
+C5 DJ DK ST 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "16"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:976.QJ.KQJT95.J7 AJ852.42.A8.AKT3 4.KT9876.73.Q964 KQT3.A53.642.852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "43764437649a6799a679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  4
+S NT  4
+S  S  3
+S  H  7
+S  D  6
+S  C  4
+E NT  9
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S 10
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,134,38,111,59,50,26,25,37,122,290,23,12,23,34,9,14,59,16,8,71,80,107,12,13,30,32,7,10,9,59,10,8,12,22,11,19
+[Auction "W"]
+Pass 3D 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+D7 D2 D9 DA 
+S4 SK S6 S2 
+H6 S3 S7 SJ 
+H7 ST S9 SA 
+C4 C2 C7 CA 
+C6 C5 CJ CK 
+C9 C8 DT C3 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "16"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:976.QJ.KQJT95.J7 AJ852.42.A8.AKT3 4.KT9876.73.Q964 KQT3.A53.642.852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "43764437649a6799a679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  4
+S NT  4
+S  S  3
+S  H  7
+S  D  6
+S  C  4
+E NT  9
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S 10
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,0,3,113,78,57,43,88,32,112,26,77,218,34,26,38,23,13,6,51,22,12,8,180,23,13,9,12,27,12,25,15,27,14,11,25,26,17,6,32,26,11,27,17,30,22,13
+[Auction "W"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "S"]
+HT HA HJ H2 
+S4 SQ S6 S2 
+H6 SK S7 S5 
+H7 ST S9 S8 
+C6 C2 C7 CA 
+C4 C5 CJ CK 
+C9 C8 DK C3 
+D7 D2 D9 DA 
+CQ S3 D5 CT 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "17"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9652.QT9.J3.J32 .AK82.KQ42.AT976 KJ7.J74.A86.KQ85 QT843.653.T975.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "76446764466789767896"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H  4
+S  D  4
+S  C  6
+E NT  6
+E  S  7
+E  H  8
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  8
+W  D  9
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,2,1,188,49,208,124,39,88,56,29,145,60,58,11,701,31,19,8,37,13,11,12,268,22,258,34,41,58,21,18,219,24,9,27,42,15,53,9,23,16,18,26,49,21,9,68,47,59,9,12,17,28
+[Auction "N"]
+Pass 1C X Pass 
+2S Pass Pass Pass 
+[Play "E"]
+HK H4 H6 HT 
+HA H7 H3 H9 
+H2 HJ H5 HQ 
+C7 SJ SQ S2 
+DQ DA DT DJ 
+CA C5 C4 CJ 
+DK D6 D7 D3 
+D2 D8 D9 S5 
+C6 CK S3 C2 
+D4 S7 D5 C3 
+-  SK S4 -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "17"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9652.QT9.J3.J32 .AK82.KQ42.AT976 KJ7.J74.A86.KQ85 QT843.653.T975.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "76446764466789767896"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H  4
+S  D  4
+S  C  6
+E NT  6
+E  S  7
+E  H  8
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  8
+W  D  9
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,0,3,403,371,88,65,41,129,115,47,25,488,53,536,28,34,204,66,20,42,110,1152,38,11,15,21,14,89,77,51,17,17,189,24,25,10,110,27,27,12,43,32,22,8,33,105,33,7,82,22,22,8,16,23,16,19,505,40,14,23,16,21,33,19,14,45,6,21,6,11,7,12
+[Auction "N"]
+Pass 1C Pass Pass 
+1S X 2S Pass 
+Pass X Pass 3D 
+Pass Pass 3S Pass 
+Pass Pass 
+[Play "E"]
+DK DA D5 D3 
+D4 S7 S3 SA 
+CA C5 C4 C2 
+DQ D6 D7 DJ 
+HA H4 H6 H9 
+HK H7 H5 HQ 
+CT CK S4 C3 
+H2 HJ H3 HT 
+D2 D8 D9 S2 
+C7 C8 S8 CJ 
+C6 CQ DT S5 
+H8 SK ST S6 
+C9 SJ SQ S9 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "18"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.AQ853.QJ94.76 J53.J7642.AT63.T KQ9864.KT..KJ954 72.9.K8752.AQ832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "9"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "9a7489a8584348433484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D  4
+N  C  8
+S NT  9
+S  S 10
+S  H  8
+S  D  5
+S  C  8
+E NT  4
+E  S  3
+E  H  4
+E  D  8
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 23,2,1,50,244,153,708,84,383,56,136,15,142,937,168,22,1063,39,22,9,17,41,24,26,744,232,32,52,323,37,12,20,93,19,16,13,23,11,23,11,44,25,151,16,26,42,11,4,19,27,9,7,50,15,17,13,28,21,16,6,16,21,5,8
+[Auction "E"]
+Pass 1S 2NT =1= 3D =2= 
+5D 5S Pass Pass 
+Pass 
+[Play "W"]
+D5 D4 D3 S4 
+H9 H3 H6 HK 
+S2 H5 H2 HT 
+D2 D9 DT S6 
+S7 SA S3 S8 
+C2 HA H4 C4 
+C3 HQ H7 C5 
+D7 ST S5 SQ 
+C8 H8 SJ SK 
+CA C6 CT CK 
+D8 DJ DA S9 
+CQ C7 D6 C9 
+DK DQ HJ CJ 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "18"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.AQ853.QJ94.76 J53.J7642.AT63.T KQ9864.KT..KJ954 72.9.K8752.AQ832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "9a7489a8584348433484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D  4
+N  C  8
+S NT  9
+S  S 10
+S  H  8
+S  D  5
+S  C  8
+E NT  4
+E  S  3
+E  H  4
+E  D  8
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,1058,83,114,44,30,28,25,155,45,54,37,36,24,15,20,208,204,298,41,590,33,13,22,11,18,15,23,33,26,21,87,1305,24,45,44,39,189,27,19,36,731,20,32,117,22,11,16,18,24,8,32,17,41,8,16,18,28,18,21,17
+[Auction "E"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3D 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+H9 H3 H6 HT 
+S2 ST S3 SQ 
+S7 SA S5 S4 
+CQ C6 CT CJ 
+D5 DJ DA S6 
+D7 D4 SJ SK 
+C2 C7 D6 C4 
+D2 HA H2 HK 
+C3 HQ H4 C5 
+D8 D9 DT S8 
+CA H5 H7 C9 
+DK -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "19"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K5.AKT73.A32.763 QJ964..Q954.AKQ8 32.Q8652.J87.J42 AT87.J94.KT6.T95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "62734627346b6996b699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  7
+N  D  3
+N  C  4
+S NT  6
+S  S  2
+S  H  7
+S  D  3
+S  C  4
+E NT  6
+E  S 11
+E  H  6
+E  D  9
+E  C  9
+W NT  6
+W  S 11
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,272,132,57,35,118,257,109,621,74,62,53,69,455,22,20,46,26,62,17,254,35,24,20,265,33,48,11,39,33,23,7,80,19,43,41
+[Auction "S"]
+Pass Pass 1H 1S 
+2H 3S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+S3 S7 SK S4 
+H5 H4 HK S6 
+D8 DK DA D4 
+C4 C5 C7 CA 
+S2 ST S5 S9 
+DJ DT D2 D5 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "19"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K5.AKT73.A32.763 QJ964..Q954.AKQ8 32.Q8652.J87.J42 AT87.J94.KT6.T95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "62734627346b6996b699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  7
+N  D  3
+N  C  4
+S NT  6
+S  S  2
+S  H  7
+S  D  3
+S  C  4
+E NT  6
+E  S 11
+E  H  6
+E  D  9
+E  C  9
+W NT  6
+W  S 11
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 8,0,3,179,42,77,216,24,532,50,18,400,29,32,35,31,29,34,75,43,32,20,228,38,22,28,26,23,15,10,113,29,17,15,19,14,15,5,17,33,15,10,21,10,15,17,14
+[Auction "S"]
+Pass Pass 1NT 2S =1= 
+Pass Pass Pass 
+[Play "S"]
+H5 H4 HK S4 
+S2 S7 SK SJ 
+C2 C5 C7 CA 
+S3 SA S5 S6 
+D7 D6 D2 DQ 
+C4 C9 C6 CK 
+CJ CT C3 CQ 
+H2 DT H3 C8 
+D8 DK DA D4 
+-  -  H7 -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "20"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:954.K8642.J.AT74 QJT.97.K8432.J86 A762.QJ3.AQT6.93 K83.AT5.975.KQ52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "88977889775546655466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  8
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 2,2,1,317,41,36,169,67,31,34,34,80,45,61,516,375,18,34,157,32,21,21,19,21,23,23,140,26,12,19,47,27,10,7,32,31,12,6,64,9,15,16,138,37,13,8,69,16,17,15,153,20,16,7,37,14,13,32,22,59,8,19,8,6,8,14
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1H 
+Pass Pass Pass 
+[Play "W"]
+D7 DJ DK DA 
+C2 C4 CJ C9 
+S3 S4 SQ SA 
+D9 S5 D3 DT 
+D5 S9 D2 DQ 
+CQ CA C6 C3 
+C5 C7 C8 H3 
+S8 H2 ST S2 
+CK CT H7 HJ 
+SK H4 SJ S6 
+HA H6 H9 HQ 
+H5 HK D4 D6 
+HT H8 D8 S7 
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "20"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:954.K8642.J.AT74 QJT.97.K8432.J86 A762.QJ3.AQT6.93 K83.AT5.975.KQ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "3"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "88977889775546655466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  8
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,131,89,132,66,41,477,15,24,17,21,106,20,18,29,33,43,288,36,22,17,77,29,21,28,109,31,19,32,13,58,11,67,22,66,8,34,15,61,17,18,25,45,12,16,10,30,16,49
+[Auction "W"]
+1NT =1= Pass Pass Pass 
+[Play "N"]
+H4 H7 HJ H5 
+H2 H9 HQ HT 
+H6 D2 H3 HA 
+C7 CJ C9 C5 
+S4 ST S7 S8 
+CA C6 C3 CK 
+HK D3 S2 D5 
+H8 C8 S6 D7 
+DJ DK DA D9 
+S5 SJ SA SK 
+S9 D4 DQ C2 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "21"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:4.AKQ96.652.KJ73 AKJ863.84.QJ7.Q8 T.J532.AK843.AT9 Q9752.T7.T9.6542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "76bbb76bbb2712227122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 11
+N  D 11
+N  C 11
+S NT  7
+S  S  6
+S  H 11
+S  D 11
+S  C 11
+E NT  2
+E  S  7
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  7
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 27,2,1,125,60,557,236,232,23,220,57,17,868,46,104,50,22,47,32,25,37,229,22,12,13,63,22,15,29,64,25,24
+[Auction "N"]
+1H 1S 3S =1= 4S 
+5H Pass 6H Pass 
+Pass Pass 
+[Play "E"]
+SA ST S7 S4 
+H4 H2 HT HQ 
+H8 H3 H7 HA 
+D7 D8 D9 D5 
+CQ -  C5 C3 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "21"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:4.AKQ96.652.KJ73 AKJ863.84.QJ7.Q8 T.J532.AK843.AT9 Q9752.T7.T9.6542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "76bbb76bbb2712227122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 11
+N  D 11
+N  C 11
+S NT  7
+S  S  6
+S  H 11
+S  D 11
+S  C 11
+E NT  2
+E  S  7
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  7
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 22,0,3,107,56,36,172,387,37,191,42,51,139,93,158,58,25,262,131,36,20,96,21,12,24,27,31,9,15,14,16,7,14,15,16,14,19,157
+[Auction "N"]
+1H 1S 2NT =1= 4S 
+Pass Pass 5H Pass 
+Pass Pass 
+[Play "E"]
+SA ST S5 S4 
+H4 H2 HT HQ 
+H8 H3 H7 HA 
+D7 DA D9 D2 
+DJ DK DT D5 
+DQ D3 S2 D6 
+C8 -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "22"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T92.A84.843.AQ74 Q843.Q9.J952.852 KJ6.KT7.KQT.KT93 A75.J6532.A76.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "a999aa999a3444334443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H  9
+S  D  9
+S  C 10
+E NT  3
+E  S  4
+E  H  4
+E  D  4
+E  C  3
+W NT  3
+W  S  4
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 10,0,3,74,234,60,33,58,121,60,153,176,27,43,41,121,17,17,18,41,15,21,34,24,31,15,28,42,21,53,50,39,14,19,14,43,10,14,30,30,8,11,16,28,10,12,11,7,18,25,45
+[Auction "E"]
+Pass 1C Pass 1NT 
+Pass Pass 2H 3C 
+Pass Pass Pass 
+[Play "W"]
+H3 H4 HQ HK 
+C6 CQ C2 CK 
+CJ CA C5 CT 
+SA ST SQ SK 
+H2 H8 H9 HT 
+H6 C4 C8 C9 
+S5 S2 S3 SJ 
+S7 S9 S4 S6 
+DA D3 D2 DK 
+D7 -  -  -  
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "22"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T92.A84.843.AQ74 Q843.Q9.J952.852 KJ6.KT7.KQT.KT93 A75.J6532.A76.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "a999aa999a3444334443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H  9
+S  D  9
+S  C 10
+E NT  3
+E  S  4
+E  H  4
+E  D  4
+E  C  3
+W NT  3
+W  S  4
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,58,278,131,34,88,17,26,39,552,13,30,86,46,77,16,96,20,32,89,20,39,9,16,152,26,18,14,63,38,15,8,137,24,14,28,40,137,14,10,46,37,13,12,16,13,18,7,42,18,11,61
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H3 H4 HQ HK 
+CJ CA C5 CT 
+SA ST S3 S6 
+H2 H8 H9 HT 
+C6 C4 C2 CK 
+D6 CQ C8 C9 
+D7 D3 D2 DK 
+S5 C7 D5 C3 
+S7 S2 S4 SJ 
+H5 S9 S8 SK 
+H6 HA D9 H7 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "23"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:75.AKQ74.J852.42 AQJ8.JT6.KQ.AQJ5 942.852.AT97.K87 KT63.93.643.T963"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "74994749946944969449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  9
+N  C  4
+S NT  7
+S  S  4
+S  H  9
+S  D  9
+S  C  4
+E NT  6
+E  S  9
+E  H  4
+E  D  4
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,72,100,61,49,85,51,21,25,32,29,18,53,33,481,19,17,29,33,252,26,22,106,50,26,19,79,21,61,16,330,135,43,16,88,18,30,24,53,21,14,13,17,18,13,15
+[Auction "S"]
+Pass Pass 1H X 
+2H Pass Pass X 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+HK H6 H8 H3 
+HQ HT H2 H9 
+D2 DQ DA D3 
+HA HJ H5 S3 
+C2 CJ CK C3 
+D5 DK D7 D4 
+S5 S8 S2 SK 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "23"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:75.AKQ74.J852.42 AQJ8.JT6.KQ.AQJ5 942.852.AT97.K87 KT63.93.643.T963"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "74994749946944969449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  9
+N  C  4
+S NT  7
+S  S  4
+S  H  9
+S  D  9
+S  C  4
+E NT  6
+E  S  9
+E  H  4
+E  D  4
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,172,35,85,75,105,30,135,29,37,28,25,843,35,587,23,48,225,6,26,121,17,7,19,49,21,8,27,595,33,35,15,22,41,22,28,361,26,19,8,47,21,19,18,28,23,17,22,45,19
+[Auction "S"]
+Pass Pass 1H X 
+2H Pass Pass X 
+Pass 2S Pass 3S 
+Pass Pass Pass 
+[Play "N"]
+HK H6 H2 H3 
+HA HT H5 H9 
+HQ HJ H8 S3 
+S5 SJ S2 S6 
+S7 S8 S4 ST 
+H7 SQ S9 SK 
+C4 C5 C7 CT 
+C2 CJ CK C3 
+-  -  DA D3 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "24"]
+[West "Bill March#73512"]
+[North "Simon Foale#53333"]
+[East "Val Gibson#24808"]
+[South "Graham Davison#10128"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:76..A632.AQJ9762 Q432.QT9732.4.43 AT.AJ654.KT85.KT KJ985.K8.QJ97.85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "b67bbb67bb2762127621"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H  7
+N  D 11
+N  C 11
+S NT 11
+S  S  6
+S  H  7
+S  D 11
+S  C 11
+E NT  2
+E  S  7
+E  H  6
+E  D  2
+E  C  1
+W NT  2
+W  S  7
+W  H  6
+W  D  2
+W  C  1
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 18,0,3,128,95,212,120,41,336,37,74,161,8,29,59,20,8,18,65,41,33,19,109,75,29,20,85,39,30,106,79,26,22,16,528,527,38,17,258,426,34,75,19,31,20,16,15,12,12,20
+[Auction "W"]
+1S 2C 4S X 
+Pass Pass Pass 
+[Play "N"]
+CA C3 CT C5 
+C9 C4 CK C8 
+DA D4 D5 DQ 
+D6 S2 D8 D7 
+C7 H2 HA H8 
+S6 H3 H4 HK 
+D3 S3 DT D9 
+S7 S4 SA S5 
+C6 SQ ST S8 
+C2 HQ H5 DJ 
+*
+
+[Event "4 Dec Crockfords Bond vs Gibson"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "24"]
+[West "James Bond#100052"]
+[North "Damian Hassan#"]
+[East "Gabriel Hearst#410594"]
+[South "MArtin Kane#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:76..A632.AQJ9762 Q432.QT9732.4.43 AT.AJ654.KT85.KT KJ985.K8.QJ97.85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Gibson team"]
+[VisitTeam "Bond team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "b67bbb67bb2762127621"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H  7
+N  D 11
+N  C 11
+S NT 11
+S  S  6
+S  H  7
+S  D 11
+S  C 11
+E NT  2
+E  S  7
+E  H  6
+E  D  2
+E  C  1
+W NT  2
+W  S  7
+W  H  6
+W  D  2
+W  C  1
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 25,2,1,178,277,153,238,58,25,20,747,55,30,16,29,1581,63,23,103,25,24,26,63,24,12,40,31,21,23,8,172,20,12,13,84,30,101,16,836,24,12,37,50,117,10,50,201,32,7,22,55,37,19,17,410,31,9,26,17,20,15,8,9,9,7,10
+[Auction "W"]
+2S =1= 3C 4S X 
+Pass 5C Pass 6C 
+Pass Pass Pass 
+[Play "E"]
+D4 D5 D7 DA 
+C3 CT C5 C2 
+H2 HA H8 S6 
+H3 H4 HK C7 
+C4 CK C8 C6 
+H7 H5 S5 CJ 
+S2 D8 S8 CA 
+H9 DT DJ D3 
+S3 SA SK S7 
+HT H6 S9 C9 
+S4 DK D9 D2 
+SQ ST SJ CQ 
+HQ HJ DQ D6 

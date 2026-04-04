@@ -1,0 +1,3055 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "1"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQT9.T2.AQ974.87 A853.A875.J.QT32 642.J964.T8653.A J7.KQ3.K2.KJ9654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "675a3675a34573a4573a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D 10
+N  C  3
+S NT  6
+S  S  7
+S  H  5
+S  D 10
+S  C  3
+E NT  4
+E  S  5
+E  H  7
+E  D  3
+E  C 10
+W NT  4
+W  S  5
+W  H  7
+W  D  3
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,0,3,240,78,738,118,66,40,34,79,137,16,23,34,31,15,15,193,21,25,14,46,31,25,19,41,40,9,37
+[Auction "N"]
+1D X 3D =1= 5C 
+Pass Pass Pass 
+[Note "1: mixed raise 2.5 D"]
+[Play "N"]
+DA DJ D6 D2 
+SK SA S6 S7 
+C7 C2 CA C4 
+SQ S3 S2 SJ 
+S9 S5 S4 C5 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "1"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQT9.T2.AQ974.87 A853.A875.J.QT32 642.J964.T8653.A J7.KQ3.K2.KJ9654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "675a3675a34573a4573a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D 10
+N  C  3
+S NT  6
+S  S  7
+S  H  5
+S  D 10
+S  C  3
+E NT  4
+E  S  5
+E  H  7
+E  D  3
+E  C 10
+W NT  4
+W  S  5
+W  H  7
+W  D  3
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,508,42,180,144,243,26,44,155,259,20,46,47,21,29,8,12,24,34,13,230,34,8,54,141,53,55,34,27,38,15,20
+[Auction "N"]
+1D X 3D =1= 3NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+D7 DJ D3 D2 
+C7 C2 CA C4 
+DA S3 D8 DK 
+DQ S5 D5 S7 
+D9 S8 D6 C5 
+D4 C3 DT C6 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "2"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:65.KQ2.A9653.753 A98.AJ85.K42.K82 QJT4.T6.QJT87.A4 K732.9743..QJT96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "552835528388a5988a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  8
+N  C  3
+S NT  5
+S  S  5
+S  H  2
+S  D  8
+S  C  3
+E NT  8
+E  S  8
+E  H 10
+E  D  5
+E  C  9
+W NT  8
+W  S  8
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,136,75,147,44,106,44,105,712,45,30,13,150,34,35,60,30,27,18,180,35,18,17,43,9,42,20,15,29,29,27,43,131,14,15,33,167,38,15,60,11,17,10,27,22,10,11,30,32,12,9,37,16,10,12,13,11,9,11
+[Auction "E"]
+1H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+DQ S2 DA D2 
+ST SK S6 S8 
+H6 H3 HQ HA 
+D7 H4 D5 D4 
+HT H7 HK H5 
+S4 S3 S5 SA 
+D8 H9 H2 HJ 
+C4 C6 C7 CK 
+CA C9 C3 C2 
+SQ S7 C5 S9 
+SJ CT D3 H8 
+DT CJ D6 DK 
+DJ CQ D9 C8 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "2"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:65.KQ2.A9653.753 A98.AJ85.K42.K82 QJT4.T6.QJT87.A4 K732.9743..QJT96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "552835528388a5988a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  8
+N  C  3
+S NT  5
+S  S  5
+S  H  2
+S  D  8
+S  C  3
+E NT  8
+E  S  8
+E  H 10
+E  D  5
+E  C  9
+W NT  8
+W  S  8
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 22,2,1,153,63,92,465,52,49,133,66,33,36,21,288,42,28,79,32,11,51,114,99,19,12,58,20,13,14,74,18,17,36,332,67,16,9,22,25,10,14,22,25,10,8,56,24,14,13,25,9,11,46
+[Auction "E"]
+1H 2D 4H 5D 
+Pass Pass 5H Pass 
+Pass Pass 
+[Play "S"]
+DQ H3 D3 D2 
+CA C6 C3 C8 
+SQ S2 S5 SA 
+D7 H4 D5 D4 
+HT H7 H2 H5 
+DJ H9 D6 DK 
+C4 C9 C5 CK 
+H6 S3 HK HA 
+S4 CQ C7 C2 
+D8 CT HQ S8 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "3"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q8.KQ975.QT4.KJ6 AJ9.A863.K7.A743 T653.JT4.532.T82 K742.2.AJ986.Q95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "43523435238a8aa8a8ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  2
+N  C  3
+S NT  4
+S  S  3
+S  H  5
+S  D  2
+S  C  3
+E NT  8
+E  S 10
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S 10
+W  H  8
+W  D 11
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,75,88,55,355,97,39,36,141,199,17,17,74,144,55,36,85,110,32,55,569,25,12,11,17,13,19,28,19,16,23,89,30,36,40,29,41,33,16,15,40,25,12,18,15,12,16,34
+[Auction "S"]
+Pass 1D 1H 3NT 
+Pass Pass Pass 
+[Play "S"]
+HJ H2 H5 H3 
+HT C5 H7 H6 
+H4 S2 H9 HA 
+D2 D6 D4 DK 
+D5 DJ DQ D7 
+D3 C9 HK H8 
+S3 S4 HQ S9 
+C2 CQ CK CA 
+S5 SK S8 SJ 
+S6 DA DT C3 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "3"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q8.KQ975.QT4.KJ6 AJ9.A863.K7.A743 T653.JT4.532.T82 K742.2.AJ986.Q95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "43523435238a8aa8a8ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  2
+N  C  3
+S NT  4
+S  S  3
+S  H  5
+S  D  2
+S  C  3
+E NT  8
+E  S 10
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S 10
+W  H  8
+W  D 11
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 11,2,1,66,48,79,105,248,127,210,43,42,561,84,26,35,143,452,31,24,104,18,16,16,51,14,90,14,29,13,97,15,90,32,8,54,365,34,24,8,25,23,26,12,169,21,8,15,56,18,9,7,37,10,28,22,10,18,7,20,22,28,11,7,9,15,8,64
+[Auction "S"]
+Pass Pass 1NT X 
+Pass =1= Pass 2H Pass 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: weak no 5 card suit"]
+[Play "N"]
+HK HA HT H2 
+D4 DK D2 D6 
+DT D7 D3 DA 
+DQ H3 D5 DJ 
+HQ H6 H4 D8 
+S8 S9 S3 SK 
+SQ SA S5 S2 
+H5 SJ S6 S4 
+C6 CA C2 C5 
+CK C3 C8 CQ 
+H9 H8 HJ D9 
+H7 C4 ST S7 
+CJ C7 CT C9 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "4"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8.KQT97.8762.K85 AK9.6.AQT3.QT642 7653.J852.K94.A7 QJT42.A43.J5.J93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "43844438447a47979479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  4
+S NT  4
+S  S  3
+S  H  8
+S  D  4
+S  C  4
+E NT  7
+E  S 10
+E  H  4
+E  D  7
+E  C  9
+W NT  7
+W  S  9
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,0,3,152,63,116,29,39,47,129,32,86,35,19,209,23,9,18,141,26,27,929,35,16,9,42,32,37,18,13,45,17,19,157,23,17,26,142,27,16,12,315,19,10,46,69,15,14,12,35,24,21,25,9,12,10,9
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+HK H6 H8 HA 
+D2 D3 DK DJ 
+C5 C2 CA CJ 
+CK C4 C7 C3 
+C8 C6 S3 C9 
+D6 DT D4 D5 
+S8 SA S5 S2 
+D7 S9 S6 S4 
+D8 DQ D9 H3 
+H7 DA S7 ST 
+H9 SK H2 H4 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "4"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8.KQT97.8762.K85 AK9.6.AQT3.QT642 7653.J852.K94.A7 QJT42.A43.J5.J93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "43844438447a47979479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  4
+S NT  4
+S  S  3
+S  H  8
+S  D  4
+S  C  4
+E NT  7
+E  S 10
+E  H  4
+E  D  7
+E  C  9
+W NT  7
+W  S  9
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,114,47,67,46,42,110,125,41,379,45,26,42,146,44,38,752,31,24,62,39,40,16,50,18,12,16,40,19,36,38,152,189,103,31,23,200,59,20,23,38,23,30,49,33,25,23,83,25,11,18,12,31,31,15,21,13,11,9,7,8,9,19,7,7,8,8
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2D Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+HK H6 H5 HA 
+H7 SA H2 H3 
+S8 SK S3 S2 
+H9 S9 S5 ST 
+HT C2 S6 SQ 
+D2 C4 S7 SJ 
+D6 D3 DK DJ 
+HQ C6 H8 H4 
+C8 CT CA C3 
+D7 CQ HJ S4 
+D8 DT D4 D5 
+C5 DQ D9 C9 
+CK DA C7 CJ 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "5"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K8762.AT9.AT5.KT 53.K84.Q863.8543 QT9.Q7632..Q9762 AJ4.J5.KJ9742.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "5aa495aa497339373394"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 10
+N  D  4
+N  C  9
+S NT  5
+S  S 10
+S  H 10
+S  D  4
+S  C  9
+E NT  7
+E  S  3
+E  H  3
+E  D  9
+E  C  3
+W NT  7
+W  S  3
+W  H  3
+W  D  9
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 11,0,3,113,74,115,203,60,43,202,95,144,20,31,188,17,10,21,237,29,13,12,21,98,28,8,71,34,22,16,79,15,10,38,20,32,10,21,21,32,12,26,35,24,18,10
+[Auction "N"]
+1S Pass 2S 3D 
+Pass Pass Pass 
+[Play "N"]
+S6 S3 SQ SA 
+D5 D3 H7 DJ 
+DA D6 C7 D2 
+DT D8 H2 DK 
+H9 HK H3 H5 
+HA H4 H6 HJ 
+SK S5 S9 S4 
+HT H8 HQ D4 
+S2 C3 ST SJ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "5"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K8762.AT9.AT5.KT 53.K84.Q863.8543 QT9.Q7632..Q9762 AJ4.J5.KJ9742.AJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "5aa495aa497339373394"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 10
+N  D  4
+N  C  9
+S NT  5
+S  S 10
+S  H 10
+S  D  4
+S  C  9
+E NT  7
+E  S  3
+E  H  3
+E  D  9
+E  C  3
+W NT  7
+W  S  3
+W  H  3
+W  D  9
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,2,1,133,44,93,69,105,50,137,146,259,59,243,40,60,31,159,37,12,13,14,27,12,15,15,21,44,17,46,18,479,58,112,80,13,238,25,882,48,13,46,17,17,18,16,76,109,22,14,15,52,27,203,16,26,15,25,47,12,11
+[Auction "N"]
+1NT Pass 2D =1= X 
+2H 3D Pass 3H 
+X 3NT Pass Pass 
+Pass 
+[Note "1: ♡"]
+[Play "S"]
+H3 HJ HA H4 
+H2 H5 HT H8 
+H6 CJ H9 HK 
+C7 DJ D5 D3 
+C2 D2 DA D6 
+H7 D4 DT DQ 
+C6 DK S2 D8 
+C9 D9 S6 S3 
+CQ D7 S7 C3 
+S9 S4 S8 S5 
+HQ SJ CT C4 
+ST -  -  -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "6"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T7.JT53.754.9765 Q93.862.AT2.JT82 865.KQ97.KQ86.Q4 AKJ42.A4.J93.AK3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1164111641bc78cbb68b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  6
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  6
+S  D  4
+S  C  1
+E NT 11
+E  S 12
+E  H  7
+E  D  8
+E  C 12
+W NT 11
+W  S 11
+W  H  6
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 18,0,3,53,94,99,82,308,30,237,48,236,41,31,28,22,580,24,14,377,24,19,12,26,18,16,9,26,31,11,11,46,39,24,11,66,27,20,23,47,17,11,20,20,17,13,109,183,21,27,12,70,22,37,16
+[Auction "E"]
+Pass 1D X Pass 
+1NT Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+D4 D2 DQ D3 
+H3 H2 HK HA 
+S7 S3 S5 SA 
+ST S9 S6 SK 
+D5 SQ S8 S2 
+C5 CJ C4 C3 
+C6 C2 CQ CK 
+C7 C8 D6 CA 
+D7 DA D8 DJ 
+C9 CT H7 H4 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "6"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T7.JT53.754.9765 Q93.862.AT2.JT82 865.KQ97.KQ86.Q4 AKJ42.A4.J93.AK3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1164111641bc78cbb68b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  6
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  6
+S  D  4
+S  C  1
+E NT 11
+E  S 12
+E  H  7
+E  D  8
+E  C 12
+W NT 11
+W  S 11
+W  H  6
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,65,88,99,188,38,89,429,78,29,37,24,41,18,47,70,535,44,12,146,159,31,34,89,26,70,16,69,31,28,16,105,19,30,84,23,24,25,7,21,13,10,7,36,12,37,10,14,19,7,7
+[Auction "E"]
+Pass 1NT =1= X Pass =2= 
+Pass 2D 2S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Alerted"]
+[Play "N"]
+D5 D2 DQ D3 
+HT H2 HK HA 
+S7 S3 S5 SA 
+ST SQ S6 S2 
+D4 S9 S8 SJ 
+C5 C2 C4 CA 
+C6 C8 CQ CK 
+C7 CT D6 C3 
+C9 CJ H7 H4 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "7"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q3.AK3.AJT75.KQ9 9864.76.K632.J72 A7.QJT942.8.A843 KJT52.85.Q94.T65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "c9dadc9dad1403014030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 13
+N  D 10
+N  C 13
+S NT 12
+S  S  9
+S  H 13
+S  D 10
+S  C 13
+E NT  1
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  1
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 27,0,3,92,83,258,59,114,37,340,43,422,45,599,97,349,54,291,68,360,56,47,30,199,364,27,27,98,31,15,22,32,23,12,8
+[Auction "S"]
+1H Pass 2D Pass 
+2H Pass 3C Pass 
+4H Pass 4NT =1= Pass 
+5S =2= X 5NT =3= Pass 
+6H =4= Pass Pass Pass 
+[Note "1:  * rkc in H [0:36]"]
+[Note "2: 2 +QH"]
+[Note "3: K ask"]
+[Note "4: no outside K"]
+[Play "W"]
+SJ SQ S6 S7 
+H5 HA H6 H2 
+H8 HK H7 H4 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "7"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q3.AK3.AJT75.KQ9 9864.76.K632.J72 A7.QJT942.8.A843 KJT52.85.Q94.T65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "c9dadc9dad1403014030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 13
+N  D 10
+N  C 13
+S NT 12
+S  S  9
+S  H 13
+S  D 10
+S  C 13
+E NT  1
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  1
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 27,2,1,71,89,97,39,63,34,834,33,112,39,341,29,33,22,31,510,22,16,16,32,13,18,21,23,17,28,41,29,11,11,200,13,9,30,68,39,11,9,13,18,13,39,16,25,7,13,11,35,8,27
+[Auction "S"]
+1H Pass 2D Pass 
+2H Pass 4NT Pass 
+5S Pass 6H Pass 
+Pass Pass 
+[Play "W"]
+H5 H3 H6 HQ 
+D9 DA D2 D8 
+D4 D5 D6 H2 
+H8 HA H7 H4 
+DQ D7 D3 H9 
+C6 CK C7 C3 
+S5 DT DK HT 
+C5 CQ C2 C4 
+S2 DJ CJ S7 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "8"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQJ7.J96.K.75432 T6.KQT53.AT5.QJ8 A92.A.976432.T96 8543.8742.QJ8.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56368563688686486864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  3
+N  D  6
+N  C  8
+S NT  5
+S  S  6
+S  H  3
+S  D  6
+S  C  8
+E NT  8
+E  S  6
+E  H  8
+E  D  6
+E  C  4
+W NT  8
+W  S  6
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,95,45,140,63,199,153,187,857,66,47,157,98,41,37,60,91,20,16,119,63,12,28,20,75,36,9,120,21,21,9,48,34,13,7,25,60,10,10,18,10,13,14,25,8,33,10
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass X =2= Pass 2C 
+Pass Pass 2H Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: 5m 4M"]
+[Play "S"]
+HA H2 H6 H3 
+D7 D8 DK DA 
+D6 H4 H9 HK 
+D2 H7 HJ HQ 
+C9 CK C5 C8 
+C6 CA C2 CJ 
+D3 DJ C3 D5 
+D4 DQ C4 DT 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "8"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQJ7.J96.K.75432 T6.KQT53.AT5.QJ8 A92.A.976432.T96 8543.8742.QJ8.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56368563688686486864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  3
+N  D  6
+N  C  8
+S NT  5
+S  S  6
+S  H  3
+S  D  6
+S  C  8
+E NT  8
+E  S  6
+E  H  8
+E  D  6
+E  C  4
+W NT  8
+W  S  6
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,79,37,103,49,61,81,41,103,49,32,59,39,21,14,38,58,24,11,17,17,10,35,21,7,13,14,16,22,22,54,24,74,15,5,18,74
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+D4 DQ DK DA 
+HA H2 H6 HQ 
+D3 DJ C2 D5 
+C6 CA C3 C8 
+C9 CK C4 CJ 
+D2 H8 H9 HT 
+S9 H7 HJ HK 
+CT -  -  H5 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "9"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J.K96.AKQ732.Q84 Q843.JT742.J8.KJ KT652.Q85.96.T73 A97.A3.T54.A9652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66575654757775877758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  4
+S  D  7
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,180,61,53,41,154,44,100,39,113,148,119,24,13,29,38,17,11,15,21,7,124,120,13,13,42,19,10,30,15,13,7,6,11,99,26,22,20,14,145,14,35,18,56,15,19,26,9,28,34,21,8,17,13,10
+[Auction "N"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+H4 H5 HA H6 
+CJ C3 C6 C4 
+CK C7 C2 C8 
+HJ HQ H3 H9 
+D8 D6 D5 DA 
+DJ D9 D4 DK 
+H2 S2 DT DQ 
+H7 S5 S7 D7 
+HT CT S9 D3 
+S3 H8 C5 D2 
+S4 S6 C9 HK 
+S8 -  -  SJ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "9"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J.K96.AKQ732.Q84 Q843.JT742.J8.KJ KT652.Q85.96.T73 A97.A3.T54.A9652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66575654757775877758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  4
+S  D  7
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 11,0,3,306,42,50,46,148,60,85,31,792,138,37,26,9,20,20,14,24,27,13,15,9,17,14,8,48,46,25,19,22,60,63,34,149,22,14,22,7,20,23,19,33
+[Auction "N"]
+1D Pass 1S Pass 
+3D Pass Pass Pass 
+[Play "E"]
+H4 H5 HA H6 
+H2 H8 H3 HK 
+D8 D6 D4 DA 
+DJ D9 D5 DK 
+S3 S2 DT DQ 
+S4 S5 SA SJ 
+CJ C3 CA C4 
+CK C7 C5 C8 
+HJ -  -  -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "10"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A765.97.A742.KQ2 KT.AQ862.Q5.AT94 J842.JT543.K8.73 Q93.K.JT963.J865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "48644476448578985789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  7
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  5
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  5
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,2,1,104,28,78,131,81,86,23,72,50,74,32,12,23,21,13,9,85,18,54,15,113,35,7,25,19,24,49,26,21,20,35,12,22,11,15,11,34,31,10,5,62,22,10,6,30,17,11,29,9,15,11
+[Auction "E"]
+1H Pass 1NT X 
+2C Pass Pass Pass 
+[Play "S"]
+DK D3 D7 D5 
+D8 D6 DA DQ 
+C3 D9 D4 H2 
+S2 S3 SA SK 
+H3 DT D2 C9 
+H4 HK H9 H6 
+C7 C5 C2 CT 
+S4 C6 CQ CA 
+H5 S9 H7 HA 
+HT DJ CK HQ 
+S8 -  S5 ST 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "10"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A765.97.A742.KQ2 KT.AQ862.Q5.AT94 J842.JT543.K8.73 Q93.K.JT963.J865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "48644476448578985789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  7
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  5
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  5
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 10,0,3,159,28,65,35,82,81,27,149,45,125,45,34,43,50,245,120,34,46,442,46,57,32,564,31,13,19,99,26,25,13,34,21,22,18,51,21,69,18,118,23,35,8,57,23,75,40,40,22,25,41,26,26,13,14,26,12,9,11,12,12,10,8,12,10,11,9
+[Auction "E"]
+1H Pass 1NT Pass 
+2C Pass Pass X 
+Pass 2S 3C Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D2 DQ 
+S2 S3 SA ST 
+S4 S9 S5 SK 
+H5 HK H7 H2 
+S8 SQ S6 D5 
+C3 C8 C2 C4 
+C7 C5 CQ CA 
+H3 CJ H9 H6 
+D8 C6 CK C9 
+SJ D6 S7 CT 
+H4 D9 D4 HA 
+HT DT D7 HQ 
+HJ DJ DA H8 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "11"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT2.KJ9.AKQJ.54 J.AQ4.76532.A963 87643.T7.T4.Q872 A95.86532.98.KJT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "57355583556598865988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  5
+E NT  6
+E  S  5
+E  H  9
+E  D  8
+E  C  8
+W NT  6
+W  S  5
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,49,55,292,53,203,43,145,24,43,43,21,516,18,32,123,23,27,238,48,40,26,10,31,15,19,15,58,18,15,17,612,22,10,69,86,54,24,6,169,33,6,38,31,12,6,12,9,44,12,12,11,12,12,7,22
+[Auction "S"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+D7 D4 D8 DA 
+SJ S3 SA SQ 
+HQ H7 H6 H9 
+HA HT H2 HJ 
+D2 DT D9 DK 
+D5 S4 S5 DJ 
+H4 S6 S9 ST 
+D3 C2 H3 DQ 
+C3 C7 H5 HK 
+CA C8 CT C4 
+C6 CQ CK C5 
+-  -  CJ -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "11"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT2.KJ9.AKQJ.54 J.AQ4.76532.A963 87643.T7.T4.Q872 A95.86532.98.KJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "57355583556598865988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  5
+E NT  6
+E  S  5
+E  H  9
+E  D  8
+E  C  8
+W NT  6
+W  S  5
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,91,45,56,68,99,61,136,50,38,34,569,219,43,21,49,30,57,26,29,31,11,10,14,41,21,9,150,20,9,53,21,24,9,38
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+H6 H9 HQ H7 
+H8 HJ HA HT 
+CJ C4 CA C2 
+CK C5 C3 CQ 
+H2 HK H4 C7 
+SA SK SJ S3 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "12"]
+[West "Joan Murphy#108109"]
+[North "Frank Dixon#34239"]
+[East "David Killick#68286"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT53.AQJ53.Q3.JT KQ7.7.AT865.K972 J.K9642.J972.Q53 98642.T8.K4.A864"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "75953759536848968489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  5
+N  C  3
+S NT  7
+S  S  5
+S  H  9
+S  D  5
+S  C  3
+E NT  6
+E  S  8
+E  H  4
+E  D  8
+E  C  9
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,80,140,120,227,66,45,79,47,214,64,26,27,66,24,31,17,26,18,18,12,19,36,21,152,22,12,19
+[Auction "W"]
+Pass 1H 2D 4H 
+Pass Pass Pass 
+[Play "E"]
+SK SJ S2 SA 
+C2 C3 CA CT 
+D8 D2 DK D3 
+DA D7 D4 DQ 
+CK C5 C4 CJ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "12"]
+[West "Keith Joules#504710"]
+[North "steve lynch#429730"]
+[East "David Waxman#20349"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT53.AQJ53.Q3.JT KQ7.7.AT865.K972 J.K9642.J972.Q53 98642.T8.K4.A864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "75953759536848968489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  5
+N  C  3
+S NT  7
+S  S  5
+S  H  9
+S  D  5
+S  C  3
+E NT  6
+E  S  8
+E  H  4
+E  D  8
+E  C  9
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,274,370,44,63,45,335,39,61,34,746,49,45,26,20,68,40,14,51,40,42,10,98,25,11,19,21,17,18,17,101,18,11,6,281,31,10,8,13,16,16,23,14,19,16,68,869,40,77,14,129,105,23,11,13,18,14,14,30
+[Auction "W"]
+2D =1= X Pass 2H 
+Pass 4H 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: weak only multi"]
+[Play "S"]
+H4 H8 HA H7 
+H2 HT HQ S7 
+D7 DK D3 D5 
+SJ S2 S3 SK 
+D2 D4 DQ DA 
+C3 CA CT C2 
+C5 C4 CJ CK 
+CQ C6 H3 C9 
+D9 C8 S5 D6 
+H6 S4 H5 D8 
+H9 S6 SA SQ 
+-  -  ST -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "13"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ83.9764.T8.Q72 T2.5.965432.T953 A76.KQJT8.QJ7.A4 J954.A32.AK.KJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "9795597a553438834388"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  9
+S  S  7
+S  H 10
+S  D  5
+S  C  5
+E NT  3
+E  S  4
+E  H  3
+E  D  8
+E  C  8
+W NT  3
+W  S  4
+W  H  3
+W  D  8
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 7,2,0,325,135,52,125,300,64,125,24,190,106,49,14,102,40,20,23,67,24,9,10,132,45,13,14,159,25,10,12,26,61,14,22,350,24,9,6,50,31,9,11,33,37,12,10,15,23,17,19,10,18,8,9,9,9,8,9,9,6,8,8
+[Auction "N"]
+Pass Pass 1H 1NT =1= 
+2H Pass Pass Pass 
+[Note "1:  * 15-18 [0:09]"]
+[Play "W"]
+DA D8 D6 D7 
+H2 H4 H5 HT 
+HA H6 D2 HK 
+H3 H7 D3 HQ 
+DK DT D4 DQ 
+S4 S3 ST SA 
+C6 C2 C3 CA 
+C8 C7 D5 DJ 
+CJ H9 D9 HJ 
+S5 CQ C5 H8 
+S9 SK S2 S6 
+SJ SQ C9 S7 
+CK S8 CT C4 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "13"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ83.9764.T8.Q72 T2.5.965432.T953 A76.KQJT8.QJ7.A4 J954.A32.AK.KJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "9795597a553438834388"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  9
+S  S  7
+S  H 10
+S  D  5
+S  C  5
+E NT  3
+E  S  4
+E  H  3
+E  D  8
+E  C  8
+W NT  3
+W  S  4
+W  H  3
+W  D  8
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,222,47,311,59,214,89,222,69,107,131,36,41,346,445,40,167,49,21,17,20,87,39,38,12,17,99,28,48,324,30,24,11,37,21,11,22,72,80,14,43,167,20,27,24,43,22,22,8,73,22,18,8,21,48,22,17,17,18,21,10,8,20,8,7
+[Auction "N"]
+Pass Pass 1H X 
+2H Pass 3D X 
+4H Pass Pass Pass 
+[Play "W"]
+S4 S3 ST SA 
+H2 H4 H5 HJ 
+HA H6 D2 HQ 
+H3 H7 D3 HT 
+DK D8 D4 D7 
+DA DT D5 DJ 
+SJ SQ S2 S6 
+C8 H9 D6 HK 
+C6 C2 D9 DQ 
+CJ C7 C3 CA 
+S5 CQ C5 H8 
+S9 SK C9 S7 
+CK S8 CT C4 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "14"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT543.AT.K85.AJ9 9.K843.QT74.KT72 AKJ7.952.A93.865 862.QJ76.J62.Q43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "99577995774485644856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  5
+N  D  7
+N  C  7
+S NT  9
+S  S  9
+S  H  5
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  8
+E  D  5
+E  C  6
+W NT  4
+W  S  4
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,2,0,63,75,34,55,43,48,25,120,39,65,32,51,17,102,294,22,16,52,25,8,91,383,27,10,41,11,28,16,27,42,512,40,25,345,16,20,18,51,31,16,22,148,21,10,8,22,18,10,13,40,16,7,8,8,15,7,8,9
+[Auction "E"]
+Pass 1NT =1= Pass 2H 
+Pass 2S Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "W"]
+S2 S3 S9 SA 
+S6 S4 C2 SK 
+S8 S5 D4 SJ 
+C4 C9 CT C5 
+DJ DK D7 D3 
+D2 D5 DT DA 
+C3 CJ CK C6 
+D6 D8 DQ D9 
+CQ CA C7 C8 
+H6 HA H3 H2 
+H7 HT HK H5 
+-  -  H4 -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "14"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT543.AT.K85.AJ9 9.K843.QT74.KT72 AKJ7.952.A93.865 862.QJ76.J62.Q43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "99577995774485644856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  5
+N  D  7
+N  C  7
+S NT  9
+S  S  9
+S  H  5
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  8
+E  D  5
+E  C  6
+W NT  4
+W  S  4
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,1,3,65,92,67,197,67,143,39,45,26,132,47,44,35,156,382,18,35,220,38,14,49,15,97,36,12,71,35,25,53,84,121,27,9,34,22,25,19,84,27,11,8,23,15,24,12,47,24,8,9,43,58,38,30,19,12,8,27,27,22,10,13,9,9,6,9
+[Auction "E"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: Sps"]
+[Play "W"]
+S6 S3 S9 SJ 
+HJ HA H3 H2 
+H6 HT HK H5 
+HQ S4 H4 H9 
+S2 S5 C7 SK 
+S8 ST H8 SA 
+D2 D5 D4 DA 
+D6 DK D7 D3 
+DJ D8 DQ D9 
+H7 C9 DT S7 
+C3 CA C2 C5 
+C4 SQ CT C6 
+CQ CJ CK C8 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "15"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:4.9843.987543.43 JT75.KQ6.Q.AKQ75 AQ.A7.AKJT62.J96 K98632.JT52..T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "824a2824a25b83a5b83a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  2
+N  H  4
+N  D 10
+N  C  2
+S NT  8
+S  S  2
+S  H  4
+S  D 10
+S  C  2
+E NT  5
+E  S 11
+E  H  8
+E  D  3
+E  C 10
+W NT  5
+W  S 11
+W  H  8
+W  D  3
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 21,1,3,189,58,237,54,183,50,123,40,69,35,116,190,15,47,22,100,19,8,37,19,9,34,46,83,15,44,81,20,24,12,15,23,9,31,25,30,10,25,14,16,9,15,14,32,16,15,11,24,8,37,10,10,8,67,14,14,9,20,9,7,8,8
+[Auction "S"]
+1D 2S Pass 4S 
+X Pass 5D Pass 
+Pass Pass 
+[Play "W"]
+S3 S4 ST SQ 
+S8 D3 DQ DA 
+S2 C3 S5 SA 
+C2 C4 CQ C6 
+H5 H3 H6 HA 
+CT D4 C5 C9 
+S6 D5 C7 DK 
+C8 D7 CK CJ 
+S9 D8 S7 D2 
+SK D9 SJ DJ 
+H2 H4 HQ DT 
+HT H8 CA D6 
+HJ H9 HK H7 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "15"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:4.9843.987543.43 JT75.KQ6.Q.AKQ75 AQ.A7.AKJT62.J96 K98632.JT52..T82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "824a2824a25b83a5b83a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  2
+N  H  4
+N  D 10
+N  C  2
+S NT  8
+S  S  2
+S  H  4
+S  D 10
+S  C  2
+E NT  5
+E  S 11
+E  H  8
+E  D  3
+E  C 10
+W NT  5
+W  S 11
+W  H  8
+W  D  3
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 21,2,0,195,78,823,56,103,78,526,59,286,47,41,102,20,260,15,14,18,12,15,6,17,15,10,40,336,27,14,31,49,36,14,25,23,21,68,20,98,23,24,19
+[Auction "S"]
+2NT =1= Pass 3C =2= X 
+3NT =3= Pass 4D Pass 
+5D Pass Pass Pass 
+[Note "1: 20-21"]
+[Note "2: Alerted"]
+[Note "3:  * no 4 or 5 card major [0:20]"]
+[Play "E"]
+CA C6 C8 C4 
+CK C9 C2 C3 
+CQ CJ CT D3 
+DQ DA S2 D4 
+C5 D2 S3 D9 
+S5 SA S6 S4 
+S7 SQ SK D5 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "16"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:.J4.KJ9852.KJT85 KQT76.753.QT7.96 432.KQT9.A43.432 AJ985.A862.6.AQ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "646a9646a97963479734"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D 10
+N  C  9
+S NT  6
+S  S  4
+S  H  6
+S  D 10
+S  C  9
+E NT  7
+E  S  9
+E  H  6
+E  D  3
+E  C  4
+W NT  7
+W  S  9
+W  H  7
+W  D  3
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 18,2,0,222,348,433,224,56,165,984,43,117,467,32,21,146,82,30,31,79,23,32,20,326,32,11,393,16,30,16,13,15,18,36,15,228,24,9,20,60,34,8,9,24,30
+[Auction "W"]
+1S 2NT =1= 3S Pass 
+4S Pass Pass Pass 
+[Note "1:  * minors [0:23]"]
+[Play "N"]
+CJ C6 C2 CQ 
+D8 SK S2 S5 
+H4 H3 HK HA 
+HJ H5 HQ H2 
+D2 H7 HT H6 
+DK D7 D3 D6 
+D5 DT DA S8 
+C5 S6 S3 SA 
+D9 -  -  SJ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "16"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:.J4.KJ9852.KJT85 KQT76.753.QT7.96 432.KQT9.A43.432 AJ985.A862.6.AQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "646a9646a97963479734"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D 10
+N  C  9
+S NT  6
+S  S  4
+S  H  6
+S  D 10
+S  C  9
+E NT  7
+E  S  9
+E  H  6
+E  D  3
+E  C  4
+W NT  7
+W  S  9
+W  H  7
+W  D  3
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 21,1,3,181,97,133,761,54,55,44,45,117,39,26,318,78,265,24,15,941,41,60,40,198,46,21,18,82,52,9,24,244,33,35,27,430,50,25,18,165,66,88,35,100,31,20,46,23,25,9,9,20,35,9,26,13,19,15,8,17,9,7,21,14,12,7,7
+[Auction "W"]
+1S 2NT =1= 3S 4D 
+4S 5D Pass Pass 
+X Pass Pass Pass 
+[Note "1: Minors "]
+[Play "W"]
+SA D2 S7 S2 
+D6 D5 DT DA 
+CA C5 C9 C2 
+HA H4 H3 H9 
+S5 D8 S6 S3 
+H2 HJ H5 HK 
+S8 DK D7 D3 
+H6 D9 DQ D4 
+H8 C8 H7 HT 
+S9 CT C6 HQ 
+C7 CJ ST C3 
+CQ CK SQ C4 
+SJ DJ SK S4 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "17"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T94.AJ7652.QT.Q3 AK75.8.AKJ972.K6 Q632.94.843.J942 J8.KQT3.65.AT875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2HX"]
+[Result "4"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "2241222412bb9cbbb9cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  1
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  1
+S  C  2
+E NT 11
+E  S 11
+E  H  9
+E  D 12
+E  C 11
+W NT 11
+W  S 11
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 7,2,0,191,119,82,176,115,69,188,12,12,89,26,8,11,43,21,58,15,219,38,14,12,123,23,51,8,21,15,25,9,409,27,28,7,23,13,20,12,170,25,372,104,42,19,17,36,30,10,17,22,24,15,7,9,15,7,14,5
+[Auction "N"]
+2H =1= X Pass Pass 
+Pass 
+[Note "1:  * weak [0:07]"]
+[Play "E"]
+DK D3 D5 DT 
+DA D4 D6 DQ 
+DJ D8 S8 H2 
+SK S2 SJ S9 
+SA S3 C8 S4 
+S5 S6 H3 ST 
+C6 C2 CA C3 
+CK C4 C5 CQ 
+S7 SQ HQ HA 
+H8 H9 HT H5 
+D2 C9 C7 H6 
+D7 H4 HK HJ 
+D9 CJ CT H7 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "17"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T94.AJ7652.QT.Q3 AK75.8.AKJ972.K6 Q632.94.843.J942 J8.KQT3.65.AT875"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "2241222412bb9cbbb9cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  1
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  1
+S  C  2
+E NT 11
+E  S 11
+E  H  9
+E  D 12
+E  C 11
+W NT 11
+W  S 11
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,1,3,261,100,157,219,41,237,48,31,27,197,172,173,21,171,105,28,17,123,88,31,38,24,17,24,27,253,28,12,24,105,25,21,11
+[Auction "N"]
+2H =1= X Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 9-13 6 card suit"]
+[Play "N"]
+ST S5 SQ S8 
+HA H8 H4 HQ 
+C3 C6 CJ CA 
+DT DJ D8 D5 
+S4 S7 S2 SJ 
+DQ DA D3 D6 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "18"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K8652.J93.KT.A83 AJ.KQ76542.Q.QT5 Q73.T8.A874.KJ92 T94.A.J96532.764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "5856a5856a3385333853"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  6
+N  C 10
+S NT  5
+S  S  8
+S  H  5
+S  D  6
+S  C 10
+E NT  3
+E  S  3
+E  H  8
+E  D  5
+E  C  3
+W NT  3
+W  S  3
+W  H  8
+W  D  5
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,1,3,132,44,54,43,314,53,119,32,99,105,15,26,27,21,97,20,238,26,8,9,240,40,9,21,46,23,127,32,19,27,10,12,21,71,10,30,17,106,14,11,27,94,20,10,63,34,16,14,53,244,21,14,36,25,12,8,15,23,10,10
+[Auction "E"]
+1H Pass 1NT Pass 
+3H Pass Pass Pass 
+[Play "S"]
+C2 C4 CA C5 
+CJ C6 C8 CT 
+CK C7 C3 CQ 
+H8 HA H3 H2 
+S7 S4 S6 SA 
+HT D2 H9 HK 
+D4 D3 HJ HQ 
+D7 D5 S2 H7 
+C9 D6 S5 H6 
+D8 S9 S8 H5 
+S3 ST DT H4 
+DA D9 DK DQ 
+SQ DJ SK SJ 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "18"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K8652.J93.KT.A83 AJ.KQ76542.Q.QT5 Q73.T8.A874.KJ92 T94.A.J96532.764"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "5856a5856a3385333853"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  6
+N  C 10
+S NT  5
+S  S  8
+S  H  5
+S  D  6
+S  C 10
+E NT  3
+E  S  3
+E  H  8
+E  D  5
+E  C  3
+W NT  3
+W  S  3
+W  H  8
+W  D  5
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 8,2,0,575,45,149,112,73,144,36,44,37,61,93,24,23,171,282,26,29,94,392,24,38,83,390,41,9,239,19,47,19,89,334,18,23,15,35,12,13,10,22,14,19,33,21,12,10,10,12,13,17
+[Auction "E"]
+1H Pass Pass 1S 
+2H 2S Pass Pass 
+Pass 
+[Play "E"]
+HK H8 HA HJ 
+DQ DA D6 DT 
+HQ HT C7 H3 
+H5 D4 S4 H9 
+SJ D7 D9 DK 
+C5 C2 C4 C8 
+SA S3 S9 S2 
+CT C9 C6 CA 
+H4 SQ ST S5 
+H2 S7 D2 SK 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "19"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKT974.K3.T42.75 Q63.QT64.8.AK984 852.985.KJ653.62 J.AJ72.AQ97.QJT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "362523625297b7b97b7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  6
+S  H  2
+S  D  5
+S  C  2
+E NT  9
+E  S  7
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H 11
+W  D  7
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 22,1,3,70,114,187,391,161,72,65,30,41,26,154,40,19,70,33,22,40,440,26,9,36,11,13,19,11,16,31,17,28,82,25,32,10,151,15,11,20,10,36,8,39,26,32,5,14,20,18,37,21,22,11,10,18,10,10,8,6
+[Auction "S"]
+Pass 1C 2S =1= X 
+4S 5H Pass Pass 
+Pass 
+[Note "1: Weak"]
+[Play "N"]
+SA S3 S8 SJ 
+D4 D8 DK DA 
+H3 H4 H5 HA 
+HK H6 H8 H2 
+C5 C4 C2 CT 
+S4 HT H9 HJ 
+C7 C8 C6 CQ 
+S7 C9 S5 CJ 
+S9 CK S2 C3 
+D2 CA D3 D7 
+ST S6 D5 H7 
+DT SQ D6 DQ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "19"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKT974.K3.T42.75 Q63.QT64.8.AK984 852.985.KJ653.62 J.AJ72.AQ97.QJT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "362523625297b7b97b7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  6
+S  H  2
+S  D  5
+S  C  2
+E NT  9
+E  S  7
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H 11
+W  D  7
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,2,0,67,317,54,110,54,133,162,30,33,16,32,33,105,34,14,349,53,27,13,170,29,7,43,423,37,7,67,66,25,9,8,27,12
+[Auction "S"]
+Pass 1D 1S X 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+SK S3 S2 SJ 
+C7 CA C2 CT 
+HK HQ H5 H2 
+SA S6 S5 H7 
+H3 H4 H8 HA 
+S4 -  -  HJ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "20"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K975.AJ.Q.AT8763 A6.KT7652.J543.J QJ42.Q8.KT876.52 T83.943.A92.KQ94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68467684676496564965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  6
+N  C  7
+S NT  6
+S  S  8
+S  H  4
+S  D  6
+S  C  7
+E NT  6
+E  S  4
+E  H  9
+E  D  6
+E  C  5
+W NT  6
+W  S  4
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,118,36,67,153,43,199,51,221,49,150,73,28,21,49,56,11,37,308,23,55,14,74,25,6,23,17,139,21,10,16,77,25,24,93,23,10,17,24,36,13,72,24,25,229,13,92,59,13,77,561,105,19,15,15,15,27,19,12,12,9,6
+[Auction "W"]
+Pass 1C 2H X =1= 
+3H 3S Pass Pass 
+Pass 
+[Note "1: t/o"]
+[Play "E"]
+CJ C2 C4 CA 
+D4 D6 DA DQ 
+HK H8 H3 HJ 
+H2 HQ H4 HA 
+SA S2 S3 S5 
+D3 DK D2 C3 
+S6 SQ S8 S7 
+H5 C5 CK C6 
+H6 S4 ST SK 
+D5 D7 C9 C8 
+H7 SJ H9 C7 
+DJ DT D9 S9 
+HT D8 CQ CT 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "20"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K975.AJ.Q.AT8763 A6.KT7652.J543.J QJ42.Q8.KT876.52 T83.943.A92.KQ94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68467684676496564965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  6
+N  C  7
+S NT  6
+S  S  8
+S  H  4
+S  D  6
+S  C  7
+E NT  6
+E  S  4
+E  H  9
+E  D  6
+E  C  5
+W NT  6
+W  S  4
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,67,124,87,116,61,493,48,43,16,154,261,16,38,112,23,19,59,601,41,64,15,1065,43,50,8,39,28,36,19,48,13,30,24,810,28,15,34,149,57,7,41,129,65,71,13,34,13,228,27,136,13,66,162,13,17,10,8,6,16,8,11
+[Auction "W"]
+Pass 1C 2H =1= X 
+3H 4S Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "E"]
+CJ C2 C4 CA 
+D3 D6 DA DQ 
+H2 C5 CK C3 
+H5 H8 H4 HA 
+H6 S2 C9 C8 
+D4 DK D2 HJ 
+SA SQ S3 S5 
+HK HQ H3 S7 
+H7 S4 CQ C6 
+S6 SJ S8 S9 
+DJ D7 D9 C7 
+HT D8 H9 SK 
+D5 DT ST CT 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "21"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK9.KQ95.AK.QJ42 43.JT2.JT874.A95 QJ652.A87.Q653.K T87.643.92.T8763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cccaacccaa1012310123"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D 10
+N  C 10
+S NT 12
+S  S 12
+S  H 12
+S  D 10
+S  C 10
+E NT  1
+E  S  0
+E  H  1
+E  D  2
+E  C  3
+W NT  1
+W  S  0
+W  H  1
+W  D  2
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,1,3,309,71,344,55,41,44,226,44,140,41,474,51,221,75,87,41,57,28,187,84,35,56,198,43,10,19,10,14,14,9,13,29,18,12,36,22,10,31,12,33,12,9
+[Auction "N"]
+2NT =1= Pass 3H =2= Pass 
+3S Pass 4D Pass 
+4S Pass 4NT =3= Pass 
+5D =4= Pass 6S Pass 
+Pass Pass 
+[Note "1: 22/23"]
+[Note "2:  * t/fer [0:09]"]
+[Note "3: rkcb"]
+[Note "4: 0 or 3 key cards"]
+[Play "E"]
+DJ D3 D2 DA 
+S3 S2 S7 SA 
+S4 S5 S8 SK 
+C9 SQ ST S9 
+D4 D5 D9 DK 
+CA CK C3 C2 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "21"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK9.KQ95.AK.QJ42 43.JT2.JT874.A95 QJ652.A87.Q653.K T87.643.92.T8763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 1440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cccaacccaa1012310123"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D 10
+N  C 10
+S NT 12
+S  S 12
+S  H 12
+S  D 10
+S  C 10
+E NT  1
+E  S  0
+E  H  1
+E  D  2
+E  C  3
+W NT  1
+W  S  0
+W  H  1
+W  D  2
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 29,2,0,406,47,119,67,59,34,454,53,121,27,678,95,113,32,51,493,30,21,326,24,7,10,24,14,6,18
+[Auction "N"]
+2C =1= Pass 2D =2= Pass 
+2NT Pass 3H =3= Pass 
+3S Pass 6NT Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Note "2: waiting"]
+[Note "3: ♠"]
+[Play "E"]
+DJ D3 D2 DA 
+S3 S2 S8 SA 
+S4 S5 S7 SK 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "22"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.J53.J4.KT9852 T832.7.T8653.QJ4 KQJ4.84.AK92.763 A65.AKQT962.Q7.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "46457464579797697976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  7
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  7
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,1,3,1227,82,316,58,46,35,30,187,51,34,31,52,12,10,14,12,136,32,107,11,105,43,70,39,21,37,42,12,35,11,40,24,21,65,33,43,17,11,336,36,34,46,90,20,20,16,12,85
+[Auction "E"]
+Pass 1NT =1= 4H Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+CT CJ C7 CA 
+H5 H7 H4 HA 
+H3 D3 H8 HK 
+HJ C4 C6 HQ 
+C5 CQ C3 HT 
+C2 D5 D2 H9 
+S7 S8 SJ S5 
+S9 S2 SK SA 
+C8 D6 S4 H6 
+C9 D8 D9 H2 
+D4 -  -  S6 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "22"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.J53.J4.KT9852 T832.7.T8653.QJ4 KQJ4.84.AK92.763 A65.AKQT962.Q7.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "46457464579797697976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  7
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  7
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,2,0,101,96,113,143,41,56,831,164,32,25,233,263,49,20,214,53,21,8,24,13,114,12,18,20,64,18,21,80,18,19,38,19,24,27,34,45,18,31,23,18,29,11,37,24,19,11,36,21,8
+[Auction "E"]
+Pass 1NT =1= X 2C 
+Pass Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+CT C4 C3 CA 
+H3 H7 H4 HA 
+H5 D3 H8 HK 
+HJ S2 C6 HQ 
+C2 S3 C7 HT 
+C5 S8 D9 H9 
+C8 ST D2 H6 
+C9 D5 S4 H2 
+S7 CJ SJ SA 
+D4 D6 -  DQ 
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "23"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ65.65.AJ643.74 4.QT72.KQ85.J965 KJ2.AJ93.97.AQ82 T9873.K84.T2.KT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "89787897975464554545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,1,3,176,48,70,57,120,77,124,36,262,364,15,70,46,36,30,61,77,63,34,19,155,37,66,39,58,35,44,33,109,524,37,14,56,45,11,29,207,46,10,9,50,25,10,9,30,22,24,15,50,35,78,16,13,28,9,11,9,7,8,9
+[Auction "S"]
+1H Pass 2D Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+ST S5 S4 SK 
+D2 D3 D8 D7 
+CT C4 C5 C2 
+S9 S6 C6 SJ 
+DT DJ DK D9 
+CK C7 CJ CQ 
+C3 H5 C9 CA 
+S3 SQ H2 S2 
+S7 SA H7 H3 
+H4 DA D5 H9 
+H8 H6 HT HA 
+S8 D4 DQ C8 
+HK D6 HQ HJ 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "23"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ65.65.AJ643.74 4.QT72.KQ85.J965 KJ2.AJ93.97.AQ82 T9873.K84.T2.KT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "89787897975464554545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,0,157,37,141,34,119,35,344,50,43,20,200,404,18,34,17,37,21,104,72,69,45,10,232,77,21,20,47,78,22,34,248,22,17,44,121,52,12,33,33,16,29,24,22,17,34,10,16
+[Auction "S"]
+1H Pass 1S Pass 
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+ST S5 S4 SJ 
+DT DJ DQ D9 
+CK C4 C5 CQ 
+CT C7 C6 C2 
+C3 H5 CJ CA 
+D2 DA D5 D7 
+S3 D3 DK H3 
+H8 D4 C9 C8 
+H4 D6 D8 H9 
+-  -  H2 -  
+*
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "24"]
+[West "Joan Murphy#108109"]
+[North "David Waxman#20349"]
+[East "David Killick#68286"]
+[South "Keith Joules#504710"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q4.K96.93.QJT964 A532.T75432.Q6.K KT6.Q8.KJT42.873 J987.AJ.A875.A52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "43368533687aa757a975"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  6
+N  C  8
+S NT  5
+S  S  3
+S  H  3
+S  D  6
+S  C  8
+E NT  7
+E  S 10
+E  H 10
+E  D  7
+E  C  5
+W NT  7
+W  S 10
+W  H  9
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 8,1,3,166,40,151,53,49,37,36,171,37,246,11,19,151,25,22,45,22,20,12,26,483,138,23,46,37,48,23,33,44,41,29,58,101,38,343,17,117,23,10,9,15,14,14,22,18,37,42,14,25,49,49,21,50,17,17,8,10,6,11,11
+[Auction "W"]
+1NT =1= Pass 2C =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: stayman"]
+[Play "N"]
+CQ CK C8 C2 
+H6 H2 H8 HA 
+H9 H3 HQ HJ 
+C6 D6 C7 CA 
+S4 S2 ST S9 
+CT S3 C3 C5 
+HK H4 D2 S7 
+D3 DQ D4 DA 
+D9 S5 DT D5 
+SQ H5 DJ D7 
+C4 H7 S6 S8 
+C9 SA DK D8 
+CJ HT SK SJ 
+
+[Event "4 Dec NICKO Dixon vs Lynch"]
+[Site "RealBridge"]
+[Date "2023.12.04"]
+[Board "24"]
+[West "Paul Brereton#94086"]
+[North "steve lynch#429730"]
+[East "Frank Dixon#34239"]
+[South "Paul Dolphin#429605"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q4.K96.93.QJT964 A532.T75432.Q6.K KT6.Q8.KJT42.873 J987.AJ.A875.A52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lynch team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "43368533687aa757a975"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  6
+N  C  8
+S NT  5
+S  S  3
+S  H  3
+S  D  6
+S  C  8
+E NT  7
+E  S 10
+E  H 10
+E  D  7
+E  C  5
+W NT  7
+W  S 10
+W  H  9
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 8,2,0,105,50,50,42,40,97,45,33,38,60,60,156,20,30,224,21,15,38,70,38,10,17,203,43,30,27,64,20,20,25,895,41,13,9,30,16,10,285,88,18,12,20,22,21,15,8,79,23,20,18,32,20,21,13,17,28,27,30,9,21,9,13
+[Auction "W"]
+1D Pass 1H Pass 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+CQ CK C3 C2 
+H6 H2 H8 HA 
+H9 H3 HQ HJ 
+SQ SA S6 S7 
+HK H4 C7 S8 
+C4 D6 C8 CA 
+C6 S2 D2 C5 
+D3 DQ DK DA 
+D9 S5 D4 D5 
+C9 H5 DT S9 
+S4 H7 DJ D8 
+CJ HT ST SJ 
+CT S3 SK D7 

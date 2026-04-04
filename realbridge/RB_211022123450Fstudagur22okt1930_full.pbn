@@ -1,0 +1,1731 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "1"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ.A876.KQ874.J8 K32.5432.T32.952 A8765.KQT9.A9.K6 T94.J.J65.AQT743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "7abb6bbcc72200522005"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 11
+N  D 11
+N  C  6
+S NT 11
+S  S 11
+S  H 12
+S  D 12
+S  C  7
+E NT  2
+E  S  2
+E  H  0
+E  D  0
+E  C  5
+W NT  2
+W  S  2
+W  H  0
+W  D  0
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 2S Pass 
+3H Pass 4NT Pass 
+5D Pass 6H Pass 
+Pass Pass 
+[Play "E"]
+C9 C6 CQ C8 
+C2 CK CA CJ 
+DT DA D6 D4 
+H2 HK HJ H6 
+D3 D9 D5 DK 
+SK SA S4 SQ 
+S3 S5 S9 SJ 
+D2 S6 DJ DQ 
+H3 H9 C3 H7 
+H4 HQ C4 H8 
+H5 HT C7 HA 
+S2 S7 CT D8 
+C5 S8 ST D7 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "1"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ.A876.KQ874.J8 K32.5432.T32.952 A8765.KQT9.A9.K6 T94.J.J65.AQT743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "7abb6bbcc72200522005"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 11
+N  D 11
+N  C  6
+S NT 11
+S  S 11
+S  H 12
+S  D 12
+S  C  7
+E NT  2
+E  S  2
+E  H  0
+E  D  0
+E  C  5
+W NT  2
+W  S  2
+W  H  0
+W  D  0
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1S 3C 
+X Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+CA C8 C5 C6 
+CQ CJ C9 CK 
+HJ H6 H2 HK 
+C3 H7 H3 H9 
+C4 HA H4 HT 
+S4 SQ SK SA 
+S9 SJ S2 S5 
+D5 D4 D3 DA 
+D6 DK D2 D9 
+DJ DQ DT S6 
+C7 D7 S3 S7 
+ST D8 H5 HQ 
+CT H8 C2 S8 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "2"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT92.T.K64.J862 A73.KJ96.973.975 54.Q8542.JT5.T43 J86.A73.AQ82.AKQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "353343543498998a89a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  8
+E  H  9
+E  D  9
+E  C  8
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 2NT =1= Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1:  * 20-21 [0:10]"]
+[Play "N"]
+SK S3 S4 S6 
+HT HJ HQ HA 
+S2 H6 H8 H7 
+D4 D3 DJ DA 
+C2 C5 C3 CA 
+C6 C7 C4 CK 
+C8 C9 CT CQ 
+S9 H9 H2 H3 
+D6 HK H4 S8 
+SQ SA S5 SJ 
+ST S7 H5 D2 
+DK D7 D5 D8 
+CJ D9 DT DQ 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "2"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT92.T.K64.J862 A73.KJ96.973.975 54.Q8542.JT5.T43 J86.A73.AQ82.AKQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "353343543498998a89a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  8
+E  H  9
+E  D  9
+E  C  8
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "E"]
+Pass =1= Pass 2NT Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: Alerted"]
+[Play "N"]
+SK S3 S4 S6 
+SQ SA S5 S8 
+HT H6 H2 HA 
+C2 H9 HQ H3 
+C6 C5 C3 CA 
+D4 HJ H4 H7 
+S2 HK H5 D2 
+DK D3 D5 DQ 
+ST S7 H8 SJ 
+C8 C7 C4 CK 
+CJ C9 CT CQ 
+D6 D7 DJ DA 
+S9 D9 DT D8 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "3"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ53.86.AQ63.872 T942.QT2.T4.JT53 A87.93.KJ852.KQ4 K6.AKJ754.97.A96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68484684846494864948"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  8
+N  C  4
+S NT  6
+S  S  8
+S  H  4
+S  D  8
+S  C  4
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C  8
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+[Auction "S"]
+1D 1H X Pass 
+2D 2H 3D 3H 
+Pass Pass Pass 
+[Play "N"]
+DA D4 D2 D7 
+D3 DT DK D9 
+S3 S2 S7 SK 
+H6 H2 H3 HA 
+H8 HT H9 H4 
+C7 CJ CQ CA 
+C2 C3 CK C9 
+S5 S4 SA S6 
+-  -  S8 -  
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "3"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ53.86.AQ63.872 T942.QT2.T4.JT53 A87.93.KJ852.KQ4 K6.AKJ754.97.A96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68484684846494864948"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  8
+N  C  4
+S NT  6
+S  S  8
+S  H  4
+S  D  8
+S  C  4
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C  8
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+[Auction "S"]
+1D 1H X 2H 
+Pass 3H 4D Pass 
+Pass Pass 
+[Play "W"]
+HA H6 H2 H3 
+HK H8 HT H9 
+D9 D3 D4 DJ 
+D7 DA DT D2 
+CA C2 C5 CK 
+C6 C7 CT CQ 
+C9 C8 CJ C4 
+H4 D6 HQ S7 
+SK SQ S2 S8 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "4"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT4.QJ63.J4.K543 J6532.T.QT6.AT62 AQ98.9842.A83.Q9 7.AK75.K9752.J87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "67745677457659776597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  7
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  6
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 1C 
+1D 1H 2D 2H 
+3D 3H Pass Pass 
+Pass 
+[Play "E"]
+D6 DA D2 D4 
+HT H2 H5 HJ 
+C2 CQ C7 C3 
+S2 S8 S7 SK 
+S3 SQ H7 ST 
+DT D3 DK DJ 
+DQ D8 D9 H3 
+S5 S9 HK S4 
+CT C9 C8 C4 
+S6 SA HA C5 
+-  -  CJ -  
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "4"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT4.QJ63.J4.K543 J6532.T.QT6.AT62 AQ98.9842.A83.Q9 7.AK75.K9752.J87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "67745677457659776597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  7
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  6
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 1S Pass 
+2D Pass Pass 2H 
+Pass Pass Pass 
+[Play "W"]
+S7 S4 S2 S8 
+H5 HQ HT H2 
+HK H3 C2 H8 
+C7 C3 CA C9 
+H7 ST S6 S9 
+HA H6 S3 H4 
+C8 C4 CT CQ 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "5"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ.A942.QT985.AK A542.KJT76.AJ6.J K76.3.K743.QT432 T983.Q85.2.98765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "745b8745b84872448724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  5
+N  D 11
+N  C  8
+S NT  7
+S  S  4
+S  H  5
+S  D 11
+S  C  8
+E NT  4
+E  S  8
+E  H  7
+E  D  2
+E  C  4
+W NT  4
+W  S  8
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+[Auction "N"]
+1D 2D =1= 3D 3S 
+4D 4S Pass Pass 
+Pass 
+[Note "1:  * majors [0:14]"]
+[Play "N"]
+CA CJ CQ C5 
+H2 H6 H3 HQ 
+CK S2 C2 C6 
+D5 DA D3 D2 
+D8 D6 DK S3 
+SJ SA C3 C7 
+DQ DJ D4 S8 
+SQ H7 C4 C8 
+HA HT CT H5 
+H4 HJ S6 H8 
+D9 S4 D7 C9 
+H9 S5 SK S9 
+DT HK S7 ST 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "5"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ.A942.QT985.AK A542.KJT76.AJ6.J K76.3.K743.QT432 T983.Q85.2.98765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "745b8745b84872448724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  5
+N  D 11
+N  C  8
+S NT  7
+S  S  4
+S  H  5
+S  D 11
+S  C  8
+E NT  4
+E  S  8
+E  H  7
+E  D  2
+E  C  4
+W NT  4
+W  S  8
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+[Auction "N"]
+1NT 2H Pass Pass 
+Pass 
+[Play "S"]
+C2 C5 CK CJ 
+C3 C6 CA H6 
+D3 D2 D5 DA 
+D4 H5 D8 D6 
+S6 S3 SJ SA 
+DK H8 D9 DJ 
+S7 S8 SQ S2 
+H3 HQ HA H7 
+D7 C7 DQ HT 
+CQ C8 H2 HK 
+SK S9 H4 S5 
+C4 C9 DT HJ 
+CT ST H9 S4 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "6"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:873.7643.KQ42.J3 KQT94.A.965.KQ62 2.QJ982.AJT8.T95 AJ65.KT5.73.A874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "22771227719b56b9b56b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  7
+N  C  1
+S NT  2
+S  S  2
+S  H  7
+S  D  7
+S  C  1
+E NT  9
+E  S 11
+E  H  5
+E  D  6
+E  C 11
+W NT  9
+W  S 11
+W  H  5
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 3C =1= Pass 
+4S Pass Pass Pass 
+[Note "1:  * bergen [0:11]"]
+[Play "S"]
+HQ H5 H3 HA 
+S2 S5 S3 SK 
+D8 SA S7 S4 
+H2 SJ S8 S9 
+H8 HK H4 D5 
+H9 HT H6 ST 
+C5 CA C3 C2 
+C9 C4 CJ CQ 
+CT C7 D2 CK 
+DT C8 H7 C6 
+DJ D3 DQ D6 
+DA D7 D4 D9 
+HJ S6 DK SQ 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "6"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:873.7643.KQ42.J3 KQT94.A.965.KQ62 2.QJ982.AJT8.T95 AJ65.KT5.73.A874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "22771227719b56b9b56b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  7
+N  C  1
+S NT  2
+S  S  2
+S  H  7
+S  D  7
+S  C  1
+E NT  9
+E  S 11
+E  H  5
+E  D  6
+E  C 11
+W NT  9
+W  S 11
+W  H  5
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "E"]
+1S =1= Pass 3C =2= Pass 
+4S Pass Pass Pass 
+[Note "1: ♠"]
+[Note "2: Alerted"]
+[Play "S"]
+HQ H5 H6 HA 
+S2 S5 S3 SK 
+H8 SA S7 S4 
+D8 S6 S8 S9 
+C5 CA C3 C2 
+H2 HT H3 ST 
+CT C4 CJ CK 
+C9 C7 H4 CQ 
+H9 C8 D2 C6 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "7"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:942.963.63.Q8542 AQ6.QJ54.JT92.AJ K873.K872.K8.T96 JT5.AT.AQ754.K73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "1211312113cbccacbbca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  1
+N  C  3
+S NT  1
+S  S  2
+S  H  1
+S  D  1
+S  C  3
+E NT 12
+E  S 11
+E  H 12
+E  D 12
+E  C 10
+W NT 12
+W  S 11
+W  H 11
+W  D 12
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+C4 CA C6 C3 
+D3 DJ D8 D4 
+D6 DT DK DA 
+S2 D9 S3 D5 
+H6 HQ H2 HA 
+H3 H4 HK HT 
+C2 CJ C9 CK 
+S4 D2 S7 DQ 
+H9 S6 CT D7 
+S9 SQ SK S5 
+C5 SA S8 ST 
+C8 HJ H7 C7 
+CQ H5 H8 SJ 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "7"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:942.963.63.Q8542 AQ6.QJ54.JT92.AJ K873.K872.K8.T96 JT5.AT.AQ754.K73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "1211312113cbccacbbca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  1
+N  C  3
+S NT  1
+S  S  2
+S  H  1
+S  D  1
+S  C  3
+E NT 12
+E  S 11
+E  H 12
+E  D 12
+E  C 10
+W NT 12
+W  S 11
+W  H 11
+W  D 12
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+C4 CJ C6 C3 
+D6 DJ DK DA 
+D3 DT D8 D4 
+S4 D9 S3 D5 
+C2 D2 S7 D7 
+H6 H4 H2 DQ 
+S2 S6 SK SJ 
+C5 CA C9 C7 
+H3 H5 H7 HT 
+C8 HJ CT CK 
+H9 HQ H8 HA 
+S9 SQ S8 S5 
+CQ SA HK ST 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "8"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:532.AJ.KT2.J9865 J.QT952.Q9543.K4 A8764.K84.AJ.732 KQT9.763.876.AQT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "67668676686577565775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "W"]
+1C Pass 1H 1S 
+1NT Pass Pass Pass 
+[Play "N"]
+S2 SJ SA S9 
+S3 D3 S4 ST 
+HJ HQ HK H7 
+C6 C4 C7 CA 
+HA H2 H4 H3 
+C5 CK C2 CT 
+S5 H5 H8 H6 
+C8 D4 C3 CQ 
+D2 H9 S6 SQ 
+C9 HT S7 SK 
+DK D5 DJ D6 
+CJ D9 S8 D7 
+DT DQ DA D8 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "8"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:532.AJ.KT2.J9865 J.QT952.Q9543.K4 A8764.K84.AJ.732 KQT9.763.876.AQT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "67668676686577565775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "W"]
+1D 2C 2H 2S 
+Pass 3S 4D 4S 
+Pass Pass Pass 
+[Play "W"]
+H3 HJ HQ HK 
+H6 HA H2 H4 
+S9 S2 SJ SA 
+H7 S3 H5 H8 
+ST S5 D5 S4 
+D8 D2 DQ DA 
+D6 DK D3 DJ 
+D7 DT D4 C2 
+CT C5 C4 C7 
+SK C6 H9 S8 
+SQ C8 HT S7 
+CA C9 CK C3 
+CQ CJ D9 S6 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "9"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT93.KQJT.KJ9.74 KJ6.653.742.QT95 .A9874.AQ53.KJ32 Q87542.2.T86.A86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a7cc9a7cc92611426114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 12
+N  D 12
+N  C  9
+S NT 10
+S  S  7
+S  H 12
+S  D 12
+S  C  9
+E NT  2
+E  S  6
+E  H  1
+E  D  1
+E  C  4
+W NT  2
+W  S  6
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+[Auction "N"]
+1NT Pass 2D Pass 
+2H Pass 6H Pass 
+Pass Pass 
+[Play "E"]
+S6 C2 SQ SA 
+H3 H4 H2 HK 
+H5 H7 C6 HQ 
+SJ H8 S2 S3 
+D2 D3 D8 DK 
+SK H9 S4 S9 
+H6 HA S5 HT 
+D4 D5 D6 DJ 
+D7 DA DT D9 
+C5 DQ C8 C4 
+C9 C3 CA C7 
+CT CJ S7 ST 
+CQ CK S8 HJ 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "9"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT93.KQJT.KJ9.74 KJ6.653.742.QT95 .A9874.AQ53.KJ32 Q87542.2.T86.A86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a7cc9a7cc92611426114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 12
+N  D 12
+N  C  9
+S NT 10
+S  S  7
+S  H 12
+S  D 12
+S  C  9
+E NT  2
+E  S  6
+E  H  1
+E  D  1
+E  C  4
+W NT  2
+W  S  6
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+[Auction "N"]
+1C =1= Pass 1H 2S 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+CA C4 C9 C2 
+D8 D9 D7 D3 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "10"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT43.AK95.65.KT7 K987.T7.J987.A92 A2.J64.AT432.J64 J65.Q832.KQ.Q853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "87888878885545555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1C 2C 
+Pass 2H Pass Pass 
+3C Pass Pass Pass 
+[Play "N"]
+HK H7 H6 H2 
+HA HT H4 H3 
+H9 S7 HJ HQ 
+D5 D7 DA DK 
+D6 D8 D2 DQ 
+C7 CA C4 C3 
+CT DJ D3 H8 
+SQ SK SA S5 
+S3 D9 DT C8 
+CK C2 C6 C5 
+H5 S8 D4 CQ 
+S4 S9 S2 SJ 
+ST C9 CJ S6 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "10"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT43.AK95.65.KT7 K987.T7.J987.A92 A2.J64.AT432.J64 J65.Q832.KQ.Q853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "87888878885545555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1C =1= 
+Pass 1D Pass 1NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+HT HJ HQ HA 
+S7 SA S5 S3 
+SK S2 S6 ST 
+H7 H4 H2 H9 
+D7 DA DQ D5 
+CA C4 C3 CT 
+S9 H6 SJ SQ 
+C2 D2 H3 HK 
+C9 D3 H8 H5 
+D8 D4 DK D6 
+D9 CJ C5 C7 
+DJ C6 C8 CK 
+S8 DT CQ S4 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "11"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q9832.7.8752.K63 KT65.KQ984.KQ.A7 A7.AT632.T64.982 J4.J5.AJ93.QJT54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3533335333a8a99a8a99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C  9
+W NT 10
+W  S  8
+W  H 10
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+S3 S5 S7 SJ 
+C3 CA C2 C4 
+D2 DQ D4 D3 
+D5 DK D6 D9 
+CK C7 C8 CQ 
+C6 H4 C9 CJ 
+S2 S6 H2 CT 
+H7 H8 H3 C5 
+D7 H9 DT DA 
+D8 HQ H6 DJ 
+S8 HK HA H5 
+S9 ST HT HJ 
+SQ SK SA S4 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "11"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q9832.7.8752.K63 KT65.KQ984.KQ.A7 A7.AT632.T64.982 J4.J5.AJ93.QJT54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3533335333a8a99a8a99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C  9
+W NT 10
+W  S  8
+W  H 10
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 2C Pass 2S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+S3 S5 S7 SJ 
+CK CA C2 CQ 
+D2 DK D4 D3 
+D5 DQ D6 D9 
+C3 C7 C8 CT 
+D7 H4 DT DA 
+D8 S6 H2 DJ 
+C6 H8 C9 CJ 
+H7 H9 H3 HJ 
+S2 HQ HA H5 
+S8 HK H6 C4 
+S9 ST SA S4 
+SQ SK HT C5 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "12"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJT6.82.A986.875 KQ984.75.72.KJ93 752.QT64.KQ5.T62 3.AKJ93.JT43.AQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44353443539998a9998a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  3
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H  9
+E  D  8
+E  C 10
+W NT  9
+W  S  9
+W  H  9
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "W"]
+1H 1S 1NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+S7 S3 SA S4 
+DQ D3 D6 D7 
+C2 CA C7 C3 
+C6 CQ C5 C9 
+CT C4 C8 CK 
+S2 H3 S6 SK 
+S5 H9 SJ SQ 
+H4 D4 H2 CJ 
+H6 HJ H8 H7 
+HT HK D8 H5 
+HQ HA D9 D2 
+D5 DT DA S8 
+DK DJ ST S9 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "12"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJT6.82.A986.875 KQ984.75.72.KJ93 752.QT64.KQ5.T62 3.AKJ93.JT43.AQ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44353443539998a9998a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  3
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H  9
+E  D  8
+E  C 10
+W NT  9
+W  S  9
+W  H  9
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+C8 C3 C6 CA 
+S6 SQ S5 S3 
+H2 H5 H4 HJ 
+C5 C9 C2 CQ 
+C7 CJ CT C4 
+D6 CK S2 D3 
+H8 H7 HT HK 
+D8 D2 H6 HA 
+D9 D7 HQ H9 
+DA S4 DK D4 
+SA S8 S7 H3 
+ST SK D5 DT 
+SJ S9 DQ DJ 
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "13"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:74.Q6542.J97.874 AKQJ62.AK7.Q42.6 85.T93.T3.QJT932 T93.J8.AK865.AK5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1460"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0030400304dd9d9dd9d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  0
+N  C  4
+S NT  0
+S  S  0
+S  H  3
+S  D  0
+S  C  4
+E NT 13
+E  S 13
+E  H  9
+E  D 13
+E  C  9
+W NT 13
+W  S 13
+W  H  9
+W  D 13
+W  C  9
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2D 
+Pass 3S Pass 4C 
+Pass 4H Pass 6S 
+Pass Pass Pass 
+[Play "S"]
+CQ CA C7 C6 
+S5 ST S4 S2 
+S8 S9 S7 S6 
+C2 CK C4 H7 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "13"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:74.Q6542.J97.874 AKQJ62.AK7.Q42.6 85.T93.T3.QJT932 T93.J8.AK865.AK5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1460"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0030400304dd9d9dd9d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  0
+N  C  4
+S NT  0
+S  S  0
+S  H  3
+S  D  0
+S  C  4
+E NT 13
+E  S 13
+E  H  9
+E  D 13
+E  C  9
+W NT 13
+W  S 13
+W  H  9
+W  D 13
+W  C  9
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2D 
+Pass 3S Pass 4S 
+Pass 4NT Pass 5H 
+Pass 6S Pass Pass 
+Pass 
+[Play "S"]
+CQ CA C4 C6 
+S5 S3 S4 SA 
+S8 S9 S7 SK 
+D3 DA D7 D2 
+C2 CK C7 H7 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "14"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arora Johannsdottir#2307"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT42.A853.9863.8 J5.K.KJT72.KQJT5 Q86.Q742.Q5.9764 K973.JT96.A4.A32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[HomeTeam "T 1"]
+[VisitTeam "T 2"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "3553335533a86aaa86aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  5
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  6
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1H Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S2 S5 SQ SK 
+D3 DT DQ D4 
+SA SJ S8 S3 
+ST D2 S6 S7 
+HA HK H2 H6 
+S4 C5 H4 S9 
+D6 D7 D5 DA 
+C8 CT C4 CA 
+D8 CJ C6 C2 
+*
+
+[Event "Föstudagur 22. okt  19:30"]
+[Site "RealBridge"]
+[Date "2021.10.22"]
+[Board "14"]
+[West "omar oskarsson#omar"]
+[North "Sigrun Thorvards#1272"]
+[East "Guðmundur Aldan#1653"]
+[South "Kristján B. Snorrason#1367"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT42.A853.9863.8 J5.K.KJT72.KQJT5 Q86.Q742.Q5.9764 K973.JT96.A4.A32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "3553335533a86aaa86aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  5
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  6
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1H Pass 
+2C Pass 2NT Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S2 S5 S8 S9 
+D3 D2 D5 DA 
+D6 DT DQ D4 
+S4 SJ SQ S3 
+ST D7 S6 S7 
+SA HK C4 SK 
+HA C5 H2 H6 
+H3 DJ HQ H9 
+H5 -  H4 HJ 
+*

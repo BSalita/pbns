@@ -1,0 +1,4081 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "1"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A4.KJ876.J73.T75 QT65.QT32.T842.3 K87.A.AKQ96.A942 J932.954.5.KQJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7bb9a7bb92522425224"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D 11
+N  C  9
+S NT 10
+S  S  7
+S  H 11
+S  D 11
+S  C  9
+E NT  2
+E  S  5
+E  H  2
+E  D  2
+E  C  4
+W NT  2
+W  S  5
+W  H  2
+W  D  2
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,2,1,371,250,122,481,418,455,490,42,450,53,71,30,142,23,84,199,21,54,89,39,13,9,76,36,11,7,24,91,24,11,50,15,48,102,142,86,19,21,36,149,20,8,60,25,8,11,18,19,40,9,53,19,11,22,8,41,9,19,17,7,16,8,9,8,7,11
+[Auction "N"]
+Pass Pass 1C =1= 1D =2= 
+1S =3= 2H =4= 3D Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 16+"]
+[Note "2: hearts or both black suits"]
+[Note "3: Balanced, GF"]
+[Note "4: Playable in hearts or one of the minors * Not minors, shold be black suits [0:56]"]
+[Play "W"]
+CK C5 C3 CA 
+H5 H6 H2 HA 
+D5 D3 D2 DA 
+S9 DJ D4 D6 
+S2 D7 D8 D9 
+H4 C7 DT DQ 
+C6 H7 S5 DK 
+S3 SA S6 S7 
+H9 HK H3 S8 
+SJ S4 ST SK 
+CJ CT HT C2 
+CQ H8 HQ C4 
+C8 HJ SQ C9 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "1"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A4.KJ876.J73.T75 QT65.QT32.T842.3 K87.A.AKQ96.A942 J932.954.5.KQJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7bb9a7bb92522425224"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D 11
+N  C  9
+S NT 10
+S  S  7
+S  H 11
+S  D 11
+S  C  9
+E NT  2
+E  S  5
+E  H  2
+E  D  2
+E  C  4
+W NT  2
+W  S  5
+W  H  2
+W  D  2
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,3,198,683,114,66,59,37,399,43,228,65,241,21,29,214,69,1022,22,3084,528,28,32,43,33
+[Auction "N"]
+Pass Pass 1D Pass 
+1H Pass 3C Pass 
+3S =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * not a nat suit [0:37]"]
+[Play "W"]
+CK C5 C3 CA 
+CJ C7 S5 C2 
+S2 -  -  -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "2"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ5.J.QJT986.AJT 83.K87654.732.Q7 KT94.A9.AK54.985 Q762.QT32..K6432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "cb4c8cb4c81191512915"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H  4
+N  D 12
+N  C  8
+S NT 12
+S  S 11
+S  H  4
+S  D 12
+S  C  8
+E NT  1
+E  S  1
+E  H  9
+E  D  1
+E  C  5
+W NT  1
+W  S  2
+W  H  9
+W  D  1
+W  C  5
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 17,2,1,573,164,373,204,35,401,218,504,29,524,41,199,416,52,29,89,321,58,18,752,23,20,64,43,22,19,15,97,28,17,24,202,34,28,34,192,38,16,20,18,31,82,13,27,21,14,9
+[Auction "E"]
+2D =1= Pass 2H =2= 3D 
+Pass 3H =3= 4H X 
+Pass Pass Pass 
+[Note "1: weak in hearts, 22-24, or strong 4441"]
+[Note "2: to play opposite a weak 2H"]
+[Note "3: DAB"]
+[Play "N"]
+DQ D2 DK H2 
+CJ CQ C8 C4 
+D9 D3 D5 H3 
+CT C7 C5 C3 
+SA S3 S4 S6 
+S5 S8 SK S7 
+HJ H4 HA HT 
+D6 H5 H9 HQ 
+SJ D7 S9 SQ 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "2"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ5.J.QJT986.AJT 83.K87654.732.Q7 KT94.A9.AK54.985 Q762.QT32..K6432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6HX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "cb4c8cb4c81191512915"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H  4
+N  D 12
+N  C  8
+S NT 12
+S  S 11
+S  H  4
+S  D 12
+S  C  8
+E NT  1
+E  S  1
+E  H  9
+E  D  1
+E  C  5
+W NT  1
+W  S  2
+W  H  9
+W  D  1
+W  C  5
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 27,0,3,191,444,136,167,308,296,28,35,27,228,570,269,26,98,52,20,31,158,56,19,118,23,29,16,53,147,18,23,6,15,15,13,15,64,23,9,11,210,20,76,17,30,23,7,20
+[Auction "E"]
+2D =1= X 4H =2= 6D 
+6H X Pass Pass 
+Pass 
+[Note "1: weak 2 in M"]
+[Note "2: pass or correct"]
+[Play "N"]
+DQ D2 DK H2 
+CT CQ C9 C4 
+DJ D3 D4 H3 
+CJ C7 C8 C6 
+SA S3 S4 S2 
+S5 S8 SK S6 
+HJ H4 HA HT 
+D6 H5 H9 HQ 
+SJ D7 S9 SQ 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "3"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ9.T2.KJ5.Q9875 QT.AKQ975.AT.A62 K6432.86.87632.3 875.J43.Q94.KJT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2728527285a5b58a5b58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  8
+N  C  5
+S NT  2
+S  S  7
+S  H  2
+S  D  8
+S  C  5
+E NT 10
+E  S  5
+E  H 11
+E  D  5
+E  C  8
+W NT 10
+W  S  5
+W  H 11
+W  D  5
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 22,2,1,343,62,344,305,75,47,93,40,304,47,23,378,26,40,20,31,17,27,24,202,165,91,30,16,46,10,391,30,24,21,125,189,93,251,120,44,60,23,39,614,34,17,14,22,52,21,24,52,21,11,40,32,15,7,14,8,10,8,12
+[Auction "S"]
+2S =1= Pass 4S 5H 
+Pass Pass Pass 
+[Note "1: S and a minor"]
+[Play "S"]
+C3 CJ C7 C2 
+H6 H3 H2 HA 
+H8 HJ HT H5 
+S2 H4 S9 HK 
+S3 S5 C5 HQ 
+S6 S7 SA H9 
+D6 D4 D5 H7 
+S4 C4 C9 CA 
+SK S8 SJ ST 
+D2 DQ DK DA 
+D7 D9 DJ SQ 
+D3 CT C8 DT 
+D8 CK CQ C6 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "3"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ9.T2.KJ5.Q9875 QT.AKQ975.AT.A62 K6432.86.87632.3 875.J43.Q94.KJT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2728527285a5b58a5b58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  8
+N  C  5
+S NT  2
+S  S  7
+S  H  2
+S  D  8
+S  C  5
+E NT 10
+E  S  5
+E  H 11
+E  D  5
+E  C  8
+W NT 10
+W  S  5
+W  H 11
+W  D  5
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,153,22,180,221,455,427,67,484,96,14,48,157,80,27,24,19,21,1455,33,272,43,17,18,22,41,23,19,20,54,14,8,17,266,11,18,32,43,13,21,29,22,23,30,29,39,15,20,43,117,9,8
+[Auction "S"]
+Pass Pass 1NT =1= X 
+2D =2= X =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 11-14"]
+[Note "2: diamonds and a higher suit"]
+[Note "3: pens"]
+[Play "S"]
+S3 S5 SA ST 
+S4 S7 SJ SQ 
+H6 HJ H2 H5 
+C3 CJ CQ CA 
+H8 H3 HT HA 
+D6 H4 D5 HK 
+D2 S8 C5 HQ 
+D3 D4 S9 H9 
+D7 D9 DJ H7 
+D8 DQ DK DA 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "4"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKT432.A.KJ62.96 96.KQ8532.83.T82 Q85.74.AQ97.Q543 J7.JT96.T54.AKJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9b5b5bb5b62281722817"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  5
+N  D 11
+N  C  5
+S NT 11
+S  S 11
+S  H  5
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  8
+E  D  1
+E  C  7
+W NT  2
+W  S  2
+W  H  8
+W  D  1
+W  C  7
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 18,2,1,87,114,36,225,60,325,37,120,45,90,29,30,31,84,174,119,18,47,28,18,19
+[Auction "W"]
+Pass 1S Pass 2D =1= 
+Pass 3D =2= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: Inv; not 4S not 5H"]
+[Note "2: 13-15"]
+[Play "E"]
+HK H4 H6 HA 
+S6 S5 S7 SA 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "4"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKT432.A.KJ62.96 96.KQ8532.83.T82 Q85.74.AQ97.Q543 J7.JT96.T54.AKJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9b5b5bb5b62281722817"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  5
+N  D 11
+N  C  5
+S NT 11
+S  S 11
+S  H  5
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  8
+E  D  1
+E  C  7
+W NT  2
+W  S  2
+W  H  8
+W  D  1
+W  C  7
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 18,0,3,169,53,70,127,59,330,129,398,44,279,34,223,18,100,199,164,40
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 3H =1= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: ♢ and short ♡"]
+[Play "E"]
+S6 S5 S7 ST 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "5"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ4.75.T976.9765 875.QT984.43.AQ3 T963.A2.AKJ82.KT KJ2.KJ63.Q5.J842"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "9a6a79a6a73372533625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D 10
+N  C  7
+S NT  9
+S  S 10
+S  H  6
+S  D 10
+S  C  7
+E NT  3
+E  S  3
+E  H  7
+E  D  2
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 7,2,1,137,61,125,84,314,104,280,108,81,38,37,36,102,17,23,106,39,22,23,111,29,39,16,132,25,17,9,97,14,22,10,205,20,15,17,16,125,32,23,33,26,8,28,17,19
+[Auction "N"]
+Pass Pass 1D =1= Pass 
+Pass 1H Pass 2H 
+Pass Pass Pass 
+[Note "1:  * May be one and may have 5 clubs [0:11]"]
+[Play "S"]
+DA D5 DT D3 
+ST SJ SQ S5 
+DK DQ D6 D4 
+S9 SK SA S7 
+S3 S2 S4 S8 
+HA H3 H5 HT 
+H2 HK H7 H4 
+CT C2 C5 CA 
+CK -  -  C3 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "5"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ4.75.T976.9765 875.QT984.43.AQ3 T963.A2.AKJ82.KT KJ2.KJ63.Q5.J842"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "6"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "9a6a79a6a73372533625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D 10
+N  C  7
+S NT  9
+S  S 10
+S  H  6
+S  D 10
+S  C  7
+E NT  3
+E  S  3
+E  H  7
+E  D  2
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 12,0,3,122,42,89,38,116,42,192,114,52,41,249,31,77,61,61,19,294,117,78,116,13,315,21,28,12,281,65,12,34,98,171,26,16,28,39,10,22,34,41,36,18,52,45,21,30,15,15,32,8
+[Auction "N"]
+Pass Pass 1D Pass 
+2D Pass Pass X 
+Pass 2H 2S Pass 
+3D 3H Pass Pass 
+Pass 
+[Play "S"]
+DK D5 D6 D3 
+DA DQ DT D4 
+HA H3 H5 H8 
+H2 H6 H7 H9 
+S3 SJ SQ S5 
+CK C2 C7 C3 
+ST SK SA S7 
+S9 S2 S4 S8 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "6"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A85.Q73.Q93.AT32 Q64.84.AK86.QJ85 KJ3.AT952.752.K7 T972.KJ6.JT4.964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "87977879775646656466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  6
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,2,1,111,155,63,338,60,170,30,172,31,167,366,33,17,23,26,31,62,140,32,24,23,265,45,9,8,28,32,10,15,12,9,18,33,42,36,26,7,46,47,46,19,17,33,25,33
+[Auction "E"]
+1C 1H Pass 2D =1= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: good raise"]
+[Play "W"]
+C9 CA C5 C7 
+HK HQ H4 H5 
+C6 C2 C8 CK 
+H6 H3 H8 HA 
+S2 SA S6 S3 
+S7 S5 S4 SJ 
+S9 S8 SQ SK 
+DT DQ DK D2 
+C4 C3 CJ H2 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "6"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A85.Q73.Q93.AT32 Q64.84.AK86.QJ85 KJ3.AT952.752.K7 T972.KJ6.JT4.964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "87977879775646656466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  6
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,121,71,60,234,50,175,31,81,38,93,30,75,1350,33,11,64,21,30,36,62,65,25,32,765,18,29,13,117,19,34,23,224,49,53,35,21,13,21,21,37,16,26,29,109,34,46,58,181,66,73,49,114,24,60,54,27,22,17,18,15,12,7,8
+[Auction "E"]
+1C =1= 1H Pass 2C =2= 
+Pass 2S Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: UCB"]
+[Play "W"]
+C6 CA C5 C7 
+HJ H3 H4 H9 
+C9 C2 C8 CK 
+S2 SA S4 S3 
+HK H7 H8 HT 
+H6 HQ D6 H2 
+S7 S5 S6 SJ 
+S9 S8 SQ SK 
+DT D3 D8 D2 
+ST C3 CJ H5 
+C4 CT CQ HA 
+D4 D9 DK D5 
+DJ DQ DA D7 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "7"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJT96.K4.KQ93.J9 A8.AQT73.J85.A73 Q754.9652.76.862 32.J8.AT42.KQT54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2723127231a6baba6bac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  3
+N  C  1
+S NT  2
+S  S  7
+S  H  2
+S  D  3
+S  C  1
+E NT 10
+E  S  6
+E  H 11
+E  D 10
+E  C 11
+W NT 10
+W  S  6
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 17,2,1,73,64,90,53,94,159,200,1228,56,378,145,51,71,95,473,59,10,19,86,14,34,35,22,22,21,28,13,20,31,19,17,17,59,26,23,15,59,26,34,10,12,23,50,24,37
+[Auction "S"]
+Pass Pass 1S 2H 
+2S X Pass 3S =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: no agreement"]
+[Play "S"]
+S4 S2 S9 SA 
+C8 CK C9 C7 
+H2 HJ H4 H3 
+H5 H8 HK HA 
+H6 D2 D3 HQ 
+H9 S3 S6 HT 
+C2 C4 CJ CA 
+C6 CQ ST C3 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "7"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJT96.K4.KQ93.J9 A8.AQT73.J85.A73 Q754.9652.76.862 32.J8.AT42.KQT54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2723127231a6baba6bac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  3
+N  C  1
+S NT  2
+S  S  7
+S  H  2
+S  D  3
+S  C  1
+E NT 10
+E  S  6
+E  H 11
+E  D 10
+E  C 11
+W NT 10
+W  S  6
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 15,0,3,120,77,112,129,120,182,63,178,126,62,73,215,52,21,51,138,555,42,7,19,48,18,20,19,16,20,30,35,31,7,35,83,31,19,34,17,29,18,16,19,27,9,37,684,45,17,106,26,30,14,22,19,16,19,64,29,22,6,23,7,13,7,13,9,12,13,7
+[Auction "S"]
+Pass Pass 1S 2H 
+Pass 3C Pass 3S =1= 
+X Pass Pass 4C 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Play "N"]
+SJ SA S4 S2 
+C9 C3 C2 CK 
+CJ CA C6 C4 
+D3 C7 C8 CQ 
+HK HA H2 HJ 
+H4 HQ H5 H8 
+S6 HT H6 S3 
+S9 H3 H9 C5 
+DQ D5 D6 D2 
+SK S8 S5 CT 
+D9 D8 D7 DA 
+DK DJ S7 D4 
+ST H7 SQ DT 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "8"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8432.AQT6.T87.AQ J6.8732.A9.76532 KQT95.5.J6542.J9 A7.KJ94.KQ3.KT84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "89594895945474854848"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  4
+E  H  7
+E  D  4
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,196,380,72,308,49,130,38,133,51,36,138,110,135,38,11,22,22,55,14,101,12,60,32,354,31,43,16,12,15,20,42,31,20,11,23
+[Auction "W"]
+1NT X =1= Pass 2NT =2= 
+Pass 3H Pass 4S 
+Pass Pass Pass 
+[Note "1: majors or minors"]
+[Note "2: Please clarify"]
+[Play "W"]
+DQ D7 DA D5 
+DK D8 D9 D6 
+D3 DT S6 D4 
+C4 CQ C6 C9 
+SA S2 SJ SQ 
+C8 CA C3 CJ 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "8"]
+[West "Chris Wilson#106356"]
+[North "Richard Edwards#401500"]
+[East "Matthew Covill#421396"]
+[South "Robert Ross#039431"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8432.AQT6.T87.AQ J6.8732.A9.76532 KQT95.5.J6542.J9 A7.KJ94.KQ3.KT84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "89594895945474854848"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  4
+E  H  7
+E  D  4
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,192,50,65,113,34,456,35,89,112,42,12,44,20,39,24,35,65,69,94,38,30,43,13,22,78,20,20,13,53,57,13,29,16,112,13,40,54,53,23,79,50
+[Auction "W"]
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+H6 H2 H5 H9 
+D8 DA D4 D3 
+CA C2 C9 CK 
+S8 S6 S9 SA 
+CQ C3 CJ C8 
+S2 SJ SQ S7 
+S3 H3 SK CT 
+S4 H7 ST H4 
+D7 H8 S5 DQ 
+-  -  D2 -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "9"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ76.AJ.Q985.964 KJ5.K752.J76.JT3 T84.Q98.A432.AQ7 932.T643.KT.K852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "88686786865575755757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  7
+W NT  5
+W  S  5
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,4,3,1180,49,250,35,136,39,49,310,33,89,71,24,18,19,20,24,21,17,197,240,48,22,246,779,34,29,59,21,31,25,143,23,15,29,28,25,54,19
+[Auction "N"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+H2 H8 HT HJ 
+D6 DA DT D5 
+D7 D2 DK D8 
+SK S4 S9 SQ 
+CJ CA C5 C4 
+S5 ST S3 SA 
+SJ S8 S2 S6 
+CT CQ CK C6 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "9"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ76.AJ.Q985.964 KJ5.K752.J76.JT3 T84.Q98.A432.AQ7 932.T643.KT.K852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "88686786865575755757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  7
+W NT  5
+W  S  5
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,192,36,135,53,288,53,154,40,91,49,129,22,47,29,638,1198,55,36,28,31,25,56,82,48,41,18,208,25,10,14,632,36,42,64,29,139,43,120,135,27,17,11,46,20,44,31,89,16,18,26,65,25,17,14
+[Auction "N"]
+1S Pass 2D =1= Pass 
+2H =2= Pass 2S =3= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: Inv; not 4S not 5H"]
+[Note "2: majors or 4S"]
+[Note "3: Relay"]
+[Play "E"]
+CJ CA C2 C4 
+SK S4 S3 SQ 
+CT CQ CK C6 
+C3 C7 C5 C9 
+D7 D2 DT D9 
+H2 S8 C8 S6 
+HK H8 H6 HJ 
+H5 H9 H3 HA 
+D6 DA DK D5 
+H7 HQ H4 S7 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "10"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:2.KT984.73.KT983 653.J65.KQ62.AJ4 AK874.732.AT8.76 QJT9.AQ.J954.Q52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "55857558577848578485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  8
+E  H  4
+E  D  8
+E  C  5
+W NT  7
+W  S  8
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,70,93,42,330,438,72,78,272,30,180,17,30,164,26,17,42,84,16,28,11,73,17,19,12,289,269,35,34,37,76,17,27,78,23,12,107,34,29,18,24,103,22,16,17,83,17,20,12,20,70,11,18,8,17,7,13,6,13,8,11
+[Auction "E"]
+Pass 1S Pass Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+S7 S9 S2 S3 
+DA D4 D7 DK 
+H7 HQ HK H5 
+H2 HA H4 H6 
+SK ST C3 S5 
+C7 C2 C8 CJ 
+SA SJ HT S6 
+C6 CQ CK CA 
+H3 C5 H8 HJ 
+D8 DJ D3 D2 
+S4 SQ C9 C4 
+DT D5 H9 DQ 
+S8 D9 CT D6 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "10"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:2.KT984.73.KT983 653.J65.KQ62.AJ4 AK874.732.AT8.76 QJT9.AQ.J954.Q52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "55857558577848578485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  8
+E  H  4
+E  D  8
+E  C  5
+W NT  7
+W  S  8
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 12,4,3,103,69,65,90,163,1326,44,64,184,453,103,46,27,61,89,76,23,123,30,18,19,262,32,38,34,69,26,260,24,135,30,39,13,26,15,8,8,19,23,237,48,236,27,247,20,39,23,7,15,10,20
+[Auction "E"]
+Pass Pass 1C =1= 1H 
+1NT 2H Pass Pass 
+3C 3H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "E"]
+H5 H2 HA H4 
+H6 H3 HQ HK 
+S3 SA SQ S2 
+CJ C6 C2 C8 
+DK DA D5 D3 
+S5 SK SJ D7 
+CA C7 C5 C3 
+HJ H7 ST H8 
+DQ D8 D4 H9 
+C4 -  -  CK 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "11"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:643.643.K4.T9852 AJ95.JT97.AQJ7.4 K87.AQ82.85.QJ63 QT2.K5.T9632.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "2232522325ab9b8ab9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  3
+S  D  2
+S  C  5
+E NT 10
+E  S 11
+E  H  9
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,2,1,163,44,80,353,63,591,59,23,32,131,83,30,45,579,37,91,731,23,48,118,34,35,68,167,18,31,17,104,20,38,34,64,96,51,53,58,58,26,20,118,76,35,369,125,32,22,32,24,158,22,17,48,23,22,8,40,25
+[Auction "S"]
+1NT =1= Pass Pass 2C =2= 
+Pass 2D =3= Pass 2H 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: diamonds or both majors"]
+[Note "3: to play opposite D"]
+[Play "N"]
+C9 C4 CJ C7 
+C2 H7 C3 CA 
+D4 DQ D5 D3 
+DK DA D8 D2 
+S6 DJ H2 D6 
+H6 D7 S8 DT 
+S3 S5 CQ D9 
+S4 S9 SK ST 
+H3 H9 H8 HK 
+C5 HT C6 CK 
+C8 -  -  S2 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "11"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:643.643.K4.T9852 AJ95.JT97.AQJ7.4 K87.AQ82.85.QJ63 QT2.K5.T9632.AK7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "2232522325ab9b8ab9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  3
+S  D  2
+S  C  5
+E NT 10
+E  S 11
+E  H  9
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 12,4,3,133,129,79,236,80,783,39,819,76,94,50,144,193,55,33,152,22,15,51,23,44,22,11,47,17,18,43,95,718,25,45,16,19,12,28,200,54,16,9,103,28,11,222,18,290,28,8,80,31,10,6,36,106,12,28,11,25,26,11,7,9,27,12
+[Auction "S"]
+1NT Pass Pass 2D =1= 
+Pass 2NT =2= Pass 3H =3= 
+Pass Pass Pass 
+[Note "1: majors"]
+[Note "2: asks"]
+[Note "3: better hearts, weaker range"]
+[Play "S"]
+CQ CK C8 C4 
+D8 D2 DK DA 
+H2 HK H3 H7 
+HQ H5 H4 HJ 
+C3 CA C2 S5 
+D5 D3 D4 DQ 
+HA S2 H6 H9 
+CJ C7 C5 HT 
+S7 D6 S3 DJ 
+H8 D9 S4 D7 
+C6 SQ C9 S9 
+S8 ST CT SJ 
+SK DT S6 SA 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "12"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ93.Q9732.J2.A3 J8.K8.K9875.QJ98 6.AJT6.AQT4.T642 KT7542.54.63.K75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 710"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "b8d9ab8d9a2403324033"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 13
+N  D  9
+N  C 10
+S NT 11
+S  S  8
+S  H 13
+S  D  9
+S  C 10
+E NT  2
+E  S  4
+E  H  0
+E  D  3
+E  C  3
+W NT  2
+W  S  4
+W  H  0
+W  D  3
+W  C  3
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 17,2,1,367,146,76,141,34,124,34,53,27,55,621,44,41,204,47,17,40,233,24,19,33,61,20,23,25,236,39,14,37,20,11,13,25
+[Auction "W"]
+2S =1= Pass Pass X 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "E"]
+SJ S6 S2 SQ 
+D5 D4 D3 DJ 
+H8 H6 H4 H9 
+HK HA H5 HQ 
+C8 C2 C7 CA 
+D7 DT D6 D2 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "12"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ93.Q9732.J2.A3 J8.K8.K9875.QJ98 6.AJT6.AQT4.T642 KT7542.54.63.K75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 710"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "b8d9ab8d9a2403324033"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 13
+N  D  9
+N  C 10
+S NT 11
+S  S  8
+S  H 13
+S  D  9
+S  C 10
+E NT  2
+E  S  4
+E  H  0
+E  D  3
+E  C  3
+W NT  2
+W  S  4
+W  H  0
+W  D  3
+W  C  3
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 17,4,3,151,111,207,84,33,532,43,181,28,51,163,41,25,207,22,43,22,148,19,24,17,620,19,9,16,13,37,16,14,22,19,13,13,20,17,9,15
+[Auction "W"]
+2D =1= X 2H =2= X 
+2S 4H Pass Pass 
+Pass 
+[Note "1: weak with 6M"]
+[Note "2: p/c"]
+[Play "E"]
+SJ S6 S2 SQ 
+H8 H6 H4 H9 
+HK HA H5 H2 
+C8 C2 C5 CA 
+D7 D4 D6 DJ 
+D5 DT D3 D2 
+D8 DA S5 C3 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "13"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT7.A.A732.A652 9.T97543.Q965.T7 KQ8643.QJ2.8.Q94 52.K86.KJT4.KJ83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "ab669ac6793166331663"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  6
+N  D  6
+N  C  9
+S NT 10
+S  S 12
+S  H  6
+S  D  7
+S  C  9
+E NT  3
+E  S  1
+E  H  6
+E  D  6
+E  C  3
+W NT  3
+W  S  1
+W  H  6
+W  D  6
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,302,48,396,77,313,40,158,39,121,966,53,39,286,40,15,46,558,41,49,33,56,33,13,31,42,22,39,16,19,24,39,34,18,21,20,27,17,23,23,15,44,27,13,29,32,19,29,28,18,12,8,10
+[Auction "N"]
+1C =1= Pass 1NT =2= Pass 
+4S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: normally 5-7; may be more with <2 controls; unbal with S"]
+[Play "E"]
+CT C4 C3 CA 
+H3 H2 H8 HA 
+S9 S3 S2 ST 
+D5 D8 D4 DA 
+D6 S6 DJ D2 
+H4 HJ H6 S7 
+D9 S8 DT D3 
+H5 HQ HK SA 
+H7 S4 S5 SJ 
+C7 CQ CK C2 
+H9 C9 CJ C5 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "13"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT7.A.A732.A652 9.T97543.Q965.T7 KQ8643.QJ2.8.Q94 52.K86.KJT4.KJ83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "ab669ac6793166331663"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  6
+N  D  6
+N  C  9
+S NT 10
+S  S 12
+S  H  6
+S  D  7
+S  C  9
+E NT  3
+E  S  1
+E  H  6
+E  D  6
+E  C  3
+W NT  3
+W  S  1
+W  H  6
+W  D  6
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 28,4,3,150,39,172,68,711,45,51,16,50,398,48,20,1238,33,57,8,81,20,65,17,101,18,19,20,104,23,56,20,271,14,25,65,98,16,27,19,279,26,27,12,151,14,19,20,644,20,14,6,14,17,32,15,12,19,12,43,40,28,7,9
+[Auction "N"]
+1S Pass 4S Pass 
+6S Pass Pass Pass 
+[Play "E"]
+HT H2 H6 HA 
+D6 D8 D4 DA 
+D5 SK DT D2 
+S9 S3 S2 ST 
+D9 SQ DJ D3 
+H3 HQ H8 C2 
+H4 S4 S5 SJ 
+DQ S6 DK D7 
+H5 HJ HK S7 
+C7 C4 C3 CA 
+CT CQ CK C5 
+H7 C9 CJ C6 
+H9 S8 C8 SA 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "14"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ742.T853.5.964 KQ85.642.A862.Q8 96.A9.KJT4.KJ753 T3.KQJ7.Q973.AT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "45457555578788587785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  5
+W NT  8
+W  S  7
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,99,86,167,52,119,58,50,45,74,35,92,164,626,119,314,30,19,35,31,36,26,8,58,12,19,38,73,24,29,20,454,23,14,22,15,24,16,19,50,104,14,31,21,66,15,16,34,17,15,8,46
+[Auction "E"]
+1S Pass 2D =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: nat gf"]
+[Play "S"]
+C5 C2 C9 CQ 
+HA H7 H5 H4 
+CJ CT C4 C8 
+C3 CA C6 D2 
+S6 S3 S4 SK 
+D4 D3 D5 DA 
+DK D7 S2 D6 
+CK D9 H8 S5 
+C7 ST H3 H2 
+S9 HJ SA S8 
+-  -  SJ -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "14"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ742.T853.5.964 KQ85.642.A862.Q8 96.A9.KJT4.KJ753 T3.KQJ7.Q973.AT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "45457555578788587785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  5
+W NT  8
+W  S  7
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,4,3,194,260,26,270,293,73,40,68,90,56,631,34,32,22,48,30,15,458,47,13,42,405,30,36,11,164,47,72,30,212,46,14,36,92,79,28,22,101,15,20,7,405,43,59,40,58,22,15,22,23,12,19,7,18,10,19,7,12,21,7,16
+[Auction "E"]
+Pass 1NT Pass 2H =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1:  * Transfer to spades [0:41]"]
+[Play "W"]
+HK H3 H2 HA 
+HJ H5 H4 H9 
+C2 C4 CQ CK 
+CT C6 C8 C5 
+CA C9 D2 C3 
+D9 D5 DA D4 
+H7 H8 H6 S6 
+D3 HT D6 DK 
+ST SJ SQ S9 
+D7 S2 D8 DT 
+S3 SA S5 DJ 
+DQ S4 S8 C7 
+HQ S7 SK CJ 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "15"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:.AT86.J984.AQ863 Q632.QJ954..KJ54 AJ75.732.752.T72 KT984.K.AKQT63.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "43546434469a8979a897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  4
+S  D  4
+S  C  6
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C  7
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,62,73,77,50,41,67,53,429,36,173,45,79,28,31,36,300,259,40,30,58,685,33,43,822,18,27,86,100,20,32,13,25,18,24,18,28,18,138,19,428,20,70,32,24,44,41,38,79,43,21,78,17,16,28,6,19
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1S Pass 1NT 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+CA C4 C2 C9 
+C6 CK C7 HK 
+C3 S2 S5 SK 
+D4 H4 D5 DA 
+D9 H5 D2 DK 
+D8 H9 D7 DQ 
+DJ S3 S7 D3 
+C8 C5 CT S4 
+H6 S6 SJ D6 
+H8 SQ SA S9 
+-  -  H3 -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "15"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:.AT86.J984.AQ863 Q632.QJ954..KJ54 AJ75.732.752.T72 KT984.K.AKQT63.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "43546434469a8979a897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  4
+S  D  4
+S  C  6
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C  7
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 23,4,3,228,50,739,94,161,169,62,202,61,44,35,89,54,130,38,396,69,37,47,13,66,249,67,86,12,538,19,54,7,56,48,36,19,276,46,19,29,19,56,409,47,159,239,30,11,13,58,15,59,21,19,8,23,12,17,9,13,67,17,69,112,18,24,14,27
+[Auction "S"]
+Pass 1D 1H X 
+Pass 2H =1= Pass 2NT 
+Pass 3S Pass 4S 
+Pass 4NT Pass 5C =2= 
+Pass 5S Pass Pass 
+Pass 
+[Note "1: force"]
+[Note "2: 3/0"]
+[Play "N"]
+CA C4 C7 C9 
+HA H4 H2 HK 
+C3 CK C2 D3 
+H6 HQ H3 S4 
+C6 S2 SJ ST 
+D8 S3 D2 D6 
+C8 S6 S7 S8 
+D4 H5 D5 DA 
+D9 C5 D7 DK 
+DJ SQ SA DQ 
+CQ CJ CT S9 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "16"]
+[West "Peter Kelly#"]
+[North "Denis Talbot#48875"]
+[East "Alex Hogg#"]
+[South "Kathy Talbot#41090"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:95.QT.A9832.A876 Q82.AK642.T6.K32 AJT7.9753.Q4.QJ5 K643.J8.KJ75.T94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "87778877785666556665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,53,119,66,76,48,40,543,151,44,107,46,15,28,389,27,13,44,37,43,27,24,319,26,40,25,13,17,85,66,11,23,46,23,12,31,83,265,15
+[Auction "W"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1:  * 10-12 [0:10]"]
+[Play "E"]
+H4 H3 H8 HT 
+S2 S7 S3 S9 
+D6 DQ DK D3 
+H2 H5 HJ HQ 
+CK C5 CT C8 
+HA H7 S4 D8 
+HK H9 C4 D9 
+H6 ST C9 S5 
+S8 -  -  -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "16"]
+[West "Chris Wilson#106356"]
+[North "Paul#"]
+[East "Matthew Covill#421396"]
+[South "Terence Squibb#44193"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:95.QT.A9832.A876 Q82.AK642.T6.K32 AJT7.9753.Q4.QJ5 K643.J8.KJ75.T94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "87778877785666556665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 9,4,3,51,163,92,101,67,56,35,814,31,53,60,37,358,25,42,412,32,35,22,24,26,22,29,77,33,80,28,16,26,12,26,169,323,26,59,18,556,20,20,25,19,21,13,29,20,34,9,114,21,24,10,19,9,26,20,25,14,17,9,20,19,8,17
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2NT 
+Pass Pass Pass 
+[Play "W"]
+S3 S5 SQ SA 
+S4 S9 S2 S7 
+DK D2 D6 DQ 
+CT C6 CK C5 
+H8 HT HA H3 
+SK D3 S8 SJ 
+D5 DA DT D4 
+C4 C7 C2 CQ 
+S6 D8 H2 ST 
+C9 CA C3 CJ 
+D7 C8 H4 H5 
+HJ HQ HK H7 
+DJ D9 H6 H9 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "17"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ5.Q72.J76.QT93 K8763.J9.K3.AKJ4 A2.AK843.A42.762 T94.T65.QT985.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "85878858685756557565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  5
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  7
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 12,3,1,412,85,162,50,92,67,34,57,39,31,106,40,71,644,33,32,74,25,18,36,64,31,19,49,22,21,39,9,45,26,24,38,34,150,33,9,95,37,8,24,57,309,47,24,25,83,18,49,89,54,11,15,28,25,7,7,6,8,10,16,6,14,6,6
+[Auction "N"]
+Pass 1S 2H Pass 
+Pass X Pass 2S 
+3H Pass Pass Pass 
+[Play "W"]
+ST SJ S6 S2 
+H5 H2 H9 HA 
+C5 C9 CJ C6 
+S4 S5 S3 SA 
+C8 CT CK C7 
+S9 SQ SK H3 
+H6 H7 HJ HK 
+HT C3 C4 C2 
+DT D6 D3 D2 
+D9 DJ DK DA 
+D5 HQ S7 H4 
+D8 CQ CA H8 
+DQ D7 S8 D4 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "17"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ5.Q72.J76.QT93 K8763.J9.K3.AKJ4 A2.AK843.A42.762 T94.T65.QT985.85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "85878858685756557565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  5
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  7
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 13,4,2,1170,92,360,693,239,122,91,223,33,19,113,34,126,17,26,48,19,9,18,125,22,8,40,25,49,11,13,9,21,9,7,18,21,12,21,48,18,19,49,305,83,69,65,21,82,21,9,19,10,10,24,9,15,9,207,19,21,8,29,13,6,15,7
+[Auction "N"]
+Pass 1S 2H 2S 
+3H X =1= Pass 3S 
+Pass Pass Pass 
+[Note "1: Game try"]
+[Play "S"]
+HK H5 H2 H9 
+HA H6 H7 HJ 
+H4 HT HQ S3 
+C2 C5 C3 CA 
+C6 C8 C9 CK 
+C7 S4 CT C4 
+DA D5 D6 DK 
+H3 S9 SJ SK 
+D2 ST CQ CJ 
+D4 DQ D7 D3 
+H8 D8 DJ S6 
+S2 D9 SQ S7 
+SA DT S5 S8 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "18"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T73.QT9.KJT6.AT7 KQ42.32.AQ8.KJ52 A5.A8754.742.Q93 J986.KJ6.953.864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "65876658767856778567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  8
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  5
+E  D  6
+E  C  7
+W NT  7
+W  S  8
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,3,1,144,63,44,41,47,229,21,10,67,15,99,17,16,11,13,34,18,33,20,22,15,20,310,19,40,37,8,35,141,18,19,17,25,17,16,7,37,17,11,27,8,22,24,75,10,8,13,24,17,11,19,17,14,11,8,7
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 14-16"]
+[Play "S"]
+H5 HJ HQ H2 
+HA H6 HT H3 
+H8 HK H9 C2 
+SA S6 S3 SK 
+H7 D3 S7 D8 
+H4 C4 ST C5 
+C3 C6 CA CJ 
+C9 C8 CT CK 
+S5 S8 D6 SQ 
+D2 S9 C7 S4 
+D4 SJ DT S2 
+D7 D5 DJ DQ 
+CQ D9 DK DA 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "18"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T73.QT9.KJT6.AT7 KQ42.32.AQ8.KJ52 A5.A8754.742.Q93 J986.KJ6.953.864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "65876658767856778567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  8
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  5
+E  D  6
+E  C  7
+W NT  7
+W  S  8
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,4,2,99,63,232,41,134,253,204,100,48,32,591,30,48,31,75,26,18,24,26,68,31,9,14,42,18,8,32,20,8,19,79,22,8,41,36,26,16,39,107,19,5,16,38,48,31,17,19,36,9,9
+[Auction "E"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "S"]
+C3 C4 CA C5 
+C9 C6 C7 CK 
+H4 HJ HQ H2 
+D2 D3 DJ DA 
+HA H6 H9 H3 
+CQ C8 CT C2 
+H5 HK HT D8 
+SA S6 S3 SQ 
+D4 D5 DK DQ 
+D7 D9 DT S4 
+S5 S8 S7 SK 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "19"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T5.J954.K972.T52 4.T87.QJ64.87643 KJ976.A632.3.KQJ AQ832.KQ.AT85.A9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "66745667457769777697"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  4
+N  C  5
+S NT  6
+S  S  6
+S  H  7
+S  D  4
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  9
+E  C  7
+W NT  7
+W  S  7
+W  H  6
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,3,1,149,313,76,88,315,37,346,24,41,95,20,19,10,124,16,54,14,495,62,8,55,61,33,14,155,27,25,39,45,18,64,11
+[Auction "S"]
+1S 1NT =1= Pass Pass 
+Pass 
+[Note "1: 17-20"]
+[Play "N"]
+ST S4 S6 SQ 
+D2 D4 D3 DA 
+DK D6 H6 D8 
+S5 C3 S9 SA 
+H5 H7 HA HK 
+D7 C4 SK S3 
+C2 -  CK CA 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "19"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T5.J954.K972.T52 4.T87.QJ64.87643 KJ976.A632.3.KQJ AQ832.KQ.AT85.A9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "66745667457769777697"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  4
+N  C  5
+S NT  6
+S  S  6
+S  H  7
+S  D  4
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  9
+E  C  7
+W NT  7
+W  S  7
+W  H  6
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,4,2,138,1528,76,64,115,74,465,36,500,20,647,27,27,226,32,35,34,306,26,13,78,53,83,20,14,48,38,15,24,72,22,17,38,25,18,12,61,22,67,28,97,36,19,15,14,24,25,11,11,16,17,35,12,15,13,7,12
+[Auction "S"]
+1S 1NT Pass Pass 
+Pass 
+[Play "N"]
+D2 D4 D3 D8 
+DK D6 H2 D5 
+ST S4 S7 SQ 
+H4 H7 HA HK 
+S5 C3 S9 S3 
+D7 C4 SK SA 
+H5 H8 H3 HQ 
+D9 DJ H6 DA 
+H9 DQ CJ DT 
+C2 C6 CQ CA 
+C5 C7 CK C9 
+HJ HT SJ S2 
+CT C8 S6 S8 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "20"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ32.AQ4.2.QJ764 9.J98732.KQJ7.KT AT765.T65.83.A85 J84.K.AT9654.932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "7b64b7b64b4269242692"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  6
+N  D  4
+N  C 11
+S NT  7
+S  S 11
+S  H  6
+S  D  4
+S  C 11
+E NT  4
+E  S  2
+E  H  6
+E  D  9
+E  C  2
+W NT  4
+W  S  2
+W  H  6
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 8,3,1,85,123,114,64,622,183,42,221,41,126,327,34,24,35,19,10,16,49,13,10,21,56,22,17,14,179,19,14,26,11,18,24,16,36,18,26,9,11,20,24,19
+[Auction "W"]
+Pass 1C =1= 1H 1S 
+X =2= 2S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: 3 card support (spades)"]
+[Play "W"]
+HK HA H2 H5 
+S4 SK S9 S5 
+S8 S2 H3 SA 
+SJ SQ H7 S6 
+C3 C4 CT CA 
+C2 CQ CK C8 
+D4 D2 DK D3 
+D9 S3 D7 D8 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "20"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ32.AQ4.2.QJ764 9.J98732.KQJ7.KT AT765.T65.83.A85 J84.K.AT9654.932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "7b64b7b64b4269242692"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  6
+N  D  4
+N  C 11
+S NT  7
+S  S 11
+S  H  6
+S  D  4
+S  C 11
+E NT  4
+E  S  2
+E  H  6
+E  D  9
+E  C  2
+W NT  4
+W  S  2
+W  H  6
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,4,2,92,75,50,82,38,127,36,95,38,37,17,58,151,53,36,77,20,37,20,338,27,39,22,43,22,34,11,77,21,38,20,25,24,40,24,24,26,77,22
+[Auction "W"]
+Pass 1C 1H 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+HK HA H2 H5 
+S4 SK S9 S5 
+S8 S2 H9 SA 
+SJ SQ H3 S6 
+C3 C4 CT CA 
+C2 CJ CK C5 
+D4 D2 DK D3 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "21"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.82.AQ532.KT8 Q763.Q64.6.76532 92.AT975.J74.AQ9 AT54.KJ3.KT98.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "86997869975744657446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,3,1,233,56,61,58,146,35,405,37,224,19,38,35,163,133,100,35,127,24,31,15,27,14,36,28,111,25,22,35,57,28,13,23,186,33,17,30
+[Auction "N"]
+1D Pass 1H Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S3 S2 SA S8 
+SQ S9 S4 SJ 
+S6 H5 ST SK 
+C6 CQ C4 C8 
+D6 D4 D8 DQ 
+C3 D7 D9 DA 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "21"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.82.AQ532.KT8 Q763.Q64.6.76532 92.AT975.J74.AQ9 AT54.KJ3.KT98.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "86997869975744657446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,4,2,275,160,72,901,55,43,110,40,174,64,44,24,168,192,48,24,57,90,39,18,399,68,89,21,29,29,18,21,20,24,23,13,42,111,128,47,718,35,15,36,126,352,94,53,21,15,37,13,59
+[Auction "N"]
+1NT Pass 2D =1= Pass 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1:  * tf [1:16]"]
+[Play "E"]
+S3 S2 SA S8 
+SQ S9 ST SJ 
+S7 H5 S5 SK 
+C5 CQ C4 C8 
+D6 D4 D8 DQ 
+S6 D7 DT DA 
+C2 DJ DK D2 
+C6 H7 S4 D3 
+C3 H9 D9 D5 
+-  -  CJ -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "22"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.Q9872.K874.AQ4 AKJ975.AKT6.5.52 T62.J4.QJT62.963 Q83.53.A93.KJT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "32583325839b7599b759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  8
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  8
+S  C  3
+E NT  9
+E  S 11
+E  H  7
+E  D  5
+E  C  9
+W NT  9
+W  S 11
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,3,1,101,37,230,94,201,155,85,38,24,42,972,45,71,101,15,9,12,24,7,26,17,17,18,8,17,208,26,28,18,20,14,20,8,59,34,26,16,18,22,12,17,13,8,65,8,10,17,11,30,13,34,43,47
+[Auction "E"]
+1S Pass 1NT =1= X 
+2H Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: wide range but nf"]
+[Play "S"]
+DQ DA D4 D5 
+H4 H3 H2 HA 
+HJ H5 H7 HK 
+C6 S3 H8 H6 
+D2 D3 DK S5 
+C3 S8 H9 HT 
+S2 SQ S4 SA 
+S6 C7 C4 SK 
+ST C8 D7 SJ 
+C9 CT CQ C2 
+-  -  HQ -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "22"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.Q9872.K874.AQ4 AKJ975.AKT6.5.52 T62.J4.QJT62.963 Q83.53.A93.KJT87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "32583325839b7599b759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  8
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  8
+S  C  3
+E NT  9
+E  S 11
+E  H  7
+E  D  5
+E  C  9
+W NT  9
+W  S 11
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 28,4,2,342,190,499,529,230,128,189,155,314,71,407,49,245,52,28,28,651,1592,42,29,393,28,26,23,149,38,27,18,38,31,61,27,349,151,100,26,392,27,15,36,26,34,35,10,39,90,64,13,122,25,111,40,23,117,17,29
+[Auction "E"]
+1C =1= 1D X =2= 1H 
+1NT =3= Pass 2C =4= 5D 
+5H Pass 5S Pass 
+6S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: GF, 3+ controls"]
+[Note "3: 16-18 unbal with S"]
+[Note "4: art relay"]
+[Play "N"]
+D4 D5 D6 D9 
+D7 C2 DQ DA 
+D8 S5 D2 D3 
+CQ C5 C3 CT 
+S4 S7 ST SQ 
+H2 HA H4 H3 
+H7 HK HJ H5 
+H8 H6 C6 S3 
+CA S9 C9 CK 
+H9 HT S6 S8 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "23"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q52..AKJ3.AQJ732 K9843.A765.65.K5 J6.K8432.2.T9864 AT7.QJT9.QT9874."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "7555a7555a4877158882"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H  5
+S  D  5
+S  C 10
+E NT  4
+E  S  8
+E  H  7
+E  D  7
+E  C  1
+W NT  5
+W  S  8
+W  H  8
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 20,3,1,112,83,118,230,156,422,306,51,337,584,43,41,34,84,59,134,30,25,88,19,22,9,25,28,19,25,18,19,9,49
+[Auction "S"]
+Pass Pass 1C =1= 1H =2= 
+X =3= XX =4= 3D Pass 
+4C 4S 5C Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: spades"]
+[Note "3: Hs"]
+[Note "4: 3 card support"]
+[Play "E"]
+S4 S6 SA S2 
+SK SJ S7 S5 
+HA H2 HQ C2 
+C5 C4 ST CA 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "23"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q52..AKJ3.AQJ732 K9843.A765.65.K5 J6.K8432.2.T9864 AT7.QJT9.QT9874."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "12"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "7555a7555a4877158882"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H  5
+S  D  5
+S  C 10
+E NT  4
+E  S  8
+E  H  7
+E  D  7
+E  C  1
+W NT  5
+W  S  8
+W  H  8
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 15,4,2,83,235,92,110,720,296,539,53,134,92,589,28,175,52,278,80,189,30,26,26,17,55,17,22,9,29,17,64,23,21
+[Auction "S"]
+Pass Pass 1C X 
+3C 3D X Pass 
+3H Pass 4C Pass 
+Pass Pass 
+[Play "E"]
+D6 D2 DQ DK 
+C5 C4 DT CA 
+D5 S6 D4 DA 
+S3 SJ D9 DJ 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "24"]
+[West "Peter Kelly#"]
+[North "Matthew Covill#421396"]
+[East "Alex Hogg#"]
+[South "Chris Wilson#106356"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQJ86.T.8654.Q62 3.AKJ43.AQJ.KT94 42.852.T72.AJ875 AT975.Q976.K93.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "451554514598c8798c87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  1
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  1
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 12
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H 12
+W  D  8
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 17,3,1,258,70,232,32,32,52,121,438,31,31,123,20,23,19,19,22,37,19,188,56,15,46,92,18,19,23,45,39,34,11,90,19,17,20,34,21,49,19,453,29,11,38,29,48,48,24,31,14,23,7,11,8,18,16,17,10,14,7
+[Auction "W"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: weak both M"]
+[Play "N"]
+D6 DA D2 D9 
+S6 S3 S4 SA 
+C2 CK CA C3 
+HT HA H2 H6 
+D4 DJ D7 DK 
+S8 H3 S2 S5 
+C6 C4 C7 H7 
+SJ HJ DT S7 
+D5 DQ H8 D3 
+D8 H4 H5 H9 
+SQ HK C5 S9 
+CQ C9 C8 HQ 
+SK CT CJ ST 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "24"]
+[West "Denis Talbot#48875"]
+[North "Paul#"]
+[East "Kathy Talbot#41090"]
+[South "Terence Squibb#44193"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQJ86.T.8654.Q62 3.AKJ43.AQJ.KT94 42.852.T72.AJ875 AT975.Q976.K93.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "451554514598c8798c87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  1
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  1
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 12
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H 12
+W  D  8
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,4,2,312,42,117,68,209,73,106,51,209,261,211,66,191,53,476,51,31,40,18,589,69,35,19,32,101,62,1052,217,22,56,95,26,35,13,257,22,22,37,46,21,21,13,119,17,19,21,21,22,26,24,29,22,18,53,25,29,13,18,16,12,17,13
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2S =2= Pass 2NT =3= Pass 
+3S =4= Pass 4C =5= Pass 
+4H =6= Pass 6H Pass 
+Pass Pass 
+[Note "1: Artificial; GF"]
+[Note "2: both majors"]
+[Note "3:  * Artificial relay [0:53]"]
+[Note "4: 5431"]
+[Note "5:  * Relay [0:06]"]
+[Note "6: 3 or 6 controls"]
+[Play "N"]
+SK S3 S2 SA 
+C2 CT CJ C3 
+HT HJ H2 H6 
+C6 C4 C5 H7 
+D4 DJ D2 D3 
+CQ C9 C7 H9 
+D5 DQ D7 D9 
+S6 CK CA HQ 
+SJ H4 S4 ST 
+D6 HA H5 S5 
+D8 HK H8 S7 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "25"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:42.Q42.J7653.T63 765.986.AK2.J974 QJT3.AJ3.Q8.AQ52 AK98.KT75.T94.K8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "55566555768876777767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  5
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  8
+E  S  8
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,3,4,79,56,754,74,105,27,107,659,24,29,22,19,18,63,172,20,7,8,30,17,10,18,83,70,9,6,44,23,8,7,71,16,5,15,52,38,20,61,271,37,8,10,24,47,8,32,49,14,19,23
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+H5 HQ H6 H3 
+CK C3 C4 CQ 
+SA S2 S5 S3 
+H7 H2 H8 HJ 
+S8 S4 S6 SJ 
+SK D3 S7 SQ 
+HK H4 H9 HA 
+S9 D5 C7 ST 
+C8 C6 C9 CA 
+D4 CT CJ C2 
+D9 DJ D2 D8 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "25"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:42.Q42.J7653.T63 765.986.AK2.J974 QJT3.AJ3.Q8.AQ52 AK98.KT75.T94.K8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "55566555768876777767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  5
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  8
+E  S  8
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 3,0,2,87,42,204,46,179,449,292,172,19,41,230,136,58,38,630,497,36,58,683,20,41,29,28,22,18,12,195,75,40,36,138,39,24,15,92,61,19,81,246,20,22,21,24,62,15,49,46,20,75,17,36,16,15,7,20,14,17,7
+[Auction "N"]
+Pass Pass 1S Pass 
+Pass Pass 
+[Play "W"]
+D9 D3 DK D8 
+HK H2 H8 H3 
+H5 HQ H9 HJ 
+SK S2 S5 SQ 
+H7 H4 H6 HA 
+DT D5 DA DQ 
+SA S4 S6 SJ 
+D4 DJ D2 C2 
+CK C3 C4 CQ 
+HT D6 C7 S3 
+S8 D7 S7 ST 
+C8 C6 C9 CA 
+S9 CT CJ C5 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "26"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K7.J9.JT8652.J82 AQT863.T85.K97.T J5.AKQ3.A4.KQ974 942.7642.Q3.A653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54789547897854378543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H  7
+S  D  8
+S  C  9
+E NT  7
+E  S  8
+E  H  5
+E  D  4
+E  C  3
+W NT  7
+W  S  8
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,3,4,197,57,70,192,50,214,70,578,43,77,192,18,18,25,17,27,14,543,65,51,17,25,28,19,51,39,37,13,19,99,42,20,85,91,23,20,7,12,37
+[Auction "E"]
+1S X 1NT 2D 
+2S 3C Pass Pass 
+Pass 
+[Play "W"]
+S4 S7 SQ S5 
+S9 SK SA SJ 
+H6 H9 H5 H3 
+C3 C2 CT CK 
+C5 C8 S3 C4 
+CA CJ S6 C7 
+S2 D2 ST C9 
+C6 -  -  CQ 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "26"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K7.J9.JT8652.J82 AQT863.T85.K97.T J5.AKQ3.A4.KQ974 942.7642.Q3.A653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54789547897854378543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H  7
+S  D  8
+S  C  9
+E NT  7
+E  S  8
+E  H  5
+E  D  4
+E  C  3
+W NT  7
+W  S  8
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,0,2,168,133,77,149,47,349,36,65,35,59,284,36,29,22,20,23,11,141,125,28,42,37,19,38,22,74,43,79,28,24
+[Auction "E"]
+1S X 2S Pass 
+Pass 3C Pass Pass 
+Pass 
+[Play "W"]
+S4 S7 SQ S5 
+S9 SK SA SJ 
+H2 H9 H8 H3 
+C3 C2 CT CK 
+CA C8 S3 C4 
+C5 -  -  -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "27"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ32.Q6.A2.AT876 Q7.A432.QT94.KQ9 AT85.KJ987.K87.4 964.T5.J653.J532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "acb89acb892115421154"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S 12
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  1
+E  H  1
+E  D  5
+E  C  4
+W NT  2
+W  S  1
+W  H  1
+W  D  5
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,3,4,157,57,157,50,140,86,115,37,214,73,83,25,388,414,52,21,95,31,9,30,12,27,11,25,162,45,21,338,22,38,10,56,44,19,17,16
+[Auction "S"]
+1H Pass 2C Pass 
+2H Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "E"]
+DT D7 D5 DA 
+S7 S5 S4 SK 
+SQ SA S6 S2 
+H2 ST S9 S3 
+H3 H7 H5 HQ 
+HA H8 HT H6 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "27"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ32.Q6.A2.AT876 Q7.A432.QT94.KQ9 AT85.KJ987.K87.4 964.T5.J653.J532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "acb89acb892115421154"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S 12
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  1
+E  H  1
+E  D  5
+E  C  4
+W NT  2
+W  S  1
+W  H  1
+W  D  5
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,0,2,156,46,120,35,79,37,39,27,124,44,104,27,517,37,349,1188,29,13,12,79,13,26,13,17,19,19,36,24,22,24,364,16,10,31,13,23,19,63,61,74,22,123,330,28,13,22,63,18,62,19,23,25,18,18,20
+[Auction "S"]
+1H Pass 2C Pass 
+2H Pass 2S Pass 
+3S Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+D3 DA D4 D7 
+D6 D2 D9 DK 
+D5 H6 DT D8 
+H5 HQ H2 H7 
+S6 S2 S7 SA 
+HT C6 HA HJ 
+DJ C7 DQ H8 
+C5 C8 H3 HK 
+C3 CT H4 H9 
+S4 SJ SQ S5 
+-  -  C9 -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "28"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T3.AJ2.A9854.KJ4 KQ87.8.72.QT8753 954.KT963.KQJ.A9 AJ62.Q754.T63.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "96ab696ab51611716117"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D 11
+N  C  6
+S NT  9
+S  S  6
+S  H 10
+S  D 11
+S  C  5
+E NT  1
+E  S  6
+E  H  1
+E  D  1
+E  C  7
+W NT  1
+W  S  6
+W  H  1
+W  D  1
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,3,4,95,155,109,66,60,194,79,127,41,29,34,119,899,26,19,107,41,9,12,20,21,17,8,677,25,15,38,14,22,18,20,373,39,155,30,31,61,7,68,10,23,7,47,42,39,22,9
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+C6 C4 CT CA 
+H4 H2 H8 HK 
+H5 HJ C7 H3 
+D3 D4 D7 DK 
+D6 D5 D2 DJ 
+DT DA C3 DQ 
+H7 HA C5 H6 
+HQ D8 S8 S4 
+S2 S3 SQ S5 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "28"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T3.AJ2.A9854.KJ4 KQ87.8.72.QT8753 954.KT963.KQJ.A9 AJ62.Q754.T63.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "96ab696ab51611716117"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D 11
+N  C  6
+S NT  9
+S  S  6
+S  H 10
+S  D 11
+S  C  5
+E NT  1
+E  S  6
+E  H  1
+E  D  1
+E  C  7
+W NT  1
+W  S  6
+W  H  1
+W  D  1
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 21,0,2,113,180,157,386,158,154,38,503,42,47,39,368,209,24,32,121,478,53,65,230,27,12,16,30,19,30,10,1113,41,17,27,211,18,30,20,17,17,77,144,16,85,20,19,19,31,13,20,13,15,16,33,11,19,11,26
+[Auction "W"]
+Pass 1NT =1= 2D =2= 3D =3= 
+3S 4D Pass 5D 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: S and another"]
+[Note "3: transfer to hearts GF"]
+[Play "W"]
+SA S3 S7 S4 
+C6 C4 CT CA 
+D3 D4 D2 DK 
+D6 D5 D7 DQ 
+DT D8 S8 DJ 
+H4 HA H8 H3 
+HQ HJ C3 H6 
+C2 CK C5 C9 
+H5 H2 C8 HK 
+H7 ST C7 HT 
+S2 CJ SQ H9 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "29"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J93.AJ865.83.742 QT8764.74.J4.QJT AK52.93.AQ7652.5 .KQT2.KT9.AK9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3DX"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56673566738775987759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  3
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  5
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 11,3,4,121,101,256,754,233,537,96,105,185,17,21,27,18,29,43,1323,44,8,9,132,36,15,20,456,29,28,15,73,25,994,26,35,82,26,8,33,57,10,34,62,30,18,14,24,8,10,10,155,20,15,45,13,45,7,8,11,17,9,4
+[Auction "N"]
+Pass 2S =1= 3D X =2= 
+Pass Pass Pass 
+[Note "1: weak"]
+[Note "2:  * pass if your other suit is D [0:35]"]
+[Play "W"]
+CK C2 CQ C5 
+CA C4 CJ D2 
+D9 D3 D4 DA 
+DT D8 DJ D5 
+C3 C7 CT D6 
+HQ H5 H4 H9 
+DK H6 S4 D7 
+C9 S3 S6 DQ 
+H2 HJ H7 H3 
+HT HA S7 S2 
+C6 SJ SQ SA 
+C8 S9 S8 SK 
+HK H8 ST S5 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "29"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J93.AJ865.83.742 QT8764.74.J4.QJT AK52.93.AQ7652.5 .KQT2.KT9.AK9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56673566738775987759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  3
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  5
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 11,0,2,84,88,171,97,194,56,58,97,12,12,68,28,10,41,142,26,23,9,33,39,19,20,86,60,58,44,389,29,12,77,30,155,20,111,59,35,26,47,45,96,29,47,72,23,44,64,88,27,13,16,37,15,18,8,15,24,7,8
+[Auction "N"]
+Pass 2D =1= 3D Pass 
+Pass Pass 
+[Note "1: Multi"]
+[Play "W"]
+CA C2 CT C5 
+CK C4 CJ D2 
+D9 D3 D4 DA 
+DT D8 DJ D5 
+C3 C7 CQ D6 
+DK H5 S7 D7 
+C9 H6 S6 DQ 
+H2 S9 ST S2 
+HQ HA H7 H3 
+HT S3 S8 SA 
+C6 SJ S4 SK 
+HK H8 H4 H9 
+C8 HJ SQ S5 
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "30"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQJ97.7.T932.JT2 T.K9653.KJ5.KQ76 A653.QT84.A876.9 842.AJ2.Q4.A8543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "583825838274a5b74a5b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  8
+N  C  2
+S NT  5
+S  S  8
+S  H  3
+S  D  8
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  5
+E  C 11
+W NT  7
+W  S  4
+W  H 10
+W  D  5
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 17,0,2,72,53,264,105,126,64,179,58,21,42,16,34,110,242,63,50,79,37,11,9,12,84,42,42,56,89,17,8,239,42,8,15,152,48,9,9,50,21,13,11
+[Auction "E"]
+1H Pass 2D =1= Pass 
+2H =2= Pass 3H Pass 
+4H Pass Pass Pass 
+[Note "1: game inv <4S <4H"]
+[Note "2: Min; unbal; 5+H"]
+[Play "S"]
+C9 C3 CT CK 
+H4 HA H7 H3 
+H8 H2 SK HK 
+HT C4 C2 CQ 
+SA S2 S7 ST 
+DA D4 D9 D5 
+S3 S4 SJ H5 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "30"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQJ97.7.T932.JT2 T.K9653.KJ5.KQ76 A653.QT84.A876.9 842.AJ2.Q4.A8543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "583825838274a5b74a5b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  8
+N  C  2
+S NT  5
+S  S  8
+S  H  3
+S  D  8
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  5
+E  C 11
+W NT  7
+W  S  4
+W  H 10
+W  D  5
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,3,4,172,33,59,86,50,44,208,41,239,26,22,153,89,53,39,34,81,62,154,19,207,26,27,20,877,206,11,25,23,30,12,45,47,24,13,19,41,86,156,51,31,29,32,47,186,19,15,54,75,43,19,584,22,22,9,31,67,648,31,18,24
+[Auction "E"]
+1H Pass 2C Pass 
+3C Pass 3H Pass 
+4H Pass Pass 4S 
+X Pass Pass Pass 
+[Play "E"]
+CK C9 C8 C2 
+H5 H4 HJ H7 
+ST S3 S2 SK 
+C6 S5 C4 CT 
+H3 H8 H2 S7 
+CQ SA C3 CJ 
+H6 S6 S4 S9 
+D5 D6 DQ D2 
+C7 HT CA SJ 
+DJ DA D4 D3 
+DK D7 S8 D9 
+-  -  HA -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "31"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:54.AT62.QT87.AJ2 AQ7.K84.J63.K986 KJT.QJ7.A42.T743 98632.953.K95.Q5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "97888978884644546445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 3,0,2,92,49,141,105,45,207,50,18,117,53,173,62,40,18,31,25,17,148,32,18,43,25,20,19,24,345,50,43,69,201,43,15,110,139,24,88,31,41,35,19,27,75,52,63,29,16,36,19,21,24
+[Auction "S"]
+Pass Pass Pass 1D =1= 
+Pass 1S =2= Pass Pass 
+Pass 
+[Note "1:  * Cd be short [0:08] * And may have 5 clubs [0:17]"]
+[Note "2: may also have H"]
+[Play "N"]
+D7 D3 DA D5 
+D8 D6 D4 DK 
+S4 SQ SK S2 
+DQ DJ D2 D9 
+H2 H4 HJ H5 
+S5 S7 SJ S3 
+H6 SA ST S6 
+CA C6 C3 CQ 
+DT C8 C4 S8 
+HA H8 H7 H3 
+C2 -  -  -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "31"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:54.AT62.QT87.AJ2 AQ7.K84.J63.K986 KJT.QJ7.A42.T743 98632.953.K95.Q5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "97888978884644546445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 9,3,4,100,63,120,31,279,82,94,28,286,183,58,28,374,21,28,8,79,43,13,116,14,21,60,465,65,48,10,10,33,31,9,10,9,189,15,34,28,16,21,27,19,15,16,9,24,34,16,9,22,12,18,6,17
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+2NT Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+S3 S4 SA ST 
+S2 S5 SQ SK 
+H3 H2 HK HQ 
+S6 C2 S7 SJ 
+H5 H6 H4 HJ 
+H9 HT H8 H7 
+D5 HA C8 C4 
+D9 D7 D3 DA 
+DK D8 D6 D2 
+S9 CJ C6 C3 
+S8 DT DJ C7 
+C5 -  -  -  
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "32"]
+[West "Denis Talbot#48875"]
+[North "Richard Edwards#401500"]
+[East "Kathy Talbot#41090"]
+[South "Robert Ross#039431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J4.Q9742.A7543.2 AT82.KT8653.Q96. Q76..KJT2.AKQT94 K953.AJ.8.J87653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "854a8854a85893558835"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  4
+N  D 10
+N  C  8
+S NT  8
+S  S  5
+S  H  4
+S  D 10
+S  C  8
+E NT  5
+E  S  8
+E  H  9
+E  D  3
+E  C  5
+W NT  5
+W  S  8
+W  H  8
+W  D  3
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 21,0,2,126,284,98,446,40,193,46,510,45,55,40,38,157,17,31,111,33,23,20,319,56,36,57,367,70,29,100,518,54,53,23,56,16,21,32
+[Auction "W"]
+Pass 2H =1= Pass 2NT =2= 
+Pass 3D =3= Pass 5D 
+Pass Pass Pass 
+[Note "1: 5♡ and 5 another"]
+[Note "2: enquiry"]
+[Note "3: min w ♢"]
+[Play "E"]
+SA S6 S3 S4 
+S2 S7 SK SJ 
+D6 C4 C3 C2 
+H6 D2 HJ H2 
+D9 DT D8 DA 
+DQ DK S5 D3 
+*
+
+[Event "04 Jul Edwards vs Talbot"]
+[Site "RealBridge"]
+[Date "2024.07.04"]
+[Board "32"]
+[West "Terence Squibb#44193"]
+[North "Matthew Covill#421396"]
+[East "Paul#"]
+[South "Chris Wilson#106356"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J4.Q9742.A7543.2 AT82.KT8653.Q96. Q76..KJT2.AKQT94 K953.AJ.8.J87653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Talbot team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "854a8854a85893558835"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  4
+N  D 10
+N  C  8
+S NT  8
+S  S  5
+S  H  4
+S  D 10
+S  C  8
+E NT  5
+E  S  8
+E  H  9
+E  D  3
+E  C  5
+W NT  5
+W  S  8
+W  H  8
+W  D  3
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 21,3,4,148,200,123,400,76,580,103,211,71,39,32,393,393,42,53,300,25,34,9,34,19,28,14,126,69,20,6,19,17,12,47,56,37,10,10
+[Auction "W"]
+Pass 2H =1= Pass 2NT =2= 
+Pass 3S =3= Pass 5D 
+Pass Pass Pass 
+[Note "1: ♡+m weak"]
+[Note "2: strong ask"]
+[Note "3: strong with diamonds"]
+[Play "W"]
+C6 C2 D6 C9 
+S9 S4 SA S6 
+SK SJ S2 S7 
+C3 DA H3 C4 
+D8 D3 D9 DJ 
+C5 D4 DQ DK 
+*

@@ -1,0 +1,4148 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "1"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q862.T73.AK74.AJ 94.KQ642.QJ852.K KJT753..93.T7642 A.AJ985.T6.Q9853"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "6b3466b34662a8662a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  3
+N  D  4
+N  C  6
+S NT  6
+S  S 11
+S  H  3
+S  D  4
+S  C  6
+E NT  6
+E  S  2
+E  H 10
+E  D  8
+E  C  6
+W NT  6
+W  S  2
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 23,0,3,210,112,351,186,82,30,31,58,120,192,23,22,19,36,17,44,450,105,26,7,21,29,45,71,41,30,15,62,709,34,55,14,12,19,17,46,8,22,24,107,19,25,6,6,12,16,6,12
+[Auction "N"]
+1NT =1= 2H 4S 5H 
+5S Pass Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+HA H3 H2 S3 
+SA S2 S4 S5 
+C8 CA CK C2 
+H5 S6 S9 SK 
+CQ CJ H4 C4 
+C5 D4 D2 C6 
+C3 H7 H6 CT 
+C9 S8 D5 C7 
+D6 DA D8 D3 
+DT DK DJ D9 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "1"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q862.T73.AK74.AJ 94.KQ642.QJ852.K KJT753..93.T7642 A.AJ985.T6.Q9853"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "6b3466b34662a8662a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  3
+N  D  4
+N  C  6
+S NT  6
+S  S 11
+S  H  3
+S  D  4
+S  C  6
+E NT  6
+E  S  2
+E  H 10
+E  D  8
+E  C  6
+W NT  6
+W  S  2
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 22,2,1,430,109,236,62,420,54,37,144,96,35,23,73,87,15,9,33,32,18,25,109,24,30,9,89,35,9,10,90,45,22,31,361,35,18,52,131,27,32,8,96,55,30,14,269,20,20,31,65,27,11,21,83,20,15,20,27,20,8,7,11,21,9,11
+[Auction "N"]
+1D 1H 2S =1= 4H 
+4S Pass Pass 5H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+D9 D6 DA DQ 
+D3 DT DK D2 
+C6 C3 CA CK 
+S3 SA S2 S4 
+S5 H5 H3 HK 
+S7 H8 D4 D5 
+C2 CQ CJ S9 
+C4 C5 D7 H2 
+ST HJ S6 D8 
+SJ HA H7 H4 
+C7 H9 HT HQ 
+CT C8 S8 H6 
+SK C9 SQ DJ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "2"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:8643.9.6432.QJT2 QJ5.87643.JT85.K K9.AKJ2.A7.98763 AT72.QT5.KQ9.A54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "54448544488899588995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  4
+N  C  8
+S NT  5
+S  S  4
+S  H  4
+S  D  4
+S  C  8
+E NT  8
+E  S  8
+E  H  9
+E  D  9
+E  C  5
+W NT  8
+W  S  8
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,130,233,72,106,84,89,95,32,30,30,29,13,44,52,21,34,13,34,52,202,25,15,16,187,233,79,24,18,11,146,18,24,18,9,37,17,51,17,27,10,44,21,22,18,6,13,25,4,22,7,28,7,13,7,10,6,14
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Play "W"]
+S2 S3 SJ SK 
+C4 CT CK C3 
+S7 S4 SQ S9 
+SA S6 S5 H2 
+ST S8 H7 HJ 
+DK D2 D5 D7 
+DQ D3 D8 DA 
+C5 CJ H3 C6 
+CA CQ H4 C7 
+H5 H9 H6 HK 
+HT D4 H8 HA 
+D9 C2 DT C8 
+HQ D6 DJ C9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "2"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:8643.9.6432.QJT2 QJ5.87643.JT85.K K9.AKJ2.A7.98763 AT72.QT5.KQ9.A54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "54448544488899588995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  4
+N  C  8
+S NT  5
+S  S  4
+S  H  4
+S  D  4
+S  C  8
+E NT  8
+E  S  8
+E  H  9
+E  D  9
+E  C  5
+W NT  8
+W  S  8
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,109,175,147,100,81,81,97,345,47,59,85,16,19,24,19,54,9,29,35,49,18,20,19,72,9,78,19,21,13,45,16,10,45,83,45,9,7,36,16,85,9,16,14,11,11,13,23,13,11,14,10,23,3,10,9,8,9
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 15 17"]
+[Play "W"]
+S2 S3 SJ SK 
+C4 CQ CK C3 
+S7 S4 SQ S9 
+ST S6 S5 D7 
+SA S8 H8 H2 
+DK D2 D5 DA 
+C5 CJ H4 C6 
+CA CT H3 C7 
+DQ D3 D8 HJ 
+D9 D4 DJ C8 
+H5 D6 DT C9 
+HT H9 H7 HK 
+HQ C2 H6 HA 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "3"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A72.QT9.53.AJT73 T53.A632.AQ7.Q85 QJ6.K54.KT94.K96 K984.J87.J862.42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "a888aa888a3555335453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  8
+N  C 10
+S NT 10
+S  S  8
+S  H  8
+S  D  8
+S  C 10
+E NT  3
+E  S  5
+E  H  5
+E  D  5
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 9,0,3,136,57,123,87,227,67,86,35,105,133,39,22,36,41,11,64,17,14,22,44,256,55,42,14,313,31,17,16,37,35,32,12,53,138,33,30,14,61,26,35,23,73,57,22,79,131,25,25,32,20,27,11,18,13,27,14,18,9,8,7
+[Auction "S"]
+1D Pass 2C Pass 
+2NT =1= Pass Pass Pass 
+[Note "1: 10-12"]
+[Play "W"]
+S4 S2 ST SJ 
+C2 C3 C5 CK 
+C4 C7 CQ C9 
+SK S7 S5 SQ 
+S8 SA S3 S6 
+H7 CA C8 C6 
+H8 CJ H6 H4 
+D2 CT H2 D4 
+HJ HT H3 HK 
+S9 H9 HA H5 
+DJ D3 D7 D9 
+D6 D5 DA DT 
+D8 HQ DQ DK 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "3"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A72.QT9.53.AJT73 T53.A632.AQ7.Q85 QJ6.K54.KT94.K96 K984.J87.J862.42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "a888aa888a3555335453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  8
+N  C 10
+S NT 10
+S  S  8
+S  H  8
+S  D  8
+S  C 10
+E NT  3
+E  S  5
+E  H  5
+E  D  5
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,83,41,80,43,112,146,149,42,42,21,105,192,37,23,73,29,9,40,24,17,15,31,473,67,39,37,509,37,22,10,47,25,9,145,190,69,13,42,318,31,11,18,17,23,14,14,29,30,16,12,16,196,47,9,20,13,8,23,12,11,12,15
+[Auction "S"]
+1D Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S4 S2 ST SQ 
+C4 C3 C5 CK 
+C2 C7 CQ C9 
+SK S7 S5 SJ 
+S9 SA S3 S6 
+D2 CA C8 C6 
+S8 CT H3 D4 
+H7 CJ H2 H4 
+H8 H9 H6 HK 
+HJ HQ HA H5 
+DJ D3 D7 D9 
+D6 D5 DA DT 
+D8 HT DQ DK 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "4"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT.3.A987654.K64 K87532.K9.T2.AT9 AJ94.AJ6.KQ.QJ85 6.QT87542.J3.732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 720"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "ca6cbca6cb1371113711"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  6
+N  D 12
+N  C 11
+S NT 12
+S  S 10
+S  H  6
+S  D 12
+S  C 11
+E NT  1
+E  S  3
+E  H  7
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  7
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,125,32,90,291,58,57,27,63,223,287,32,31,33,48,20,29,18,6,16,31,432,30,17,42,46,26,87,23,93,10,53,7,133,13,6,18,72,18,7,13,30,7,84,9,25,8,27,10,52,9,14,8,24,6,19,20,13,7,10
+[Auction "W"]
+Pass 3D 3S 3NT 
+Pass Pass Pass 
+[Play "W"]
+S6 SQ SK SA 
+D3 D4 D2 DK 
+DJ D5 DT DQ 
+H4 ST S2 S4 
+H2 DA S3 H6 
+C3 D9 S5 HJ 
+H5 D8 S7 C5 
+C2 D7 C9 C8 
+H7 D6 S8 CQ 
+H8 H3 H9 HA 
+C7 C4 CT SJ 
+HT C6 CA S9 
+HQ CK HK CJ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "4"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT.3.A987654.K64 K87532.K9.T2.AT9 AJ94.AJ6.KQ.QJ85 6.QT87542.J3.732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "9"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "ca6cbca6cb1371113711"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  6
+N  D 12
+N  C 11
+S NT 12
+S  S 10
+S  H  6
+S  D 12
+S  C 11
+E NT  1
+E  S  3
+E  H  7
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  7
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 29,2,1,372,92,97,723,65,98,45,47,300,39,72,104,23,16,32,17,16,9,16,132,30,9,41,29,20,12,18,96,14,22,9,23,57,16,8,47,23,17,30,54,15,12,16,75,15,7,25,16,17,29,4,15,15,11,8,13,11,14,9
+[Auction "W"]
+2H =1= 3D Pass 6NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+S6 SQ S2 S4 
+D3 D4 D2 DK 
+DJ D5 DT DQ 
+C2 C4 C9 CQ 
+C3 C6 CT CJ 
+C7 CK CA C5 
+H2 H3 H9 HA 
+H4 D6 S8 C8 
+H5 ST S3 SA 
+H7 D7 SK SJ 
+H8 D8 HK H6 
+HT D9 S5 S9 
+HQ DA S7 HJ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "5"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9.AK875.KQJ764.4 J8632.Q6.98.A983 AKQ4.T2.A.KQJT76 T75.J943.T532.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 1440"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "cabcccabcc1321113211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 29,0,3,127,101,428,91,124,45,281,46,61,27,536,36,284,42,318,43,57,52,115,250,35,26,22,41,16,125,97,23,22,22,264,35,6,42,49,398,30,66,16,64,9,31,21,70,15,131,12,59,9,71,12,21,7,16,8,24,6,16,8,21
+[Auction "N"]
+1D Pass 2C =1= Pass 
+2H Pass 2S =2= Pass 
+3H Pass 4NT =3= Pass 
+5H Pass 6NT Pass 
+Pass Pass 
+[Note "1: invit + (not auto gf)"]
+[Note "2: 4sf"]
+[Note "3: rkcb"]
+[Play "W"]
+S7 S9 SJ SA 
+C5 C4 CA CK 
+S5 H5 S8 SK 
+C2 H7 C3 CQ 
+H3 H8 C9 CJ 
+H4 D4 C8 CT 
+H9 D6 S6 C7 
+HJ D7 H6 C6 
+D2 DJ D8 DA 
+ST DQ S2 SQ 
+D3 -  -  H2 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "5"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9.AK875.KQJ764.4 J8632.Q6.98.A983 AKQ4.T2.A.KQJT76 T75.J943.T532.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "cabcccabcc1321113211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 34,2,1,265,50,347,176,88,47,802,96,332,61,369,53,257,112,165,67,68,196,200,155,26,44,53,35,11,8,109,36,8,9,99,37,18,21,15,23,11,15,34,23,11,12,9,18,7,11,20,35,8,22,18,12,9,7,17,33,8,14,24,47,9,21,16,10,10,23,23,14,8,17
+[Auction "N"]
+1H Pass 2C Pass 
+3D Pass 3S =1= Pass 
+4D Pass 4NT Pass 
+5S Pass 7NT Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+S7 S9 SJ SA 
+D2 D4 D8 DA 
+S5 C4 S2 SK 
+ST H5 S6 SQ 
+H3 HA H6 H2 
+D3 DK D9 S4 
+D5 DQ C8 HT 
+DT DJ C3 C6 
+C2 D6 C9 C7 
+C5 D7 S3 CT 
+H4 HK HQ CJ 
+H9 H7 S8 CQ 
+HJ H8 CA CK 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "6"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T5.QJ3.T872.AQJ4 AJ963.K54.QJ54.6 KQ42.A6.AK6.T732 87.T9872.93.K985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a98aaa98aa3453334532"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  3
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  3
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,171,148,42,221,35,55,60,38,312,195,39,21,22,24,27,106,29,21,37,37,37,14,25,62,50,13,17,10,21,12,257,242,37,20,27,58,155,127,34,78,60,13,22,15,39,15,175,51,88,7,14,26,18,16,21,20,8,8,13
+[Auction "E"]
+1S 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-18"]
+[Play "W"]
+S8 S5 SA S2 
+S7 ST SJ SQ 
+C5 CJ C6 C2 
+H2 HQ H4 H6 
+D3 D2 D4 DA 
+C8 CQ S3 C3 
+H7 H3 H5 HA 
+D9 D7 S6 SK 
+H8 D8 D5 DK 
+CK CA DJ CT 
+C9 C4 S9 C7 
+HT HJ HK S4 
+H9 DT DQ D6 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "6"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T5.QJ3.T872.AQJ4 AJ963.K54.QJ54.6 KQ42.A6.AK6.T732 87.T9872.93.K985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a98aaa98aa3453334532"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  3
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  3
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,446,45,269,156,64,33,74,95,144,45,27,115,37,19,27,21,11,11,100,64,43,59,19,439,20,14,97,26,33,21,20,223,84,165,80,65,25,8,33,79,30,33,13,56,18,17,9,18,104,8,8,14,27,6,26,8,9,17,9
+[Auction "E"]
+1S 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S8 S5 S6 SK 
+C5 C4 C6 CT 
+C8 CJ S3 C2 
+D3 D2 DJ DA 
+C9 CQ D4 C3 
+H2 HQ H4 H6 
+D9 D7 D5 D6 
+S7 ST SA S2 
+H7 H3 S9 SQ 
+H8 HJ H5 HA 
+H9 D8 DQ DK 
+CK CA SJ C7 
+HT DT HK S4 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "7"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T98.AKQ7.987.KJ9 Q6.32.AKT42.AT74 AK53.T954.Q65.53 J742.J86.J3.Q862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88865888655547855478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  6
+N  C  5
+S NT  8
+S  S  8
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  4
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 2,0,3,147,41,89,131,96,36,104,37,463,118,156,88,139,19,45,26,9,11,42,23,36,17,115,33,36,17,24,18,73,23,21,35,14,15,15,24,15,7,43,40,18,8,17,28,27,21,14,18,11,20,84,44,15,49,15,44,12,7,15,17,12,7
+[Auction "S"]
+Pass Pass 1C 1D 
+X Pass 1H Pass 
+Pass Pass 
+[Play "E"]
+DA D5 DJ D7 
+DK D6 D3 D8 
+D2 DQ H6 D9 
+CA C3 C2 CJ 
+C4 C5 CQ CK 
+H2 H4 H8 HA 
+H3 H5 HJ HK 
+CT H9 C6 C9 
+S6 SA S2 S8 
+SQ SK S4 S9 
+D4 HT S7 HQ 
+DT S3 C8 H7 
+C7 S5 SJ ST 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "7"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T98.AKQ7.987.KJ9 Q6.32.AKT42.AT74 AK53.T954.Q65.53 J742.J86.J3.Q862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88865888655547855478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  6
+N  C  5
+S NT  8
+S  S  8
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  4
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 2,2,1,94,135,84,43,66,93,79,44,103,70,107,93,41,48,25,22,9,12,106,26,14,12,54,24,33,13,17,24,18,33,160,26,21,21,84,24,17,11,87,37,13,14,108,142,11,23,13,19,8,9,12,13,10,9,14,10,11,37,16,9,10,10
+[Auction "S"]
+Pass Pass 1C 1D 
+X Pass 1H Pass 
+Pass Pass 
+[Play "E"]
+DK D5 DJ D7 
+DA D6 D3 D8 
+D2 DQ H8 D9 
+CA C3 C2 CJ 
+C4 C5 CQ CK 
+H2 H4 H6 HA 
+H3 H5 HJ HK 
+C7 H9 C6 C9 
+D4 HT S2 H7 
+S6 SA S4 S8 
+SQ SK S7 S9 
+DT S3 SJ ST 
+CT S5 C8 HQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "8"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:76.AK76542.Q8.76 AT4..KJT753.AKJ9 J32.JT3.64.Q8432 KQ985.Q98.A92.T5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "00604006046d6d9bd7d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  0
+N  C  4
+S NT  0
+S  S  0
+S  H  6
+S  D  0
+S  C  4
+E NT  6
+E  S 13
+E  H  6
+E  D 13
+E  C  9
+W NT 11
+W  S 13
+W  H  7
+W  D 13
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 28,0,3,191,321,216,119,195,39,44,41,27,50,23,253,65,36,846,34,27,22,1383,37,19,20,39,23,8,15,61,21,7,12,23,6,11,12,42,29,121,31,91,31,12,5,28,30,8,17,96,21,37,9,26,31,45,13,12,21,11,11,14,6,10,11
+[Auction "W"]
+1S 3H =1= 4NT Pass 
+5S Pass 6S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+HA S4 H3 H8 
+D8 D3 D6 DA 
+H2 ST HT H9 
+S6 SA S2 S5 
+C6 CA C2 C5 
+C7 CK C3 CT 
+H4 C9 C4 S8 
+S7 CJ S3 SK 
+H5 D5 SJ SQ 
+DQ DK D4 D9 
+H6 DJ C8 D2 
+H7 DT HJ HQ 
+HK D7 CQ S9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "8"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:76.AK76542.Q8.76 AT4..KJT753.AKJ9 J32.JT3.64.Q8432 KQ985.Q98.A92.T5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "13"]
+[Score "NS -940"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "00604006046d6d9bd7d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  0
+N  C  4
+S NT  0
+S  S  0
+S  H  6
+S  D  0
+S  C  4
+E NT  6
+E  S 13
+E  H  6
+E  D 13
+E  C  9
+W NT 11
+W  S 13
+W  H  7
+W  D 13
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 26,2,1,256,120,336,79,654,80,405,35,164,80,577,69,59,36,48,427,88,18,112,22,11,19,28,19,267,19,84,29,9,27,16,15,20,22,22,17,13,10,12,18,10,34,10,48,9,19
+[Auction "W"]
+1S 3H X Pass 
+4D Pass 4NT Pass 
+5C Pass 6D Pass 
+Pass Pass 
+[Play "N"]
+HK D3 H3 H8 
+D8 DK D4 D2 
+DQ D5 D6 DA 
+S6 S4 S2 SK 
+S7 SA S3 S5 
+H5 ST SJ SQ 
+H2 C9 C2 S9 
+C6 CJ C3 S8 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "9"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:32.4.QJ92.KQJ876 JT7.T97653.543.9 KQ984.AKJ.AT87.4 A65.Q82.K6.AT532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "a96a9a96aa3373333733"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  6
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  3
+E  H  7
+E  D  3
+E  C  3
+W NT  3
+W  S  3
+W  H  7
+W  D  3
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,166,266,126,80,114,49,360,99,366,46,148,290,20,18,165,50,16,8,524,48,9,18,50,24,14,17,15,45,11,8
+[Auction "N"]
+Pass Pass 1S Pass 
+2C Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+S5 S2 ST SK 
+CA C6 C9 C4 
+SA S3 S7 S4 
+H2 H4 H9 HJ 
+S6 C7 SJ SQ 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "9"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:32.4.QJ92.KQJ876 JT7.T97653.543.9 KQ984.AKJ.AT87.4 A65.Q82.K6.AT532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "a96a9a96aa3373333733"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  6
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  3
+E  H  7
+E  D  3
+E  C  3
+W NT  3
+W  S  3
+W  H  7
+W  D  3
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,100,49,141,579,223,50,60,35,526,100,291,45,163,42,62,36,402,129,30,14,147,38,24,25,79,213,24,59,42,57,15,18,225,28,37,36,30,297,22,15,233,20,13,33,12,131,13,70,247,48,29,8,30,111,19,8,30,29,23,453,224,14,15,15,9,19,16,23
+[Auction "N"]
+Pass Pass 1S 2C 
+Pass Pass 2D Pass 
+3C =1= Pass 3H Pass 
+3NT Pass Pass Pass 
+[Note "1: good d support"]
+[Play "E"]
+H6 HJ HQ H4 
+C9 C4 C3 CJ 
+D5 S4 CA CK 
+H3 HK H8 C6 
+D3 D7 DK D2 
+H5 HA H2 C7 
+D4 DA D6 D9 
+H7 D8 C2 DJ 
+H9 DT S5 DQ 
+HT S8 C5 CQ 
+ST SQ S6 S2 
+S7 SK SA S3 
+SJ S9 CT C8 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "10"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K.JT6543.Q97.952 Q74.Q.T864.J8764 J52.K87.AKJ32.A3 AT9863.A92.5.KQT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "63a8463a843a2493a249"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 10
+N  D  8
+N  C  4
+S NT  6
+S  S  3
+S  H 10
+S  D  8
+S  C  4
+E NT  3
+E  S 10
+E  H  2
+E  D  4
+E  C  9
+W NT  3
+W  S 10
+W  H  2
+W  D  4
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 12,2,1,82,200,138,461,131,273,44,44,111,128,37,53,53,45,20,74,45,40,44,71,43,25,27,578,48,24,20,48,15,19,22,140,35,10,15,12,23,11,17,42,14,10,9
+[Auction "E"]
+Pass 1NT =1= 2S 2NT =2= 
+Pass 3C =3= Pass 3H 
+Pass Pass Pass 
+[Note "1: 15 17"]
+[Note "2: lebs"]
+[Note "3:  * Forced bid [0:07]"]
+[Play "E"]
+S4 S2 SA SK 
+S7 S5 ST H3 
+HQ HK HA HJ 
+C8 CA CK C2 
+C4 H7 H2 HT 
+D6 D2 D5 DQ 
+D4 DA H9 D7 
+C6 C3 CQ C5 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "10"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K.JT6543.Q97.952 Q74.Q.T864.J8764 J52.K87.AKJ32.A3 AT9863.A92.5.KQT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "63a8463a843a2493a249"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 10
+N  D  8
+N  C  4
+S NT  6
+S  S  3
+S  H 10
+S  D  8
+S  C  4
+E NT  3
+E  S 10
+E  H  2
+E  D  4
+E  C  9
+W NT  3
+W  S 10
+W  H  2
+W  D  4
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 12,0,3,86,43,230,437,96,382,137,139,48,969,94,154,128,27,16,71,24,12,31,13,36,24,68,64,31,78,19,25,31,32,10,61,29,52,15,26,41,16,45,21,21,19,63,88,123,14,10,24,24,38,12,18,30,11,13,13,7,11,13,12,6,11,15
+[Auction "E"]
+Pass 1NT 2C =1= 2H 
+Pass 2S Pass 3H 
+Pass Pass Pass 
+[Note "1:  * 6 card undisclosed [0:47]"]
+[Play "E"]
+C7 CA CT C2 
+D4 D2 D5 DQ 
+HQ HK HA HJ 
+C8 C3 CQ C5 
+S4 S2 SA SK 
+S7 S5 S3 H3 
+C4 H7 CK C9 
+C6 H8 H2 HT 
+D6 SJ H9 H6 
+SQ D3 ST H4 
+D8 DA S6 D7 
+DT DK S8 D9 
+CJ DJ S9 H5 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "11"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT.KJ8.K3.KQ7632 KJ98543.7542..T8 A.AQT93.QJ986.A4 762.6.AT7542.J95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "c5c9cc5b9b1814018140"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  5
+N  H 12
+N  D  9
+N  C 12
+S NT 12
+S  S  5
+S  H 11
+S  D  9
+S  C 11
+E NT  1
+E  S  8
+E  H  1
+E  D  4
+E  C  0
+W NT  1
+W  S  8
+W  H  1
+W  D  4
+W  C  0
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,99,297,234,101,234,152,488,60,26,61,251,138,31,27,166,19,10,25,33,29,10,19,57,39,15,20,11,57,6,11,15,26,8,10,24,12,15,10,33,9,20,13,27,7,10,5
+[Auction "S"]
+1H Pass 2C Pass 
+3D Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+S7 ST SJ SA 
+H6 HK H4 H3 
+D5 HJ H2 HA 
+D2 H8 H5 HQ 
+S2 SQ H7 HT 
+C5 C2 CT CA 
+C9 CK C8 C4 
+CJ CQ S3 D6 
+D4 C3 S4 D8 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "11"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT.KJ8.K3.KQ7632 KJ98543.7542..T8 A.AQT93.QJ986.A4 762.6.AT7542.J95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "c5c9cc5b9b1814018140"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  5
+N  H 12
+N  D  9
+N  C 12
+S NT 12
+S  S  5
+S  H 11
+S  D  9
+S  C 11
+E NT  1
+E  S  8
+E  H  1
+E  D  4
+E  C  0
+W NT  1
+W  S  8
+W  H  1
+W  D  4
+W  C  0
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 22,0,3,211,78,335,342,137,48,71,39,80,34,167,120,356,45,44,25,186,175,42,28,200,21,60,27,586,34,22,43,201,42,6,80,13,36,62,34,34,48,20,98,39,38,25,12,80,17,6,6,8,18,12,7,27,28,7,6,10,16,6,15,7,13,6,16,6,7,9,10
+[Auction "S"]
+1H Pass 2C =1= Pass 
+2D Pass 4H Pass 
+4NT Pass 5D Pass 
+5H Pass Pass Pass 
+[Note "1:  * gf [0:11]"]
+[Play "W"]
+C5 C2 CT CA 
+H6 HK H2 H3 
+S2 HJ H4 HA 
+D2 H8 H5 HQ 
+D4 ST H7 HT 
+DA D3 C8 D6 
+D5 DK S3 D8 
+C9 CK S4 C4 
+CJ CQ S5 D9 
+S6 SQ SK SA 
+D7 C3 S8 DQ 
+DT C6 S9 DJ 
+S7 C7 SJ H9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "12"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:983.AQ863.T8.J85 KQ72.J75.953.A92 4.2.QJ7642.T7643 AJT65.KT94.AK.KQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2236422364baa66bba66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  6
+N  C  4
+S NT  2
+S  S  2
+S  H  3
+S  D  6
+S  C  4
+E NT 11
+E  S 10
+E  H 10
+E  D  6
+E  C  6
+W NT 11
+W  S 11
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,2,1,488,57,156,125,284,66,327,80,24,51,115,139,47,29,117,66,11,9,62,33,9,22,62,28,10,38,73,25,10,19,22,21,10,10,33,16,18,28,41
+[Auction "W"]
+2NT =1= Pass 3C =2= Pass 
+3S =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: 20-21"]
+[Note "2: Puppet Stayman"]
+[Note "3: 5S"]
+[Play "N"]
+C8 C2 C3 CK 
+S3 S2 S4 SA 
+C5 C9 C6 CQ 
+S8 SK D7 S5 
+S9 SQ D2 ST 
+CJ CA C4 H4 
+HQ HJ H2 H9 
+DT -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "12"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:983.AQ863.T8.J85 KQ72.J75.953.A92 4.2.QJ7642.T7643 AJT65.KT94.AK.KQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2236422364baa66bba66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  6
+N  C  4
+S NT  2
+S  S  2
+S  H  3
+S  D  6
+S  C  4
+E NT 11
+E  S 10
+E  H 10
+E  D  6
+E  C  6
+W NT 11
+W  S 11
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,0,3,492,98,90,201,55,48,270,56,52,59,470,39,25,45,69,118,29,16,238,27,23,15,18,33,40,15,426,26,8,33,13,22,7,7,70,26,26,6,157,26,7,15,251,30,37,40,21,19,15,7,83,32,20,37,15
+[Auction "W"]
+2C =1= Pass 2D =2= Pass 
+2NT Pass 3C =3= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Note "2: relay"]
+[Note "3: puppet stayman"]
+[Play "N"]
+DT D3 D2 DA 
+S3 SK S4 S5 
+S8 S2 D4 SA 
+C5 C2 C3 CK 
+C8 C9 C4 CQ 
+S9 SQ D6 S6 
+CJ CA C6 H4 
+HQ H5 H2 H9 
+D8 D5 DJ DK 
+HA H7 C7 HT 
+H3 -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "13"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A3.T9854.AKT.973 QJT6.Q72.J4.AQ86 854.AKJ3.Q53.KT2 K972.6.98762.J54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "95a7795a773735637356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  7
+N  C  7
+S NT  9
+S  S  5
+S  H 10
+S  D  7
+S  C  7
+E NT  3
+E  S  7
+E  H  3
+E  D  5
+E  C  6
+W NT  3
+W  S  7
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 12,2,1,161,150,80,189,150,57,155,26,57,42,36,90,11,29,29,21,21,50,54,68,11,21,76,37,15,25,189,32,17,12,32,21,11,82,18,40,31,14,71,36,9,19,86,17,30,9,20,16,8,10,121
+[Auction "N"]
+Pass 1C =1= X 1S 
+2H 2S 3H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+SQ S4 S7 SA 
+H2 HA H6 H4 
+H7 HK D6 H5 
+D4 D3 D2 DA 
+DJ DQ D7 DT 
+S6 D5 D8 DK 
+C6 CK C4 C3 
+ST S5 S2 S3 
+CA C2 C5 C7 
+CQ CT CJ C9 
+HQ -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "13"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A3.T9854.AKT.973 QJT6.Q72.J4.AQ86 854.AKJ3.Q53.KT2 K972.6.98762.J54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "95a7795a773735637356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  7
+N  C  7
+S NT  9
+S  S  5
+S  H 10
+S  D  7
+S  C  7
+E NT  3
+E  S  7
+E  H  3
+E  D  5
+E  C  6
+W NT  3
+W  S  7
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,85,104,167,88,118,37,52,37,40,106,291,36,35,19,66,85,29,25,89,31,25,21,51,66,17,23,14,27,82,16,79,39,16,34,29,31,23,18,148,70,18,8,75,24,14,40,57,81,23,16,29,34,38,14,230,199,13,12,51,33,13,22,18,5,13,14
+[Auction "N"]
+1D X XX =1= 1S 
+Pass Pass X Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 9+"]
+[Play "E"]
+SQ S4 S2 SA 
+H2 HA H6 H4 
+D4 D3 D6 DA 
+H7 HK S7 H5 
+S6 S5 SK S3 
+DJ D5 D9 DK 
+C6 DQ D2 DT 
+ST S8 S9 H8 
+CA C2 C5 C3 
+HQ H3 D7 H9 
+C8 CK C4 C7 
+SJ HJ D8 HT 
+CQ CT CJ C9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "14"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKJ95.Q862..K732 87.AJ94.A862.JT8 Q3.KT3.KJ543.Q96 T642.75.QT97.A54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "89979899794346443463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  3
+E  H  4
+E  D  6
+E  C  4
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,76,79,41,108,48,130,79,389,119,399,95,74,59,27,40,77,135,94,47,153,38,21,43,66,27,51,18,19,26,246,18,22,235,18,167,212,32,47,27,115,31,14,22,17,28,31,10,17,97,12,28,12,21,14,207,21,11,13,55,19,14,8,13,20,13,7,8
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2D =1= 
+Pass 2NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: checkback to game"]
+[Note "2: denies 4♡ and 3♠"]
+[Play "W"]
+H7 H2 HJ HK 
+H5 H6 HA HT 
+DQ C2 D2 DJ 
+D7 C3 DA D3 
+D9 C7 D6 DK 
+C4 HQ H4 H3 
+S2 S5 S8 SQ 
+S4 SA S7 S3 
+S6 SK D8 C6 
+ST SJ C8 D4 
+C5 S9 CJ D5 
+CA CK CT C9 
+DT H8 H9 CQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "14"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKJ95.Q862..K732 87.AJ94.A862.JT8 Q3.KT3.KJ543.Q96 T642.75.QT97.A54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "89979899794346443463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  3
+E  H  4
+E  D  6
+E  C  4
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,111,98,30,104,67,117,30,147,45,438,39,115,56,55,30,710,322,53,34,89,29,12,33,19,22,11,40,18,139,41,8,33,96,16,6,19,233,20,7,36,39,27,24,177,30,6,32,143,25,581,35,8,38,47,15,21,17,9,20,15
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3H 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C4 C2 CT CQ 
+S2 S5 S7 SQ 
+S4 SA S8 S3 
+S6 SK D8 D3 
+ST SJ D2 D4 
+D7 S9 C8 C6 
+H5 H2 H4 HT 
+H7 H6 HA HK 
+CA C3 CJ C9 
+D9 C7 DA D5 
+DT H8 D6 DK 
+-  -  -  H3 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "15"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ.987.Q53.JT987 J983.Q62.JT96.AK 72.AT543.K742.Q5 KT654.KJ.A8.6432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "53877538776956669566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  7
+N  C  7
+S NT  5
+S  S  3
+S  H  8
+S  D  7
+S  C  7
+E NT  6
+E  S  9
+E  H  5
+E  D  6
+E  C  6
+W NT  6
+W  S  9
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,116,54,62,429,45,303,56,116,60,59,246,49,15,176,68,38,38,34,79,9,8,29,37,9,6,24,17,20,9,69,16,38,41,162,55,14,43,149,16,33,23,34,27,6,19
+[Auction "S"]
+Pass 1S Pass 3D =1= 
+Pass 3S =2= Pass Pass 
+Pass 
+[Note "1: 4+♠, Inv"]
+[Note "2: minimum"]
+[Play "N"]
+H8 H2 HA HJ 
+D3 D6 D2 DA 
+H7 H6 H3 HK 
+C7 CA C5 C3 
+H9 HQ H4 D8 
+SQ S9 S2 S4 
+C8 CK CQ C2 
+SA S8 S7 S5 
+D5 D9 DK S6 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "15"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ.987.Q53.JT987 J983.Q62.JT96.AK 72.AT543.K742.Q5 KT654.KJ.A8.6432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "53877538776956669566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  7
+N  C  7
+S NT  5
+S  S  3
+S  H  8
+S  D  7
+S  C  7
+E NT  6
+E  S  9
+E  H  5
+E  D  6
+E  C  6
+W NT  6
+W  S  9
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,215,152,44,356,239,135,58,115,65,23,36,53,116,31,7,189,34,265,28,296,28,23,7,246,28,45,18,268,118,34,11,78,35,134,22,20,88,24,7,41,25,15,8,110,27,9,46,12,20,6,11
+[Auction "S"]
+Pass 1S Pass 2NT =1= 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: good raise"]
+[Play "N"]
+CJ CA C5 C2 
+SQ S9 S2 S4 
+C7 CK CQ C3 
+SA S3 S7 ST 
+CT S8 H3 C4 
+H8 H2 HA HK 
+D3 D6 D2 DA 
+H7 H6 H4 HJ 
+C8 SJ D4 C6 
+H9 HQ H5 D8 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "16"]
+[West "Mike Sherer#29862"]
+[North "Pamela Pope#453237"]
+[East "Jeff Orton#63536"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q983.AT32.A.KQ32 T6.J64.6532.J875 A4.KQ95.QT984.T6 KJ752.87.KJ7.A94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "99b9999ba94413344234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D 10
+S  C  9
+E NT  4
+E  S  4
+E  H  1
+E  D  3
+E  C  3
+W NT  4
+W  S  4
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,2,1,413,247,75,176,53,123,93,42,30,37,150,126,38,326,36,18,40,42,106,34,29,135,30,16,39,70,15,22,11,22,42,10,19,74,51,28,11,46,18,11,200,62,16,12,27,23,26,13,31,32,23,8,20,18,73,14,8,17,8,10,9
+[Auction "W"]
+1S X Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+ST S4 S5 SQ 
+H4 HQ H8 H2 
+C7 C6 C4 CQ 
+H6 HK H7 H3 
+C5 CT CA C2 
+S6 SA S2 S3 
+HJ H5 D7 HA 
+D2 H9 S7 HT 
+D3 D4 DJ DA 
+C8 D8 C9 CK 
+CJ D9 SJ C3 
+D6 DQ DK S8 
+D5 DT SK S9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "16"]
+[West "David Mathews#400023"]
+[North "Caroline Gemmell#101945"]
+[East "Helen Mason#400066"]
+[South "Mark Honess#108772"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q983.AT32.A.KQ32 T6.J64.6532.J875 A4.KQ95.QT984.T6 KJ752.87.KJ7.A94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "99b9999ba94413344234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D 10
+S  C  9
+E NT  4
+E  S  4
+E  H  1
+E  D  3
+E  C  3
+W NT  4
+W  S  4
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,182,241,43,246,33,54,26,52,301,47,42,25,29,8,29,21,48,14,28,11,31,13,22,376,37,17,6,51,27,10,42,13,31,11,18,351,30,39,7,11,18,13,6,10,18,20,5,13,26,10,16,8,15,7,19,7,16,6,13
+[Auction "W"]
+1S X Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+H8 H2 H6 H9 
+D7 DA D2 D4 
+S2 S3 S6 SA 
+DJ H3 D3 D8 
+H7 HA H4 H5 
+S5 HT HJ HK 
+DK C2 D6 DQ 
+CA C3 C5 C6 
+C4 CQ C7 CT 
+C9 CK C8 S4 
+S7 S8 ST HQ 
+SJ S9 D5 DT 
+SK SQ CJ D9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "17"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:6.QJ654.J53.AQT8 A942.AT3.K864.K2 87.K97.AQ97.J763 KQJT53.82.T2.954"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "54a8954a897934379343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H 10
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H 10
+S  D  8
+S  C  9
+E NT  7
+E  S  9
+E  H  3
+E  D  4
+E  C  3
+W NT  7
+W  S  9
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,432,307,82,275,110,40,34,27,56,25,31,57,268,19,12,164,65,18,9,121,49,21,22,186,84,32,15,64,185,18,11,69,21,15,9,17,26,15,12,79,67,11,23,66,16,31,24,16,34,15,12,16
+[Auction "N"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: s"]
+[Play "S"]
+S7 SK S6 S2 
+S8 SQ H4 S4 
+C6 C4 C8 CK 
+C3 C9 CT C2 
+C7 C5 CQ S9 
+H7 H2 H5 HA 
+H9 H8 H6 H3 
+HK S3 HJ HT 
+DA DT DJ DK 
+DQ D2 D3 D4 
+D7 -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "17"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:6.QJ654.J53.AQT8 A942.AT3.K864.K2 87.K97.AQ97.J763 KQJT53.82.T2.954"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "54a8954a897934379343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H 10
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H 10
+S  D  8
+S  C  9
+E NT  7
+E  S  9
+E  H  3
+E  D  4
+E  C  3
+W NT  7
+W  S  9
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,1,3,264,114,869,329,264,43,83,34,142,24,88,35,80,45,19,176,15,10,26,38,25,28,13,195,28,20,22,20,24,18,7,16,57,25,11,93,22,145,27,64,37,11,8,13,107,12,8
+[Auction "N"]
+1H X XX =1= 2S 
+Pass Pass 3H 3S 
+Pass Pass Pass 
+[Note "1: 10+"]
+[Play "N"]
+HQ HA H7 H2 
+S6 S2 S7 SK 
+H5 S4 S8 SQ 
+CA C2 C6 C4 
+H4 H3 HK H8 
+H6 HT H9 S3 
+D3 DK DA D2 
+D5 D4 DQ DT 
+DJ D6 D7 S5 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "18"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q92.KJ93.85.8654 5.AT87652.Q93.KT KJT863..KJ64.Q93 A74.Q4.AT72.AJ72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "462354623577ba876b98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  3
+N  C  5
+S NT  4
+S  S  6
+S  H  2
+S  D  3
+S  C  5
+E NT  7
+E  S  7
+E  H 11
+E  D 10
+E  C  8
+W NT  7
+W  S  6
+W  H 11
+W  D  9
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,214,68,105,125,25,36,151,304,26,35,115,27,27,9,20,24,24,16,307,43,17,8,27,14,53,16,69,30,21,13,170,160,32,11,28,9,16,27,198,314,52,23,49,38,23,21,20,28,38,28,51,39,15
+[Auction "E"]
+3H 3S 4H Pass 
+Pass Pass 
+[Play "S"]
+D4 D2 D8 D9 
+S3 SA S2 S5 
+S6 H4 H3 HA 
+C3 C2 C5 CK 
+C9 CA C4 CT 
+CQ C7 C8 H2 
+DJ DA D5 D3 
+S8 CJ C6 DQ 
+D6 D7 SQ H5 
+ST HQ HK H6 
+SJ S4 S9 H7 
+DK S7 -  H8 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "18"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q92.KJ93.85.8654 5.AT87652.Q93.KT KJT863..KJ64.Q93 A74.Q4.AT72.AJ72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "462354623577ba876b98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  3
+N  C  5
+S NT  4
+S  S  6
+S  H  2
+S  D  3
+S  C  5
+E NT  7
+E  S  7
+E  H 11
+E  D 10
+E  C  8
+W NT  7
+W  S  6
+W  H 11
+W  D  9
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,0,118,154,42,101,27,95,174,120,23,29,492,29,15,40,22,61,59,61,457,54,23,31,610,21,21,15,27,16,475,29,40,21,26,12,21,8,24,9,55,9,17,11,55,18,14,16,25,10,11,9,25,9,12,8,16,11,7,13
+[Auction "E"]
+3H 3S 4H Pass 
+Pass Pass 
+[Play "S"]
+SJ SA S2 S5 
+S3 S4 S9 H2 
+S6 HQ HK H5 
+S8 H4 H3 H6 
+C3 C2 C4 CK 
+C9 C7 C5 CT 
+D6 DA D5 D3 
+CQ CA C6 D9 
+ST CJ C8 DQ 
+D4 D2 D8 H7 
+DJ D7 H9 HA 
+SK S7 HJ HT 
+DK DT SQ H8 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "19"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ87.AT.63.Q9753 Q.K2.AK9742.AK42 T42.J87654.J85.8 K9653.Q93.QT.JT6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2462424624b77b9b77b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  4
+S  H  6
+S  D  2
+S  C  4
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  9
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 16,2,0,143,116,119,193,60,44,41,126,36,70,172,74,27,39,153,42,22,28,24,15,10,32,12,21,17,24,15,15,11,71,15,15,21,209,93,10,17,88,30,11,26
+[Auction "S"]
+2H =1= Pass Pass 3D 
+Pass Pass 3H 4C 
+Pass 4D Pass Pass 
+Pass 
+[Note "1:  * weak [0:04]"]
+[Play "S"]
+C8 CT CQ CK 
+D5 DQ D3 D2 
+D8 DT D6 DK 
+DJ S3 S7 DA 
+H4 H3 HA HK 
+H5 C6 C9 CA 
+S2 S5 SA SQ 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "19"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ87.AT.63.Q9753 Q.K2.AK9742.AK42 T42.J87654.J85.8 K9653.Q93.QT.JT6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2462424624b77b9b77b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  4
+S  H  6
+S  D  2
+S  C  4
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  9
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,1,3,117,34,38,62,53,67,34,208,92,26,27,45,149,303,40,16,81,34,28,104,25,16,10,35,58,14,30,151,28,20,29,23,118,22,13,26,26,14,14,25,17,22,10,25,13,38,7,31,12,18,8,20,27,16,24,17,11,15,21,12,11,11,5
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1S Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+H6 H3 HA H2 
+H4 H9 HT HK 
+S2 S3 SA SQ 
+C8 CT C5 C2 
+S4 SK S7 C4 
+H5 HQ D6 D2 
+D5 DQ D3 D4 
+D8 DT S8 DK 
+DJ C6 C3 CA 
+H7 CJ C7 CK 
+H8 S5 C9 DA 
+HJ S6 SJ D9 
+ST S9 CQ D7 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "20"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:98732.AJT82.73.9 QT6.73.J62.JT862 AK4.KQ9654.KQ54. J5..AT98.AKQ7543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "5ab535bb535226a5226a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 11
+N  D  5
+N  C  3
+S NT  5
+S  S 11
+S  H 11
+S  D  5
+S  C  3
+E NT  5
+E  S  2
+E  H  2
+E  D  6
+E  C 10
+W NT  5
+W  S  2
+W  H  2
+W  D  6
+W  C 10
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 27,2,0,281,107,75,534,202,240,33,67,49,97,18,17,25,52,20,181,24,19,25,143,23,15,9,74,25,12,9,44,26,8,11,52,21,9,10,32,16,29,12,80,18,26,17,29,31,12,17,11,20,7,12,11,22,6,11,13,8,8,11
+[Auction "W"]
+1C 2C =1= Pass 6H 
+Pass Pass Pass 
+[Note "1: maj"]
+[Play "W"]
+DA D3 D2 D4 
+CA C9 C2 H4 
+C3 HA H3 H5 
+C4 HJ H7 H6 
+C5 H2 C6 HK 
+C7 H8 C8 HQ 
+D8 D7 D6 DK 
+D9 S2 DJ DQ 
+DT HT CT D5 
+S5 S3 S6 SA 
+CQ S7 CJ H9 
+SJ S8 ST SK 
+CK S9 SQ S4 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "20"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:98732.AJT82.73.9 QT6.73.J62.JT862 AK4.KQ9654.KQ54. J5..AT98.AKQ7543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "5ab535bb535226a5226a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 11
+N  D  5
+N  C  3
+S NT  5
+S  S 11
+S  H 11
+S  D  5
+S  C  3
+E NT  5
+E  S  2
+E  H  2
+E  D  6
+E  C 10
+W NT  5
+W  S  2
+W  H  2
+W  D  6
+W  C 10
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 20,1,3,335,124,69,146,85,92,74,46,42,66,25,233,36,74,161,66,105,14,51,222,27,7,39,207,49,16,32,49,41,25,7,275,18,25,36,35,49,20,9,159,15,19,25,23,38,10,12
+[Auction "W"]
+1C Pass Pass X 
+2C 2H 3C 4H 
+5C Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+HA H3 H9 C3 
+C9 C2 H6 CA 
+S2 S6 SK SJ 
+D7 D2 DK DA 
+D3 DJ DQ D8 
+H8 D6 D5 DT 
+H2 ST D4 D9 
+S3 SQ SA S5 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "21"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T43.T95.KJ2.AQ96 J762.K63.Q94.753 AK85.Q82.75.JT42 Q9.AJ74.AT863.K8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "77558775586678566785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  8
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  8
+E NT  6
+E  S  6
+E  H  7
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,1,3,94,25,159,48,43,56,57,33,42,28,56,100,106,12,44,229,38,23,33,18,28,26,12,61,80,7,8,225,68,19,66,46,21,6,25,71,31,114,12,17,20,10,9,17,18,9,94,95,29,28,19,26,29,9,70,18,21,10,7,11,21,8,7
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1S Pass 1NT 
+Pass Pass Pass 
+[Play "N"]
+C6 C3 CT CK 
+H5 HK H2 H4 
+HT H3 H8 HJ 
+H9 H6 HQ HA 
+D2 S2 S5 H7 
+DJ D4 D7 DA 
+DK DQ D5 D3 
+CA C5 C2 C8 
+CQ C7 C4 S9 
+ST S6 SK SQ 
+C9 D9 CJ D6 
+S3 S7 SA D8 
+S4 SJ S8 DT 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "21"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T43.T95.KJ2.AQ96 J762.K63.Q94.753 AK85.Q82.75.JT42 Q9.AJ74.AT863.K8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "77558775586678566785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  8
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  8
+E NT  6
+E  S  6
+E  H  7
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 13,2,0,104,52,226,90,183,260,136,107,318,50,66,35,152,71,15,11,19,118,19,12,40,25,142,30,24,20,10,12,47,30,10,16,181,51,15,14,141,44,7,11,12,18,35,11,17,20,10,23,12,43,9,38,19,19,21,12,9,11,12,9,13,12,10,8
+[Auction "N"]
+Pass Pass 1S X 
+XX Pass Pass 2D 
+3S Pass Pass Pass 
+[Play "W"]
+DA D2 D4 D5 
+D3 DK D9 D7 
+S9 S3 S2 S5 
+D6 DJ DQ S8 
+SQ S4 S6 SA 
+C8 C6 C3 CJ 
+H4 ST S7 SK 
+CK CA C5 CT 
+D8 CQ C7 C2 
+H7 C9 SJ C4 
+HJ H5 H3 H2 
+HA H9 H6 H8 
+DT HT HK HQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "22"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:83.AJT3.KQJ5.AQ2 KQ95.K72.42.T754 AJT742.Q65.AT87. 6.984.963.KJ9863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "bbbc6bbbb62221622216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 12
+N  C  6
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  2
+E  D  1
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,2,0,74,60,59,282,34,125,34,45,19,23,25,64,150,34,33,47,56,27,20,55,19,22,15,23,28,26,12,399,32,12,17,11,47,19,10,29,53,19,31,115,31,17,8,40,19,16,15,23,26,11,5,12,45,14,6,16,19,11,6,12,18,14,6
+[Auction "E"]
+Pass 1S Pass 2D 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+H2 H5 H8 HT 
+S5 ST S6 S3 
+D4 D7 D3 DK 
+SQ SA C3 S8 
+D2 D8 D9 DJ 
+HK H6 H4 H3 
+C7 S2 CJ CQ 
+C4 DA D6 D5 
+H7 HQ H9 HA 
+C5 DT C6 DQ 
+S9 S4 C8 HJ 
+CT S7 C9 CA 
+SK SJ CK C2 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "22"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:83.AJT3.KQJ5.AQ2 KQ95.K72.42.T754 AJT742.Q65.AT87. 6.984.963.KJ9863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "bbbc6bbbb62221622216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 12
+N  C  6
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  2
+E  D  1
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,1,3,100,97,39,243,59,182,27,49,36,165,21,95,297,21,97,83,46,32,23,40,26,20,60,108,170,25,13,92,29,24,26,22,21,19,23,45,15,14,21,26,88,18,11,17,79,15,9,33,61,15,26,67,32,20,8,12,15,16,17,17,13,7,9
+[Auction "E"]
+Pass 1S Pass 2D =1= 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: FG unless rebid"]
+[Play "E"]
+C4 S2 CK CA 
+D2 DT D3 D5 
+HK H5 H4 HT 
+C5 D7 CJ CQ 
+D4 DA D6 DJ 
+H2 HQ H8 H3 
+H7 H6 H9 HA 
+S5 D8 D9 DK 
+S9 S4 C3 DQ 
+C7 S7 S6 HJ 
+SK SA C6 S8 
+SQ ST C8 S3 
+CT SJ C9 C2 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "23"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q92.J43.QT96.K42 J3.A95.KJ852.873 764.KT87.A.AQJ96 AKT85.Q62.743.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "75858758585758457584"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  5
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  5
+S  C  8
+E NT  5
+E  S  7
+E  H  5
+E  D  8
+E  C  4
+W NT  5
+W  S  7
+W  H  5
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,144,99,181,49,383,435,67,83,105,115,77,41,26,40,44,19,37,16,26,14,14,13,29,13,32,13,27,9,36,12,36,79,19,15,153,18,7,12,12,24,14,9,9,25,18,8,15,16,34,15,20,20,6,9,18,16,5,11
+[Auction "S"]
+1C 1S 1NT Pass 
+Pass Pass 
+[Play "E"]
+SJ S4 S5 SQ 
+C3 C6 C5 CK 
+C7 CA CT C2 
+C8 CQ D7 C4 
+H5 CJ D3 H3 
+D2 C9 D4 S2 
+D5 DA S8 D6 
+S3 S6 SA S9 
+H9 S7 SK H4 
+D8 H7 ST HJ 
+HA H8 H2 D9 
+DK HT H6 DT 
+DJ HK HQ DQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "23"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q92.J43.QT96.K42 J3.A95.KJ852.873 764.KT87.A.AQJ96 AKT85.Q62.743.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "75858758585758457584"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  5
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  5
+S  C  8
+E NT  5
+E  S  7
+E  H  5
+E  D  8
+E  C  4
+W NT  5
+W  S  7
+W  H  5
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,235,294,190,44,92,27,142,38,1041,40,12,29,25,11,22,29,48,13,63,29,25,27,38,14,13,19,42,114,15,5,20,10,13,19,16,7,18,27,24,23,11,16,17,13,13,29,24,28,18,9,26,29,7,10,13,15,9,5
+[Auction "S"]
+1C =1= 1S 1NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+SJ S4 SA S2 
+S3 S6 SK S9 
+C3 S7 S8 SQ 
+C8 CQ C5 C2 
+C7 C6 CT CK 
+H5 CA D3 C4 
+D2 CJ D4 H3 
+D5 C9 D7 D6 
+D8 DA S5 D9 
+HA H7 H2 HJ 
+DK H8 ST DT 
+DJ HT H6 DQ 
+H9 HK HQ H4 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "24"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:653.T983.543.863 A97.Q74.K97.AJ74 J2.AK62.T862.QT2 KQT84.J5.AQJ.K95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2243322433bb8aabb8aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  3
+N  C  3
+S NT  2
+S  S  2
+S  H  4
+S  D  3
+S  C  3
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C 10
+W NT 11
+W  S 11
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,2,0,166,51,141,97,414,59,40,30,257,35,43,136,34,18,14,16,97,16,11,48,10,20,115,19,14,9,37,16,19,13,17,53,10,10
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass 4S Pass 
+Pass Pass 
+[Note "1: relay f1"]
+[Note "2: 3+"]
+[Play "N"]
+HT H4 HK H5 
+H8 H7 HA HJ 
+H3 HQ H2 C5 
+S3 S7 S2 SK 
+S5 SA SJ S4 
+S6 S9 H6 SQ 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "24"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:653.T983.543.863 A97.Q74.K97.AJ74 J2.AK62.T862.QT2 KQT84.J5.AQJ.K95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2243322433bb8aabb8aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  3
+N  C  3
+S NT  2
+S  S  2
+S  H  4
+S  D  3
+S  C  3
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C 10
+W NT 11
+W  S 11
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,193,58,271,127,172,45,41,136,16,46,161,30,6,11,76,26,36,15,94,147,54,20,17,95,186,147,87,168,26,39,297,24,10,15,46,25,8,12,38,102,30,11,42,21,33,12,36,25,51,14,90,48,6,13,13,8,10,7
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HT H4 H6 HJ 
+S3 S7 S2 SK 
+S6 SA SJ S4 
+S5 S9 D6 SQ 
+C6 H7 H2 ST 
+D4 HQ D2 S8 
+D3 D7 D8 DA 
+D5 D9 DT DJ 
+C8 DK HK DQ 
+C3 C4 CT CK 
+H3 CA C2 C5 
+H8 C7 CQ C9 
+H9 CJ HA H5 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "25"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK.QJT65.A2.A982 Q865.83.KJ983.QJ JT72.K42.Q765.43 943.A97.T4.KT765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "87977879775536655366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  3
+E  D  6
+E  C  6
+W NT  5
+W  S  5
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,0,199,98,61,36,92,30,33,62,78,108,24,28,295,31,21,45,13,26,27,19,20,36,12,27,52,26,23,44,96,45,15,21,163,28,13,13,46,34,15,14,65,22,11,22,40,22,8,7,9,25,15,6,24
+[Auction "N"]
+1H Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+S5 S2 S9 SK 
+CJ C3 C5 CA 
+H3 HK HA H5 
+CQ C4 CK C2 
+H8 D5 C6 C8 
+S6 ST S3 SA 
+D3 H2 H9 HQ 
+D8 H4 C7 C9 
+S8 S7 S4 H6 
+D9 D6 D4 DA 
+DK D7 DT D2 
+SQ -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "25"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK.QJT65.A2.A982 Q865.83.KJ983.QJ JT72.K42.Q765.43 943.A97.T4.KT765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "87977879775536655366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  3
+E  D  6
+E  C  6
+W NT  5
+W  S  5
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,209,165,130,40,117,35,42,29,95,179,28,30,31,40,11,9,46,23,15,179,61,42,17,23,17,172,45,22,35,23,11,29,23,118,42,19,155,17,24,26,62,221,15,50,11,41,57,47,18,27,20,7,24,24,16,18,12,16,8,6
+[Auction "N"]
+1H Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+S6 S7 S9 SA 
+CQ C3 C5 CA 
+CJ C4 C7 C8 
+S5 SJ S3 SK 
+H8 HK C6 C2 
+D3 D5 D4 DA 
+D8 H2 CT C9 
+H3 H4 H7 HT 
+S8 D6 HA HJ 
+D9 S2 CK H5 
+DK D7 DT D2 
+SQ ST S4 H6 
+DJ DQ H9 HQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "26"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9.KQT9.832.A982 872.2.AKQ6.QT653 QJ63.74.J95.KJ74 KT54.AJ8653.T74."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "84458845685787558875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  4
+N  D  5
+N  C  8
+S NT  8
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  5
+E  S  7
+E  H  8
+E  D  7
+E  C  5
+W NT  5
+W  S  8
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 7,2,0,94,90,42,85,41,77,63,52,42,114,61,119,42,22,40,31,18,42,180,38,29,14,11,18,7,16,58,25,11,5,40,20,12,23,479,29,7,13,55,21,46,43,86,29,15,20,24,21,10,15,104,13,10,9,15,35,8,8,24,5,8,9
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Play "N"]
+D8 DA D9 D4 
+H9 H2 H4 H8 
+SA S2 S3 S4 
+S9 S7 SJ SK 
+HT C3 H7 HA 
+HQ C5 C4 H3 
+CA C6 C7 H5 
+HK S8 D5 H6 
+C2 CT CJ HJ 
+D2 DK DJ D7 
+D3 DQ S6 DT 
+C8 D6 SQ S5 
+C9 CQ CK ST 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "26"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9.KQT9.832.A982 872.2.AKQ6.QT653 QJ63.74.J95.KJ74 KT54.AJ8653.T74."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "84458845685787558875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  4
+N  D  5
+N  C  8
+S NT  8
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  5
+E  S  7
+E  H  8
+E  D  7
+E  C  5
+W NT  5
+W  S  8
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 7,1,3,219,54,66,67,94,134,34,74,158,41,101,40,12,52,108,32,9,41,395,32,13,12,110,32,466,46,110,28,31,24,20,35,57,17,41,25,8,28,37,25,10,36,28,30,24,11,19,20,8,20,66,13,59,40,30,22,11,29,13,15,6,6
+[Auction "E"]
+1C =1= Pass 1H Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+SA S2 S6 S4 
+S9 S7 SJ SK 
+D3 DA D5 D4 
+HT H2 H4 H8 
+CA C3 C7 H3 
+H9 C5 H7 HA 
+HQ C6 C4 H5 
+C9 CT CJ H6 
+D8 DK D9 D7 
+D2 DQ DJ DT 
+HK D6 S3 S5 
+C2 CQ CK HJ 
+C8 S8 SQ ST 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "27"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT53.J63.742.KQ7 962.K9752.A9.A65 AQJ84.A84.KJ6.94 7.QT.QT853.JT832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78644786445478954789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C  4
+S NT  7
+S  S  8
+S  H  6
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  7
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,2,0,145,206,420,103,189,47,723,43,221,53,84,113,34,13,219,32,18,15,27,18,18,48,37,43,12,27,16,39,14,16,12,31,60,63,13,14,14,11
+[Auction "S"]
+1NT =1= 2C =2= 2NT Pass 
+3C =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15 17"]
+[Note "2: clubs and a higher suit"]
+[Note "3: forced bid"]
+[Play "W"]
+CJ CK CA C4 
+CT C7 C6 C9 
+C2 CQ C5 H4 
+DQ D2 D9 DJ 
+C8 H3 S9 H8 
+C3 H6 H7 S4 
+D8 D4 DA D6 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "27"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT53.J63.742.KQ7 962.K9752.A9.A65 AQJ84.A84.KJ6.94 7.QT.QT853.JT832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78644786445478954789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C  4
+S NT  7
+S  S  8
+S  H  6
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  7
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,255,43,278,44,168,36,112,46,34,22,26,191,42,36,351,32,40,49,170,50,16,34,27,30,19,17,31,29,8,31,25,24,96,41,63,28,43,22,48,26,19,44,40,32,104,23,260,47,15,14,20,30,11,18,43,18,7,25,18,9,11,8
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2S =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: Puppet Stayman"]
+[Note "3: 5S"]
+[Play "W"]
+CJ CQ CA C4 
+CT CK C6 C9 
+DQ D2 D9 DJ 
+C8 C7 C5 S4 
+S7 S3 S2 SA 
+C2 S5 S6 SJ 
+C3 ST S9 S8 
+D5 D4 DA D6 
+HQ H3 H2 H4 
+DT D7 H5 DK 
+HT H6 H7 HA 
+D3 HJ HK H8 
+D8 SK H9 SQ 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "28"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.AQ83.A953.J842 J43.9.KQJT87.KQ5 AQ985.K7642.4.96 KT72.JT5.62.AT73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76a4676a466538765387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H 10
+S  D  4
+S  C  6
+E NT  6
+E  S  5
+E  H  3
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 12,2,0,98,144,41,149,213,238,46,59,49,47,36,139,34,61,39,14,30,27,16,32,22,68,31,24,15,53,19,13,13,29,26,21,16,26,19,12,10,15,58,16,8,141,172,17,10,18,21,17,23,28,57,22,32,20,18,20,13,11,16,9,8
+[Auction "W"]
+Pass Pass 1D 2D =1= 
+Pass 3H Pass Pass 
+Pass 
+[Note "1:  * ♠+♡ [0:09]"]
+[Play "E"]
+DK D4 D2 DA 
+S3 SA S2 S6 
+S4 S5 S7 H3 
+D7 H2 D6 D3 
+SJ S8 ST H8 
+D8 H4 H5 D5 
+C5 C6 CA C2 
+CQ C9 C3 C4 
+CK H6 C7 C8 
+DT S9 SK HQ 
+H9 HK CT CJ 
+DJ SQ HT HA 
+DQ H7 HJ D9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "28"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.AQ83.A953.J842 J43.9.KQJT87.KQ5 AQ985.K7642.4.96 KT72.JT5.62.AT73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76a4676a466538765387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H 10
+S  D  4
+S  C  6
+E NT  6
+E  S  5
+E  H  3
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 12,1,3,103,37,67,301,597,278,120,141,40,53,63,43,34,130,28,20,27,347,30,19,12,18,15,30,17,187,132,7,14,93,24,9,40,20,38,13,32,319,33,15,7,85,30,12,9,48,20,35,9,27,15,26,13,47,24,12,35,13,8,10,18
+[Auction "W"]
+Pass Pass 1D 2D =1= 
+Pass 3H Pass Pass 
+Pass 
+[Note "1: Hs & Spades"]
+[Play "E"]
+DK D4 D6 DA 
+S3 SQ SK S6 
+C5 C6 CA C2 
+CQ C9 C7 C4 
+CK H2 C3 C8 
+S4 SA S7 D3 
+SJ S5 S2 H3 
+H9 H4 H5 HA 
+D7 H6 HT HQ 
+D8 H7 CT CJ 
+DT S8 ST H8 
+DJ HK D2 D5 
+DQ S9 HJ D9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "29"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K9.865.Q9542.J86 7652.KT72.A7.A73 AQ83.AQJ4.83.K92 JT4.93.KJT6.QT54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "87887778875555655445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  7
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,0,97,88,98,169,76,22,40,213,31,19,26,164,31,9,131,38,13,25,192,48,25,36,23,31,27,11,15,24,184,12,131,23,220,26,17,27,12,10,16,72,12,35,10
+[Auction "N"]
+Pass 1C 1NT Pass 
+Pass Pass 
+[Play "W"]
+C4 C6 CA C2 
+CQ C8 C7 C9 
+C5 CJ C3 CK 
+D6 D9 DA D3 
+H9 H5 H2 HQ 
+DT DQ D7 D8 
+DJ D2 S7 H4 
+DK D4 S5 S3 
+CT H6 S2 HJ 
+H3 -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "29"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K9.865.Q9542.J86 7652.KT72.A7.A73 AQ83.AQJ4.83.K92 JT4.93.KJT6.QT54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "87887778875555655445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  7
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,1,3,81,42,191,38,319,23,82,228,74,12,39,45,12,22,427,71,29,43,43,34,26,8,39,107,19,23,539,117,15,32,63,64,24,20,30,28,15,24,15,73,34,26,114,15,21,43,30,35,30,8,22,34,7,14,12,12,11,10
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+SJ SK S6 S3 
+H3 H5 H2 HJ 
+DT DQ DA D3 
+S4 S9 S5 SA 
+DJ D2 D7 D8 
+ST H6 S2 SQ 
+H9 D4 S7 S8 
+C4 H8 H7 HA 
+C5 CJ CA C2 
+D6 C6 HK H4 
+CT C8 C3 CK 
+DK D5 HT HQ 
+CQ D9 C7 C9 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "30"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:7654.4.AK843.JT5 AJ3.KJT985.J6.82 QT9.AQ62.T95.AQ4 K82.73.Q72.K9763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "78597785974584645745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  9
+N  C  7
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  7
+E NT  4
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,2,0,83,142,188,194,34,116,29,50,41,60,29,20,104,40,50,32,873,30,28,27,169,42,20,75,156,29,28,13,185,35,21,23,245,27,18,31,202,47,16,24,232,23,20,21,43,22,17,16,38
+[Auction "E"]
+1H Pass 1S =1= Pass 
+2H Pass Pass Pass 
+[Note "1: relay forcing 1 round "]
+[Play "S"]
+DT D2 DA D6 
+HQ H3 H4 H5 
+H2 H7 D3 H8 
+HA C3 CJ HK 
+D5 D7 DK DJ 
+D9 DQ D4 C2 
+CQ C6 C5 C8 
+H6 C7 S6 H9 
+S9 SK S4 S3 
+SQ S2 S5 SJ 
+CA -  -  -  
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "30"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:7654.4.AK843.JT5 AJ3.KJT985.J6.82 QT9.AQ62.T95.AQ4 K82.73.Q72.K9763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "78597785974584645745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  9
+N  C  7
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  7
+E NT  4
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,1,3,239,113,233,378,33,50,124,55,58,37,35,12,33,29,31,10,36,196,22,26,46,21,27,88,53,27,16,25,21,36,59,10,7,21,26,10,156,12,20,301,34,11,29,13,7,22,27,9,18,19,8
+[Auction "E"]
+1H 1NT =1= Pass Pass 
+Pass 
+[Note "1:  * 15-18 [0:30]"]
+[Play "W"]
+C6 CJ C8 C4 
+H7 H4 H8 HQ 
+D2 D3 DJ DT 
+H3 S4 HK H2 
+C7 C5 HJ HA 
+D7 DK D6 D5 
+DQ DA C2 D9 
+S2 D8 S3 H6 
+C3 D4 SJ CQ 
+C9 CT H5 CA 
+SK S5 SA SQ 
+-  -  HT S9 
+*
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "31"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:984.Q875.T932.84 Q3.K93.KQ874.KQT AKJ2.A4.A.J97632 T765.JT62.J65.A5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57648576488478584785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  8
+E  S  4
+E  H  7
+E  D  8
+E  C  5
+W NT  8
+W  S  4
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 10,2,0,133,98,100,69,78,55,93,36,450,40,260,55,125,66,27,16,82,46,20,20,76,825,70,10,184,26,29,13,12,28,13,12,79,27,22,19,34,36,23,14,170,37,16,9,27,24,8,11,11,12,9,12,15,17,10,11,13,17,7,10,8,9,10,10
+[Auction "S"]
+1C Pass Pass 1D 
+1S 2D Pass Pass 
+3C Pass Pass Pass 
+[Play "W"]
+D5 D2 DQ DA 
+C5 C8 CT C2 
+DJ D3 D4 H4 
+HJ H5 H3 HA 
+CA C4 CQ C9 
+HT HQ HK C3 
+H2 S4 CK C6 
+H6 H7 H9 C7 
+S6 S8 S3 SA 
+S5 S9 SQ SK 
+S7 H8 D7 SJ 
+D6 D9 D8 CJ 
+ST DT DK S2 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "31"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:984.Q875.T932.84 Q3.K93.KQ874.KQT AKJ2.A4.A.J97632 T765.JT62.J65.A5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57648576488478584785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  8
+E  S  4
+E  H  7
+E  D  8
+E  C  5
+W NT  8
+W  S  4
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 6,1,3,291,37,151,56,158,92,74,29,74,77,285,24,23,47,27,26,27,70,37,8,18,46,26,8,22,122,25,31,19,102,26,121,13,240,22,25,78,19,50,64,20,47,60,15,87,56,26,15,88,21,24,12,29,44,15,15,9,16,11,14,8
+[Auction "S"]
+1C =1= Pass Pass 1D 
+2C 2D Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "S"]
+C6 CA C8 CT 
+DA D5 D2 DQ 
+SA S5 S4 S3 
+C7 C5 C4 CK 
+C2 DJ D3 D4 
+C3 D6 D9 DK 
+C9 S6 DT CQ 
+HA H2 H5 H3 
+H4 HT H7 H9 
+SK S7 S8 SQ 
+SJ ST S9 D7 
+S2 H6 H8 D8 
+CJ HJ HQ HK 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "32"]
+[West "Mark Honess#108772"]
+[North "Pamela Pope#453237"]
+[East "Caroline Gemmell#101945"]
+[South "Josh Santinelli-Clarke#489475"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:3.KT2.QT743.AT93 6.AQ8.KJ86.KJ876 KQJT9754.5.A2.54 A82.J97643.95.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "592544925444a8944a89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  2
+N  D  5
+N  C  4
+S NT  4
+S  S  9
+S  H  2
+S  D  5
+S  C  4
+E NT  4
+E  S  4
+E  H 10
+E  D  8
+E  C  9
+W NT  4
+W  S  4
+W  H 10
+W  D  8
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,201,71,86,75,37,79,46,75,42,36,18,117,56,34,16,13,60,23,14,41,21,11,23,135,21,31,13,47,32,16,26,16,22,10,67,71,19,15,69,20,24,12,12,23,14,19,18,20,15,13,16,17,19,10,16,17,16,8,8
+[Auction "W"]
+2H =1= Pass 4H 4S 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+H6 HT HQ H5 
+SA S3 S6 SK 
+HJ HK HA S4 
+S2 H2 C6 SQ 
+S8 C3 H8 SJ 
+H3 C9 C7 ST 
+H4 D3 D6 S9 
+H7 D4 C8 S7 
+D5 D7 D8 DA 
+D9 DT DJ D2 
+H9 DQ DK S5 
+C2 CA CJ C4 
+CQ CT CK C5 
+
+[Event "Crockfords Group Stage"]
+[Site "RealBridge"]
+[Date "2025.01.07"]
+[Board "32"]
+[West "David Mathews#400023"]
+[North "Jeff Orton#63536"]
+[East "Helen Mason#400066"]
+[South "Mike Sherer#29862"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:3.KT2.QT743.AT93 6.AQ8.KJ86.KJ876 KQJT9754.5.A2.54 A82.J97643.95.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Santinelli-Clarke"]
+[VisitTeam "Honess"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "592544925444a8944a89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  2
+N  D  5
+N  C  4
+S NT  4
+S  S  9
+S  H  2
+S  D  5
+S  C  4
+E NT  4
+E  S  4
+E  H 10
+E  D  8
+E  C  9
+W NT  4
+W  S  4
+W  H 10
+W  D  8
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,98,28,129,90,115,89,80,54,371,38,16,69,32,12,30,16,45,66,13,112,936,150,50,48,22,8,156,18,26,11,117,15,50,4,159,20,61,9,28,14,51,17,62,31,47,66,27,22,41,7,43,25,15,9,15,20,10,8,11
+[Auction "W"]
+Pass Pass 1C =1= 4S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+CQ CA C6 C4 
+SA S3 S6 SK 
+C2 C9 CJ C5 
+D5 C3 C7 S9 
+S2 D3 D8 SQ 
+S8 D4 H8 SJ 
+H3 CT D6 ST 
+D9 H2 C8 S7 
+H4 D7 CK S5 
+H7 HK HA H5 
+H6 HT HQ S4 
+H9 DT DJ DA 
+HJ DQ DK D2 

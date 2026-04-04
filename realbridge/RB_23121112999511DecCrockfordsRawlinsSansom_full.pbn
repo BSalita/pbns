@@ -1,0 +1,2960 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "1"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T3.AJT9832.98.K6 AJ72.5.765.J8752 KQ654.Q7.AQJ42.9 98.K64.KT3.AQT43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98a8598a853423834238"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  5
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  5
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  8
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,785,93,71,65,30,41,83,355,31,10,235,25,17,12,51,23,15,135,93,32,21,15,319,37,12,23,26,68
+[Auction "N"]
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+D6 DQ DK D9 
+C8 C9 CA C6 
+C2 S4 C3 CK 
+SA S6 S9 S3 
+D7 DA D3 D8 
+-  HQ HK -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "1"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T3.AJT9832.98.K6 AJ72.5.765.J8752 KQ654.Q7.AQJ42.9 98.K64.KT3.AQT43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98a8598a853423834238"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  5
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  5
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  8
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,243,106,44,21,24,127,318,74,1284,22,76,171,18,130,17,18,31,42,31,34,25,6,56,40,19,6
+[Auction "N"]
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+C5 C9 CA C6 
+H5 HQ H4 H3 
+C8 H7 H6 H8 
+D7 S4 HK HA 
+SA S5 S8 S3 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "2"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:96.T7432.84.AJ75 KQT5.J96.KQ32.62 A8742.5.A96.KQ43 J3.AKQ8.JT75.T98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "67649676497567475674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  4
+N  C  9
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  9
+E NT  7
+E  S  5
+E  H  6
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,2,1,169,53,35,64,159,94,14,16,178,148,20,51,39,37,11,39,36,15,10,33,327,20,11,47,28,21,24,16,44,17,22,12,25,33,11,19,60,19,14,15,29,30,13,31,45
+[Auction "E"]
+Pass 1S X Pass 
+2NT Pass Pass Pass 
+[Play "S"]
+S4 S3 S9 SK 
+D6 DJ D8 D2 
+D9 D5 D4 DK 
+DA D7 H7 DQ 
+C3 C8 CA C2 
+CQ C9 C5 C6 
+CK CT C7 H6 
+SA SJ S6 SQ 
+C4 H8 CJ D3 
+-  -  H2 -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "2"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:96.T7432.84.AJ75 KQT5.J96.KQ32.62 A8742.5.A96.KQ43 J3.AKQ8.JT75.T98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "67649676497567475674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  4
+N  C  9
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  9
+E NT  7
+E  S  5
+E  H  6
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,241,63,43,133,29,65,402,66,66,245,23,19,39,57,12,18,11,28,15,18,179,43,22,29,13,59,11,40,13,14,22,28,10,50,8,32,48,20,18,49,53,17,30,8,69,13,24,15,30,12,58,8,15,7,32,9,6,7,21,8
+[Auction "E"]
+1D 1S X Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+S2 S3 S9 SK 
+D6 D5 D4 DQ 
+D9 DJ D8 D2 
+H5 H8 H4 HJ 
+C3 HQ HT H9 
+S4 HK H7 H6 
+S7 HA H3 D3 
+CQ C8 C5 C2 
+DA D7 S6 DK 
+SA SJ C7 S5 
+CK C9 CA C6 
+C4 DT H2 ST 
+S8 CT CJ SQ 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "3"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J7432.85.QJ75.Q6 A6.Q9.94.AKJT873 985.A63.AK862.52 KQT.KJT742.T3.94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "372723727276a6a76a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  6
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  6
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,71,70,115,277,30,433,27,32,35,12,13,40,43,71,13,214,16,22,14,64,19,24,20,16,38,11,15,22,17,12,7
+[Auction "S"]
+1D 2H X 3C 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DQ D4 D6 D3 
+DJ D9 DK DT 
+SJ SA S9 ST 
+H5 HQ HA H2 
+S3 S6 S8 SK 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "3"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J7432.85.QJ75.Q6 A6.Q9.94.AKJT873 985.A63.AK862.52 KQT.KJT742.T3.94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "372723727276a6a76a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  6
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  6
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,148,50,110,54,107,14,35,111,59,75,39,25,48,23,37,28,40,10,28,57,30,18,10,124,23,84,10,27,20,9,23,14
+[Auction "S"]
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DJ D4 DK DT 
+SJ SA S9 ST 
+H5 H9 H6 H2 
+H8 HQ HA H4 
+D7 D9 DA D3 
+S3 S6 S8 SK 
+-  -  -  HK 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "4"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J83.A73.T64.K972 AQT.T85.975.AQ64 765.QJ9642.32.JT K942.K.AKQJ8.853"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "21623216237c7ba7c7ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  6
+N  D  2
+N  C  3
+S NT  2
+S  S  1
+S  H  6
+S  D  2
+S  C  3
+E NT  7
+E  S 12
+E  H  7
+E  D 11
+E  C 10
+W NT  7
+W  S 12
+W  H  7
+W  D 11
+W  C 10
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,70,46,91,27,137,35,42,22,10,23,278,26,62,13,34,24,27,49,21,43,17,8,35,52,28,9,24,47,88,23,22,30,18,8,40
+[Auction "W"]
+1D Pass 1NT Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+HQ HK HA H5 
+H9 C3 H7 H8 
+HJ S2 H3 HT 
+H6 C5 D4 C4 
+H4 D8 S3 D5 
+H2 S4 D6 ST 
+CJ -  -  -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "4"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J83.A73.T64.K972 AQT.T85.975.AQ64 765.QJ9642.32.JT K942.K.AKQJ8.853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "21623216237c7ba7c7ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  6
+N  D  2
+N  C  3
+S NT  2
+S  S  1
+S  H  6
+S  D  2
+S  C  3
+E NT  7
+E  S 12
+E  H  7
+E  D 11
+E  C 10
+W NT  7
+W  S 12
+W  H  7
+W  D 11
+W  C 10
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 21,0,3,81,48,50,109,85,52,121,41,133,61,36,37,530,99,12,67,826,34,67,34,109,23,27,30,213,29,18,19,11,21,19,19,175,23,26,23,351,21,22,29,304,25,11,439,298,25,27,34,495,31,24,31,26,27,9,23,22,23,9,13,21,22,86,16,16,6,15,19
+[Auction "W"]
+1D =1= Pass 2C Pass 
+2S Pass 3D Pass 
+3H Pass 3S Pass 
+5D Pass Pass Pass 
+[Play "N"]
+HA H5 H2 HK 
+H7 H8 H9 D8 
+D6 D5 D2 DA 
+D4 D7 D3 DK 
+DT D9 H6 DQ 
+C2 CQ CT C3 
+CK C4 CJ C5 
+H3 HT HJ DJ 
+C9 CA H4 C8 
+S3 SA S7 S2 
+S8 SQ S5 S4 
+SJ ST S6 SK 
+C7 C6 HQ S9 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "5"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ4.A763.Q954.K T52.Q9.KJT.AJT97 986.JT42..865432 A73.K85.A87632.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "3572525725976a8976a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  7
+N  D  2
+N  C  5
+S NT  2
+S  S  5
+S  H  7
+S  D  2
+S  C  5
+E NT  9
+E  S  7
+E  H  6
+E  D 10
+E  C  8
+W NT  9
+W  S  7
+W  H  6
+W  D 10
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,184,73,44,111,33,294,48,63,94,34,21,66,1095,71,19,38,24,36,20,112,18,10,25,384,29,31,77,27,12,9,99,364,16,14,98,322,37,16,344,161,18,22,28,129,33,17,17,7,15,14,34,6,41,4,11,7,19,4,10,12,3,11,10
+[Auction "N"]
+1H Pass Pass 2D 
+Pass 2H =1= Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+SK S2 S6 S3 
+SQ S5 S9 S7 
+SJ ST S8 SA 
+CK CA C6 CQ 
+H6 CJ C2 D2 
+H3 CT C3 D3 
+H7 HQ H4 H5 
+D4 C9 C4 H8 
+D9 DT H2 DA 
+D5 DJ HT D6 
+DQ DK C5 D7 
+S4 C7 C8 D8 
+HA H9 HJ HK 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "5"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ4.A763.Q954.K T52.Q9.KJT.AJT97 986.JT42..865432 A73.K85.A87632.Q"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1D"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "3572525725976a8976a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  7
+N  D  2
+N  C  5
+S NT  2
+S  S  5
+S  H  7
+S  D  2
+S  C  5
+E NT  9
+E  S  7
+E  H  6
+E  D 10
+E  C  8
+W NT  9
+W  S  7
+W  H  6
+W  D 10
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 1,0,3,202,64,109,125,239,67,51,94,35,24,20,16,113,27,7,8,84,84,8,29,25,17,20,7,15,15,53,27,17,32,9,11,19,12,24,7,17,35,19,11,55,11,23,29,10,47,21,43,13,15,184,14,18,8,7,7
+[Auction "N"]
+1D Pass Pass Pass 
+[Play "E"]
+S2 S9 SA S4 
+S5 S6 S3 SK 
+ST S8 S7 SQ 
+H9 C2 D2 SJ 
+CA C3 CQ CK 
+CJ C4 H5 D4 
+HQ H2 H8 HA 
+C7 HJ HK H3 
+DT C5 D3 D9 
+CT C6 D6 DQ 
+DJ H4 D7 H6 
+C9 C8 D8 H7 
+DK HT DA D5 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "6"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K3.9765.876.Q852 9652.K3.J543.T74 AT7.QJT82.AKT9.3 QJ84.A4.Q2.AKJ96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75976759866845768457"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  5
+S  H  9
+S  D  8
+S  C  6
+E NT  6
+E  S  8
+E  H  4
+E  D  5
+E  C  7
+W NT  6
+W  S  8
+W  H  4
+W  D  5
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,69,41,165,36,101,353,56,52,92,34,12,30,72,10,23,672,34,14,35,18,83,20,41,8,32,16,25,750,36,35,8,149,23,24,18,30,20,26,8,43,13,36,11,33,18,47,10
+[Auction "E"]
+Pass 1H X 2H 
+Pass 2S 3C 4H 
+Pass Pass Pass 
+[Play "W"]
+CK C2 C7 C3 
+HA H5 H3 HT 
+H4 H6 HK HJ 
+D2 D6 D3 DA 
+S8 SK S2 S7 
+C6 C5 CT H2 
+S4 S3 S5 SA 
+SQ H7 S6 ST 
+C9 C8 C4 H8 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "6"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K3.9765.876.Q852 9652.K3.J543.T74 AT7.QJT82.AKT9.3 QJ84.A4.Q2.AKJ96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75976759866845768457"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  5
+S  H  9
+S  D  8
+S  C  6
+E NT  6
+E  S  8
+E  H  4
+E  D  5
+E  C  7
+W NT  6
+W  S  8
+W  H  4
+W  D  5
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,101,149,33,337,37,74,52,46,143,48,24,28,38,54,104,18,25,131,185,26,27,25,20,60,52,79,25,24,7,120,36,28,70,197,21,22,10,27,24,38,12,21,18,23,16
+[Auction "E"]
+Pass 1H X 2H 
+Pass Pass 3C Pass 
+Pass 3H Pass Pass 
+Pass 
+[Play "W"]
+CK C2 C4 C3 
+SQ SK S6 S7 
+H4 H5 H3 H8 
+HA H6 HK HQ 
+D2 D6 DJ DA 
+S4 S3 S2 SA 
+SJ H7 S5 ST 
+DQ D7 D3 D9 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "7"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ76.KJ972.AQ.98 43.T654.J87653.6 A9852.AQ3..QJ743 KT.8.KT942.AKT52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "aa948aa9483339533395"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  4
+N  C  8
+S NT 10
+S  S 10
+S  H  9
+S  D  4
+S  C  8
+E NT  3
+E  S  3
+E  H  3
+E  D  9
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  9
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 21,0,3,157,61,231,139,83,42,21,136,52,22,65,21,22,24,316,31,324,19,73,15,119,14,22,17,23,10,9,16,13,25,16,46,144,36,85
+[Auction "S"]
+1S 2NT 4D =1= Pass 
+4S Pass Pass 5D 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+SA ST S6 S3 
+HA H8 H2 H4 
+C7 CK C8 C6 
+C3 C2 C9 D6 
+S5 DT DQ D3 
+-  -  DA -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "7"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ76.KJ972.AQ.98 43.T654.J87653.6 A9852.AQ3..QJ743 KT.8.KT942.AKT52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "aa948aa9483339533395"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  4
+N  C  8
+S NT 10
+S  S 10
+S  H  9
+S  D  4
+S  C  8
+E NT  3
+E  S  3
+E  H  3
+E  D  9
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  9
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 23,2,1,195,182,177,45,295,55,559,22,26,26,21,46,22,17,20,19,55,38,388,679,33,55,106,14,27,22,25,16
+[Auction "S"]
+1S 2D 3D =1= 5D 
+5H Pass 5S Pass 
+Pass Pass 
+[Play "W"]
+CK C8 C6 C3 
+CA C9 D3 C4 
+CT SQ D5 C7 
+ST S6 S3 SA 
+SK -  -  S2 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "8"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:63.JT62.J83.AJ92 A7.843.KQ6.T8743 QJT42.K7.T972.KQ K985.AQ95.A54.65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "55454554547887977879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  7
+E  S  8
+E  H  8
+E  D  7
+E  C  9
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,71,76,27,78,12,41,29,606,19,322,37,43,12,21,39,43,32,72,29,39,12,12,137,39,75,19,192,29,10,53,74,72,24,12
+[Auction "W"]
+1D Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+SQ S5 S3 SA 
+CQ C5 C2 C3 
+D2 D4 DJ DQ 
+S2 S8 S6 S7 
+D7 D5 D3 DK 
+H7 HQ H6 H3 
+S4 SK C9 C4 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "8"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:63.JT62.J83.AJ92 A7.843.KQ6.T8743 QJT42.K7.T972.KQ K985.AQ95.A54.65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "55454554547887977879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  7
+E  S  8
+E  H  8
+E  D  7
+E  C  9
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,139,58,37,178,29,52,86,46,13,150,74,260,46,56,20,28,21,25,37,237,25,33,24,40,24,20,110,37,19,26,21,27,31,20,114,220,29,27,45,22,10,150,96,19,310,51,84,21,62,18,44,21,21,10,47,28,17,7,13,9,16,19
+[Auction "W"]
+1D Pass 1NT 2S 
+Pass Pass 3D Pass 
+Pass Pass 
+[Play "N"]
+S6 SA S2 S5 
+S3 S7 ST SK 
+C2 D6 S4 S8 
+H2 H3 HK HA 
+D8 DQ D2 D4 
+H6 H4 H7 HQ 
+C9 DK SJ S9 
+CA C3 CQ C5 
+HJ H8 CK H5 
+CJ C4 SQ C6 
+HT C7 DT H9 
+D3 C8 D7 DA 
+DJ CT D9 D5 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "9"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:6.QJT2.AKT92.AJ9 Q97.53.J87.Q8542 AJT8.AK76.Q6.T76 K5432.984.543.K3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "b9dcac9dca1401314013"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 13
+N  D 12
+N  C 10
+S NT 12
+S  S  9
+S  H 13
+S  D 12
+S  C 10
+E NT  1
+E  S  4
+E  H  0
+E  D  1
+E  C  3
+W NT  1
+W  S  4
+W  H  0
+W  D  1
+W  C  3
+[OptimumScore "NS +1510"]
+[Competition "Teams"]
+% RBDATA 27,2,1,72,28,31,21,118,86,23,15,100,29,28,15,397,68,25,86,16,12,519,519,115,23,252,48,35,23,102,24,37,15,21,12,26,22,173,42,23,8,283,16,19,18,42,19,158,12,26,9,25,10,30,13,33,11,24,8
+[Auction "N"]
+1D Pass 1H Pass 
+3H Pass 3S Pass 
+4C Pass 4H Pass 
+5D Pass 6H Pass 
+Pass Pass 
+[Play "W"]
+C3 C9 CQ C7 
+H8 HT H3 H6 
+S3 S6 S9 SA 
+S2 H2 S7 S8 
+D5 D2 D8 DQ 
+S4 HJ SQ ST 
+H4 HQ H5 HA 
+H9 CJ C8 HK 
+D3 DA D7 D6 
+-  DK DJ -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "9"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:6.QJT2.AKT92.AJ9 Q97.53.J87.Q8542 AJT8.AK76.Q6.T76 K5432.984.543.K3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "b9dcac9dca1401314013"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 13
+N  D 12
+N  C 10
+S NT 12
+S  S  9
+S  H 13
+S  D 12
+S  C 10
+E NT  1
+E  S  4
+E  H  0
+E  D  1
+E  C  3
+W NT  1
+W  S  4
+W  H  0
+W  D  1
+W  C  3
+[OptimumScore "NS +1510"]
+[Competition "Teams"]
+% RBDATA 27,0,3,171,40,122,31,77,90,142,46,32,20,419,54,61,44,24,17,33,377,21,38,477,37,41,32,38,12,36,47,79,23,28,38,47,16,35,30,377,27,29,11,171,37,63,24,97,32,23,7,105,17,30,7,45,20,35,12,31,10,24,9,23,13,29,10,26,6,21,10
+[Auction "N"]
+1D Pass 1H Pass 
+3H Pass 3NT Pass 
+4H Pass 5H Pass 
+6H Pass Pass Pass 
+[Play "W"]
+H4 HQ H5 H6 
+S2 S6 S7 SA 
+S5 H2 S9 S8 
+D3 D2 D7 DQ 
+S3 HT SQ ST 
+D5 DA D8 D6 
+D4 D9 DJ H7 
+H8 HJ H3 HA 
+H9 C9 C2 HK 
+C3 CA C4 C6 
+S4 DK C5 C7 
+SK DT C8 CT 
+CK CJ CQ SJ 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "10"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K986.AT9.AKJ3.92 T43.J53.872.J543 Q5.Q642.Q6.AKQT6 AJ72.K87.T954.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cabcccabcc1321112211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,70,36,21,159,26,24,15,399,44,35,28,57,89,30,20,85,804,26,30,18,34,14,32,19,17,41,22,27,16,18,12,135,24,17,24,147,17,18,8,23,7,47,6,20,64,24,10,22,32,21,17,22,28,15,28,174,26,17,6,9,26,8,22,21,4,16,7
+[Auction "E"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 2C =1= 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+D4 D3 D7 DQ 
+C7 C2 C3 CA 
+C8 C9 C4 CK 
+D5 S6 C5 CQ 
+H8 H9 H5 H2 
+D9 DA D2 D6 
+DT DK D8 C6 
+S2 DJ S4 CT 
+SA S8 S3 SQ 
+S7 SK ST S5 
+SJ S9 H3 H4 
+H7 HT HJ HQ 
+HK HA CJ H6 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "10"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K986.AT9.AKJ3.92 T43.J53.872.J543 Q5.Q642.Q6.AKQT6 AJ72.K87.T954.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cabcccabcc1321112211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,92,160,40,339,87,249,43,311,98,79,41,102,50,29,76,73,113,39,51,48,32,20,14,29,15,22,17,29,240,110,59,31,55,41,78,177,296,27,67,264,29,45,25,123,30,303,46,75,24,28,15,44,12,21,6
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 1NT Pass 3C =1= 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S2 S6 ST SQ 
+C7 C2 C3 CA 
+C8 C9 C4 CK 
+S7 S8 C5 CQ 
+SJ H9 CJ CT 
+HK HA H3 H2 
+D4 D3 D2 DQ 
+D5 HT D7 C6 
+H7 S9 H5 HQ 
+D9 DJ D8 D6 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "11"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:86432.AKJ65.4.A3 A.T74.AKT9.JT654 KJT97.Q.QJ863.Q2 Q5.9832.752.K987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6b9766b9763236732367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  9
+N  D  7
+N  C  6
+S NT  6
+S  S 11
+S  H  9
+S  D  7
+S  C  6
+E NT  3
+E  S  2
+E  H  3
+E  D  6
+E  C  7
+W NT  3
+W  S  2
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,116,25,218,110,23,18,268,33,88,16,67,32,20,10,426,219,40,27,28,30,20,9,22,18,48,11,314,22,38,8,86,23,11,16,36,136,16,16,20,15,16,22
+[Auction "S"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 3H Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+C7 CA C6 C2 
+H2 HA H7 HQ 
+H3 HK H4 CQ 
+S5 S2 SA S9 
+D7 D4 DK D3 
+C8 C3 C5 ST 
+SQ S3 CT SK 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "11"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:86432.AKJ65.4.A3 A.T74.AKT9.JT654 KJT97.Q.QJ863.Q2 Q5.9832.752.K987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6b9766b9763236732367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  9
+N  D  7
+N  C  6
+S NT  6
+S  S 11
+S  H  9
+S  D  7
+S  C  6
+E NT  3
+E  S  2
+E  H  3
+E  D  6
+E  C  7
+W NT  3
+W  S  2
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 23,0,3,148,32,1111,109,143,37,238,24,84,18,38,434,22,23,68,22,33,30,24,34,11,20,13,451,27,28,150,30,22,62,66,21,44,16,69,25,41,9,95,35,50,11
+[Auction "S"]
+1S Pass 4NT Pass 
+5D Pass 5S Pass 
+Pass Pass 
+[Play "W"]
+H8 HA H4 HQ 
+S5 S2 SA S7 
+D2 D4 DK D3 
+H2 H5 HT S9 
+SQ S3 H7 SK 
+D5 S4 D9 D6 
+H3 HK C6 C2 
+H9 HJ C4 D8 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "12"]
+[West "Ivan Leung#524083"]
+[North "Nick Stevens#56002"]
+[East "Chris Mooney#29907"]
+[South "Clive Owen#24687"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.KQ8.9865.KQ64 4.J632.AQ.AJT987 J9765.AT7.KT32.2 KQ832.954.J74.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "88797887965554655546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  9
+S  C  6
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,40,53,190,197,22,170,46,16,12,75,62,44,200,288,70,22,7,352,34,31,76,60,676,55,23,20,31,44,216,283,68,42,23
+[Auction "W"]
+Pass 1NT 3C X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+CJ C2 C3 CQ 
+DA D2 D7 D8 
+S4 S5 SQ SA 
+H6 S6 SK ST 
+C7 D3 C5 C6 
+CA S7 S8 C4 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "12"]
+[West "John Sansom#63310"]
+[North "Mike Rawlins#94613"]
+[East "David Debbage#"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.KQ8.9865.KQ64 4.J632.AQ.AJT987 J9765.AT7.KT32.2 KQ832.954.J74.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "88797887965554655546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  9
+S  C  6
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,51,94,298,170,43,66,34,38,63,46,1022,9,15,79,21,63,20,87,47,8,50,20,31,7,41,111,14,13,18,30,21,26,8,18,52,9,20,14,34,11,31,18
+[Auction "W"]
+Pass 1NT 3C X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+CJ C2 C5 CK 
+DQ D2 D4 D8 
+CA S5 C3 C4 
+C7 S6 S2 CQ 
+DA D3 D7 D5 
+CT S7 H9 C6 
+C8 S9 H4 ST 
+C9 H7 S3 D6 
+S4 -  -  -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "13"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T52.QT4.97652.74 KJ9864.K95.AJ.K2 A7.A87632.T43.Q9 Q3.J.KQ8.AJT8653"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "2265222652bb78bab78b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  5
+N  C  2
+S NT  2
+S  S  2
+S  H  6
+S  D  5
+S  C  2
+E NT 11
+E  S 11
+E  H  7
+E  D  8
+E  C 11
+W NT 10
+W  S 11
+W  H  7
+W  D  8
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA -44,3,1,2479,20,31,17
+[Auction "N"]
+Pass Pass Pass Pass 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "13"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T52.QT4.97652.74 KJ9864.K95.AJ.K2 A7.A87632.T43.Q9 Q3.J.KQ8.AJT8653"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "2265222652bb78bab78b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  5
+N  C  2
+S NT  2
+S  S  2
+S  H  6
+S  D  5
+S  C  2
+E NT 11
+E  S 11
+E  H  7
+E  D  8
+E  C 11
+W NT 10
+W  S 11
+W  H  7
+W  D  8
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA -44,0,2
+[Auction "N"]
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "14"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:74.KT.965.KJ9753 AK6.853.Q84.AQ62 JT982.97.AKT.T84 Q53.AQJ642.J732."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3533735337a8a96a8a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  7
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  7
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C  6
+W NT 10
+W  S  8
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,3,1,103,39,170,27,42,18,24,89,14,32,14,390,34,27,112,27,11,24,73,33,28,18,147,18,17,10,44,21,18,44,30,30,20,8,10,27,15,13
+[Auction "E"]
+1NT Pass 2D Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+SJ S3 S7 SA 
+H7 HQ HK H3 
+DK D2 D5 D4 
+DA D3 D6 DQ 
+ST S5 S4 SK 
+C4 D7 C3 CA 
+H9 HA HT H5 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "14"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:74.KT.965.KJ9753 AK6.853.Q84.AQ62 JT982.97.AKT.T84 Q53.AQJ642.J732."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3533735337a8a96a8a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  7
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  7
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C  6
+W NT 10
+W  S  8
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,0,2,418,126,50,106,61,102,15,45,118,179,32,42,247,28,29,82,784,126,35,50,63,28,17,14,87,26,12,23,17,27,15,68
+[Auction "E"]
+1C 1S 2H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+S7 SA S8 S3 
+HK H3 H7 HJ 
+C3 CQ C8 D2 
+HT H5 H9 HA 
+S4 SK S2 S5 
+C7 CA C4 D3 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "15"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q74.KT8.94.AKQJ9 AJ3.QJ9.AT86.864 K986.7643.KQ52.2 T52.A52.J73.T753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "99889998894455444454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  8
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,0,2,116,94,63,65,97,34,67,40,68,25,157,150,28,20,300,21,13,44,19,27,68,16,46,23,57,16,73,145,52,11,75,56,166,25,334,32,15,18,206,23,32,28,38,15,9,11,25,13,13,67,11,48,8,23,45,20,7,9,13,6,9,8
+[Auction "S"]
+Pass Pass 1C X 
+1D Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+D6 DK D3 D4 
+C4 C2 C5 CA 
+C6 H3 C3 CK 
+C8 S6 C7 CQ 
+H9 H4 CT CJ 
+HJ D2 S2 C9 
+S3 SK S5 S4 
+HQ H6 H2 HT 
+DA D5 D7 D9 
+D8 DQ DJ H8 
+SJ H7 H5 HK 
+SA S8 ST S7 
+DT S9 HA SQ 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "15"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q74.KT8.94.AKQJ9 AJ3.QJ9.AT86.864 K986.7643.KQ52.2 T52.A52.J73.T753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "99889998894455444454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  8
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,3,1,49,22,138,58,58,15,27,45,76,14,47,25,18,37,390,203,248,18,346,20,17,51,210,18,9,32,28,55,8,379,13,15,18,23,76,34,13,6,15,9,13,6,14,11,24,6,17,1561,41,7,19,40,9,11,4,18,8,11,20,10,4,11,9,12,3,9
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+D6 DK D3 D4 
+SA S6 S5 SQ 
+DA D2 D7 D9 
+D8 DQ DJ H8 
+H9 H3 H5 HK 
+C6 C2 C3 CA 
+C4 D5 C5 CK 
+C8 H4 C7 CQ 
+S3 H6 CT C9 
+HJ H7 HA HT 
+HQ S8 H2 S4 
+DT S9 S2 S7 
+SJ SK ST CJ 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "16"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q832.Q64.AT85.K3 AJ96.AJ98.Q32.T6 T75.T532.J974.94 K4.K7.K6.AQJ8752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "233412334199a9bbaa9b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  4
+N  C  1
+S NT  2
+S  S  3
+S  H  3
+S  D  4
+S  C  1
+E NT  9
+E  S  9
+E  H 10
+E  D  9
+E  C 11
+W NT 11
+W  S 10
+W  H 10
+W  D  9
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,2,80,45,32,128,29,90,26,58,18,29,32,468,48,21,163,23,68,18,43,19,26,104,20,35,19,48,16,59,30,19,36
+[Auction "W"]
+1C Pass 1H Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+D7 DK DA D2 
+D4 D6 DT D3 
+D9 S4 D8 DQ 
+C4 C2 CK CT 
+DJ C5 D5 H8 
+H5 -  -  -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "16"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q832.Q64.AT85.K3 AJ96.AJ98.Q32.T6 T75.T532.J974.94 K4.K7.K6.AQJ8752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "233412334199a9bbaa9b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  4
+N  C  1
+S NT  2
+S  S  3
+S  H  3
+S  D  4
+S  C  1
+E NT  9
+E  S  9
+E  H 10
+E  D  9
+E  C 11
+W NT 11
+W  S 10
+W  H 10
+W  D  9
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,3,1,144,252,59,26,27,88,110,17,12,134,64,282,37,16,18,166,36,41,371,69,48,16,29,29,10,40,14
+[Auction "W"]
+1C Pass 1H Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+D4 DK DA D2 
+D7 D6 D5 D3 
+S5 S4 SQ SA 
+C4 C2 CK CT 
+-  -  D8 -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "17"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:42.QT65.K9854.97 63.K432.J632.T86 T75.J7.AT.AQJ532 AKQJ98.A98.Q7.K4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "43567435679977699776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  6
+N  C  7
+S NT  4
+S  S  3
+S  H  5
+S  D  6
+S  C  7
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 13,3,1,48,22,82,43,57,30,45,39,20,41,54,102,20,113,17,143,51,28,17,160,17,21,8,15,21,7,12,11,16,8,7,19,13,15,7,238,24,8,15,22,47,8,18,142,21,39,7,11,25,13,7
+[Auction "N"]
+Pass Pass 1C X 
+1H Pass 2C 2S 
+Pass Pass 3C 3S 
+Pass Pass Pass 
+[Play "N"]
+C9 CT CA C4 
+C7 C6 C2 CK 
+S4 S3 S5 SA 
+S2 S6 S7 SK 
+D4 D2 ST SQ 
+D5 H2 C3 SJ 
+D8 D3 DA DQ 
+H5 C8 CJ S9 
+DK D6 DT D7 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "17"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:42.QT65.K9854.97 63.K432.J632.T86 T75.J7.AT.AQJ532 AKQJ98.A98.Q7.K4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "43567435679977699776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  6
+N  C  7
+S NT  4
+S  S  3
+S  H  5
+S  D  6
+S  C  7
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,0,2,83,25,156,61,168,65,50,59,103,163,39,41,44,42,39,154,59,60,24,39,31,9,32,32,30,12,31,42,47,20,24,29,157,10,27,25,88,16,23,35,54,18,26,23,36,15,25,23,24,22,21,50,97
+[Auction "N"]
+Pass Pass 1C X 
+Pass 1H Pass 2S 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+C9 C6 C2 CK 
+S2 S3 S7 SA 
+S4 S6 S5 SK 
+D4 H2 ST SQ 
+H5 H3 DT SJ 
+D5 D2 H7 S9 
+D8 C8 C3 S8 
+H6 HK HJ H8 
+HT H4 C5 HA 
+D9 -  -  DQ 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "18"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K3.AKQ2.K62.9632 AQJ86.J9.T43.KJ4 7542.T84.A975.Q5 T9.7653.QJ8.AT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NTX"]
+[Result "8"]
+[Score "NS -280"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "54665546657966879668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  5
+E NT  7
+E  S  9
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  9
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,0,2,123,111,21,155,25,48,41,86,118,29,36,468,31,15,7,44,30,322,39,29,37,33,156,33,54,21,32,41,36,22,24,19,15,60,37,25,49,25,8,66,30,17,12,55,17,21,15,11,23,22,17,11,16,23,14,6,16,16,16
+[Auction "E"]
+1NT Pass Pass X 
+Pass Pass Pass 
+[Play "S"]
+S5 S9 SK SA 
+S2 ST S3 SQ 
+S4 C7 C6 SJ 
+S7 C8 D2 S8 
+D5 D8 C2 S6 
+C5 CA C3 C4 
+CQ CT C9 CK 
+H8 H3 H2 CJ 
+H4 H5 HQ HJ 
+D7 DJ DK D3 
+HT H6 HK H9 
+D9 H7 HA D4 
+DA DQ D6 DT 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "18"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K3.AKQ2.K62.9632 AQJ86.J9.T43.KJ4 7542.T84.A975.Q5 T9.7653.QJ8.AT87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "54665546657966879668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  5
+E NT  7
+E  S  9
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  9
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 6,3,1,100,33,31,22,188,28,114,18,49,24,164,96,21,11,13,14,17,11,30,39,28,179,22,9,11,322,30,11,18,74,177,32,22,22,106,29,8,43,372,25,23,11,20,10,14,40,25,16,6,251,22,47,43,9,22,89,29,13,6,16,7
+[Auction "E"]
+1S Pass 1NT X 
+Pass 2D Pass Pass 
+Pass 
+[Play "W"]
+ST S3 SJ S4 
+S9 SK SA S5 
+CT C2 C4 C5 
+C7 C3 CK CQ 
+C8 C6 CJ D5 
+D8 DK S6 S2 
+CA C9 H9 D7 
+DQ H2 S8 S7 
+H3 HQ HJ H4 
+H5 HK D3 H8 
+DJ HA SQ HT 
+H7 D2 DT DA 
+H6 D6 D4 D9 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "19"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ4.AKQ.AKQ87.T7 652.J6.95.AQJ643 JT98.T932.T4.K92 A73.8754.J632.85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "abbb8abbb82222522225"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 11
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H 11
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,3,1,52,19,199,146,50,18,50,33,152,23,15,36,83,137,24,49,1282,24,31,25,31,15,15,6,44,13,20,6,109,14,36,19,17,25,27,13,18,13,12,31,16,15,6,73,15,20,15,22,48,16,6,14,14
+[Auction "S"]
+Pass Pass 2C =1= Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+CQ CK C5 C7 
+D9 D4 D2 DK 
+D5 DT D3 DA 
+C3 H2 D6 DQ 
+S6 H3 DJ D7 
+CJ C2 C8 CT 
+CA C9 H8 S4 
+C6 S8 S3 SQ 
+C4 S9 H7 SK 
+S5 ST SA D8 
+-  -  H4 -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "19"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ4.AKQ.AKQ87.T7 652.J6.95.AQJ643 JT98.T932.T4.K92 A73.8754.J632.85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "abbb8abbb82222522225"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 11
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H 11
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,2,119,27,68,127,54,64,274,28,55,26,87,23,208,24,37,27,141,218,20,46,368,758,44,38,142,21,28,19,56,21,21,11,117,17,14,9,19,29,12,16,35,26,13,12,12,21,6,11,20,27,7,10,10,27,6,8
+[Auction "S"]
+Pass Pass 2C =1= Pass 
+2D =2= Pass 2H =3= Pass 
+2S =4= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S5 S8 SA SQ 
+D9 DT D2 D8 
+D5 D4 D6 DA 
+C3 C2 D3 DK 
+C4 C9 DJ DQ 
+C6 CK C5 D7 
+H6 H2 H5 HA 
+HJ H3 H4 HQ 
+CJ H9 H7 HK 
+S2 S9 S3 SK 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "20"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q3.AJ4.Q9765.Q65 AJ87542.T862.8.4 9.KQ53.A42.AKJ72 KT6.97.KJT3.T983"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "64aab64aab3932239322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H 10
+N  D 10
+N  C 11
+S NT  6
+S  S  4
+S  H 10
+S  D 10
+S  C 11
+E NT  3
+E  S  9
+E  H  3
+E  D  2
+E  C  2
+W NT  3
+W  S  9
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,3,1,40,44,125,36,15,93,42,39,17,51,42,21,93,232,205,62,20,224,21,22,14,67,19,6,8,30,57,7,7,11,17,7,12,7,17,5,11,20,21,7,14,14
+[Auction "W"]
+Pass 1D Pass 2C =1= 
+Pass 2NT Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+S7 S9 SK S3 
+SA D2 ST SQ 
+SJ D4 S6 D5 
+S8 H3 D3 D6 
+S5 C2 H9 D7 
+S4 C7 H7 D9 
+S2 H5 DT C5 
+D8 -  -  -  
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "20"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q3.AJ4.Q9765.Q65 AJ87542.T862.8.4 9.KQ53.A42.AKJ72 KT6.97.KJT3.T983"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "64aab64aab3932239322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H 10
+N  D 10
+N  C 11
+S NT  6
+S  S  4
+S  H 10
+S  D 10
+S  C 11
+E NT  3
+E  S  9
+E  H  3
+E  D  2
+E  C  2
+W NT  3
+W  S  9
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 16,0,2,85,61,42,145,42,294,24,96,17,67,194,23,50,295,22,17,37,949,41,13,23,412,34,13,35,100,25,21,15,21,19,15,14,10,91,20,27,12,21,8,21,19,18,6,207,38,18,21,6,24,29,45,5,11,54,8,7,7,8,6,10
+[Auction "W"]
+Pass Pass 3S X 
+Pass 4D Pass Pass 
+Pass 
+[Play "E"]
+C4 CA C8 C5 
+D8 D2 D3 DQ 
+S8 DA DT D5 
+S2 C2 CT CQ 
+S4 CK C3 C6 
+S5 CJ C9 S3 
+S7 C7 H7 SQ 
+H2 H3 H9 HA 
+H6 H5 DJ HJ 
+H8 D4 DK D6 
+SA S9 SK D7 
+HT HQ S6 H4 
+SJ HK ST D9 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "21"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ42.K8.K74.A832 KT87.Q75.JT63.JT 63.J962.AQ92.754 A95.AT43.85.KQ96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65566655667776778877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  8
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,3,1,102,34,42,24,70,58,36,16,543,187,201,40,603,27,27,16,97,18,19,27,477,27,407,59,243,30,65,14,58,114,9,87,158,76,432,31,19,31,13,20,16,20,28,10,37,7,21,10,21,11,13,7,6,12,13,12,7,11,13,8
+[Auction "N"]
+1C Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+D3 D2 D8 DK 
+DT DQ D5 D4 
+CT C4 C6 C8 
+S7 S3 SA S2 
+SK S6 S9 SQ 
+S8 H2 S5 S4 
+ST C5 H3 SJ 
+D6 D9 H4 D7 
+DJ DA C9 C2 
+CJ C7 CQ CA 
+H5 H6 CK C3 
+H7 H9 HT HK 
+HQ HJ HA H8 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "21"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ42.K8.K74.A832 KT87.Q75.JT63.JT 63.J962.AQ92.754 A95.AT43.85.KQ96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65566655667776778877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  8
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,2,108,73,104,40,25,391,27,30,59,21,10,25,79,23,14,30,35,20,36,17,27,82,13,17,18,21,10,21,60,28,26,22,41,61,13,8,16,22,8,20,16,13,13,7,23,10,10,8,56,1545,22,9,9,14,6,9
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+D3 D2 D8 DK 
+D6 D9 D5 D4 
+SK S3 S5 SQ 
+DT DQ H4 D7 
+DJ DA C6 C3 
+S7 S6 S9 SJ 
+S8 H2 SA S2 
+CT C4 CK CA 
+ST C5 H3 S4 
+CJ C7 CQ C2 
+H5 H6 C9 C8 
+H7 H9 HT HK 
+HQ HJ HA H8 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "22"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K6.4.AKJ87643.Q7 T52.932.5.AT8643 AQ84.KQT75.T2.KJ J973.AJ86.Q9.952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "b88b6b88b62341623416"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H  8
+N  D 11
+N  C  6
+S NT 11
+S  S  8
+S  H  8
+S  D 11
+S  C  6
+E NT  2
+E  S  3
+E  H  4
+E  D  1
+E  C  6
+W NT  2
+W  S  3
+W  H  4
+W  D  1
+W  C  6
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 26,3,1,43,63,18,96,18,74,13,51,117,389,18,159,29,488,24,145,43,15,12,363,130,99,19,1108,22,21,14,38,21,20,14,43,36,12,7
+[Auction "E"]
+Pass 1H Pass 2D =1= 
+Pass 2S Pass 4D 
+Pass 4H Pass 4NT 
+Pass 5S Pass 6D 
+Pass Pass Pass 
+[Play "E"]
+CA CJ C9 C7 
+C8 CK C5 CQ 
+D5 D2 D9 DA 
+C6 DT DQ DK 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "22"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K6.4.AKJ87643.Q7 T52.932.5.AT8643 AQ84.KQT75.T2.KJ J973.AJ86.Q9.952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "b88b6b88b62341623416"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H  8
+N  D 11
+N  C  6
+S NT 11
+S  S  8
+S  H  8
+S  D 11
+S  C  6
+E NT  2
+E  S  3
+E  H  4
+E  D  1
+E  C  6
+W NT  2
+W  S  3
+W  H  4
+W  D  1
+W  C  6
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,0,2,91,108,28,78,34,101,25,761,242,22,37,922,1244,31,57,126,26,29,20,508,82,40,15,135,71,10,55,48,17,16,92,24,79,7,40,21,32,9,15,10,24,12,143,23,25,7,42,9,31,13,180,11,21,21,139,18,17,10,8,6,10,6,10
+[Auction "E"]
+Pass 1H Pass 2D 
+Pass 2S =1= Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+S2 SQ S7 S6 
+D5 DT DQ DA 
+CA CJ C2 CQ 
+C6 CK C5 C7 
+C3 D2 D9 DK 
+S5 H5 H8 DJ 
+ST S4 H6 D8 
+H2 H7 S3 D7 
+H3 HT HJ D6 
+H9 HQ C9 D3 
+C4 HK S9 D4 
+C8 SA SJ SK 
+CT S8 HA H4 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "23"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.AKT87.KT975.Q7 J987543.54.82.84 AKT.932.A3.AKJ93 Q2.QJ6.QJ64.T652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "d9dcdd9dcd0401004010"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D 12
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D 12
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  1
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  1
+W  C  0
+[OptimumScore "NS +2220"]
+[Competition "Teams"]
+% RBDATA 17,3,1,92,22,28,35,76,85,279,49,26,15,509,60,106,16,48,24,36,87,509,335,26,66,15,15,15,36,18,11,14,5,129,34,10,5,10,11,14,6,15,6,12,19,26,5,13,15
+[Auction "S"]
+1C Pass 1H Pass 
+2NT Pass 3D =1= Pass 
+3H Pass 3S Pass 
+3NT Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+S7 SA S2 S6 
+H4 H2 H6 HA 
+H5 H3 HJ HK 
+C4 C3 C2 CQ 
+C8 CA C5 C7 
+S8 CK C6 D5 
+S4 CJ CT D7 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "23"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.AKT87.KT975.Q7 J987543.54.82.84 AKT.932.A3.AKJ93 Q2.QJ6.QJ64.T652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "d9dcdd9dcd0401004010"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D 12
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D 12
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  1
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  1
+W  C  0
+[OptimumScore "NS +2220"]
+[Competition "Teams"]
+% RBDATA 27,0,2,214,36,68,25,263,90,255,25,275,22,20,90,161,29,17,30,44,523,24,40,65,19,20,36,104,38,21,26,22,21,27,23,192,23,9,15
+[Auction "S"]
+1C Pass 1H Pass 
+3NT Pass 4D Pass 
+4H Pass 6D Pass 
+6H Pass Pass Pass 
+[Play "E"]
+S9 SA S2 S6 
+H4 H2 H6 HA 
+D8 DA D6 D5 
+H5 H9 HJ HK 
+C4 C3 C6 CQ 
+*
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "24"]
+[West "Ivan Leung#524083"]
+[North "David Debbage#"]
+[East "Chris Mooney#29907"]
+[South "John Sansom#63310"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT754.8.AQ864.85 986.AQ4.T97532.2 KJ32.K652..AKQ94 Q.JT973.KJ.JT763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bc88abc88a2145321453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  8
+N  D  8
+N  C 10
+S NT 11
+S  S 12
+S  H  8
+S  D  8
+S  C 10
+E NT  2
+E  S  1
+E  H  4
+E  D  5
+E  C  3
+W NT  2
+W  S  1
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 23,3,1,51,52,37,59,82,30,86,190,36,125,54,67,15,20,33,299,158,30,46,813,26,31,45,618,24,18,7,40,15,22,43,29,18,19,47,954,23,34,25,24,15,36,97,28,13,21,6,34,12,21,18,26,20,15,6,26,10,18,8,11,13,12,3,9,12,10,5
+[Auction "W"]
+Pass 1S Pass 2NT =1= 
+Pass 4S Pass 5D 
+Pass 5H Pass 5S 
+Pass Pass Pass 
+[Play "E"]
+C2 CA C3 C5 
+S8 S2 SQ SA 
+S6 SK HJ S4 
+S9 SJ DJ S5 
+D7 CK C6 C8 
+D5 CQ C7 D4 
+D3 C4 CT S7 
+D2 H2 DK DA 
+D9 H5 H3 DQ 
+DT S3 H7 D6 
+H4 C9 CJ ST 
+HQ H6 H9 D8 
+HA HK HT H8 
+
+[Event "11 Dec Crockfords Rawlins Sansom"]
+[Site "RealBridge"]
+[Date "2023.12.11"]
+[Board "24"]
+[West "Nick Stevens#56002"]
+[North "Mike Rawlins#94613"]
+[East "Clive Owen#24687"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT754.8.AQ864.85 986.AQ4.T97532.2 KJ32.K652..AKQ94 Q.JT973.KJ.JT763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Rawlins team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bc88abc88a2145321453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  8
+N  D  8
+N  C 10
+S NT 11
+S  S 12
+S  H  8
+S  D  8
+S  C 10
+E NT  2
+E  S  1
+E  H  4
+E  D  5
+E  C  3
+W NT  2
+W  S  1
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,0,2,66,65,26,730,31,39,28,100,51,28,22,165,92,28,16,22,398,24,23,302,23,22,23,257,31,35,19,149,23,16,146,80,188,68,16,157,21,25,159,71,26,32,33,233,21,13,13,101,18,63,12,282,26,19,26,62,16,20,28,22,18,10,15,9,10,7,28
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 2D Pass 2H =1= 
+Pass 3D Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+C2 CA C3 C8 
+S6 SK SQ S5 
+S8 S2 H3 SA 
+S9 S3 DJ ST 
+D2 CK C6 C5 
+D3 CQ C7 D4 
+H4 C4 CT S4 
+D5 H2 DK DA 
+D7 H5 H7 DQ 
+HQ HK H9 H8 
+D9 C9 CJ S7 
+DT SJ HT D8 
+HA H6 HJ D6 

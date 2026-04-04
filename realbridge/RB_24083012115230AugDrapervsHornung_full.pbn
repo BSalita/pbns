@@ -1,0 +1,5119 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "1"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J86.983.QJT94.82 KT743.KT762.A6.T 9.AQJ54.753.KJ64 AQ52..K82.AQ9753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3055230562ad87bad87b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  0
+N  H  5
+N  D  5
+N  C  2
+S NT  3
+S  S  0
+S  H  5
+S  D  6
+S  C  2
+E NT 10
+E  S 13
+E  H  8
+E  D  7
+E  C 11
+W NT 10
+W  S 13
+W  H  8
+W  D  7
+W  C 11
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 28,0,3,630,117,73,206,101,25,23,34,63,138,22,296,70,194,20,128,63,19,12,284,157,30,24,44,33,16,19,83,20,18,11,148,11,29,15,224,21,23,20,35,19,16,25,42,11,58,10,52,9,26,6,20,14,10,8
+[Auction "N"]
+Pass 1S 2H 4H 
+Pass 4S Pass 4NT 
+Pass 5H Pass 5NT =1= 
+Pass 6H Pass 6S 
+Pass Pass Pass 
+[Note "1:  * secific kings [0:31]"]
+[Play "S"]
+D5 D2 D9 DA 
+C4 CQ C2 CT 
+C6 C3 C8 S3 
+S9 SA S6 S4 
+H4 S2 S8 SK 
+H5 SQ SJ S7 
+CJ CA DQ H2 
+CK C5 H3 ST 
+D3 DK D4 D6 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "1"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J86.983.QJT94.82 KT743.KT762.A6.T 9.AQJ54.753.KJ64 AQ52..K82.AQ9753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3055230562ad87bad87b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  0
+N  H  5
+N  D  5
+N  C  2
+S NT  3
+S  S  0
+S  H  5
+S  D  6
+S  C  2
+E NT 10
+E  S 13
+E  H  8
+E  D  7
+E  C 11
+W NT 10
+W  S 13
+W  H  8
+W  D  7
+W  C 11
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 28,2,1,69,242,70,386,213,29,81,219,47,59,46,61,36,25,60,38,33,18,24,268,1912,38,19,18,18,30,19,188,28,10,8,15,13,32,14,952,21,22,36,39,27,22,23,43,17,49,20,39,24,22,18,37,17,16,13,16,16,16,25
+[Auction "N"]
+Pass 1S 2H 4H 
+Pass 4S Pass 5C 
+Pass 5D Pass 5H 
+Pass 5S Pass 6S 
+Pass Pass Pass 
+[Play "S"]
+C4 CA C8 CT 
+C6 C3 C2 S3 
+D3 D2 D4 DA 
+D5 DK D9 D6 
+CJ C5 H3 S4 
+H4 S2 H8 H2 
+CK C7 H9 S7 
+S9 S5 S6 SK 
+H5 SQ S8 ST 
+HJ SA SJ H6 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "2"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT96.J9.K2.AT943 K2.832.AT876.K65 Q85.AKT64.54.QJ2 J743.Q75.QJ93.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "7895a688495448354483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  5
+N  C 10
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  9
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  3
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 10,0,3,223,52,41,218,38,435,46,327,63,903,41,40,36,68,158,17,64,12,27,7,23,14,29,19,27,105,87,18,78,46,21,31,24,37,25,7,9,16,36,5,10,4,58,12,11,158,24,4,19,5,8
+[Auction "E"]
+1NT =1= Pass Pass 2D =2= 
+Pass 2H =3= Pass 2NT =4= 
+Pass 3C =5= Pass Pass 
+Pass 
+[Note "1: 10-12"]
+[Note "2: spades and another"]
+[Note "3: relay"]
+[Note "4: 4 spades and 5+ minor, not max"]
+[Note "5: pass or correct"]
+[Play "W"]
+H5 HJ H3 H4 
+H7 H9 H2 HK 
+C7 C3 CK CQ 
+C8 C9 C6 C2 
+D3 C4 C5 CJ 
+HQ D2 H8 HA 
+D9 DK D6 HT 
+S3 S6 D7 H6 
+S4 SA S2 S5 
+-  S9 SK -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "2"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT96.J9.K2.AT943 K2.832.AT876.K65 Q85.AKT64.54.QJ2 J743.Q75.QJ93.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "7895a688495448354483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  5
+N  C 10
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  9
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  3
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,55,128,52,87,29,114,44,222,22,56,30,51,528,24,15,26,24,59,18,81,77,50,38,22,358,24,31,57,370,78,21,35,281,42,15,433,39,13,28,18,23,10,16,11,29,12,18,14,18,14,16,17
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+DQ DK DA D5 
+D3 D2 D7 D4 
+DJ S6 D8 S5 
+D9 C3 DT H4 
+S7 C4 D6 CJ 
+HQ HJ H8 H6 
+H7 H9 H3 HT 
+H5 S9 H2 HA 
+S3 ST C5 HK 
+C7 C9 CK CQ 
+-  -  S2 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "3"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:5.J92.AQJ986.965 AJ3.T4.T75.KQJ82 KQT9.KQ5.K4.T743 87642.A8763.32.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "65586655864663644636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  6
+E NT  4
+E  S  6
+E  H  6
+E  D  3
+E  C  6
+W NT  4
+W  S  4
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 13,0,3,216,143,206,166,46,145,81,22,28,43,32,15,123,124,74,60,10,52,27,16,161,109,16,30,10,126,19,44,44,22,19,9,5,28,15,59,9,13,10,17,8,49,7,26,13,59,117,17,16
+[Auction "S"]
+1NT =1= 2C =2= 2D 2S 
+Pass Pass 3D Pass 
+Pass 3S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: majors"]
+[Play "S"]
+DK D2 D9 D5 
+SK S2 S5 S3 
+D4 D3 DJ D7 
+C3 S4 DA DT 
+C4 CA C5 C2 
+S9 S6 D6 SA 
+C7 H3 C6 CK 
+CT H6 C9 CJ 
+ST H7 D8 CQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "3"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:5.J92.AQJ986.965 AJ3.T4.T75.KQJ82 KQT9.KQ5.K4.T743 87642.A8763.32.A"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "65586655864663644636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  6
+E NT  4
+E  S  6
+E  H  6
+E  D  3
+E  C  6
+W NT  4
+W  S  4
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 6,2,1,211,62,327,29,105,53,129,37,222,185,60,25,62,34,51,104,19,14,32,290,31,18,19,21,22,44,177,25,16,16,51,17,17,22,36,21,11,83,97,21,18,24,23,18,28,22,38,17,44,15,46,15,19,15,14,17,15,17,20
+[Auction "S"]
+1C =1= Pass 1D Pass 
+1NT =2= Pass 2C =3= X 
+Pass Pass 2D Pass 
+Pass Pass 
+[Note "1: 2+; may have 5♢ in bal hand"]
+[Note "2: 12-14"]
+[Note "3: checkback"]
+[Play "E"]
+CK C3 CA C5 
+D5 D4 D3 DA 
+S3 SK S8 S5 
+D7 DK D2 D6 
+SJ S9 S2 D8 
+DT C4 H3 DQ 
+H4 HQ H6 H2 
+SA SQ S4 C6 
+CQ C7 S6 C9 
+CJ CT S7 D9 
+HT HK HA H9 
+-  -  H8 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "4"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A.AK852.J53.K985 QT85.7.9874.A642 2.T96.AKT2.QJT73 KJ97643.QJ43.Q6."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "93aac94cbc1911119111"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  3
+N  H 10
+N  D 10
+N  C 12
+S NT  9
+S  S  4
+S  H 12
+S  D 11
+S  C 12
+E NT  1
+E  S  9
+E  H  1
+E  D  1
+E  C  1
+W NT  1
+W  S  9
+W  H  1
+W  D  1
+W  C  1
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 20,0,3,262,53,31,45,64,758,69,169,43,155,46,36,23,122,118,13,5,15,28,12,28,135,34,5,121,18,39,22,12,179,24,19,21,80,26,6,19,7,12,5,29,420,29,69,13,20,26,15,16,17,18,17,20
+[Auction "W"]
+Pass 1H Pass 2C 
+2S 2NT =1= 3S 4H 
+4S 5C Pass Pass 
+Pass 
+[Note "1: I think this should be a good club raise, but not clear"]
+[Play "W"]
+S6 SA S5 S2 
+S4 C5 C2 CT 
+S3 C8 CA C3 
+D6 D3 D7 DA 
+H3 H2 H7 H9 
+S7 CK C4 C7 
+S9 C9 C6 CJ 
+HJ HK S8 H6 
+H4 HA ST HT 
+DQ DJ D4 D2 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "4"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A.AK852.J53.K985 QT85.7.9874.A642 2.T96.AKT2.QJT73 KJ97643.QJ43.Q6."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "93aac94cbc1911119111"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  3
+N  H 10
+N  D 10
+N  C 12
+S NT  9
+S  S  4
+S  H 12
+S  D 11
+S  C 12
+E NT  1
+E  S  9
+E  H  1
+E  D  1
+E  C  1
+W NT  1
+W  S  9
+W  H  1
+W  D  1
+W  C  1
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 23,2,1,142,100,57,193,248,97,26,49,21,61,160,24,17,80,22,14,26,43,18,19,15,288,82,18,19,96,22,22,37,32,18,10,27,23,23,22,17,15,22,12,19
+[Auction "W"]
+1S 2H 4S 5H 
+5S X Pass Pass 
+Pass 
+[Play "N"]
+HK H7 HT H4 
+D3 D4 DK D6 
+D5 D7 DA DQ 
+DJ D8 D2 S3 
+H2 S5 H6 H3 
+C5 CA C3 HJ 
+C8 C2 C7 S4 
+H5 S8 H9 HQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "5"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:983.QJ74.QJ2.J43 AQ4.T53.96.A9865 J52.A982.T74.Q72 KT76.K6.AK853.KT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "21322213229c9bb9c9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  3
+N  D  2
+N  C  2
+S NT  2
+S  S  1
+S  H  3
+S  D  2
+S  C  2
+E NT  9
+E  S 12
+E  H  9
+E  D 11
+E  C 11
+W NT  9
+W  S 12
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 14,0,3,46,128,32,158,54,186,25,41,48,17,24,78,120,73,18,172,28,17,22,17,10,12,12,18,9,21,27,18,55,27,19
+[Auction "N"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2NT =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: puppet invit+"]
+[Note "3: no 4 or 5 cd maj not max"]
+[Play "S"]
+H9 HK H7 H3 
+S5 S6 S9 SA 
+S2 S7 S3 SQ 
+SJ SK S8 S4 
+D4 ST C3 H5 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "5"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:983.QJ74.QJ2.J43 AQ4.T53.96.A9865 J52.A982.T74.Q72 KT76.K6.AK853.KT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "21322213229c9bb9c9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  3
+N  D  2
+N  C  2
+S NT  2
+S  S  1
+S  H  3
+S  D  2
+S  C  2
+E NT  9
+E  S 12
+E  H  9
+E  D 11
+E  C 11
+W NT  9
+W  S 12
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 14,2,1,87,31,31,45,141,101,61,162,30,113,57,33,52,22,34,46,209,30,37,20,30,19,42,53,17,30,11,22,19,174,26,20,15,23,33,59,64,27,18,18,67,9,80,42
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 2C Pass 2S 
+Pass 3H =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: fsf"]
+[Play "N"]
+H4 H3 HA H6 
+H7 H5 H2 HK 
+C3 C5 C2 CK 
+C4 CA C7 CT 
+CJ C8 CQ D3 
+HJ HT H9 D5 
+HQ D6 H8 S6 
+DQ -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "6"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J54.A.KJ5.KJ8542 AKQT6.QT32.62.Q7 7.KJ965.AQ84.AT3 9832.874.T973.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "879bc879bc1530015300"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 11
+N  C 12
+S NT  8
+S  S  7
+S  H  9
+S  D 11
+S  C 12
+E NT  1
+E  S  5
+E  H  3
+E  D  0
+E  C  0
+W NT  1
+W  S  5
+W  H  3
+W  D  0
+W  C  0
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 20,0,3,112,182,62,246,39,131,37,288,53,56,40,114,78,155,24,34,106,15,12,107,42,48,36,145,28,27,20,168,30,9,9,191,23,20,15
+[Auction "E"]
+1S X Pass 2S =1= 
+Pass 3H Pass 3S =2= 
+Pass 4D Pass 5C 
+Pass Pass Pass 
+[Note "1: 11+ general force"]
+[Note "2: game forcing general force"]
+[Play "E"]
+SK S7 S2 S4 
+D6 D4 D3 DK 
+S6 C3 S3 S5 
+C7 CA C6 C2 
+CQ CT C9 CK 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "6"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J54.A.KJ5.KJ8542 AKQT6.QT32.62.Q7 7.KJ965.AQ84.AT3 9832.874.T973.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "879bc879bc1530015300"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 11
+N  C 12
+S NT  8
+S  S  7
+S  H  9
+S  D 11
+S  C 12
+E NT  1
+E  S  5
+E  H  3
+E  D  0
+E  C  0
+W NT  1
+W  S  5
+W  H  3
+W  D  0
+W  C  0
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 20,2,1,75,54,66,153,55,241,51,183,32,73,37,83,26,236,27,37,64,35,21,180,35,56,28,99,23,18,20,20,21,16,18,38,23,18,13
+[Auction "E"]
+1S 2H Pass 3C 
+Pass 3D Pass 3S 
+Pass 4C Pass 5C 
+Pass Pass Pass 
+[Play "E"]
+SA S7 S2 S4 
+D6 D4 D3 DJ 
+C7 CA C6 C2 
+CQ C3 C9 CK 
+H2 H5 H7 HA 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "7"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT94.QT.QT.AKQ7 Q63.K9432.K.J642 J87.J8765.A6.T98 52.A.J9875432.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa969aa9693347333473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  6
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D  6
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  7
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,0,3,62,62,73,39,63,37,100,33,19,18,56,436,14,103,97,23,23,37,180,20,13,21,231,25,25,21,327,22,17,21,186,21,27,14,50,190,26
+[Auction "S"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+C4 CT C3 C7 
+SQ S7 S2 S4 
+C2 C8 C5 CA 
+S3 S8 S5 SA 
+S6 SJ D8 S9 
+H3 H5 HA HQ 
+DK -  D7 DT 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "7"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT94.QT.QT.AKQ7 Q63.K9432.K.J642 J87.J8765.A6.T98 52.A.J9875432.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa969aa9693347333473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  6
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D  6
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  7
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,2,1,45,365,297,37,70,40,105,27,176,41,58,23,28,162,25,27,227,24,16,20,22,23,14,13,33,19,11,18,16,16,12,11,16,15,13,27,20,18,15,27,14,14,13,20,38,14
+[Auction "S"]
+Pass 2D =1= X Pass 
+2H Pass 2S Pass 
+4S Pass Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+DK DA D9 DT 
+S3 S7 S2 SA 
+S6 S8 S5 SK 
+C2 C8 C3 CA 
+C4 C9 C5 CK 
+C6 CT D7 CQ 
+CJ SJ D5 C7 
+H2 H5 HA HT 
+-  -  D8 DQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "8"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJT72.KQJ.Q.QT52 .A732.AT852.J986 Q83.T98654.964.7 A9654..KJ73.AK43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "3461235612987cb987cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  1
+N  C  2
+S NT  3
+S  S  5
+S  H  6
+S  D  1
+S  C  2
+E NT  9
+E  S  8
+E  H  7
+E  D 12
+E  C 11
+W NT  9
+W  S  8
+W  H  7
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 5,0,3,166,39,153,29,232,46,53,112,62,159,16,69,85,16,37,11,139,21,25,6,75,17,26,11,20,6,17,27,25,25,18,3,22,20,41,4,45,23,28,4,50,186,59,8,21,6,23,29,22,23,45,26,12,19,4,18,8,20,4,18
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass Pass Pass 
+[Note "1: Up to 11 points and forcing"]
+[Note "2: 3+♣ may have longer ♢"]
+[Play "N"]
+HK HA H4 S4 
+HQ H2 H5 C3 
+S2 H3 S3 SA 
+S7 C6 S8 S5 
+HJ H7 H6 C4 
+C2 C8 C7 CA 
+C5 C9 H8 CK 
+DQ D2 D4 DK 
+ST DA D6 D3 
+CT D5 D9 DJ 
+CQ CJ H9 D7 
+SK D8 SQ S6 
+SJ DT HT S9 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "8"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJT72.KQJ.Q.QT52 .A732.AT852.J986 Q83.T98654.964.7 A9654..KJ73.AK43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "3461235612987cb987cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  1
+N  C  2
+S NT  3
+S  S  5
+S  H  6
+S  D  1
+S  C  2
+E NT  9
+E  S  8
+E  H  7
+E  D 12
+E  C 11
+W NT  9
+W  S  8
+W  H  7
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 26,2,1,75,120,79,41,172,64,962,54,508,44,472,64,102,32,42,74,24,25,33,3080,30,23,46,33,39,28,219,117,32,29,15,149,29,21,1257,48,13,27,19,16,34,18,43,18,34,14,30,26,25,30,93,19,18,16,25,17,34,18,8
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass 3D Pass 
+4H Pass 4S =3= Pass 
+5C Pass 6D Pass 
+Pass Pass 
+[Note "1: up to 12"]
+[Note "2: Diamnonds"]
+[Note "3: cue"]
+[Play "S"]
+C7 CA C2 C8 
+S3 S4 SK D2 
+D4 C3 C5 C9 
+D6 D3 DQ DA 
+H6 C4 HJ HA 
+H4 D7 HQ H2 
+SQ SA S2 C6 
+S8 S5 S7 D5 
+H5 DJ HK H3 
+D9 S6 ST D8 
+HT -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "9"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK65.K65.976.J82 QT94.T98.A83.K95 J3..KQJ52.AQT743 872.AQJ7432.T4.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "985bc985bc2481124811"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D 11
+N  C 12
+S NT  9
+S  S  8
+S  H  5
+S  D 11
+S  C 12
+E NT  2
+E  S  4
+E  H  8
+E  D  1
+E  C  1
+W NT  2
+W  S  4
+W  H  8
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 20,2,1,185,31,322,207,214,133,46,64,728,39,341,36,40,158,92,21,19,23,13,37,17,20,17,19,70,22,21,27,550,32,14,19,66,19,14,26,49,26,13,24,33,18,17,10
+[Auction "N"]
+1C =1= Pass 2C =2= 2H 
+Pass 3H 4D Pass 
+5C Pass Pass Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Note "2: nat, forcing, 10+"]
+[Play "E"]
+HT C3 H2 H5 
+S4 S3 S7 SK 
+C5 C4 C6 CJ 
+C9 CT H3 C2 
+CK CA H4 C8 
+DA DK D4 D6 
+SQ SJ S2 SA 
+D3 DQ DT D7 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "9"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK65.K65.976.J82 QT94.T98.A83.K95 J3..KQJ52.AQT743 872.AQJ7432.T4.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "985bc985bc2481124811"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D 11
+N  C 12
+S NT  9
+S  S  8
+S  H  5
+S  D 11
+S  C 12
+E NT  2
+E  S  4
+E  H  8
+E  D  1
+E  C  1
+W NT  2
+W  S  4
+W  H  8
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 20,0,3,97,36,684,113,187,50,376,178,97,38,778,63,95,37,28,29,121,537,42,24,52,28,10,14,141,30,25,25,80,32,15,10,144,22,19,17,405,27,12,20,15,20,22,20,144,21,16
+[Auction "N"]
+1NT =1= Pass 2S =2= Pass 
+2NT =3= Pass 3D =4= Pass 
+3NT Pass 4NT =5= Pass 
+5C Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: transfer to clubs"]
+[Note "3: denies A, K or Q of clubs"]
+[Note "4: 10 cds+ in minors GF"]
+[Note "5: to play in 5m"]
+[Play "E"]
+H8 C3 H4 H5 
+S4 S3 S7 SA 
+CK CA C6 CJ 
+C5 CQ H2 C2 
+C9 CT H3 C8 
+S9 SJ S2 SK 
+D8 DK D4 D6 
+-  DQ DT D7 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "10"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK7.AK9752..Q753 T965.QT8.K4.KJ62 QJ432.J6.J75.T98 8.43.AQT98632.A4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "1881718817643a5643a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  8
+N  D  1
+N  C  7
+S NT  1
+S  S  8
+S  H  8
+S  D  1
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D 10
+E  C  5
+W NT  6
+W  S  4
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,2,1,58,45,233,77,163,41,42,29,340,20,21,21,338,19,16,147,17,29,22,28,19,16,15,16,22,17,21,88,18,12,15,63,15,16,19,30,19,11,8,17,36,11,7,21,28,14,8,18
+[Auction "E"]
+Pass Pass 4D 4H 
+Pass Pass Pass 
+[Play "E"]
+DK D5 D2 H2 
+HQ H6 H3 H5 
+H8 HJ H4 H7 
+S5 S2 S8 SA 
+HT D7 D3 HA 
+S6 S3 D6 SK 
+S9 SJ D8 S7 
+ST SQ D9 C3 
+C2 S4 DT C5 
+C6 CT CA C7 
+-  -  DA -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "10"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK7.AK9752..Q753 T965.QT8.K4.KJ62 QJ432.J6.J75.T98 8.43.AQT98632.A4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "1881718817643a5643a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  8
+N  D  1
+N  C  7
+S NT  1
+S  S  8
+S  H  8
+S  D  1
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D 10
+E  C  5
+W NT  6
+W  S  4
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,115,36,111,80,152,30,65,260,49,200,80,54,319,27,41,51,29,38,1390,29,44,32,11,14,35,21,8,9,22,40,6,9,38,18,20,9,13,14,29,12,15,16,26,8,6
+[Auction "E"]
+Pass Pass 1D =1= 1H 
+X Pass 2D X =2= 
+Pass 2H 3D Pass 
+3NT Pass Pass Pass 
+[Note "1:  * always unbalanced [0:17]"]
+[Note "2: take-out"]
+[Play "S"]
+HJ H3 HK H8 
+H6 H4 HA HT 
+S4 S8 SA S5 
+S2 D2 SK S6 
+SJ D3 S7 S9 
+SQ D6 H2 ST 
+S3 D8 H5 C2 
+CT -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "11"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A982.9.Q86.AQJT9 KQ.KJT764.942.63 63.A853.J53.7542 JT754.Q2.AKT7.K8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "7656a7656a5787367873"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  5
+S  D  6
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  7
+E  C  3
+W NT  6
+W  S  7
+W  H  8
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,2,1,51,106,111,103,88,109,32,112,59,182,29,13,85,75,110,22,15,64,58,69,26,159,93,28,44,219,21,17,16,52,23,15,13,17,20,8,71,23,31,21,130,18,25,10,19,21
+[Auction "S"]
+Pass 1S 2C 2H 
+3C Pass Pass X 
+Pass 3H Pass Pass 
+Pass 
+[Play "S"]
+C5 C8 C9 C3 
+H3 HQ H9 H4 
+HA H2 CT HK 
+C2 CK CA C6 
+C4 D7 CJ H6 
+H5 S4 S2 HJ 
+H8 DT CQ HT 
+S6 S5 SA SK 
+-  -  D6 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "11"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A982.9.Q86.AQJT9 KQ.KJT764.942.63 63.A853.J53.7542 JT754.Q2.AKT7.K8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "7656a7656a5787367873"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  5
+S  D  6
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  7
+E  C  3
+W NT  6
+W  S  7
+W  H  8
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,0,3,51,161,89,51,78,48,55,75,36,447,18,24,50,39,12,20,14,22,20,18,478,31,12,21,271,31,20,35,22,32,55,38,48,34,18,9,35
+[Auction "S"]
+Pass 1S 2C 2H 
+3C Pass Pass Pass 
+[Play "E"]
+SK S3 S7 SA 
+HT HA H2 H9 
+C3 C2 C8 CQ 
+SQ S6 S5 S2 
+C6 C4 CK CA 
+H4 C5 S4 S8 
+D2 D3 DK D6 
+-  -  HQ -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "12"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ5.KJ9.AQT864.8 A8.652.J9.AJ9765 KT63.AQT4.753.KQ 9742.873.K2.T432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "bbbb7bbbb72211622116"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 11
+N  C  7
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  2
+E  H  1
+E  D  1
+E  C  6
+W NT  2
+W  S  2
+W  H  1
+W  D  1
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 21,2,1,589,128,43,134,61,384,49,270,40,39,21,34,180,13,16,116,105,32,14,16,21,21,29,36,18,12,11
+[Auction "W"]
+Pass 1D 2C X 
+4C 4D Pass 5D 
+Pass Pass Pass 
+[Play "E"]
+CA CQ C2 C8 
+H6 HT H8 H9 
+D9 D3 D2 DQ 
+DJ D5 DK DA 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "12"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ5.KJ9.AQT864.8 A8.652.J9.AJ9765 KT63.AQT4.753.KQ 9742.873.K2.T432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "bbbb7bbbb72211622116"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 11
+N  C  7
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  2
+E  H  1
+E  D  1
+E  C  6
+W NT  2
+W  S  2
+W  H  1
+W  D  1
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,108,87,50,67,29,46,27,163,41,232,33,94,45,85,18,209,210,17,22,181,14,23,30,40,21,40,28,210,12,14,14
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 2H Pass 2S 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C3 C8 CA CQ 
+C2 S5 C9 CK 
+D2 DQ D9 D3 
+DK DA DJ D5 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "13"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:974.K53.A9762.Q8 AQ3.A84.T85.7642 T82.T962.K3.AJT3 KJ65.QJ7.QJ4.K95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55665556658777887778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  6
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 3,2,1,141,29,60,156,155,63,145,39,33,200,264,521,716,45,26,233,25,14,25,141,21,20,18,105,35,21,17,70,39,72,22,23,100,27,32,27,43,26,25,286,15,13,476,275,16,23,37,54,15,16,31,19,654,27,27,16,39,14,8,8,8,7,9
+[Auction "N"]
+Pass Pass Pass 1C =1= 
+1D X Pass 1S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+S4 SA S2 S5 
+S7 SQ S8 S6 
+S9 S3 ST SK 
+HK HA H2 HQ 
+D2 D5 DK DJ 
+DA D8 D3 DQ 
+H5 H4 H9 HJ 
+D6 DT H6 D4 
+C8 C2 CT CK 
+CQ C4 C3 C5 
+D9 C6 CJ SJ 
+D7 C7 CA C9 
+H3 H8 HT H7 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "13"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:974.K53.A9762.Q8 AQ3.A84.T85.7642 T82.T962.K3.AJT3 KJ65.QJ7.QJ4.K95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55665556658777887778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  6
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,47,41,33,317,60,234,49,87,44,95,42,304,314,32,25,422,38,56,22,343,23,68,28,25,24,81,26,55,30,41,66,230,32,35,7,57,14,16,49,31,27,22,12,16,9,28,16,39,7,20,12,30,11,29,6,29,15
+[Auction "N"]
+Pass Pass Pass 1C =1= 
+Pass 1S =2= Pass 1NT =3= 
+Pass Pass Pass 
+[Note "1: may be 1 may have 5♢ in bal hand"]
+[Note "2: no 4 crd maj"]
+[Note "3: 12-14 bal"]
+[Play "N"]
+D6 D5 DK D4 
+CQ C2 C3 C9 
+C8 C4 CA C5 
+DA D8 D3 DQ 
+D2 DT H2 DJ 
+HK HA H6 HQ 
+D7 C6 CT CK 
+S4 SA S2 S5 
+S7 SQ S8 S6 
+S9 S3 ST SJ 
+D9 C7 CJ SK 
+H3 -  -  HJ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "14"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:64.652.KT962.J65 KQ9.AQT.AJ43.A92 T8.K987.Q7.KQ873 AJ7532.J43.85.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3355633556aa877aa676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT 10
+E  S 10
+E  H  8
+E  D  7
+E  C  7
+W NT 10
+W  S 10
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,0,3,199,28,482,57,32,18,18,35,29,107,22,23,42,20,12,13,84,11,27,13,37,29,20,306
+[Auction "E"]
+2NT =1= Pass 4H =2= Pass 
+4S Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2: ♠ either slam force or no slam interest"]
+[Play "S"]
+CK C4 C5 CA 
+S8 S2 S4 SK 
+ST SA S6 S9 
+HK HJ H2 HT 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "14"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:64.652.KT962.J65 KQ9.AQT.AJ43.A92 T8.K987.Q7.KQ873 AJ7532.J43.85.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3355633556aa877aa676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT 10
+E  S 10
+E  H  8
+E  D  7
+E  C  7
+W NT 10
+W  S 10
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,126,59,122,41,195,55,20,48,17,19,29,80,33,22,39,88,18,45,28,50,33,14,219,20,17,75,181,25,11,28,49,21,15,16,20,37,15,10,20,23,24,14,19
+[Auction "E"]
+2NT =1= Pass 3H =2= Pass 
+3S =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: 20-22"]
+[Note "2: Sp"]
+[Note "3: 3+♠"]
+[Play "S"]
+CK C4 C5 CA 
+S8 S2 S4 SK 
+ST SA S6 SQ 
+CQ CT C6 C2 
+DQ D5 D2 DA 
+C3 S3 CJ C9 
+D7 D8 DK D3 
+HK H3 H5 HT 
+H9 -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "15"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T5.AJT4.AJ7.AKQ2 J962.K86.K96.643 K874.73.T52.J875 AQ3.Q952.Q843.T9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77779777795666466664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  7
+N  C  9
+S NT  7
+S  S  7
+S  H  7
+S  D  7
+S  C  9
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  4
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,41,33,280,76,310,39,302,48,244,39,283,37,59,23,75,502,31,20,39,57,15,17,27,30,14,139,52,844,37,90,27,21,21,25,55,17,25,21,192,21,40,13,154,489,28,12,172,28,19,31,16,19,28,15,310,39,14,34,38,19,16,13,11,7,13,8
+[Auction "S"]
+Pass Pass 2NT =1= Pass 
+3C =2= Pass 3D =3= Pass 
+3H =4= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 20-21"]
+[Note "2: Major suit ask"]
+[Note "3: At least 1 4CM"]
+[Note "4: 4♠s, not 4♡s"]
+[Play "E"]
+C4 C7 C9 CA 
+C3 C5 CT CK 
+C6 C8 S3 CQ 
+H6 CJ D3 C2 
+HK H3 H2 HT 
+S2 S4 SQ S5 
+DK D2 D4 D7 
+SJ SK SA ST 
+H8 H7 H9 HJ 
+S6 D5 H5 HA 
+D6 DT HQ H4 
+D9 S7 D8 DJ 
+S9 S8 DQ DA 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "15"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T5.AJT4.AJ7.AKQ2 J962.K86.K96.643 K874.73.T52.J875 AQ3.Q952.Q843.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77779777795666466664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  7
+N  C  9
+S NT  7
+S  S  7
+S  H  7
+S  D  7
+S  C  9
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  4
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,3,52,170,77,168,61,130,54,230,76,91,96,29,941,42,346,33,305,40,36,16,156,311,41,39,91,28,39,29,37,29,119,20,291,729,33,31,294,15,4,17,11,9,5,29,224,11,6,33,409,88,15,24,135,35,10,9,58,14,22,32,26,38,5,24,31,10,13,11,18,10,7,4
+[Auction "S"]
+Pass 1NT =1= X Pass =2= 
+Pass XX =3= Pass 2D =4= 
+Pass Pass X =5= Pass 
+3C Pass 3D =6= Pass 
+3NT Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2:  * forces a redouble [0:16]"]
+[Note "3: forced"]
+[Note "4: 2 non touching suits * d &s [0:20]"]
+[Note "5: take-out"]
+[Note "6: something in diamonds"]
+[Play "W"]
+D4 D7 D9 DT 
+H2 HT HK H3 
+SQ S5 S6 S4 
+D3 DA D6 D2 
+C9 CA C4 C5 
+CT CK C3 C7 
+D8 CQ C6 C8 
+S3 C2 H8 CJ 
+H9 HJ H6 H7 
+H5 HA S2 D5 
+HQ H4 S9 S7 
+SA ST SJ S8 
+DQ DJ DK SK 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "16"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q95.J7.AQ54.T932 K3.AKQT43.863.84 86.82.KJT972.AK7 AJT742.965..QJ65"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "51186410865bb575bb57"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  1
+N  D  8
+N  C  6
+S NT  4
+S  S  1
+S  H  0
+S  D  8
+S  C  6
+E NT  5
+E  S 11
+E  H 11
+E  D  5
+E  C  7
+W NT  5
+W  S 11
+W  H 11
+W  D  5
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,469,43,209,101,41,384,24,18,25,41,73,16,9,81,12,19,12,47,56,16,11,17,26,14,47,15,43,13,24,19,40,27,14,19,23,24,12,15
+[Auction "W"]
+2D =1= Pass 2S =2= 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: weak 2 in M"]
+[Note "2: pass or convert"]
+[Play "E"]
+HK H2 H6 H7 
+HA H8 H5 HJ 
+HQ S6 H9 D4 
+HT C7 S2 D5 
+H4 S8 S4 C2 
+H3 D2 C5 C3 
+SK D7 S7 S5 
+S3 -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "16"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Gerald Tredinnick#89225"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q95.J7.AQ54.T932 K3.AKQT43.863.84 86.82.KJT972.AK7 AJT742.965..QJ65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "51186410865bb575bb57"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  1
+N  D  8
+N  C  6
+S NT  4
+S  S  1
+S  H  0
+S  D  8
+S  C  6
+E NT  5
+E  S 11
+E  H 11
+E  D  5
+E  C  7
+W NT  5
+W  S 11
+W  H 11
+W  D  5
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,344,76,618,85,412,94,46,80,18,30,124,396,27,15,42,42,16,277,60,18,19,23,61,48,19,28,271,45,18,15,59,36,36,7,47,19,17,8
+[Auction "W"]
+2S =1= Pass 2NT =2= Pass 
+3D =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: relay"]
+[Note "3: shortage"]
+[Play "N"]
+HJ HA H8 H6 
+S5 SK S6 S2 
+S9 S3 S8 SA 
+SQ D3 D2 ST 
+DA D6 D7 S4 
+D4 D8 D9 SJ 
+H7 HK H2 H9 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "17"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:86.4.AK97642.JT4 QJ5.QT53.J3.K852 KT73.J7.T85.9763 A942.AK9862.Q.AQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "221632217369b6869b68"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  6
+N  C  3
+S NT  2
+S  S  2
+S  H  1
+S  D  7
+S  C  3
+E NT  6
+E  S  9
+E  H 11
+E  D  6
+E  C  8
+W NT  6
+W  S  9
+W  H 11
+W  D  6
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,100,83,155,41,44,23,24,184,26,32,67,95,14,366,33,29,24,172,31,16,3,22,14,17,14,16,15,8,4,13,5,8,6,22,14,12,12
+[Auction "N"]
+3D Pass 4D X 
+Pass 4H Pass Pass 
+Pass 
+[Play "S"]
+D8 DQ DK D3 
+HJ HA H4 H3 
+H7 H2 D6 HQ 
+SK SA S6 SQ 
+C3 CA C4 C2 
+C6 CQ CT C5 
+S3 S2 S8 SJ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "17"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:86.4.AK97642.JT4 QJ5.QT53.J3.K852 KT73.J7.T85.9763 A942.AK9862.Q.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "221632217369b6869b68"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  6
+N  C  3
+S NT  2
+S  S  2
+S  H  1
+S  D  7
+S  C  3
+E NT  6
+E  S  9
+E  H 11
+E  D  6
+E  C  8
+W NT  6
+W  S  9
+W  H 11
+W  D  6
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,4,522,61,79,366,81,45,37,39,103,24,24,29,27,16,102,92,23,26,8,122,26,25,12,93,16,12,8,11,14,22,19,36,20,24,20,58,18,18,15,28,15,15,21,64,47,23,16
+[Auction "N"]
+3D Pass 4D 4H 
+Pass Pass Pass 
+[Play "N"]
+DK D3 D5 DQ 
+DA DJ D8 H2 
+H4 H3 H7 HA 
+D2 H5 HJ HK 
+C4 C2 C3 CA 
+CT C5 C7 CQ 
+D4 HT DT H6 
+S6 SQ S3 S2 
+CJ CK C6 S4 
+S8 S5 ST SA 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "18"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQT87.K762.Q4.T5 KJ92.T93.T7.KQ82 43.AQ54.A9652.76 65.J8.KJ83.AJ943"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67874678746645966469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  8
+S  D  7
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  5
+E  C  9
+W NT  6
+W  S  6
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 5,0,3,89,48,179,70,127,190,87,224,67,61,171,80,51,77,76,27,22,4,28,10,28,12,143,20,24,25,23,24,18,22,26,18,29,14,16,26,13,21,33,19,20,4,17
+[Auction "E"]
+Pass Pass 1C =1= 1S 
+1NT X 2C Pass 
+Pass Pass 
+[Note "1: may be 1 etc"]
+[Play "N"]
+DQ D7 D6 DK 
+C5 CK C6 C3 
+CT C2 C7 CJ 
+D4 DT DA D3 
+HK H3 H4 H8 
+H2 H9 HQ HJ 
+H6 HT HA C4 
+SA S2 S4 S5 
+S7 -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "18"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQT87.K762.Q4.T5 KJ92.T93.T7.KQ82 43.AQ54.A9652.76 65.J8.KJ83.AJ943"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67874678746645966469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  8
+S  D  7
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  5
+E  C  9
+W NT  6
+W  S  6
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,4,96,33,76,168,32,155,102,463,38,94,414,24,11,68,18,48,14,38,32,54,17,19,80,15,15,29,50,37,157,57,120,19,12,87,22,45,35,57,61,19
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 5-11"]
+[Play "W"]
+C4 C5 CQ C6 
+C3 CT CK C7 
+C9 H2 C8 D2 
+CA H6 C2 D5 
+CJ S7 H3 S3 
+S6 SQ SK S4 
+DK D4 DT D6 
+S5 SA S2 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "19"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K72.Q9732.J653.5 QJT.AKT65.A.J842 9.J8.KQ984.AKQT3 A86543.4.T72.976"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "64797647974964549644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  9
+N  C  7
+S NT  6
+S  S  4
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  9
+E  H  6
+E  D  4
+E  C  5
+W NT  4
+W  S  9
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,0,3,80,41,79,56,43,36,48,28,39,34,59,26,25,23,129,89,25,19,700,17,42,21,247,15,158,6,82,19,27,67,225,23,56,17,67,19,65,11,19,27,20,19
+[Auction "S"]
+1D Pass 1H Pass 
+2C Pass 2D Pass 
+3C Pass 3D Pass 
+Pass Pass 
+[Play "W"]
+H4 H2 HK H8 
+D7 H3 H6 HJ 
+SA S2 SQ S9 
+C6 C5 CJ CA 
+D2 DJ DA D4 
+S6 H7 H5 DK 
+DT D3 C4 DQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "19"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K72.Q9732.J653.5 QJT.AKT65.A.J842 9.J8.KQ984.AKQT3 A86543.4.T72.976"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "64797647974964549644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  9
+N  C  7
+S NT  6
+S  S  4
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  9
+E  H  6
+E  D  4
+E  C  5
+W NT  4
+W  S  9
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,2,4,152,46,102,115,173,55,603,161,213,45,143,34,37,87,276,80,46,31,104,27,54,21,116,25,20,11,1116,70,46,15,32,21,15,13,48,21,11,41,15,15,10,12,16,12,10,8,13,12,11,7,20,16,12,8
+[Auction "S"]
+1D Pass 1H Pass 
+1NT =1= Pass 2D X 
+3C Pass 3D Pass 
+Pass Pass 
+[Note "1: 4+♣s, forcing"]
+[Play "W"]
+D2 D3 DA D4 
+SA S2 SQ S9 
+H4 H2 HK HJ 
+S6 SK SJ H8 
+D7 D5 H5 DK 
+DT DJ H6 D8 
+C6 C5 C2 CA 
+C7 H3 C4 CK 
+C9 H7 C8 CQ 
+S3 D6 CJ C3 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "20"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T843.2.AT94.K953 AQ72.K864.Q6.A74 KJ.AQT97.J87.Q62 965.J53.K532.JT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "87788877885655556554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,85,34,63,64,36,40,145,50,34,9,8,138,183,108,97,31,17,16,59,21,89,24,39,21,15,11,580,31,17,135,16,61,60,14,36,17,128,18,996,28,17,15,63,23,15,43,156,14,8,12,14,10,13,7,12,5,8,10
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 15-17 [0:06]"]
+[Play "S"]
+HA H3 H2 H6 
+H9 HJ D4 H4 
+SK S5 S4 SQ 
+HT H5 C3 HK 
+D7 D2 D9 DQ 
+SJ S6 S8 S2 
+HQ S9 C5 H8 
+H7 C8 C9 D6 
+DJ D3 DT C4 
+D8 D5 DA C7 
+C2 CT CK CA 
+C6 CJ S3 SA 
+CQ DK ST S7 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "20"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T843.2.AT94.K953 AQ72.K864.Q6.A74 KJ.AQT97.J87.Q62 965.J53.K532.JT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "87788877885655556554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,4,64,72,68,95,32,27,238,429,17,156,856,94,28,386,50,32,19,20,143,18,132,34,100,56,24,16,40,30,153,57,287,27,31,26,905,27,18,40,88,23,14,14,27,32,25,25,141,20,11,10,32,17,12
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 15-17 [0:06]"]
+[Play "S"]
+HQ H3 H2 HK 
+H7 HJ C3 H4 
+SK S5 S4 SQ 
+H9 H5 D4 H6 
+HT D2 C5 H8 
+HA S6 D9 C4 
+D7 D3 DT DQ 
+SJ S9 S3 S2 
+D8 D5 DA D6 
+DJ C8 ST SA 
+C2 CT C9 CA 
+C6 CJ -  S7 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "21"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A753.954.54.9842 962.T873.J92.AJ7 KQJT.AK.A8763.Q3 84.QJ62.KQT.KT65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "79587795876374663746"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  5
+S  D  8
+S  C  7
+E NT  6
+E  S  3
+E  H  7
+E  D  4
+E  C  6
+W NT  6
+W  S  3
+W  H  7
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 1,0,3,47,29,64,45,84,49,161,96,55,14,10,65,18,26,182,14,11,10,18,32,9,8,8,23,30,10,33
+[Auction "N"]
+Pass Pass 1D Pass 
+Pass Pass 
+[Play "W"]
+H6 H4 H3 HA 
+DT D4 D2 D3 
+HQ H5 H7 HK 
+DQ D5 D9 DA 
+DK H9 DJ D6 
+HJ -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "21"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A753.954.54.9842 962.T873.J92.AJ7 KQJT.AK.A8763.Q3 84.QJ62.KQT.KT65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "79587795876374663746"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  5
+S  D  8
+S  C  7
+E NT  6
+E  S  3
+E  H  7
+E  D  4
+E  C  6
+W NT  6
+W  S  3
+W  H  7
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,4,126,33,181,59,330,33,332,124,203,31,134,38,256,20,39,44,143,116,17,93,17,36,13,33,60,61,32,30,100,25,11,9,167,27,52,15,33,16,11,23,137,47,8,16,10,578,25,15
+[Auction "N"]
+Pass Pass 2NT =1= Pass 
+3C =2= Pass 3D =3= Pass 
+3H =4= Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 20-21"]
+[Note "2: 5 card stayman"]
+[Note "3: at least 1 4 card Major"]
+[Note "4: Spades"]
+[Play "W"]
+DK D4 D9 DA 
+DT D5 DJ D3 
+H6 H4 H8 HA 
+S4 S3 S2 SK 
+DQ SA D2 D8 
+S8 S5 S6 SQ 
+C6 S7 S9 SJ 
+C5 C2 H3 D7 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "22"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.AJ976.AJ98.AJ5 A64.Q432.QT6.KQ9 JT98.K85.72.T764 KQ532.T.K543.832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "74867748676857668576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  4
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  8
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,184,18,124,148,105,160,95,64,25,23,118,59,11,36,339,69,25,49,139,45,21,16,235,33,5,25,109,35,4,114,99,21,19,3,31,34,83,22,29,20,21,10,20,36,28,22,182,23,26,8,95,28,22,21,6,29,10,23,14,4,17,9
+[Auction "E"]
+1C =1= Pass 1H =2= 2H 
+X =3= 3H 4S Pass 
+Pass Pass 
+[Note "1: may be 1 may have 5 d bal"]
+[Note "2: 4+♠"]
+[Note "3: shows 3 sp"]
+[Play "N"]
+HA H2 H8 HT 
+H7 HQ HK S3 
+CA C9 C7 C8 
+DA D6 D2 D4 
+HJ H3 H5 S2 
+C5 CQ C4 C3 
+H6 H4 D7 S5 
+S7 S4 ST SK 
+H9 S6 SJ SQ 
+CJ CK C6 C2 
+D8 DQ S8 D3 
+D9 SA CT D5 
+DJ DT S9 DK 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "22"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.AJ976.AJ98.AJ5 A64.Q432.QT6.KQ9 JT98.K85.72.T764 KQ532.T.K543.832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "74867748676857668576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  4
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  8
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,2,4,298,45,31,89,234,238,83,75,36,38,271,188,39,21,337,30,24,12,57,78,43,40,1131,39,19,19,19,21,29,27,186,20,13,10,47,23,14,11,15,136,166,24,110,47,16,27,16,17,23,25,26,12,18,16,11,16,9,9,12,16,8,10
+[Auction "E"]
+1C =1= Pass 1S X 
+XX =2= 2C 2S Pass 
+Pass Pass 
+[Note "1: 2+ -may have 5Ds"]
+[Note "2: support"]
+[Play "N"]
+CA C9 CT C3 
+HA H2 H5 HT 
+HJ H3 H8 S2 
+D8 DQ D7 D3 
+H6 H4 HK S3 
+S7 S4 S8 SK 
+C5 CQ C4 C2 
+H7 HQ S9 SQ 
+D9 SA ST S5 
+CJ CK C6 C8 
+DJ D6 D2 D4 
+DA DT C7 D5 
+H9 S6 SJ DK 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "23"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q54.A.KQ72.A8542 KT9732.KT5.T5.QJ AJ8.J87.AJ43.KT9 6.Q96432.986.763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ca8dcca8dc1350113501"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 13
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 13
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  0
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  0
+W  C  1
+[OptimumScore "NS +2140"]
+[Competition "Teams"]
+% RBDATA 21,0,3,160,47,686,130,871,38,182,38,38,23,73,356,24,19,76,28,18,19,81,13,5,13,72,24,8,25,40,40,17,11,21,14,7,14,38
+[Auction "S"]
+1NT =1= Pass 3S =2= Pass 
+4D Pass 5D Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: 3-suited with 3♠ and 0-1♡"]
+[Play "W"]
+S6 S4 S9 SJ 
+D8 DQ D5 D3 
+D6 DK DT D4 
+D9 D2 S2 DA 
+C7 C2 CQ CK 
+C3 C4 CJ C9 
+-  -  H5 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "23"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q54.A.KQ72.A8542 KT9732.KT5.T5.QJ AJ8.J87.AJ43.KT9 6.Q96432.986.763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ca8dcca8dc1350113501"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 13
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 13
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  0
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  0
+W  C  1
+[OptimumScore "NS +2140"]
+[Competition "Teams"]
+% RBDATA 14,2,4,222,45,359,70,261,57,340,50,73,22,124,259,32,20,83,21,16,14,26,10,16,24,1373,33,29,27,82,79,14,27,25,98,16,31,22,112,24,139,27,16,13,13,16,17,11,10,13,39,9,10,13,18,8,17,13,22,7,16,9,12,8,7
+[Auction "S"]
+1C =1= Pass 2C =2= Pass 
+2D =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+; may have 5♢ in bal hand"]
+[Note "2: Inverted"]
+[Note "3: weak NT without 4+♣s"]
+[Play "E"]
+ST SA S6 S4 
+CQ CK C3 C2 
+CJ CT C7 C4 
+H5 H7 H9 HA 
+S2 C9 C6 CA 
+S3 S8 H4 C8 
+D5 H8 D6 C5 
+DT D3 D8 DK 
+S7 D4 D9 DQ 
+S9 DJ H2 D2 
+HT DA H3 D7 
+SK SJ H6 S5 
+HK HJ HQ SQ 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "24"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:54.82.9864.KJT98 K832.JT3.AT3.Q42 AQ976.Q65.Q5.A75 JT.AK974.KJ72.63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "46447464478698566985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  4
+N  C  7
+S NT  4
+S  S  6
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,409,41,122,112,198,50,110,48,106,12,18,118,15,50,9,71,27,49,8,223,21,10,55,127,44,6,9,189,37,9,76,867,17,9,23,14,26,14,33,111,43,11,11,570,22,9,8,12,23,5,9,13
+[Auction "W"]
+1H Pass 2H =1= 2S 
+Pass Pass Pass 
+[Note "1: 8-10 with 3 H"]
+[Play "W"]
+HK H2 HT H6 
+D7 D4 DA D5 
+ST S4 S2 S6 
+SJ S5 S3 SQ 
+DK D6 D3 DQ 
+DJ D8 DT S7 
+C3 CK C4 C5 
+D2 D9 S8 S9 
+H4 H8 SK SA 
+C6 C8 C2 CA 
+H7 C9 CQ C7 
+-  -  H3 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "24"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:54.82.9864.KJT98 K832.JT3.AT3.Q42 AQ976.Q65.Q5.A75 JT.AK974.KJ72.63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "46447464478698566985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  4
+N  C  7
+S NT  4
+S  S  6
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,4,83,130,44,116,47,75,234,57,35,20,14,141,24,16,46,176,30,18,25,403,35,42,13,153,33,14,14,25,20,26,10,156,17,8,9,203,64,13,11,25,40,28,12,45,74,53,15,46,16,16,6,11,27,9,7,11,7,10,12
+[Auction "W"]
+1H Pass 2H 2S 
+Pass Pass Pass 
+[Play "W"]
+HA H2 H3 H6 
+SJ S4 S2 SQ 
+C6 CJ CQ C5 
+ST S5 S8 S9 
+D2 D4 DA D5 
+HK H8 HJ HQ 
+DK D6 D3 DQ 
+H4 C8 HT H5 
+D7 D8 DT S6 
+C3 C9 S3 SA 
+H7 CT C2 CA 
+H9 CK C4 C7 
+DJ D9 SK S7 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "25"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT.KQ974.Q42.87 95.82.AJ6.KQJ962 Q82.T53.KT873.AT J7643.AJ6.95.543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67aa567aa55633856338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H 10
+N  D 10
+N  C  5
+S NT  6
+S  S  7
+S  H 10
+S  D 10
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  3
+E  C  8
+W NT  5
+W  S  6
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,0,3,112,46,180,45,65,32,24,245,20,10,32,25,16,23,140,30,20,17,147,40,39,30,33,26,23,10,113,83,30,22,15,23,8,13,10,22
+[Auction "N"]
+1H 2C 2H Pass 
+Pass Pass 
+[Play "E"]
+CK CA C4 C7 
+H2 H3 H6 HK 
+CJ CT C3 C8 
+S9 SQ S7 ST 
+H8 H5 HA H4 
+C2 HT C5 D2 
+S5 S2 S3 SA 
+C6 -  -  HQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "25"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT.KQ974.Q42.87 95.82.AJ6.KQJ962 Q82.T53.KT873.AT J7643.AJ6.95.543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67aa567aa55633856338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H 10
+N  D 10
+N  C  5
+S NT  6
+S  S  7
+S  H 10
+S  D 10
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  3
+E  C  8
+W NT  5
+W  S  6
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 12,2,4,121,330,106,253,387,58,116,45,132,149,19,12,20,16,19,15,42,20,22,23,15,70,18,14,68,21,60,18,597,31,18,11,27,17,10,8,31,26,11,16,17,18,11,11,19,20,17,10,33,15,16,13
+[Auction "N"]
+1H 2C 2H X 
+3H Pass Pass Pass 
+[Play "E"]
+CK CA C3 C7 
+H2 H3 H6 HQ 
+S5 SQ S3 ST 
+H8 H5 HA H4 
+C6 HT HJ HK 
+DA D3 D9 DQ 
+CQ CT C5 C8 
+CJ S2 C4 H7 
+S9 S8 S4 SA 
+C2 D7 S6 SK 
+D6 DT D5 D2 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "26"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQT76.J65..KJ763 J954.AQ7.AJ532.9 832.T9.KQT84.A54 A.K8432.976.QT82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "68447684477598575995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  5
+E  H  9
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,175,27,43,345,163,205,211,62,127,51,32,35,23,219,38,34,16,46,428,26,15,21,8,33,7,103,87,31,5,21,504,39,19,17,29,7,25,48,12,32,13,40,12,21,14,17,49,31,16
+[Auction "E"]
+1D Pass 1H 2D =1= 
+X =2= 2S 2NT =3= Pass 
+3C =4= Pass 3H Pass 
+Pass 3S Pass Pass 
+Pass 
+[Note "1: ♠+♣"]
+[Note "2: shows 3 h"]
+[Note "3: lebensohl style"]
+[Note "4: forced"]
+[Play "W"]
+D6 H5 DA D4 
+H2 H6 HA HT 
+H3 HJ HQ H9 
+C2 CJ C9 C4 
+SA SQ S4 S2 
+C8 C3 S5 C5 
+D7 C6 D3 DK 
+H4 SK S9 S3 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "26"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQT76.J65..KJ763 J954.AQ7.AJ532.9 832.T9.KQT84.A54 A.K8432.976.QT82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "68447684477598575995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  5
+E  H  9
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,4,130,39,31,198,134,391,67,85,46,61,205,38,25,409,23,20,9,107,17,107,28,201,380,30,19,38,19,14,24,242,48,13,37,1147,62,544,24,65,16,10,14,9,55,33,18,17,28,8,14,12,54,12,7,32,16,11,17,10,11,11,13
+[Auction "E"]
+1D Pass 1H 2H =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: ♠ and ♣"]
+[Play "W"]
+D6 H5 DA D4 
+H8 H6 HA HT 
+H4 HJ HQ H9 
+D9 S6 D2 D8 
+SA SK S4 S2 
+HK C3 H7 S3 
+D7 SQ S5 S8 
+C2 CK C9 C4 
+C8 C6 D3 CA 
+H3 C7 D5 DK 
+H2 CJ DJ DQ 
+CT S7 S9 DT 
+CQ ST SJ C5 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "27"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K98.AQ9852.87.T5 T64.4.9432.AQ942 AJ32.KT.KJ5.KJ83 Q75.J763.AQT6.76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "88a7798a774436633366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  7
+N  C  7
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  6
+W NT  3
+W  S  3
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,73,79,104,35,49,34,103,45,120,27,28,32,123,152,73,22,551,30,18,21,53,100,35,11,30,47,20,18,396,34,16,15,42,20,27,16,923,23,27,18,59,25,55,14,226,30,23,19,120,21,62,29,758,31,8,12,8,19,24,16,9,13,8,9
+[Auction "S"]
+1S Pass 2H Pass 
+2NT Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+D3 DJ DQ D7 
+CA C3 C7 C5 
+D2 D5 DT D8 
+D4 DK DA H9 
+H4 HK H6 H2 
+D9 HT H7 HA 
+C2 CJ C6 CT 
+C4 CK H3 H5 
+C9 S2 HJ HQ 
+S6 C8 D6 H8 
+S4 S3 S5 SK 
+ST SA S7 S8 
+CQ SJ SQ S9 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "27"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K98.AQ9852.87.T5 T64.4.9432.AQ942 AJ32.KT.KJ5.KJ83 Q75.J763.AQT6.76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "88a7798a774436633366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  7
+N  C  7
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  6
+W NT  3
+W  S  3
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,4,164,63,387,181,75,51,31,30,234,62,44,24,104,229,33,13,20,21,10,27,103,112,20,17,28,19,9,9,9,15,9,38,808,24,31,13,42,91,56,15,204,15,17,23,34,23,7,44,109,18,9,14,21,12,7,16,8,11,8,10
+[Auction "S"]
+1NT =1= Pass 4D =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♡"]
+[Play "W"]
+C7 C5 CA C3 
+DQ D7 D9 DJ 
+DA D8 D3 D5 
+D6 S8 D2 DK 
+H3 H2 H4 HK 
+H7 HA C2 HT 
+C6 CT C4 CK 
+S5 H5 C9 C8 
+SQ S9 S4 SJ 
+S7 SK S6 SA 
+DT H8 CQ CJ 
+H6 HQ D4 S2 
+HJ H9 ST S3 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "28"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT4.T7652.K972.6 52.3.JT6543.AQ85 KQJ986.8.8.K9742 73.AKQJ94.AQ.JT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "7942579425648a7648a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  2
+N  C  5
+S NT  7
+S  S  9
+S  H  4
+S  D  2
+S  C  5
+E NT  6
+E  S  4
+E  H  8
+E  D 10
+E  C  7
+W NT  6
+W  S  4
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 18,0,3,126,48,224,88,88,161,36,87,29,32,16,51,426,20,10,66,18,35,56,82,43,21,10,83,38,11,42,30,21,14,40,33,253,31,42,488,20,431,15,39,19,14,17,8,8,6,23,8,23,6,7,9,18,4,7,3,17,3,16,7,18,4,7
+[Auction "W"]
+1H Pass 1S =1= 2S 
+3H 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: show 4 or fewer sp and forcing"]
+[Play "W"]
+HK H2 H3 H8 
+HA H5 C5 S6 
+DA D2 D3 D8 
+DQ DK D4 C2 
+CT C6 CA C4 
+C3 D7 DJ S8 
+CJ ST C8 C7 
+S3 SA S2 S9 
+S7 S4 S5 SK 
+H4 H6 D5 SQ 
+H9 H7 D6 SJ 
+HJ HT CQ CK 
+HQ D9 DT C9 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "28"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT4.T7652.K972.6 52.3.JT6543.AQ85 KQJ986.8.8.K9742 73.AKQJ94.AQ.JT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "7942579425648a7648a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  2
+N  C  5
+S NT  7
+S  S  9
+S  H  4
+S  D  2
+S  C  5
+E NT  6
+E  S  4
+E  H  8
+E  D 10
+E  C  7
+W NT  6
+W  S  4
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,2,4,161,34,149,125,481,60,401,123,30,55,42,43,123,80,16,44,145,39,110,32,107,251,35,18,36,23,21,8,37,50,120,38,134,39,18,65,36,20,374,24,211,174,21,16,312,165,45,22,14,18,10,11,11,20,12,8,15,49,14
+[Auction "W"]
+1H Pass 1NT =1= 2S 
+3S Pass 4D Pass 
+4H Pass Pass Pass 
+[Note "1: 5-11"]
+[Play "N"]
+SA S2 S6 S7 
+ST S5 SJ S3 
+D7 D3 D8 DA 
+H2 H3 H8 HA 
+H5 C5 S8 HK 
+H6 D4 C2 HQ 
+H7 C8 C4 HJ 
+DK D5 S9 DQ 
+S4 CQ SQ H4 
+C6 CA C7 C3 
+D2 DJ C9 CT 
+-  DT SK CJ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "29"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J986.KQ5.AK64.73 AT.A7643.J2.Q652 Q32.JT92.Q95.AT9 K754.8.T873.KJ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "77665776656666866668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  5
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,120,159,61,32,52,146,25,24,48,31,15,114,40,17,23,89,18,19,41,41,90,22,11,14,15,12,11,15,20,16,15,35,33,69,26,56,26,19,33,23,13,26,38,14,10,20,18,9,15
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+H3 H2 H8 HQ 
+H4 H9 S5 HK 
+HA HT D3 H5 
+H6 HJ C4 S6 
+D2 D5 D7 DA 
+DJ DQ D8 D4 
+C5 D9 DT DK 
+ST S2 C8 D6 
+SA SQ S4 S8 
+H7 C9 S7 C3 
+C2 CA CJ C7 
+-  S3 -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "29"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J986.KQ5.AK64.73 AT.A7643.J2.Q652 Q32.JT92.Q95.AT9 K754.8.T873.KJ84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "77665776656666866668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  5
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,4,306,41,119,46,290,38,49,133,85,24,93,65,21,18,89,22,20,16,29,66,14,38,55,24,47,85,31,44,15,21,17,39,28,10,48,18,11,7,10,10,11,16,11,17,11,20,45,40,11,17,21
+[Auction "N"]
+1C =1= 1H 1NT Pass 
+Pass Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Play "W"]
+H8 HK H7 H2 
+S4 HQ HA H9 
+CJ C3 C2 CT 
+C4 C7 CQ C9 
+C8 H5 C6 CA 
+S5 S6 H3 HJ 
+S7 S8 H4 HT 
+D3 DA D2 D5 
+D7 D4 DJ DQ 
+DT DK ST D9 
+D8 D6 C5 S2 
+CK -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "30"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J98654.JT54.975. K.KQ82.86432.T43 AQ32.A976..KQJ82 T7.3.AKQJT.A9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7ca467ca466137761377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 12
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S 12
+S  H 10
+S  D  4
+S  C  6
+E NT  6
+E  S  1
+E  H  3
+E  D  7
+E  C  7
+W NT  6
+W  S  1
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 23,0,3,79,39,75,62,336,57,68,150,25,53,77,32,17,228,36,24,18,123,978,27,14,37,28,30,9,1203,35,34,17,191,28,25,11,62,13,45,10,39,19,27,41,51,26,24,21,40,19,29,10,30,11,19,31,29,22,12,9,15,18,29,23,19
+[Auction "E"]
+Pass 1C 1D Pass 
+3D X Pass 4S 
+Pass Pass 5D Pass 
+Pass 5S Pass Pass 
+Pass 
+[Play "E"]
+D2 S2 DT D5 
+C4 CK CA S4 
+SK SA S7 S5 
+C3 CQ C5 H4 
+CT CJ C6 H5 
+D3 C2 C7 S6 
+D8 S3 DJ D7 
+D4 C8 C9 S8 
+D6 SQ DQ D9 
+H2 HA H3 HT 
+H8 H6 ST HJ 
+-  -  DA -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "30"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J98654.JT54.975. K.KQ82.86432.T43 AQ32.A976..KQJ82 T7.3.AKQJT.A9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7ca467ca466137761377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 12
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S 12
+S  H 10
+S  D  4
+S  C  6
+E NT  6
+E  S  1
+E  H  3
+E  D  7
+E  C  7
+W NT  6
+W  S  1
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 23,2,4,71,128,282,63,172,114,187,136,125,70,53,37,52,489,473,23,18,79,32,16,10,51,24,22,20,60,21,21,19,194,22,34,16,60,16,17,13,43,28,22,16,44,26,17,25
+[Auction "E"]
+Pass 1C =1= 1D Pass 
+3D =2= X 4C 4S 
+5D 5S Pass Pass 
+Pass 
+[Note "1: 2+; may have 5♢ in bal hand"]
+[Note "2: mixed raise"]
+[Play "E"]
+D6 S2 DT D5 
+C3 CK CA S4 
+SK SA S7 S5 
+D8 SQ ST S6 
+C4 CQ C5 D7 
+CT CJ C6 H4 
+D2 C8 C9 S8 
+HQ HA H3 HJ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "31"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:95.A.AQ96543.963 AJT843.QT87.T2.Q KQ6.K9542.K.KJ52 72.J63.J87.AT874"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "868a9868a92652426524"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D 10
+N  C  9
+S NT  8
+S  S  6
+S  H  8
+S  D 10
+S  C  9
+E NT  2
+E  S  6
+E  H  5
+E  D  2
+E  C  4
+W NT  2
+W  S  6
+W  H  5
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,63,62,64,80,106,31,168,28,42,32,31,17,450,71,67,17,58,34,41,8,64,51,39,59,61,19,7,15,122,32,8,10,10,12,5,12
+[Auction "S"]
+1H Pass 2D Pass 
+2NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S7 S5 SA S6 
+CA C3 CQ CK 
+C7 C9 S3 C2 
+D7 D3 D2 DK 
+H6 HA H7 H2 
+D8 DA DT H4 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "31"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:95.A.AQ96543.963 AJT843.QT87.T2.Q KQ6.K9542.K.KJ52 72.J63.J87.AT874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "868a9868a92652426524"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D 10
+N  C  9
+S NT  8
+S  S  6
+S  H  8
+S  D 10
+S  C  9
+E NT  2
+E  S  6
+E  H  5
+E  D  2
+E  C  4
+W NT  2
+W  S  6
+W  H  5
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,2,4,127,41,249,69,85,41,116,31,316,47,28,38,455,1122,78,20,51,16,18,33,23,27,16,16,36,14,18,17,59,88,29,16,23,78,21,96,24,148,19,72,49,48,47,17,36,135,124,34,20,29,16,39,24,16,17,15,22,29,18,49,17,13,10,9
+[Auction "S"]
+1H Pass 1NT 2S 
+Pass Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+SJ SQ S2 S5 
+D2 DK D7 D3 
+H7 H2 H3 HA 
+DT H4 D8 DA 
+S4 H5 DJ DQ 
+S3 H9 C7 D9 
+H8 C2 S7 D6 
+S8 C5 C4 D5 
+HT CJ C8 D4 
+SA S6 H6 S9 
+CQ CK CA C3 
+ST SK CT C6 
+HQ HK HJ C9 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "32"]
+[West "Phil Norman#28789"]
+[North "Mike Hampton#429305"]
+[East "Christine Bradley#96610"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q965.K83.K92.J63 T84.QT75.AJ7.854 AJ72.J.Q43.KT972 K3.A9642.T865.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "573375733786a9686a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  3
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  3
+S  C  7
+E NT  8
+E  S  6
+E  H 10
+E  D  9
+E  C  6
+W NT  8
+W  S  6
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,0,3,234,35,622,80,40,52,16,50,83,203,8,48,44,30,25,148,113,133,17,25,35,21,45,5,93,26,34,5,50,15,28,26,88,27,21,34,11,29,13,26,35,25,41,17,21,49,15,28,70,19,24,4,21,5,18,9,6,20,3,27
+[Auction "W"]
+1H Pass 3D =1= Pass 
+3H Pass Pass Pass 
+[Note "1: shows 6-7 pts 4H"]
+[Play "N"]
+H3 H5 HJ HA 
+HK H7 S2 H2 
+C3 C4 CK CA 
+C6 C5 C2 CQ 
+H8 HT C9 H4 
+S6 S4 S7 SK 
+S5 S8 SJ S3 
+S9 ST SA H6 
+D2 DJ DQ D5 
+CJ C8 CT H9 
+DK DA D3 DT 
+D9 D7 D4 D6 
+SQ HQ C7 D8 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "32"]
+[West "JoeSivayogan#76274"]
+[North "Michael Hornung#93188"]
+[East "Ian Draper#91338"]
+[South "Mark Hooper#116234"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q965.K83.K92.J63 T84.QT75.AJ7.854 AJ72.J.Q43.KT972 K3.A9642.T865.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "573375733786a9686a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  3
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  3
+S  C  7
+E NT  8
+E  S  6
+E  H 10
+E  D  9
+E  C  6
+W NT  8
+W  S  6
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,2,4,81,174,259,53,127,37,47,152,30,22,385,43,69,30,62,40,16,19,71,103,79,64,33,60,187,34,37,26,21,21,183,23,19,31,15,27,18,18,20,15,24,21
+[Auction "W"]
+1H Pass 3H =1= Pass 
+Pass Pass 
+[Note "1: mixed raise"]
+[Play "N"]
+S5 S4 SA S3 
+C3 C4 CT CQ 
+H3 H5 HJ HA 
+HK HT S2 H2 
+C6 C5 C2 CA 
+H8 H7 C7 H9 
+D2 D7 DQ D5 
+S6 S8 S7 SK 
+D9 DJ D3 D6 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "33"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:72.QJ9632.A72.A7 QJ983.8.QJT65.Q8 AK64.K54.43.T432 T5.AT7.K98.KJ965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "85946859464739747397"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S  5
+S  H  9
+S  D  4
+S  C  6
+E NT  4
+E  S  7
+E  H  3
+E  D  9
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  9
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,3,5,127,242,735,420,292,60,59,20,94,108,226,43,18,52,64,21,18,19,40,82,20,756,38,16,36,18,37,35,13,23,17,8,19,48,61,23,19,32,18,14,16,21,37,21,12,70
+[Auction "N"]
+1H 2H =1= 2S =2= 3C =3= 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: S+minor"]
+[Note "2: good raise in H"]
+[Note "3: pass or correct"]
+[Play "S"]
+H4 HA H2 H8 
+D3 D9 DA D5 
+HK H7 HQ D6 
+C2 C5 CA CQ 
+SK S5 S7 S3 
+SA ST S2 S8 
+S6 DK H3 S9 
+D4 D8 D2 DQ 
+H5 C6 D7 DJ 
+-  -  -  DT 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "33"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:72.QJ9632.A72.A7 QJ983.8.QJT65.Q8 AK64.K54.43.T432 T5.AT7.K98.KJ965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "85946859464739747397"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S  5
+S  H  9
+S  D  4
+S  C  6
+E NT  4
+E  S  7
+E  H  3
+E  D  9
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  9
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,2,237,349,696,146,146,32,113,54,25,25,394,222,17,20,208,22,31,18,68,20,24,21,852,32,30,21,21,68,21,159,104,36,21,15,14,35,9,20,18,28
+[Auction "N"]
+1H 2H =1= X =2= 3C =3= 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: ♠ + a minor"]
+[Note "2: values"]
+[Note "3: Pass or correct"]
+[Play "E"]
+DQ D3 D8 D2 
+D5 D4 DK DA 
+H8 H4 H7 HJ 
+DT HK D9 D7 
+D6 H5 HA H2 
+SJ SA ST S2 
+C8 C2 C9 CA 
+S3 -  -  HQ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "34"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQJ942.Q6.Q943.9 T53.K4.AJ876.T64 87.AJ982.T2.KQ53 A6.T753.K5.AJ872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "48654586547567975679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  5
+N  C  4
+S NT  5
+S  S  8
+S  H  6
+S  D  5
+S  C  4
+E NT  7
+E  S  5
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S  5
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,3,5,125,89,34,168,155,293,51,253,24,66,36,315,50,79,20,64,24,16,15,45,28,21,26,50,40,26,30,36,21,20,12,118,34,17,18,46,16,25,19,23,17,14,16,19,21,15,11,55,21,15,17,62,86,13,11,18,16,12,8,14,11,7,7
+[Auction "E"]
+Pass 1H Pass 1NT =1= 
+Pass 2C =2= Pass 2S 
+Pass Pass Pass 
+[Note "1: 5+ sp and forcing"]
+[Note "2: 3+♣ may have longer ♢"]
+[Play "E"]
+C6 CK CA C9 
+S3 S7 S6 SK 
+HK HA H7 HQ 
+C4 CQ C2 D3 
+S5 S8 SA S2 
+CT C3 CJ S4 
+ST H2 H3 SQ 
+H4 HJ H5 H6 
+D6 DT DK D4 
+D7 C5 C8 S9 
+DJ D2 D5 D9 
+DA H8 C7 DQ 
+D8 H9 HT SJ 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "34"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQJ942.Q6.Q943.9 T53.K4.AJ876.T64 87.AJ982.T2.KQ53 A6.T753.K5.AJ872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "48654586547567975679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  5
+N  C  4
+S NT  5
+S  S  8
+S  H  6
+S  D  5
+S  C  4
+E NT  7
+E  S  5
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S  5
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,2,63,39,131,250,134,56,114,460,619,18,11,67,87,18,89,384,26,36,12,330,21,20,11,12,31,20,23,79,19,44,9,89,18,33,23,67,50,26,17,59,86,21,8,287,21,28
+[Auction "E"]
+Pass Pass 1C =1= 2S =2= 
+Pass Pass Pass 
+[Note "1: 2+; may have 5♢ in bal hand"]
+[Note "2: weak but wide ranging"]
+[Play "E"]
+HK HA H7 HQ 
+DJ DT D5 D3 
+S3 S7 SA S2 
+D6 D2 DK D4 
+S5 S8 S6 SK 
+ST C3 C2 SQ 
+H4 HJ H3 H6 
+D7 H2 H5 S4 
+DA H8 C7 D9 
+C4 CK CA -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "35"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ7.K862.AKJ.A76 T432.JT75.Q94.JT AK85.AQ.2.K98543 96.943.T87653.Q2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 520"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "ddcadddcad0013000130"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H 12
+N  D 10
+N  C 13
+S NT 13
+S  S 13
+S  H 12
+S  D 10
+S  C 13
+E NT  0
+E  S  0
+E  H  1
+E  D  3
+E  C  0
+W NT  0
+W  S  0
+W  H  1
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 14,3,5,313,43,195,48,202,32,297,33,140,143,211,87,69,24,28,26,12,12,13,17,14,14
+[Auction "S"]
+1C =1= Pass 1D =2= Pass 
+1S =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: may be 1 may have 5♢ in bal hand"]
+[Note "2: shows 4+ h"]
+[Note "3: nat denies 3♡"]
+[Play "E"]
+D4 D2 DT DJ 
+CT C3 C2 CA 
+CJ CK CQ C7 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "35"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ7.K862.AKJ.A76 T432.JT75.Q94.JT AK85.AQ.2.K98543 96.943.T87653.Q2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result "13"]
+[Score "NS 1520"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "ddcadddcad0013000130"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H 12
+N  D 10
+N  C 13
+S NT 13
+S  S 13
+S  H 12
+S  D 10
+S  C 13
+E NT  0
+E  S  0
+E  H  1
+E  D  3
+E  C  0
+W NT  0
+W  S  0
+W  H  1
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 34,0,2,61,27,190,86,294,57,195,52,197,46,242,37,591,33,745,74,263,44,421,37,736,79,243,101,32,54,927,919,23,24,42,31,13,19
+[Auction "S"]
+1C Pass 2NT =1= Pass 
+3C =2= Pass 3H =3= Pass 
+3S =4= Pass 4C =5= Pass 
+4D =6= Pass 4NT =7= Pass 
+5D =8= Pass 5H =9= Pass 
+5S =10= Pass 7NT Pass 
+Pass Pass 
+[Note "1: 16+ balanced"]
+[Note "2: 5+ clubs"]
+[Note "3: 4 hearts"]
+[Note "4: 5/4 or better"]
+[Note "5: natural"]
+[Note "6: cue"]
+[Note "7: RKCB for clubs"]
+[Note "8: 3 or 0"]
+[Note "9: asks about Q♣"]
+[Note "10: QT + KS or other 2 Kings"]
+[Play "E"]
+CJ C3 C2 CA 
+CT CK CQ C6 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "36"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT85.97653.7.A42 93.AT4.T8432.K53 KJ6.KQ.AKQJ9.Q76 Q742.J82.65.JT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "bbbb9bbab92122421223"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 11
+N  C  9
+S NT 11
+S  S 11
+S  H 10
+S  D 11
+S  C  9
+E NT  2
+E  S  1
+E  H  2
+E  D  2
+E  C  4
+W NT  2
+W  S  1
+W  H  2
+W  D  2
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,3,5,54,36,35,145,31,170,30,39,25,47,25,119,29,35,23,34,144,23,20,43,24,107,26,24,12,19,9,24,678,50,13,79,92,51,12,478,30,20,13,36,15,78,18,59,19,25,19,196,23,18,32,34,31,9,20,28,14,23,14,81,24,38,25,9,18,9,18
+[Auction "W"]
+Pass Pass Pass 2NT 
+Pass 3D =1= Pass 3H 
+Pass 3S Pass 4H 
+Pass Pass Pass 
+[Note "1: tsfr to H"]
+[Play "W"]
+CJ CA C3 C6 
+D5 D7 D2 DK 
+D6 C2 D3 DA 
+C9 C4 D4 DQ 
+S2 S5 D8 DJ 
+S4 S8 S3 SK 
+S7 SA S9 S6 
+H2 H3 H4 HQ 
+SQ ST C5 SJ 
+C8 H5 CK C7 
+H8 H6 HA HK 
+HJ H7 DT D9 
+CT H9 HT CQ 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "36"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT85.97653.7.A42 93.AT4.T8432.K53 KJ6.KQ.AKQJ9.Q76 Q742.J82.65.JT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "bbbb9bbab92122421223"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 11
+N  C  9
+S NT 11
+S  S 11
+S  H 10
+S  D 11
+S  C  9
+E NT  2
+E  S  1
+E  H  2
+E  D  2
+E  C  4
+W NT  2
+W  S  1
+W  H  2
+W  D  2
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,0,2,84,44,32,166,29,174,74,173,61,202,51,126,63,26,45,24,67,550,16,18,15,40,49,17,25,7,39,181,15,12,48,346,25,7,51,79
+[Auction "W"]
+Pass Pass Pass 2NT =1= 
+Pass 3D =2= Pass 3H =3= 
+Pass 3S =4= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2: hearts"]
+[Note "3: fewer than 3 hearts"]
+[Note "4: 5♡4♠"]
+[Play "W"]
+CJ C2 CK C6 
+C8 CA C5 C7 
+SQ S5 S3 SJ 
+CT C4 C3 CQ 
+H2 H3 HA HK 
+-  -  D8 -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "37"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:54.Q5.KQJT876.75 AK97.A64.A5.QT96 QJT82.92.9432.J8 63.KJT873..AK432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0306003060dad7ddad7d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  6
+N  C  0
+S NT  0
+S  S  3
+S  H  0
+S  D  6
+S  C  0
+E NT 13
+E  S 10
+E  H 13
+E  D  7
+E  C 13
+W NT 13
+W  S 10
+W  H 13
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 27,3,5,125,50,72,301,41,18,20,35,169,19,14,18,22,16,13,17,16,28,22,61,27,29,20
+[Auction "N"]
+3D X Pass 6H 
+Pass Pass Pass 
+[Play "N"]
+DK DA D2 C2 
+H5 HA H2 H3 
+HQ H4 H9 HJ 
+C7 CT CJ CA 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "37"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:54.Q5.KQJT876.75 AK97.A64.A5.QT96 QJT82.92.9432.J8 63.KJT873..AK432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0306003060dad7ddad7d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  6
+N  C  0
+S NT  0
+S  S  3
+S  H  0
+S  D  6
+S  C  0
+E NT 13
+E  S 10
+E  H 13
+E  D  7
+E  C 13
+W NT 13
+W  S 10
+W  H 13
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 27,0,2,88,90,144,273,44,371,30,84,309,12,13,13,19,8,17,21,4,21,25
+[Auction "N"]
+3D X 4D 6H 
+Pass Pass Pass 
+[Play "N"]
+DK DA D4 C2 
+H5 HA H2 H3 
+HQ H4 H9 HJ 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "38"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKJ9.J6.Q954.A83 QT873.852.J32.T4 42.AQ.AT6.KQJ752 65.KT9743.K87.96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a87bbc98cc1451114511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  7
+N  D 11
+N  C 11
+S NT 12
+S  S  9
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  4
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 25,3,5,84,212,26,225,32,218,44,415,36,82,40,218,32,59,37,249,179,26,108,48,24,41,18,107,22,64,11,91,21,32,39,43
+[Auction "E"]
+Pass 1C =1= Pass 1H =2= 
+Pass 3C =3= Pass 3D 
+Pass 3NT Pass 6C 
+Pass Pass Pass 
+[Note "1: may be 1 etc"]
+[Note "2: shows 4+ sp"]
+[Note "3: denies 3♠"]
+[Play "W"]
+D7 D4 DJ DA 
+C6 C3 C4 CK 
+C9 CA CT C2 
+DK D5 D3 DT 
+H4 -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "38"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKJ9.J6.Q954.A83 QT873.852.J32.T4 42.AQ.AT6.KQJ752 65.KT9743.K87.96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a87bbc98cc1451114511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  7
+N  D 11
+N  C 11
+S NT 12
+S  S  9
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  4
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 29,0,2,78,35,67,68,27,48,36,380,51,138,54,43,56,140,52,136,45,1597,38,217,49,51,94,33,56,422,531,38,8,17,16,17,63,98,20,42,12,1292,173,17,11,6,13,9,24,17,91,20,33,24,20,9,45,23,20,46,23,308,23,7,14,578,23,66,436,40,15,19,13
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 3C Pass 4C 
+Pass 4D =1= Pass 4S 
+Pass 4NT =2= Pass 5H =3= 
+Pass 5NT =4= Pass 6S =5= 
+Pass 6NT Pass Pass 
+Pass 
+[Note "1: cue"]
+[Note "2: RKCB"]
+[Note "3: 2-Q"]
+[Note "4: king ask"]
+[Note "5: K♠ or two red kings"]
+[Play "W"]
+S6 SK S3 S2 
+DK D4 D2 DT 
+S5 SA S7 S4 
+C6 CA C4 C2 
+C9 C3 CT CQ 
+H4 C8 S8 CK 
+H3 H6 ST CJ 
+H7 S9 H2 C7 
+D7 D5 D3 DA 
+H9 SJ H5 C5 
+D8 DQ DJ D6 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "39"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:97.AJT9.A92.K854 AKT82.KQ7.T654.2 QJ64.65432.K7.Q9 53.8.QJ83.AJT763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "55846558467859777597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  4
+N  C  6
+S NT  5
+S  S  5
+S  H  8
+S  D  4
+S  C  6
+E NT  7
+E  S  8
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  7
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,3,5,120,32,236,44,124,46,165,64,82,65,30,589,45,37,28,44,94,17,19,67,404,26,15,51,32,13,8,236,26,14,13,93,42,23,15,92,30,20,16,328,66,17,15,233,16,14,55,19,34,8,16,52,31,13,8,22
+[Auction "S"]
+Pass Pass 1C =1= 1S 
+X Pass 2H Pass 
+Pass X Pass 2S 
+Pass Pass Pass 
+[Note "1: May be 1 May have 5d bal"]
+[Play "S"]
+H2 H8 HA H7 
+S4 S3 S9 SA 
+S6 S5 S7 SK 
+DK D3 D9 D4 
+CQ CA C4 C2 
+D7 DQ DA D5 
+C9 C3 CK S2 
+SJ C6 H9 ST 
+H3 C7 HT HK 
+SQ D8 D2 DT 
+H4 -  -  -  
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "39"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:97.AJT9.A92.K854 AKT82.KQ7.T654.2 QJ64.65432.K7.Q9 53.8.QJ83.AJT763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "55846558467859777597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  4
+N  C  6
+S NT  5
+S  S  5
+S  H  8
+S  D  4
+S  C  6
+E NT  7
+E  S  8
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  7
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,0,2,37,20,78,106,52,46,39,68,40,43,120,83,21,21,462,26,25,19,15,20,23,14,90,40,53,10,16,14,23,21
+[Auction "S"]
+Pass Pass 1C 1S 
+X Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+SK S4 S5 S7 
+C2 C9 CA C4 
+H7 CQ C3 C5 
+D6 DK D8 D2 
+HK H2 H8 HA 
+*
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "40"]
+[West "Gerald Tredinnick#89225"]
+[North "Christine Bradley#96610"]
+[East "Ian Draper#91338"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K9.QT8.QT6542.K3 JT754.K972.A7.JT 6.63.KJ83.A76542 AQ832.AJ54.9.Q98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64498644985994559945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  9
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  9
+S  C  8
+E NT  5
+E  S  9
+E  H  9
+E  D  4
+E  C  5
+W NT  5
+W  S  9
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,3,5,81,60,254,96,129,31,16,22,46,486,20,29,20,33,31,11,20,30,17,31,53,18,43,16,85,38,114,64,15,44,15,19,62,19,26,9,523,23,15,17,33,17,20,49,300,26,25,21,13,19,14,17,24,23,9,11,12,42,14,7
+[Auction "W"]
+1S Pass 3D =1= Pass 
+4S Pass Pass Pass 
+[Note "1: limit raise 4 spades"]
+[Play "N"]
+D4 DA D3 D9 
+D2 D7 DK S2 
+CK CT C2 C8 
+C3 CJ CA C9 
+SK H2 C6 CQ 
+S9 SJ S6 S3 
+D5 S4 C4 SA 
+D6 S5 D8 SQ 
+DT ST C5 S8 
+H8 H7 H6 HA 
+HQ HK H3 HJ 
+HT H9 DJ H4 
+DQ S7 C7 H5 
+
+[Event "30 Aug Draper vs Hornung"]
+[Site "RealBridge"]
+[Date "2024.08.30"]
+[Board "40"]
+[West "Mark Hooper#116234"]
+[North "Mike Hampton#429305"]
+[East "Michael Hornung#93188"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K9.QT8.QT6542.K3 JT754.K972.A7.JT 6.63.KJ83.A76542 AQ832.AJ54.9.Q98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hornung team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64498644985994559945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  9
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  9
+S  C  8
+E NT  5
+E  S  9
+E  H  9
+E  D  4
+E  C  5
+W NT  5
+W  S  9
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,0,2,111,46,42,23,30,33,88,117,20,8,206,17,18,37,74,24,13,86,13,14,8,10,97,35,17,13,44,16,9,11,220,34,19,63,707,23,18,14,126,13,57,12,525,25,11,4,734,24,17,21,22,5,11,13,7,13,4,9
+[Auction "W"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+D5 DA D8 D9 
+SK SJ S6 S2 
+D4 D7 DK S8 
+S9 S4 C2 SA 
+CK CT C4 C8 
+C3 CJ CA CQ 
+D2 H2 C5 C9 
+D6 ST D3 S3 
+DT S5 C6 SQ 
+H8 H7 H3 HA 
+HT HK H6 H4 
+HQ H9 DJ H5 
+DQ S7 C7 HJ 

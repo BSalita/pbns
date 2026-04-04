@@ -1,0 +1,1689 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "1"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQ76.AT4.A9865.Q JT3.KJ.KQ432.K97 A9.8752.JT7.A862 8542.Q963..JT543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "778a6778a65543755537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D 10
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D 10
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "N"]
+1D =1= Pass 1H Pass 
+1S Pass 1NT Pass 
+2H =2= Pass 3D Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * 4351 - no extras promised [0:24]"]
+[Play "E"]
+C7 C2 C4 CQ 
+S3 SA S2 S6 
+CK CA C3 H4 
+D2 DJ H3 DA 
+ST S9 S4 SK 
+SJ D7 S5 S7 
+HK H2 H6 HA 
+-  -  -  SQ 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "1"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQ76.AT4.A9865.Q JT3.KJ.KQ432.K97 A9.8752.JT7.A862 8542.Q963..JT543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "778a6778a65543755537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D 10
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D 10
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1H Pass 
+1S Pass 2D Pass 
+2H Pass 2NT Pass 
+3D Pass Pass Pass 
+[Play "E"]
+D2 DJ C5 D5 
+C7 CA C4 CQ 
+CK C2 C3 D6 
+S3 SA S2 S6 
+SJ S9 S4 SK 
+ST DT S5 S7 
+HJ H2 H3 HA 
+DQ H5 S8 SQ 
+D3 D7 H6 D8 
+HK H7 H9 HT 
+C9 -  -  -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "2"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q3.KJ3.AK98.JT65 J742.952.T75.AQ9 AT5.T86.Q42.K432 K986.AQ74.J63.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98899988994554445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+S6 S3 SJ SA 
+D6 DA D5 D4 
+C7 CJ CQ CK 
+C8 C5 C9 C2 
+SK SQ S2 S5 
+S9 C6 S4 ST 
+H4 CT CA C3 
+S8 D8 S7 H6 
+D3 D9 DT DQ 
+DJ H3 D7 C4 
+H7 DK H9 D2 
+HQ HJ H2 H8 
+HA HK H5 HT 
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "2"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q3.KJ3.AK98.JT65 J742.952.T75.AQ9 AT5.T86.Q42.K432 K986.AQ74.J63.87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98899988994554445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1H Pass 
+1S =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: 3+ "]
+[Play "S"]
+D2 D3 DA D5 
+CK C7 C6 CQ 
+HT HQ HK H2 
+H6 HA HJ H5 
+H8 H4 H3 H9 
+C2 C8 C5 CA 
+C4 S8 CT C9 
+C3 H7 SQ D7 
+D4 D6 DK DT 
+DQ DJ D8 S2 
+S5 SK S3 S4 
+-  S6 D9 -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "3"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T98.943.KT87.Q87 AQ.AKT2.J942.J92 KJ7542.QJ65.65.T 63.87.AQ3.AK6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "4753247532968ab7689a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  5
+N  D  3
+N  C  2
+S NT  4
+S  S  7
+S  H  5
+S  D  3
+S  C  2
+E NT  9
+E  S  6
+E  H  8
+E  D 10
+E  C 11
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C Pass 1H 
+1S 2C Pass 2NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: inv+ F1 rd"]
+[Play "S"]
+S4 S3 S8 SQ 
+CT CA C7 C2 
+S2 CK C8 C9 
+D5 C4 CQ CJ 
+H6 H7 H9 HK 
+D6 D3 DK DJ 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "3"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T98.943.KT87.Q87 AQ.AKT2.J942.J92 KJ7542.QJ65.65.T 63.87.AQ3.AK6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "4753247532968ab7689a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  5
+N  D  3
+N  C  2
+S NT  4
+S  S  7
+S  H  5
+S  D  3
+S  C  2
+E NT  9
+E  S  6
+E  H  8
+E  D 10
+E  C 11
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+[Auction "S"]
+2D =1= 3C 3H =2= 3NT 
+4S Pass Pass 4NT 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Note "2: p/c"]
+[Play "S"]
+H5 H7 H9 HT 
+CT CA C8 C2 
+S2 CK C7 CJ 
+D6 C3 CQ C9 
+S4 S3 ST SA 
+D5 DA D7 D4 
+S5 C6 D8 D2 
+S7 C4 H4 D9 
+SJ C5 DT DJ 
+H6 H8 H3 HA 
+HJ S6 S9 HK 
+-  -  -  H2 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "4"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J95.Q53.972.JT85 AQT3.972.AJ63.64 K76.KJ84.K84.KQ7 842.AT6.QT5.A932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1D"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "55757557576868668686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  8
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 1D =1= 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+D5 D2 DA D4 
+DT D7 D3 D8 
+DQ D9 D6 DK 
+C2 C5 C4 CQ 
+C3 C8 C6 CK 
+CA CT H9 C7 
+S8 S9 ST SK 
+H6 HQ H7 H4 
+C9 CJ DJ S6 
+S4 S5 SQ S7 
+S2 SJ SA H8 
+HT H3 S3 HK 
+HA H5 H2 HJ 
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "4"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J95.Q53.972.JT85 AQT3.972.AJ63.64 K76.KJ84.K84.KQ7 842.AT6.QT5.A932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "55757557576868668686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  8
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1D X 
+XX Pass Pass 1H 
+1NT Pass Pass Pass 
+[Play "N"]
+CJ C4 CQ CA 
+D2 D3 DK DQ 
+HQ H2 H4 H6 
+H5 H7 HJ HA 
+D7 D6 D4 DT 
+D9 DJ D8 D5 
+S5 DA S7 S2 
+H3 H9 HK HT 
+S9 S3 H8 S4 
+C5 C6 CK C2 
+C8 ST C7 C3 
+CT SQ S6 C9 
+SJ SA SK S8 
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "5"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:542.KT.97.AKJ987 AQ973.9762.AJ53. T.QJ84.KQT84.QT2 KJ86.A53.62.6543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "6358a6357a7a7537a753"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  5
+N  D  8
+N  C 10
+S NT  6
+S  S  3
+S  H  5
+S  D  7
+S  C 10
+E NT  7
+E  S 10
+E  H  7
+E  D  5
+E  C  3
+W NT  7
+W  S 10
+W  H  7
+W  D  5
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+[Auction "N"]
+2C =1= X 2D =2= 2S 
+Pass 3S 4C 4S 
+Pass Pass Pass 
+[Note "1: 6+ 10-15"]
+[Note "2: asking.  at least some fit for clubs"]
+[Play "N"]
+CK S3 C2 C5 
+D9 D3 DT D6 
+HT H2 H4 H5 
+S4 S7 ST SJ 
+D7 DA D8 D2 
+HK H6 H8 HA 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "5"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:542.KT.97.AKJ987 AQ973.9762.AJ53. T.QJ84.KQT84.QT2 KJ86.A53.62.6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "6358a6357a7a7537a753"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  5
+N  D  8
+N  C 10
+S NT  6
+S  S  3
+S  H  5
+S  D  7
+S  C 10
+E NT  7
+E  S 10
+E  H  7
+E  D  5
+E  C  3
+W NT  7
+W  S 10
+W  H  7
+W  D  5
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+[Auction "N"]
+1C 1S X 3C =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: mixed"]
+[Play "S"]
+DK D2 D9 D3 
+HQ HA HK H6 
+D8 D6 D7 DA 
+DT S8 C7 D5 
+CT C3 CK S3 
+DQ S6 C9 DJ 
+C2 C4 CJ S9 
+H4 H3 HT H2 
+ST SJ S2 S7 
+H8 H5 S4 H9 
+D4 SK S5 SA 
+CQ C5 C8 SQ 
+HJ C6 CA H7 
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "6"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:8.8765.AT9.Q9653 T65.KQT93.K842.K AJ732.A4.63.A742 KQ94.J2.QJ75.JT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "76669766696667366673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C  9
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C  9
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  3
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "E"]
+1H 1S 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+C5 CK CA C8 
+CQ S5 C2 CJ 
+C3 D2 C7 CT 
+H5 H3 H4 HJ 
+DA D4 D3 DJ 
+C9 H9 C4 S4 
+C6 S6 S2 D5 
+DT D8 D6 DQ 
+H6 HT HA H2 
+S8 ST SA S9 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "6"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:8.8765.AT9.Q9653 T65.KQT93.K842.K AJ732.A4.63.A742 KQ94.J2.QJ75.JT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "76669766696667366673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C  9
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C  9
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  3
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2C Pass Pass 
+X XX 2D 4C 
+Pass Pass Pass 
+[Note "1: semi"]
+[Play "W"]
+HJ H5 HQ H4 
+H2 H6 H9 HA 
+D5 D9 DK D3 
+C8 H7 HT C7 
+DJ DA D4 D6 
+D7 DT D2 C2 
+CT C3 CK CA 
+S4 S8 S5 SA 
+-  -  -  S2 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "7"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J42.6.QT98753.32 A6.K832.J.KQJT65 KT87.954.A642.A4 Q953.AQJT7.K.987"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "772927729255b4a56a4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  9
+N  C  2
+S NT  7
+S  S  7
+S  H  2
+S  D  9
+S  C  2
+E NT  5
+E  S  5
+E  H 11
+E  D  4
+E  C 10
+W NT  5
+W  S  6
+W  H 10
+W  D  4
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "S"]
+1D 1H 3D =1= 4D 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: mixed"]
+[Play "N"]
+D3 DJ DA DK 
+C2 C5 CA C8 
+C3 CQ C4 C7 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "7"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J42.6.QT98753.32 A6.K832.J.KQJT65 KT87.954.A642.A4 Q953.AQJT7.K.987"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "772927729255b4a56a4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  9
+N  C  2
+S NT  7
+S  S  7
+S  H  2
+S  D  9
+S  C  2
+E NT  5
+E  S  5
+E  H 11
+E  D  4
+E  C 10
+W NT  5
+W  S  6
+W  H 10
+W  D  4
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "S"]
+1D =1= 1H 3D 4D 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "N"]
+C3 CK CA C8 
+DT DJ DA DK 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "8"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ73.QJ.75.KQJ72 KT5.T9652.J.T984 J8.K74.AKQT943.6 9642.A83.862.A53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a97a9a97a82462424624"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  7
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  2
+E  S  4
+E  H  6
+E  D  2
+E  C  4
+W NT  2
+W  S  4
+W  H  6
+W  D  2
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1NT =1= Pass 2NT =2= 
+Pass 3C =3= Pass 4C =4= 
+Pass 4S =5= Pass 6D 
+Pass Pass Pass 
+[Note "1:  * 15-17 [0:07]"]
+[Note "2: diamonds or weakminors"]
+[Note "3:  * dont like [0:07]"]
+[Note "4:  * shortness [1:22]"]
+[Note "5:  * cue [0:05]"]
+[Play "W"]
+HA HJ HT H7 
+S9 S3 SK S8 
+CA C2 C4 C6 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "8"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ73.QJ.75.KQJ72 KT5.T9652.J.T984 J8.K74.AKQT943.6 9642.A83.862.A53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a97a9a97a82462424624"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  7
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  2
+E  S  4
+E  H  6
+E  D  2
+E  C  4
+W NT  2
+W  S  4
+W  H  6
+W  D  2
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1NT =1= Pass 2NT =2= 
+Pass 3C =3= Pass 4C =4= 
+Pass 4NT Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: D, can be 5-5 minors weak"]
+[Note "3: prefers clubs "]
+[Note "4: splinter"]
+[Play "E"]
+H5 H4 HA HJ 
+HT H7 H8 HQ 
+DJ DA D2 D5 
+-  C6 CA -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "9"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT9.3.AK6543.542 J842.QJ2.Q82.K76 73.AT9875.T97.AT AK65.K64.J.QJ983"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64895648956853768537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  8
+N  D  9
+N  C  5
+S NT  6
+S  S  4
+S  H  8
+S  D  9
+S  C  5
+E NT  6
+E  S  8
+E  H  5
+E  D  3
+E  C  7
+W NT  6
+W  S  8
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "N"]
+3D Pass Pass X 
+Pass 3S 4D Pass 
+Pass Pass 
+[Play "E"]
+HQ HA H6 H3 
+S2 S3 SK ST 
+C6 CA CQ C5 
+SJ S7 SA S9 
+C7 CT CJ C4 
+D2 D7 DJ DA 
+D8 D9 C3 DK 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "9"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT9.3.AK6543.542 J842.QJ2.Q82.K76 73.AT9875.T97.AT AK65.K64.J.QJ983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64895648956853768537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  8
+N  D  9
+N  C  5
+S NT  6
+S  S  4
+S  H  8
+S  D  9
+S  C  5
+E NT  6
+E  S  8
+E  H  5
+E  D  3
+E  C  7
+W NT  6
+W  S  8
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+DJ DA D2 D7 
+H6 H3 H2 HA 
+H4 C2 HJ HT 
+C9 C4 C7 CA 
+HK C5 HQ H8 
+CQ D3 C6 CT 
+C3 D4 CK H5 
+S5 D5 DQ D9 
+SK S9 S2 S3 
+SA -  -  -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "10"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:98.K9542.JT63.73 Q3.63.9875.AKQT4 JT652.AQ.AKQ4.98 AK74.JT87.2.J652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57783577836655a6655a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  8
+N  C  3
+S NT  5
+S  S  7
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C 10
+W NT  6
+W  S  6
+W  H  5
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+1C 1S X Pass 
+2C 2D 3C Pass 
+Pass Pass 
+[Play "S"]
+DA D2 D3 D5 
+C8 C2 C3 CT 
+D4 C5 D6 D7 
+S2 S4 S8 SQ 
+DQ CJ DT D8 
+C9 C6 C7 CA 
+S5 H7 H5 CK 
+DK H8 H4 CQ 
+HQ HT H2 C4 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "10"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:98.K9542.JT63.73 Q3.63.9875.AKQT4 JT652.AQ.AKQ4.98 AK74.JT87.2.J652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57783577836655a6655a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  8
+N  C  3
+S NT  5
+S  S  7
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C 10
+W NT  6
+W  S  6
+W  H  5
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+1C 1S X Pass 
+1NT Pass 2C Pass 
+Pass 2D Pass Pass 
+3C Pass Pass 3D 
+Pass Pass 4C Pass 
+Pass Pass 
+[Play "S"]
+DQ D2 D6 D9 
+DK C2 D3 D5 
+C8 C5 C3 CA 
+D4 C6 DT D8 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "11"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ7.KJ873.JT2.A3 95.AT54.K6.98764 AJ832.62.A543.J5 T64.Q9.Q987.KQT2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "89885898855345853458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H  8
+S  D  8
+S  C  5
+E NT  5
+E  S  3
+E  H  4
+E  D  5
+E  C  8
+W NT  5
+W  S  3
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+C9 CJ CQ CA 
+S5 S2 S4 SQ 
+S9 S3 S6 SK 
+H4 SA ST S7 
+H5 SJ D7 H7 
+D6 S8 H9 H3 
+DK DA D8 D2 
+HA H6 HQ HK 
+C8 C5 CT C3 
+C4 H2 CK H8 
+HT D3 DQ DJ 
+-  -  C2 DT 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "11"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ7.KJ873.JT2.A3 95.AT54.K6.98764 AJ832.62.A543.J5 T64.Q9.Q987.KQT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "89885898855345853458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H  8
+S  D  8
+S  C  5
+E NT  5
+E  S  3
+E  H  4
+E  D  5
+E  C  8
+W NT  5
+W  S  3
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "S"]
+1S Pass 2C =1= Pass 
+2D =2= Pass 2S =3= Pass 
+4S =4= Pass Pass Pass 
+[Note "1: 2+ GF"]
+[Note "2: 4+D, or min strength club raise"]
+[Note "3: 3 ♠"]
+[Note "4: min"]
+[Play "W"]
+S4 S7 S9 SJ 
+H9 HJ HA H6 
+S6 SQ S5 S2 
+HQ HK H5 H2 
+ST SK C6 S3 
+C2 H8 H4 C5 
+D7 H7 HT S8 
+D8 DJ DK D3 
+D9 D2 D6 DA 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "12"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AJ83.QJT2.T4 73.K95.654.AQJ52 KQJ9862.64.K93.7 4.QT72.A87.K9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "7a5937a5835273952739"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  9
+N  C  3
+S NT  7
+S  S 10
+S  H  5
+S  D  8
+S  C  3
+E NT  5
+E  S  2
+E  H  7
+E  D  3
+E  C  9
+W NT  5
+W  S  2
+W  H  7
+W  D  3
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1D 2C 2S 
+4S Pass 5C 5S 
+Pass Pass Pass 
+[Play "W"]
+CK C4 CQ C7 
+H2 HA H5 H6 
+S4 S5 S3 SK 
+C9 ST S7 S2 
+DA DQ D6 D3 
+H7 H3 HK H4 
+-  -  CA -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "12"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AJ83.QJT2.T4 73.K95.654.AQJ52 KQJ9862.64.K93.7 4.QT72.A87.K9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS 200"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "7a5937a5835273952739"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  9
+N  C  3
+S NT  7
+S  S 10
+S  H  5
+S  D  8
+S  C  3
+E NT  5
+E  S  2
+E  H  7
+E  D  3
+E  C  9
+W NT  5
+W  S  2
+W  H  7
+W  D  3
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "W"]
+1D =1= Pass 1NT =2= 2S 
+Pass 3H =3= Pass 3S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * maximum 12 , non inv hand [0:13]"]
+[Note "3: Limit raise"]
+[Play "W"]
+C3 CT CA C7 
+HQ HA H5 H4 
+S4 SA S7 S2 
+C9 S5 S3 SK 
+DA D2 D6 DK 
+CK -  -  -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "13"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J987.KQJ.K3.K987 A4.9752.Q8742.T3 KQ3.AT8.T65.A642 T652.643.AJ9.QJ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "8987a8987a4446344463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  7
+N  C 10
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C 10
+E NT  4
+E  S  4
+E  H  4
+E  D  6
+E  C  3
+W NT  4
+W  S  4
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 2C =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "E"]
+D4 D5 DA D3 
+D8 D6 D9 DK 
+SA S3 S2 S8 
+DQ DT DJ C7 
+D2 C2 H6 C8 
+D7 -  -  -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "13"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J987.KQJ.K3.K987 A4.9752.Q8742.T3 KQ3.AT8.T65.A642 T652.643.AJ9.QJ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "8987a8987a4446344463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  7
+N  C 10
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C 10
+E NT  4
+E  S  4
+E  H  4
+E  D  6
+E  C  3
+W NT  4
+W  S  4
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "N"]
+1D =1= Pass 2NT =2= Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 12-13"]
+[Play "W"]
+S2 S8 SA S3 
+-  -  D4 -  
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "14"]
+[West "Jim Krekorian#USAO739385"]
+[North "Sandra Rimstedt#USA8931372"]
+[East "Hemant Lall#USAO987737"]
+[South "Janice Molson#USAK216833"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A42.AKQJ7.643.AK 98763.T96.KQ7.92 JT5.53.A985.8753 KQ.842.JT2.QJT64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[HomeTeam "[2] Donner"]
+[VisitTeam "[1] Lall"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a8aa8a8aa83533535335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  8
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  3
+E  C  5
+W NT  3
+W  S  5
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+S9 SJ SQ SA 
+HT H3 H8 HA 
+H6 H5 H4 HK 
+H9 C3 H2 HQ 
+D7 D5 C4 HJ 
+C2 C5 C6 H7 
+S8 ST SK S4 
+*
+
+[Event "JLALL5 Final - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.24"]
+[Board "14"]
+[West "Brad Moss#USAR173862"]
+[North "Brian Platnick#USAN755387"]
+[East "Joe Grue#USAQ542341"]
+[South "John Diamond#USAR188363"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A42.AKQJ7.643.AK 98763.T96.KQ7.92 JT5.53.A985.8753 KQ.842.JT2.QJT64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[HomeTeam "[1] Lall"]
+[VisitTeam "[2] Donner"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a8aa8a8aa83533535335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  8
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  3
+E  C  5
+W NT  3
+W  S  5
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= 2C 3NT 
+Pass Pass Pass 
+[Note "1:  * strong [0:09]"]
+[Note "2: 0-7"]
+[Play "E"]
+C9 C3 C4 CK 
+H6 H3 H8 HK 
+H9 H5 H4 HA 
+HT C5 H2 HQ 
+S9 C7 C6 HJ 
+S8 D5 CT H7 
+S6 S5 SK SA 
+*

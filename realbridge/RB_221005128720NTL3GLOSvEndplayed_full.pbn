@@ -1,0 +1,2038 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "1"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:43.KT53.8543.872 AQJ5.QJ972.J7.JT T98.A64.AK92.K64 K762.8.QT6.AQ953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "43463434639a87a9a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  3
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,113,82,83,65,69,17,37,166,51,232,40,25,32,104,13,61,102,56,18,13,6,31,10,10,9,155,14,21,22,10,9,9,19,14,27,22,41,19,19,87,26,10,7
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2S Pass 2NT =1= 
+Pass 3H =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: Forcing"]
+[Note "2: Min w/4♠"]
+[Play "N"]
+D5 D7 DK D6 
+D3 DJ DA DQ 
+D4 H2 D9 DT 
+S3 SQ S8 S2 
+C7 CT C4 C3 
+C2 CJ C6 CQ 
+C8 H7 CK CA 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "1"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:43.KT53.8543.872 AQJ5.QJ972.J7.JT T98.A64.AK92.K64 K762.8.QT6.AQ953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "5"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "43463434639a87a9a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  3
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 4,0,3,124,54,429,174,183,94,93,171,63,36,63,70,166,51,39,291,42,15,41,12,73,13,62,18,22,8,8,11,25,10,5
+[Auction "N"]
+Pass 1H X =1= XX =2= 
+Pass Pass 1NT X 
+Pass Pass Pass 
+[Note "1: ♡"]
+[Note "2: 9+"]
+[Play "W"]
+C5 C7 CT CK 
+H8 HK H7 H4 
+S6 H3 H9 HA 
+D6 D3 D7 DA 
+DT D4 DJ DK 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "2"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:43.J86.J974.AT63 T87.K943.T6.Q975 KJ95.AQ7.A32.K42 AQ62.T52.KQ85.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "77787877875565655656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 5,2,1,50,163,81,148,21,84,30,256,20,49,22,160,303,51,39,18,29,8,6,9,38,15,5,43,35,6,15,8,22,10,12,9,72,16,12,46,11,29,9,406,31,12,10,10,27,18,43,6,11,68,8,6,15,11,8,8,9,24,7,6,7,9,5
+[Auction "E"]
+Pass 1C =1= X Pass 
+1H Pass Pass 2C 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+H5 H6 H9 HQ 
+D5 D4 D6 DA 
+DQ D7 DT D2 
+CJ C3 C5 CK 
+DK D9 ST D3 
+C8 CA C7 C2 
+D8 DJ S7 H7 
+H2 H8 H3 HA 
+S2 C6 C9 C4 
+S6 CT CQ S5 
+HT HJ HK S9 
+SQ S3 H4 SJ 
+SA S4 S8 SK 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "2"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:43.J86.J974.AT63 T87.K943.T6.Q975 KJ95.AQ7.A32.K42 AQ62.T52.KQ85.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "77787877875565655656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,92,154,56,62,26,215,208,50,75,34,56,20,11,64,24,12,23,72,26,18,70,505,35,33,82,32,20,27,42,210,72,10,11,295,76,17,12,81,19,16,56,13,13,40,10,15,15,9,31,14,14,12,9,16,5,20,16
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: gd14-av17, cannot rule out singleton"]
+[Play "W"]
+D5 D7 DT DA 
+DQ D4 D6 D3 
+S2 S3 ST SJ 
+DK D9 H4 D2 
+D8 DJ S7 C2 
+H2 H6 H3 HQ 
+SA S4 S8 SK 
+CJ C3 C5 CK 
+C8 CT CQ C4 
+S6 CA C9 S5 
+H5 C6 C7 S9 
+HT HJ H9 H7 
+SQ H8 HK HA 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "3"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8653.9743.Q743.4 QJT7.82.K52.KJ93 AK2.AKJ5.986.A72 94.QT6.AJT.QT865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1C"]
+[Result "5"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57875578757646876568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  7
+N  C  5
+S NT  5
+S  S  7
+S  H  8
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 0,2,1,155,86,336,138,59,167,51,33,15,34,11,17,17,22,7,9,7,53,7,9,12,20,20,9,70,22,7,7,88,37,8,15,9,48,13,21,28,40,11,31,24,13,8,6,22,24,5,9,9,11,9,5,7,6,9,5
+[Auction "S"]
+1C =1= Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+C6 C4 CK C2 
+S9 S3 SQ SA 
+S4 S5 S7 SK 
+H6 S6 ST S2 
+HQ H3 H8 HA 
+HT H4 H2 HK 
+C5 H7 D5 HJ 
+C8 H9 CJ CA 
+CT S8 D2 H5 
+CQ D3 C3 C7 
+DJ D4 DK D6 
+DT D7 C9 D8 
+DA DQ SJ D9 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "3"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8653.9743.Q743.4 QJT7.82.K52.KJ93 AK2.AKJ5.986.A72 94.QT6.AJT.QT865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57875578757646876568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  7
+N  C  5
+S NT  5
+S  S  7
+S  H  8
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,164,30,115,40,244,21,63,18,115,253,51,25,21,47,47,7,22,37,10,6,54,20,9,22,441,41,7,20,16,52,21,11,17,52,12,46,275,24,11,16,11,59,12,19,19,12,7,11,5,15,6,17,4,11,62,14,10,11,5,11
+[Auction "S"]
+1C =1= Pass 1D Pass 
+2NT =2= Pass Pass Pass 
+[Note "1: 3+"]
+[Note "2: gd17-19"]
+[Play "W"]
+C6 C4 CK CA 
+H6 H3 H8 HK 
+HT H4 H2 HA 
+HQ H7 C3 HJ 
+C5 S3 CJ C2 
+S4 S5 SQ SA 
+DT H9 C9 H5 
+S9 S6 ST SK 
+C8 S8 D2 C7 
+DA D3 D5 D6 
+CQ D4 S7 D8 
+CT D7 SJ D9 
+DJ DQ DK S2 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "4"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q82.KJ96.K7.AT76 AJ965.T53.62.J42 73.7.AQJ94.KQ953 KT4.AQ842.T853.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "765aa766aa3773137731"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D 10
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  7
+E  H  7
+E  D  3
+E  C  1
+W NT  3
+W  S  7
+W  H  7
+W  D  3
+W  C  1
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,2,1,42,171,14,63,56,67,53,129,37,143,48,51,101,51,23,12,32,95,16,26,32,8,12,12,62,32,28
+[Auction "W"]
+Pass 1C =1= Pass 1D 
+1H Pass 2H 3C 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+H3 H7 HA H6 
+SA S3 S4 SQ 
+S5 S7 SK S2 
+C2 C9 C8 C6 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "4"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q82.KJ96.K7.AT76 AJ965.T53.62.J42 73.7.AQJ94.KQ953 KT4.AQ842.T853.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "765aa766aa3773137731"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D 10
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  7
+E  H  7
+E  D  3
+E  C  1
+W NT  3
+W  S  7
+W  H  7
+W  D  3
+W  C  1
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 20,0,3,72,72,42,632,38,208,133,288,40,176,33,367,33,143,111,40,33,468,101,51,12,22,23,10,21,15,19,12,8,48
+[Auction "W"]
+Pass 1C Pass 2C =1= 
+Pass 2D =2= Pass 3H =3= 
+Pass 3NT Pass 4D =4= 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: GF, 4+♣"]
+[Note "2: weak nt * +4 clubs [0:17]"]
+[Note "3: shortage"]
+[Note "4: cue"]
+[Play "E"]
+SA S3 ST S2 
+S5 S7 SK S8 
+H3 H7 HA H6 
+-  -  C8 -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "5"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT5.983.JT86.762 AJ942.4.9732.854 K6.AJT72.Q4.QT93 873.KQ65.AK5.AKJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "3254433544aa899aa899"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  4
+N  C  4
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  4
+E NT 10
+E  S 10
+E  H  8
+E  D  9
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,78,26,75,46,64,49,37,65,37,70,27,17,40,93,19,24,32,51,101,50,28,11,42,10,19,8,37,12,11,78,18,29,8,7,28,21,40,9,34,6,7,6,18,6,8,42,24,10,8,22,14,15,32,26,27,11,16,5,22,5,12,4,15,4,7,6,9,5,5
+[Auction "N"]
+Pass Pass 1H X 
+Pass 2S Pass 2NT 
+Pass 3S Pass 4C =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * cue [0:14]"]
+[Play "S"]
+DQ DK D6 D7 
+S6 S3 S5 SA 
+HA H6 H9 H4 
+SK S7 ST S2 
+D4 DA D8 D2 
+H2 HQ H3 D3 
+H7 HK H8 D9 
+HT S8 SQ S4 
+C3 D5 DJ S9 
+C9 H5 DT SJ 
+CT CA C6 C4 
+CQ CK C7 C5 
+HJ CJ C2 C8 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "5"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT5.983.JT86.762 AJ942.4.9732.854 K6.AJT72.Q4.QT93 873.KQ65.AK5.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "3254433544aa899aa899"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  4
+N  C  4
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  4
+E NT 10
+E  S 10
+E  H  8
+E  D  9
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 9,0,3,97,79,119,223,105,90,55,30,43,30,128,51,270,51,105,75,13,576,39,15,89,26,105,29,34,12,17,59,21,15,54,39,9,81,31,14,40,17,26,50
+[Auction "N"]
+Pass Pass 1H =1= X 
+Pass 2S Pass 2NT 
+Pass Pass Pass 
+[Note "1: (4)5+"]
+[Play "N"]
+H3 H4 HJ HQ 
+SQ S2 S6 S7 
+H9 C4 H2 H5 
+H8 D2 HA H6 
+C7 D3 H7 HK 
+S5 SJ SK S3 
+ST D7 HT D5 
+-  -  D4 -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "6"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K4.QT65.A754.AT9 J832.K92.8.J7654 76.A8.KJT962.Q83 AQT95.J743.Q3.K2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a68b8a68b82752527525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S  6
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  7
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  7
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 21,2,1,53,91,36,126,214,79,44,69,10,52,100,148,23,21,33,6,18,101,55,8,49,11,16,12,16,10,22,9,6,24,12,13,12,39,12,11,12,10,18,8,5
+[Auction "E"]
+Pass Pass 1S X 
+4S 5D Pass Pass 
+Pass 
+[Play "W"]
+SA S4 S2 S7 
+CK CA C7 C3 
+S5 SK S8 S6 
+D3 D4 D8 DK 
+DQ DA S3 DJ 
+C2 C9 C4 C8 
+S9 CT C5 CQ 
+H3 H5 H2 HA 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "6"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K4.QT65.A754.AT9 J832.K92.8.J7654 76.A8.KJT962.Q83 AQT95.J743.Q3.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a68b8a68b82752527525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S  6
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  7
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  7
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,88,150,146,58,36,64,68,55,39,71,50,591,27,67,21,154,124,76,27,97,13,13,4,34,15,24,35,26,206,19,100,24,54,30,43,51,28,79,7,32,45,163,26,524,34,22,26,46,32,7,7,9,57,24,21,14,14,12,6,46,10,17,7,15,7,7,7
+[Auction "E"]
+Pass 1D =1= 1S X 
+2S Pass Pass X 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 4+ unless 4432"]
+[Play "E"]
+S2 S6 SQ SK 
+D8 D2 D3 DA 
+C4 DK DQ D4 
+C5 DJ ST D5 
+C6 DT SA D7 
+C7 D9 S9 C9 
+CJ D6 S5 S4 
+H2 C3 C2 CA 
+S3 C8 CK CT 
+HK HA H3 HT 
+S8 CQ H4 H5 
+H9 H8 H7 HQ 
+SJ S7 HJ H6 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "7"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AT4.94.KT96.A854 J976.T.A743.T972 2.AKJ8532.QJ2.KJ KQ853.Q76.85.Q63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85b9785ba74723547235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D  9
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 10
+S  C  7
+E NT  4
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  4
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,81,82,77,30,59,106,72,11,52,108,51,9,20,19,20,21,10,37,8,9
+[Auction "S"]
+1H 1S X 3S 
+4H Pass Pass Pass 
+[Play "W"]
+SK SA S6 S2 
+H6 H4 HT HA 
+H7 H9 S7 HK 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "7"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AT4.94.KT96.A854 J976.T.A743.T972 2.AKJ8532.QJ2.KJ KQ853.Q76.85.Q63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85b9785ba74723547235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D  9
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 10
+S  C  7
+E NT  4
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  4
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,222,45,176,71,195,35,51,27,51,184,51,13,63,16,27,19,9,14,9,15
+[Auction "S"]
+1H =1= Pass 1NT =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 5+♡"]
+[Note "2: up to 11"]
+[Play "W"]
+SK SA S9 S2 
+H6 H4 HT HA 
+H7 H9 S7 HK 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "8"]
+[West "Dan McIntosh#410606"]
+[North "Simon Richards#41896"]
+[East "Rob Myers#403194"]
+[South "Mark Roderick#471320"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ8765.2.6.A6432 AK3.K765.KT85.Q9 T.AQJ9.J7432.K75 942.T843.AQ9.JT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "6966a6966a7376373762"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C 10
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C 10
+E NT  7
+E  S  3
+E  H  7
+E  D  6
+E  C  3
+W NT  7
+W  S  3
+W  H  7
+W  D  6
+W  C  2
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,42,83,200,46,58,53,101,51,17,9,33,19,37,47,25,11,10,12,29,7,21,254,27,30,8,127,34,9,38,19,33,40,7,55,12
+[Auction "W"]
+Pass 2S =1= Pass Pass 
+Pass 
+[Note "1: Weak"]
+[Play "E"]
+D5 D2 DA D6 
+CQ CK CJ C2 
+SA ST S4 S5 
+C9 C5 CT CA 
+SK D3 S2 SQ 
+D8 D4 D9 S6 
+S3 H9 S9 SJ 
+H5 -  -  C3 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "8"]
+[West "Simon Edwards#404687"]
+[North "Garry Watson#70752"]
+[East "Paddy Murphy#116285"]
+[South "Patrick Shields#39066"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ8765.2.6.A6432 AK3.K765.KT85.Q9 T.AQJ9.J7432.K75 942.T843.AQ9.JT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "6966a6966a7376373762"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C 10
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C 10
+E NT  7
+E  S  3
+E  H  7
+E  D  6
+E  C  3
+W NT  7
+W  S  3
+W  H  7
+W  D  6
+W  C  2
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,48,492,82,260,73,415,41,1320,28,51,158,51,12,20,49,14,25,19,18,10,34,68,23,13,34,19,20,26,11,66,24,9,76,182,17,12,11,17,20,13,7,38,22,17,9,12,10,10,19
+[Auction "W"]
+Pass 2D =1= X 2S =2= 
+Pass 3S Pass Pass 
+Pass 
+[Note "1: multi"]
+[Note "2: p/c, willing to compete in ♡"]
+[Play "W"]
+CJ CA C9 C5 
+H4 H2 H5 HQ 
+H3 D6 H6 HA 
+S2 S5 SK ST 
+C8 C2 CQ CK 
+CT C3 H7 C7 
+H8 S6 HK H9 
+S4 SQ SA D2 
+D9 S7 DK D3 
+S9 SJ S3 D4 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "9"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKJT2.K93.T2.975 Q64.Q764.A84.862 9.A.KQ9763.AKQJ4 8753.JT852.J5.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "ca7ccca7cc1261112611"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  7
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  7
+S  D 12
+S  C 12
+E NT  1
+E  S  2
+E  H  6
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  6
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 26,1,3,101,299,106,35,43,61,28,26,70,29,38,24,62,30,89,23,51,24,69,22,83,39,42,37,132,20,51,102,51,37,12,25,9,20,9,30,10,25,9,20,19,20,81,23,14,10,20,20,21,16,24
+[Auction "N"]
+1S Pass 2D =1= Pass 
+2S Pass 3C Pass 
+3NT Pass 4C Pass 
+4D Pass 4H =2= Pass 
+4S =3= Pass 4NT =4= Pass 
+5C =5= Pass 6D Pass 
+Pass Pass 
+[Note "1: GF"]
+[Note "2: cue"]
+[Note "3: Alerted"]
+[Note "4: kc"]
+[Note "5: 4/1"]
+[Play "W"]
+HJ H3 H6 HA 
+S5 SA S4 S9 
+H2 HK H4 C4 
+DJ DT D4 D3 
+HT H9 H7 D6 
+D5 D2 DA DK 
+-  -  C2 -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "9"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKJT2.K93.T2.975 Q64.Q764.A84.862 9.A.KQ9763.AKQJ4 8753.JT852.J5.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "ca7ccca7cc1261112611"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  7
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  7
+S  D 12
+S  C 12
+E NT  1
+E  S  2
+E  H  6
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  6
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 25,2,0,71,27,144,237,277,23,186,26,114,33,483,37,254,41,46,67,97,21,254,118,51,13,240,30,10,33,10,47,22,24,281,36,8,10,19,28,17,11,242,94,21,33,279,92,14,12,34,14,9,20,10,38,9,23,10
+[Auction "N"]
+1S Pass 2D =1= Pass 
+2NT =2= Pass 3C =3= Pass 
+3H Pass 4C Pass 
+4S Pass 6C Pass 
+Pass Pass 
+[Note "1: GF"]
+[Note "2: 11 - 13"]
+[Note "3:  * enquiry  [0:19]"]
+[Play "W"]
+HJ H3 H4 HA 
+S3 SA S4 S9 
+D5 D2 D8 DK 
+C3 C5 C2 CA 
+DJ DT D4 D3 
+H5 H9 HQ C4 
+CT C7 C6 CK 
+H8 C9 DA D6 
+S5 S2 S6 CJ 
+-  -  -  CQ 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "10"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A5.Q9742.K8.T532 83.T5.AQJT92.Q74 QJ9742.6.7543.J8 KT6.AKJ83.6.AK96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1531215312b8abac8acb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  3
+N  D  1
+N  C  2
+S NT  1
+S  S  5
+S  H  3
+S  D  1
+S  C  2
+E NT 11
+E  S  8
+E  H 10
+E  D 11
+E  C 10
+W NT 12
+W  S  8
+W  H 10
+W  D 12
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,1,3,67,78,202,30,187,187,1140,102,56,101,50,61,676,37,32,16,24,79,9,6,12,14,13,27,24,29,7,5
+[Auction "E"]
+3D Pass 3H Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+SQ SK SA S3 
+SJ S6 S5 S8 
+CJ CA C2 C4 
+D3 D6 D8 DQ 
+D4 H3 DK DA 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "10"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A5.Q9742.K8.T532 83.T5.AQJT92.Q74 QJ9742.6.7543.J8 KT6.AKJ83.6.AK96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1531215312b8abac8acb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  3
+N  D  1
+N  C  2
+S NT  1
+S  S  5
+S  H  3
+S  D  1
+S  C  2
+E NT 11
+E  S  8
+E  H 10
+E  D 11
+E  C 10
+W NT 12
+W  S  8
+W  H 10
+W  D 12
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,0,296,193,365,108,42,30,153,84,13,18,95,147,51,12,93,17,13,19,179,36,38,19,120,99,19,10,18,19,13,17,10,14,10,24,10,24,11,4,23,18,11,9,15,26,12,5,17,26,14,13,14,20,10,4
+[Auction "E"]
+1D 1S 2H =1= Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Note "1: 5+, F1"]
+[Play "N"]
+SA S3 S2 S6 
+S5 S8 SJ ST 
+HQ H5 H6 H3 
+C2 CQ C8 C6 
+H2 HT S4 H8 
+C3 C4 CJ CA 
+H4 D2 S7 HA 
+H7 D9 D3 HK 
+H9 DT S9 HJ 
+C5 DJ SQ SK 
+CT C7 D4 CK 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "11"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ7.A62.A642.T97 A86.QJT85.J.AJ65 QT32.943.KQT.843 954.K7.98753.KQ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "46453464536696966969"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  3
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  3
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  9
+W NT  6
+W  S  6
+W  H  9
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,1,3,57,77,99,67,79,81,190,41,47,257,37,108,128,51,101,51,9,168,39,6,44,51,23,9,6,16,32,11,24,32,68,12,16,27,15,6,13,12,24,7,6
+[Auction "S"]
+Pass Pass 1C =1= 1H 
+X =2= Pass 1S =3= Pass 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: nat/bal"]
+[Note "2: +♠"]
+[Note "3: 11-14 (1)2-3♠"]
+[Play "S"]
+DK D3 D2 DJ 
+DQ D5 D6 S6 
+C8 CK CT C5 
+H3 HK HA H5 
+DT D7 D4 S8 
+S2 S4 SK SA 
+H4 H7 H2 HQ 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "11"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ7.A62.A642.T97 A86.QJT85.J.AJ65 QT32.943.KQT.843 954.K7.98753.KQ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "46453464536696966969"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  3
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  3
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  9
+W NT  6
+W  S  6
+W  H  9
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,87,110,116,44,58,81,251,28,70,149,50,101,51,16,28,52,63,23,28,174,23,10,64,69,14,22,93,23,15,33,56,29,13,12,54,10,14,12,97,26,22
+[Auction "S"]
+Pass Pass 1C =1= 1H 
+X Pass 1NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+HQ H3 HK H2 
+H5 H4 H7 HA 
+S8 S2 S9 SJ 
+S6 S3 S4 SK 
+DJ DK D8 D2 
+C5 DQ D3 D4 
+C6 DT D5 D6 
+-  C4 C2 CT 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "12"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT765.K5.A762.Q8 KJ.QJT.J85.AT642 .8642.KT93.K9753 A98432.A973.Q4.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "65687656877874678756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  6
+S  D  8
+S  C  7
+E NT  7
+E  S  8
+E  H  7
+E  D  4
+E  C  6
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,1,3,154,41,31,37,36,125,77,34,35,24,21,17,20,28,32,53,15,327,102,51,11,22,23,7,14,53,28,133,108,193,33,17,13,88,19,10,21,20,11,10,22,30,13,15,38,339,33,32,7,136,47,38,14,6,19,9,11,41,28,11,8,5
+[Auction "W"]
+1S Pass 2C Pass 
+2H Pass 3D =1= Pass 
+3S Pass 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: 4TH"]
+[Play "N"]
+DA D5 D3 D4 
+D2 D8 DK DQ 
+CQ CA C3 CJ 
+HK HT H2 H3 
+H5 HJ H4 H7 
+C8 C2 C5 S2 
+S5 SJ H6 S3 
+D6 DJ D9 H9 
+ST C4 C7 S8 
+S6 SK DT S4 
+S7 HQ H8 HA 
+D7 -  -  -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "12"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT765.K5.A762.Q8 KJ.QJT.J85.AT642 .8642.KT93.K9753 A98432.A973.Q4.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "65687656877874678756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  6
+S  D  8
+S  C  7
+E NT  7
+E  S  8
+E  H  7
+E  D  4
+E  C  6
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,2,0,162,62,95,50,26,55,169,35,184,41,25,27,118,84,89,140,51,20,20,16,14,10,33,261,60,13,146,24,10,12,10,8,21,16,12,20,14,7,924,20,12,22,78,33,66,33,102,18,10,42,34,39,7,13,18,23,10,7,9,22,13,4,11,9,10,6
+[Auction "W"]
+1S =1= Pass 2C =2= Pass 
+2H Pass 3D =3= Pass 
+3S =4= Pass 4S Pass 
+Pass Pass 
+[Note "1: 5+♠"]
+[Note "2: nat gf"]
+[Note "3: fs"]
+[Note "4:  * shows 6, 3♡ bid if stuck [0:17]"]
+[Play "N"]
+DA D5 D3 D4 
+D2 D8 DK DQ 
+D7 DJ D9 H3 
+C8 CA C3 CJ 
+CQ C2 C5 S4 
+S5 SJ H8 S3 
+HK HQ H6 H7 
+S6 SK H2 S2 
+ST C4 C7 S8 
+D6 C6 DT S9 
+S7 CT C9 SA 
+H5 HT H4 HA 
+SQ HJ CK H9 
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "13"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J6.A.T965.987542 KQ7.J653.AK2.AJ6 A52.K8742.Q743.T T9843.QT9.J8.KQ3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "33566335669785697856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  6
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  6
+S  C  6
+E NT  9
+E  S  7
+E  H  8
+E  D  5
+E  C  6
+W NT  9
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,1,3,35,46,82,84,18,36,68,283,21,42,22,126,23,98,23,172,159,51,39,271,22,27,10,30,19,22,7,19,35,7,19,5,38,8,48,9,19,49,16,4,17,17,26,9,19,10,12
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2NT =1= Pass 3C =2= 
+Pass 3S =3= Pass 4S 
+Pass Pass Pass 
+[Note "1:  * 18-BAD20 [0:11]"]
+[Note "2: chk back"]
+[Note "3:  * 4♡ 3♠ [0:23]"]
+[Play "N"]
+DT DA D3 D8 
+C2 C6 CT CK 
+S6 SK SA S3 
+HA H3 H2 HT 
+C9 CJ S2 C3 
+C8 H5 HK H9 
+SJ H6 H4 HQ 
+C4 CA S5 CQ 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "13"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J6.A.T965.987542 KQ7.J653.AK2.AJ6 A52.K8742.Q743.T T9843.QT9.J8.KQ3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "33566335669785697856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  6
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  6
+S  C  6
+E NT  9
+E  S  7
+E  H  8
+E  D  5
+E  C  6
+W NT  9
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,2,0,107,87,71,270,314,121,51,63,51,209,25,65,37,50,170,51,11,70,142,8,10,20,12,31,15,10,25,57,10,9,15,30,16,34,22,10,27,28
+[Auction "N"]
+Pass 1C 1H 1S =1= 
+Pass 2NT Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 5+♠"]
+[Play "N"]
+HA H3 H2 HQ 
+C9 CA CT C3 
+S6 SK SA S3 
+C8 H5 HK HT 
+SJ H6 H4 H9 
+C2 C6 S2 CQ 
+-  -  H7 -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "14"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A54.AJ9.AT95.KT6 J8.53.KJ43.A9842 Q6.K87642.862.Q5 KT9732.QT.Q7.J73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "95a8695a863734637346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  8
+N  C  6
+S NT  9
+S  S  5
+S  H 10
+S  D  8
+S  C  6
+E NT  3
+E  S  7
+E  H  3
+E  D  4
+E  C  6
+W NT  3
+W  S  7
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,64,24,209,40,44,41,16,73,129,40,65,38,30,105,102,50,19,13,35,10,15,9,15,15,14,41,30,6,11,14,19,11,13,10,18,10,25,24
+[Auction "E"]
+Pass Pass 2S =1= X 
+Pass 3H Pass 3S =2= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 5-9 Spades"]
+[Note "2: Alerted"]
+[Play "W"]
+ST S4 SJ SQ 
+HT HA H3 H2 
+HQ HJ H5 H4 
+SK SA S8 S6 
+C3 C6 C2 CQ 
+C7 CT CA C5 
+-  -  C4 -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "14"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A54.AJ9.AT95.KT6 J8.53.KJ43.A9842 Q6.K87642.862.Q5 KT9732.QT.Q7.J73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "95a8695a863734637346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  8
+N  C  6
+S NT  9
+S  S  5
+S  H 10
+S  D  8
+S  C  6
+E NT  3
+E  S  7
+E  H  3
+E  D  4
+E  C  6
+W NT  3
+W  S  7
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,107,138,117,111,125,249,52,84,17,61,71,373,33,105,114,313,16,113,33,19,17,11,19,8,22,10,24,6,7,9,24,8,7,18,11,68,12,99,19,7,26,7,15,9,17,7,13,9,25,16
+[Auction "E"]
+Pass Pass 1S =1= 1NT 
+X Pass 2S Pass 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: (4)5+"]
+[Play "W"]
+C3 C6 CA C5 
+SK SA SJ SQ 
+C7 CT C2 CQ 
+HQ H9 H3 HK 
+HT HJ H5 H2 
+CJ CK C4 S6 
+S2 S4 S8 H4 
+D7 DA D3 D2 
+DQ D5 D4 D6 
+ST -  -  -  
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "15"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT8.J852.6.AT974 75.K9764.853.KJ5 963.T.KQJT74.Q63 KQJ42.AQ3.A92.82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "2228722277a9a5689a56"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  8
+N  C  7
+S NT  2
+S  S  2
+S  H  2
+S  D  7
+S  C  7
+E NT 10
+E  S  9
+E  H 10
+E  D  5
+E  C  6
+W NT  8
+W  S  9
+W  H 10
+W  D  5
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 8,1,3,99,115,32,44,39,50,405,52,13,38,13,47,18,8,20,15,10,9,191,45,14,15,10,8,24,6,17,19,43,9,30,22,7,9,86,27,23,11,16,25,4,17,16,8,22
+[Auction "S"]
+2D =1= 2S Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "N"]
+D6 D3 DT D2 
+S8 D5 DJ DA 
+CA C5 C3 C2 
+C4 CJ CQ C8 
+ST D8 DK D9 
+C7 CK C6 H3 
+SA S5 S6 SK 
+CT H4 S3 S4 
+H2 S7 S9 SQ 
+H5 H6 D4 SJ 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "15"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT8.J852.6.AT974 75.K9764.853.KJ5 963.T.KQJT74.Q63 KQJ42.AQ3.A92.82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "2228722277a9a5689a56"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  8
+N  C  7
+S NT  2
+S  S  2
+S  H  2
+S  D  7
+S  C  7
+E NT 10
+E  S  9
+E  H 10
+E  D  5
+E  C  6
+W NT  8
+W  S  9
+W  H 10
+W  D  5
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 8,2,0,365,238,100,18,46,50,169,50,13,16,113,11,15,150,22,18,9,29,11,15,10,14,12,23,20,12,22,12,7,26,60,17,4,57,36,41,4,11,26,9,6,11,15,9,6
+[Auction "S"]
+2D =1= 2S Pass Pass 
+Pass 
+[Note "1: weak "]
+[Play "N"]
+D6 D3 DT DA 
+SA S5 S3 SK 
+CA C5 C3 C2 
+C4 CK C6 C8 
+S8 S7 S6 SJ 
+ST D5 S9 SQ 
+C7 D8 D4 S4 
+C9 CJ D7 S2 
+H2 H4 HT HA 
+H5 H6 DJ HQ 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "16"]
+[West "Simon Edwards#404687"]
+[North "Rob Myers#403194"]
+[East "Paddy Murphy#116285"]
+[South "Dan McIntosh#410606"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q8.AT62.KQ86.KQT AJT42.9.AJ74.A72 9753.J754.T53.J6 K6.KQ83.92.98543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54653446538878a8878a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  3
+E NT  8
+E  S  8
+E  H  7
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,1,3,191,83,192,106,169,53,36,32,23,32,22,97,101,51,13,270,16,22,8,51,23,49,20,13,20,28,13,17,23,10,10,19,19,27,11,17,17,6,8,16,15,9,5,14,30,12
+[Auction "W"]
+Pass 1NT =1= 2S =2= Pass 
+Pass X =3= Pass 3H 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: ♠+ MINOR"]
+[Note "3: Alerted"]
+[Play "W"]
+SK S8 ST S3 
+S6 SQ SA S5 
+D9 H2 SJ S7 
+C3 CT CA C6 
+D2 D6 DA D3 
+H3 D8 D4 DT 
+C4 CQ C2 CJ 
+H8 HA H9 H4 
+-  H6 S2 H5 
+*
+
+[Event "NTL3 GLOS v Endplayed"]
+[Site "RealBridge"]
+[Date "2022.10.05"]
+[Board "16"]
+[West "Patrick Shields#39066"]
+[North "Simon Richards#41896"]
+[East "Garry Watson#70752"]
+[South "Mark Roderick#471320"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q8.AT62.KQ86.KQT AJT42.9.AJ74.A72 9753.J754.T53.J6 K6.KQ83.92.98543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "6"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Endplayed"]
+[VisitTeam "GLOS"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54653446538878a8878a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  3
+E NT  8
+E  S  8
+E  H  7
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,2,0,197,102,212,91,36,186,32,110,42,91,17,295,152,140,30,37,39,9,20,46,79,7,47,77,222,14,20,11,22,20,7,73,11,96,8,27,16,10,8,21,130,31,8,16,14,6,14,7,18,13,17,13,10,11
+[Auction "W"]
+Pass 1NT =1= 2S =2= Pass 
+Pass X Pass 3H 
+Pass Pass Pass 
+[Note "1: 14 - 16"]
+[Note "2: S + m"]
+[Play "W"]
+D9 DK D4 D5 
+C8 CK C7 C6 
+C5 CT C2 CJ 
+SK S8 S2 S3 
+D2 D6 DJ DT 
+C4 D8 DA D3 
+S6 SQ SA S5 
+HK DQ D7 HJ 
+C3 CQ CA H4 
+H3 HA H9 H5 
+-  H2 S4 H7 
+*

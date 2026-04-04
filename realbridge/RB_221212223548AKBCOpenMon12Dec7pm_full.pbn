@@ -1,0 +1,8321 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "1"]
+[West "Jillian Ramsey#10632"]
+[North "Peter Ramsey#43711"]
+[East "Pamela Jensen#31703"]
+[South "Sharon Mosley#64879"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q95.J5.8.KT97653 A8632.3.AQ7542.4 T4.AKQ984.KJ.AQJ KJ7.T762.T963.82"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "13"]
+[Score "NS 440"]
+[Table "4"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "a4a4aa4a4a0909009090"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT 10
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  0
+E  S  9
+E  H  0
+E  D  9
+E  C  0
+W NT  0
+W  S  9
+W  H  0
+W  D  9
+W  C  0
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 20,6,7,502,245,147,134,54,247,50,137,59,20,39,21,12,17,18,28,9,22,59,56,20,21
+[Auction "N"]
+3C Pass 5C Pass 
+Pass Pass 
+[Play "E"]
+H3 H4 H7 HJ 
+C4 CA C2 C3 
+S2 CQ C8 C5 
+S3 HA HT H5 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "1"]
+[West "Cheryl Winsor#10588"]
+[North "Margaret Fraser#16117"]
+[East "Faisal Alam#26807"]
+[South "John Lory#16275"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q95.J5.8.KT97653 A8632.3.AQ7542.4 T4.AKQ984.KJ.AQJ KJ7.T762.T963.82"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "13"]
+[Score "NS 440"]
+[Table "3"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "a4a4aa4a4a0909009090"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT 10
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  0
+E  S  9
+E  H  0
+E  D  9
+E  C  0
+W NT  0
+W  S  9
+W  H  0
+W  D  9
+W  C  0
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 20,4,5,229,130,303,88,121,34,177,47,55,105,40,23,55,15,20,11,61,31,17,13,54,9,14,11,24,9,14,12,29,7,13,14,22,8,12,12,22,6,39,26
+[Auction "N"]
+3C 3S 4NT Pass 
+5C Pass Pass Pass 
+[Play "E"]
+H3 H4 H6 HJ 
+C4 CA C2 C3 
+D2 CQ C8 C5 
+D4 HA H2 H5 
+S2 HK H7 D8 
+S3 HQ HT S5 
+D5 H9 D3 S9 
+S6 H8 D6 SQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "1"]
+[West "Bruce Inglis#5111"]
+[North "Marsha Woodbury#18623"]
+[East "Alan Currie#1436"]
+[South "Sita Monaghan#54890"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q95.J5.8.KT97653 A8632.3.AQ7542.4 T4.AKQ984.KJ.AQJ KJ7.T762.T963.82"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "2"]
+[ScoreIMP "NS -1.75 EW 1.75"]
+[DoubleDummyTricks "a4a4aa4a4a0909009090"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT 10
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  0
+E  S  9
+E  H  0
+E  D  9
+E  C  0
+W NT  0
+W  S  9
+W  H  0
+W  D  9
+W  C  0
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 23,2,3,121,176,202,91,18,51,41,167,23,17,24,18,20,23,36,65,27,27,19,23,9,29,73,22,23,22,17,50,21,23,98,26,24,10,45,18,17,15,31,19,20,8,19,23,7,19,18
+[Auction "N"]
+3C 3S 5C Pass 
+Pass 5D X 5S 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+HA H2 H5 H3 
+HK H6 HJ S2 
+S4 SJ SQ S3 
+DJ D3 D8 DA 
+ST SK S5 S6 
+H4 S7 S9 SA 
+DK D6 C3 D2 
+CA C2 C5 C4 
+CQ -  -  -  
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "1"]
+[West "Sylvester Riddell *#14427"]
+[North "Beverley Morris 🐘#24081"]
+[East "Rae Cameron *#22165"]
+[South "Jessica Morris#37607"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q95.J5.8.KT97653 A8632.3.AQ7542.4 T4.AKQ984.KJ.AQJ KJ7.T762.T963.82"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "5"]
+[ScoreIMP "NS 2.00 EW -2.00"]
+[DoubleDummyTricks "a4a4aa4a4a0909009090"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT 10
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  0
+E  S  9
+E  H  0
+E  D  9
+E  C  0
+W NT  0
+W  S  9
+W  H  0
+W  D  9
+W  C  0
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 17,8,9,340,615,110,35,35,52,215,83,198,92,61,32,65,35,11,29,41,27,21,27,129,33,35,32,40,20,22,27,24,31,24,25,84,13,25,26,27,13,30,66
+[Auction "N"]
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+D3 D8 DA DJ 
+S7 S5 SA S4 
+SK S9 S2 ST 
+C8 C3 C4 CA 
+H2 HJ H3 H4 
+H6 H5 D2 HA 
+H7 C5 D4 HK 
+HT C6 S8 HQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "1"]
+[West "Kathryn Brookes#63510"]
+[North "Dong Gao Bi#36392"]
+[East "Richard Brookes#70317"]
+[South "Arch Jelley#18787"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q95.J5.8.KT97653 A8632.3.AQ7542.4 T4.AKQ984.KJ.AQJ KJ7.T762.T963.82"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "8"]
+[Score "NS 150"]
+[Table "1"]
+[ScoreIMP "NS -6.25 EW 6.25"]
+[DoubleDummyTricks "a4a4aa4a4a0909009090"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT 10
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  0
+E  S  9
+E  H  0
+E  D  9
+E  C  0
+W NT  0
+W  S  9
+W  H  0
+W  D  9
+W  C  0
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 23,0,1,233,213,162,74,14,187,39,70,22,19,32,74,201,46,17,38,24,7,25,127,26,10,26,22,31,21,18,317,27,62,15,31,24,7,155,48,27,18,6,193,21,15,25,96,229,11,41,40,61,16,24,59,18,8,7,13,19,9,5,11,7,8,17
+[Auction "N"]
+3C 3S 4H Pass 
+Pass 5D Pass 5S 
+Pass Pass Pass 
+[Play "S"]
+HA H2 H5 H3 
+HK H6 HJ S2 
+S4 S7 S5 SA 
+ST SJ SQ S3 
+CJ C2 C6 C4 
+CA C8 C3 S6 
+DJ D3 D8 DA 
+DK DT C5 D4 
+H4 HT S9 D2 
+CQ H7 CK S8 
+H8 D6 C7 DQ 
+H9 D9 C9 D5 
+HQ SK CT D7 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "2"]
+[West "Cheryl Winsor#10588"]
+[North "Margaret Fraser#16117"]
+[East "Faisal Alam#26807"]
+[South "John Lory#16275"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:976.7632.J5.AT62 A.KT95.QT62.K975 KJT432.QJ.973.84 Q85.A84.AK84.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "3"]
+[ScoreIMP "NS -3.00 EW 3.00"]
+[DoubleDummyTricks "1611116111b7bcbb7bcb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  1
+N  D  1
+N  C  1
+S NT  1
+S  S  6
+S  H  1
+S  D  1
+S  C  1
+E NT 11
+E  S  7
+E  H 11
+E  D 12
+E  C 11
+W NT 11
+W  S  7
+W  H 11
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,4,5,195,74,139,97,43,28,43,33,15,37,31,25,12,22,32,35,51,25,15,25,19,18,89,26,22,10,18,17,16,15,43,26,18,10,20,63,21,13,171,27,22,10,28,12,22,16,52,24,14,12,175,21,18,8,13,13,7,8
+[Auction "E"]
+1D 1S 3NT Pass 
+Pass Pass 
+[Play "N"]
+S9 SA S2 S5 
+CA C5 C8 CJ 
+S7 H5 SK S8 
+S6 H9 SJ SQ 
+D5 DQ D3 D4 
+DJ D2 D7 DK 
+H2 DT D9 D8 
+C2 D6 C4 DA 
+H3 HK HQ H4 
+H6 HT HJ HA 
+C6 C7 S3 CQ 
+H7 C9 S4 H8 
+CT CK ST C3 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "2"]
+[West "Jillian Ramsey#10632"]
+[North "Peter Ramsey#43711"]
+[East "Pamela Jensen#31703"]
+[South "Sharon Mosley#64879"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:976.7632.J5.AT62 A.KT95.QT62.K975 KJT432.QJ.973.84 Q85.A84.AK84.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "4"]
+[ScoreIMP "NS -1.75 EW 1.75"]
+[DoubleDummyTricks "1611116111b7bcbb7bcb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  1
+N  D  1
+N  C  1
+S NT  1
+S  S  6
+S  H  1
+S  D  1
+S  C  1
+E NT 11
+E  S  7
+E  H 11
+E  D 12
+E  C 11
+W NT 11
+W  S  7
+W  H 11
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,6,7,238,185,150,116,114,30,75,212,24,29,135,53,19,11,33,32,7,33,191,20,20,26,108,19,19,90,74,21,35,19,48,25,21,20,36,22,10,94,129,23,9,38
+[Auction "E"]
+1D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H3 H5 HJ HA 
+CA C5 C8 CQ 
+S9 SA S2 S5 
+C2 C7 C4 CJ 
+C6 CK D7 C3 
+D5 D2 D3 DA 
+H6 H9 HQ H4 
+S6 C9 SK S8 
+S7 D6 SJ SQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "2"]
+[West "Bruce Inglis#5111"]
+[North "Marsha Woodbury#18623"]
+[East "Alan Currie#1436"]
+[South "Sita Monaghan#54890"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:976.7632.J5.AT62 A.KT95.QT62.K975 KJT432.QJ.973.84 Q85.A84.AK84.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[ScoreIMP "NS -3.00 EW 3.00"]
+[DoubleDummyTricks "1611116111b7bcbb7bcb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  1
+N  D  1
+N  C  1
+S NT  1
+S  S  6
+S  H  1
+S  D  1
+S  C  1
+E NT 11
+E  S  7
+E  H 11
+E  D 12
+E  C 11
+W NT 11
+W  S  7
+W  H 11
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,2,3,108,44,144,98,147,50,257,21,18,21,21,220,14,11,23,17,22,34,22,133,24,20,124,23,16,11,63,10,19,19,146,20,11,15,102,22,20,17,123,43,11,11,16,45,11,15,186,12,22,11,22,21,19,16,12,14,8,15,10,10,8,10
+[Auction "E"]
+1D 1S 2S Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S6 SA S2 S5 
+CA C5 C4 CQ 
+S9 H5 S3 SQ 
+C2 C7 C8 CJ 
+C6 CK D3 C3 
+D5 D2 D7 DA 
+DJ DQ D9 D4 
+H6 D6 S4 DK 
+H2 DT HJ D8 
+H3 H9 HQ HA 
+H7 HK ST H4 
+S7 HT SJ H8 
+CT C9 SK S8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "2"]
+[West "Kathryn Brookes#63510"]
+[North "Dong Gao Bi#36392"]
+[East "Richard Brookes#70317"]
+[South "Arch Jelley#18787"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:976.7632.J5.AT62 A.KT95.QT62.K975 KJT432.QJ.973.84 Q85.A84.AK84.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[ScoreIMP "NS 10.75 EW -10.75"]
+[DoubleDummyTricks "1611116111b7bcbb7bcb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  1
+N  D  1
+N  C  1
+S NT  1
+S  S  6
+S  H  1
+S  D  1
+S  C  1
+E NT 11
+E  S  7
+E  H 11
+E  D 12
+E  C 11
+W NT 11
+W  S  7
+W  H 11
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 21,0,1,169,84,138,42,124,37,179,18,23,41,80,86,11,27,54,20,24,14,22,17,20,17,42,12,21,12,26,38,34,140,49,78,46,25,22,22,57,14,18,10,24,14,91,19,27,9,21,17,24,19,22,27,9,14,27,17,12,19,20,9,13,11
+[Auction "E"]
+1C 2S 3D Pass 
+4D Pass 5D Pass 
+Pass Pass 
+[Play "N"]
+S7 SA S2 S5 
+D5 D2 D3 DA 
+DJ D6 D7 DK 
+S6 DT D9 D4 
+CA C5 C4 CQ 
+S9 DQ S3 S8 
+C2 C7 C8 CJ 
+C6 CK S4 C3 
+H3 H5 HJ HA 
+H2 H9 HQ H8 
+H6 C9 SK SQ 
+CT HT SJ D8 
+H7 HK ST H4 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "2"]
+[West "Sylvester Riddell *#14427"]
+[North "Beverley Morris 🐘#24081"]
+[East "Rae Cameron *#22165"]
+[South "Jessica Morris#37607"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:976.7632.J5.AT62 A.KT95.QT62.K975 KJT432.QJ.973.84 Q85.A84.AK84.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "5"]
+[ScoreIMP "NS -3.00 EW 3.00"]
+[DoubleDummyTricks "1611116111b7bcbb7bcb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  1
+N  D  1
+N  C  1
+S NT  1
+S  S  6
+S  H  1
+S  D  1
+S  C  1
+E NT 11
+E  S  7
+E  H 11
+E  D 12
+E  C 11
+W NT 11
+W  S  7
+W  H 11
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,8,9,163,237,187,52,63,94,45,25,170,23,159,153,27,34,35,42,171,14,77,27,12,33,89,83,247,20,164,28,32,19,69,23,27,14,23,18,11,43,10,32,10,18,54,19,10,21,20,27,7,21,10,16,11,51,15,25,10,6,11,17,11,11,8,15,6,16
+[Auction "E"]
+Pass Pass 1NT Pass 
+2C 2S Pass Pass 
+X Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S7 SA S2 S5 
+CA C5 C4 CQ 
+S9 H5 SK S8 
+DJ DQ D7 D4 
+D5 DT D3 D8 
+H7 D2 D9 DA 
+H2 D6 S3 DK 
+S6 H9 S4 SQ 
+C2 C7 C8 CJ 
+C6 CK ST C3 
+H3 HK HJ H4 
+H6 HT HQ HA 
+CT C9 SJ H8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "3"]
+[West "Cheryl Winsor#10588"]
+[North "Margaret Fraser#16117"]
+[East "Faisal Alam#26807"]
+[South "John Lory#16275"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.K2.9752.J9654 86.QT954.QJT.T32 KJ74.AJ7.A64.A87 A9532.863.K83.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 200"]
+[Table "3"]
+[ScoreIMP "NS 0.50 EW -0.50"]
+[DoubleDummyTricks "98799987994564445644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  6
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Pairs"]
+% RBDATA 8,4,5,293,98,53,13,75,95,41,53,20,29,24,24,29,44,33,13,42,18,29,26,17,73,22,11,9,37,25,15,8,45,34,12,9,16,14,7,21,23,51,17,10,21,19,39,33,54,16,27,10,13,12,31,7,11,63,10,7
+[Auction "S"]
+1NT 2S Pass Pass 
+Pass 
+[Play "N"]
+C4 C2 CA CQ 
+C5 C3 C7 CK 
+D2 DT DA D3 
+ST S6 S4 S2 
+CJ CT C8 S3 
+SQ S8 S7 SA 
+D5 DJ D4 D8 
+D7 DQ D6 DK 
+HK H4 H7 H8 
+C9 H5 HJ S5 
+H2 H9 HA H3 
+C6 HT SK S9 
+D9 HQ SJ H6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "3"]
+[West "Bruce Inglis#5111"]
+[North "Marsha Woodbury#18623"]
+[East "Alan Currie#1436"]
+[South "Sita Monaghan#54890"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.K2.9752.J9654 86.QT954.QJT.T32 KJ74.AJ7.A64.A87 A9532.863.K83.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "98799987994564445644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  6
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Pairs"]
+% RBDATA 9,2,3,111,203,36,24,47,78,127,21,119,50,40,20,98,80,28,7,32,22,6,8,74,35,13,20,15,24,9,14,15,16,19,13,11,67,17,7,187,47,10,10,19,25,10,15,43,19,11,14,13,17,13,5,17,6,10,10,13,6,9,9
+[Auction "S"]
+1C 1S 2C Pass 
+2NT Pass Pass Pass 
+[Play "W"]
+H6 H2 HQ HA 
+SA ST S6 S4 
+H8 HK H4 H7 
+CQ C4 C2 C7 
+H3 D2 H9 HJ 
+CK C5 C3 CA 
+S5 C6 CT C8 
+S3 D5 HT D4 
+S9 D7 H5 D6 
+D3 D9 DQ DA 
+S2 SQ S8 S7 
+D8 CJ DT SJ 
+DK C9 DJ SK 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "3"]
+[West "Jillian Ramsey#10632"]
+[North "Peter Ramsey#43711"]
+[East "Pamela Jensen#31703"]
+[South "Sharon Mosley#64879"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.K2.9752.J9654 86.QT954.QJT.T32 KJ74.AJ7.A64.A87 A9532.863.K83.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "11"]
+[Score "NS 210"]
+[Table "4"]
+[ScoreIMP "NS 0.75 EW -0.75"]
+[DoubleDummyTricks "98799987994564445644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  6
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Pairs"]
+% RBDATA 4,6,7,209,136,61,166,72,31,75,23,176,230,30,34,151,31,28,56,181,57,102,38,21,25,34,6,54,23,10,6,13,105,16,10,12,48,11,58,10,18,25,10,15,17,42,65,13,20,7,14
+[Auction "S"]
+1C 1S Pass =1= Pass 
+1NT Pass Pass Pass 
+[Play "W"]
+S3 SQ S6 S4 
+CQ C4 C2 C7 
+H8 H2 HQ HA 
+CK C5 C3 CA 
+H6 CJ CT C8 
+S2 C9 H4 D4 
+D3 C6 H5 D6 
+H3 HK H9 H7 
+SA ST S8 S7 
+S5 D2 HT SJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "3"]
+[West "Kathryn Brookes#63510"]
+[North "Dong Gao Bi#36392"]
+[East "Richard Brookes#70317"]
+[South "Arch Jelley#18787"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.K2.9752.J9654 86.QT954.QJT.T32 KJ74.AJ7.A64.A87 A9532.863.K83.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "11"]
+[Score "NS 210"]
+[Table "1"]
+[ScoreIMP "NS 0.75 EW -0.75"]
+[DoubleDummyTricks "98799987994564445644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  6
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Pairs"]
+% RBDATA 4,0,1,124,90,173,25,105,39,12,21,144,155,13,21,129,31,21,35,39,35,31,11,95,30,7,20,39,55,53,41,20,71,14,11,15,24,14,18,15,14,15,23,29,19,14,20,25,14,26,16
+[Auction "S"]
+1C 1S X Pass 
+1NT Pass Pass Pass 
+[Play "W"]
+S3 SQ S6 S4 
+CK C4 C2 CA 
+CQ C5 C3 C8 
+SA ST S8 S7 
+S2 D2 H4 SJ 
+H6 CJ CT C7 
+H8 C9 H5 D4 
+H3 C6 DT D6 
+D3 HK H9 H7 
+S5 H2 HT HJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "3"]
+[West "Sylvester Riddell *#14427"]
+[North "Beverley Morris 🐘#24081"]
+[East "Rae Cameron *#22165"]
+[South "Jessica Morris#37607"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.K2.9752.J9654 86.QT954.QJT.T32 KJ74.AJ7.A64.A87 A9532.863.K83.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "11"]
+[Score "NS 210"]
+[Table "5"]
+[ScoreIMP "NS 0.75 EW -0.75"]
+[DoubleDummyTricks "98799987994564445644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  6
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Pairs"]
+% RBDATA 4,8,9,182,83,15,72,12,173,65,35,265,58,27,18,38,28,36,23,37,86,22,16,43,54,29,38,69,61,22,11,44,161,22,12,33,44,20,11,23,33,28,12,36,18,18,51,13,23,20,13
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+S2 SQ S8 S4 
+CK C4 C3 C8 
+S3 ST S6 S7 
+CQ C5 CT CA 
+H3 CJ C2 C7 
+H6 C9 H4 D4 
+D3 C6 DT D6 
+H8 HK H5 H7 
+S5 H2 H9 HJ 
+SA D2 HT SK 
+DK D5 DJ DA 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "4"]
+[West "Cheryl Winsor#10588"]
+[North "Beverley Morris 🐘#24081"]
+[East "Faisal Alam#26807"]
+[South "Jessica Morris#37607"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T42.75.AJT.AQ832 93.AJT94.3.KJ754 KQJ876.K63.Q642. A5.Q82.K9875.T96"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "5"]
+[ScoreIMP "NS 1.75 EW -1.75"]
+[DoubleDummyTricks "8a5868a5863285732757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  8
+N  C  6
+S NT  8
+S  S 10
+S  H  5
+S  D  8
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  5
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Pairs"]
+% RBDATA 18,8,5,179,66,78,44,45,82,65,97,86,22,19,52,100,98,30,70,52,29,28,10,179,16,21,34,22,20,14,64,59,21,10,96,24,21,10,23,21,25,19,26,20,17,10,27,24,17,10,64,17,19,13,21,25,21,12,20,15,19,9,18,8,16,6
+[Auction "W"]
+Pass 1C 1H 1S 
+2H 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+HQ H5 HA H3 
+SA S2 S3 S6 
+S5 ST S9 S7 
+C6 CA C4 H6 
+C9 S4 C5 SK 
+H2 H7 H4 HK 
+D5 DT D3 DQ 
+D7 DJ H9 D6 
+D8 DA C7 D2 
+CT C2 CJ S8 
+H8 C3 CK SQ 
+D9 C8 HT SJ 
+DK CQ HJ D4 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "4"]
+[West "Jillian Ramsey#10632"]
+[North "Rae Cameron *#22165"]
+[East "Pamela Jensen#31703"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T42.75.AJT.AQ832 93.AJT94.3.KJ754 KQJ876.K63.Q642. A5.Q82.K9875.T96"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "8a5868a5863285732757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  8
+N  C  6
+S NT  8
+S  S 10
+S  H  5
+S  D  8
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  5
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Pairs"]
+% RBDATA 18,9,7,137,152,211,25,155,100,92,112,98,78,24,22,47,66,38,28,19,197,14,35,19,52,40,10,9,129,18,22,6,13,18,32,14,39,75,27,11,17,117,11,33,21,19,11,6,62,45,9,14,10,10,13,24,10,30,8,9,10,11,8,9,7,5,8,10
+[Auction "W"]
+Pass 1C 1H 1S 
+2C X 2H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+H2 H5 HA H3 
+H8 H7 H4 HK 
+S5 S2 S3 SQ 
+HQ S4 H9 H6 
+SA ST S9 SK 
+CT CQ CK S6 
+C6 C2 C4 SJ 
+D5 DJ D3 D2 
+C9 C3 C5 S7 
+D7 DT HT D4 
+D8 DA HJ D6 
+D9 CA C7 DQ 
+DK C8 CJ S8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "4"]
+[West "John Lory#16275"]
+[North "Dong Gao Bi#36392"]
+[East "Margaret Fraser#16117"]
+[South "Arch Jelley#18787"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T42.75.AJT.AQ832 93.AJT94.3.KJ754 KQJ876.K63.Q642. A5.Q82.K9875.T96"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "3"]
+[ScoreIMP "NS 1.75 EW -1.75"]
+[DoubleDummyTricks "8a5868a5863285732757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  8
+N  C  6
+S NT  8
+S  S 10
+S  H  5
+S  D  8
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  5
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Pairs"]
+% RBDATA 18,0,4,140,126,167,55,163,34,55,39,94,19,23,85,50,30,24,48,24,21,17,277,28,17,11,251,22,18,16,79,33,28,29,140,28,21,12,50,25,34,15,29,16,19,10,29,19,87,32,51,26,30,32
+[Auction "W"]
+Pass 1D =1= 1H 1S 
+2H 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+H2 H5 HA H3 
+H8 H7 HJ HK 
+S5 S2 S3 SK 
+SA S4 S9 SJ 
+CT CQ CK S6 
+HQ ST H4 H6 
+C6 CA C4 D2 
+D5 DA D3 D4 
+DK DJ C5 D6 
+C9 C2 C7 S7 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "4"]
+[West "Kathryn Brookes#63510"]
+[North "Alan Currie#1436"]
+[East "Richard Brookes#70317"]
+[South "Bruce Inglis#5111"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T42.75.AJT.AQ832 93.AJT94.3.KJ754 KQJ876.K63.Q642. A5.Q82.K9875.T96"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "8a5868a5863285732757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  8
+N  C  6
+S NT  8
+S  S 10
+S  H  5
+S  D  8
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  5
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Pairs"]
+% RBDATA 18,3,1,151,60,136,130,46,36,104,161,96,14,24,90,175,68,20,33,13,32,13,185,37,11,15,91,21,10,14,42,31,13,31,38,31,14,28,52,27,8,24,107,42,10,21,81,24,11,28,11,25,289,23,22,10,9,15,15,25,10,16,11,18,7,10
+[Auction "W"]
+Pass 1C 1H 1S 
+2H 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+H2 H5 HA H3 
+H8 H7 HJ HK 
+D5 DT D3 D2 
+C6 CA C4 H6 
+SA ST S3 S6 
+S5 S2 S9 SJ 
+D7 S4 H4 SK 
+D8 C2 H9 SQ 
+CT C3 C5 S8 
+D9 DJ HT D4 
+DK DA C7 D6 
+C9 C8 CJ S7 
+HQ CQ CK DQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "4"]
+[West "Sita Monaghan#54890"]
+[North "Peter Ramsey#43711"]
+[East "Marsha Woodbury#18623"]
+[South "Sharon Mosley#64879"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T42.75.AJT.AQ832 93.AJT94.3.KJ754 KQJ876.K63.Q642. A5.Q82.K9875.T96"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS 200"]
+[Table "4"]
+[ScoreIMP "NS -9.50 EW 9.50"]
+[DoubleDummyTricks "8a5868a5863285732757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  8
+N  C  6
+S NT  8
+S  S 10
+S  H  5
+S  D  8
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  5
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Pairs"]
+% RBDATA 13,6,2,136,350,36,525,211,79,60,41,68,42,93,28,26,9,31,16,10,108,27,23,8,110,17,11,26,57,123,17,20,141,19,12,16,80,22,12,17,13,18,13,31,13,26,28,47,114,18,13,37
+[Auction "W"]
+Pass Pass 2H =1= 2S 
+3H 3S Pass Pass 
+Pass 
+[Play "W"]
+H2 H5 HA H3 
+H8 H7 HJ HK 
+HQ S2 H4 H6 
+SA S4 S3 SJ 
+D5 DT D3 D2 
+S5 ST S9 S6 
+C6 CA C4 D4 
+C9 C2 C5 S7 
+CT C3 C7 SK 
+D7 DJ H9 D6 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "5"]
+[West "Cheryl Winsor#10588"]
+[North "Beverley Morris 🐘#24081"]
+[East "Faisal Alam#26807"]
+[South "Jessica Morris#37607"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A65.QT875.K876.7 KQ83.96.J94.KQ93 T942.KJ2.T5.T854 J7.A43.AQ32.AJ62"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "5"]
+[ScoreIMP "NS 1.75 EW -1.75"]
+[DoubleDummyTricks "44643446438869988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 14,8,5,128,93,24,105,27,118,23,15,16,30,114,24,29,28,22,21,14,24,38,48,215,47,25,19,28,19,34,167,16,39,48,54,24,37,29,33,25,23,28,38,18,15,18,8,24
+[Auction "N"]
+2H =1= Pass Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H7 H9 HK H3 
+H5 H6 HJ H4 
+HQ D4 H2 HA 
+SA S3 S2 S7 
+HT D9 D5 D2 
+H8 S8 DT D3 
+C7 C3 C4 CJ 
+D6 C9 C5 CA 
+D7 DJ S4 DA 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "5"]
+[West "Kathryn Brookes#63510"]
+[North "Alan Currie#1436"]
+[East "Richard Brookes#70317"]
+[South "Bruce Inglis#5111"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A65.QT875.K876.7 KQ83.96.J94.KQ93 T942.KJ2.T5.T854 J7.A43.AQ32.AJ62"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 3.75 EW -3.75"]
+[DoubleDummyTricks "44643446438869988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 14,3,1,57,74,49,34,54,59,34,67,25,50,22,26,16,28,117,17,28,19,22,89,24,13,29,10,27,95,34,17,20,23,11,25,25,52,21,21,32,26,115,359,38,27,28,15,14,97,25,8,17,29,29,7,26
+[Auction "N"]
+Pass Pass Pass 1C 
+1H X 2H 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H5 H6 HK H3 
+H7 H9 HJ H4 
+H8 C3 H2 HA 
+C7 CK C4 C2 
+S5 CQ C5 C6 
+DK DJ D5 D2 
+HQ S3 C8 S7 
+HT S8 CT SJ 
+SA SK S2 D3 
+D8 D9 DT DQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "5"]
+[West "Sita Monaghan#54890"]
+[North "Peter Ramsey#43711"]
+[East "Marsha Woodbury#18623"]
+[South "Sharon Mosley#64879"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A65.QT875.K876.7 KQ83.96.J94.KQ93 T942.KJ2.T5.T854 J7.A43.AQ32.AJ62"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "4"]
+[ScoreIMP "NS -4.25 EW 4.25"]
+[DoubleDummyTricks "44643446438869988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 15,6,2,198,140,26,78,123,40,124,145,43,187,38,10,27,35,37,23,24,23,19,34,19,33,77,16,37,35,72,25,34,56,21,18,7,27,37,26,19,29,15,16,9,31,11,18,13,32,18,13,17,13,29,9,12,16,35,14,9,15,21,13,12,13,9,11,10
+[Auction "N"]
+Pass Pass Pass 1D 
+1H X 2H 3C 
+Pass 4C Pass Pass 
+Pass 
+[Play "N"]
+H5 H6 HK H3 
+H7 H9 HJ HA 
+SA S3 S2 S7 
+C7 C3 C4 CA 
+S5 S8 S4 SJ 
+D6 CK C5 C2 
+S6 SQ S9 H4 
+H8 SK ST D2 
+DK DJ D5 D3 
+D8 D4 DT DQ 
+D7 C9 C8 CJ 
+HT CQ CT C6 
+HQ D9 H2 DA 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "5"]
+[West "Jillian Ramsey#10632"]
+[North "Rae Cameron *#22165"]
+[East "Pamela Jensen#31703"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A65.QT875.K876.7 KQ83.96.J94.KQ93 T942.KJ2.T5.T854 J7.A43.AQ32.AJ62"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[ScoreIMP "NS -3.00 EW 3.00"]
+[DoubleDummyTricks "44643446438869988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 7,9,7,254,294,24,42,207,84,17,51,36,93,44,26,42,41,33,22,79,25,9,23,36,39,36,25,49,29,31,21,174,22,52,33,83,58,29,70,196,39,93,24,56,53,11,40,29,24,21,22,33,40,54,18,33,20,20,10
+[Auction "N"]
+2H =1= Pass Pass Pass 
+[Play "E"]
+SK S2 S7 SA 
+H6 HJ HA H5 
+S3 S4 SJ S5 
+C3 C4 CA C7 
+C9 C5 C2 H7 
+H9 HK H3 H8 
+D4 DT D2 DK 
+SQ S9 C6 S6 
+DJ D5 D3 D6 
+CK C8 CJ HT 
+D9 H2 DQ D7 
+S8 ST H4 HQ 
+CQ CT DA D8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "5"]
+[West "John Lory#16275"]
+[North "Dong Gao Bi#36392"]
+[East "Margaret Fraser#16117"]
+[South "Arch Jelley#18787"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A65.QT875.K876.7 KQ83.96.J94.KQ93 T942.KJ2.T5.T854 J7.A43.AQ32.AJ62"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "3"]
+[ScoreIMP "NS 1.75 EW -1.75"]
+[DoubleDummyTricks "44643446438869988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 14,0,4,162,41,28,318,110,72,25,34,86,21,22,79,170,33,120,31,37,18,11,13,82,17,31,34,49,19,12,55,95,30,335,231,23,40,51,14,27,19,15,8,78,22,21,21,30,9,11,19,11,17,15,18,19,11,13,19,10,14,14,7,12,15,10
+[Auction "N"]
+Pass 1C Pass 2C =1= 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H7 H9 HK HA 
+C7 C3 C4 CA 
+D6 C9 C5 CJ 
+S5 CQ C8 C2 
+D7 CK CT C6 
+DK DJ D5 D2 
+HQ H6 H2 H3 
+HT D4 HJ H4 
+D8 D9 DT DQ 
+S6 S3 S2 DA 
+H5 S8 S4 D3 
+SA SQ S9 S7 
+H8 SK ST SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "6"]
+[West "Cheryl Winsor#10588"]
+[North "Beverley Morris 🐘#24081"]
+[East "Faisal Alam#26807"]
+[South "Jessica Morris#37607"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T86.KQJ72.AQJ6.J 532.A865.K87.K62 AJ7.T93.T54.9854 KQ94.4.932.AQT73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "5"]
+[ScoreIMP "NS 4.25 EW -4.25"]
+[DoubleDummyTricks "43863448637956a7956a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  8
+S  D  6
+S  C  3
+E NT  7
+E  S  9
+E  H  5
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,8,5,47,58,130,85,85,105,31,20,134,94,108,15,19,45,71,40,19,79,38,43,24,40,53,12,18,28,129,20,9,14,28,8,63,53,20,24,11,23,28,18,6,52,25,19,18,21,14,16,9,28,6,12,9,17,18,13,22,16,4,14,6
+[Auction "E"]
+Pass Pass 1C 1H 
+1NT 2H Pass Pass 
+Pass 
+[Play "E"]
+C2 C4 CA CJ 
+CK C5 C7 S6 
+S5 S7 SQ S8 
+C6 C8 CQ H2 
+HA H3 H4 HK 
+DK D4 D9 DA 
+H5 HT C3 H7 
+H6 H9 S4 HQ 
+S3 SA S9 ST 
+D7 DT D2 D6 
+D8 D5 D3 DQ 
+H8 C9 CT HJ 
+S2 SJ SK DJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "6"]
+[West "Sita Monaghan#54890"]
+[North "Peter Ramsey#43711"]
+[East "Marsha Woodbury#18623"]
+[South "Sharon Mosley#64879"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T86.KQJ72.AQJ6.J 532.A865.K87.K62 AJ7.T93.T54.9854 KQ94.4.932.AQT73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "4"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "43863448637956a7956a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  8
+S  D  6
+S  C  3
+E NT  7
+E  S  9
+E  H  5
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,6,2,157,37,49,87,245,34,37,44,48,58,35,38,15,31,70,25,28,19,28,23,19,78,29,12,9,93,108,23,11,80,33,17,9,110,19,18,31,17,22,14,10,15,30,12,9,14,29,20,10,21,17,9,10,21,9,11,20,23,63,19,37,9,11,10,9
+[Auction "E"]
+Pass Pass 1C 1H 
+1NT Pass Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+C2 C4 CA CJ 
+C6 C5 C3 H2 
+HA H3 H4 HK 
+S2 SA S4 S6 
+H5 HT D2 H7 
+DK DT D3 D6 
+S5 S7 SQ S8 
+S3 SJ SK ST 
+CK C8 C7 HJ 
+D7 D4 D9 DA 
+D8 D5 CT DQ 
+H6 H9 S9 DJ 
+H8 C9 CQ HQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "6"]
+[West "Kathryn Brookes#63510"]
+[North "Alan Currie#1436"]
+[East "Richard Brookes#70317"]
+[South "Bruce Inglis#5111"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T86.KQJ72.AQJ6.J 532.A865.K87.K62 AJ7.T93.T54.9854 KQ94.4.932.AQT73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[ScoreIMP "NS -1.75 EW 1.75"]
+[DoubleDummyTricks "43863448637956a7956a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  8
+S  D  6
+S  C  3
+E NT  7
+E  S  9
+E  H  5
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,3,1,88,38,36,50,116,61,69,21,85,118,45,80,20,32,39,21,19,36,32,20,24,56,109,22,20,174,58,36,32,42,35,22,23,150,29,22,19,20,40,39,29,27,38,15,32,71,18,20,19,28,129,28,34,43,37,19,30,24,9,10,9
+[Auction "E"]
+Pass Pass 1C 1H 
+1NT 2H Pass Pass 
+Pass 
+[Play "E"]
+C2 C4 CA CJ 
+C6 C5 C3 H2 
+H5 H3 H4 HK 
+H6 H9 S4 HQ 
+D7 DT D2 D6 
+DK D4 D9 DJ 
+HA HT D3 H7 
+S2 S7 SK S6 
+CK C8 CQ HJ 
+D8 D5 C7 DA 
+S3 C9 CT DQ 
+S5 SJ SQ S8 
+H8 SA S9 ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "6"]
+[West "John Lory#16275"]
+[North "Dong Gao Bi#36392"]
+[East "Margaret Fraser#16117"]
+[South "Arch Jelley#18787"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T86.KQJ72.AQJ6.J 532.A865.K87.K62 AJ7.T93.T54.9854 KQ94.4.932.AQT73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "3"]
+[ScoreIMP "NS -1.75 EW 1.75"]
+[DoubleDummyTricks "43863448637956a7956a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  8
+S  D  6
+S  C  3
+E NT  7
+E  S  9
+E  H  5
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,0,4,81,41,65,50,223,39,44,153,38,78,29,10,32,70,170,39,18,97,115,38,15,12,30,15,14,56,60,9,24,325,52,18,87,131,24,9,55,123,112,26,8,15,28,10,14,6,20,9,12,11,32,161,30,69,97,18,7,12,14,8,16,10,8,19,8
+[Auction "E"]
+Pass Pass 1C 1H 
+1NT Pass Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+C2 C4 CA CJ 
+C6 C5 C3 H2 
+HA H3 H4 HK 
+CK C8 C7 HQ 
+H5 H9 D3 H7 
+DK DT D2 D6 
+H6 HT CT HJ 
+D7 D4 D9 DA 
+D8 D5 S4 DQ 
+H8 C9 CQ DJ 
+S3 SA S9 S6 
+S2 S7 SQ S8 
+S5 SJ SK ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "6"]
+[West "Jillian Ramsey#10632"]
+[North "Rae Cameron *#22165"]
+[East "Pamela Jensen#31703"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T86.KQJ72.AQJ6.J 532.A865.K87.K62 AJ7.T93.T54.9854 KQ94.4.932.AQT73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[ScoreIMP "NS -3.75 EW 3.75"]
+[DoubleDummyTricks "43863448637956a7956a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  8
+S  D  6
+S  C  3
+E NT  7
+E  S  9
+E  H  5
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 12,9,7,151,24,60,123,337,71,71,229,39,200,70,24,41,81,25,25,21,165,39,27,17,176,47,20,19,41,31,9,21,72,92,22,21,50,30,29,39,150,20,19,49,65,38,12,37,51,16,21,9,24,18,19,11,61,17,19,37,19,11,256,13
+[Auction "E"]
+Pass Pass 1C 2H 
+2NT 3H Pass Pass 
+Pass 
+[Play "E"]
+S3 SA S4 S6 
+HA HT H4 H2 
+C2 C4 CA CJ 
+S5 S7 SQ S8 
+S2 SJ SK ST 
+C6 C5 C3 HJ 
+H5 H9 D9 H7 
+DK DT D2 D6 
+CK C8 C7 HK 
+D7 D4 D3 DA 
+D8 D5 CT DQ 
+H6 H3 CQ HQ 
+H8 C9 S9 DJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "7"]
+[West "Kathryn Brookes#63510"]
+[North "Margaret Fraser#16117"]
+[East "Richard Brookes#70317"]
+[South "John Lory#16275"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:5.T975.A983.AT92 AJ9874.J843.J6.3 T63.A62.KQ75.865 KQ2.KQ.T42.KQJ74"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "3"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "64686646867965679656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,4,1,124,48,36,34,28,49,57,85,76,68,45,174,94,24,18,57,11,22,13,21,27,12,117,207,28,10,11,34,18,13,13,134,16,33,24,23,44,27,94,34,20,11,11,27,40,15,15,27,21,12,11,11,16,9,16,16,11,9,13,21,9,11,9
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+D5 D2 DA D6 
+DQ D4 D3 DJ 
+DK DT D8 S4 
+S3 S2 S5 SA 
+S6 SQ C2 S7 
+HA HK H5 H3 
+ST SK H7 S8 
+C5 CK CA C3 
+D7 C4 D9 S9 
+H2 HQ H9 H4 
+C6 CQ C9 H8 
+C8 CJ CT HJ 
+H6 C7 HT SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "7"]
+[West "Sita Monaghan#54890"]
+[North "Rae Cameron *#22165"]
+[East "Marsha Woodbury#18623"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:5.T975.A983.AT92 AJ9874.J843.J6.3 T63.A62.KQ75.865 KQ2.KQ.T42.KQJ74"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[ScoreIMP "NS -11.00 EW 11.00"]
+[DoubleDummyTricks "64686646867965679656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 18,9,2,188,191,37,102,52,19,31,25,16,63,105,12,18,202,30,32,17,189,20,9,11,18,19,13,10,87,30,30,19,53,35,18,25,23,14,11,143,119,50,14,10,17,33,13,9,14,29,13,12,14,49,13,10
+[Auction "S"]
+Pass 1NT Pass 2H =1= 
+Pass 2S Pass 3H 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+CA C3 C8 C4 
+DA D6 D5 D2 
+D3 DJ DQ D4 
+H5 H3 H2 HK 
+S5 SA S3 S2 
+H7 S4 S6 SQ 
+C2 S7 ST SK 
+C9 H4 C5 CK 
+CT H8 C6 CQ 
+D8 HJ D7 CJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "7"]
+[West "Cheryl Winsor#10588"]
+[North "Pamela Jensen#31703"]
+[East "Faisal Alam#26807"]
+[South "Jillian Ramsey#10632"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:5.T975.A983.AT92 AJ9874.J843.J6.3 T63.A62.KQ75.865 KQ2.KQ.T42.KQJ74"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 6.00 EW -6.00"]
+[DoubleDummyTricks "64686646867965679656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 18,7,5,135,51,175,27,36,44,52,42,63,41,32,122,41,63,41,90,37,31,42,50,70,91,16,71,20,52,17,59,34,39,15,105,24,14,17,57,67,13,30,15,24,28,106,48,21,36,15
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 2C =1= 
+Pass 2S Pass 3S 
+Pass 3NT Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+DK D2 D3 D6 
+D7 D4 DA DJ 
+D5 DT D9 SJ 
+S3 SK S5 S4 
+S6 S2 H5 SA 
+C8 CK CA C3 
+HA HQ HT H3 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "7"]
+[West "Arch Jelley#18787"]
+[North "Beverley Morris 🐘#24081"]
+[East "Dong Gao Bi#36392"]
+[South "Jessica Morris#37607"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:5.T975.A983.AT92 AJ9874.J843.J6.3 T63.A62.KQ75.865 KQ2.KQ.T42.KQJ74"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "5"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "64686646867965679656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,8,0,97,67,27,439,35,96,42,120,27,25,28,122,185,15,8,23,18,16,8,27,37,12,70,218,29,48,21,85,74,42,22,9,37,76,17,48,26,19,28,25,17,24,14
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+DK D2 D3 D6 
+DQ D4 D8 DJ 
+D7 DT DA S4 
+S3 SK S5 S7 
+S6 SQ HT S8 
+ST S2 H5 SA 
+C5 CK CA C3 
+HA HQ H7 H3 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "7"]
+[West "Sharon Mosley#64879"]
+[North "Alan Currie#1436"]
+[East "Peter Ramsey#43711"]
+[South "Bruce Inglis#5111"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:5.T975.A983.AT92 AJ9874.J843.J6.3 T63.A62.KQ75.865 KQ2.KQ.T42.KQJ74"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "4"]
+[ScoreIMP "NS 6.00 EW -6.00"]
+[DoubleDummyTricks "64686646867965679656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 18,3,6,457,89,19,159,76,60,18,39,85,240,16,562,95,19,20,266,21,20,13,68,32,95,12,25,29,20,30,179,24,20,19,118,21,11,19,19,32,10,20,21,13,9,9,16,26,9,18
+[Auction "S"]
+Pass 1C Pass 1S =1= 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+DK D2 D3 D6 
+D5 D4 DA DJ 
+D7 DT D8 S8 
+C6 CK CA C3 
+HA HQ H7 H3 
+H6 HK H5 H4 
+S3 S2 S5 SA 
+S6 SQ D9 S4 
+ST SK H9 S7 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "8"]
+[West "Kathryn Brookes#63510"]
+[North "Margaret Fraser#16117"]
+[East "Richard Brookes#70317"]
+[South "John Lory#16275"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J9.KQT972.A5.A86 T43.J64.K984.KJ3 A865.3.QJ763.942 KQ72.A85.T2.QT75"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "3"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "65775657756755767657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS -80"]
+[Competition "Pairs"]
+% RBDATA 7,4,1,157,41,28,346,37,64,25,38,30,70,82,67,29,67,38,20,20,51,23,19,42,24,30,22,20,46,29,20,29,236,63,32,28,71,31,21,14,44,21,25,25,59,22,17,22,25,24,16,13
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+D4 DJ DT D5 
+H4 H3 H5 HK 
+H6 C2 HA HQ 
+C3 C4 C5 CA 
+HJ C9 H8 HT 
+S3 SA S2 S9 
+D8 D3 D2 DA 
+S4 S5 SK SJ 
+CJ S6 C7 C8 
+CK D6 CT C6 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "8"]
+[West "Cheryl Winsor#10588"]
+[North "Pamela Jensen#31703"]
+[East "Faisal Alam#26807"]
+[South "Jillian Ramsey#10632"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J9.KQT972.A5.A86 T43.J64.K984.KJ3 A865.3.QJ763.942 KQ72.A85.T2.QT75"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "65775657756755767657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS -80"]
+[Competition "Pairs"]
+% RBDATA 7,7,5,179,259,64,48,17,49,303,25,9,119,13,46,20,231,30,8,35,23,40,49,7,14,24,22,8,120,31,8,8,54,28,11,72,28,30,18,12,63,32,7,9,9,28,8,7,8,31,13,8,12,17,8,5,19,10,6,6
+[Auction "W"]
+1NT 2H Pass Pass 
+Pass 
+[Play "E"]
+ST SA S2 S9 
+H6 H3 H5 HQ 
+H4 S5 HA HK 
+S3 S6 SK SJ 
+S4 S8 SQ H2 
+HJ C2 H8 HT 
+C3 C4 CQ C6 
+D4 C9 S7 H7 
+CJ D3 C5 CA 
+D8 D6 D2 DA 
+DK D7 DT D5 
+CK DJ C7 C8 
+D9 DQ CT H9 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "8"]
+[West "Arch Jelley#18787"]
+[North "Beverley Morris 🐘#24081"]
+[East "Dong Gao Bi#36392"]
+[South "Jessica Morris#37607"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J9.KQT972.A5.A86 T43.J64.K984.KJ3 A865.3.QJ763.942 KQ72.A85.T2.QT75"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "5"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "65775657756755767657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS -80"]
+[Competition "Pairs"]
+% RBDATA 7,8,0,124,36,60,61,32,31,45,36,88,157,129,34,31,56,22,21,76,258,37,17,21,138,42,15,24,22,46,19,15,19,25,19,13,137,49,32,20,17,60,17,21,21,24,19,22,62,32,8,18,19,19,21,41,27,26,10,27,18,8,16,11
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+D4 DQ DT D5 
+HJ H3 H5 HT 
+D8 D3 D2 DA 
+H4 C2 HA HK 
+C3 C4 C5 CA 
+H6 C9 H8 HQ 
+ST SA S2 S9 
+D9 D6 S7 H2 
+S3 S5 SQ SJ 
+S4 S6 SK H7 
+CJ S8 C7 C6 
+DK D7 CT H9 
+CK DJ CQ C8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "8"]
+[West "Sita Monaghan#54890"]
+[North "Rae Cameron *#22165"]
+[East "Marsha Woodbury#18623"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J9.KQT972.A5.A86 T43.J64.K984.KJ3 A865.3.QJ763.942 KQ72.A85.T2.QT75"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[ScoreIMP "NS 0.50 EW -0.50"]
+[DoubleDummyTricks "65775657756755767657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS -80"]
+[Competition "Pairs"]
+% RBDATA 8,9,2,106,111,122,88,51,37,124,35,22,310,13,37,99,129,15,17,26,84,26,37,31,18,16,19,43,38,16,22,97,28,10,14,86,33,15,18,126,21,32,16,103,27,9,16,41,20,10,17,64,20,20,45,47,18,14,9,16,34,13,18,12,12,13,7
+[Auction "W"]
+1C 1H X Pass 
+1S 2H Pass Pass 
+2S Pass Pass Pass 
+[Play "N"]
+HQ H4 H3 HA 
+C6 CJ C4 C5 
+S9 S3 S5 SQ 
+CA C3 C2 C7 
+HK H6 C9 H5 
+C8 CK S6 CT 
+DA D4 DJ D2 
+H9 HJ S8 H8 
+SJ S4 SA S2 
+D5 D8 D3 DT 
+H2 ST D6 S7 
+H7 D9 DQ SK 
+HT DK D7 CQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "8"]
+[West "Sharon Mosley#64879"]
+[North "Alan Currie#1436"]
+[East "Peter Ramsey#43711"]
+[South "Bruce Inglis#5111"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J9.KQT972.A5.A86 T43.J64.K984.KJ3 A865.3.QJ763.942 KQ72.A85.T2.QT75"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "4"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "65775657756755767657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS -80"]
+[Competition "Pairs"]
+% RBDATA 7,3,6,166,55,44,84,36,40,175,15,44,146,100,59,36,238,54,26,18,22,30,11,23,256,29,31,112,48,47,40,20,44,21,10,14,42,63,30,26,23,29,8,34,35,23,11,22,45,33,13,12,26,22,18,8,27,21,9,24,17,5,9,8
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+S3 S5 SQ S9 
+DK D3 DT D5 
+D4 D6 D2 DA 
+S4 SA S2 SJ 
+D8 DQ H5 H7 
+H4 H3 HA HK 
+CJ C2 C5 C6 
+CK C4 C7 CA 
+C3 C9 CT C8 
+ST S6 SK H9 
+H6 D7 H8 HQ 
+HJ S8 S7 H2 
+D9 DJ CQ HT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "9"]
+[West "Sita Monaghan#54890"]
+[North "Rae Cameron *#22165"]
+[East "Marsha Woodbury#18623"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J963.JT.K84 QT8.Q52.KQ853.T5 5.T4.A7642.QJ763 AJ632.AK87.9.A92"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[ScoreIMP "NS -1.25 EW 1.25"]
+[DoubleDummyTricks "43357433578a9868a986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  5
+N  C  7
+S NT  4
+S  S  3
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S 10
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 8,9,2,154,74,68,25,29,59,49,104,18,108,106,19,19,60,44,24,44,100,23,44,33,56,14,11,14,146,19,13,111,46,24,15,72,170,22,22,11,35,24,13,8,12,39,17,10,14,27,11,15,19,13,9,34,18,18,11,7,10,13,15,8
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+H3 H2 HT HK 
+DT DQ DA D9 
+H9 HQ H4 H7 
+DJ DK D2 C2 
+SK ST S5 S2 
+HJ H5 C3 HA 
+H6 C5 C6 H8 
+C4 CT C7 CA 
+C8 S8 CJ C9 
+S4 SQ D4 S3 
+S7 D3 D6 S6 
+CK D5 CQ SJ 
+S9 D8 D7 SA 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "9"]
+[West "Kathryn Brookes#63510"]
+[North "Margaret Fraser#16117"]
+[East "Richard Brookes#70317"]
+[South "John Lory#16275"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J963.JT.K84 QT8.Q52.KQ853.T5 5.T4.A7642.QJ763 AJ632.AK87.9.A92"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "3"]
+[ScoreIMP "NS 6.25 EW -6.25"]
+[DoubleDummyTricks "43357433578a9868a986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  5
+N  C  7
+S NT  4
+S  S  3
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S 10
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 18,4,1,74,25,36,31,40,217,59,38,32,110,99,22,25,82,106,30,25,200,28,27,25,31,28,26,15,32,21,21,28,176,28,15,44,43,27,15,19,137,28,20,44,46,28,15,22,113,33,21,16,56,58,28,19,52,17,14,10,40,14,10,12,12,21,18,15
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2D Pass 2NT 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+C4 C5 CQ C2 
+C8 CT CJ CA 
+CK S8 C3 C9 
+SK SQ S5 S2 
+S4 ST D2 S3 
+H3 H2 H4 HA 
+S7 D3 D4 SA 
+S9 D5 D6 SJ 
+H6 HQ HT H7 
+H9 H5 D7 HK 
+HJ D8 C6 H8 
+DJ DQ DA D9 
+DT DK C7 S6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "9"]
+[West "Arch Jelley#18787"]
+[North "Beverley Morris 🐘#24081"]
+[East "Dong Gao Bi#36392"]
+[South "Jessica Morris#37607"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J963.JT.K84 QT8.Q52.KQ853.T5 5.T4.A7642.QJ763 AJ632.AK87.9.A92"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS -150"]
+[Table "5"]
+[ScoreIMP "NS -0.25 EW 0.25"]
+[DoubleDummyTricks "43357433578a9868a986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  5
+N  C  7
+S NT  4
+S  S  3
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S 10
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 9,8,0,144,66,184,69,70,90,69,29,228,40,127,27,81,144,18,30,18,35,33,22,9,55,19,28,38,121,25,27,27,28,82,15,17,91,71,18,14,31,9,22,19,44,13,20,39,23,18,19,57,21,16,24,13,12,15,43,19,6,17,17,16,12,10,6
+[Auction "N"]
+Pass Pass 1D 1S 
+X 2S Pass Pass 
+2NT Pass Pass Pass 
+[Play "E"]
+ST S5 SA S4 
+S8 H4 S2 S7 
+SQ D2 S3 SK 
+C5 CQ CA C4 
+D8 D4 SJ S9 
+D3 D6 S6 DT 
+H2 HT HA H3 
+H5 D7 HK H6 
+HQ C3 H8 HJ 
+D5 DA D9 DJ 
+CT C6 C2 CK 
+DQ CJ C9 C8 
+DK C7 H7 H9 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "9"]
+[West "Cheryl Winsor#10588"]
+[North "Pamela Jensen#31703"]
+[East "Faisal Alam#26807"]
+[South "Jillian Ramsey#10632"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J963.JT.K84 QT8.Q52.KQ853.T5 5.T4.A7642.QJ763 AJ632.AK87.9.A92"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 6.25 EW -6.25"]
+[DoubleDummyTricks "43357433578a9868a986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  5
+N  C  7
+S NT  4
+S  S  3
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S 10
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 18,7,5,88,37,68,32,57,105,338,112,35,54,100,25,21,20,32,806,66,33,29,50,23,23,43,80,17,28,18,150,30,25,10,41,20,12,24,61,31,13,30,31,32,20,23,86,48,15,19,23,21,17,19,27,28,21,34,21,92,15,22,22,64,20,11,12,11,14,11
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2C =1= Pass 2H 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+C4 C5 CJ CA 
+DT DQ DA D9 
+CK CT C3 C2 
+DJ DK D7 C9 
+SK SQ S5 S2 
+H3 H2 HT HK 
+S4 ST C6 S3 
+S7 S8 C7 SJ 
+S9 D3 H4 SA 
+H6 HQ D2 H7 
+H9 H5 CQ HA 
+C8 D5 D4 S6 
+HJ D8 D6 H8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "9"]
+[West "Sharon Mosley#64879"]
+[North "Alan Currie#1436"]
+[East "Peter Ramsey#43711"]
+[South "Bruce Inglis#5111"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J963.JT.K84 QT8.Q52.KQ853.T5 5.T4.A7642.QJ763 AJ632.AK87.9.A92"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "4"]
+[ScoreIMP "NS -11.00 EW 11.00"]
+[DoubleDummyTricks "43357433578a9868a986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  5
+N  C  7
+S NT  4
+S  S  3
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S 10
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 18,3,6,60,92,57,38,31,76,391,91,75,42,91,49,19,59,143,23,19,13,27,19,18,120,21,10,9,56,70,90,12,16,26,19,138,21,58,19,192,26,30,8,11,23,21,9,20,21,20,9,17,16,10,9,51
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1S =1= 2C 2S 
+3C 4S Pass Pass 
+Pass 
+[Play "S"]
+CQ CA C4 C5 
+DA D9 DT DQ 
+C3 C2 CK CT 
+C6 C9 C8 S8 
+S5 S2 S4 SQ 
+D7 S3 SK ST 
+D6 H7 DJ DK 
+H4 HA H3 H2 
+C7 SA S7 D3 
+D4 SJ S9 D5 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "10"]
+[West "Kathryn Brookes#63510"]
+[North "Peter Ramsey#43711"]
+[East "Richard Brookes#70317"]
+[South "Sharon Mosley#64879"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.QJ32.T53.JT8 .A98.KJ976.A9754 KT75.K7.Q82.KQ62 J96432.T654.A4.3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 200"]
+[Table "4"]
+[ScoreIMP "NS 2.25 EW -2.25"]
+[DoubleDummyTricks "66455664557798777987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  9
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,6,1,200,68,89,118,90,73,84,102,45,28,74,42,27,17,54,31,18,22,25,41,22,11,37,22,14,12,42,26,23,16,45,25,25,19,14,31,8,26,303,65,24,30,19,31,157,28,20,24,22,53,43,21,19,19,18,18,7,20
+[Auction "E"]
+1D Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+CJ CA C2 C3 
+C8 C4 CQ S2 
+D5 DK D2 D4 
+CT C5 C6 S3 
+D3 D6 D8 DA 
+H2 HA H7 H4 
+S8 C7 CK S4 
+HQ H8 HK H5 
+SQ D7 S5 S9 
+HJ H9 DQ H6 
+H3 C9 ST HT 
+SA D9 S7 S6 
+DT DJ SK SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "10"]
+[West "Bruce Inglis#5111"]
+[North "Rae Cameron *#22165"]
+[East "Alan Currie#1436"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.QJ32.T53.JT8 .A98.KJ976.A9754 KT75.K7.Q82.KQ62 J96432.T654.A4.3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 200"]
+[Table "1"]
+[ScoreIMP "NS 2.25 EW -2.25"]
+[DoubleDummyTricks "66455664557798777987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  9
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,9,3,123,148,61,198,44,68,143,553,60,23,33,23,9,27,12,14,16,20,205,36,9,11,12,25,224,22,16,20,54,8,37,10,9,10,16,26,73,22,35,25,9,13,10,107,61,12,22,19,10,39,24,15,10,16,9,9,15,8
+[Auction "E"]
+1D Pass 2S =1= Pass 
+Pass Pass 
+[Play "N"]
+H2 HA HK H4 
+C8 CA C2 C3 
+CT C4 CQ S2 
+D5 D6 D2 DA 
+DT DJ DQ D4 
+HQ H8 H7 H5 
+HJ H9 D8 H6 
+CJ C5 C6 S3 
+H3 C7 S5 HT 
+SQ C9 CK S9 
+D3 DK S7 SJ 
+S8 D7 ST S4 
+SA D9 SK S6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "10"]
+[West "Jessica Morris#37607"]
+[North "Margaret Fraser#16117"]
+[East "Beverley Morris 🐘#24081"]
+[South "John Lory#16275"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.QJ32.T53.JT8 .A98.KJ976.A9754 KT75.K7.Q82.KQ62 J96432.T654.A4.3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "5"]
+[ScoreIMP "NS -1.50 EW 1.50"]
+[DoubleDummyTricks "66455664557798777987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  9
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 11,4,8,126,268,35,119,29,581,76,27,26,62,118,32,19,43,164,107,34,38,161,30,17,9,25,19,18,16,43,37,31,23,23,21,28,17,71,22,14,49,25,19,20,61,23,20,19,17,27,15,35,28,22,36,13,60,34,19,24,13,18,16,17,19,18,18,11,13
+[Auction "E"]
+1D Pass 1S X 
+2C X 2S Pass 
+3C Pass 3D Pass 
+Pass Pass 
+[Play "S"]
+HK H4 H2 HA 
+C2 C3 C8 CA 
+C6 D4 CT C4 
+S5 S2 SA D6 
+CQ DA CJ C5 
+S7 S3 S8 D7 
+CK S4 H3 C7 
+H7 H5 HJ H8 
+ST H6 HQ H9 
+SK S6 SQ D9 
+D2 HT D3 DK 
+D8 S9 D5 C9 
+DQ SJ DT DJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "10"]
+[West "Sita Monaghan#54890"]
+[North "Faisal Alam#26807"]
+[East "Marsha Woodbury#18623"]
+[South "Cheryl Winsor#10588"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.QJ32.T53.JT8 .A98.KJ976.A9754 KT75.K7.Q82.KQ62 J96432.T654.A4.3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "3"]
+[ScoreIMP "NS -1.50 EW 1.50"]
+[DoubleDummyTricks "66455664557798777987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  9
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 11,5,2,409,143,592,28,26,94,138,132,35,65,27,24,27,19,30,184,10,131,38,22,11,11,19,14,36,11,75,52,18,14,177,26,10,22,22,21,15,33,95,55,13,25,15,35,18,10,27,20,30,29,21,18,15,170,29,23,12,56,17,24,9,11,18,9,9,8
+[Auction "E"]
+1D X 1S X 
+2C Pass 2D 2H 
+3C Pass 3D Pass 
+Pass Pass 
+[Play "S"]
+HK H4 H2 HA 
+C2 C3 C8 CA 
+C6 D4 CT C4 
+H7 H5 HJ H8 
+D2 DA D3 D6 
+D8 H6 H3 H9 
+S5 S2 SA D7 
+CQ S3 CJ C5 
+S7 S4 S8 D9 
+CK S6 HQ C9 
+ST SJ SQ DJ 
+DQ S9 D5 DK 
+SK HT DT C7 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "10"]
+[West "Arch Jelley#18787"]
+[North "Pamela Jensen#31703"]
+[East "Dong Gao Bi#36392"]
+[South "Jillian Ramsey#10632"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.QJ32.T53.JT8 .A98.KJ976.A9754 KT75.K7.Q82.KQ62 J96432.T654.A4.3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS -1.50 EW 1.50"]
+[DoubleDummyTricks "66455664557798777987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  7
+E  S  7
+E  H  9
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,7,0,237,166,142,98,141,125,471,209,31,13,31,18,26,23,42,31,29,67,218,40,18,6,17,28,33,21,364,22,24,22,17,26,10,29,82,16,15,8,61,15,26,7,38,30,23,33,196,27,65,14,16,16,17,21,13,19,8,29
+[Auction "E"]
+1D =1= Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+HQ HA H7 H4 
+D3 D6 D2 DA 
+S8 H8 S5 S2 
+SA C4 S7 S3 
+SQ C5 ST S4 
+H2 H9 HK H5 
+C8 CA CK C3 
+D5 DK D8 D4 
+DT DJ DQ S6 
+HJ C7 C2 H6 
+CJ C9 C6 S9 
+H3 D7 SK HT 
+CT D9 CQ SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "11"]
+[West "Bruce Inglis#5111"]
+[North "Rae Cameron *#22165"]
+[East "Alan Currie#1436"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T82.AJT854.4.AQ9 KJ75.Q.KT932.862 963.9763.765.J53 AQ4.K2.AQJ8.KT74"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "3383433834aa5a9aa5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  3
+N  C  4
+S NT  3
+S  S  3
+S  H  8
+S  D  3
+S  C  4
+E NT 10
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Pairs"]
+% RBDATA 14,9,3,76,149,151,61,27,69,28,39,28,78,155,9,47,170,25,10,17,13,194,12,7,29,112,14,13,13,83,19,11,18,11,21,38,51,17,15,14,12,27,11,8,15,46,20,10,16,14,207,66,22,35,12,14,18,18,8,8,17,10,8,8
+[Auction "S"]
+Pass 2NT Pass 3C =1= 
+Pass 3NT =2= Pass Pass 
+Pass 
+[Play "N"]
+H5 HQ H3 H2 
+D4 D2 D7 DA 
+H4 D3 D6 DQ 
+S2 D9 D5 DJ 
+C9 DK H6 D8 
+H8 DT H7 C4 
+S8 S5 S3 SA 
+ST S7 S6 SQ 
+HT SK S9 S4 
+CQ SJ H9 C7 
+CA C2 C3 CK 
+HA C6 C5 HK 
+HJ C8 CJ CT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "11"]
+[West "Kathryn Brookes#63510"]
+[North "Peter Ramsey#43711"]
+[East "Richard Brookes#70317"]
+[South "Sharon Mosley#64879"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T82.AJT854.4.AQ9 KJ75.Q.KT932.862 963.9763.765.J53 AQ4.K2.AQJ8.KT74"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "4"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "3383433834aa5a9aa5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  3
+N  C  4
+S NT  3
+S  S  3
+S  H  8
+S  D  3
+S  C  4
+E NT 10
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Pairs"]
+% RBDATA 14,6,1,118,68,117,234,113,70,73,41,26,125,48,92,31,187,105,16,24,28,57,43,28,62,49,21,24,23,29,16,19,63,25,23,10,80,25,16,12,26,19,23,21,40,25,15,9,26,54,33,18,25,60,14,23,30,10,18,11,30,18,22,23
+[Auction "S"]
+Pass 1C 1D =1= X 
+Pass Pass 1H Pass 
+Pass X 2H Pass 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H5 HQ H6 H2 
+D4 D2 D6 DA 
+S8 D3 D5 DQ 
+S2 D9 D7 DJ 
+ST S5 S6 SA 
+H4 S7 S3 SQ 
+H8 SK S9 S4 
+C9 SJ H7 C4 
+HT DK C5 D8 
+HJ DT C3 C7 
+CA C2 CJ CK 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "11"]
+[West "Sita Monaghan#54890"]
+[North "Faisal Alam#26807"]
+[East "Marsha Woodbury#18623"]
+[South "Cheryl Winsor#10588"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T82.AJT854.4.AQ9 KJ75.Q.KT932.862 963.9763.765.J53 AQ4.K2.AQJ8.KT74"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "3"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "3383433834aa5a9aa5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  3
+N  C  4
+S NT  3
+S  S  3
+S  H  8
+S  D  3
+S  C  4
+E NT 10
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Pairs"]
+% RBDATA 14,5,2,77,195,37,93,33,24,92,42,18,98,36,20,29,107,20,10,23,13,29,14,8,10,27,17,8,17,12,15,107,16,15,12,18,10,94,16,9,14,31,18,8,14,30,14,8,17,8,110,18,18,7,16,15,23,17,8,9,8,17,7,9
+[Auction "S"]
+Pass 1D 2H X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HJ HQ H3 H2 
+S2 S5 S3 SA 
+S8 S7 S6 SQ 
+ST SJ S9 S4 
+H4 SK D7 C4 
+D4 D2 D5 DA 
+H5 D3 D6 DQ 
+H8 D9 H6 DJ 
+HT DT H7 D8 
+C9 DK H9 HK 
+CQ C2 C3 CT 
+HA C6 C5 C7 
+CA C8 CJ CK 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "11"]
+[West "Jessica Morris#37607"]
+[North "Margaret Fraser#16117"]
+[East "Beverley Morris 🐘#24081"]
+[South "John Lory#16275"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T82.AJT854.4.AQ9 KJ75.Q.KT932.862 963.9763.765.J53 AQ4.K2.AQJ8.KT74"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "5"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "3383433834aa5a9aa5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  3
+N  C  4
+S NT  3
+S  S  3
+S  H  8
+S  D  3
+S  C  4
+E NT 10
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Pairs"]
+% RBDATA 14,4,8,60,205,96,35,63,73,126,92,43,660,188,29,38,52,65,26,26,60,47,13,20,29,28,22,9,22,79,26,29,19,24,17,11,18,87,18,10,24,9,17,55,23,22,18,14,18,51,25,12,19,26,24,11,21,38,18,14,28,10,21,12,15,17,9,18
+[Auction "S"]
+Pass 1D X 1S 
+Pass 2NT Pass 3D =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HA HQ H3 H2 
+HJ C2 H6 HK 
+D4 D2 D5 DA 
+C9 D3 D6 DQ 
+S2 D9 D7 DJ 
+H4 DK H7 D8 
+S8 DT C3 C4 
+ST S5 S6 SA 
+CQ S7 S3 SQ 
+H5 SK S9 S4 
+H8 SJ H9 C7 
+CA C6 C5 CK 
+HT C8 CJ CT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "11"]
+[West "Arch Jelley#18787"]
+[North "Pamela Jensen#31703"]
+[East "Dong Gao Bi#36392"]
+[South "Jillian Ramsey#10632"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T82.AJT854.4.AQ9 KJ75.Q.KT932.862 963.9763.765.J53 AQ4.K2.AQJ8.KT74"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[ScoreIMP "NS -1.00 EW 1.00"]
+[DoubleDummyTricks "3383433834aa5a9aa5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  3
+N  C  4
+S NT  3
+S  S  3
+S  H  8
+S  D  3
+S  C  4
+E NT 10
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Pairs"]
+% RBDATA 18,7,0,74,40,205,173,49,62,273,29,30,27,14,147,123,15,107,75,38,13,9,43,19,20,10,76,19,17,8,158,18,26,10,29,19,23,12,23,12,21,13,66,16,54,18,78,16,17,44,24,23,9,16,46,27,13,29,19,17,13,11,31,10,13,7
+[Auction "S"]
+Pass 1C 2H X 
+3H 3S 4H 4S 
+Pass Pass Pass 
+[Play "N"]
+D4 D2 D7 D8 
+S2 S5 S3 SA 
+S8 S7 S6 SQ 
+ST SJ S9 S4 
+H4 D3 D5 DA 
+H5 D9 D6 DQ 
+H8 DK H7 DJ 
+HT DT H3 C4 
+HA HQ H6 H2 
+CA C2 C5 C7 
+C9 C6 CJ CK 
+HJ C8 H9 HK 
+CQ SK C3 CT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "12"]
+[West "Sita Monaghan#54890"]
+[North "Faisal Alam#26807"]
+[East "Marsha Woodbury#18623"]
+[South "Cheryl Winsor#10588"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT962.K5.KT964.J J8743.Q94.Q8.QT6 A.JT73.AJ72.A973 K5.A862.53.K8542"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "3"]
+[ScoreIMP "NS 7.50 EW -7.50"]
+[DoubleDummyTricks "888c7888c74451644516"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D 12
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  1
+W  C  6
+[OptimumScore "NS +1370"]
+[Competition "Pairs"]
+% RBDATA 14,5,2,96,50,381,294,22,81,29,53,20,20,25,276,73,38,25,19,48,22,60,26,23,14,37,37,21,50,24,279,25,12,8,26,20,22,11,70,21,31,19,69,79,12,99,20,23,14,44,19,54,11,23,16,42,11,11,46,12,12,8,12,7,11,10
+[Auction "W"]
+1C 2NT Pass 3H =1= 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+C6 C3 CK CJ 
+CT C7 C2 S2 
+CQ CA C4 S6 
+H4 HJ H2 HK 
+D8 D2 D3 DK 
+DQ DA D5 DT 
+S3 C9 C5 S9 
+S4 DJ H6 D4 
+S7 D7 H8 D9 
+S8 H3 S5 D6 
+SJ SA SK ST 
+H9 H7 HA H5 
+HQ HT C8 SQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "12"]
+[West "Bruce Inglis#5111"]
+[North "Rae Cameron *#22165"]
+[East "Alan Currie#1436"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT962.K5.KT964.J J8743.Q94.Q8.QT6 A.JT73.AJ72.A973 K5.A862.53.K8542"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[ScoreIMP "NS -5.75 EW 5.75"]
+[DoubleDummyTricks "888c7888c74451644516"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D 12
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  1
+W  C  6
+[OptimumScore "NS +1370"]
+[Competition "Pairs"]
+% RBDATA 11,9,3,112,47,86,152,97,34,25,26,131,103,100,109,20,113,53,29,44,99,15,22,12,60,24,30,8,226,67,38,31,84,40,56,17,224,129,34,44,143,81,29,12,30,44,37,33,37,26,22,15,21,19,15,24,44,45,36,17,26,10,12,8
+[Auction "W"]
+Pass 2S =1= Pass 3C =2= 
+Pass 3D Pass Pass 
+Pass 
+[Play "E"]
+DQ D2 D3 DK 
+CQ CA C4 CJ 
+D8 DA D5 D4 
+S3 SA S5 S2 
+C6 C7 C2 D6 
+S4 H3 SK SQ 
+CT C3 C5 H5 
+H4 H7 HA HK 
+H9 C9 CK D9 
+S7 D7 H6 S6 
+HQ HT H2 S9 
+SJ DJ H8 ST 
+S8 HJ C8 DT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "12"]
+[West "Kathryn Brookes#63510"]
+[North "Peter Ramsey#43711"]
+[East "Richard Brookes#70317"]
+[South "Sharon Mosley#64879"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT962.K5.KT964.J J8743.Q94.Q8.QT6 A.JT73.AJ72.A973 K5.A862.53.K8542"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "4"]
+[ScoreIMP "NS 7.50 EW -7.50"]
+[DoubleDummyTricks "888c7888c74451644516"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D 12
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  1
+W  C  6
+[OptimumScore "NS +1370"]
+[Competition "Pairs"]
+% RBDATA 14,6,1,118,64,21,165,152,88,34,334,40,99,156,39,47,29,209,13,27,33,264,36,10,21,153,27,9,236,27,14,15,21,14,43,15,409,16,14,40,27,23,12,8,68,23,51,15
+[Auction "W"]
+Pass Pass Pass 1D =1= 
+2C 2S =2= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+H2 H5 HQ H3 
+C2 CJ CQ C3 
+C4 S2 CT CA 
+D3 D4 D8 DA 
+D5 DK DQ DJ 
+HA HK H4 H7 
+CK S6 C6 C7 
+C8 S9 S3 C9 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "12"]
+[West "Arch Jelley#18787"]
+[North "Pamela Jensen#31703"]
+[East "Dong Gao Bi#36392"]
+[South "Jillian Ramsey#10632"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT962.K5.KT964.J J8743.Q94.Q8.QT6 A.JT73.AJ72.A973 K5.A862.53.K8542"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[ScoreIMP "NS -5.00 EW 5.00"]
+[DoubleDummyTricks "888c7888c74451644516"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D 12
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  1
+W  C  6
+[OptimumScore "NS +1370"]
+[Competition "Pairs"]
+% RBDATA 6,7,0,70,122,32,124,47,81,36,55,34,399,29,74,85,120,232,68,26,221,23,14,8,68,38,16,21,21,20,13,38,120,30,27,28,18,28,14,16,162,21,36,17,76,27,15,17
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2C 
+Pass 2D Pass Pass 
+Pass 
+[Play "W"]
+D5 D4 DQ DA 
+D3 D6 D8 DJ 
+HA H5 H4 H3 
+H2 HK H9 H7 
+C2 CJ C6 CA 
+H6 S2 HQ HJ 
+S5 S6 S3 SA 
+H8 S9 S4 HT 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "12"]
+[West "Jessica Morris#37607"]
+[North "Margaret Fraser#16117"]
+[East "Beverley Morris 🐘#24081"]
+[South "John Lory#16275"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT962.K5.KT964.J J8743.Q94.Q8.QT6 A.JT73.AJ72.A973 K5.A862.53.K8542"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "12"]
+[Score "NS 170"]
+[Table "5"]
+[ScoreIMP "NS -4.25 EW 4.25"]
+[DoubleDummyTricks "888c7888c74451644516"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D 12
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  1
+W  C  6
+[OptimumScore "NS +1370"]
+[Competition "Pairs"]
+% RBDATA 11,4,8,215,59,151,551,32,48,34,279,25,32,84,23,19,126,27,13,18,45,28,43,20,55,29,23,24,100,53,20,21,85,22,18,22,34,23,26,14,61,24,35,21,34,27,27,20,24,26,16,14,26,27,20,12,25,17,14,15,14,14,13,12
+[Auction "W"]
+Pass 2S =1= Pass 3C =2= 
+Pass 3D Pass Pass 
+Pass 
+[Play "E"]
+C6 CA C2 CJ 
+D8 DA D3 D4 
+DQ D2 D5 DK 
+S3 SA S5 S2 
+H4 H3 HA H5 
+H9 H7 H2 HK 
+S4 D7 SK S6 
+HQ HT H6 D6 
+S7 DJ C4 S9 
+CT HJ H8 ST 
+CQ C3 CK D9 
+S8 C7 C5 DT 
+SJ C9 C8 SQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "13"]
+[West "John Lory#16275"]
+[North "Pamela Jensen#31703"]
+[East "Margaret Fraser#16117"]
+[South "Jillian Ramsey#10632"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T874.3.AJ963.J84 Q92.AKQ765.4.A76 K3.JT.T752.T9532 AJ65.9842.KQ8.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[ScoreIMP "NS 9.75 EW -9.75"]
+[DoubleDummyTricks "1216512165cbc78cbc78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  6
+N  C  5
+S NT  1
+S  S  2
+S  H  1
+S  D  6
+S  C  5
+E NT 12
+E  S 11
+E  H 12
+E  D  7
+E  C  8
+W NT 12
+W  S 11
+W  H 12
+W  D  7
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Pairs"]
+% RBDATA 17,7,4,149,51,58,156,79,71,98,45,23,19,27,293,58,186,17,54,21,30,16,44,17,21,49,87,25,13,64,143,89,49,29,29,32,18,9,24,15,15,21,25,18,14,5,42,21,22,8,21,15,14,10
+[Auction "N"]
+Pass 1H Pass 2C =1= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+CT CQ C4 C6 
+HT H2 H3 HA 
+HJ H4 D3 HK 
+D2 DK DA D4 
+D5 DQ D9 S2 
+C2 CK C8 C7 
+D7 D8 DJ H5 
+C3 S5 CJ CA 
+SK SA S4 SQ 
+S3 SJ S7 S9 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "13"]
+[West "Sylvester Riddell *#14427"]
+[North "Peter Ramsey#43711"]
+[East "Rae Cameron *#22165"]
+[South "Sharon Mosley#64879"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T874.3.AJ963.J84 Q92.AKQ765.4.A76 K3.JT.T752.T9532 AJ65.9842.KQ8.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[ScoreIMP "NS 9.75 EW -9.75"]
+[DoubleDummyTricks "1216512165cbc78cbc78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  6
+N  C  5
+S NT  1
+S  S  2
+S  H  1
+S  D  6
+S  C  5
+E NT 12
+E  S 11
+E  H 12
+E  D  7
+E  C  8
+W NT 12
+W  S 11
+W  H 12
+W  D  7
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Pairs"]
+% RBDATA 17,6,9,219,70,67,84,121,178,98,64,59,24,25,347,89,19,50,98,33,19,12,75,65,19,10,24,14,15,21,38,20,29,26,238,34,45,33,23,20,18,13
+[Auction "N"]
+Pass 1H Pass 2NT =1= 
+Pass 4D Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+HJ H2 H3 HA 
+HT H4 D3 HK 
+C5 CQ C8 C6 
+C2 CK C4 C7 
+D7 DK DA D4 
+D2 D8 D6 S2 
+D5 DQ D9 S9 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "13"]
+[West "Arch Jelley#18787"]
+[North "Marsha Woodbury#18623"]
+[East "Dong Gao Bi#36392"]
+[South "Sita Monaghan#54890"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T874.3.AJ963.J84 Q92.AKQ765.4.A76 K3.JT.T752.T9532 AJ65.9842.KQ8.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "4"]
+[ScoreIMP "NS -6.50 EW 6.50"]
+[DoubleDummyTricks "1216512165cbc78cbc78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  6
+N  C  5
+S NT  1
+S  S  2
+S  H  1
+S  D  6
+S  C  5
+E NT 12
+E  S 11
+E  H 12
+E  D  7
+E  C  8
+W NT 12
+W  S 11
+W  H 12
+W  D  7
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Pairs"]
+% RBDATA 27,2,0,122,135,27,58,133,296,85,145,44,71,90,28,46,105,112,13,22,23,166,28,27,130,38,30,13,17,12,14,145,177,42,42,13
+[Auction "N"]
+Pass 1C Pass 1NT =1= 
+Pass 4C Pass 4H 
+Pass 6H Pass Pass 
+Pass 
+[Play "N"]
+DA D4 D2 D8 
+D3 S2 DT DQ 
+H3 HA HT H2 
+S8 HK HJ H4 
+S4 SQ SK SA 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "13"]
+[West "Kathryn Brookes#63510"]
+[North "Beverley Morris 🐘#24081"]
+[East "Richard Brookes#70317"]
+[South "Jessica Morris#37607"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T874.3.AJ963.J84 Q92.AKQ765.4.A76 K3.JT.T752.T9532 AJ65.9842.KQ8.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "5"]
+[ScoreIMP "NS -6.50 EW 6.50"]
+[DoubleDummyTricks "1216512165cbc78cbc78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  6
+N  C  5
+S NT  1
+S  S  2
+S  H  1
+S  D  6
+S  C  5
+E NT 12
+E  S 11
+E  H 12
+E  D  7
+E  C  8
+W NT 12
+W  S 11
+W  H 12
+W  D  7
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Pairs"]
+% RBDATA 27,8,1,93,107,46,129,27,33,88,107,90,198,31,190,27,13,25,93,173,17,10,160,24,14,22,23,23,13,12,198,25,16,28,27,19,68,14,161,23,11,23,76,19,10,18,35,33,14,23
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 3H Pass 4NT 
+Pass 5S Pass 6H 
+Pass Pass Pass 
+[Play "S"]
+C3 CK C8 C6 
+HT H2 H3 HA 
+HJ H4 D3 HK 
+D2 DK DA D4 
+C2 CQ C4 C7 
+D5 DQ D6 S2 
+D7 D8 D9 H5 
+S3 S5 S4 SQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "13"]
+[West "Bruce Inglis#5111"]
+[North "Faisal Alam#26807"]
+[East "Alan Currie#1436"]
+[South "Cheryl Winsor#10588"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T874.3.AJ963.J84 Q92.AKQ765.4.A76 K3.JT.T752.T9532 AJ65.9842.KQ8.KQ"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "3"]
+[ScoreIMP "NS -6.50 EW 6.50"]
+[DoubleDummyTricks "1216512165cbc78cbc78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  6
+N  C  5
+S NT  1
+S  S  2
+S  H  1
+S  D  6
+S  C  5
+E NT 12
+E  S 11
+E  H 12
+E  D  7
+E  C  8
+W NT 12
+W  S 11
+W  H 12
+W  D  7
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Pairs"]
+% RBDATA 27,5,3,125,44,36,155,99,38,20,81,85,44,61,442,35,223,75,100,33,174,86,15,46,28,160,16,29,104,15,39,13,91,27,35,32,32,64,14,26,84,20,37,14,67,25,60,16,90,26,11,19
+[Auction "N"]
+Pass 1H Pass 2NT =1= 
+Pass 3D =2= Pass 3S 
+Pass 4C Pass 4H 
+Pass 4NT Pass 5C 
+Pass 6H Pass Pass 
+Pass 
+[Play "S"]
+HJ H2 H3 HQ 
+HT H4 D3 HA 
+D2 DQ DA D4 
+C2 CK C4 C6 
+C3 CQ C8 C7 
+C5 H8 D6 HK 
+S3 SJ S4 S2 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "14"]
+[West "John Lory#16275"]
+[North "Pamela Jensen#31703"]
+[East "Margaret Fraser#16117"]
+[South "Jillian Ramsey#10632"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQT2.86.AKT95.K2 J8743.JT4.Q32.J6 965.KQ752.6.QT93 A.A93.J874.A8754"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "88787887875545655456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 4,7,4,73,47,93,160,141,48,108,35,36,54,368,98,13,12,131,41,11,34,210,38,19,12,11,19,31,12,10,29,18,12,19,39,21,11,29,36,22,48,25,17,13,41,139,30,10,28,11,32,10,22,25,15,13,10,13,17,8,14,13,12,10,6
+[Auction "E"]
+Pass Pass 1C 1D 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+DA D2 D6 D4 
+D9 D3 H2 DJ 
+CK C6 C3 C4 
+DK DQ S9 D7 
+DT S3 S6 D8 
+D5 S4 S5 C5 
+H8 HT HQ HA 
+C2 CJ CQ C7 
+H6 H4 HK H3 
+S2 S7 CT CA 
+ST S8 C9 C8 
+SQ HJ H5 H9 
+SK SJ H7 SA 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "14"]
+[West "Kathryn Brookes#63510"]
+[North "Beverley Morris 🐘#24081"]
+[East "Richard Brookes#70317"]
+[South "Jessica Morris#37607"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQT2.86.AKT95.K2 J8743.JT4.Q32.J6 965.KQ752.6.QT93 A.A93.J874.A8754"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "5"]
+[ScoreIMP "NS 1.25 EW -1.25"]
+[DoubleDummyTricks "88787887875545655456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 7,8,1,154,188,143,75,29,67,85,13,23,112,49,25,30,106,19,34,34,71,67,16,37,64,25,22,24,154,36,21,19,197,27,40,25,37,29,11,27,254,28,20,19,21,14,15,15,21,19,21,12,23,16,15,16,18,19,15,7
+[Auction "E"]
+Pass 2H =1= Pass Pass 
+Pass 
+[Play "W"]
+SA S2 S3 S5 
+D4 DA D2 D6 
+HA H6 H4 HQ 
+D7 DK D3 C3 
+H3 H8 HT HK 
+H9 D5 HJ H5 
+CA C2 C6 C9 
+DJ D9 DQ H2 
+C4 SK S4 S9 
+C5 SQ S7 S6 
+C7 CK CJ CT 
+D8 ST SJ H7 
+C8 DT S8 CQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "14"]
+[West "Arch Jelley#18787"]
+[North "Marsha Woodbury#18623"]
+[East "Dong Gao Bi#36392"]
+[South "Sita Monaghan#54890"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQT2.86.AKT95.K2 J8743.JT4.Q32.J6 965.KQ752.6.QT93 A.A93.J874.A8754"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "4"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "88787887875545655456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 7,2,0,76,31,51,305,36,158,73,23,194,19,87,196,61,25,15,131,22,38,10,95,42,16,46,24,25,38,8,8,17,17,15,17,34,17,13,140,30,24,24,66,19,157,20,18,42,47,19,70,19,13,20
+[Auction "E"]
+Pass Pass 1D =1= 1NT 
+Pass 2D =2= Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+S7 S5 SA S2 
+D2 D6 D7 DK 
+H4 HQ HA H6 
+C6 C3 CA C2 
+CJ C9 C4 CK 
+HJ HK H3 H8 
+S3 S6 H9 ST 
+HT CT C5 D5 
+D3 S9 DJ DA 
+S4 CQ D4 SK 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "14"]
+[West "Sylvester Riddell *#14427"]
+[North "Peter Ramsey#43711"]
+[East "Rae Cameron *#22165"]
+[South "Sharon Mosley#64879"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQT2.86.AKT95.K2 J8743.JT4.Q32.J6 965.KQ752.6.QT93 A.A93.J874.A8754"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "5"]
+[Score "NS -150"]
+[Table "1"]
+[ScoreIMP "NS -7.25 EW 7.25"]
+[DoubleDummyTricks "88787887875545655456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 6,6,9,96,80,66,114,206,245,31,112,30,173,95,16,26,295,36,10,16,55,19,14,35,254,54,14,11,11,23,10,28,135,18,12,50,112,45,11,15,14,207,33,11,65,18,12,21,46,19,10,11,29,16,9,10,9,24,14,30,11,13,10,7
+[Auction "E"]
+Pass Pass 1C 2C 
+Pass 2D =1= Pass Pass 
+Pass 
+[Play "W"]
+CA C2 C6 C3 
+C4 CK CJ C9 
+HA H6 H4 HQ 
+D8 DA D2 D6 
+H3 H8 HT HK 
+C5 S2 D3 CQ 
+SA ST S3 S5 
+C7 D9 DQ CT 
+H9 D5 HJ H2 
+D4 DK S4 H5 
+D7 SK S7 S6 
+DJ DT S8 S9 
+C8 SQ SJ H7 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "14"]
+[West "Bruce Inglis#5111"]
+[North "Faisal Alam#26807"]
+[East "Alan Currie#1436"]
+[South "Cheryl Winsor#10588"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQT2.86.AKT95.K2 J8743.JT4.Q32.J6 965.KQ752.6.QT93 A.A93.J874.A8754"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3CX"]
+[Result "7"]
+[Score "NS 300"]
+[Table "3"]
+[ScoreIMP "NS 6.00 EW -6.00"]
+[DoubleDummyTricks "88787887875545655456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 10,5,3,39,104,246,33,20,42,70,33,220,12,12,16,12,13,83,14,14,13,20,35,19,21,10,602,41,16,21,68,141,50,19,104,27,15,18,34,34,11,9,38,70,11,7,29,22,9,22,20,15,10,13,15,15,9,7,19,7,11,7
+[Auction "E"]
+Pass 2H =1= 3C X 
+Pass Pass Pass 
+[Play "N"]
+DA D2 D6 D4 
+DK D3 S5 D7 
+DT DQ C3 D8 
+S2 S3 S6 SA 
+CK C6 C9 C4 
+D9 H4 S9 DJ 
+C2 CJ CQ C5 
+H6 HT HQ HA 
+D5 S4 CT CA 
+H8 HJ HK H3 
+ST S7 H2 H9 
+SQ S8 H5 C8 
+SK SJ H7 C7 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "15"]
+[West "Arch Jelley#18787"]
+[North "Marsha Woodbury#18623"]
+[East "Dong Gao Bi#36392"]
+[South "Sita Monaghan#54890"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J953.AT732.T2.92 642.KQ8.AK6.QJ74 AQ.54.QJ9743.A85 KT87.J96.85.KT63"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS 150"]
+[Table "4"]
+[ScoreIMP "NS 2.75 EW -2.75"]
+[DoubleDummyTricks "55674556746775867758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 8,2,0,124,151,37,66,37,191,157,43,34,33,170,14,15,101,47,35,13,56,18,25,16,39,14,31,17,15,60,22,27,151,44,33,13,25,49,11,15,15,46,17,56,13,45,21,19,14,41,12,18,34,46,11,19,20,17,12,9,17,9,12,10
+[Auction "S"]
+1D Pass 1H 1NT 
+2D 2S Pass Pass 
+Pass 
+[Play "N"]
+DT DA D3 D5 
+S3 S2 SQ SK 
+D2 DK D4 D8 
+S5 S4 SA S7 
+S9 D6 DQ S8 
+SJ S6 C5 ST 
+C9 CQ CA C3 
+H2 H8 DJ H6 
+H3 C4 D9 H9 
+H7 C7 D7 C6 
+C2 CJ C8 CK 
+HT HQ H4 CT 
+HA HK H5 HJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "15"]
+[West "Kathryn Brookes#63510"]
+[North "Beverley Morris 🐘#24081"]
+[East "Richard Brookes#70317"]
+[South "Jessica Morris#37607"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J953.AT732.T2.92 642.KQ8.AK6.QJ74 AQ.54.QJ9743.A85 KT87.J96.85.KT63"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "5"]
+[ScoreIMP "NS -5.25 EW 5.25"]
+[DoubleDummyTricks "55674556746775867758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 8,8,1,140,131,31,85,50,31,14,148,121,49,19,13,100,33,80,23,24,112,39,24,26,78,39,24,22,33,25,25,25,325,34,27,27,33,30,21,15,23,29,83,69,25,107,25,17,42,29,21,12,19,42,21,23,23,22,14,68,20,25,22,20,33,18,13,14
+[Auction "S"]
+1D Pass 1H Pass 
+2D Pass Pass X 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+DT DA D3 D5 
+S3 S2 SQ SK 
+H2 HK H4 H6 
+S5 S4 SA S7 
+D2 DK D9 D8 
+C9 C4 CA C3 
+C2 D6 DQ S8 
+S9 C7 C5 C6 
+HA H8 H5 H9 
+H3 HQ D4 HJ 
+SJ CJ C8 CT 
+H7 S6 D7 CK 
+HT CQ DJ ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "15"]
+[West "John Lory#16275"]
+[North "Pamela Jensen#31703"]
+[East "Margaret Fraser#16117"]
+[South "Jillian Ramsey#10632"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J953.AT732.T2.92 642.KQ8.AK6.QJ74 AQ.54.QJ9743.A85 KT87.J96.85.KT63"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[ScoreIMP "NS -0.75 EW 0.75"]
+[DoubleDummyTricks "55674556746775867758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 9,7,4,146,42,73,70,60,156,65,226,51,774,32,39,513,112,27,28,62,27,19,64,20,26,22,22,25,7,16,30,17,35,22,26,47,18,59,27,16,27,9,60,20,24,26,16,21,17,18,37,24,23,6,14,24,6,18,9,19,7,12,9,21,6,12
+[Auction "S"]
+1D Pass 1H X 
+2D 2S Pass 2NT 
+Pass Pass Pass 
+[Play "S"]
+D7 D5 DT DA 
+C5 CK C2 C4 
+CA C3 C9 CQ 
+DQ D8 D2 DK 
+C8 C6 H2 CJ 
+SQ CT H3 C7 
+H4 H6 H7 HK 
+H5 HJ HA H8 
+D3 H9 HT HQ 
+SA S7 S3 S2 
+DJ S8 S5 D6 
+D9 ST S9 S4 
+D4 SK SJ S6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "15"]
+[West "Bruce Inglis#5111"]
+[North "Faisal Alam#26807"]
+[East "Alan Currie#1436"]
+[South "Cheryl Winsor#10588"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J953.AT732.T2.92 642.KQ8.AK6.QJ74 AQ.54.QJ9743.A85 KT87.J96.85.KT63"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "S"]
+[Contract "2DX"]
+[Result "8"]
+[Score "NS 180"]
+[Table "3"]
+[ScoreIMP "NS 4.00 EW -4.00"]
+[DoubleDummyTricks "55674556746775867758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 6,5,3,124,75,26,91,29,464,20,45,57,70,111,22,10,95,31,17,21,210,21,26,10,356,65,120,19,17,28,9,19,23,19,14,7,14,21,21,32,21,35,11,8,32,29,11,17,33,16,16,12,51,13,13,13,16,12,14,7,8,8,6,9
+[Auction "S"]
+1D Pass Pass 1NT 
+2D X Pass Pass 
+Pass 
+[Play "W"]
+H9 HA H8 H4 
+SK S3 S4 SQ 
+HJ H2 HQ H5 
+CT C2 C4 C5 
+H6 H7 HK D3 
+C3 C9 C7 CA 
+C6 D2 CJ C8 
+D5 DT DA D4 
+CK S5 CQ D9 
+D8 H3 DK DQ 
+S7 S9 S6 SA 
+S8 HT D6 DJ 
+ST SJ S2 D7 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "15"]
+[West "Sylvester Riddell *#14427"]
+[North "Peter Ramsey#43711"]
+[East "Rae Cameron *#22165"]
+[South "Sharon Mosley#64879"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J953.AT732.T2.92 642.KQ8.AK6.QJ74 AQ.54.QJ9743.A85 KT87.J96.85.KT63"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[ScoreIMP "NS -0.75 EW 0.75"]
+[DoubleDummyTricks "55674556746775867758"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 8,6,9,395,180,50,205,40,20,35,23,27,41,166,59,12,138,142,20,12,10,19,12,15,85,23,426,41,58,34,16,82,58,38,85,13,111,121,40,30,22,19,97,11,20,16,14,9,23,17,8,9,20,24,9,13,10,15
+[Auction "S"]
+2D =1= Pass Pass X 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+DT DA D3 D5 
+S3 S2 SA S7 
+D2 DK DQ D8 
+S5 S4 SQ SK 
+C2 CQ CA C6 
+C9 D6 DJ H6 
+S9 C4 D9 H9 
+SJ S6 D4 S8 
+HA H8 H5 HJ 
+H2 HK H4 C3 
+H3 C7 C5 CK 
+H7 -  -  ST 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "16"]
+[West "Sharon Mosley#64879"]
+[North "Faisal Alam#26807"]
+[East "Peter Ramsey#43711"]
+[South "Cheryl Winsor#10588"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:962.QT642.A9.K95 QJT73.A5.K542.T6 K.873.J763.87432 A854.KJ9.QT8.AQJ"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "3"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "2142421424bb8a8bc9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  4
+S  D  2
+S  C  4
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C  8
+W NT 11
+W  S 12
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+% RBDATA 18,5,6,172,69,68,32,184,89,46,19,20,219,28,20,32,17,25,10,71,29,22,10,44,43,20,10,34,22,17,27,73,20,13,21,12,28,22,27,30,20,9,9,18,9,18,11
+[Auction "W"]
+1C 1H 1S 2H 
+4S Pass Pass Pass 
+[Play "S"]
+H7 H9 HT HA 
+SK SA S2 SQ 
+C7 S4 S6 ST 
+H3 S5 S9 SJ 
+C2 CJ CK C6 
+D3 D8 DA D2 
+D6 DQ D9 D4 
+C3 CA C5 CT 
+C4 CQ C9 D5 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "16"]
+[West "Kathryn Brookes#63510"]
+[North "Rae Cameron *#22165"]
+[East "Richard Brookes#70317"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:962.QT642.A9.K95 QJT73.A5.K542.T6 K.873.J763.87432 A854.KJ9.QT8.AQJ"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "2142421424bb8a8bc9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  4
+S  D  2
+S  C  4
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C  8
+W NT 11
+W  S 12
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+% RBDATA 18,9,1,176,70,29,31,77,121,29,47,29,26,100,183,31,16,229,32,103,31,29,150,29,23,51,58,12,11,189,13,22,26,111,45,15,10,34,18,13,21,60,23,12,84,19,33,11,7,22,10
+[Auction "W"]
+1C Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+C3 CQ CK C6 
+D7 D8 DA D2 
+D3 DT D9 D4 
+H8 H9 H2 HA 
+SK SA S2 SQ 
+C2 S4 S6 SJ 
+C4 S5 S9 ST 
+D6 DQ H4 D5 
+C7 CA C5 CT 
+-  CJ C9 -  
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "16"]
+[West "Bruce Inglis#5111"]
+[North "Dong Gao Bi#36392"]
+[East "Alan Currie#1436"]
+[South "Arch Jelley#18787"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:962.QT642.A9.K95 QJT73.A5.K542.T6 K.873.J763.87432 A854.KJ9.QT8.AQJ"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "5"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "2142421424bb8a8bc9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  4
+S  D  2
+S  C  4
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C  8
+W NT 11
+W  S 12
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+% RBDATA 18,0,3,633,72,44,30,104,49,64,65,351,85,16,36,70,136,61,31,41,45,45,23,32,16,25,55,95,23,21,288,121,31,22,8,6,29,68,38,27,18,44,16
+[Auction "W"]
+1C 1H 1S Pass 
+2H Pass 2NT Pass 
+4S Pass Pass Pass 
+[Play "S"]
+H8 H9 HT HA 
+SK SA S6 SQ 
+C3 S4 S2 ST 
+C2 CJ CK C6 
+D7 D8 DA D2 
+D3 DT D9 D4 
+C4 S5 S9 SJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "16"]
+[West "Jillian Ramsey#10632"]
+[North "Beverley Morris 🐘#24081"]
+[East "Pamela Jensen#31703"]
+[South "Jessica Morris#37607"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:962.QT642.A9.K95 QJT73.A5.K542.T6 K.873.J763.87432 A854.KJ9.QT8.AQJ"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "2142421424bb8a8bc9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  4
+S  D  2
+S  C  4
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C  8
+W NT 11
+W  S 12
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+% RBDATA 14,8,7,465,36,59,30,93,92,127,38,277,29,39,192,41,40,165,36,19,29,25,23,20,19,331,31,12,24,58,163,18,13,207,43,18,29,49,21,19,57,17,27,16,78,44,25,15,16
+[Auction "W"]
+1NT Pass 2H =1= Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H4 H5 H8 H9 
+D9 DK D3 D8 
+S2 SQ SK SA 
+S6 SJ C2 S4 
+S9 ST C7 S5 
+CK C6 C3 CJ 
+DA D2 D6 DT 
+H2 HA H3 HJ 
+C5 CT C4 CA 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "16"]
+[West "John Lory#16275"]
+[North "Marsha Woodbury#18623"]
+[East "Margaret Fraser#16117"]
+[South "Sita Monaghan#54890"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:962.QT642.A9.K95 QJT73.A5.K542.T6 K.873.J763.87432 A854.KJ9.QT8.AQJ"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "4"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "2142421424bb8a8bc9b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  4
+S  D  2
+S  C  4
+E NT 11
+E  S 11
+E  H  8
+E  D 10
+E  C  8
+W NT 11
+W  S 12
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+% RBDATA 18,2,4,474,127,90,613,87,27,177,16,59,36,18,13,195,81,17,18,9,66,135,29,36,26,22,14,28,18,22,8,45,23,12,20,87,18,15,10,274,21,21,22,34,26,13,15,53,20,11,13,13,24,10,10,14,19,11,13,3,22,9,10,10,17,9,10
+[Auction "W"]
+1NT Pass 2H =1= Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+DA D2 D3 D8 
+D9 D4 D6 DT 
+H2 HA H3 H9 
+S2 SQ SK SA 
+S6 SJ C2 S4 
+S9 ST C3 S5 
+CK CT C4 CJ 
+C5 C6 C7 CQ 
+C9 H5 C8 CA 
+H4 D5 D7 DQ 
+H6 DK H7 HK 
+HT S3 DJ S8 
+HQ S7 H8 HJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "17"]
+[West "Sharon Mosley#64879"]
+[North "Faisal Alam#26807"]
+[East "Peter Ramsey#43711"]
+[South "Cheryl Winsor#10588"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.J87.542.95 J9.5432.Q86.KQT2 Q82.T.973.J87643 AT3.AKQ96.AKJT.A"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "3"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "0300304003d9ddad9dda"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  3
+S NT  0
+S  S  4
+S  H  0
+S  D  0
+S  C  3
+E NT 13
+E  S  9
+E  H 13
+E  D 13
+E  C 10
+W NT 13
+W  S  9
+W  H 13
+W  D 13
+W  C 10
+[OptimumScore "NS -1520"]
+[Competition "Pairs"]
+% RBDATA 27,5,6,41,35,24,95,27,93,15,347,33,66,21,480,91,34,18,25,228,14,19,32,33,10,16,32,14,19,30,42,33,21,9,73,37,11,11,18,20,9,20,10,11,10,18,19,62
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1S =1= Pass 1NT =2= 
+Pass 2H Pass 6H 
+Pass Pass Pass 
+[Play "S"]
+C6 CA C5 C2 
+HT HA H8 H2 
+D3 HK H7 H3 
+C3 HQ HJ H4 
+D7 DT D4 DQ 
+C4 S3 C9 CK 
+C7 ST S4 CQ 
+D9 -  -  H5 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "17"]
+[West "Kathryn Brookes#63510"]
+[North "Rae Cameron *#22165"]
+[East "Richard Brookes#70317"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.J87.542.95 J9.5432.Q86.KQT2 Q82.T.973.J87643 AT3.AKQ96.AKJT.A"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "0300304003d9ddad9dda"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  3
+S NT  0
+S  S  4
+S  H  0
+S  D  0
+S  C  3
+E NT 13
+E  S  9
+E  H 13
+E  D 13
+E  C 10
+W NT 13
+W  S  9
+W  H 13
+W  D 13
+W  C 10
+[OptimumScore "NS -1520"]
+[Competition "Pairs"]
+% RBDATA 27,9,1,104,34,117,103,28,41,16,373,96,15,17,142,158,22,179,29,23,12,13,57,19,10,15,74,21,10,25,52,25,10,11,43,39,11,11
+[Auction "N"]
+Pass Pass 3C X 
+Pass 3H Pass 6H 
+Pass Pass Pass 
+[Play "S"]
+D7 DT D4 D6 
+HT HA H7 H2 
+C8 HK H8 H3 
+C3 HQ HJ H4 
+C4 CA C5 C2 
+D3 DJ D5 DQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "17"]
+[West "Bruce Inglis#5111"]
+[North "Dong Gao Bi#36392"]
+[East "Alan Currie#1436"]
+[South "Arch Jelley#18787"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.J87.542.95 J9.5432.Q86.KQT2 Q82.T.973.J87643 AT3.AKQ96.AKJT.A"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS -510"]
+[Table "5"]
+[ScoreIMP "NS 11.00 EW -11.00"]
+[DoubleDummyTricks "0300304003d9ddad9dda"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  3
+S NT  0
+S  S  4
+S  H  0
+S  D  0
+S  C  3
+E NT 13
+E  S  9
+E  H 13
+E  D 13
+E  C 10
+W NT 13
+W  S  9
+W  H 13
+W  D 13
+W  C 10
+[OptimumScore "NS -1520"]
+[Competition "Pairs"]
+% RBDATA 17,0,3,91,16,24,113,90,47,40,85,76,49,95,151,28,280,192,43,9,73,45,7,230,34,11,10,13,34,26,10,14,10,29,9,10,84,31,9,16,8,17,7,8,23,12,9,6
+[Auction "N"]
+Pass Pass Pass 2C 
+Pass 2D =1= Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+D2 D6 D7 DA 
+H7 H2 HT HA 
+H8 H3 D3 HK 
+HJ H4 D9 HQ 
+C5 C2 C3 CA 
+D4 DQ C4 DT 
+C9 CK C6 S3 
+S4 CQ C7 ST 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "17"]
+[West "John Lory#16275"]
+[North "Marsha Woodbury#18623"]
+[East "Margaret Fraser#16117"]
+[South "Sita Monaghan#54890"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.J87.542.95 J9.5432.Q86.KQT2 Q82.T.973.J87643 AT3.AKQ96.AKJT.A"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "4"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "0300304003d9ddad9dda"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  3
+S NT  0
+S  S  4
+S  H  0
+S  D  0
+S  C  3
+E NT 13
+E  S  9
+E  H 13
+E  D 13
+E  C 10
+W NT 13
+W  S  9
+W  H 13
+W  D 13
+W  C 10
+[OptimumScore "NS -1520"]
+[Competition "Pairs"]
+% RBDATA 27,2,4,140,41,43,123,27,160,24,348,86,23,14,109,110,70,27,57,20,16,12,26,16,24,9,79,17,21,15,86,20,18,10,64,19,15,11,25,22,17,9,26,17,14,9
+[Auction "N"]
+Pass Pass 3C X 
+Pass 3H Pass 6H 
+Pass Pass Pass 
+[Play "S"]
+D7 DT D5 D6 
+HT HA H7 H2 
+C3 HK H8 H3 
+C4 HQ HJ H4 
+C6 CA C5 C2 
+D3 DJ D4 DQ 
+C7 S3 C9 CK 
+C8 ST D2 CQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "17"]
+[West "Jillian Ramsey#10632"]
+[North "Beverley Morris 🐘#24081"]
+[East "Pamela Jensen#31703"]
+[South "Jessica Morris#37607"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7654.J87.542.95 J9.5432.Q86.KQT2 Q82.T.973.J87643 AT3.AKQ96.AKJT.A"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "0300304003d9ddad9dda"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  3
+S NT  0
+S  S  4
+S  H  0
+S  D  0
+S  C  3
+E NT 13
+E  S  9
+E  H 13
+E  D 13
+E  C 10
+W NT 13
+W  S  9
+W  H 13
+W  D 13
+W  C 10
+[OptimumScore "NS -1520"]
+[Competition "Pairs"]
+% RBDATA 27,8,7,67,44,94,165,130,73,23,113,31,296,32,201,28,349,87,22,129,89,115,28,25,52,30,26,20,21,19,17,169,20,24,17,43,23,20,20,22,20,23,9,16,10,21,9,19
+[Auction "N"]
+Pass Pass Pass 2C 
+Pass 2D =1= Pass 2NT 
+Pass 3NT Pass 4H 
+Pass 6H Pass Pass 
+Pass 
+[Play "N"]
+C9 C2 C3 CA 
+H7 H2 HT HA 
+H8 H3 C7 HK 
+HJ H4 D7 HQ 
+D5 DQ D3 DT 
+C5 CK C4 S3 
+D2 CQ C6 ST 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "18"]
+[West "Sharon Mosley#64879"]
+[North "Faisal Alam#26807"]
+[East "Peter Ramsey#43711"]
+[South "Cheryl Winsor#10588"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.QJ976..K762 83.K52.AKT9.AT94 AQT5.83.Q875.Q83 J42.AT4.J6432.J5"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "3"]
+[ScoreIMP "NS 6.50 EW -6.50"]
+[DoubleDummyTricks "68847688477458574585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 8,5,6,206,34,64,91,68,27,75,21,39,57,67,158,34,25,150,18,18,14,22,22,15,51,23,61,21,47,28,23,24,23,149,65,23,168,54,12,47,23,20,10,10,21,24,16,10,22,9,19,9,25,15,8,9,9,12,6,10,9,14,6,5
+[Auction "E"]
+1NT Pass Pass 2C =1= 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+CJ C2 C4 CQ 
+HA H6 H5 H3 
+C5 C6 C9 C3 
+S2 C7 CT C8 
+HT HJ HK H8 
+SJ CK CA ST 
+H4 H7 H2 D5 
+S4 S6 S3 SQ 
+D6 S7 S8 SA 
+D2 SK D9 S5 
+D3 HQ DT D7 
+D4 H9 DK D8 
+DJ S9 DA DQ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "18"]
+[West "Kathryn Brookes#63510"]
+[North "Rae Cameron *#22165"]
+[East "Richard Brookes#70317"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.QJ976..K762 83.K52.AKT9.AT94 AQT5.83.Q875.Q83 J42.AT4.J6432.J5"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "4"]
+[Score "NS -400"]
+[Table "1"]
+[ScoreIMP "NS -8.25 EW 8.25"]
+[DoubleDummyTricks "68847688477458574585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 6,9,1,163,55,34,284,25,24,31,175,101,83,28,45,35,38,24,53,57,23,29,114,41,12,14,35,18,28,23,60,29,23,20,83,66,20,29,64,132,54,15,50,42,47,34,47,80,28,46,129,15,57,28
+[Auction "E"]
+1NT Pass Pass 2D 
+Pass Pass Pass 
+[Play "E"]
+H2 H3 HA H6 
+CA C3 C5 C2 
+CT CQ CJ C6 
+S3 S5 S2 SK 
+S8 SQ S4 S6 
+C4 C8 D2 C7 
+HK H8 H4 HQ 
+C9 ST D3 CK 
+D9 SA SJ S7 
+H5 D5 HT HJ 
+DT D7 D4 H7 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "18"]
+[West "Bruce Inglis#5111"]
+[North "Dong Gao Bi#36392"]
+[East "Alan Currie#1436"]
+[South "Arch Jelley#18787"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.QJ976..K762 83.K52.AKT9.AT94 AQT5.83.Q875.Q83 J42.AT4.J6432.J5"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "5"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "68847688477458574585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 11,0,3,125,29,46,87,19,88,50,120,125,50,52,24,24,61,179,43,37,27,27,43,14,40,48,48,21,18,55,31,25,17,29,29,21,16,92,75,31,30,18,28,49,24,52,16,19,29,21,29,6,24,42,68,21,6,24,15,7,9
+[Auction "E"]
+1D Pass 3D Pass 
+Pass Pass 
+[Play "S"]
+H8 H4 H6 HK 
+D5 D2 H7 DA 
+CQ C5 C2 C4 
+H3 HA H9 H2 
+C3 CJ C6 C9 
+D7 D3 S6 DK 
+C8 HT C7 CA 
+S5 S2 S9 S8 
+ST D4 CK CT 
+SA SJ SK S3 
+SQ S4 S7 D9 
+DQ D6 HJ H5 
+D8 DJ HQ DT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "18"]
+[West "John Lory#16275"]
+[North "Marsha Woodbury#18623"]
+[East "Margaret Fraser#16117"]
+[South "Sita Monaghan#54890"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.QJ976..K762 83.K52.AKT9.AT94 AQT5.83.Q875.Q83 J42.AT4.J6432.J5"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "4"]
+[ScoreIMP "NS 4.50 EW -4.50"]
+[DoubleDummyTricks "68847688477458574585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 11,2,4,112,170,173,41,47,184,50,30,34,19,232,243,14,17,30,76,320,53,19,42,20,22,96,90,17,24,117,26,16,18,15,23,17,10,32,24,10,42,19,19,9,23,17,11,11,61,63,14,9,10,13,11,11,17,17,11,32,17,13,14,10,9
+[Auction "E"]
+1NT Pass Pass 2H 
+Pass 2S 3D Pass 
+Pass Pass 
+[Play "N"]
+HQ H2 H8 HA 
+S6 D9 DQ D2 
+HJ HK H3 HT 
+H6 H5 S5 H4 
+S7 S8 SA S2 
+S9 S3 SQ S4 
+SK DT ST SJ 
+H7 DA D5 D3 
+C2 DK D7 D4 
+C6 CA C3 C5 
+CK C4 C8 CJ 
+H9 C9 CQ D6 
+C7 CT D8 DJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "18"]
+[West "Jillian Ramsey#10632"]
+[North "Beverley Morris 🐘#24081"]
+[East "Pamela Jensen#31703"]
+[South "Jessica Morris#37607"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.QJ976..K762 83.K52.AKT9.AT94 AQT5.83.Q875.Q83 J42.AT4.J6432.J5"]
+[Scoring "IMP;Cross2"]
+[Round "6"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "68847688477458574585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  4
+N  C  7
+S NT  6
+S  S  8
+S  H  8
+S  D  4
+S  C  7
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 12,8,7,267,109,163,318,254,28,39,183,241,16,31,445,76,20,33,119,24,24,24,48,34,16,29,52,22,19,32,95,38,14,24,41,50,17,21,25,20,23,13,61,35,29,16,81,25,15,15,53,23,17,20,33,13,16,15,20,16,7,84
+[Auction "E"]
+1D Pass 3D 3H 
+Pass Pass Pass 
+[Play "E"]
+DA D5 D6 C2 
+DT DQ D2 C6 
+HK H3 H4 HJ 
+D9 D7 D3 H6 
+H2 H8 HA HQ 
+DK D8 D4 H7 
+S3 SA S4 S6 
+S8 S5 S2 SK 
+H5 ST SJ S7 
+CA C3 C5 C7 
+CT C8 CJ CK 
+C4 SQ HT S9 
+C9 CQ DJ H9 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "19"]
+[West "Sharon Mosley#64879"]
+[North "Dong Gao Bi#36392"]
+[East "Peter Ramsey#43711"]
+[South "Arch Jelley#18787"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQT62.Q72.83.J5 J9.A5.AJ2.AT9832 754.T9.K94.KQ764 83.KJ8643.QT765."]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "5"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "772267722644aa744aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  2
+N  C  6
+S NT  7
+S  S  7
+S  H  2
+S  D  2
+S  C  6
+E NT  4
+E  S  4
+E  H 10
+E  D 10
+E  C  7
+W NT  4
+W  S  4
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 13,0,6,112,138,121,111,48,35,60,31,21,197,34,19,12,14,24,47,278,52,23,18,37,22,43,20,82,48,17,18,87,21,32,44,22,22,8,12
+[Auction "S"]
+Pass 2H 2S 3H 
+3S Pass Pass Pass 
+[Play "E"]
+HA H9 H3 H2 
+H5 HT HK HQ 
+DA D4 D7 D3 
+CA C4 H4 CJ 
+CT CK S3 C5 
+S9 D9 HJ H7 
+DJ DK D5 D8 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "19"]
+[West "John Lory#16275"]
+[North "Alan Currie#1436"]
+[East "Margaret Fraser#16117"]
+[South "Bruce Inglis#5111"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQT62.Q72.83.J5 J9.A5.AJ2.AT9832 754.T9.K94.KQ764 83.KJ8643.QT765."]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScoreIMP "NS 4.75 EW -4.75"]
+[DoubleDummyTricks "772267722644aa744aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  2
+N  C  6
+S NT  7
+S  S  7
+S  H  2
+S  D  2
+S  C  6
+E NT  4
+E  S  4
+E  H 10
+E  D 10
+E  C  7
+W NT  4
+W  S  4
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 8,3,4,181,80,42,97,115,310,20,32,92,47,59,21,52,23,32,26,72,29,16,9,35,58,14,11,75,29,14,37,54,30,22,9,37,20,39,32
+[Auction "S"]
+Pass Pass 1S 2C 
+2S Pass Pass Pass 
+[Play "E"]
+CA C4 H4 C5 
+C2 C6 S8 CJ 
+H5 H9 HK H2 
+HA HT H3 H7 
+C3 C7 S3 S6 
+S9 S4 H6 SA 
+SJ S5 D6 SK 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "19"]
+[West "Jessica Morris#37607"]
+[North "Marsha Woodbury#18623"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sita Monaghan#54890"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQT62.Q72.83.J5 J9.A5.AJ2.AT9832 754.T9.K94.KQ764 83.KJ8643.QT765."]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "4"]
+[ScoreIMP "NS -1.00 EW 1.00"]
+[DoubleDummyTricks "772267722644aa744aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  2
+N  C  6
+S NT  7
+S  S  7
+S  H  2
+S  D  2
+S  C  6
+E NT  4
+E  S  4
+E  H 10
+E  D 10
+E  C  7
+W NT  4
+W  S  4
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 13,2,8,274,415,187,71,89,30,76,18,22,30,32,84,16,20,13,18,17,20,81,16,32,44,101,23,35,9,36,144,22,11,38,52,37,100,20,19,12,18,23,44,10,18,10,36,8,21,10,28,9,15,14,27,8,22,28,20
+[Auction "S"]
+Pass 2H =1= 2S 3C =2= 
+Pass 3D 3S Pass 
+Pass Pass 
+[Play "E"]
+HA H9 H3 H2 
+H5 HT HK H7 
+S9 D4 H4 HQ 
+CA C4 H6 C5 
+C2 C6 S3 CJ 
+C3 D9 H8 SQ 
+SJ S4 S8 SA 
+D2 S5 D5 SK 
+DJ S7 D6 S2 
+C8 CK D7 D3 
+C9 CQ HJ D8 
+-  C7 DT -  
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "19"]
+[West "Cheryl Winsor#10588"]
+[North "Rae Cameron *#22165"]
+[East "Faisal Alam#26807"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQT62.Q72.83.J5 J9.A5.AJ2.AT9832 754.T9.K94.KQ764 83.KJ8643.QT765."]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "3"]
+[ScoreIMP "NS -4.50 EW 4.50"]
+[DoubleDummyTricks "772267722644aa744aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  2
+N  C  6
+S NT  7
+S  S  7
+S  H  2
+S  D  2
+S  C  6
+E NT  4
+E  S  4
+E  H 10
+E  D 10
+E  C  7
+W NT  4
+W  S  4
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 18,9,5,587,97,238,141,45,33,119,235,69,18,72,78,14,44,155,74,18,27,41,35,22,65,14,33,11,26,14,21,16,34,88,29,15,37,14,32,18,30,26,17,20,8,34,32,15,8,29,17,14,8,32,11,20,6,23,13,20,9,11,8,10,6
+[Auction "S"]
+Pass 2H =1= 2S X 
+3S 4H 4S Pass 
+Pass Pass 
+[Play "E"]
+CA C4 H3 C5 
+C2 C6 S3 CJ 
+DA D4 D5 D3 
+HA H9 H4 H2 
+H5 HT HK H7 
+S9 D9 H8 HQ 
+CT CK S8 SQ 
+SJ S4 D6 SA 
+D2 S5 D7 SK 
+DJ DK DT D8 
+C3 CQ H6 S2 
+C8 S7 HJ S6 
+C9 C7 DQ ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "19"]
+[West "Kathryn Brookes#63510"]
+[North "Pamela Jensen#31703"]
+[East "Richard Brookes#70317"]
+[South "Jillian Ramsey#10632"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQT62.Q72.83.J5 J9.A5.AJ2.AT9832 754.T9.K94.KQ764 83.KJ8643.QT765."]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 3.50 EW -3.50"]
+[DoubleDummyTricks "772267722644aa744aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  2
+N  D  2
+N  C  6
+S NT  7
+S  S  7
+S  H  2
+S  D  2
+S  C  6
+E NT  4
+E  S  4
+E  H 10
+E  D 10
+E  C  7
+W NT  4
+W  S  4
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 21,7,1,157,92,382,173,118,51,205,55,31,32,208,119,69,15,29,84,27,9,21,208,37,33,29,36,31,20,69,100,30,70,27,77,28,17,10,67,17,20,10,23,20,15,10,29,14,19,10,24,15,21,36,28,15,14,21
+[Auction "S"]
+Pass 2H =1= 2S 3C =2= 
+3S 4D 4S 5D 
+Pass Pass Pass 
+[Play "N"]
+SA S9 S7 S3 
+SK SJ S4 S8 
+H2 H5 H9 HJ 
+D3 D2 DK DQ 
+C5 CA CK H3 
+D8 DA D4 D5 
+S2 DJ D9 D6 
+H7 HA HT H4 
+CJ C2 C4 D7 
+HQ C3 C6 HK 
+S6 C8 C7 H8 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "20"]
+[West "Sharon Mosley#64879"]
+[North "Dong Gao Bi#36392"]
+[East "Peter Ramsey#43711"]
+[South "Arch Jelley#18787"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT8.AKJ874.73 KQJ64.653.T.K852 9875.K972.Q652.6 AT3.J4.93.AQJT94"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 100"]
+[Table "5"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "22bb122bb13a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H 11
+N  D 11
+N  C  1
+S NT  2
+S  S  2
+S  H 11
+S  D 11
+S  C  1
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 20,0,6,259,347,88,98,14,105,102,92,14,13,379,20,21,20,6,20,13,7,116,58,22,17,60,23,8,19,94,15,19,17
+[Auction "W"]
+2C =1= 2D 5C Pass 
+Pass Pass 
+[Play "N"]
+DA DT D2 D3 
+HA H3 H2 HJ 
+H8 H5 HK H4 
+HT H6 H9 C9 
+C3 C2 C6 CA 
+C7 CK H7 C4 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "20"]
+[West "John Lory#16275"]
+[North "Alan Currie#1436"]
+[East "Margaret Fraser#16117"]
+[South "Bruce Inglis#5111"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT8.AKJ874.73 KQJ64.653.T.K852 9875.K972.Q652.6 AT3.J4.93.AQJT94"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "22bb122bb13a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H 11
+N  D 11
+N  C  1
+S NT  2
+S  S  2
+S  H 11
+S  D 11
+S  C  1
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 6,3,4,167,62,114,75,136,21,139,99,53,24,23,77,33,25,19,35,25,14,19,30,31,8,24,33,31,11,13,76,25,21,8,75,16,21,13
+[Auction "W"]
+1C 1D 1S 2D 
+Pass Pass Pass 
+[Play "E"]
+C2 C6 CA C3 
+SK S5 S3 S2 
+SQ S7 ST D4 
+DT D2 D3 DA 
+S4 D5 D9 DK 
+H3 H2 H4 HA 
+H5 HK HJ H8 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "20"]
+[West "Jessica Morris#37607"]
+[North "Marsha Woodbury#18623"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sita Monaghan#54890"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT8.AKJ874.73 KQJ64.653.T.K852 9875.K972.Q652.6 AT3.J4.93.AQJT94"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "4"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "22bb122bb13a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H 11
+N  D 11
+N  C  1
+S NT  2
+S  S  2
+S  H 11
+S  D 11
+S  C  1
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 11,2,8,261,74,32,36,479,94,21,35,29,46,22,45,23,26,23,49,24,12,29,77,29,12,41,31,67,10,25,41,30,26,23,10,27,12,12,17,23,9,21,19,49,15,21,21,24,8,35,48,21,18,7,14,26,8,18,18,20,8,19
+[Auction "W"]
+1C 1D 1S 3D 
+Pass Pass Pass 
+[Play "E"]
+SK S5 S3 S2 
+SQ S7 ST D4 
+DT DQ D3 D7 
+C2 D2 D9 DK 
+S4 D5 C4 DA 
+H6 HK H4 H8 
+H3 H2 HJ HQ 
+H5 H9 C9 HA 
+C5 H7 CT HT 
+C8 C6 CJ C3 
+S6 S8 SA D8 
+CK D6 CQ C7 
+SJ S9 CA DJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "20"]
+[West "Kathryn Brookes#63510"]
+[North "Pamela Jensen#31703"]
+[East "Richard Brookes#70317"]
+[South "Jillian Ramsey#10632"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT8.AKJ874.73 KQJ64.653.T.K852 9875.K972.Q652.6 AT3.J4.93.AQJT94"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[ScoreIMP "NS -9.00 EW 9.00"]
+[DoubleDummyTricks "22bb122bb13a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H 11
+N  D 11
+N  C  1
+S NT  2
+S  S  2
+S  H 11
+S  D 11
+S  C  1
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 13,7,1,177,395,81,123,55,85,33,34,44,125,50,40,42,32,15,80,256,107,109,14,276,19,36,11,54,30,22,12,10,48,14,13,78,23,11,18,67,19,11,20,41,21,9,7,13,23,10
+[Auction "W"]
+1C X 1S X 
+2C 2D 3C Pass 
+Pass 3H Pass Pass 
+3S Pass Pass Pass 
+[Play "S"]
+H2 H4 HA H3 
+H7 HJ HQ H5 
+D2 D3 DA DT 
+D5 D9 DK S4 
+S5 SA S2 S6 
+S7 S3 D4 SK 
+S8 ST D7 SQ 
+S9 C4 -  SJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "20"]
+[West "Cheryl Winsor#10588"]
+[North "Rae Cameron *#22165"]
+[East "Faisal Alam#26807"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT8.AKJ874.73 KQJ64.653.T.K852 9875.K972.Q652.6 AT3.J4.93.AQJT94"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "3"]
+[ScoreIMP "NS 11.00 EW -11.00"]
+[DoubleDummyTricks "22bb122bb13a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H 11
+N  D 11
+N  C  1
+S NT  2
+S  S  2
+S  H 11
+S  D 11
+S  C  1
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 21,9,5,497,68,35,102,27,66,48,112,41,293,84,14,15,40,84,10,16,168,37,30,43,129,25,22,8,60,54,56,29,108,25,21,11,70,65,43,10,62,15,32,12,41,16,11,16,159,66,24,9,22
+[Auction "W"]
+1C 1D 1S 2D 
+X Pass 2S 3D 
+3S 5D Pass Pass 
+Pass 
+[Play "E"]
+SK S5 S3 S2 
+SQ S7 ST D4 
+DT D2 D3 DA 
+S4 DQ D9 D7 
+H5 H2 H4 HA 
+H3 H7 HJ HQ 
+H6 HK C4 H8 
+C2 H9 C9 HT 
+C8 C6 CT C3 
+-  -  SA -  
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "21"]
+[West "Sharon Mosley#64879"]
+[North "Dong Gao Bi#36392"]
+[East "Peter Ramsey#43711"]
+[South "Arch Jelley#18787"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT954.AT74.74.Q2 6.KQ53.AJ963.T94 A3.9.QT852.AK863 QJ872.J862.K.J75"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "5"]
+[ScoreIMP "NS -1.25 EW 1.25"]
+[DoubleDummyTricks "99789997894464344643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 10,0,6,90,46,92,108,330,70,162,26,290,398,42,39,111,105,30,16,33,237,41,24,42,177,25,18,66,26,8,39,119,90,26,19,112,21,9,25,9,16,14,10,56,62,6,15,18,17,9,17,281,50,45,108,15,17,6,12,18,13,10,6
+[Auction "N"]
+Pass Pass 2NT =1= Pass 
+3C =2= Pass Pass Pass 
+[Play "E"]
+S6 S3 SJ SK 
+DA D2 DK D4 
+D3 D5 C5 D7 
+H3 H9 H8 HA 
+C4 SA S2 S4 
+HK C3 H2 H4 
+CT C6 C7 CQ 
+C9 CA CJ C2 
+D6 DQ H6 S5 
+DJ DT S7 S9 
+HQ C8 HJ H7 
+D9 D8 S8 ST 
+H5 CK SQ HT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "21"]
+[West "Jessica Morris#37607"]
+[North "Marsha Woodbury#18623"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sita Monaghan#54890"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT954.AT74.74.Q2 6.KQ53.AJ963.T94 A3.9.QT852.AK863 QJ872.J862.K.J75"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "4"]
+[ScoreIMP "NS -1.25 EW 1.25"]
+[DoubleDummyTricks "99789997894464344643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 14,2,8,304,92,29,143,30,91,52,93,58,76,16,22,62,286,29,19,112,44,71,21,22,23,32,92,172,26,24,19,68,32,19,76,38,21,21,36,21,92,22,115,27,20,33,28,160,20,20,31,20,53,9,17,10,31
+[Auction "N"]
+Pass Pass 1D 1S 
+X 1NT 3C Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S6 S3 SJ SK 
+D3 DT DK D7 
+CT SA S2 S4 
+C4 C3 C5 CQ 
+DA D2 S7 D4 
+HK H9 H2 H4 
+H3 C6 HJ H7 
+C9 D5 SQ S5 
+H5 D8 H8 HA 
+D6 C8 S8 ST 
+D9 -  -  C2 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "21"]
+[West "Kathryn Brookes#63510"]
+[North "Pamela Jensen#31703"]
+[East "Richard Brookes#70317"]
+[South "Jillian Ramsey#10632"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT954.AT74.74.Q2 6.KQ53.AJ963.T94 A3.9.QT852.AK863 QJ872.J862.K.J75"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[ScoreIMP "NS 5.00 EW -5.00"]
+[DoubleDummyTricks "99789997894464344643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 6,7,1,152,48,99,79,98,138,64,74,254,29,33,42,57,291,13,17,59,15,19,31,34,25,117,31,179,38,100,18,272,31,26,43,112,25,14,18,14,14,20,17,28,30,15,13,49,25,13,22,27,26,19,13,14,85,13,9,18,21,8,8,8,20,8,9
+[Auction "N"]
+Pass Pass 1D 1S 
+X 1NT 2C Pass 
+2D Pass Pass Pass 
+[Play "W"]
+SQ SK S6 S3 
+DK D4 D3 DT 
+S2 S4 D6 SA 
+C5 D7 DA D2 
+H2 HA HK H9 
+C7 CQ C4 C3 
+CJ C2 C9 CA 
+S7 H4 CT CK 
+S8 H7 D9 C8 
+H6 HT HQ D5 
+SJ S5 DJ DQ 
+H8 S9 H5 D8 
+HJ ST H3 C6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "21"]
+[West "John Lory#16275"]
+[North "Alan Currie#1436"]
+[East "Margaret Fraser#16117"]
+[South "Bruce Inglis#5111"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT954.AT74.74.Q2 6.KQ53.AJ963.T94 A3.9.QT852.AK863 QJ872.J862.K.J75"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[ScoreIMP "NS -1.25 EW 1.25"]
+[DoubleDummyTricks "99789997894464344643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 14,3,4,173,135,383,34,194,30,46,34,38,30,105,178,23,42,32,131,24,9,12,52,16,13,178,93,48,28,286,91,20,20,76,18,9,16,14,17,9,12,785,24,131,47,62,62,314,47,64,158,13,16,678,18,8,56,19,15,22,8,12,9,10,10
+[Auction "N"]
+1S 2D 3C Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+DK D4 D3 D2 
+C7 CQ C4 C3 
+S2 D7 DA D5 
+SQ SK S6 S3 
+S7 S4 H3 SA 
+C5 C2 CT CA 
+CJ H4 C9 CK 
+H2 S5 D6 C8 
+H6 S9 D9 C6 
+H8 ST DJ DQ 
+HJ H7 H5 H9 
+SJ HT HQ D8 
+S8 HA HK DT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "21"]
+[West "Cheryl Winsor#10588"]
+[North "Rae Cameron *#22165"]
+[East "Faisal Alam#26807"]
+[South "Sylvester Riddell *#14427"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT954.AT74.74.Q2 6.KQ53.AJ963.T94 A3.9.QT852.AK863 QJ872.J862.K.J75"]
+[Scoring "IMP;Cross2"]
+[Round "7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "3"]
+[ScoreIMP "NS -1.25 EW 1.25"]
+[DoubleDummyTricks "99789997894464344643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 14,9,5,252,51,78,61,156,85,39,23,155,22,408,26,189,27,11,21,39,97,20,52,23,24,50,40,45,27,14,16,38,17,29,9,51,17,64,13,36,11,34,15,45,12,200,18,26,13,58,17,14,53,16,171,40,33,22,33,16,28,80,15,23,57,9,11,12,6,38,7
+[Auction "N"]
+Pass Pass 1D 1S 
+X Pass 2C Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S6 S3 SJ S4 
+H3 SA S2 S5 
+C4 C3 C5 CQ 
+C9 CA C7 C2 
+CT CK CJ H4 
+D3 C8 S7 D4 
+D6 C6 H2 D7 
+HK H9 H6 H7 
+D9 DT DK S9 
+HQ D2 H8 HT 
+DA D5 S8 ST 
+H5 D8 HJ HA 
+DJ DQ SQ SK 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "22"]
+[West "Kathryn Brookes#63510"]
+[North "Faisal Alam#26807"]
+[East "Richard Brookes#70317"]
+[South "Cheryl Winsor#10588"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A43.A94.QJ97.QT3 Q.KT73.A832.9765 T9762.85.65.AJ84 KJ85.QJ62.KT4.K2"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "3"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "56456564568797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 4,5,1,183,131,46,126,20,149,29,88,14,35,67,26,10,32,112,26,15,12,22,12,21,21,357,31,8,27,89,72,24,34,32,37,24,9,16,24,42,35,107,13,15,9,33,22,20,18,36,44,27,11,20,14,17,4,17,7,18,9
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+DQ D2 D5 D4 
+D7 D3 D6 DT 
+H4 HT H5 H2 
+HA H3 H8 HQ 
+S3 SQ S2 S5 
+D9 D8 C4 DK 
+SA C5 S6 SK 
+C3 C6 C8 CK 
+S4 C7 S7 SJ 
+H9 H7 CJ HJ 
+CT HK S9 H6 
+DJ DA ST C2 
+CQ C9 CA S8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "22"]
+[West "Sharon Mosley#64879"]
+[North "Margaret Fraser#16117"]
+[East "Peter Ramsey#43711"]
+[South "John Lory#16275"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A43.A94.QJ97.QT3 Q.KT73.A832.9765 T9762.85.65.AJ84 KJ85.QJ62.KT4.K2"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[ScoreIMP "NS 0.75 EW -0.75"]
+[DoubleDummyTricks "56456564568797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 4,4,6,133,27,230,63,35,26,59,377,18,11,76,45,12,18,264,49,26,10,140,45,107,35,37,102,20,12,28,23,13,11,56,50,14,14,95,140,23,12,26,30,17,20,9,23,39,13
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+DQ D2 D5 D4 
+DJ D3 D6 DK 
+SA SQ S2 S5 
+CT C5 C4 CK 
+HA H3 H5 HQ 
+C3 C6 CA C2 
+CQ C7 C8 S8 
+S4 C9 S9 SJ 
+D7 D8 H8 DT 
+S3 H7 S6 SK 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "22"]
+[West "Sita Monaghan#54890"]
+[North "Pamela Jensen#31703"]
+[East "Marsha Woodbury#18623"]
+[South "Jillian Ramsey#10632"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A43.A94.QJ97.QT3 Q.KT73.A832.9765 T9762.85.65.AJ84 KJ85.QJ62.KT4.K2"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "4"]
+[ScoreIMP "NS 0.75 EW -0.75"]
+[DoubleDummyTricks "56456564568797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 4,7,2,354,60,58,83,23,48,14,33,309,56,305,14,21,32,33,13,132,22,18,17,61,22,34,10,13,20,20,35,19,49,229,14,23,30,22,25,156,49,16,21,83,65,10,10,18,47,8,12,72,15,14,10,18,11,10,15,14,9,9,9
+[Auction "E"]
+Pass Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+C4 CK C3 C5 
+H5 H2 H4 HK 
+H8 HJ HA H3 
+C8 C2 CQ C6 
+CJ D4 CT C7 
+CA S5 S3 C9 
+ST S8 SA SQ 
+D6 DK DQ D2 
+S2 SK S4 D3 
+S6 SJ D7 D8 
+D5 DT DJ DA 
+S7 HQ H9 H7 
+S9 H6 D9 HT 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "22"]
+[West "Jessica Morris#37607"]
+[North "Alan Currie#1436"]
+[East "Beverley Morris 🐘#24081"]
+[South "Bruce Inglis#5111"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A43.A94.QJ97.QT3 Q.KT73.A832.9765 T9762.85.65.AJ84 KJ85.QJ62.KT4.K2"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "56456564568797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 12,3,8,82,52,183,55,70,87,37,20,136,19,732,22,19,13,42,124,44,26,53,39,26,50,28,32,8,23,50,26,21,8,133,24,18,68,36,30,29,19,112,28,34,27,182,25,8,13,40,25,23,62,22,24,16,9,23,20,15,9,22,25,12,12,11,9,15,6
+[Auction "E"]
+Pass Pass 1C 1D 
+1H Pass 2H Pass 
+2S Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+D6 D4 D9 DA 
+H5 HQ HA H3 
+D5 DK DQ D2 
+H8 H2 H4 HK 
+S6 S5 SA SQ 
+C4 DT DJ D3 
+CA C2 C3 C5 
+C8 CK CT C6 
+S2 HJ H9 H7 
+S7 SK S3 C7 
+S9 SJ S4 C9 
+ST S8 D7 HT 
+CJ H6 CQ D8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "22"]
+[West "Sylvester Riddell *#14427"]
+[North "Dong Gao Bi#36392"]
+[East "Rae Cameron *#22165"]
+[South "Arch Jelley#18787"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A43.A94.QJ97.QT3 Q.KT73.A832.9765 T9762.85.65.AJ84 KJ85.QJ62.KT4.K2"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "5"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "56456564568797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 12,0,9,294,67,112,128,72,37,157,36,190,39,126,34,109,30,113,84,270,28,221,49,28,71,63,21,36,12,135,71,39,48,140,50,16,78,196,31,34,28,36,26,13,29,57,44,18,12,24,26,27,27,31,15,27,18,50,15,37,13,208,8,89,27,7,20,14,84
+[Auction "E"]
+Pass Pass 1D Pass 
+1H Pass 2H Pass 
+3D Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+S9 S5 S4 SQ 
+H5 H2 H4 HT 
+H8 HJ HA H3 
+C4 HQ H9 H7 
+S2 SK SA C5 
+CA C2 C3 C6 
+C8 CK CT C7 
+D5 D4 D9 DA 
+CJ H6 CQ C9 
+S6 SJ S3 D2 
+D6 DK D7 D3 
+S7 DT DJ D8 
+ST S8 DQ HK 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "23"]
+[West "Sharon Mosley#64879"]
+[North "Margaret Fraser#16117"]
+[East "Peter Ramsey#43711"]
+[South "John Lory#16275"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.865.K86532.93 AJ62.AK72.T4.AQ7 K873.943.AQ9.T64 T94.QJT.J7.KJ852"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[ScoreIMP "NS -5.75 EW 5.75"]
+[DoubleDummyTricks "332723327279a6a79a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  3
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  9
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 14,4,6,96,46,24,47,120,80,87,42,89,24,31,336,79,20,28,78,31,16,11,27,16,12,9,45,14,19,18,19,52,13,9,24,16,15,11,22,25,8,11,19,14,10,4,21,31,9,49,21,28,20,13,15,22,18,11,14,17,12,8,11,16,11,8
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1S =1= Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S8 ST SQ SA 
+C4 C2 C3 CA 
+C6 C5 C9 CQ 
+CT CK D2 C7 
+H3 CJ D3 D4 
+S3 C8 H5 DT 
+H4 HQ H6 H2 
+H9 HJ H8 H7 
+D9 HT D5 HK 
+S7 S4 S5 HA 
+SK S9 D6 S2 
+DA D7 D8 S6 
+DQ DJ DK SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "23"]
+[West "Sita Monaghan#54890"]
+[North "Pamela Jensen#31703"]
+[East "Marsha Woodbury#18623"]
+[South "Jillian Ramsey#10632"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.865.K86532.93 AJ62.AK72.T4.AQ7 K873.943.AQ9.T64 T94.QJT.J7.KJ852"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "4"]
+[ScoreIMP "NS -5.75 EW 5.75"]
+[DoubleDummyTricks "332723327279a6a79a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  3
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  9
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 14,7,2,131,21,46,32,63,160,90,14,106,16,159,102,26,47,33,10,12,22,18,9,25,20,9,10,12,20,27,79,15,19,21,8,7,17,16,9,6,24,17,8,10,18,34,30,133,23,16,16,10,43,16,15,10,9,16,8,8,9,14,6,8
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+S3 S9 SQ SA 
+H4 HQ H5 H2 
+H3 HJ H6 H7 
+H9 HT H8 HA 
+C6 D7 D2 HK 
+C4 C2 C3 CA 
+CT C5 C9 CQ 
+S7 CK D3 C7 
+S8 CJ D5 D4 
+D9 C8 D6 DT 
+SK S4 S5 SJ 
+DA DJ D8 S2 
+DQ ST DK S6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "23"]
+[West "Kathryn Brookes#63510"]
+[North "Faisal Alam#26807"]
+[East "Richard Brookes#70317"]
+[South "Cheryl Winsor#10588"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.865.K86532.93 AJ62.AK72.T4.AQ7 K873.943.AQ9.T64 T94.QJT.J7.KJ852"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "3"]
+[ScoreIMP "NS -5.75 EW 5.75"]
+[DoubleDummyTricks "332723327279a6a79a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  3
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  9
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 14,5,1,47,63,22,41,379,134,22,137,87,24,26,33,367,23,85,108,14,11,13,17,11,11,9,33,13,10,10,90,18,15,11,29,20,12,10,58,13,9,16,15,13,10,20,13,9,11,34,13,27,19,6,45,26,23,10,15,18,9,9,13,13,9,9
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 2C Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S3 ST SQ SA 
+C4 C2 C3 CA 
+C6 C5 C9 CQ 
+CT CK D6 C7 
+H9 CJ D2 D4 
+H3 C8 D3 DT 
+H4 HQ H6 H2 
+S7 HJ H5 H7 
+S8 HT H8 HK 
+D9 D7 D5 HA 
+SK S4 S5 S2 
+DA DJ D8 S6 
+DQ S9 DK SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "23"]
+[West "Jessica Morris#37607"]
+[North "Alan Currie#1436"]
+[East "Beverley Morris 🐘#24081"]
+[South "Bruce Inglis#5111"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.865.K86532.93 AJ62.AK72.T4.AQ7 K873.943.AQ9.T64 T94.QJT.J7.KJ852"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[ScoreIMP "NS 11.75 EW -11.75"]
+[DoubleDummyTricks "332723327279a6a79a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  3
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  9
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 14,3,8,87,76,13,34,122,169,23,74,85,45,15,35,104,68,65,12,22,27,20,49,32,17,23,16,43,8,23,16,45,87,27,10,63,26,31,34,25,7,21
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+D3 D4 DA D7 
+D2 DT DQ DJ 
+DK S2 D9 S4 
+D8 S6 S3 S9 
+D6 SJ S7 ST 
+D5 H2 H4 C2 
+S5 SA S8 C5 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "23"]
+[West "Sylvester Riddell *#14427"]
+[North "Dong Gao Bi#36392"]
+[East "Rae Cameron *#22165"]
+[South "Arch Jelley#18787"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.865.K86532.93 AJ62.AK72.T4.AQ7 K873.943.AQ9.T64 T94.QJT.J7.KJ852"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "5"]
+[ScoreIMP "NS 5.50 EW -5.50"]
+[DoubleDummyTricks "332723327279a6a79a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  3
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  9
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Pairs"]
+% RBDATA 10,0,9,85,20,35,137,43,154,35,89,48,97,29,141,27,103,102,46,38,105,35,26,18,40,15,40,8,100,17,31,20,50,32,14,14,175,77,49,26,84,63,34,7,138,18,29,14,40,68,26,7,19,73,59,12,61,12,20,54,31,29,9,14,25,23,22,13
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 2C Pass 2H 
+Pass 3C Pass Pass 
+Pass 
+[Play "S"]
+H9 HT H5 H2 
+C4 C2 C3 CQ 
+C6 C5 C9 CA 
+CT CK D2 C7 
+H3 HQ H6 H7 
+S3 ST SQ SA 
+S7 S9 S5 S2 
+H4 HJ H8 HA 
+D9 S4 D3 HK 
+SK C8 D5 S6 
+DA D7 DK D4 
+DQ DJ D6 DT 
+S8 CJ D8 SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "24"]
+[West "Sharon Mosley#64879"]
+[North "Margaret Fraser#16117"]
+[East "Peter Ramsey#43711"]
+[South "John Lory#16275"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K87.AK6.A97.Q863 JT965.J2.T5.7542 Q43.97.KQJ42.AKT A2.QT8543.863.J9"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "12"]
+[Score "NS 170"]
+[Table "2"]
+[ScoreIMP "NS -7.00 EW 7.00"]
+[DoubleDummyTricks "ca8ccca8cc1351113511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 16,4,6,105,153,82,145,51,124,38,378,60,43,13,218,30,16,12,41,21,14,22,25,20,11,16,36,18,13,31,33,85,26,14,47,28,19,10,36,24,10,8,15,25,6,11
+[Auction "W"]
+2H X 3H 4D 
+Pass Pass Pass 
+[Play "W"]
+SA S7 S9 S3 
+S2 SK S5 S4 
+D6 DA D5 D2 
+D3 D7 DT DJ 
+D8 D9 C5 DQ 
+H5 S8 SJ SQ 
+H3 HA H2 H7 
+C9 CQ C4 CT 
+H4 HK HJ H9 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "24"]
+[West "Sita Monaghan#54890"]
+[North "Pamela Jensen#31703"]
+[East "Marsha Woodbury#18623"]
+[South "Jillian Ramsey#10632"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K87.AK6.A97.Q863 JT965.J2.T5.7542 Q43.97.KQJ42.AKT A2.QT8543.863.J9"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "4"]
+[ScoreIMP "NS 3.25 EW -3.25"]
+[DoubleDummyTricks "ca8ccca8cc1351113511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 14,7,2,104,442,47,145,24,25,15,18,554,31,44,27,49,13,9,129,10,9,12,12,13,12,36,17,23,44,9,15,21,143,17,32,14,8,10,14,11,11,147,36,11,15,26,8,12,7,10,8,17,7,9,6,17,7,84,8,15,8,11
+[Auction "W"]
+2D =1= 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+SJ S3 S2 SK 
+DT D2 D3 DA 
+D5 DK D6 D9 
+C7 DQ D8 D7 
+C5 DJ H3 S7 
+C4 D4 H4 S8 
+C2 CA C9 C3 
+H2 CK CJ C6 
+S5 CT H5 C8 
+HJ H7 H8 HA 
+S6 H9 HT HK 
+S9 S4 SA CQ 
+ST SQ HQ H6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "24"]
+[West "Kathryn Brookes#63510"]
+[North "Faisal Alam#26807"]
+[East "Richard Brookes#70317"]
+[South "Cheryl Winsor#10588"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K87.AK6.A97.Q863 JT965.J2.T5.7542 Q43.97.KQJ42.AKT A2.QT8543.863.J9"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "6"]
+[Score "NS 300"]
+[Table "3"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "ca8ccca8cc1351113511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 7,5,1,125,179,74,118,45,548,40,62,292,17,11,14,21,16,10,50,27,12,12,13,16,11,9,17,68,19,10,101,20,17,10,58,20,11,26,30,29,8,9,90,21,11,47,120,22,13,8,18,21,9,26,18,16,9,7,18,19,16,7
+[Auction "W"]
+2D =1= X 2H =2= X 
+Pass Pass Pass 
+[Play "S"]
+DK D3 D9 D5 
+DQ D6 D7 DT 
+CA C9 C8 C2 
+CK CJ C3 C4 
+S3 SA S7 S5 
+D2 D8 DA H2 
+H7 H3 HA HJ 
+S4 S2 SK S6 
+CT H4 CQ C5 
+H9 HQ HK C7 
+D4 H8 H6 S9 
+DJ HT C6 ST 
+SQ H5 S8 SJ 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "24"]
+[West "Jessica Morris#37607"]
+[North "Alan Currie#1436"]
+[East "Beverley Morris 🐘#24081"]
+[South "Bruce Inglis#5111"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K87.AK6.A97.Q863 JT965.J2.T5.7542 Q43.97.KQJ42.AKT A2.QT8543.863.J9"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[ScoreIMP "NS 3.25 EW -3.25"]
+[DoubleDummyTricks "ca8ccca8cc1351113511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 19,3,8,440,135,107,278,34,58,40,438,88,156,150,60,33,316,94,64,75,29,39,81,23,12,18,13,27,17,20,21,24,8,61,26,72,17,27,21,256,25,13,22,33,21,14,183,24,17,25,14,25,33,10,17,24,14,18,24,16,9,40,9,19,7,17,11,18,22,13
+[Auction "W"]
+2D =1= X 2H =2= X 
+Pass 2NT Pass 4C 
+Pass 4H Pass 4NT 
+Pass Pass Pass 
+[Play "E"]
+HJ H7 H3 HK 
+D5 D2 D3 DA 
+DT DK D6 D7 
+C7 DQ D8 D9 
+S5 DJ H8 S7 
+C2 D4 H4 H6 
+S6 S3 S2 SK 
+C4 CA C9 C3 
+C5 CK CJ C6 
+H2 CT H5 CQ 
+S9 H9 HT C8 
+ST S4 HQ HA 
+SJ SQ SA S8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "24"]
+[West "Sylvester Riddell *#14427"]
+[North "Dong Gao Bi#36392"]
+[East "Rae Cameron *#22165"]
+[South "Arch Jelley#18787"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K87.AK6.A97.Q863 JT965.J2.T5.7542 Q43.97.KQJ42.AKT A2.QT8543.863.J9"]
+[Scoring "IMP;Cross2"]
+[Round "8"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "5"]
+[ScoreIMP "NS 3.25 EW -3.25"]
+[DoubleDummyTricks "ca8ccca8cc1351113511"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  8
+N  D 12
+N  C 12
+S NT 12
+S  S 10
+S  H  8
+S  D 12
+S  C 12
+E NT  1
+E  S  3
+E  H  5
+E  D  1
+E  C  1
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 14,0,9,297,216,56,204,29,288,35,71,20,50,33,45,129,31,144,14,32,18,48,19,93,16,10,68,26,8,9,101,16,22,6,32,7,19,34,41,15,46,14,77,9,46,34,28,16,8,12,17,12,9,12,14,24,9,13
+[Auction "W"]
+2D =1= X 2H =2= Pass 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+HJ H7 H3 HK 
+S5 SQ SA S7 
+H2 H9 HQ HA 
+D5 D2 D3 DA 
+DT DK D6 D9 
+C5 DQ D8 D7 
+C2 DJ H4 H6 
+C4 D4 H5 S8 
+C7 CA C9 C3 
+S6 CK CJ C6 
+S9 CT H8 CQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "25"]
+[West "Sylvester Riddell *#14427"]
+[North "Margaret Fraser#16117"]
+[East "Rae Cameron *#22165"]
+[South "John Lory#16275"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT986.8.AKT95.J2 .Q532.QJ742.A953 QJ742.AJT64.6.87 K53.K97.83.KQT64"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[ScoreIMP "NS -4.50 EW 4.50"]
+[DoubleDummyTricks "8a6638a6635265852668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  6
+N  C  3
+S NT  8
+S  S 10
+S  H  6
+S  D  6
+S  C  3
+E NT  5
+E  S  2
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  2
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 14,4,9,141,173,37,300,99,21,58,64,106,24,15,52,22,15,29,82,18,18,13,18,30,10,11,40,29,12,14,11,25,10,19,37,69,11,15,12,63,10,36,13,24,15,20,15,73,33,12,36,11,66,22,25,14,4,11,12,12,9,11
+[Auction "N"]
+1S X 2S 3NT 
+Pass Pass Pass 
+[Play "N"]
+SA C3 S2 S3 
+S6 D2 SJ S5 
+S8 H2 SQ SK 
+C2 C5 C7 CK 
+CJ CA C8 C4 
+D5 C9 H4 CQ 
+D9 D4 D6 CT 
+DT H3 H6 C6 
+H8 HQ HA H9 
+ST H5 S7 H7 
+DA D7 S4 D3 
+DK DQ HT D8 
+S9 DJ HJ HK 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "25"]
+[West "Kathryn Brookes#63510"]
+[North "Marsha Woodbury#18623"]
+[East "Richard Brookes#70317"]
+[South "Sita Monaghan#54890"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT986.8.AKT95.J2 .Q532.QJ742.A953 QJ742.AJT64.6.87 K53.K97.83.KQT64"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "4"]
+[ScoreIMP "NS -1.00 EW 1.00"]
+[DoubleDummyTricks "8a6638a6635265852668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  6
+N  C  3
+S NT  8
+S  S 10
+S  H  6
+S  D  6
+S  C  3
+E NT  5
+E  S  2
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  2
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 18,2,1,213,101,27,111,23,30,82,99,48,9,10,44,9,13,29,33,12,27,22,22,20,24,207,39,19,16,8,51,19,29,58,21,26,9,112,21,37,27,141,24,11,16,19,32,51,26,17,47,16,9,15,21,7,19,13,16,8,12
+[Auction "N"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DQ D6 D8 DK 
+D2 C7 D3 DA 
+H2 HA H7 H8 
+C3 SQ S3 S6 
+H3 H4 HK S8 
+D4 S2 S5 D5 
+C5 C8 CK C2 
+CA S4 C4 CJ 
+H5 H6 H9 S9 
+D7 SJ SK D9 
+C9 HT CQ ST 
+DJ S7 C6 DT 
+HQ HJ CT SA 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "25"]
+[West "Jessica Morris#37607"]
+[North "Peter Ramsey#43711"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sharon Mosley#64879"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT986.8.AKT95.J2 .Q532.QJ742.A953 QJ742.AJT64.6.87 K53.K97.83.KQT64"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "3"]
+[ScoreIMP "NS 5.00 EW -5.00"]
+[DoubleDummyTricks "8a6638a6635265852668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  6
+N  C  3
+S NT  8
+S  S 10
+S  H  6
+S  D  6
+S  C  3
+E NT  5
+E  S  2
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  2
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 18,6,8,118,81,148,226,41,53,39,66,95,36,23,14,31,16,16,116,35,20,25,69,25,8,22,33,23,26,14,17,21,20,24,64,25,10,8,540,31,24,22
+[Auction "N"]
+1S X 4S X 
+Pass Pass Pass 
+[Play "E"]
+DQ D6 D8 DA 
+D2 C7 D3 DK 
+C3 S2 S3 SA 
+H2 HA H7 H8 
+H3 H4 HK S6 
+D4 S4 S5 D5 
+C5 C8 CK C2 
+CA S7 C6 CJ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "25"]
+[West "Arch Jelley#18787"]
+[North "Faisal Alam#26807"]
+[East "Dong Gao Bi#36392"]
+[South "Cheryl Winsor#10588"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT986.8.AKT95.J2 .Q532.QJ742.A953 QJ742.AJT64.6.87 K53.K97.83.KQT64"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "5"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "8a6638a6635265852668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  6
+N  C  3
+S NT  8
+S  S 10
+S  H  6
+S  D  6
+S  C  3
+E NT  5
+E  S  2
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  2
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 18,5,0,213,90,113,36,54,65,26,95,45,198,12,84,16,49,23,33,15,12,114,34,26,18,66,25,52,14,153,49,223,16,75,63,14,16,13,24,14,84,13,25,10,28
+[Auction "N"]
+1S Pass 2H Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DQ D6 D8 DA 
+D2 C7 D3 DK 
+DJ SQ SK DT 
+C3 C8 CK C2 
+C5 S2 S3 ST 
+H2 S4 S5 SA 
+D4 H4 C4 D9 
+H3 HA H7 H8 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "25"]
+[West "Jillian Ramsey#10632"]
+[North "Alan Currie#1436"]
+[East "Pamela Jensen#31703"]
+[South "Bruce Inglis#5111"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT986.8.AKT95.J2 .Q532.QJ742.A953 QJ742.AJT64.6.87 K53.K97.83.KQT64"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[ScoreIMP "NS 0.25 EW -0.25"]
+[DoubleDummyTricks "8a6638a6635265852668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  6
+N  C  3
+S NT  8
+S  S 10
+S  H  6
+S  D  6
+S  C  3
+E NT  5
+E  S  2
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  2
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 18,3,7,117,204,144,96,20,18,131,136,43,130,174,26,19,11,79,33,14,24,26,21,65,87,111,35,64,120,43,35,31,19,45,28,45,137,16,76,22,14,92,63,10,14,133,29,9,47,34,22,12,9,11,10,9,7,35,10,7,6
+[Auction "N"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DQ D6 D3 DK 
+D2 C7 D8 DA 
+H2 HA H9 H8 
+C3 SQ S3 SA 
+D4 S7 C4 DT 
+H3 H4 HK S6 
+D7 SJ SK D5 
+C5 S2 S5 S8 
+CA C8 C6 CJ 
+HQ H6 H7 S9 
+DJ S4 CT D9 
+H5 HT CQ C2 
+C9 HJ CK ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "26"]
+[West "Arch Jelley#18787"]
+[North "Faisal Alam#26807"]
+[East "Dong Gao Bi#36392"]
+[South "Cheryl Winsor#10588"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A65.6.AT876.KJT9 KJ3.A854.K5.6432 T972.KJT32.QJ43. Q84.Q97.92.AQ875"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "W"]
+[Contract "3CX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "5"]
+[ScoreIMP "NS 10.00 EW -10.00"]
+[DoubleDummyTricks "78696786966573765637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  6
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 10,5,0,184,175,153,33,107,67,40,51,34,79,142,45,157,43,25,105,26,52,37,17,27,29,11,21,28,10,16,14,29,8,28,43,18,61,20,186,22,11,44,17,30,9,13,17
+[Auction "E"]
+1D =1= 1H 2C 2NT 
+3C Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+H6 H4 HK H7 
+C9 H5 H2 H9 
+SA S3 S9 S4 
+DA D5 D3 D2 
+D6 DK D4 D9 
+CT C6 S2 CA 
+CK C2 S7 CQ 
+CJ C3 ST C5 
+D7 -  -  -  
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "26"]
+[West "Sylvester Riddell *#14427"]
+[North "Margaret Fraser#16117"]
+[East "Rae Cameron *#22165"]
+[South "John Lory#16275"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A65.6.AT876.KJT9 KJ3.A854.K5.6432 T972.KJT32.QJ43. Q84.Q97.92.AQ875"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "78696786966573765637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  6
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 6,4,9,179,48,26,80,140,218,20,66,24,360,16,240,95,16,21,111,13,18,55,148,38,14,22,67,35,16,9,108,14,30,26,55,23,21,18,77,8,32,17,36,20,27,23,38,13,28,24,119,51,12,18,12,19,14,13,19,16,13,8,12,15,17,7
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1H Pass 2D 
+Pass Pass Pass 
+[Play "E"]
+H4 HK H7 H6 
+DK DQ D2 D6 
+S3 S9 SQ SA 
+D5 DJ D9 D7 
+H5 HJ H9 D8 
+C2 D3 C5 CJ 
+H8 H2 HQ DT 
+C3 D4 C7 CT 
+HA HT C8 S5 
+C6 S2 CA C9 
+C4 S7 CQ CK 
+SJ H3 S4 DA 
+SK ST S8 S6 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "26"]
+[West "Kathryn Brookes#63510"]
+[North "Marsha Woodbury#18623"]
+[East "Richard Brookes#70317"]
+[South "Sita Monaghan#54890"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A65.6.AT876.KJT9 KJ3.A854.K5.6432 T972.KJT32.QJ43. Q84.Q97.92.AQ875"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS -300"]
+[Table "4"]
+[ScoreIMP "NS -10.00 EW 10.00"]
+[DoubleDummyTricks "78696786966573765637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  6
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 21,2,1,77,29,150,325,60,71,44,51,90,15,24,28,124,17,23,73,34,16,19,629,31,28,41,48,30,16,17,47,38,45,25,19,20,11,16,82,63,12,25,67,39,12,20,18,29,16,12,94,28,121,15,24,26,10,24,23,15,11,13,16,9,10,19
+[Auction "E"]
+Pass 2H =1= Pass 2NT 
+Pass 3D Pass 5D 
+Pass Pass Pass 
+[Play "W"]
+CA C9 C2 D3 
+D2 D6 DK DQ 
+S4 SA SK S2 
+H7 H6 HA H2 
+S8 S5 S3 S7 
+SQ S6 SJ S9 
+D9 DA D5 D4 
+C5 D7 C3 DJ 
+H9 CT H4 HK 
+HQ D8 H5 HJ 
+C7 DT C4 H3 
+C8 CK C6 HT 
+CQ CJ H8 ST 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "26"]
+[West "Jillian Ramsey#10632"]
+[North "Alan Currie#1436"]
+[East "Pamela Jensen#31703"]
+[South "Bruce Inglis#5111"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A65.6.AT876.KJT9 KJ3.A854.K5.6432 T972.KJT32.QJ43. Q84.Q97.92.AQ875"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "78696786966573765637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  6
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 11,3,7,142,77,26,106,79,74,86,32,95,159,41,33,53,96,29,16,29,183,214,64,25,124,57,69,29,318,97,20,22,105,100,11,35,69,20,32,41,132,41,13,43
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1H 2C Pass 
+Pass 2D Pass Pass 
+3C 3D Pass Pass 
+Pass 
+[Play "E"]
+C6 S2 CA C9 
+DK D3 D2 D6 
+H4 HT HQ H6 
+D5 DJ D9 D7 
+HA HK H7 S5 
+H5 HJ H9 S6 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "26"]
+[West "Jessica Morris#37607"]
+[North "Peter Ramsey#43711"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sharon Mosley#64879"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A65.6.AT876.KJT9 KJ3.A854.K5.6432 T972.KJT32.QJ43. Q84.Q97.92.AQ875"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "78696786966573765637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  6
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 11,6,8,79,136,154,159,246,119,64,83,227,363,27,35,38,140,91,42,25,137,231,133,17,396,80,24,9,64,19,9,18,71,20,195,35,16,29,149,21,206,32,175,30,97,20,12,21,47,92,50,61,15,37,113,23,56,23,12,24,29,32,19,14,14,18,10,14
+[Auction "E"]
+Pass Pass 1C 1H =1= 
+X 1S =2= Pass 2C =3= 
+2NT 3D Pass Pass 
+Pass 
+[Play "W"]
+H7 H6 HA H2 
+CA C9 C2 S2 
+S4 SA S3 S7 
+C5 CK C3 S9 
+C7 CT C4 DJ 
+H9 CJ H4 HK 
+HQ DT H5 HJ 
+S8 S5 SK ST 
+D9 DA H8 HT 
+D2 D6 D5 DQ 
+C8 D7 DK H3 
+SQ S6 SJ D3 
+CQ D8 C6 D4 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "27"]
+[West "Arch Jelley#18787"]
+[North "Faisal Alam#26807"]
+[East "Dong Gao Bi#36392"]
+[South "Cheryl Winsor#10588"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ9752.5.JT864.3 43.64.Q732.JT986 AT6.QJ973.A95.75 K8.AKT82.K.AKQ42"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "5"]
+[ScoreIMP "NS 4.75 EW -4.75"]
+[DoubleDummyTricks "39472394829495b9495b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  7
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  8
+S  C  2
+E NT  9
+E  S  4
+E  H  9
+E  D  5
+E  C 11
+W NT  9
+W  S  4
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 15,5,0,124,142,19,66,98,333,152,24,31,42,23,32,44,51,190,27,6,25,18,13,27,12,16,10,10,138,23,10,10,84,65,17,8,79,22,11,9
+[Auction "S"]
+1H X Pass 2C 
+Pass 3C 3D Pass 
+Pass 4C Pass Pass 
+Pass 
+[Play "S"]
+DA DK D8 D2 
+SA S8 S2 S3 
+S6 SK S5 S4 
+C5 C2 C3 CJ 
+C7 C4 S7 CT 
+D5 H2 D4 DQ 
+*
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "27"]
+[West "Sylvester Riddell *#14427"]
+[North "Margaret Fraser#16117"]
+[East "Rae Cameron *#22165"]
+[South "John Lory#16275"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ9752.5.JT864.3 43.64.Q732.JT986 AT6.QJ973.A95.75 K8.AKT82.K.AKQ42"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "39472394829495b9495b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  7
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  8
+S  C  2
+E NT  9
+E  S  4
+E  H  9
+E  D  5
+E  C 11
+W NT  9
+W  S  4
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 14,4,9,94,184,66,113,239,104,91,66,94,89,46,48,42,58,36,18,11,163,36,15,17,69,58,11,18,11,27,10,11,9,28,10,13,10,25,9,12,12,23,17,43,10,41,9,14,17,20,9,10,38,16,14,9,11,12,40,8,15,11,13,8
+[Auction "S"]
+1H X 2S Pass 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+SQ S3 S6 SK 
+C3 CJ C5 C2 
+H5 H4 H9 HT 
+D4 C6 C7 CA 
+S2 C8 D5 CK 
+S5 C9 D9 CQ 
+D6 CT H3 C4 
+S7 H6 HJ HA 
+D8 D2 H7 HK 
+DT D3 DA DK 
+S9 S4 SA S8 
+DJ D7 HQ H2 
+SJ DQ ST H8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "27"]
+[West "Kathryn Brookes#63510"]
+[North "Marsha Woodbury#18623"]
+[East "Richard Brookes#70317"]
+[South "Sita Monaghan#54890"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ9752.5.JT864.3 43.64.Q732.JT986 AT6.QJ973.A95.75 K8.AKT82.K.AKQ42"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "4"]
+[ScoreIMP "NS -4.00 EW 4.00"]
+[DoubleDummyTricks "39472394829495b9495b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  7
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  8
+S  C  2
+E NT  9
+E  S  4
+E  H  9
+E  D  5
+E  C 11
+W NT  9
+W  S  4
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 14,2,1,103,345,288,25,25,35,92,21,34,138,19,14,7,23,85,17,12,75,45,22,21,25,84,36,9,24,18,26,82,30,34,23,11,143,56,17,11,21,20,16,20,14,33,36,22,10,23,10,14,11,24,12,21,18,15,13,11
+[Auction "S"]
+1H 3NT Pass Pass 
+Pass 
+[Play "N"]
+SQ S3 S6 SK 
+C3 C6 C5 CA 
+H5 C8 C7 CK 
+D4 C9 D5 CQ 
+S2 CJ H3 C4 
+S5 CT D9 C2 
+D6 H4 HJ HK 
+D8 H6 H7 HA 
+DT D2 DA DK 
+DJ S4 HQ H2 
+S7 D3 SA S8 
+S9 D7 H9 HT 
+SJ DQ ST H8 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "27"]
+[West "Jessica Morris#37607"]
+[North "Peter Ramsey#43711"]
+[East "Beverley Morris 🐘#24081"]
+[South "Sharon Mosley#64879"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ9752.5.JT864.3 43.64.Q732.JT986 AT6.QJ973.A95.75 K8.AKT82.K.AKQ42"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "3"]
+[ScoreIMP "NS 4.75 EW -4.75"]
+[DoubleDummyTricks "39472394829495b9495b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  7
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  8
+S  C  2
+E NT  9
+E  S  4
+E  H  9
+E  D  5
+E  C 11
+W NT  9
+W  S  4
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 9,6,8,163,425,59,36,168,54,104,174,33,45,101,29,101,74,23,27,33,45,22,36,10,87,41,29,22,26,60,24,16,94,58,17,18,15,80,23,10,12,26,9,33,10,32,11,35,59,21,27,21,24,19,22,9,27,11,20,8,6,19,10,16
+[Auction "S"]
+1H X 1S =1= Pass 
+Pass 2NT Pass Pass 
+Pass 
+[Play "N"]
+H5 H4 HJ HA 
+C3 C6 C7 CA 
+S2 C8 C5 CK 
+D4 CJ D5 C2 
+S5 H6 H7 HT 
+S7 C9 H3 C4 
+D6 D2 DA DK 
+S9 S3 SA S8 
+SJ S4 ST SK 
+D8 CT D9 CQ 
+DT D3 H9 HK 
+DJ D7 HQ H8 
+SQ DQ S6 H2 
+
+[Event "AKBC - Open - Mon 12 Dec - 7pm"]
+[Site "RealBridge"]
+[Date "2022.12.12"]
+[Board "27"]
+[West "Jillian Ramsey#10632"]
+[North "Alan Currie#1436"]
+[East "Pamela Jensen#31703"]
+[South "Bruce Inglis#5111"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ9752.5.JT864.3 43.64.Q732.JT986 AT6.QJ973.A95.75 K8.AKT82.K.AKQ42"]
+[Scoring "IMP;Cross2"]
+[Round "9"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "1"]
+[ScoreIMP "NS -2.75 EW 2.75"]
+[DoubleDummyTricks "39472394829495b9495b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  7
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  8
+S  C  2
+E NT  9
+E  S  4
+E  H  9
+E  D  5
+E  C 11
+W NT  9
+W  S  4
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 20,3,7,187,286,77,102,40,880,31,171,27,28,92,16,27,232,343,23,39,172,35,13,12,110,54,12,19,143,40,13,23,274,25,12,32,419,16,17,9,9,15,9,11,72,209,18,29,10,14,8,21,9,39,11,13,18,10,8,18,7,87,9,9,7,7,8,7
+[Auction "S"]
+1H X Pass 2C 
+Pass 2H Pass 3C 
+Pass 5C Pass Pass 
+Pass 
+[Play "S"]
+HQ HK H5 H4 
+C5 CA C3 C6 
+C7 C2 S2 CJ 
+H3 HA S5 H6 
+DA DK D4 D2 
+SA S8 S7 S3 
+S6 SK S9 S4 
+H7 H2 SJ C8 
+D5 C4 D6 D3 
+H9 H8 D8 C9 
+D9 CQ DT D7 
+HJ HT DJ CT 
+ST CK SQ DQ 

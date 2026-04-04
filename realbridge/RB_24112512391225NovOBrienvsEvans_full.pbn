@@ -1,0 +1,4109 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "1"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9643.KJ42.T.Q52 QJ7.Q953.A4.A986 T85.T7.QJ873.KJT K2.A86.K9652.743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "57555575558687886878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,566,139,97,665,180,44,44,133,87,29,85,33,60,13,37,26,19,26,112,21,16,25,362,32,16,120,94,40,37,13,51,33,21,9,36,53,26,9,107
+[Auction "N"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+H3 HT HA H2 
+H5 H7 H8 HK 
+H9 S5 H6 H4 
+S7 S8 S2 SA 
+SJ ST SK S3 
+CA CT C4 C2 
+DA D3 D9 DT 
+HQ D7 C3 HJ 
+C6 -  -  -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "1"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9643.KJ42.T.Q52 QJ7.Q953.A4.A986 T85.T7.QJ873.KJT K2.A86.K9652.743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "57555575558687886878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,329,647,74,21,52,97,397,42,32,204,22,33,61,201,46,20,19,161,25,28,20,362,44,65,23,143,63,19,13,79,32,58,20,303,23,18,18,165,41,21,13,47,20,19,28,18,62,14,13,20,18,19,16,26,20,15,13
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 11-14"]
+[Play "S"]
+DQ D2 DT DA 
+D7 D9 H2 D4 
+S8 SK S3 S7 
+S5 S2 S4 SJ 
+H7 HA H4 H3 
+D3 DK C2 C6 
+HT H8 HJ HQ 
+CJ C3 C5 CA 
+ST H6 HK H5 
+CT D5 SA SQ 
+D8 D6 S9 H9 
+DJ C4 S6 C8 
+CK C7 CQ C9 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "2"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q2.Q42.943.AKT76 KJ87.963.Q865.J5 A4.K87.AJT7.Q843 T9653.AJT5.K2.92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "9559a8579a4864348643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  5
+N  D  9
+N  C 10
+S NT  8
+S  S  5
+S  H  7
+S  D  9
+S  C 10
+E NT  4
+E  S  8
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  8
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 10,2,1,69,44,41,281,40,104,30,38,29,89,248,29,19,61,28,36,18,101,25,17,24,394,23,24,24,80,40,22,36,23,17,11,16,38,15,12,17,22,22,12,16,39,15,16,13,15,19,14,17,14,15,15,11,23,16,22,7,13,15,8,9
+[Auction "E"]
+Pass 1NT Pass 2S =1= 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: Transfer to minors"]
+[Play "W"]
+C9 C6 C5 CQ 
+C2 CA CJ C3 
+DK D3 D5 DT 
+HJ H2 H6 HK 
+S6 CK S7 C4 
+D2 D9 D6 D7 
+S3 D4 D8 DJ 
+H5 S2 DQ DA 
+S5 SQ S8 SA 
+HA H4 H3 H7 
+HT HQ H9 H8 
+S9 CT SJ C8 
+ST C7 SK S4 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "2"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q2.Q42.943.AKT76 KJ87.963.Q865.J5 A4.K87.AJT7.Q843 T9653.AJT5.K2.92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "9559a8579a4864348643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  5
+N  D  9
+N  C 10
+S NT  8
+S  S  5
+S  H  7
+S  D  9
+S  C 10
+E NT  4
+E  S  8
+E  H  6
+E  D  4
+E  C  3
+W NT  4
+W  S  8
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,0,3,208,130,70,530,270,103,193,94,136,14,62,72,147,43,61,122,33,47,12,247,49,15,27,46,39,17,22,125,67,113,400,332,36,16,56,29,33,20,8,25,135,27,11,17,160,28,58,20,35,23,8,17
+[Auction "E"]
+Pass 1NT Pass 2S =1= 
+Pass 3C =2= X =3= 3NT 
+Pass Pass Pass 
+[Note "1: transfer to C or range inquiry"]
+[Note "2: maximum"]
+[Note "3: t/o"]
+[Play "W"]
+ST SQ SK S4 
+S3 S2 SJ SA 
+C9 CK C5 C8 
+C2 C7 CJ CQ 
+H5 CT S7 C4 
+DK D9 D5 D7 
+S9 H2 S8 H8 
+S6 H4 H3 DT 
+S5 HQ H6 DJ 
+HA D3 H9 H7 
+HJ -  -  -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "3"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.AKQ.T96542.KT A864.96.7.Q98653 97532.87543.K8.2 KJ.JT2.AQJ3.AJ74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "46761467619766a9767a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  7
+N  D  6
+N  C  1
+S NT  4
+S  S  6
+S  H  7
+S  D  6
+S  C  1
+E NT  9
+E  S  7
+E  H  6
+E  D  6
+E  C 10
+W NT  9
+W  S  7
+W  H  6
+W  D  7
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,2,1,57,177,87,57,150,59,104,31,45,18,29,101,27,15,138,19,14,19,17,19,15,16,117,66,19,19,16,18,13,20,48,39,15,54,361,20,13,13,12,21,20,10,19,18,18,10,21,19,19,45,23,20,13,15,18,15,11,12,13,9,23,12
+[Auction "S"]
+Pass 1C X 2C 
+2H 3C 3H Pass 
+Pass Pass 
+[Play "W"]
+H2 HQ H6 H4 
+DA D2 D7 DK 
+HT HK H9 H3 
+DJ D4 C3 D8 
+HJ HA C5 H5 
+DQ D9 S4 S2 
+CA CT C6 C2 
+SK ST S6 S3 
+SJ SQ SA S5 
+C4 D5 S8 S9 
+D3 D6 C8 H8 
+C7 DT C9 H7 
+CJ CK CQ S7 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "3"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT.AKQ.T96542.KT A864.96.7.Q98653 97532.87543.K8.2 KJ.JT2.AQJ3.AJ74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "46761467619766a9767a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  7
+N  D  6
+N  C  1
+S NT  4
+S  S  6
+S  H  7
+S  D  6
+S  C  1
+E NT  9
+E  S  7
+E  H  6
+E  D  6
+E  C 10
+W NT  9
+W  S  7
+W  H  6
+W  D  7
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,0,3,217,117,220,52,18,425,53,434,90,24,39,61,205,23,31,76,47,27,8,36,22,43,61,775,49,42,36,81,22,29,7,38,192,15,10,30,55,14,10,16,7,122,81,46,13,34,98,31,23,16,23,15,22,16,7,35,21,19,7,36,14,36,6
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15 17"]
+[Play "N"]
+D5 D7 DK DA 
+SQ SA S5 SJ 
+CK CQ C2 C7 
+D9 S4 D8 DJ 
+CT C3 H8 CA 
+D2 C5 H7 CJ 
+D4 C9 H5 C4 
+D6 C8 H4 H2 
+DT C6 H3 HT 
+ST S8 S9 SK 
+HQ S6 S2 DQ 
+HK H6 S3 D3 
+HA H9 S7 HJ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "4"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:843.5.AJ43.AKQT8 A62.AJ43.Q87.754 75.QT9876.95.632 KQJT9.K2.KT62.J9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "63647636477978679786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  6
+N  D  4
+N  C  7
+S NT  6
+S  S  3
+S  H  6
+S  D  4
+S  C  7
+E NT  7
+E  S  9
+E  H  7
+E  D  8
+E  C  6
+W NT  7
+W  S  9
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,116,104,162,118,24,49,26,15,94,178,20,20,26,16,25,20,107,29,16,11,28,20,12,19,28,27,15,19,13,18,7,18,10,24,9,13,31,58,9,9,11,22,8,10,7,17,10,38
+[Auction "W"]
+1S X 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CA C4 C2 C9 
+CK C5 C3 CJ 
+DA D7 D9 D2 
+D3 D8 D5 DT 
+S3 SA S5 S9 
+S4 S6 S7 SJ 
+S8 S2 H6 SQ 
+C8 C7 C6 SK 
+D4 DQ H7 D6 
+H5 H3 H8 HK 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "4"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:843.5.AJ43.AKQT8 A62.AJ43.Q87.754 75.QT9876.95.632 KQJT9.K2.KT62.J9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "63647636477978679786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  6
+N  D  4
+N  C  7
+S NT  6
+S  S  3
+S  H  6
+S  D  4
+S  C  7
+E NT  7
+E  S  9
+E  H  7
+E  D  8
+E  C  6
+W NT  7
+W  S  9
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,136,158,244,25,164,348,238,91,114,61,69,15,358,99,15,24,389,30,6,25,39,86,33,42,106,41,28,6,46,13,49,7,44,9,26,7,42,14,41,41,56,48,132,21,30,34,6,26,63,33,6,34,22,18,14,6,42,17,14,5,30,10,15,5
+[Auction "W"]
+1S 2C X =1= Pass 
+2D Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: Sputnik"]
+[Play "N"]
+CK C4 C6 C9 
+CA C7 C2 CJ 
+H5 H3 H6 HK 
+S4 S2 S5 SK 
+S3 S6 S7 SQ 
+S8 SA D5 S9 
+D3 DQ D9 D2 
+DA D7 H7 DK 
+DJ D8 C3 D6 
+CQ C5 H8 ST 
+D4 H4 H9 DT 
+C8 HJ HT SJ 
+CT HA HQ H2 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "5"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT7.T43.AK62.K2 9854.A87.QJ9.QT3 AK.KQ92.4.AJ8764 632.J65.T8753.95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "ccb9cccb9c1024110141"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 11
+N  D  9
+N  C 12
+S NT 12
+S  S 12
+S  H 11
+S  D  9
+S  C 12
+E NT  1
+E  S  0
+E  H  2
+E  D  4
+E  C  1
+W NT  1
+W  S  0
+W  H  1
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,197,29,586,78,87,40,290,33,186,46,47,32,32,22,639,217,21,22,125,21,17,48,26,26,12,16,53,21,40,20,19,27,26,16,74,25,15,15,35,15,17,21,37,17,15,20,17,28,13,15,22,21,13,9,24,18,35,21,19,9,12,22,17,15,7,9
+[Auction "N"]
+1NT Pass 2C Pass 
+2S Pass 3C Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S8 SK S3 S7 
+HA HK H6 H3 
+DQ D4 D5 DK 
+H7 H9 HJ H4 
+D9 C4 D3 DA 
+S4 SA S2 ST 
+H8 HQ H5 HT 
+C3 C6 C5 CK 
+S5 H2 S6 SJ 
+S9 C7 D7 SQ 
+CT CA C9 C2 
+CQ C8 D8 D2 
+DJ CJ DT D6 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "5"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT7.T43.AK62.K2 9854.A87.QJ9.QT3 AK.KQ92.4.AJ8764 632.J65.T8753.95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "ccb9cccb9c1024110141"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 11
+N  D  9
+N  C 12
+S NT 12
+S  S 12
+S  H 11
+S  D  9
+S  C 12
+E NT  1
+E  S  0
+E  H  2
+E  D  4
+E  C  1
+W NT  1
+W  S  0
+W  H  1
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,180,62,54,74,25,61,100,39,331,52,16,28,189,161,52,23,340,32,27,8,189,27,10,13,81,57,19,68,171,46,56,35,11,20,27,24,53,52,19,73,63,15,17,26,8,27,9,13,23,42,14,25,35,31,27,14,20,23,20,20,16,11,13,19
+[Auction "N"]
+1NT =1= Pass 2C Pass 
+2S Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+H8 H2 HJ H3 
+D9 D4 D8 DA 
+S4 SK S2 S7 
+S5 SA S3 ST 
+HA H9 H5 H4 
+H7 HQ H6 HT 
+S8 HK D3 D2 
+C3 C4 C5 CK 
+S9 C6 S6 SQ 
+DJ C7 D5 SJ 
+DQ C8 D7 DK 
+CT CA C9 C2 
+CQ CJ DT D6 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "6"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K86.653.KQ3.KQ76 J4.AJT9.9.AT9842 A95.Q72.AT8754.3 QT732.K84.J62.J5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "86594865945774957749"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  6
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  7
+E  H  7
+E  D  4
+E  C  9
+W NT  5
+W  S  7
+W  H  7
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,150,32,20,79,34,210,77,52,41,22,32,31,31,100,67,30,12,190,69,18,23,22,20,15,10,49,70,14,11,21,34,18,12,47,21,19,21,20,33,15,17,7,19,19,15,18,21,14,104,15,24,13,153,18,16,10,17,71,17,10,12,13,13,23,12
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass 2S =1= Pass 3C 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: minors"]
+[Play "W"]
+CJ CQ CA C3 
+C5 CK C8 S5 
+D6 DK D9 D4 
+D2 DQ C2 D5 
+DJ D3 C4 DA 
+ST SK S4 S9 
+HK H3 H9 HQ 
+S2 S6 SJ SA 
+S3 H5 C9 DT 
+H4 H6 HT D8 
+H8 C6 HJ H2 
+S7 C7 CT D7 
+SQ S8 HA H7 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "6"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K86.653.KQ3.KQ76 J4.AJT9.9.AT9842 A95.Q72.AT8754.3 QT732.K84.J62.J5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "86594865945774957749"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  6
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  7
+E  H  7
+E  D  4
+E  C  9
+W NT  5
+W  S  7
+W  H  7
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,3,111,48,46,47,159,276,145,801,52,182,41,31,32,109,171,57,58,98,46,15,14,28,76,13,20,17,108,21,67,19,54,17,183,52,46,57,166,23,55,22,95,22,30,13,34,57,19,16,49,20,31,26,87,22,24,18,47,14,45,61,13,15,18,17,8
+[Auction "E"]
+Pass Pass Pass 1NT 
+2C =1= 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * Hearts and a 2nd suit [0:09]"]
+[Play "E"]
+CT C3 C5 CQ 
+D9 D4 D2 DK 
+S4 D5 D6 DQ 
+H9 DA DJ D3 
+SJ DT S2 H3 
+C2 D8 S3 C6 
+C4 D7 H4 H5 
+C8 SA S7 S6 
+C9 S5 ST SK 
+HT H2 H8 H6 
+HJ HQ HK S8 
+HA S9 SQ C7 
+CA H7 CJ CK 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "7"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ6.AQ.AK952.865 43.9842.J8763.A3 JT952.KJ65..KJ94 A87.T73.QT4.QT72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ab979ab9793235432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  9
+N  D  7
+N  C  9
+S NT 10
+S  S 11
+S  H  9
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,82,33,55,26,51,25,118,30,40,29,270,92,23,30,39,29,20,81,30,11,45,19,27,19,75,21,18,24,18,22,12,9,19,20,10,10,51,28,14,33,242,20,247,28,16,22,54,26,26,15,14,109,14,19,12,11,13,16,10,7,11,17,8,18,8,10,13,12
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+2H Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+C2 C5 CA C4 
+C7 C6 C3 CK 
+H3 HA H2 H5 
+D4 DA D6 C9 
+DT DK D3 CJ 
+SA SQ S3 S2 
+CQ C8 D7 S5 
+S7 S6 S4 S9 
+S8 SK H4 ST 
+H7 HQ H8 H6 
+DQ D2 D8 SJ 
+HT D5 H9 HK 
+CT D9 DJ HJ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "7"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ6.AQ.AK952.865 43.9842.J8763.A3 JT952.KJ65..KJ94 A87.T73.QT4.QT72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ab979ab9793235432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  9
+N  D  7
+N  C  9
+S NT 10
+S  S 11
+S  H  9
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,162,56,96,54,20,52,139,83,86,72,268,111,19,48,67,45,190,81,100,30,15,19,27,17,344,112,15,26,16,27,6,17,248,29,8,32,8,228,15,13,26,20,11,21,102,36,10,26,200,68,88,23,35,33,12,25,22,32,40,10,12,28,7,20,7,24,7,28
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 1NT =1= Pass 
+2C =2= Pass 3S =3= Pass 
+4S Pass Pass Pass 
+[Note "1: 15-18"]
+[Note "2: checkback"]
+[Note "3: 17-18 with 3S"]
+[Play "W"]
+SA S6 S3 S2 
+S7 SQ S4 S5 
+H3 HQ H2 H5 
+H7 HA H4 H6 
+D4 DA D3 C4 
+DT DK D6 C9 
+DQ D2 D7 S9 
+HT C5 H8 HK 
+CQ C6 H9 HJ 
+C2 C8 CA CK 
+C7 D5 DJ ST 
+CT SK C3 CJ 
+S8 D9 D8 SJ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "8"]
+[West "James Carpenter#406894"]
+[North "Chris Reynolds#"]
+[East "Rachel O'Brien#"]
+[South "Tony Pummell#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J8.A985.KJ765.Q3 Q764.J6.A.A97642 A5.KQ743.QT42.J5 KT932.T2.983.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "63993639937a33a7a33a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  9
+N  C  3
+S NT  6
+S  S  3
+S  H  9
+S  D  9
+S  C  3
+E NT  7
+E  S 10
+E  H  3
+E  D  3
+E  C 10
+W NT  7
+W  S 10
+W  H  3
+W  D  3
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,95,257,44,36,27,90,26,38,36,126,29,18,95,101,19,10,36,22,17,12,270,78,27,12,17,16,18,31,32,29,24,13,36,25,13,14,27,14,9,31,13,23
+[Auction "W"]
+Pass Pass 1C 1H 
+1S 2H 2S 3H 
+4S Pass Pass Pass 
+[Play "N"]
+HA H6 H7 H2 
+H5 HJ HQ HT 
+C3 CA CJ C8 
+S8 S4 SA S2 
+CQ C2 C5 CK 
+SJ SQ S5 S3 
+H8 C4 D2 CT 
+D5 -  -  D3 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "8"]
+[West "Martin Evans#425412"]
+[North "Dani#"]
+[East "Andrew Hardy#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J8.A985.KJ765.Q3 Q764.J6.A.A97642 A5.KQ743.QT42.J5 KT932.T2.983.KT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "63993639937a33a7a33a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  9
+N  C  3
+S NT  6
+S  S  3
+S  H  9
+S  D  9
+S  C  3
+E NT  7
+E  S 10
+E  H  3
+E  D  3
+E  C 10
+W NT  7
+W  S 10
+W  H  3
+W  D  3
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,104,196,55,27,237,282,341,23,75,91,58,28,15,97,17,20,16,22,33,15,10,24,77,41,8,23,40,7,24
+[Auction "W"]
+Pass Pass 1C 1H 
+1S 4H Pass Pass 
+Pass 
+[Play "W"]
+CK C3 C9 C5 
+CT CQ CA CJ 
+D3 D5 DA D2 
+S9 SJ S4 SA 
+H2 H5 H6 HQ 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "9"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKJ.43.KT53.A743 QT94.A87652.A9.5 532.QT9.J87.KQ62 876.KJ.Q642.JT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "65479744786785467864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  4
+N  D  7
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  7
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  5
+E  C  4
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,3,1,105,118,166,55,96,34,46,135,20,58,19,42,48,39,62,59,27,66,90,21,25,19,73,12,19,69,72,27,39,11,20,25,23,10,24,56,18,11,34,16,33,29,11,56,22,27,23,29,13,14,17,29,11,16,13,35,10,33
+[Auction "N"]
+1D 1H 1NT Pass 
+Pass Pass 
+[Play "W"]
+HK H3 H2 H9 
+HJ H4 HA HT 
+S6 D3 H6 HQ 
+C8 C3 C5 CK 
+C9 CA S9 C2 
+S7 SK S4 S3 
+S8 SA ST S5 
+CT C7 D9 CQ 
+CJ C4 H8 C6 
+D2 DK DA D7 
+D4 SJ SQ S2 
+D6 D5 H7 D8 
+DQ DT H5 DJ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "9"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKJ.43.KT53.A743 QT94.A87652.A9.5 532.QT9.J87.KQ62 876.KJ.Q642.JT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "65479744786785467864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  4
+N  D  7
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  7
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  5
+E  C  4
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,2,304,39,63,89,134,49,25,62,43,206,97,150,17,178,24,38,15,24,37,30,44,10,32,22,126,22,47,17,48,14,346,37,12,18,56,31,18,26,283,33,15,13,22,153,20,24,13,117,13,9,13,23,42,54,10
+[Auction "N"]
+1C 1H 1NT Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+CJ C3 C5 CK 
+S6 SJ SQ S3 
+HK H3 H8 HT 
+HJ H4 HA H9 
+D2 D3 H2 HQ 
+S7 SK S4 S2 
+C8 C4 D9 CQ 
+D4 D5 DA DJ 
+S8 C7 H5 C2 
+C9 DT H6 C6 
+D6 CA H7 D7 
+-  -  S9 -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "10"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJT4.J73.T2.AT92 9.KT4.AQ8.Q87543 K83.Q9852.J754.J A7652.A6.K963.K6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "45632456328879b8879b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  2
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  2
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C 11
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,2,112,35,54,47,28,20,75,120,27,51,54,21,10,287,21,19,28,20,72,22,25,22,22,9,37,18,17,21,16,23,10,22,138,109,15,26,58,18,13,13,19,11,19,36,45,38,13,13,23
+[Auction "E"]
+1C Pass 1S Pass 
+2C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+H5 H6 HJ H4 
+H8 HA H3 HT 
+D4 D3 D2 DA 
+CJ CK CA C3 
+H2 S2 H7 HK 
+S8 C6 C2 CQ 
+D5 D6 DT DQ 
+D7 DK S4 D8 
+S3 SA ST S9 
+-  S5 -  -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "10"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJT4.J73.T2.AT92 9.KT4.AQ8.Q87543 K83.Q9852.J754.J A7652.A6.K963.K6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "45632456328879b8879b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  2
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  2
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C 11
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,3,1,111,256,61,47,45,52,56,260,32,21,29,260,45,22,90,28,14,39,15,36,18,37,132,30,40,10,407,47,22,37,12,36,24,72,23,66,16,29,151,18,29,16,16,17,38,11,39,19,19,8,13,138
+[Auction "E"]
+1C Pass 1S Pass 
+2C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H3 HT HQ HA 
+D2 DQ D4 D3 
+CA C3 CJ CK 
+HJ HK H5 H6 
+DT D8 D5 DK 
+C9 CQ S3 C6 
+CT C8 H2 S2 
+H7 H4 H9 S5 
+C2 C4 H8 S6 
+SQ S9 S8 SA 
+S4 -  -  D6 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "11"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9.AJ98542.2.JT3 AQ763.T3.A96.Q76 KT85.6.KT84.K542 42.KQ7.QJ753.A98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "56857568578748677486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  8
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H  4
+E  D  8
+E  C  6
+W NT  7
+W  S  7
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,0,2,54,93,135,288,88,120,36,295,115,41,14,175,50,25,13,29,17,29,13,80,22,12,18,6,21,26,10,51,47,15,14,38,17,28,54,13,50,14,19,24,20,10,17,6,20,20,8,21,12,6,11,10,7,10,13,8,8,17,7
+[Auction "S"]
+Pass 1NT 2H 3S 
+Pass Pass Pass 
+[Play "S"]
+H6 HQ HA H3 
+DK D3 D2 D6 
+D8 D5 S9 D9 
+S5 H7 H2 HT 
+D4 D7 SJ DA 
+S8 HK H4 C6 
+DT DJ H5 C7 
+ST S2 H8 SA 
+SK S4 H9 S6 
+C2 CA C3 CQ 
+C4 C8 CT S3 
+C5 C9 HJ SQ 
+CK DQ CJ S7 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "11"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9.AJ98542.2.JT3 AQ763.T3.A96.Q76 KT85.6.KT84.K542 42.KQ7.QJ753.A98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "56857568578748677486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  8
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H  4
+E  D  8
+E  C  6
+W NT  7
+W  S  7
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,3,1,204,114,462,143,47,48,227,32,63,48,313,33,22,30,24,100,40,75,225,18,86,605,53,60,20,215,49,22,50,255,299,43,29,29,87,28,41,129,22,20,6,73,45,16,11,39,38,7,68
+[Auction "S"]
+Pass 1NT =1= 3H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 11-14 balanced"]
+[Play "S"]
+H6 HK HA H3 
+S5 H7 H9 HT 
+D4 D3 D2 D6 
+S8 S2 S9 SA 
+ST S4 SJ S7 
+SK HQ H2 C6 
+C2 C8 CT CQ 
+D8 D5 H4 DA 
+DK D7 H5 D9 
+DT DJ H8 C7 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "12"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:953.K864.KJ4.A87 K72.Q95.A53.K654 AQ864.AJ2.96.QT9 JT.T73.QT872.J32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "aba899aa893335432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 13,0,2,95,57,29,116,176,72,26,33,81,243,81,24,64,245,40,18,16,13,20,17,31,111,32,10,13,52,36,9,16,12,35,21,55,47,24,14,6,18,15,23,11,40,23,23,7,38,21,22,10,17,16,6,10,19,13,6,9,7,8,7,7
+[Auction "W"]
+Pass Pass 1NT 2S 
+3D 3S Pass Pass 
+Pass 
+[Play "W"]
+H7 H8 HQ HA 
+H3 HK H5 H2 
+SJ S3 S2 SQ 
+HT H4 H9 HJ 
+C2 CA C4 C9 
+C3 H6 S7 D6 
+CJ C8 CK CT 
+ST C7 C5 CQ 
+DT DJ DA D9 
+D2 D4 C6 S8 
+D7 S5 SK SA 
+D8 S9 D3 S4 
+DQ DK D5 S6 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "12"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:953.K864.KJ4.A87 K72.Q95.A53.K654 AQ864.AJ2.96.QT9 JT.T73.QT872.J32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "aba899aa893335432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 4,3,1,55,56,79,80,27,43,270,252,36,134,138,132,31,33,99,19,61,98,157,25,16,151,266,42,56,21,32,176,21,19,24,94,16,98,17,26,14,57,15,25,22,25,15,31,18,22,24,19,19,15,13
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Play "S"]
+S6 ST S3 S2 
+D6 DQ DK DA 
+D9 DT D4 D3 
+H2 D8 DJ D5 
+SQ SJ S9 S7 
+SA D2 S5 SK 
+S8 H3 H8 C4 
+S4 D7 H4 C5 
+HA H7 H6 H5 
+HJ HT HK H9 
+CT C2 CA C6 
+-  -  C8 -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "13"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q96.AK65.963.J32 8.JT982.52.AK654 A5.Q43.AKQT874.8 KJT7432.7.J.QT97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "848b3848b32852928529"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D 11
+N  C  3
+S NT  8
+S  S  4
+S  H  8
+S  D 11
+S  C  3
+E NT  2
+E  S  8
+E  H  5
+E  D  2
+E  C  9
+W NT  2
+W  S  8
+W  H  5
+W  D  2
+W  C  9
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 17,0,2,81,26,86,62,102,43,17,119,24,17,90,81,39,18,49,41,25,29,31,24,17,17,41,48,61,19,36,32,28,15,79,18,20,18,19,23,12,22,35,117,11,84,87,34,12,273,52,27,15,27,61,19,13,20,12,15,21,11,10,19,13,11
+[Auction "N"]
+Pass Pass 1D 1S 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+CA C8 C7 C2 
+HJ H3 H7 HA 
+C4 H4 C9 C3 
+H2 HQ S2 H5 
+D2 DA DJ D3 
+D5 DK S3 D6 
+H8 DQ S4 D9 
+CK S5 CT CJ 
+C5 D4 CQ S6 
+S8 SA S7 S9 
+H9 DT ST SQ 
+C6 D7 SJ H6 
+HT D8 SK HK 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "13"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q96.AK65.963.J32 8.JT982.52.AK654 A5.Q43.AKQT874.8 KJT7432.7.J.QT97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "848b3848b32852928529"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D 11
+N  C  3
+S NT  8
+S  S  4
+S  H  8
+S  D 11
+S  C  3
+E NT  2
+E  S  8
+E  H  5
+E  D  2
+E  C  9
+W NT  2
+W  S  8
+W  H  5
+W  D  2
+W  C  9
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,3,1,132,36,161,93,814,33,90,184,26,59,32,21,47,14,15,25,14,29,30,14,76,22
+[Auction "N"]
+Pass Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+SJ SQ S8 S5 
+DJ D9 D2 DA 
+S2 D6 D5 DK 
+S3 D3 C5 DQ 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "14"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J4.653.AQ6.KJT97 .T84.KT973.AQ543 AKQ73.AJ2.J85.86 T98652.KQ97.42.2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "76556765565777757777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  5
+N  C  6
+S NT  7
+S  S  6
+S  H  5
+S  D  5
+S  C  6
+E NT  5
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  5
+W  S  7
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 14,0,2,102,163,73,63,57,43,89,112,27,40,51,22,178,26,148,29,38,192,20,196,33,191,22,29,33,91,36,16,22,104,27,25,13,26,44,19,83,21,27,26,10,51,31,9,13,12,12,18,18,12,31
+[Auction "E"]
+Pass 1S Pass 2C 
+2D X Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+DT D5 D2 DQ 
+C3 S3 S2 SJ 
+C4 SA S5 S4 
+CQ C8 C2 C7 
+D3 DJ D4 D6 
+CA C6 H7 C9 
+H4 HA H9 H3 
+D7 SK S6 H5 
+C5 SQ S8 H6 
+-  D8 HQ -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "14"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J4.653.AQ6.KJT97 .T84.KT973.AQ543 AKQ73.AJ2.J85.86 T98652.KQ97.42.2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "76556765565777757777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  5
+N  C  6
+S NT  7
+S  S  6
+S  H  5
+S  D  5
+S  C  6
+E NT  5
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  5
+W  S  7
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 14,3,1,120,261,42,36,38,195,36,94,26,29,19,68,198,59,35,80,20,33,60,58,50,18,14,51,19,15,69,88,82,30,20,28,13,34,46,36,16,36,60,122,24,30,35,181,41,11,18,13,43,22,56,12,78,34,58,17,63,53,15,11,30,12,28
+[Auction "E"]
+Pass 1S Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H7 H3 HT HJ 
+D2 D6 DK DJ 
+H9 H5 H8 HA 
+S5 SJ C3 S3 
+S2 S4 C4 SQ 
+S8 H6 D3 SK 
+S9 C7 C5 SA 
+C2 CT CQ C6 
+HQ C9 H4 H2 
+HK DQ D7 D5 
+ST CJ D9 S7 
+S6 DA DT C8 
+D4 CK CA D8 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "15"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:763.T86.AT94.K64 K95.AQJ9.65.J875 AQJT2.K2.32.AQ93 84.7543.KQJ87.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ab68aab68a3265332653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  6
+N  D  8
+N  C 10
+S NT 10
+S  S 11
+S  H  6
+S  D  8
+S  C 10
+E NT  3
+E  S  2
+E  H  6
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,2,132,68,90,28,39,96,132,89,14,33,147,101,13,17,34,19,17,14,18,46,7,12,8,21,15,10,52,49,6,13,26,29,8,10,16,12,8,13,47,21,11,12,30,18,16,21,13,28,6,12,36
+[Auction "S"]
+1S Pass 1NT Pass 
+3C Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+CT CK C5 C3 
+S4 S7 S5 SQ 
+D8 DA D5 D2 
+S8 S6 S9 SJ 
+D7 S3 SK SA 
+C2 C4 C7 CA 
+H3 C6 C8 CQ 
+DJ D4 D6 D3 
+DQ D9 H9 S2 
+H4 H6 CJ C9 
+-  -  HA -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "15"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:763.T86.AT94.K64 K95.AQJ9.65.J875 AQJT2.K2.32.AQ93 84.7543.KQJ87.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ab68aab68a3265332653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  6
+N  D  8
+N  C 10
+S NT 10
+S  S 11
+S  H  6
+S  D  8
+S  C 10
+E NT  3
+E  S  2
+E  H  6
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,3,1,370,46,106,34,139,19,352,52,244,30,335,37,70,16,19,183,17,29,34,20,39,13,63,23,17,18,28,22,32,11,104,30,15,17,217,23,30,16,44,94,171,158,58,19,15,17,57,13,26,26,57,14,49,18,62,38,9,15,16
+[Auction "S"]
+1S Pass 2S Pass 
+3C Pass 3D =1= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+DK DA D5 D3 
+S4 S3 S5 ST 
+CT CK C5 C3 
+S8 S6 S9 SJ 
+D7 S7 SK SA 
+DJ D4 D6 D2 
+DQ D9 H9 S2 
+C2 C6 C7 CA 
+D8 C4 C8 CQ 
+H3 H6 CJ C9 
+H4 H8 HA H2 
+-  -  HQ -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "16"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:96.Q543.KJ874.J5 Q82.JT876.53.A94 K4.K2.QT962.Q732 AJT753.A9.A.KT86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "1127222372aba6baba6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  7
+N  C  2
+S NT  2
+S  S  2
+S  H  3
+S  D  7
+S  C  2
+E NT 10
+E  S 11
+E  H 10
+E  D  6
+E  C 11
+W NT 10
+W  S 11
+W  H 10
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 8,0,2,251,31,44,16,189,28,18,11,98,138,15,26,22,22,18,5,39,24,19,12,52,20,17,23,60,44,15,6,75,38,29,24,43,27,27,6,53,13,34,83,21,35,15,10,14,18,16,14
+[Auction "W"]
+1S Pass 1NT Pass 
+2S Pass Pass Pass 
+[Play "N"]
+H3 H6 HK HA 
+D4 D3 D6 DA 
+C5 CA C2 C6 
+CJ C9 C3 CK 
+HQ H7 H2 H9 
+S6 S2 SK SA 
+S9 SQ S4 S3 
+D7 S8 D2 ST 
+H4 C4 CQ C8 
+H5 D5 C7 CT 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "16"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:96.Q543.KJ874.J5 Q82.JT876.53.A94 K4.K2.QT962.Q732 AJT753.A9.A.KT86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "1127222372aba6baba6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  7
+N  C  2
+S NT  2
+S  S  2
+S  H  3
+S  D  7
+S  C  2
+E NT 10
+E  S 11
+E  H 10
+E  D  6
+E  C 11
+W NT 10
+W  S 11
+W  H 10
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,3,1,88,490,49,125,94,36,29,40,41,240,15,17,148,93,12,16,11,25,10,30,337,155,31,21,76,214,21,20,87,29,12,13,31,26,11,29,15,28,7,87,558,48,42,39,21
+[Auction "W"]
+1S 2D 2S 4D 
+4S Pass Pass Pass 
+[Play "N"]
+D7 D3 DQ DA 
+H3 H6 H2 HA 
+H4 H7 HK H9 
+CJ CA C2 C6 
+H5 H8 S4 S5 
+S6 S2 SK SA 
+S9 SQ D2 S3 
+HQ HJ D6 C8 
+DK D5 D9 SJ 
+-  -  -  S7 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "17"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ.A982.AKJ2.863 T86.KJ654.865.QT Q9732.3.QT73.K42 A54.QT7.94.AJ975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "58495594a64473644736"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  9
+N  C  5
+S NT  5
+S  S  9
+S  H  4
+S  D 10
+S  C  6
+E NT  4
+E  S  4
+E  H  7
+E  D  3
+E  C  6
+W NT  4
+W  S  4
+W  H  7
+W  D  3
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,3,1,135,30,108,25,196,34,72,33,79,86,20,32,15,40,25,24,102,23,35,20,20,14,14,20,21,36,18,7,21,18,23,8,14,12,23,20,24,20,18,24,11,16,19,26,16,23,29,46,15,14,10,20
+[Auction "N"]
+1H Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1: 15-18"]
+[Play "E"]
+D6 D3 D9 DA 
+S8 S2 SA SK 
+CT CK C5 C8 
+S6 S3 S4 SJ 
+D5 D7 D4 DK 
+D8 DQ C7 DJ 
+ST SQ S5 H2 
+H5 S9 C9 H8 
+H4 S7 CJ H9 
+H6 DT H7 D2 
+HJ H3 HT HA 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "17"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ.A982.AKJ2.863 T86.KJ654.865.QT Q9732.3.QT73.K42 A54.QT7.94.AJ975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "58495594a64473644736"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  9
+N  C  5
+S NT  5
+S  S  9
+S  H  4
+S  D 10
+S  C  6
+E NT  4
+E  S  4
+E  H  7
+E  D  3
+E  C  6
+W NT  4
+W  S  4
+W  H  7
+W  D  3
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,0,2,144,134,54,76,109,31,115,131,288,45,20,84,43,48,219,169,37,84,58,24,17,13,416,22,76,18,14,18,17,18,74,19,14,16,49,20,24,13,13,20,9,15,32,9,68,16,29,29,33,15,42,16,18,14,86,21,14,12,38,54,10,12,13,7,8,9
+[Auction "N"]
+1D Pass 1S Pass 
+1NT =1= Pass 2C =2= Pass 
+2H =3= Pass 3D Pass 
+Pass Pass 
+[Note "1: 15-18"]
+[Note "2: checkback"]
+[Note "3: 15-16 4H"]
+[Play "E"]
+S6 S2 SA SJ 
+S8 S3 S4 SK 
+D5 DQ D4 DJ 
+ST S7 S5 DK 
+D6 D3 D9 DA 
+D8 DT C5 D2 
+H4 SQ C7 C3 
+H5 S9 C9 H2 
+H6 H3 H7 HA 
+CT CK CA C6 
+CQ C2 CJ C8 
+HK D7 HT H8 
+HJ C4 HQ H9 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "18"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T53.A.QJ953.QJ92 J2.QT9842.864.83 AQ986.J.AT7.KT75 K74.K7653.K2.A64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "6a4996a49a7393373933"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D  9
+N  C  9
+S NT  6
+S  S 10
+S  H  4
+S  D  9
+S  C 10
+E NT  7
+E  S  3
+E  H  9
+E  D  3
+E  C  3
+W NT  7
+W  S  3
+W  H  9
+W  D  3
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,3,1,100,82,33,42,27,98,37,163,35,32,21,59,57,19,25,14,27,20,20,30,28,216,42,25,27,211,11,16,14,21,12,63,20,9,19,23,29,8,7,134,33,13,22,14,29,19,7,20,18,21,17,11,11,18,14,9,10,12,16,17,18,14,12
+[Auction "E"]
+Pass 1S Pass 2D 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+HT HJ HK HA 
+D6 D7 DK DQ 
+H2 C5 H7 S3 
+H4 S6 H5 C2 
+H8 S8 H6 S5 
+HQ S9 H3 C9 
+H9 C7 S4 CJ 
+C8 CT CA CQ 
+C3 CK C6 D3 
+S2 SA S7 ST 
+D4 DA D2 D5 
+D8 DT C4 DJ 
+SJ SQ SK D9 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "18"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T53.A.QJ953.QJ92 J2.QT9842.864.83 AQ986.J.AT7.KT75 K74.K7653.K2.A64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "6a4996a49a7393373933"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D  9
+N  C  9
+S NT  6
+S  S 10
+S  H  4
+S  D  9
+S  C 10
+E NT  7
+E  S  3
+E  H  9
+E  D  3
+E  C  3
+W NT  7
+W  S  3
+W  H  9
+W  D  3
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,0,2,49,160,54,120,31,41,123,115,29,40,136,24,17,123,211,12,13,19,27,7,11,9,22,20,25,32,18,13,7,19,26,14,23,17,15,18,17
+[Auction "E"]
+Pass 1S X XX 
+2H 3C 3H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+DK D3 D4 DA 
+H3 HA H4 HJ 
+SK ST S2 S6 
+CA C2 C8 C5 
+C4 CJ C3 CT 
+S4 S5 SJ SQ 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "19"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A6.AJ976.KJ.AKJ6 Q3.QT52.AQ7.Q972 KJ9542..9832.T43 T87.K843.T654.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa7899a7793365332652"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  3
+E  H  6
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  5
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 18,0,2,108,102,170,85,114,64,668,47,14,39,63,221,21,7,23,15,12,18,6,16,18,21,23,36,6,49,6,36,19,32,110,91,90,18,15,18,8,18,6,15,14,25,13,19,6,29,7,18,30,13
+[Auction "S"]
+2S =1= Pass 2NT =2= Pass 
+3S =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: Ogust"]
+[Note "3: not fwd going"]
+[Play "W"]
+C8 CK C2 C4 
+S7 SA S3 S2 
+S8 S6 SQ SK 
+ST H6 D7 SJ 
+C5 C6 CQ CT 
+HK HA H2 C3 
+H3 CA C7 D2 
+D4 CJ C9 D3 
+H4 H7 HT S4 
+D5 DJ DQ D9 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "19"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A6.AJ976.KJ.AKJ6 Q3.QT52.AQ7.Q972 KJ9542..9832.T43 T87.K843.T654.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa7899a7793365332652"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  3
+E  H  6
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  5
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 18,3,1,237,50,62,94,45,20,190,37,167,32,26,46,401,19,208,38,36,16,34,447,38,41,49,24,41,10,31,21,41,14,73,55,39,260,58,22,28,224,173,48,26,26,24,18,28,22,25,25,25,10,39,20,13,20,68,25,27,27,232,68,10,53,19
+[Auction "S"]
+Pass Pass 2C Pass 
+2D Pass 2H =1= Pass 
+2S Pass 3C Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+H3 HA H2 D3 
+S7 SA S3 S2 
+S8 S6 SQ SK 
+ST H6 H5 SJ 
+C5 C6 CQ CT 
+H4 H7 HT S4 
+C8 CA C2 C3 
+D4 CK C7 C4 
+D5 CJ C9 D2 
+H8 H9 HQ D8 
+D6 DJ DA D9 
+-  -  D7 -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "20"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK74.AKT54.Q.AK4 JT2.J8.AKJ9.T986 863.92.T872.QJ75 Q95.Q763.6543.32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a98a9a98a4345343453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  8
+N  C 10
+S NT  9
+S  S 10
+S  H  9
+S  D  8
+S  C 10
+E NT  4
+E  S  3
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,0,2,90,316,91,108,40,30,29,95,84,95,29,106,129,21,16,36,20,7,18,8,16,8,21,7,14,11,21,134,43,101,23,49,48,15,27,31,15,22,8,14,18,11,20,19,17,24,8,16,13,67
+[Auction "W"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 23+"]
+[Note "2: waiting"]
+[Play "W"]
+S5 SK S2 S6 
+C3 CA C6 C5 
+C2 CK C8 C7 
+D3 C4 C9 CJ 
+D4 S4 CT CQ 
+H3 H4 HJ H9 
+D5 DQ DA D2 
+D6 S7 DK D7 
+S9 H5 DJ D8 
+SQ -  D9 DT 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "20"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK74.AKT54.Q.AK4 JT2.J8.AKJ9.T986 863.92.T872.QJ75 Q95.Q763.6543.32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a98a9a98a4345343453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  8
+N  C 10
+S NT  9
+S  S 10
+S  H  9
+S  D  8
+S  C 10
+E NT  4
+E  S  3
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,3,1,78,90,95,57,41,41,33,247,26,80,34,33,24,15,321,36,57,42,25,46,63,30,121,24,14,100,22,95,18,68,60,64,13,38,244,14,9,47,38,12,10,53,23,29,9,16,18,27,15,15,21,14,26,14,16,31,17,36,10,27,13,14,40,9,14
+[Auction "W"]
+Pass 2C Pass 2D 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+C3 CA C6 C5 
+HQ H4 H8 H9 
+C2 CK C8 C7 
+H3 HA HJ H2 
+H6 HK D9 S3 
+H7 HT S2 S6 
+D4 H5 C9 D2 
+S5 SA ST S8 
+S9 SK SJ D7 
+D3 C4 CT CJ 
+D5 S7 DJ CQ 
+D6 DQ DK D8 
+SQ S4 DA DT 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "21"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K87.T83.QJ9853.8 AQT9654..74.T962 J3.KJ9764.T6.QJ5 2.AQ52.AK2.AK743"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2154021540ac89dac88d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  4
+N  C  0
+S NT  2
+S  S  1
+S  H  5
+S  D  4
+S  C  0
+E NT 10
+E  S 12
+E  H  8
+E  D  9
+E  C 13
+W NT 10
+W  S 12
+W  H  8
+W  D  8
+W  C 13
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,0,2,194,177,99,57,62,23,15,161,167,8,10,33,25,20,15,66,15,25,17,68,18,27,22,158,23,30,54,199,30,6,20,25,23,12,6,24,42,14,5,107,22,19,6,10,16,31,34,13,36,11,7,16,11,12,21,14,5,12,27
+[Auction "N"]
+Pass 3S =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+D8 D4 DT DK 
+S7 SQ S3 S2 
+S8 SA SJ C3 
+SK S9 D6 H2 
+DQ D7 H4 D2 
+DJ S4 H6 DA 
+C8 C2 C5 CA 
+D3 C6 CJ CK 
+D5 C9 CQ C4 
+H8 S5 H7 HA 
+H3 CT HK C7 
+HT ST H9 H5 
+D9 S6 HJ HQ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "21"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K87.T83.QJ9853.8 AQT9654..74.T962 J3.KJ9764.T6.QJ5 2.AQ52.AK2.AK743"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "10"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2154021540ac89dac88d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  4
+N  C  0
+S NT  2
+S  S  1
+S  H  5
+S  D  4
+S  C  0
+E NT 10
+E  S 12
+E  H  8
+E  D  9
+E  C 13
+W NT 10
+W  S 12
+W  H  8
+W  D  8
+W  C 13
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 29,3,1,149,181,52,51,35,87,36,325,116,31,47,49,73,34,20,86,37,10,17,173,33,9,21,8,26,11,35,162,50,27,16,81,38,62,36,81,30,11,33,114,17,8,48,10,16,9,21,28,10,19,9,17,12,25,24,10,19,8,11,8,24,8,11
+[Auction "N"]
+2D 2S Pass 3C 
+Pass 3S Pass 6NT 
+Pass Pass Pass 
+[Play "N"]
+DQ D4 D6 DK 
+C8 C2 C5 CK 
+D5 C6 CJ CA 
+D3 C9 CQ C4 
+D8 D7 DT DA 
+S7 SQ S3 S2 
+S8 SA SJ H2 
+D9 CT H4 C3 
+SK ST H6 H5 
+DJ S4 H7 D2 
+H3 S5 HK HA 
+H8 S6 H9 HQ 
+HT S9 HJ C7 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "22"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T82.53.QJ87.Q965 J7.AT964.A6.A743 AKQ943.K7.T93.K8 65.QJ82.K542.JT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "78476784765495754957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  4
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  9
+E  D  5
+E  C  7
+W NT  5
+W  S  4
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,0,2,97,50,94,22,33,121,243,22,17,25,25,32,6,13,29,6,14,44,32,10,15,17,28,8,22,86,105,38,13,9,12,16,26
+[Auction "E"]
+1NT 2S Pass Pass 
+Pass 
+[Play "W"]
+H2 H5 HA H7 
+S5 S2 S7 S9 
+S6 S8 SJ SQ 
+H8 H3 H4 HK 
+D2 D7 DA D9 
+HQ ST HT C8 
+DK D8 D6 DT 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "22"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T82.53.QJ87.Q965 J7.AT964.A6.A743 AKQ943.K7.T93.K8 65.QJ82.K542.JT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "78476784765495754957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  4
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  9
+E  D  5
+E  C  7
+W NT  5
+W  S  4
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,3,1,137,157,28,127,75,43,92,23,22,38,99,34,16,461,45,9,20,17,20,10,54,10,29,31,30,240,20,20,14,31,17,17,18,77,15,15,22,68,30,13,47,14,37,13,34,13,22,17,8,40
+[Auction "E"]
+1H 1S 2H 2S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+HQ H3 HA H7 
+D2 D7 DA D3 
+DK D8 D6 D9 
+D5 DJ S7 DT 
+H2 H5 HT HK 
+S5 S2 SJ SA 
+S6 S8 C3 SK 
+D4 ST H4 S3 
+H8 DQ H6 C8 
+C2 C5 CA CK 
+-  -  H9 -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "23"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A64.JT94.AQ6.Q82 853.A53.752.T743 KQJ2.K62.J83.965 T97.Q87.KT94.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88877899885445554455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  4
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  4
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,2,157,91,50,56,17,149,146,35,27,58,91,18,6,81,38,18,19,80,20,17,28,7,20,15,16,17,30,16,19,46,32,17,16,23,50,6,24,66,82,5,17,339,32,6,17,20
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+HJ H3 H6 HQ 
+CQ C3 C9 CJ 
+H9 HA H2 H7 
+S6 S3 SJ S7 
+H4 H5 HK H8 
+S4 S5 SQ S9 
+DQ D2 D3 D4 
+HT S8 C6 D9 
+SA D5 S2 ST 
+DA D7 D8 DT 
+D6 -  -  -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "23"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A64.JT94.AQ6.Q82 853.A53.752.T743 KQJ2.K62.J83.965 T97.Q87.KT94.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88877899885445554455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  4
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  4
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,3,1,87,65,144,41,122,200,32,98,37,35,33,10,33,11,16,12,36,9,14,8,21,32,14,57,15,36,20,32,10,6,177,15,126,86,38,11,26,63,16,215,14,13,16,30,11,18,18,19,10,22,18,18,8,13,9,20,9
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 11-14"]
+[Play "N"]
+HJ H3 H6 HQ 
+C2 C3 C5 CA 
+C8 C4 C6 CK 
+CQ C7 C9 CJ 
+HT H5 HK H7 
+H4 HA H2 H8 
+D6 CT D3 S7 
+S4 S3 SJ S9 
+SA S5 SK ST 
+H9 D2 D8 D4 
+S6 S8 SQ D9 
+DQ D5 S2 DT 
+DA D7 DJ DK 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "24"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ3.Q5.9862.A984 Q5.JT94.AKT5.KJ2 AT8764.72.J73.Q3 92.AK863.Q4.T765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "471344713466aa866aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  1
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  1
+S  D  3
+S  C  4
+E NT  6
+E  S  6
+E  H 10
+E  D 10
+E  C  8
+W NT  6
+W  S  6
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,2,125,176,28,30,101,161,97,42,39,37,43,16,10,20,17,13,6,41,28,26,7,25,9,18,8,38,8,81,7,14,61,44,10,58,36,12,19,9,33,11,19,37,13,18,23,19,18,20,14,16,17
+[Auction "W"]
+Pass Pass 1NT 2S 
+3H 4S Pass Pass 
+Pass 
+[Play "W"]
+HA H5 H4 H7 
+HK HQ H9 H2 
+DQ D6 D5 D7 
+D4 D2 DA D3 
+C5 D8 DK DJ 
+C6 D9 DT ST 
+S2 SK S5 S4 
+C7 C4 CK C3 
+CT CA C2 CQ 
+S9 SJ SQ SA 
+H3 -  -  S8 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "24"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ3.Q5.9862.A984 Q5.JT94.AKT5.KJ2 AT8764.72.J73.Q3 92.AK863.Q4.T765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "471344713466aa866aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  1
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  1
+S  D  3
+S  C  4
+E NT  6
+E  S  6
+E  H 10
+E  D 10
+E  C  8
+W NT  6
+W  S  6
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,3,1,59,51,77,103,73,66,28,138,47,168,46,55,25,83,52,49,15,46,14,113,22,14,12,32,19,18,207,40,17,37,19,18,18,29,40,18,18,22,50,65,51,28,234,36,11,16,66,17,32,13,30,16,36,10
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+2D =2= Pass 2H 2S 
+3H 3S 4H Pass 
+Pass 4S X Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Note "2: Hearts"]
+[Play "W"]
+HK H5 H4 H2 
+HA HQ H9 H7 
+DQ D2 D5 D3 
+D4 D6 DK D7 
+H3 D8 DA DJ 
+H6 D9 DT CQ 
+C5 CA CJ C3 
+S2 SK S5 S4 
+S9 SJ SQ SA 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "25"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ873.AJ954.52.T 5.KT3.J94.AKJ864 QT64.Q72.AQ76.Q3 A92.86.KT83.9752"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "39832388427458b7458b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  8
+N  D  3
+N  C  2
+S NT  3
+S  S  8
+S  H  8
+S  D  4
+S  C  2
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C 11
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 23,3,1,146,126,352,60,73,62,47,16,59,681,49,42,56,46,10,19,117,24,8,16,9,24,16,17,15,52,83,41,35,24,18,31,19,35,26,21,84,28,8,28,14,34,14,12,20,26,14,25,20,32,16,8,20,18,18,15,16
+[Auction "N"]
+1S 2C 3C 4C 
+4S 5C Pass Pass 
+5S Pass Pass Pass 
+[Play "E"]
+CK C3 C2 CT 
+CA CQ C5 S3 
+S5 S4 SA SK 
+H3 ST S9 S7 
+C4 SQ S2 S8 
+HK HQ H6 H4 
+HT H7 H8 HJ 
+C6 H2 C7 HA 
+C8 D6 C9 H9 
+CJ D7 D3 H5 
+D4 DQ DK D5 
+-  -  D8 -  
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "25"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ873.AJ954.52.T 5.KT3.J94.AKJ864 QT64.Q72.AQ76.Q3 A92.86.KT83.9752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "39832388427458b7458b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  8
+N  D  3
+N  C  2
+S NT  3
+S  S  8
+S  H  8
+S  D  4
+S  C  2
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C 11
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 10,0,2,2234,56,29,64,125,160,52,61,50,108,74,24,17,48,18,15,102,30,35,13,36,37,23,13,24,7,19,20,15,115,20,7,17,16,12,14,35,14,60,17,6,14,24,7,6
+[Auction "N"]
+Pass 1C Pass 1NT 
+2C =1= 3C Pass Pass 
+Pass 
+[Note "1:  * majors [0:11]"]
+[Play "S"]
+CQ C2 CT CA 
+C3 C5 S8 CK 
+D6 D3 D2 DJ 
+DA D8 D5 D4 
+H2 H6 HA H3 
+H7 H8 H5 HK 
+D7 DT S3 D9 
+DQ DK S7 HT 
+S4 SA SJ S5 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "26"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q94.AJ83.JT432.T AJ7.Q97.86.AQJ72 K832.T642.AQ9.93 T65.K5.K75.K8654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "57884578848655986559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  8
+N  C  4
+S NT  5
+S  S  7
+S  H  8
+S  D  8
+S  C  4
+E NT  8
+E  S  6
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  6
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 6,3,1,162,32,15,38,42,194,18,28,44,111,320,24,48,230,32,32,27,114,52,21,32,90,19,31,23,61,19,45,17,122,30,31,45,145,45,19,39,94,82,34,14,16,61,33,74,28,29,37,17,37,69,17,27,141,17,29,20,17,36,8,25
+[Auction "E"]
+1NT =1= Pass Pass 2C =2= 
+Pass 2D Pass Pass 
+Pass 
+[Note "1: 11-14"]
+[Note "2:  * Hearts and a 2nd suit [0:12]"]
+[Play "W"]
+D5 D2 D8 D9 
+C4 CT CJ C3 
+D7 D3 D6 DA 
+C5 D4 C2 C9 
+S6 S4 S7 SK 
+H5 HJ HQ H6 
+HK HA H9 HT 
+DK DT C7 DQ 
+C6 DJ CQ S3 
+S5 H8 H7 H2 
+C8 H3 SJ H4 
+ST SQ SA S2 
+CK S9 CA S8 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "26"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q94.AJ83.JT432.T AJ7.Q97.86.AQJ72 K832.T642.AQ9.93 T65.K5.K75.K8654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "57884578848655986559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  8
+N  C  4
+S NT  5
+S  S  7
+S  H  8
+S  D  8
+S  C  4
+E NT  8
+E  S  6
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  6
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,2,155,58,79,111,125,296,15,19,37,13,14,197,50,25,20,25,160,31,10,14,41,49,14,58,17,53,17,44,19,51,17,6,27,24,18,22,14,69,12,14,48,42,14,35,13,181,14,12,8,15,45,10,6,18,7,15
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+C9 C4 CT CJ 
+C3 C5 D4 CA 
+H2 HK HA H7 
+H4 H5 H3 HQ 
+S2 C6 D2 CQ 
+S8 CK H8 C2 
+D9 C8 S4 C7 
+SK S5 S9 SJ 
+S3 S6 SQ SA 
+H6 ST D3 S7 
+DQ D5 DT D6 
+DA D7 DJ D8 
+HT DK HJ H9 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "27"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T3.53.JT862.7532 A652.K87.9743.KJ Q987.AQJT.KQ5.96 KJ4.9642.A.AQT84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "44463444639996a9896a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S  9
+E  H  9
+E  D  6
+E  C 10
+W NT  9
+W  S  8
+W  H  9
+W  D  6
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 4,0,2,128,59,24,35,71,64,16,17,41,13,104,7,20,18,112,75,16,20,38,25,16,41,37,6,24,20,9,14,29,22,16,22,42,76,14,6,14,20,7,9,6,11,6,10,10,10,8,13,6,9,6,9,8,8,6,13
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+C8 C2 CK C6 
+CQ C3 CJ C9 
+CA C5 D4 S9 
+CT C7 S5 HT 
+C4 H3 S2 HJ 
+DA D2 D3 DQ 
+S4 S3 SA S7 
+H2 H5 H8 HA 
+H4 D6 D7 DK 
+H6 DJ D9 D5 
+H9 DT H7 HQ 
+SJ D8 HK S8 
+SK ST S6 SQ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "27"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T3.53.JT862.7532 A652.K87.9743.KJ Q987.AQJT.KQ5.96 KJ4.9642.A.AQT84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "44463444639996a9896a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S  9
+E  H  9
+E  D  6
+E  C 10
+W NT  9
+W  S  8
+W  H  9
+W  D  6
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 4,3,1,167,55,33,37,94,78,20,14,22,30,15,19,94,111,38,32,16,32,110,79,24,34,20,65,18,51,115,16,16,33,38,25,13,35,16,31,43,49,17,30,33,15,26,18,9,32,13,30
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+CA C2 CJ C6 
+CQ C3 CK C9 
+SJ S3 S2 S7 
+CT C5 D4 HT 
+C8 C7 S5 DK 
+C4 H3 H8 HJ 
+SK ST S6 S8 
+S4 D2 SA S9 
+H2 H5 H7 HQ 
+DA D6 D3 DQ 
+H4 D8 HK HA 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "28"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J864.9876.JT.JT3 75.KQJ5.Q863.Q86 AKQT93.3.A92.K95 2.AT42.K754.A742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "7a5567a5565388753887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  5
+N  C  6
+S NT  7
+S  S 10
+S  H  5
+S  D  5
+S  C  6
+E NT  5
+E  S  3
+E  H  8
+E  D  8
+E  C  7
+W NT  5
+W  S  3
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 3,0,2,91,33,19,47,35,14,33,73,116,17,14,15,22,13,46,47,24,15,22,26,41,6,17,7,14,17,11,77,45,16,36,5,17,6,11,15,34,7,15,20,28,13,6,11,47,12,11,13,11,12,7
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass Pass Pass 
+[Play "W"]
+S2 S8 S5 S3 
+DK DJ D3 D2 
+C4 CT CQ CK 
+H2 SJ S7 S9 
+D4 DT D6 D9 
+D5 S4 H5 ST 
+D7 H6 D8 DA 
+HT H7 HJ H3 
+H4 H8 HK SA 
+CA C3 C6 C5 
+C2 CJ C8 C9 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "28"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J864.9876.JT.JT3 75.KQJ5.Q863.Q86 AKQT93.3.A92.K95 2.AT42.K754.A742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "7a5567a5565388753887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  5
+N  C  6
+S NT  7
+S  S 10
+S  H  5
+S  D  5
+S  C  6
+E NT  5
+E  S  3
+E  H  8
+E  D  8
+E  C  7
+W NT  5
+W  S  3
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,3,1,159,68,33,230,33,159,44,56,18,21,37,80,77,26,54,71,35,47,162,61,31,19,137,23,24,117,352,16,44,64,40,33,26,49,354,37,48,18,224,41,26,20,47,34,51,24,55,48,39,8,20,41,15,20,22,15,13,50,16,17,15,14
+[Auction "W"]
+1D Pass 1H X 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+SA S2 S4 S5 
+H3 H2 H6 HK 
+S9 H4 S6 S7 
+D2 HA H7 H5 
+DA D4 DT DQ 
+C9 C2 C3 CQ 
+D9 DK DJ D3 
+S3 HT H8 HJ 
+ST C4 H9 HQ 
+SQ D5 S8 D8 
+SK D7 SJ D6 
+C5 CA CT C6 
+CK C7 CJ C8 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "29"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQJ42.J974.J3.76 K653.6.AT64.KQJ9 T87.A5.KQ87.T852 9.KQT832.952.A43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57455574558588885888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  5
+S  C  5
+E NT  8
+E  S  5
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  5
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 12,0,2,384,39,42,34,212,109,42,29,31,548,75,205,103,28,24,33,42,14,8,30,15,12,13,49,22,16,38,222,58,17,14,47,14,16,50,26,20,18,6,40,23,11,21,178,22,18,25,13,19,14,13,9,32,27,14,16,19,6,11,16,14,12,5
+[Auction "N"]
+Pass 1D Pass 1H 
+1S 1NT 2S 3H 
+Pass Pass Pass 
+[Play "N"]
+C7 C9 CT CA 
+H4 H6 HA HK 
+C6 CJ C8 C3 
+SJ S3 S8 S9 
+D3 DA D7 D2 
+S2 S5 S7 H2 
+H7 D4 H5 HQ 
+HJ D6 ST HT 
+DJ DT DQ D5 
+S4 S6 DK D9 
+H9 SK D8 H3 
+SA CQ C2 H8 
+SQ CK C5 C4 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "29"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQJ42.J974.J3.76 K653.6.AT64.KQJ9 T87.A5.KQ87.T852 9.KQT832.952.A43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57455574558588885888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  5
+S  C  5
+E NT  8
+E  S  5
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  5
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,3,1,136,79,73,21,27,123,84,29,131,95,49,29,20,56,328,17,67,78,41,47,33,550,29,31,20,33,77,31,26,37,60,28,43,23,23,24,25,147,56,27,225,20,28,13,30,18,19,25,112,28,29,15,16,10,30,35,19,14,40,15,42,17,14,15,19
+[Auction "N"]
+Pass 1D Pass 1H 
+1S 2C 2S 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+ST S9 S2 SK 
+H5 HQ H4 H6 
+C2 C3 C6 CK 
+CT CA C7 C9 
+C5 C4 D3 CQ 
+C8 H2 H7 CJ 
+S8 H3 SJ S5 
+S7 D2 SQ S3 
+D7 H8 SA S6 
+D8 D5 S4 D4 
+HA HT H9 D6 
+DK D9 DJ DA 
+DQ HK HJ DT 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "30"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:6532.Q6.KQ84.KT2 AT87.AJ4.T532.93 KQ9.K832.A.AQJ86 J4.T975.J976.754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa99baa98b3343233432"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  9
+N  C 11
+S NT 10
+S  S 10
+S  H  9
+S  D  8
+S  C 11
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  2
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,2,55,89,76,270,58,49,99,63,36,31,47,81,62,20,14,146,31,7,18,21,23,12,27,74,31,25,20,145,26,18,9,16,33,7,14,17,13,10,10,28,12,18,13,68,34,7,17,6,103,6,78,10,116,14,9,13,32,6,11,16,6,19,5
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+D6 D4 DT DA 
+C4 CT C3 C6 
+SJ S2 S7 SQ 
+H5 HQ HA H2 
+H7 H6 H4 HK 
+C5 CK C9 C8 
+D7 DK D2 H3 
+D9 DQ D3 H8 
+C7 C2 S8 CA 
+S4 S3 ST CQ 
+H9 D8 D5 CJ 
+HT S5 SA S9 
+DJ S6 HJ SK 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "30"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:6532.Q6.KQ84.KT2 AT87.AJ4.T532.93 KQ9.K832.A.AQJ86 J4.T975.J976.754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa99baa98b3343233432"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  9
+N  C 11
+S NT 10
+S  S 10
+S  H  9
+S  D  8
+S  C 11
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  2
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,3,1,174,87,17,95,47,160,91,25,32,34,18,24,87,272,45,49,17,14,17,54,20,15,19,32,18,17,11,32,14,26,11,22,19,13,12,17,122,12,11,13,19,17,86,14,16,13,42,35,17,25,22,185,65,10,15,66,75,11,27,14,34,11,22
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SJ S2 S7 SK 
+D6 D4 D2 DA 
+C4 CK C3 C6 
+D7 DK D3 H2 
+D9 DQ D5 H3 
+C5 CT C9 C8 
+C7 C2 H4 CJ 
+S4 S3 S8 CQ 
+H5 S5 HJ CA 
+H9 HQ HA H8 
+DJ S6 SA S9 
+H7 D8 DT HK 
+HT H6 ST SQ 
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "31"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:8.73.T872.KQJT82 AT9765.T92.K.963 J43.AJ5.AJ96543. KQ2.KQ864.Q.A754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "622ba622ba5b9235a823"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  2
+N  D 11
+N  C 10
+S NT  6
+S  S  2
+S  H  2
+S  D 11
+S  C 10
+E NT  5
+E  S 11
+E  H  9
+E  D  2
+E  C  3
+W NT  5
+W  S 10
+W  H  8
+W  D  2
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 21,0,2,65,118,117,98,22,131,23,24,70,34,24,10,21,100,23,6,22,33,8,14,20,16,50,23,9,30,16,21,15,16,43,44,28,21,9,7,62,30,11,14,12,21,5,17,20,41,5,16
+[Auction "S"]
+1D X 3D 3S 
+5D Pass Pass Pass 
+[Play "W"]
+SK S8 SA S4 
+H6 H3 HT HA 
+S2 D2 S5 S3 
+C4 CT C3 D3 
+SQ D7 S6 SJ 
+CA CJ C6 H5 
+HK H7 H2 HJ 
+C5 CQ C9 D4 
+DQ D8 DK DA 
+H4 DT S7 D5 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "31"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:8.73.T872.KQJT82 AT9765.T92.K.963 J43.AJ5.AJ96543. KQ2.KQ864.Q.A754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "622ba622ba5b9235a823"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  2
+N  D 11
+N  C 10
+S NT  6
+S  S  2
+S  H  2
+S  D 11
+S  C 10
+E NT  5
+E  S 11
+E  H  9
+E  D  2
+E  C  3
+W NT  5
+W  S 10
+W  H  8
+W  D  2
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 21,3,1,148,119,143,112,46,25,41,36,47,33,144,21,22,63,26,35,16,73,24,21,84,37,25,72,27,18,43,31,18,63,38,13,13,24,50,20,25,22,19,14,9
+[Auction "S"]
+3D 3H 5D Pass 
+Pass X Pass Pass 
+Pass 
+[Play "W"]
+HK H3 H9 HA 
+DQ D7 DK DA 
+H4 DT S5 D4 
+CA CK C6 H5 
+SQ S8 SA S3 
+HQ H7 HT HJ 
+C7 CQ C3 S4 
+C4 CJ C9 SJ 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "32"]
+[West "Chris Reynolds#"]
+[North "Dani#"]
+[East "Tony Pummell#"]
+[South "Jason Levesley#476475"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:865.KQ975.A2.K92 J9.A86.KQ73.QT87 43.JT32.96.J6543 AKQT72.4.JT854.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "11716117168c6c78c6c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  7
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  7
+S  D  1
+S  C  6
+E NT  8
+E  S 12
+E  H  6
+E  D 12
+E  C  7
+W NT  8
+W  S 12
+W  H  6
+W  D 12
+W  C  7
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 18,0,2,117,81,139,99,28,153,21,19,167,48,7,22,10,20,5,75,26,9,15,14,16,6,16,19,22,23,15,28,16,21,10,44,15,20,12,5,22,127,10,5
+[Auction "W"]
+1S 2H 3NT Pass 
+4S Pass Pass Pass 
+[Play "N"]
+DA D3 D9 D4 
+D2 D7 D6 D5 
+S6 SJ S3 S2 
+S5 S9 S4 S7 
+H7 HA H2 H4 
+C9 C7 C6 CA 
+S8 H6 H3 SA 
+H5 DQ HT D8 
+*
+
+[Event "25 Nov O'Brien vs Evans"]
+[Site "RealBridge"]
+[Date "2024.11.25"]
+[Board "32"]
+[West "James Carpenter#406894"]
+[North "Andrew Hardy#"]
+[East "Rachel O'Brien#"]
+[South "Martin Evans#425412"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:865.KQ975.A2.K92 J9.A86.KQ73.QT87 43.JT32.96.J6543 AKQT72.4.JT854.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Evans team"]
+[VisitTeam "O'Brien team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "11716117168c6c78c6c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  7
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  7
+S  D  1
+S  C  6
+E NT  8
+E  S 12
+E  H  6
+E  D 12
+E  C  7
+W NT  8
+W  S 12
+W  H  6
+W  D 12
+W  C  7
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 23,3,1,101,30,116,108,40,621,43,33,28,448,128,55,163,52,40,44,54,100,16,11,21,30,9,22,8,54,9,15,12,26,8,51,11,24,9,46,11
+[Auction "W"]
+1S 2H X 3H 
+4D 4H 4S Pass 
+Pass 5H X Pass 
+5S Pass Pass Pass =1= 
+[Note "1: ♢♢♡"]
+[Play "N"]
+HK HA H2 H4 
+S5 SJ S3 S2 
+S6 S9 S4 SQ 
+S8 H6 H3 SK 
+H5 H8 HT SA 
+-  -  -  D4 
+*

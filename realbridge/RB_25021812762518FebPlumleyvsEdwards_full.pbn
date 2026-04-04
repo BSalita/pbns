@@ -1,0 +1,4096 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "1"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK954.JT82.A.K82 Q6.A.QJT63.AQ954 J32.KQ953.9542.7 T87.764.K87.JT63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4ab444ab433328933289"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H 11
+N  D  4
+N  C  4
+S NT  4
+S  S 10
+S  H 11
+S  D  4
+S  C  3
+E NT  3
+E  S  3
+E  H  2
+E  D  8
+E  C  9
+W NT  3
+W  S  3
+W  H  2
+W  D  8
+W  C  9
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 20,2,1,353,836,171,107,81,39,63,20,28,143,60,100,17,29,20,12,23,124,21,31,12,18,63,28,44,131,35,9,17,10,76,24,18
+[Auction "N"]
+1S 2NT =1= Pass 4C 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: minors, at least 55"]
+[Play "N"]
+SK S6 S3 S8 
+SA SQ S2 ST 
+DA D3 D5 D8 
+H2 HA H3 H7 
+C2 CA C7 C3 
+CK C4 H5 CT 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "1"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK954.JT82.A.K82 Q6.A.QJT63.AQ954 J32.KQ953.9542.7 T87.764.K87.JT63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4ab444ab433328933289"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H 11
+N  D  4
+N  C  4
+S NT  4
+S  S 10
+S  H 11
+S  D  4
+S  C  3
+E NT  3
+E  S  3
+E  H  2
+E  D  8
+E  C  9
+W NT  3
+W  S  3
+W  H  2
+W  D  8
+W  C  9
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 23,0,3,285,277,246,228,115,116,39,50,43,24,185,38,16,118,22,26,9,31,26,9,22,49,22,14,14,378,27,13,12,33,23,8,55,20,20,8,13,13,43,17,23,7,22,18,15,15,25,19,19,11,13,11,7,17,13,7,39,7,8,7,9
+[Auction "N"]
+1S 2NT =1= 4S 4NT 
+5S X Pass Pass 
+Pass 
+[Note "1: MINORS"]
+[Play "E"]
+HA H3 H7 HJ 
+DQ D2 D7 DA 
+S6 S2 S8 SK 
+SQ S3 S7 SA 
+C4 SJ ST S4 
+D3 H5 H6 HT 
+C5 HK H4 H8 
+D6 HQ CT H2 
+C9 H9 C3 C8 
+CA C7 C6 CK 
+DJ D4 D8 S5 
+DT D5 DK S9 
+CQ D9 CJ C2 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "2"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J63.A6.QT983.653 K987.JT73.AKJ7.7 Q5.Q8542.65.KT94 AT42.K9.42.AQJ82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3234332343ab99aab99a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  4
+N  C  3
+S NT  3
+S  S  2
+S  H  3
+S  D  4
+S  C  3
+E NT 10
+E  S 11
+E  H  9
+E  D  9
+E  C 10
+W NT 10
+W  S 11
+W  H  9
+W  D  9
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,159,87,48,66,53,48,86,47,28,176,224,84,163,22,28,85,41,25,68,26,23,32,82,27,185,36,150,111,193,59,128,39,30,35,25,42,14,14,92,24,29,31,67,21,24,18,175,23,58,53,141,16,40,10,51,19,98,24,26,11,14,8
+[Auction "E"]
+1D Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+HA H3 H2 H9 
+H6 H7 H4 HK 
+S3 SK SQ S2 
+SJ S7 S5 S4 
+S6 S8 H5 ST 
+D8 DA D5 D4 
+C6 C7 C4 CQ 
+C3 D7 C9 CA 
+C5 S9 CT C2 
+D3 HT H8 C8 
+D9 HJ HQ SA 
+DT DK D6 D2 
+DQ DJ CK CJ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "2"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J63.A6.QT983.653 K987.JT73.AKJ7.7 Q5.Q8542.65.KT94 AT42.K9.42.AQJ82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3234332343ab99aab99a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  4
+N  C  3
+S NT  3
+S  S  2
+S  H  3
+S  D  4
+S  C  3
+E NT 10
+E  S 11
+E  H  9
+E  D  9
+E  C 10
+W NT 10
+W  S 11
+W  H  9
+W  D  9
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,0,3,206,45,58,40,38,46,293,49,35,71,123,35,37,36,20,201,32,62,611,33,27,14,69,28,33,8,544,40,18,31,21,31,71,32,100,50,26,11,111,23,24,41,32,14,23,9,40,76,17,28,63,18,21,7,65,23
+[Auction "E"]
+1H Pass 2C Pass 
+2D Pass 2S =1= Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Note "1: fsf"]
+[Play "N"]
+S3 S7 SQ SA 
+S6 S8 S5 S2 
+C3 C7 C4 CQ 
+HA H3 H2 HK 
+DT DA D6 D4 
+H6 H7 H4 H9 
+SJ SK D5 S4 
+C5 HT HQ C2 
+C6 D7 C9 CJ 
+D3 DJ CT CA 
+D8 -  -  D2 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "3"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q52.K53.J43.T643 974.AQT4.62.KQJ7 AT3.J9.KQT97.A95 KJ86.8762.A85.82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "75576755766886768867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  7
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  6
+E  S  8
+E  H  8
+E  D  6
+E  C  7
+W NT  6
+W  S  8
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,418,78,98,51,158,117,50,24,42,39,17,17,13,16,17,214,51,31,35,18,307,116,46,20,242,46,12,15,339,143,53,18,16,36,9,9,16,149,25,40,17,79,11,8,35,31,18,8,10,12,16,7,12,9,10,8
+[Auction "S"]
+1NT =1= Pass Pass Pass 
+[Note "1: 14 16"]
+[Play "W"]
+S6 S2 S9 ST 
+D5 DJ D6 D7 
+DA D4 D2 D9 
+H7 H3 HQ H9 
+C8 C3 CK CA 
+H2 H5 HA HJ 
+S8 S5 S7 SA 
+D8 D3 C7 DK 
+H6 SQ H4 DQ 
+H8 C4 HT DT 
+C2 CT CJ C5 
+SJ C6 CQ C9 
+SK HK S4 S3 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "3"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q52.K53.J43.T643 974.AQT4.62.KQJ7 AT3.J9.KQT97.A95 KJ86.8762.A85.82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "75576755766886768867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  7
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  6
+E  S  8
+E  H  8
+E  D  6
+E  C  7
+W NT  6
+W  S  8
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,232,51,78,326,363,303,24,26,83,50,18,38,244,138,52,40,12,94,16,149,378,79,35,32,142,41,19,83,105,19,40,20,55,16,14,51,86,19,22,20,60,10,17,18,66,10,111,13,28,12,14,13,21,11,14,13
+[Auction "S"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+H8 H3 HQ H9 
+C8 C3 CK C5 
+DA D3 D6 DK 
+C2 C4 CJ CA 
+D8 C6 CQ C9 
+H2 H5 H4 HJ 
+D5 DJ D2 D7 
+S6 CT C7 S3 
+S8 D4 S7 DQ 
+H6 S2 S9 DT 
+H7 HK S4 D9 
+SJ S5 HT SA 
+SK SQ HA ST 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "4"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T8542.AQT9.KQJ.Q K63.K643.T3.T762 AQ97.75.972.K543 J.J82.A8654.AJ98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "9a8669a8664356643566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  8
+N  D  6
+N  C  6
+S NT  9
+S  S 10
+S  H  8
+S  D  6
+S  C  6
+E NT  4
+E  S  3
+E  H  5
+E  D  6
+E  C  6
+W NT  4
+W  S  3
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,113,37,37,871,100,354,36,214,68,122,24,38,33,398,126,147,24,55,99,27,25,37,28,34,38,47,16,35,33,134,45,28,12,212,18,10,13,21,11,25,35,22,49,8,9
+[Auction "W"]
+Pass 1S Pass 2NT =1= 
+Pass 3H =2= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 4+s invit +"]
+[Note "2: non minimum, C singleton"]
+[Play "E"]
+DT D2 DA DJ 
+HK H5 H2 HQ 
+H3 H7 HJ HA 
+S3 SQ SJ S4 
+C6 C3 CA CQ 
+D3 D7 D5 DQ 
+S6 S9 D4 S2 
+SK SA D6 S5 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "4"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T8542.AQT9.KQJ.Q K63.K643.T3.T762 AQ97.75.972.K543 J.J82.A8654.AJ98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "9a8669a8664356643566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  8
+N  D  6
+N  C  6
+S NT  9
+S  S 10
+S  H  8
+S  D  6
+S  C  6
+E NT  4
+E  S  3
+E  H  5
+E  D  6
+E  C  6
+W NT  4
+W  S  3
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,235,339,92,293,85,133,27,283,35,84,37,156,25,39,25,105,486,15,14,12,39,14,40,250,30,31,32,317,58,51,21,21,41,18,23,9,26,13,21,61,84,18,9,19,29,25,17,50
+[Auction "W"]
+1D 1NT Pass 2C =1= 
+Pass 2H Pass 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: stayman"]
+[Play "W"]
+DA DJ D3 D9 
+D4 DQ DT D2 
+SJ S2 S3 SA 
+D5 S4 SK S9 
+CA CQ C7 C3 
+D6 DK S6 D7 
+C8 H9 C6 CK 
+H2 HQ HK H5 
+-  -  C2 -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "5"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ872.92.AT7.A85 JT6543.87.95.Q92 A.T43.QJ643.K764 9.AKQJ65.K82.JT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "786a9786a93572435724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D 10
+N  C  9
+S NT  7
+S  S  8
+S  H  6
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  7
+E  D  2
+E  C  4
+W NT  3
+W  S  5
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 7,0,3,65,46,477,129,59,28,254,50,207,20,33,33,77,21,24,443,26,19,18,47,20,24,38,48,19,27,58,96,38,20,36,8,24,13,27,275,87,24,18,15,23,15,15,11
+[Auction "N"]
+1S Pass 1NT =1= 2H 
+Pass Pass Pass 
+[Note "1: FNT"]
+[Play "N"]
+SK S3 SA S9 
+H2 H7 H3 HA 
+H9 H8 H4 HK 
+S2 S4 HT HQ 
+C5 C9 CK C3 
+CA C2 C4 CT 
+C8 CQ C6 CJ 
+SQ SJ D4 D2 
+DA D5 D3 D8 
+DT -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "5"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ872.92.AT7.A85 JT6543.87.95.Q92 A.T43.QJ643.K764 9.AKQJ65.K82.JT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "786a9786a93572435724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D 10
+N  C  9
+S NT  7
+S  S  8
+S  H  6
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  7
+E  D  2
+E  C  4
+W NT  3
+W  S  5
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 7,2,1,199,54,135,207,42,94,146,116,56,39,23,138,49,31,9,79,22,68,12,591,34,138,28,22,25,23,97,29,115,32,72,13,22,10,16,13,33,10,19,9,196,14,12,24,13,145,32,14,12,15,22,22
+[Auction "N"]
+1NT =1= Pass Pass 2H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+SK S3 SA S9 
+DA D5 DQ DK 
+DT D9 D3 D2 
+H2 H7 HT HK 
+D7 H8 D4 D8 
+S2 SJ H3 H5 
+H9 S4 H4 HA 
+S7 S5 C4 HQ 
+CA C2 C6 CJ 
+SQ S6 C7 H6 
+C5 C9 CK C3 
+-  -  DJ -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "6"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T.A982.Q84.JT875 KQ8.J643.9732.K9 J743.KT.KT.A6432 A9652.Q75.AJ65.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4465a4465a7877378773"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  5
+N  C 10
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C 10
+E NT  7
+E  S  8
+E  H  7
+E  D  7
+E  C  3
+W NT  7
+W  S  8
+W  H  7
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 13,0,3,116,405,279,470,70,73,61,55,82,103,53,21,20,222,42,28,266,122,10,25,216,37,13,8,298,22,19,7,622,42,35,12,162,22,99,33,29,191,18,30,196,23,17,25,44,17,20,25,190,16,19,14,16,23,10,15,9,22,10,21,9,22,8,15
+[Auction "E"]
+Pass 1NT =1= 2S =2= 2NT =3= 
+Pass 3C Pass Pass 
+3S Pass Pass Pass 
+[Note "1: 10 12"]
+[Note "2: spades + minor"]
+[Note "3: asks p to bid 3C * lebensohl - various hands [0:23]"]
+[Play "N"]
+CJ C9 CA CQ 
+C8 CK C3 H5 
+ST SK S3 S2 
+C7 SQ S4 S5 
+CT S8 SJ SA 
+D4 D7 DT D5 
+C5 H3 C4 S6 
+H2 D2 S7 S9 
+D8 D3 DK DA 
+DQ D9 C6 D6 
+HA H4 HT H7 
+H8 H6 HK HQ 
+H9 HJ C2 DJ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "6"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T.A982.Q84.JT875 KQ8.J643.9732.K9 J743.KT.KT.A6432 A9652.Q75.AJ65.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4465a4465a7877378773"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  5
+N  C 10
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C 10
+E NT  7
+E  S  8
+E  H  7
+E  D  7
+E  C  3
+W NT  7
+W  S  8
+W  H  7
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 18,2,1,91,132,62,160,224,103,255,48,32,37,51,38,28,36,17,56,81,108,201,25,1515,43,18,10,17,30,62,11,144,12,24,19,291,32,35,16,45,32,9,17,10,19,12,17,22,11,24,32,11,26,9,36,9,18,22,31,10,25,8,12,18,18,9,90,11,12,11,17
+[Auction "E"]
+Pass 1C 1S 3C 
+X Pass 3D Pass 
+3S Pass 4H Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CJ C9 CA CQ 
+H2 H3 HK H7 
+HA H4 HT H5 
+H9 H6 S3 HQ 
+C5 CK C2 D5 
+ST S8 S4 SA 
+C7 SQ S7 S2 
+C8 SK SJ S5 
+H8 HJ C3 D6 
+D8 D2 DT DA 
+CT D3 C4 S9 
+D4 D7 C6 S6 
+DQ D9 DK DJ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "7"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A7654.4.AT7.A862 Q.AQ7632.6532.T3 K2.JT9.KQ.KQJ975 JT983.K85.J984.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7965c7965c2477124771"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  5
+N  C 12
+S NT  7
+S  S  9
+S  H  6
+S  D  5
+S  C 12
+E NT  2
+E  S  4
+E  H  7
+E  D  7
+E  C  1
+W NT  2
+W  S  4
+W  H  7
+W  D  7
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 20,0,3,618,119,174,48,226,71,356,29,93,67,296,40,122,43,419,98,26,16,207,56,77,34
+[Auction "S"]
+2C =1= Pass 2D =2= Pass 
+3C =3= Pass 3S Pass 
+3NT Pass 5C Pass 
+Pass Pass 
+[Note "1: intermediate 5C 4M or 6C clubs"]
+[Note "2: asks"]
+[Note "3: max 6C"]
+[Play "W"]
+H5 H4 HA H9 
+C4 C8 C3 C5 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "7"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A7654.4.AT7.A862 Q.AQ7632.6532.T3 K2.JT9.KQ.KQJ975 JT983.K85.J984.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7965c7965c2477124771"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  5
+N  C 12
+S NT  7
+S  S  9
+S  H  6
+S  D  5
+S  C 12
+E NT  2
+E  S  4
+E  H  7
+E  D  7
+E  C  1
+W NT  2
+W  S  4
+W  H  7
+W  D  7
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,2,1,124,63,110,49,175,33,196,44,120,39,125,27,58,23,23,945,51,30,56,24,30,17,14,16,19,15,76,25,25,22,27,20,44,99,48,26,33,13,38,61,27,16,35,64,11,14,53,215,19,15,29,30,18,13,28,25,21,18,31,13,20,16,10,21,12,8
+[Auction "S"]
+1C Pass 1S Pass 
+1NT Pass 2C =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: checkback"]
+[Play "W"]
+SJ S4 SQ SK 
+D4 D7 D3 DK 
+D8 DT D2 DQ 
+C4 CA C3 C5 
+D9 DA D6 H9 
+S3 C2 CT CK 
+H5 C6 H2 CQ 
+S8 C8 H3 CJ 
+DJ S5 H6 C9 
+H8 H4 H7 C7 
+ST SA HQ S2 
+S9 S7 D5 HT 
+HK S6 HA HJ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "8"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK874.K3.J32.T84 T53.AT86.KQ75.97 6.752.T864.AKQ52 QJ92.QJ94.A9.J63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66467664676786667866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  7
+E NT  6
+E  S  7
+E  H  8
+E  D  6
+E  C  6
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,228,644,33,274,38,195,31,73,140,60,45,30,131,15,22,8,26,9,18,143,46,91,20,165,49,18,13,14,22,8,24,10,22,15,20,6,84,41
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+S4 S3 S6 SJ 
+HK HA H7 H9 
+H3 HT H2 H4 
+D3 H6 H5 HQ 
+C4 H8 C2 HJ 
+D2 D5 D6 DA 
+DJ DK D4 D9 
+C8 DQ DT C3 
+-  D7 D8 -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "8"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK874.K3.J32.T84 T53.AT86.KQ75.97 6.752.T864.AKQ52 QJ92.QJ94.A9.J63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66467664676786667866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  7
+E NT  6
+E  S  7
+E  H  8
+E  D  6
+E  C  6
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,162,76,100,98,37,85,413,217,116,51,17,15,382,37,68,17,153,17,30,35,317,19,24,11,280,53,24,9,576,40,34,10,24,23,46,34,42,16
+[Auction "W"]
+1C 1S X Pass 
+2H Pass Pass Pass 
+[Play "N"]
+SK S3 S6 SJ 
+SA S5 C2 S2 
+S4 ST H2 SQ 
+C8 C7 CK C6 
+C4 C9 CA CJ 
+D3 D5 D4 DA 
+H3 H6 H5 HQ 
+HK -  -  H4 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "9"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.Q82.A987.Q92 KQT874.T7.J3.AT5 9653.AK9.Q2.K843 .J6543.KT654.J76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2SXX"]
+[Result "6"]
+[Score "NS 1000"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "97788977884665546655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  7
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 8,2,1,201,189,498,195,228,49,62,68,68,140,14,340,34,191,29,89,100,22,18,177,33,21,21,100,38,17,8,994,58,31,17,72,25,12,18,108,34,15,45,49,22,50,19,119,18,8,20,50,44,13,17,13,26,13,8,12,13,21,14
+[Auction "N"]
+1NT =1= 2S X XX 
+Pass Pass Pass 
+[Note "1: 11-14"]
+[Play "S"]
+HA H3 H8 H7 
+C3 C6 C9 CT 
+H9 H4 HQ HT 
+C4 C7 CQ CA 
+CK CJ C2 C5 
+DQ DK DA D3 
+D2 D4 D9 DJ 
+S3 H5 SA SQ 
+S9 D5 D8 S8 
+HK H6 H2 S4 
+S5 D6 S2 SK 
+S6 DT SJ S7 
+C8 HJ D7 ST 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "9"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.Q82.A987.Q92 KQT874.T7.J3.AT5 9653.AK9.Q2.K843 .J6543.KT654.J76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "97788977884665546655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  7
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,911,316,642,84,349,30,42,40,49,78,160,424,45,27,26,21,49,33,26,36,1526,439,76,29,102,29,20,30,71,40,17,12,23,14,10,24,99,31,16,14,12,14,14,8,9,9,12,7,10,44,10,7,36,23,23,23,7,9,7,8
+[Auction "N"]
+1D =1= 2S =2= 3S =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: 10-16 2+D"]
+[Note "2: intermediate"]
+[Note "3: 1 round force"]
+[Play "E"]
+SK S3 H3 SA 
+C5 CK C6 C2 
+CT C3 C7 C9 
+S7 S5 H4 SJ 
+H7 HA H5 H2 
+HT H9 H6 HQ 
+S4 HK HJ H8 
+CA C4 CJ CQ 
+SQ S6 D4 S2 
+ST S9 D5 D7 
+S8 C8 D6 D8 
+D3 DQ DK DA 
+DJ D2 DT D9 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "10"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T94.642.AK743.A9 QJ7.QJ9.J95.T852 AK5.75.QT86.QJ74 8632.AKT83.2.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "876b7876a74572545725"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D 11
+N  C  7
+S NT  8
+S  S  7
+S  H  6
+S  D 10
+S  C  7
+E NT  4
+E  S  5
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  5
+W  H  7
+W  D  2
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 6,2,1,72,54,188,258,99,217,162,107,92,15,31,130,21,114,21,15,61,48,33,100,97,48,16,19,17,7,81,19,25,25,17,194,41,25,7,120,32,30,29,78,20,8,14,11,72,69,25,8,24,7,7,10,6,9,12,7,7,16,12
+[Auction "E"]
+Pass 1NT 2C =1= 2D 
+Pass Pass Pass 
+[Note "1: majors"]
+[Play "E"]
+HQ H5 H3 H4 
+HJ H7 HK H6 
+D9 DT D2 D4 
+D5 D6 C3 DA 
+DJ DQ H8 D3 
+C2 CQ CK CA 
+CT CJ C6 C9 
+C5 C4 S6 D7 
+H9 D8 HA H2 
+C8 C7 S2 DK 
+S7 SA S3 S4 
+SJ SK S8 S9 
+SQ S5 HT ST 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "10"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T94.642.AK743.A9 QJ7.QJ9.J95.T852 AK5.75.QT86.QJ74 8632.AKT83.2.K63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "876b7876a74572545725"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D 11
+N  C  7
+S NT  8
+S  S  7
+S  H  6
+S  D 10
+S  C  7
+E NT  4
+E  S  5
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  5
+W  H  7
+W  D  2
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 11,0,3,173,296,111,121,47,80,75,25,21,40,54,92,163,31,13,590,52,21,29,140,39,11,22,37,18,16,73,225,35,10,19,17,8,22,58,95
+[Auction "E"]
+Pass 1D =1= 1H 2D 
+2H Pass Pass 3D 
+Pass Pass Pass 
+[Note "1: 2+ D"]
+[Play "W"]
+HK H2 HQ H7 
+D2 D3 DJ DQ 
+H3 DA D5 D6 
+H8 DK D9 DT 
+C3 CA C2 C4 
+CK C9 C5 CJ 
+HA -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "11"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:53.KT8.A942.8743 AJT84.942.763.KJ KQ62.Q765.QJ.T92 97.AJ3.KT85.AQ65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "65756657567767678677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  8
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,127,86,60,85,52,69,33,102,40,219,782,38,38,39,25,24,51,87,39,22,18,17,27,29,20,25,257,21,15,70,20,33,137,14,66,23,27,15,23,29,12,11,29,30,24,39,47,7,12
+[Auction "S"]
+Pass 1NT Pass 2H =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: spades"]
+[Play "N"]
+C7 CJ C2 CQ 
+S3 S4 SQ S7 
+DA D3 DQ DK 
+D2 D6 DJ D5 
+H8 H2 H5 HA 
+S5 ST SK S9 
+HT H4 H6 H3 
+HK H9 H7 HJ 
+D4 D7 S2 D8 
+C3 CK C9 C5 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "11"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:53.KT8.A942.8743 AJT84.942.763.KJ KQ62.Q765.QJ.T92 97.AJ3.KT85.AQ65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "65756657567767678677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  8
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,107,178,42,31,45,33,37,378,70,140,180,65,107,67,43,13,509,41,28,34,10,22,26,35,47,1313,36,37,9,28,10,247,30,212,29,36,27,26,39,19,54,23,25,19,129,26,24,22,109,30,11,28,10,10,9,14,43,16,17,11,10
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+H8 H2 H5 HJ 
+S3 S4 SK S7 
+HT H4 H6 HA 
+S5 SJ SQ S9 
+DA D3 DQ DK 
+HK H9 H7 H3 
+C7 CK C2 C6 
+D2 SA S2 D5 
+D4 ST S6 D8 
+D9 S8 C9 DT 
+C3 CJ CT CA 
+C4 D6 HQ CQ 
+C8 D7 DJ C5 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "12"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.Q9864.74.J7543 KJ985.A32.8.AK62 QT3.KT7.AQJ632.Q A742.J5.KT95.T98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "43765437658a5688a568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  5
+S NT  4
+S  S  3
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S 10
+E  H  5
+E  D  6
+E  C  8
+W NT  8
+W  S 10
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,93,22,62,488,147,43,67,48,34,22,40,226,8,41,59,44,15,9,20,63,146,38,191,42,15,18,56,26,7,56,33,21,6,14,223,28,14,8,180,15,10,11,111,16,15
+[Auction "W"]
+Pass Pass 1S 3D =1= 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: wjo"]
+[Play "S"]
+CQ C8 C7 CA 
+ST SA S6 S8 
+S3 S2 H4 SK 
+DA D5 D7 D8 
+HK H5 H6 H2 
+H7 HJ HQ HA 
+HT S4 H8 H3 
+D2 DK D4 C2 
+-  C9 C4 C6 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "12"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.Q9864.74.J7543 KJ985.A32.8.AK62 QT3.KT7.AQJ632.Q A742.J5.KT95.T98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "43765437658a5688a568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  5
+S NT  4
+S  S  3
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S 10
+E  H  5
+E  D  6
+E  C  8
+W NT  8
+W  S 10
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,59,140,31,81,275,94,29,53,19,34,411,139,9,15,443,80,18,18,98,24,16,22,15,116,26,37,281,42,19,20,100,56,7,33,28,40,27,38,256,20,34,15,16,33,13,21,15,11,12,60,13,39,13,10,13,34,12,6,15,6,12,21
+[Auction "W"]
+Pass Pass 1S 2D 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+DA D5 D4 D8 
+DQ DK D7 H2 
+S3 SA S6 S8 
+ST S2 H6 SK 
+SQ S4 C5 S9 
+CQ C8 C3 CA 
+D2 C9 CJ C2 
+H7 H5 H4 HA 
+D3 CT C4 C6 
+D6 D9 H8 S5 
+HT HJ C7 CK 
+HK S7 H9 H3 
+DJ DT HQ SJ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "13"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q82.AQ75..J98763 AJT.4.J98542.AK4 K65.JT62.KQ76.Q2 9743.K983.AT3.T5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55849558397759477594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  4
+N  C  9
+S NT  5
+S  S  5
+S  H  8
+S  D  3
+S  C  9
+E NT  7
+E  S  7
+E  H  5
+E  D  9
+E  C  4
+W NT  7
+W  S  7
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,170,70,59,63,42,116,55,182,58,46,251,8,18,16,39,11,10,10,50,26,10,41,24,20,160,64,27,22,30,184,37,15,8,32,21,11,34,45,106,30,16,42,19,43,25,305,44,36,17,25,24,15,67,17,32,9,9,9,9,11,6
+[Auction "N"]
+Pass 1D Pass 1H 
+2C 2D Pass Pass 
+Pass 
+[Play "S"]
+CQ C5 C6 CA 
+C2 CT C7 CK 
+S6 D3 C8 C4 
+SK S3 S2 SJ 
+S5 S4 SQ SA 
+D6 DA C3 D2 
+DQ DT H5 D4 
+HJ H3 HQ H4 
+H2 H8 C9 D8 
+DK S7 H7 DJ 
+H6 HK HA D5 
+D7 S9 S8 D9 
+HT H9 CJ ST 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "13"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q82.AQ75..J98763 AJT.4.J98542.AK4 K65.JT62.KQ76.Q2 9743.K983.AT3.T5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55849558397759477594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  4
+N  C  9
+S NT  5
+S  S  5
+S  H  8
+S  D  3
+S  C  9
+E NT  7
+E  S  7
+E  H  5
+E  D  9
+E  C  4
+W NT  7
+W  S  7
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 6,2,1,176,42,47,40,49,73,35,280,185,138,64,17,24,32,36,35,35,38,33,31,23,23,592,26,109,19,29,15,37,71,17,42,27,19,29,66,46,14,41,13,35,30,20,200,14,14,96,15,9,47,18,39,14,13,35,13,9,12,14,14,5
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2D Pass Pass 
+Pass 
+[Play "S"]
+CQ C5 C3 CA 
+H2 HK HA H4 
+C2 CT CJ CK 
+S5 D3 C6 C4 
+SK S3 S2 ST 
+S6 S4 S8 SJ 
+D6 DA C7 D2 
+DK DT H5 D4 
+HJ H3 HQ D5 
+DQ S7 H7 D8 
+HT H8 C8 D9 
+D7 S9 C9 DJ 
+H6 H9 SQ SA 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "14"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:32.T32.J532.AJ95 AQ6.K9876.94.T73 K854.AQ4.AK76.K2 JT97.J5.QT8.Q864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "989b9989ba4442344423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D 11
+N  C  9
+S NT  9
+S  S  8
+S  H  9
+S  D 11
+S  C 10
+E NT  4
+E  S  4
+E  H  4
+E  D  2
+E  C  3
+W NT  4
+W  S  4
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,72,131,66,141,43,400,75,39,20,168,76,35,49,37,42,92,434,16,31,27,48,68,10,29,36,17,7,51,39,23,19,68,129,18,62,80,33,11,10,64,30,24,13,223,35,14,75,34,17,23,15,43,22,11,16
+[Auction "E"]
+Pass 1C =1= Pass 1D =2= 
+1H 1NT =3= Pass 2NT 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: usually 0-7"]
+[Note "3: 19 20"]
+[Play "W"]
+HJ H2 H6 HQ 
+D8 D2 D9 DA 
+DT D3 D4 DK 
+DQ D5 S6 D7 
+H5 H3 H8 HA 
+C4 C5 C3 CK 
+C6 CJ C7 C2 
+S7 DJ SQ D6 
+C8 CA CT H4 
+S9 S2 SA S4 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "14"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:32.T32.J532.AJ95 AQ6.K9876.94.T73 K854.AQ4.AK76.K2 JT97.J5.QT8.Q864"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "989b9989ba4442344423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D 11
+N  C  9
+S NT  9
+S  S  8
+S  H  9
+S  D 11
+S  C 10
+E NT  4
+E  S  4
+E  H  4
+E  D  2
+E  C  3
+W NT  4
+W  S  4
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,83,66,49,101,50,153,47,29,46,114,253,50,36,40,56,18,16,120,30,37,14,24,23,14,13,24,7,10,27,138,52,77,45,13,24,215,58,272,26,8,18,17,7,36,21,96,23,9,11,17,30
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+H7 H4 HJ H3 
+H8 HQ H5 H2 
+D4 DA D8 D5 
+D9 DK DT D2 
+C7 D6 DQ D3 
+SA S4 S9 S3 
+H9 HA C4 HT 
+C3 CK C6 C5 
+CT C2 C8 CJ 
+H6 D7 CQ DJ 
+HK -  -  CA 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "15"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A9.AK76.543.T432 T865.98.KQT92.A8 KQ4.2.AJ876.KJ76 J732.QJT543..Q95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "966999669a4674346743"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  6
+N  D  9
+N  C  9
+S NT  9
+S  S  6
+S  H  6
+S  D  9
+S  C 10
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  3
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,2,1,135,154,257,46,351,44,77,46,23,522,23,463,33,30,34,42,23,33,24,17,23,21,17,16,162,19,18,21,15,131,46,50,14,57,48,16,14,30,19
+[Auction "S"]
+1D 1H 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+H9 H2 H3 HA 
+C8 CJ CQ C2 
+H8 D6 HQ H6 
+D2 D7 HJ HK 
+CA C6 C5 C3 
+DK D8 C9 D3 
+S6 S4 S2 SA 
+D9 DJ -  D4 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "15"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A9.AK76.543.T432 T865.98.KQT92.A8 KQ4.2.AJ876.KJ76 J732.QJT543..Q95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "966999669a4674346743"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  6
+N  D  9
+N  C  9
+S NT  9
+S  S  6
+S  H  6
+S  D  9
+S  C 10
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  3
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,0,3,296,88,54,31,88,54,127,53,92,42,31,15,503,156,238,29,32,37,10,11,45,21,21,78,172,25,17,7,48,90,24,53,16,26,10,26,1394,28,129,14,13,19,98,18,14
+[Auction "S"]
+1D =1= Pass 1H Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+ D"]
+[Play "E"]
+DQ DA H4 D3 
+S6 S4 S3 SA 
+C8 C6 CQ CT 
+H8 H2 HT HK 
+D9 DJ H3 D4 
+CA CK C5 C2 
+DK D6 S2 D5 
+DT D7 S7 H6 
+H9 -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "16"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A72.Q87.AT6.KJT4 94.65.K97.Q96532 Q5.AKT92.QJ52.87 KJT863.J43.843.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76aa8a6ba83723537235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  6
+S  H 11
+S  D 10
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,297,109,59,428,79,43,17,250,196,50,15,99,252,21,20,23,17,12,22,32,27,23,11,48,16,30,13,247,43,12,472,97,44,28,10,14,82,38,29,23,21,12,24
+[Auction "W"]
+2S =1= X Pass 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+CA C4 C3 C8 
+D4 DA D7 D5 
+H4 H7 H5 HA 
+H3 HQ H6 H2 
+HJ H8 C2 HK 
+D8 D6 D9 DJ 
+D3 DT DK D2 
+SK SA S9 SQ 
+S3 CK C5 C7 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "16"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A72.Q87.AT6.KJT4 94.65.K97.Q96532 Q5.AKT92.QJ52.87 KJT863.J43.843.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76aa8a6ba83723537235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  6
+S  H 11
+S  D 10
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,218,75,127,258,82,137,69,215,43,78,27,44,24,85,394,19,303,41,19,12,13,348,148,25,13,821,55,24,21,18,427,33,264,30,26,10,27,216,29,9,34,61,30,17,44,14,22,11,55,39,16,11,13,14,10
+[Auction "W"]
+1S Pass Pass 2H 
+Pass 2S =1= Pass 3D 
+Pass 4H Pass Pass 
+Pass 
+[Note "1:  * support raise [0:19]"]
+[Play "W"]
+H3 H7 H6 H2 
+H4 HQ H5 H9 
+HJ H8 C5 HA 
+D3 D6 DK DJ 
+SK SA S9 SQ 
+D4 DA D7 D2 
+D8 DT D9 D5 
+SJ S2 S4 S5 
+ST S7 C2 HT 
+S3 C4 C3 DQ 
+CA -  -  C7 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "17"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.A763.AJ974.Q63 AKJ976.T.83.AJ74 T5.KQJ92.KQ52.T8 Q432.854.T6.K952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33aa233aa23a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H 10
+N  D 10
+N  C  2
+S NT  3
+S  S  3
+S  H 10
+S  D 10
+S  C  2
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,0,3,218,35,232,109,45,78,146,53,28,76,163,77,39,22,358,22,31,8,9,15,35,10,76,18,7,77
+[Auction "N"]
+1D =1= 1S 2H 2S 
+4H 4S 5H Pass 
+Pass Pass 
+[Note "1: 10-16 2+D"]
+[Play "W"]
+S2 S8 SK ST 
+C2 C3 CA CT 
+CK C6 C4 C8 
+C5 CQ C7 S5 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "17"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.A763.AJ974.Q63 AKJ976.T.83.AJ74 T5.KQJ92.KQ52.T8 Q432.854.T6.K952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33aa233aa23a22a3a22a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H 10
+N  D 10
+N  C  2
+S NT  3
+S  S  3
+S  H 10
+S  D 10
+S  C  2
+E NT  3
+E  S 10
+E  H  2
+E  D  2
+E  C 10
+W NT  3
+W  S 10
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,2,1,163,85,170,171,93,28,604,43,279,33,70,23,41,188,24,18,30,27,9,60,14,23,24,20,61
+[Auction "N"]
+1D 1S 2H 3S 
+4H 4S 5D Pass 
+5H Pass Pass Pass 
+[Play "W"]
+S4 S8 SK S5 
+C2 C3 CA C8 
+CK C6 C4 CT 
+C5 -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "18"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.A964.T6.AQJ8 A87.Q85.KQJ84.T4 Q6.J72.73.976532 T9543.KT3.A952.K"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "74748747486959469594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  4
+S  H  7
+S  D  4
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,169,93,292,34,27,42,59,22,95,108,20,10,118,46,33,9,372,52,17,19,117,49,13,26,16,21,29,10,8,23,31,10
+[Auction "E"]
+1NT =1= Pass 2H =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 11-14"]
+[Note "2: spades"]
+[Play "S"]
+C7 CK CA C4 
+SQ S3 S2 S7 
+S6 S4 SJ SA 
+H2 HK HA H5 
+C3 S5 SK S8 
+C5 S9 CQ CT 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "18"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.A964.T6.AQJ8 A87.Q85.KQJ84.T4 Q6.J72.73.976532 T9543.KT3.A952.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "74748747486959469594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  4
+S  H  7
+S  D  4
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,84,44,64,96,97,184,128,45,342,80,163,113,34,16,38,36,9,13,7,28,10,49,1382,33,41,11,19,11,22,10,46,23,24,10,11,137,14,41,34,33,8,11
+[Auction "E"]
+1D Pass 1S X 
+XX 2C 3S Pass 
+Pass Pass 
+[Play "N"]
+DT DK D3 D5 
+S2 SA S6 S3 
+SJ S7 SQ S4 
+CA C4 C6 CK 
+CQ CT C7 ST 
+D6 D4 D7 D9 
+SK D8 C2 DA 
+HA H5 H7 H3 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "19"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7652.T765.QJ85. A4.K92.AK32.AQ85 KT93.AQ3.7.KJT92 J8.J84.T964.7643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "8a878898785356553565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C  8
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  3
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,443,101,46,164,94,112,19,84,474,30,36,190,36,16,7,413,49,13,7,564,107,18,71,13,57,11,7,21,33,7,37,24,52,16,19,13,35,36,24,9,36,6,18,9,18,6,14,15,19,9,37,11,14,15,9,11,10,9,6
+[Auction "S"]
+2C =1= Pass Pass 3NT 
+Pass Pass Pass 
+[Note "1: intermediate 5C 4M or 6C"]
+[Play "S"]
+D7 D9 DJ DA 
+C2 D4 D5 DK 
+C9 C3 S5 C5 
+ST SJ SQ SA 
+S9 S8 S2 S4 
+SK C4 S6 D2 
+S3 C6 S7 D3 
+HQ H4 H5 H2 
+HA H8 H6 H9 
+H3 HJ H7 HK 
+CT C7 D8 C8 
+CJ D6 HT CQ 
+CK DT DQ CA 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "19"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7652.T765.QJ85. A4.K92.AK32.AQ85 KT93.AQ3.7.KJT92 J8.J84.T964.7643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "8a878898785356553565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  9
+S  H  8
+S  D  7
+S  C  8
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  3
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,130,101,128,60,248,46,123,51,45,20,119,84,12,35,54,94,11,30,255,29,28,8,349,53,21,51,42,19,18,13,131,59,8,25,49,39,51,28,19,41,8,28,64,21,42,13
+[Auction "S"]
+1C Pass 1S X 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+SA S3 S8 S2 
+S4 S9 SJ SQ 
+H2 HQ H4 H5 
+CQ CJ C6 H6 
+DA D7 D6 D5 
+HK HA H8 H7 
+CA CK C3 HT 
+H9 H3 HJ S5 
+D2 ST D4 DJ 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "20"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T.KJ94.JT943.AJ4 KQJ64.Q75.Q8.KQ8 32.AT86.6.976532 A9875.32.AK752.T"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "53859538598a5848a584"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  5
+N  C  9
+S NT  5
+S  S  3
+S  H  8
+S  D  5
+S  C  9
+E NT  8
+E  S 10
+E  H  5
+E  D  8
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,67,170,279,74,405,55,35,41,182,34,351,138,60,30,49,37,17,21,70,37,21,110,15,77,137,31,44,26,18,37,151,28,13,6,24,20,29,7,13
+[Auction "W"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 4S Pass 
+Pass Pass 
+[Note "1: gf or try"]
+[Note "2: shortness"]
+[Play "N"]
+DJ DQ D6 D2 
+ST SK S2 S5 
+H4 SQ S3 S7 
+D3 D8 H6 DA 
+CA C8 C9 CT 
+HK H5 H8 H3 
+HJ HQ HA H2 
+-  -  HT -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "20"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T.KJ94.JT943.AJ4 KQJ64.Q75.Q8.KQ8 32.AT86.6.976532 A9875.32.AK752.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "8"]
+[Score "NS -800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "53859538598a5848a584"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  5
+N  C  9
+S NT  5
+S  S  3
+S  H  8
+S  D  5
+S  C  9
+E NT  8
+E  S 10
+E  H  5
+E  D  8
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 22,0,3,113,78,794,419,110,41,90,42,117,27,44,46,43,18,254,97,10,13,632,46,25,16,305,32,8,171,133,62,34,11,309,206,25,8,18,30,47,13,64,29,51,39,246,15,105,31,47,387,63,30,189,30,26,13,131,20
+[Auction "W"]
+1S X 4S 4NT =1= 
+Pass 5D X 5H 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: 2 places to play"]
+[Play "W"]
+DK D3 D8 D6 
+CT CA C8 C2 
+S5 CJ CQ C3 
+D2 D4 DQ H6 
+S7 C4 CK C5 
+S8 ST SK S3 
+S9 H4 SJ S2 
+D5 DJ S4 H8 
+H2 H9 HQ C6 
+H3 HJ H5 HT 
+-  HK H7 -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "21"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J84.863.K84.9652 QT9732.K7.7632.J K.QT952.T.AKQT87 A65.AJ4.AQJ95.43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "31718317187b5b57b5b5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  7
+N  D  1
+N  C  8
+S NT  3
+S  S  1
+S  H  7
+S  D  1
+S  C  8
+E NT  7
+E  S 11
+E  H  5
+E  D 11
+E  C  5
+W NT  7
+W  S 11
+W  H  5
+W  D 11
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,141,134,239,183,51,105,446,195,59,263,162,25,69,56,43,55,16,453,25,7,16,16,45,23,11,14,11,28,51,42,38,17,22,24,16,14,73,15,37,20,36,77
+[Auction "N"]
+Pass 2D =1= Pass 2NT 
+Pass 3D Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: multi"]
+[Play "S"]
+CK C3 C2 CJ 
+CA C4 C5 S2 
+SK SA S4 S3 
+C7 S5 S8 S9 
+H2 HA H6 H7 
+C8 S6 SJ SQ 
+DT DQ DK D2 
+-  -  H8 -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "21"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J84.863.K84.9652 QT9732.K7.7632.J K.QT952.T.AKQT87 A65.AJ4.AQJ95.43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "31718317187b5b57b5b5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  7
+N  D  1
+N  C  8
+S NT  3
+S  S  1
+S  H  7
+S  D  1
+S  C  8
+E NT  7
+E  S 11
+E  H  5
+E  D 11
+E  C  5
+W NT  7
+W  S 11
+W  H  5
+W  D 11
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 20,0,3,38,101,214,136,24,22,756,110,40,28,44,76,31,16,32,1010,50,59,17,107,23,38,8,285,47,9,8,37,22,12,14,79,69,23,20,31,23,7,11,25,19,18,9,33,19,10,24
+[Auction "N"]
+Pass 2S =1= X 4S 
+Pass Pass 4NT =2= Pass 
+5C Pass Pass X 
+Pass Pass Pass 
+[Note "1: weak"]
+[Note "2: 2 places to play"]
+[Play "E"]
+D6 DT DA D4 
+ST SK SA S4 
+H7 H2 HA H3 
+HK H5 H4 H6 
+SQ CT S6 S8 
+CJ CA C4 C2 
+S2 CK C3 C5 
+S3 HQ HJ H8 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "22"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K952.QJ.73.AJ874 .K9873.AKJ9.Q962 AJT.6542.QT65.T5 Q87643.AT.842.K3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "56435554358789787897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  3
+N  C  5
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S  7
+E  H  8
+E  D  9
+E  C  7
+W NT  8
+W  S  7
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,2,1,91,45,31,47,49,45,302,34,57,41,365,126,27,15,88,34,19,11,66,20,14,80,152,22,127,18,13,40,18,20,166,45,18,12,14,42,17,20,323,40,20,18,69,40,23,18,14,41,18,20,51,22,39,14,18
+[Auction "E"]
+1H Pass 1S Pass 
+2D Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+H2 HT HJ HK 
+H4 HA HQ H3 
+DQ D2 D3 DJ 
+CT C3 C4 CQ 
+H5 D4 S2 H7 
+D5 D8 D7 DA 
+D6 S3 S5 DK 
+DT S4 C7 D9 
+SJ S6 S9 H9 
+C5 CK CA C2 
+ST S7 SK H8 
+-  -  -  C9 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "22"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K952.QJ.73.AJ874 .K9873.AKJ9.Q962 AJT.6542.QT65.T5 Q87643.AT.842.K3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "56435554358789787897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  3
+N  C  5
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S  7
+E  H  8
+E  D  9
+E  C  7
+W NT  8
+W  S  7
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,218,72,60,46,95,74,244,40,136,41,20,123,93,22,18,27,28,39,186,58,22,22,86,56,9,25,80,18,44,23,12,28,8,71,409,37,32,9,27,136,17,25,173,17,22,45,27,10,17,19,14,54,24,13,8,22,6,13,16,7,18,7
+[Auction "E"]
+1H Pass 1S 2C 
+2D Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+CA C2 C5 C3 
+C4 C6 CT CK 
+S9 H3 ST S3 
+HJ H7 H6 HA 
+S2 H8 SJ S6 
+HQ HK H5 HT 
+C7 CQ SA D2 
+D3 H9 H4 S7 
+D7 DA D6 D4 
+S5 DK D5 D8 
+SK D9 H2 S4 
+CJ C9 DT S8 
+C8 DJ DQ SQ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "23"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT963.AQ76.J9.7 QJ75.J542.A73.T3 842.T83.KQ82.985 .K9.T654.AKQJ642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "58864588648457984579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  6
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  6
+S  C  4
+E NT  8
+E  S  4
+E  H  5
+E  D  7
+E  C  9
+W NT  8
+W  S  4
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,2,1,65,108,97,131,134,63,58,33,300,395,66,119,72,19,13,80,30,12,284,133,33,9,195,34,24,25,196,29,9,6,74,32,16,9,16,110,14,29,124,24,19,10,164,110,11,565,41,38,56,24,13,28,13,37,15
+[Auction "S"]
+Pass 1C X 1H 
+Pass 2D 2S Pass 
+Pass Pass 
+[Play "E"]
+CT C5 CQ C7 
+C3 C8 CK S3 
+D3 DQ D6 D9 
+H5 H3 H9 HQ 
+S5 S2 C2 SA 
+DA D2 D4 DJ 
+H2 H8 HK HA 
+HJ HT C4 H6 
+D7 DK D5 S6 
+H4 S8 CA H7 
+SQ S4 C6 S9 
+SJ -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "23"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT963.AQ76.J9.7 QJ75.J542.A73.T3 842.T83.KQ82.985 .K9.T654.AKQJ642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "10"]
+[Score "NS 930"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "58864588648457984579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  6
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  6
+S  C  4
+E NT  8
+E  S  4
+E  H  5
+E  D  7
+E  C  9
+W NT  8
+W  S  4
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 13,0,3,66,75,101,164,84,126,53,83,49,109,20,24,27,52,18,153,28,13,8,16,33,8,34,74,26,13,17,36,1288,23,29,23,23,23,24,33,384,27,19,12,24,7,9,8,19,8,10,56,32,9,8,7,15,7,19,8,17,7,13,8,9,14,6
+[Auction "S"]
+Pass 1C X 1H 
+Pass 3C 3S X 
+Pass Pass Pass 
+[Play "E"]
+CT C5 CJ C7 
+C3 C8 CA S9 
+S5 S2 C4 SA 
+D3 D2 D6 DJ 
+DA D8 D4 D9 
+H2 H3 HK HA 
+S7 S8 C2 S3 
+D7 DQ D5 H6 
+H4 DK DT H7 
+SJ S4 C6 SK 
+H5 H8 H9 HQ 
+SQ C9 CQ S6 
+HJ HT CK ST 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "24"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKT8632.92.72.83 J97.AKQT5.T53.42 Q4.863.AKQ98.AJT 5.J74.J64.KQ9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8b6b58b6b60070700707"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  6
+N  D 11
+N  C  5
+S NT  8
+S  S 11
+S  H  6
+S  D 11
+S  C  6
+E NT  0
+E  S  0
+E  H  7
+E  D  0
+E  C  7
+W NT  0
+W  S  0
+W  H  7
+W  D  0
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,158,45,54,214,41,39,42,21,111,124,44,22,19,34,9,25,23,7,41,97,18,18,8,43,10,34,17
+[Auction "W"]
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+HA H3 HJ H2 
+HK H6 H4 H9 
+HQ H8 H7 S2 
+S7 SQ S5 S3 
+S9 S4 C5 SA 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "24"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKT8632.92.72.83 J97.AKQT5.T53.42 Q4.863.AKQ98.AJT 5.J74.J64.KQ9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8b6b58b6b60070700707"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  6
+N  D 11
+N  C  5
+S NT  8
+S  S 11
+S  H  6
+S  D 11
+S  C  6
+E NT  0
+E  S  0
+E  H  7
+E  D  0
+E  C  7
+W NT  0
+W  S  0
+W  H  7
+W  D  0
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,324,76,67,247,86,34,20,28,76,35,20,57,19,27,18,215,32,43,20,19,25,17,11,12,33,8,11,20,10,15,16,23,19,8,16,20,13,7,8,7,14,7,8
+[Auction "W"]
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+HK H3 H4 H2 
+HA H6 H7 H9 
+C4 CA C6 C3 
+S7 SQ S5 S2 
+S9 S4 C5 SA 
+SJ H8 C7 SK 
+D3 DA D4 D2 
+D5 DK D6 D7 
+DT DQ DJ C8 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "25"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K76542.72.A982.8 AT.KT6.Q54.KQ952 J98.J954.3.AJT74 Q3.AQ83.KJT76.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "3943539435a48a8a48a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  3
+N  C  5
+S NT  3
+S  S  9
+S  H  4
+S  D  3
+S  C  5
+E NT 10
+E  S  4
+E  H  8
+E  D 10
+E  C  8
+W NT 10
+W  S  4
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 14,2,1,468,213,1045,311,50,75,76,107,79,40,41,407,313,42,71,84,64,14,26,9,94,44,15,26,131,12,9,67,120,92,62,28,163,24,26,63,228,26,9,99,27,10,18,9,21,18,92,19,61,9,45,18,12,17,19,11,20,10,16,20,14,28,7
+[Auction "N"]
+2D =1= Pass 2S =2= Pass 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak2♡ or ♠ or strong * multi [0:21]"]
+[Note "2: pass or correct"]
+[Play "N"]
+H7 H6 H4 H8 
+DA D4 D3 DT 
+H2 HK H5 H3 
+C8 CK CA C6 
+S2 ST S8 S3 
+D2 DQ C4 D6 
+D8 D5 H9 DK 
+S4 SA S9 SQ 
+S5 HT HJ HQ 
+S6 C2 C7 HA 
+D9 C5 SJ DJ 
+S7 C9 CJ D7 
+SK CQ CT C3 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "25"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K76542.72.A982.8 AT.KT6.Q54.KQ952 J98.J954.3.AJT74 Q3.AQ83.KJT76.63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "3943539435a48a8a48a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  3
+N  C  5
+S NT  3
+S  S  9
+S  H  4
+S  D  3
+S  C  5
+E NT 10
+E  S  4
+E  H  8
+E  D 10
+E  C  8
+W NT 10
+W  S  4
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,0,3,459,199,1288,679,128,51,77,159,31,45,44,60,22,38,57,40,18,27,26,18,21,8,58,15,12,18,27,19,19,13,15,14,14,16,501,38,20,12,147,20,16,26,151,24,13,67,46,7,14,603,27,94,9,26,25,70,13,28,22,20,7,27,7,10,10
+[Auction "N"]
+2D =1= 2NT 4D =2= X 
+Pass Pass 4H X 
+4S X Pass Pass 
+Pass 
+[Note "1: weak 2H/S OR 23/4 balanced"]
+[Note "2: correct"]
+[Play "E"]
+CK CA C6 C8 
+D4 D3 D6 DA 
+D5 S8 D7 D2 
+C2 C4 C3 S2 
+DQ S9 DT D8 
+C5 C7 H8 S4 
+H6 SJ DJ D9 
+C9 CT SQ SK 
+ST H4 S3 S7 
+HK H5 HA H2 
+SA CJ DK S5 
+HT HJ HQ H7 
+CQ H9 H3 S6 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "26"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:74.T764.865.T765 J9.AK952.QJ3.KQJ AT85.Q83.A72.843 KQ632.J.KT94.A92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3232332323ab9b9ab9b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  2
+N  C  3
+S NT  3
+S  S  2
+S  H  3
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H  9
+E  D 11
+E  C  9
+W NT 10
+W  S 11
+W  H  9
+W  D 11
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,105,63,57,42,127,118,203,25,155,60,109,36,15,40,43,222,16,13,23,43,20,8,65,28,10,11,69,16,10,34,42,100,7,19,14,62,12,8,16,23,10,13,44,124,15,22,73,18,11,33,11,27,10,14,20,18,15,15,8,15,8,6,10,9,9,6
+[Auction "E"]
+1H Pass 1S Pass 
+1NT Pass 2C =1= Pass 
+3H =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: checkback"]
+[Note "2: max 5H"]
+[Play "S"]
+C4 C2 CT CK 
+D2 D4 D5 DJ 
+D7 D9 D6 D3 
+DA DT D8 DQ 
+C8 C9 C5 CQ 
+SA S2 S7 SJ 
+C3 CA C6 CJ 
+H3 DK C7 H2 
+S5 SK S4 S9 
+ST SQ H7 H5 
+H8 HJ H4 HA 
+HQ S3 H6 HK 
+S8 S6 HT H9 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "26"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:74.T764.865.T765 J9.AK952.QJ3.KQJ AT85.Q83.A72.843 KQ632.J.KT94.A92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3232332323ab9b9ab9b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  2
+N  C  3
+S NT  3
+S  S  2
+S  H  3
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H  9
+E  D 11
+E  C  9
+W NT 10
+W  S 11
+W  H  9
+W  D 11
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,2,1,222,37,80,45,27,38,31,134,31,40,44,122,321,72,73,21,63,59,15,21,17,131,16,17,18,37,14,23,365,72,29,19,48,76,14,56,96,30,8,38,17,35,14,14,13,138,15,32,13,7,13,40,12,16,14,28,12,30,13,6,12,22,12,8
+[Auction "E"]
+1NT =1= Pass 2H Pass 
+2S Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+C8 C2 C5 CK 
+S5 S2 S4 SJ 
+S8 SK S7 S9 
+DA D4 D8 DQ 
+C4 CA C6 CJ 
+ST S6 D5 H2 
+C3 C9 CT CQ 
+D2 D9 D6 D3 
+D7 DK H4 DJ 
+H3 DT C7 H5 
+H8 HJ H6 HA 
+HQ S3 H7 HK 
+SA SQ HT H9 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "27"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A82.QT98.K4.6543 KJ54.A65.T982.K9 9763.KJ73.A65.82 QT.42.QJ73.AQJT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44734447347769877698"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  3
+N  C  4
+S NT  4
+S  S  4
+S  H  7
+S  D  3
+S  C  4
+E NT  7
+E  S  7
+E  H  6
+E  D  9
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,72,88,83,37,46,142,42,119,45,171,38,36,49,19,29,153,70,35,19,35,23,32,26,31,49,46,37,101,35,15,43,86,90,18,18,58,20,11,13,48,69,39,50,17,43
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2D 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+H3 H2 HQ H5 
+H7 H4 HT H6 
+HJ D3 H9 HA 
+S3 ST SA S4 
+HK D7 H8 D2 
+DA DJ D4 D8 
+C8 C7 C3 C9 
+C2 -  -  CK 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "27"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A82.QT98.K4.6543 KJ54.A65.T982.K9 9763.KJ73.A65.82 QT.42.QJ73.AQJT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44734447347769877698"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  3
+N  C  4
+S NT  4
+S  S  4
+S  H  7
+S  D  3
+S  C  4
+E NT  7
+E  S  7
+E  H  6
+E  D  9
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,55,93,29,181,42,68,38,44,48,111,32,174,838,25,16,35,13,44,11,10,36,40,15,82,42,12,16,16,71,17,54,413,143,20,9,14,37,9,8,9,17,9,28,12,8,12,18,10,32,9,23,10,19,8,9,9,10,7,7,7,9,7,6
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2NT 
+Pass Pass Pass 
+[Play "S"]
+H3 H2 HQ H5 
+H7 H4 H8 H6 
+HJ D3 H9 HA 
+S7 SQ SA S4 
+HK D7 HT D2 
+C8 C7 C3 CK 
+C2 CT C4 C9 
+D6 CJ C5 D8 
+D5 CQ C6 D9 
+DA CA D4 DT 
+S3 ST S2 SK 
+S6 DJ S8 SJ 
+S9 DQ DK S5 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "28"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J53.AK92.KT2.KQ2 A.T853.J8643.543 QT94.Q76.Q7.JT87 K8762.J4.A95.A96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98768987684557545575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  6
+N  C  8
+S NT  9
+S  S  8
+S  H  7
+S  D  6
+S  C  8
+E NT  4
+E  S  5
+E  H  5
+E  D  7
+E  C  5
+W NT  4
+W  S  5
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 11,2,1,156,63,362,183,56,49,100,111,514,109,17,19,78,30,15,39,73,150,21,10,874,39,19,14,22,29,13,33,13,36,13,35,171,32,11,15,7,38,50,13,32,37,16,23,18,18,117,14,17,15,32,13,13
+[Auction "W"]
+1S X 2D =1= Pass 
+3D Pass Pass Pass 
+[Note "1: 5-8"]
+[Play "S"]
+CJ CA C2 C3 
+S4 S2 S5 SA 
+HQ H4 H2 H3 
+DQ DA D2 D3 
+S9 SK S3 C4 
+H6 HJ HK H5 
+D7 D5 DK D4 
+C7 D9 DT DJ 
+H7 S6 HA HT 
+ST C6 H9 H8 
+C8 C9 CK C5 
+-  -  CQ -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "28"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J53.AK92.KT2.KQ2 A.T853.J8643.543 QT94.Q76.Q7.JT87 K8762.J4.A95.A96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98768987684557545575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  6
+N  C  8
+S NT  9
+S  S  8
+S  H  7
+S  D  6
+S  C  8
+E NT  4
+E  S  5
+E  H  5
+E  D  7
+E  C  5
+W NT  4
+W  S  5
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 8,0,3,152,37,320,763,68,830,129,165,252,40,26,15,46,21,28,236,39,54,16,80,21,20,16,31,123,12,10,257,129,19,9,93,43,11,12,138,14,18,11,28,11,17,14,133,194,17,17,29,19,7,10,19,13,8,24,18,8,8,5
+[Auction "W"]
+1NT X 2D =1= 2S 
+Pass Pass Pass 
+[Note "1: D's and a Major"]
+[Play "W"]
+HJ H2 H5 HQ 
+S2 SJ SA S4 
+DA D2 D4 D7 
+D9 DT DJ DQ 
+S6 S3 D3 ST 
+CA CK C3 C7 
+H4 HA H3 H7 
+C6 CQ C4 C8 
+C9 C2 C5 CJ 
+S7 H9 D6 CT 
+D5 DK D8 H6 
+SK S5 H8 S9 
+S8 HK HT SQ 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "29"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ98.K9762.43.Q5 A76.AJ3.KQ762.JT T5432.T5.A.AK976 K.Q84.JT985.8432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "6973869738746a4746a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  7
+N  D  3
+N  C  8
+S NT  6
+S  S  9
+S  H  7
+S  D  3
+S  C  8
+E NT  7
+E  S  4
+E  H  6
+E  D 10
+E  C  4
+W NT  7
+W  S  4
+W  H  6
+W  D 10
+W  C  4
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 13,2,1,173,97,318,135,409,69,427,39,65,115,125,50,53,112,19,33,492,33,35,17,130,55,17,19,187,90,41,43,17,391,79,123,33,34,12,24,30,14,45,30,57,15,17,14,19,20,24,14,23,12,36,15,36,22,26,26,21,17,14,17
+[Auction "N"]
+Pass 1D 1S Pass 
+2D =1= Pass 3C Pass 
+3S Pass Pass Pass 
+[Note "1: UCB ♠ suppiort"]
+[Play "W"]
+DJ D3 D2 DA 
+SK S8 S6 S2 
+D8 D4 DQ S3 
+D5 SJ SA S4 
+DT SQ S7 S5 
+C4 CQ CT C6 
+C2 C5 CJ CA 
+C3 H2 DK CK 
+C8 H6 D7 C9 
+D9 H7 D6 C7 
+H4 HK HA H5 
+HQ H9 H3 HT 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "29"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ98.K9762.43.Q5 A76.AJ3.KQ762.JT T5432.T5.A.AK976 K.Q84.JT985.8432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "6973869738746a4746a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  7
+N  D  3
+N  C  8
+S NT  6
+S  S  9
+S  H  7
+S  D  3
+S  C  8
+E NT  7
+E  S  4
+E  H  6
+E  D 10
+E  C  4
+W NT  7
+W  S  4
+W  H  6
+W  D 10
+W  C  4
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 18,0,3,84,96,326,157,81,364,155,63,145,96,25,23,290,42,17,16,21,39,15,52,129,20,43,20,20,49,51,21,398,50,40,36,10,14,11,18,12,24,11,18,957,37,12,40,11,16,15,35,38,17,9,20,8,21,6,9,8,15,10,8
+[Auction "N"]
+Pass 1D 1S 3D 
+4S Pass Pass Pass 
+[Play "W"]
+DJ D3 D2 DA 
+C4 CQ CJ C6 
+SK SQ S6 S2 
+DT D4 DQ S3 
+D5 S8 SA S4 
+D8 S9 S7 S5 
+C2 C5 CT CA 
+C3 H2 D6 CK 
+C8 SJ D7 C7 
+HQ H6 H3 HT 
+D9 H7 DK ST 
+H8 H9 HJ C9 
+H4 HK HA H5 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "30"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T65.97543.QJ9.T8 Q987.K6.872.6542 KJ4.T2.AKT63.AJ9 A32.AQJ8.54.KQ73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "66684767856765867658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  4
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  7
+E  H  6
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 11,2,1,89,51,113,83,71,111,159,376,48,113,61,40,25,47,62,33,23,239,423,71,56,37,61,28,30,17,80,18,47,620,43,26,41,89,64,29,17,205,86,38,19,61,592,37,75,23,25,37,18,12,33,21,16,8,23,14,15,14
+[Auction "E"]
+Pass 1D X Pass 
+1S Pass Pass 2D 
+Pass Pass 2S Pass 
+Pass 3D Pass Pass 
+Pass 
+[Play "W"]
+D5 D9 D2 D3 
+CK CT C5 C9 
+D4 DJ D7 D6 
+CQ C8 C4 CJ 
+C3 S5 C2 CA 
+H8 H3 HK HT 
+HJ DQ D8 DA 
+S2 ST SQ S4 
+SA S6 S9 SK 
+HA H4 H6 H2 
+HQ -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "30"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T65.97543.QJ9.T8 Q987.K6.872.6542 KJ4.T2.AKT63.AJ9 A32.AQJ8.54.KQ73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "66684767856765867658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  4
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  7
+E  H  6
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 7,0,3,60,270,85,112,32,513,104,119,23,58,48,28,57,188,162,13,29,20,16,23,52,522,50,10,79,21,113,16,13,85,103,29,21,19,16,22,58,90,17,34,12,359,21,10,8,38,20,32,25,20,94,24,9,10
+[Auction "E"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1NT =3= Pass 2D =4= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Note "2: usually 0-7"]
+[Note "3: (16) 18"]
+[Note "4: hearts"]
+[Play "W"]
+D5 DQ D2 D6 
+HJ H3 H6 HT 
+CK C8 C5 CA 
+HQ H4 HK H2 
+D4 D9 D8 D3 
+H8 DJ D7 DA 
+CQ CT C2 CJ 
+SA S5 S8 S4 
+S3 S6 SQ SK 
+C3 ST C4 DK 
+-  -  -  DT 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "31"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q.AJ7643.K86.KT4 AKT543.KT5.QT.J6 J98.Q.AJ752.8753 762.982.943.AQ92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3SX"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85898858985733557335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  9
+N  C  8
+S NT  8
+S  S  5
+S  H  8
+S  D  9
+S  C  8
+E NT  5
+E  S  7
+E  H  3
+E  D  3
+E  C  5
+W NT  5
+W  S  7
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 13,0,3,92,43,53,48,229,172,33,57,80,43,329,45,58,39,26,68,11,19,15,15,40,13,24,241,21,19,13,15,10,40,18,15,18,21,82,31,10,13,115,37,15,16,14,17,13,8,9,8,18,10,14
+[Auction "S"]
+Pass Pass 1H 1S 
+X 2S 3H 3S 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+HQ H2 HA H5 
+S8 H8 H3 HT 
+C8 CA C4 C6 
+S9 S2 SQ SA 
+SJ S6 H4 SK 
+D2 H9 H6 HK 
+C3 C2 CK CJ 
+D5 D3 DK DT 
+DA D4 D8 DQ 
+DJ -  -  -  
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "31"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q.AJ7643.K86.KT4 AKT543.KT5.QT.J6 J98.Q.AJ752.8753 762.982.943.AQ92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85898858985733557335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  9
+N  C  8
+S NT  8
+S  S  5
+S  H  8
+S  D  9
+S  C  8
+E NT  5
+E  S  7
+E  H  3
+E  D  3
+E  C  5
+W NT  5
+W  S  7
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 13,2,1,126,67,99,31,215,110,223,87,76,22,29,59,69,165,21,73,107,77,22,80,28,24,12,20,14,192,14,47,26,28,13,88,17,9,13,145,23,8,21,16,39,13,6,16,31,16,8
+[Auction "S"]
+Pass Pass 1H 1S 
+X 2S Pass 3S 
+Pass Pass Pass 
+[Play "S"]
+HQ H2 HA H5 
+S8 H8 H4 HK 
+C7 C2 CK C6 
+C8 H9 HJ HT 
+DJ D3 D6 DT 
+DA D4 D8 DQ 
+D5 D9 DK S3 
+S9 S2 SQ SA 
+SJ S6 H3 SK 
+*
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "32"]
+[West "John Rolph#78483"]
+[North "Alan Scott#24026"]
+[East "Sandy Fulton#29154"]
+[South "Robert Plumley#33074"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A974.K875.J85.K2 K6..A9762.AQJT86 JT3.AJT9.KT43.43 Q852.Q6432.Q.975"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "76772567625666b5666b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  7
+N  C  2
+S NT  5
+S  S  6
+S  H  7
+S  D  6
+S  C  2
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C 11
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 15,0,3,97,31,36,611,184,195,72,73,118,22,176,377,21,27,29,36,10,7,29,13,12,6,28,42,10,37,10,32,11,6,165,14,17,30,30,11,11,8,20,22,8,9,9,20,13,24,38,30,19,8,19,10,13,10,23,11,9,6,8,7,8,8
+[Auction "W"]
+Pass Pass 1C 2C =1= 
+Pass 3H 4C Pass 
+Pass Pass 
+[Note "1: 44+D&H 6+hcp"]
+[Play "S"]
+C4 C9 CK CA 
+D4 DQ D5 DA 
+D3 C5 D8 D2 
+H9 H2 H8 C6 
+DT C7 DJ D6 
+S3 S2 S4 SK 
+C3 H3 C2 CQ 
+HT H4 H5 CJ 
+DK S5 H7 D9 
+SJ SQ SA S6 
+ST S8 S9 C8 
+HJ H6 S7 D7 
+HA HQ HK CT 
+
+[Event "18 Feb Plumley vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.18"]
+[Board "32"]
+[West "Rune Hauge#111671"]
+[North "Richard Edwards#401500"]
+[East "Svein Erik Dahl#525143"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A974.K875.J85.K2 K6..A9762.AQJT86 JT3.AJT9.KT43.43 Q852.Q6432.Q.975"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "76772567625666b5666b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  7
+N  C  2
+S NT  5
+S  S  6
+S  H  7
+S  D  6
+S  C  2
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C 11
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 11,2,1,57,120,168,143,1224,85,74,60,117,481,73,10,476,40,18,27,52,27,22,32,341,50,12,164,17,179,38,12,152,43,15,12,13,13,28,30,49,36,63,53,210,511,30,83,103,235,320,16,25,109,20,17,27,60,15
+[Auction "W"]
+Pass 1NT =1= 2NT =2= Pass 
+3D Pass Pass Pass 
+[Note "1: 11-14"]
+[Note "2: minors"]
+[Play "N"]
+H5 D2 H9 H6 
+D5 D6 D3 DQ 
+C2 CQ C3 C7 
+SA SK S3 S5 
+H7 D7 HT H2 
+S4 S6 ST SQ 
+CK CA C4 C5 
+D8 DA D4 C9 
+DJ C6 SJ S2 
+HK C8 HJ H3 
+H8 CT HA H4 
+S7 -  DK HQ 
+*

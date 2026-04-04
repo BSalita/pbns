@@ -1,0 +1,4057 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "1"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:92.Q984.A84.AT42 AK875.AK65.J7.KJ JT63.32.T32.Q865 Q4.JT7.KQ965.973"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "23326233259aab79aab7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  2
+N  C  6
+S NT  2
+S  S  3
+S  H  3
+S  D  2
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D 11
+E  C  7
+W NT  9
+W  S 10
+W  H 10
+W  D 11
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,208,335,42,105,63,343,33,173,109,311,48,19,90,52,44,211,549,22,10,111,22,14,23,16,15,21,252,45,179,32,20,194,20,10,7,44,31,9,23,8,105,14,12,33,41,9,25,16,21,11,19,14,14,7,22,8,13,7,11,8,8,7,55,17,8,14,7
+[Auction "N"]
+Pass 1C =1= Pass 1NT =2= 
+Pass 2C =3= Pass 2S =4= 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 8+ bal"]
+[Note "3: asks"]
+[Note "4: 8-10 no 4cM"]
+[Play "N"]
+H4 HA H3 H7 
+D4 DJ D2 D5 
+DA D7 D3 DQ 
+H8 H5 H2 HT 
+D8 H6 DT DK 
+S2 CJ C6 D9 
+C4 CK C5 D6 
+HQ HK C8 HJ 
+S9 S5 S6 SQ 
+C2 SA S3 S4 
+CT SK SJ C3 
+H9 S7 ST C7 
+CA S8 CQ C9 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "1"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:92.Q984.A84.AT42 AK875.AK65.J7.KJ JT63.32.T32.Q865 Q4.JT7.KQ965.973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "23326233259aab79aab7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  2
+N  C  6
+S NT  2
+S  S  3
+S  H  3
+S  D  2
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D 11
+E  C  7
+W NT  9
+W  S 10
+W  H 10
+W  D 11
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,61,185,410,141,296,145,54,226,36,81,27,18,355,23,35,24,23,11,20,263,24,16,24,19,21,16,5,181,21,22,14,584,26,26,17,65,36,72,16,88,37,36,19,152,27,88,9,86,40,63,29,26,24,18,7,14,13,7,14,10,12,8,6
+[Auction "N"]
+Pass 1S Pass 1NT 
+X 3H Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+C6 C3 CA CJ 
+C5 C7 C2 CK 
+S3 S4 S9 SA 
+S6 SQ S2 S5 
+H3 HJ H4 H5 
+H2 H7 H8 HA 
+ST C9 D4 SK 
+D2 D5 D8 DJ 
+D3 DK DA D7 
+DT HT HQ HK 
+SJ D6 C4 S8 
+CQ D9 CT S7 
+C8 DQ H9 H6 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "2"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKJ763.Q3.732.A4 .AJ85.KQJ8.QJ976 T98542.976.6.K52 Q.KT42.AT954.T83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 790"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4a2234a22353aaa53aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H  2
+N  D  2
+N  C  3
+S NT  4
+S  S 10
+S  H  2
+S  D  2
+S  C  3
+E NT  5
+E  S  3
+E  H 10
+E  D 10
+E  C 10
+W NT  5
+W  S  3
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,218,33,147,117,319,161,196,47,179,32,133,65,60,12
+[Auction "E"]
+1C Pass 1D 1S 
+3H 4S X Pass 
+Pass Pass 
+[Play "E"]
+DK D6 D9 D2 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "2"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKJ763.Q3.732.A4 .AJ85.KQJ8.QJ976 T98542.976.6.K52 Q.KT42.AT954.T83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4a2234a22353aaa53aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H  2
+N  D  2
+N  C  3
+S NT  4
+S  S 10
+S  H  2
+S  D  2
+S  C  3
+E NT  5
+E  S  3
+E  H 10
+E  D 10
+E  C 10
+W NT  5
+W  S  3
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,513,49,110,136,211,162,106,49,225,25,47,8,24,66,146,10,21,23,141,18,8
+[Auction "E"]
+2C =1= Pass 2D =2= 2S 
+X 4S Pass Pass 
+Pass 
+[Note "1: 5clubs 4 card major or 6c intermediate"]
+[Note "2: asks Majors * inc Majors [0:18]"]
+[Play "E"]
+DK D6 D4 D3 
+CQ C2 C8 CA 
+C6 S2 SQ SK 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "3"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J654.Q872.8742.Q AQT.K43.AT9.AT42 K9832.A9.KJ.KJ53 7.JT65.Q653.9876"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "58665586658577865778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  8
+S  H  6
+S  D  6
+S  C  5
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,0,3,182,26,341,186,910,33,29,277,39,18,19,43,13,42,61,87,23,12,389,20,8,32,20,21,21,10,149,97,68,38,23,21,41,9,232,30,42,55,91,26,10,71,23,21,15,45,116,22,37,27,13,13,8,8,8,8,7,10
+[Auction "S"]
+1S Pass 3S =1= Pass 
+Pass Pass 
+[Note "1: up to a poor 7 with ♠"]
+[Play "W"]
+HJ H2 H3 HA 
+C7 CQ CA C3 
+D5 D2 DT DK 
+C6 S4 C2 C5 
+S7 S5 ST SK 
+C9 S6 SQ S2 
+C8 SJ SA S3 
+D6 H7 C4 CK 
+H5 D4 CT S9 
+H6 D7 H4 CJ 
+HT HQ HK H9 
+D3 D8 DA DJ 
+DQ H8 D9 S8 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "3"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J654.Q872.8742.Q AQT.K43.AT9.AT42 K9832.A9.KJ.KJ53 7.JT65.Q653.9876"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "58665586658577865778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  8
+S  H  6
+S  D  6
+S  C  5
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,222,49,118,424,131,25,57,20,169,21,33,382,28,15,8,18,59,19,8,109,22,20,15,25,26,251,32,96,20,26,104,65,246,23,105,544,28,17,11,16,597,22,53,366,13,15,14,35,22,62,35,22,15,10,11,7,9,11,12
+[Auction "S"]
+1S Pass 3S =1= 3NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+S2 S7 SJ SQ 
+C3 C6 CQ CA 
+CJ C7 S4 CT 
+CK C8 S5 C2 
+C5 C9 H7 C4 
+HA HJ H2 H3 
+H9 H5 H8 HK 
+DK D3 D4 D9 
+DJ D5 D2 DA 
+S3 H6 S6 SA 
+S8 DQ D7 DT 
+S9 D6 D8 H4 
+SK HT HQ ST 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "4"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q9.QT842.KJ65.97 JT2.A9.Q4.AKQT53 K4.J3.T873.J8642 A87653.K765.A92."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1146321563bc879bc87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  4
+N  D  6
+N  C  3
+S NT  2
+S  S  1
+S  H  5
+S  D  6
+S  C  3
+E NT 11
+E  S 12
+E  H  8
+E  D  7
+E  C  9
+W NT 11
+W  S 12
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 28,2,1,185,43,119,65,54,27,72,32,71,23,577,31,124,29,80,36,56,47,236,39,32,28,140,342,35,89,360,23,32,21,21,22,17,20,97,35,16,23
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2H Pass 2S Pass 
+4S Pass 5C Pass 
+5D Pass 5H Pass 
+5S Pass 6S Pass 
+Pass Pass 
+[Note "1: gf"]
+[Play "N"]
+D6 DQ D7 D2 
+S9 S2 S4 SA 
+SQ ST SK S3 
+D5 D4 D3 DA 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "4"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q9.QT842.KJ65.97 JT2.A9.Q4.AKQT53 K4.J3.T873.J8642 A87653.K765.A92."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1146321563bc879bc87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  4
+N  D  6
+N  C  3
+S NT  2
+S  S  1
+S  H  5
+S  D  6
+S  C  3
+E NT 11
+E  S 12
+E  H  8
+E  D  7
+E  C  9
+W NT 11
+W  S 12
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 28,0,3,66,106,1713,125,78,40,37,47,423,39,767,61,289,97,776,42,29,57,197,97,40,17,16,26,9,16,8,22,8,17,46,52,31,8,38,36,9,9,16,15,8,12,25,16,9,38
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2H Pass 2S Pass 
+3D =2= Pass 3H =3= Pass 
+5C =4= Pass 6S Pass 
+Pass Pass 
+[Note "1: any 2+clubs balanced Gf or clubs GF"]
+[Note "2: cue"]
+[Note "3: cue"]
+[Note "4: exclusion - i hope"]
+[Play "N"]
+C9 CA C2 D2 
+S9 S2 S4 SA 
+SQ ST SK S5 
+D6 D4 D8 DA 
+H2 HA H3 H5 
+C7 CK C4 D9 
+D5 CQ C6 H6 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "5"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ.AKT85.Q85.964 7432.Q2.KJ42.QT8 T6.J97643.T63.75 AJ985..A97.AKJ32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "31711317117c6cc7c6cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  7
+N  D  1
+N  C  1
+S NT  3
+S  S  1
+S  H  7
+S  D  1
+S  C  1
+E NT  7
+E  S 12
+E  H  6
+E  D 12
+E  C 12
+W NT  7
+W  S 12
+W  H  6
+W  D 12
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,158,78,508,100,55,93,44,163,42,45,25,167,268,31,19,48,23,12,17,207,18,26,13,135
+[Auction "N"]
+1H Pass 1NT X 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+C7 C2 C4 CQ 
+S6 SA SQ S2 
+ST S5 SK S3 
+-  -  C6 -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "5"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ.AKT85.Q85.964 7432.Q2.KJ42.QT8 T6.J97643.T63.75 AJ985..A97.AKJ32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "31711317117c6cc7c6cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  7
+N  D  1
+N  C  1
+S NT  3
+S  S  1
+S  H  7
+S  D  1
+S  C  1
+E NT  7
+E  S 12
+E  H  6
+E  D 12
+E  C 12
+W NT  7
+W  S 12
+W  H  6
+W  D 12
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,0,3,166,172,96,59,75,117,58,46,38,44,124,79,45,23,37,115,21,169,27,18,11,21,18,22,33
+[Auction "N"]
+1H Pass 3H X 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+C7 C2 C4 C8 
+S6 SA SQ S2 
+D3 D7 D8 DK 
+ST SJ SK S4 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "6"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q.KQ32.83.AKQT92 T982..T7542.J865 AKJ543.AT97.KJ.3 76.J8654.AQ96.74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "89a59c8b580027100271"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  5
+N  C  9
+S NT 12
+S  S  8
+S  H 11
+S  D  5
+S  C  8
+E NT  0
+E  S  0
+E  H  2
+E  D  7
+E  C  1
+W NT  0
+W  S  0
+W  H  2
+W  D  7
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 27,2,1,65,90,96,299,168,498,76,58,98,232,124,236,101,127,33,103,41,116,73,33,29,148,142,23,19,42,20,49,8,128,79,20,23,16,35,6,16,385,26,8,15,18,14,10,20,72,28,7,25,12,23,8,21,18,52,34,17,15,72,21,10
+[Auction "E"]
+Pass 1S Pass 2C =1= 
+Pass 2D =2= Pass 2H 
+Pass 4C Pass 4H 
+Pass 4NT Pass 5S =3= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: nat gf or 10 12 with 3 sppades"]
+[Note "2: good opening"]
+[Note "3: Alerted"]
+[Play "E"]
+D7 DJ DQ D3 
+D5 DK DA D8 
+D4 S3 D6 H2 
+D2 H7 H4 HK 
+C5 C3 C7 CA 
+C6 S4 C4 CK 
+S2 SA S7 SQ 
+S8 SK S6 C2 
+S9 SJ D9 C9 
+ST S5 H8 HQ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "6"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q.KQ32.83.AKQT92 T982..T7542.J865 AKJ543.AT97.KJ.3 76.J8654.AQ96.74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "89a59c8b580027100271"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  5
+N  C  9
+S NT 12
+S  S  8
+S  H 11
+S  D  5
+S  C  8
+E NT  0
+E  S  0
+E  H  2
+E  D  7
+E  C  1
+W NT  0
+W  S  0
+W  H  2
+W  D  7
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 27,0,3,127,33,62,361,58,62,176,143,81,101,20,76,34,255,27,617,44,41,18,322,201,30,18,18,20,35,16,23,105,32,12,31,58,50,18,76,36,16,11,484,31,21,6,81,17,17,20,74,60,34,23,163,97,26,11,22,95,20,13,15,36,11,5,16,11,11,12,11,7,11,10
+[Auction "E"]
+Pass 1C Pass 2C =1= 
+Pass 2S Pass 3H 
+Pass 4H Pass 4NT =2= 
+Pass 5H Pass 6H 
+Pass Pass Pass 
+[Note "1: 8+ ♣"]
+[Note "2:  * RKCB ♡ [0:26]"]
+[Play "E"]
+D2 DJ DQ D3 
+D4 DK DA D8 
+C8 C3 C7 CA 
+D5 H7 H4 HQ 
+S2 S3 S7 SQ 
+C5 S4 C4 CK 
+C6 S5 H5 CQ 
+ST SJ S6 C2 
+S9 H9 H6 H2 
+S8 HT HJ HK 
+D7 HA H8 H3 
+DT SK D6 C9 
+CJ SA D9 CT 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "7"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:JT.84.AJT9742.K7 KQ92.QJ652.5.AQJ A7543.A7.KQ3.962 86.KT93.86.T8543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "973939739336a3936a39"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  3
+N  D  9
+N  C  3
+S NT  9
+S  S  7
+S  H  3
+S  D  9
+S  C  3
+E NT  3
+E  S  6
+E  H 10
+E  D  3
+E  C  9
+W NT  3
+W  S  6
+W  H 10
+W  D  3
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,2,1,116,38,68,256,199,31,47,37,54,24,176,115,28,137,38,29,12,55,243,34,26,9,30,44,17,45,103,26,34,10,26,45,14,68,14,28,10,9,10,18,10,27,45,21,21,8,20
+[Auction "S"]
+1S Pass 2D Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+S6 ST SQ SA 
+S8 SJ SK S3 
+H3 H4 HQ HA 
+C5 D2 S9 S4 
+H9 H8 H2 H7 
+HK D4 H5 S5 
+D8 D7 D5 DK 
+D6 D9 S2 DQ 
+C8 C7 CA C2 
+-  -  HJ -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "7"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:JT.84.AJT9742.K7 KQ92.QJ652.5.AQJ A7543.A7.KQ3.962 86.KT93.86.T8543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "973939739336a3936a39"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  3
+N  D  9
+N  C  3
+S NT  9
+S  S  7
+S  H  3
+S  D  9
+S  C  3
+E NT  3
+E  S  6
+E  H 10
+E  D  3
+E  C  9
+W NT  3
+W  S  6
+W  H 10
+W  D  3
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 16,0,3,177,26,433,107,381,24,210,40,142,30,80,317,28,19,52,28,45,20,257,20,12,33,25,17,94,43,77,66,28,40,45,538,25,18,18,25,136,40,302,81,21,6,19,14,23,23,46
+[Auction "S"]
+1S Pass 1NT =1= 2H 
+Pass 3H 4D Pass 
+Pass Pass 
+[Note "1: F1"]
+[Play "E"]
+HQ H7 H3 H4 
+H2 HA HT H8 
+D5 DK D6 D2 
+H5 D3 D8 DJ 
+SQ S3 S6 ST 
+S2 SA S8 SJ 
+S9 S4 C5 D9 
+H6 DQ H9 D4 
+CA C2 C3 CK 
+SK -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "8"]
+[West "Phil Norman#28789"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT832.JT5.T.QT73 QJ965.AK8.863.J2 74.9763.KQJ52.64 K.Q42.A974.AK985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33543335439a89a9a89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,200,83,385,116,184,204,149,51,127,457,42,46,57,42,70,52,59,21,230,157,133,27,69,245,17,19,163,203,39,29,35,48,28,16,33,30,17,35,47,23,20,18,55,24,19,9,47,15,30,14,39,8,37,11,18,12,31
+[Auction "W"]
+1C 1S X 2D 
+X 2H X Pass 
+Pass 2S X Pass 
+3C X 3NT Pass 
+Pass Pass 
+[Play "S"]
+S7 SK SA S6 
+D2 D4 DT D3 
+H3 HQ HT H8 
+C6 C5 CQ C2 
+H6 H2 H5 HA 
+C4 C8 C3 CJ 
+DJ DA S3 D6 
+S4 CA C7 D8 
+D5 CK CT S5 
+-  C9 HJ S9 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "8"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT832.JT5.T.QT73 QJ965.AK8.863.J2 74.9763.KQJ52.64 K.Q42.A974.AK985"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33543335439a89a9a89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,236,288,192,511,32,955,49,56,29,72,50,55,16,28,60,68,64,23,19,24,17,181,225,23,13,50,83,24,8,18,16,25,9,14,195,297,9,26,93,29,10,27,41,21,7,11,14,41,13,90,403,25,27,7,32,16,8,7
+[Auction "W"]
+1C =1= 1H =2= 1S 2D 
+Pass Pass X Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: strong"]
+[Note "2: 2 suits same colour"]
+[Play "N"]
+C3 CJ C6 C5 
+SA S5 S7 SK 
+CQ C2 C4 CK 
+H5 HA H7 H2 
+S2 SQ S4 D4 
+S3 SJ D2 D7 
+HJ H8 H3 HQ 
+C7 D3 D5 CA 
+CT D6 H6 C8 
+ST S6 H9 D9 
+DT D8 DJ DA 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "9"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J9.KQT64.J9876.Q T75.83.KT.KJ7653 A8643.AJ72.3.T82 KQ2.95.AQ542.A94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "47a5237a527638a7638a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H 10
+N  D  5
+N  C  2
+S NT  3
+S  S  7
+S  H 10
+S  D  5
+S  C  2
+E NT  7
+E  S  6
+E  H  3
+E  D  8
+E  C 10
+W NT  7
+W  S  6
+W  H  3
+W  D  8
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 17,2,4,443,71,288,57,32,30,168,196,16,9,21,25,20,23,44,19,25,7,122,52,21,23,19,26,181,15,18,14,18,54,217,28,27,14,317,42,59,18,142,14,8,12,20,29,6,17,7,8,12,20,18,24,7,9,14,9,6,10
+[Auction "N"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: 5 4+"]
+[Play "E"]
+S7 SA S2 S9 
+DT D3 DA D6 
+CK C2 C4 CQ 
+H3 H2 H9 HT 
+DK H7 D2 D7 
+ST S3 SQ SJ 
+C3 C8 CA H4 
+C5 HJ D4 D8 
+C6 CT C9 H6 
+C7 HA D5 D9 
+S5 S4 SK HQ 
+H8 S6 H5 HK 
+CJ S8 DQ DJ 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "9"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J9.KQT64.J9876.Q T75.83.KT.KJ7653 A8643.AJ72.3.T82 KQ2.95.AQ542.A94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "47a5237a527638a7638a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H 10
+N  D  5
+N  C  2
+S NT  3
+S  S  7
+S  H 10
+S  D  5
+S  C  2
+E NT  7
+E  S  6
+E  H  3
+E  D  8
+E  C 10
+W NT  7
+W  S  6
+W  H  3
+W  D  8
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 17,0,3,795,91,160,30,34,37,56,200,26,32,56,41,28,19,19,19,17,38,131,20,31,17,15,30,12,19,10,69,17,30,65,23,55,7,171,18,154,35,199,41,35,18,164,18,13,9,34,18,18,9,16,7,11,9,15,5,10,8
+[Auction "N"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+H8 H2 H5 HT 
+S5 SA S2 S9 
+S7 S3 SQ SJ 
+C3 C2 CA CQ 
+DT D3 DA D6 
+C5 C8 C4 H4 
+DK H7 D2 D7 
+ST S4 SK HQ 
+C6 HJ D4 D8 
+H3 HA H9 H6 
+C7 S8 C9 D9 
+CJ S6 D5 DJ 
+CK CT DQ HK 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "10"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q932.63.A.QT9853 AKT4.K8754.T3.A2 65.AJ92.K762.J64 J87.QT.QJ9854.K7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4443834438899a5899a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  3
+N  C  8
+S NT  3
+S  S  4
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S  9
+E  H  9
+E  D 10
+E  C  5
+W NT  8
+W  S  9
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,2,4,216,41,304,118,152,80,458,43,78,38,126,284,23,25,34,39,17,13,274,22,24,18,161,26,40,46,18,82,14,22,31,92,21,7,168,60,18,14,26,26,71,24,93,28,20,109,35,26,30,8,23
+[Auction "E"]
+1H Pass 1S =1= Pass 
+1NT =2= Pass 2H Pass 
+Pass Pass 
+[Note "1: Shows fewer than 5 sp"]
+[Note "2: 4Ss 11-16"]
+[Play "S"]
+S6 S7 S9 ST 
+H2 HT H3 H4 
+H9 HQ H6 H5 
+D6 D4 DA D3 
+S5 S8 S2 SA 
+DK D5 C3 DT 
+C4 CK C5 C2 
+D2 DQ C8 S4 
+D7 SJ S3 SK 
+HJ D8 C9 H7 
+HA -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "10"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q932.63.A.QT9853 AKT4.K8754.T3.A2 65.AJ92.K762.J64 J87.QT.QJ9854.K7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4443834438899a5899a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  3
+N  C  8
+S NT  3
+S  S  4
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S  9
+E  H  9
+E  D 10
+E  C  5
+W NT  8
+W  S  9
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,124,46,89,125,60,47,550,70,602,104,38,22,311,44,29,11,141,28,21,22,42,21,31,25,123,41,21,14,16,131,17,24,176,124,19,41,21,30,24,18,15,27,65,42,206,37,30,13
+[Auction "E"]
+1H Pass 1NT =1= Pass 
+2S Pass Pass Pass 
+[Note "1: F1"]
+[Play "S"]
+D2 D4 DA D3 
+C4 C7 C3 CA 
+H2 HQ H6 H4 
+HJ HT H3 H5 
+C6 CK C5 C2 
+DK D5 C8 DT 
+CJ S7 C9 H8 
+D7 DQ S2 S4 
+H9 SJ SQ H7 
+D6 S8 CQ HK 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "11"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT5.62.Q64.KQJ93 KJ864.98.KJ2.854 32.KJ543.AT987.A A97.AQT7.53.T762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "4"]
+[Score "NS -250"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "44466445669976799767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  6
+E NT  9
+E  S  9
+E  H  7
+E  D  6
+E  C  7
+W NT  9
+W  S  9
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,4,83,37,58,55,541,65,161,75,84,38,202,49,129,21,453,124,161,19,15,19,30,10,33,28,12,8,37,28,41,28,30,45,20,58,174,20,8,12,15,15,19,32,36,31,20,21,51,74,12,7,11,25,21,7,21,11,10,16,15,15,8,13,14,9,6,14
+[Auction "S"]
+1H Pass 1NT Pass 
+2C =1= Pass 2D =2= Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Note "1: forcing, says nothing aboat clubs"]
+[Note "2: 8+ any"]
+[Play "E"]
+S6 S2 SA S5 
+SJ S3 S9 ST 
+SK H3 S7 SQ 
+S8 H4 C7 H2 
+S4 D7 C2 H6 
+C5 CA C6 C3 
+DJ D8 D3 D4 
+H9 HJ HQ C9 
+H8 H5 HA D6 
+C4 HK H7 CJ 
+D2 DA D5 DQ 
+DK D9 HT CQ 
+C8 DT CT CK 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "11"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT5.62.Q64.KQJ93 KJ864.98.KJ2.854 32.KJ543.AT987.A A97.AQT7.53.T762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "44466445669976799767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  6
+E NT  9
+E  S  9
+E  H  7
+E  D  6
+E  C  7
+W NT  9
+W  S  9
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 11,0,3,91,26,159,143,129,20,73,50,203,22,153,26,91,55,40,8,50,22,31,12,30,32,19,10,24,27,7,25,755,27,9,30,10,16,320,38,20,29,57,11,18,57,33,17,27,62,13,40,42,91,22,9,9,18,22,6,12
+[Auction "S"]
+1H Pass 1NT =1= Pass 
+2D Pass 2NT Pass 
+3D Pass Pass Pass 
+[Note "1: F1"]
+[Play "W"]
+SA S5 S4 S3 
+S9 ST SJ S2 
+S7 SQ SK D7 
+C2 C3 C4 CA 
+D3 D4 D2 DA 
+D5 D6 DJ DT 
+C7 DQ DK D8 
+C6 H2 S8 H3 
+CT H6 S6 H4 
+HA C9 H9 HK 
+HQ CJ H8 H5 
+H7 -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "12"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT43.AJT.A9.AJ95 9875.KQ63.43.Q84 AJ6.987542.K7.K7 Q2..QJT8652.T632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "bbb8bbbb8b2225222252"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D  8
+N  C 11
+S NT 11
+S  S 11
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  2
+E  H  2
+E  D  5
+E  C  2
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,2,4,237,345,67,97,32,88,30,85,105,29,11,20,73,263,37,9,36,33,14,26,15,12,13,41,29,10,117,21,22,38,13,30,25,22,9,37,19,20,21,24,39
+[Auction "W"]
+3D X Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+DQ D9 D4 DK 
+D2 HA H3 H2 
+D5 HT HQ H4 
+D6 HJ HK H5 
+D8 DA D3 D7 
+C2 C5 C8 CK 
+DT S3 H6 H9 
+C3 CA C4 C7 
+-  C9 CQ -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "12"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT43.AJT.A9.AJ95 9875.KQ63.43.Q84 AJ6.987542.K7.K7 Q2..QJT8652.T632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "bbb8bbbb8b2225222252"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D  8
+N  C 11
+S NT 11
+S  S 11
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  2
+E  H  2
+E  D  5
+E  C  2
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,0,3,78,373,41,84,19,35,194,37,662,120,20,23,19,57,43,356,41,24,11,83,28,20,7,13,31,18,7,32,39,16,18,15,110,41,16,28,49,20,9
+[Auction "W"]
+3D X Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+DQ D9 D3 DK 
+D2 HA H3 H5 
+D5 HT HQ H2 
+D6 HJ HK H4 
+D8 DA D4 D7 
+SQ S3 S9 SJ 
+DJ C5 S5 H8 
+DT C9 H6 H9 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "13"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T8742.KQJ5.J7.J5 J3.64.Q9542.K732 A.AT97.3.AQT9864 KQ965.832.AKT86."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "86a3b86b3b5719256192"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  3
+N  C 11
+S NT  8
+S  S  6
+S  H 11
+S  D  3
+S  C 11
+E NT  5
+E  S  7
+E  H  1
+E  D  9
+E  C  2
+W NT  5
+W  S  6
+W  H  1
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,74,55,355,218,360,69,106,75,74,113,72,17,18,80,51,19,18,18,53,19,20,20,5,25,9,16,7,14,16,117,16,10,14,442,63,9,53,29,32,11,20,17,7,9,246,32,7,13,9,19
+[Auction "N"]
+Pass Pass 2C =1= X 
+XX 2D 2H 4D 
+4H Pass Pass Pass 
+[Note "1: 5+C maybe 4m 11-15"]
+[Play "W"]
+DA D7 D2 D3 
+DK DJ D5 H7 
+H2 H5 H4 HA 
+H3 HJ H6 HT 
+H8 HQ D4 H9 
+D6 CJ C3 C4 
+S6 C5 C2 C9 
+D8 S2 C7 CA 
+S5 HK CK C6 
+-  S4 S3 -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "13"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T8742.KQJ5.J7.J5 J3.64.Q9542.K732 A.AT97.3.AQT9864 KQ965.832.AKT86."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "86a3b86b3b5719256192"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  3
+N  C 11
+S NT  8
+S  S  6
+S  H 11
+S  D  3
+S  C 11
+E NT  5
+E  S  7
+E  H  1
+E  D  9
+E  C  2
+W NT  5
+W  S  6
+W  H  1
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 22,2,4,68,60,99,85,256,45,448,42,55,67,116,38,326,59,107,25,127,52,313,85,152,46,814,30,50,34,40,89,18,21,189,31,17,11,197,27,11,13,32,22,13,9,84,45,28,17,30
+[Auction "N"]
+Pass Pass 1C 1S 
+X Pass 2S Pass 
+2NT Pass 3H Pass 
+4H Pass 4NT Pass 
+5C =1= Pass 5D X 
+Pass Pass 5H Pass 
+Pass Pass 
+[Note "1: 1 4"]
+[Play "W"]
+DK D7 D5 D3 
+SK S2 S3 SA 
+H2 HJ H4 H7 
+H3 HQ H6 H9 
+H8 CJ CK CA 
+DA -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "14"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T8.AJ76.K863.T64 AKJ.Q32.J2.KQ875 75432.K84.5.J932 Q96.T95.AQT974.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3552435524988a9988a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  2
+N  C  4
+S NT  3
+S  S  5
+S  H  5
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D 10
+E  C  9
+W NT  9
+W  S  8
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,316,49,38,57,40,30,19,95,28,39,43,35,24,16,24,110,51,29,357,20,82,11,32,35,12,7,148,21,16,21,19,26,13,68,21,20,11,10,26,11,15,12,30,23,11,9,15,27,8,10,20
+[Auction "E"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 14 16"]
+[Play "S"]
+S5 S6 S8 SK 
+D5 D4 D6 DJ 
+H4 DT D3 D2 
+C3 DA D8 H3 
+C2 CA C4 C5 
+S2 SQ ST SA 
+S3 S9 H7 SJ 
+C9 D7 C6 CK 
+CJ D9 CT CQ 
+S4 DQ H6 C8 
+S7 H5 HJ C7 
+-  -  -  HQ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "14"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T8.AJ76.K863.T64 AKJ.Q32.J2.KQ875 75432.K84.5.J932 Q96.T95.AQT974.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3552435524988a9988a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  2
+N  C  4
+S NT  3
+S  S  5
+S  H  5
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D 10
+E  C  9
+W NT  9
+W  S  8
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,4,501,212,134,83,91,44,70,37,31,38,51,200,24,22,70,24,19,19,45,69,31,35,14,22,18,81,836,41,32,27,16,22,18,20
+[Auction "E"]
+1C =1= Pass 1S =2= Pass 
+1NT =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * 1+ [0:09]"]
+[Note "2: Denies a 4 card maj"]
+[Note "3:  * 12-16 [0:08]"]
+[Play "S"]
+S2 S6 S8 SA 
+D5 D4 D3 DJ 
+H4 DA D6 D2 
+C3 DQ DK C5 
+HK H5 H6 H3 
+H8 H9 HA H2 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "15"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J742..AKT8.AK852 K63.KQ832.QJ.QT4 A98.AJT9.7653.J3 QT5.7654.942.976"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "ab8baaa8ba2252322523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 11
+S  C 10
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 14,2,4,118,42,62,65,233,43,82,46,44,290,38,34,114,45,46,22,80,43,18,33,66,63,24,33,17,49,24,20,131,23,12,33,76,34,12,62,34
+[Auction "S"]
+Pass Pass 1C 1H 
+3NT Pass Pass Pass 
+[Play "W"]
+H6 S2 HQ HA 
+D4 DA DQ D6 
+C7 C2 CQ C3 
+SQ S4 S3 S8 
+ST SJ SK SA 
+D2 D8 DJ D3 
+H5 C5 HK H9 
+-  -  S6 -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "15"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J742..AKT8.AK852 K63.KQ832.QJ.QT4 A98.AJT9.7653.J3 QT5.7654.942.976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3HX"]
+[Result "5"]
+[Score "NS 800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "ab8baaa8ba2252322523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 11
+S  C 10
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 12,0,3,155,675,356,221,584,26,77,56,29,27,52,117,90,28,121,33,9,10,20,18,284,33,742,93,22,11,11,27,11,37,18,49,54,24,329,41,59,45,63,21,14,10,19,26,105,12,15,21,18,11,35,13,10,10,20,29,14,10,14,9,13,10
+[Auction "S"]
+Pass Pass 2C =1= 2H 
+Pass 3H X Pass 
+Pass Pass 
+[Note "1: 5+♣ and 4M or 6+♣"]
+[Play "S"]
+CJ C6 CK C4 
+C3 C7 CA CQ 
+S9 C9 C2 CT 
+SA S5 S7 S6 
+S8 ST S2 S3 
+HA H4 DT HQ 
+HJ H5 S4 HK 
+H9 SQ SJ SK 
+HT H6 C5 H2 
+D6 D2 DK DQ 
+D3 D4 DA DJ 
+D5 D9 D8 H8 
+D7 H7 C8 H3 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "16"]
+[West "Christine Bradley#96610"]
+[North "Erik Sælensminde#411440"]
+[East "Joanne Norman#404693"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KT86.KQ975.QJ72. J7.AJ3.863.97652 AQ952.82.AKT95.A 43.T64.4.KQJT843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "7SX"]
+[Result "12"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "bcac5bcac51121811218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H 10
+N  D 12
+N  C  5
+S NT 11
+S  S 12
+S  H 10
+S  D 12
+S  C  5
+E NT  1
+E  S  1
+E  H  2
+E  D  1
+E  C  8
+W NT  1
+W  S  1
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 33,2,4,237,98,205,521,33,221,45,643,37,393,102,56,21,45,335,58,21,30,46,252,28,10,47,23,10,10,29,20,35,21
+[Auction "W"]
+3C X 4C 5C 
+Pass 5H Pass 5S 
+Pass 6S Pass 7S 
+Pass Pass X Pass 
+Pass Pass 
+[Play "W"]
+D4 DQ D6 D5 
+S3 S6 S7 SA 
+S4 SK SJ S2 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "16"]
+[West "Alan Scott#24026"]
+[North "Derek Maggs#15936"]
+[East "Robert Plumley#33074"]
+[South "Miles Cowling#18302"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KT86.KQ975.QJ72. J7.AJ3.863.97652 AQ952.82.AKT95.A 43.T64.4.KQJT843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "bcac5bcac51121811218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H 10
+N  D 12
+N  C  5
+S NT 11
+S  S 12
+S  H 10
+S  D 12
+S  C  5
+E NT  1
+E  S  1
+E  H  2
+E  D  1
+E  C  8
+W NT  1
+W  S  1
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 28,0,3,87,98,118,1514,51,255,45,62,20,97,31,18,128,45,39,21,18,6,12,87,16,17,16,97,60
+[Auction "W"]
+3C X 5C 5NT 
+Pass 6H Pass 6S 
+Pass Pass Pass 
+[Play "W"]
+D4 D2 D6 DA 
+S3 S6 S7 SA 
+S4 SK SJ S2 
+-  DQ D8 -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "17"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:753.QT82.A862.J8 JT62.643.5.AQ432 AK8.AKJ97.T74.T5 Q94.5.KQJ93.K976"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85844858445757957579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  4
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  4
+S  C  4
+E NT  5
+E  S  7
+E  H  5
+E  D  7
+E  C  9
+W NT  5
+W  S  7
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,3,6,297,32,142,50,63,58,71,90,11,12,93,18,16,14,21,34,20,21,19,19,21,14,15,35,8,13,218,15,35,9,19,21,7,7,9,10,7,7,71,23,8,7,15,14,19,7,10,14,10,15,10,24,6,8,7,6,9,7
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+DK DA D5 D4 
+H5 H2 H3 HA 
+C6 HQ H4 H7 
+C7 HT H6 HJ 
+S4 H8 C2 HK 
+D3 S3 C3 H9 
+S9 S5 S6 SA 
+SQ S7 S2 SK 
+DJ D2 C4 DT 
+DQ D6 CQ D7 
+D9 D8 SJ C5 
+C9 C8 CA CT 
+CK CJ ST S8 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "17"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:753.QT82.A862.J8 JT62.643.5.AQ432 AK8.AKJ97.T74.T5 Q94.5.KQJ93.K976"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85844858445757957579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  4
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  4
+S  C  4
+E NT  5
+E  S  7
+E  H  5
+E  D  7
+E  C  9
+W NT  5
+W  S  7
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,5,2,386,27,98,78,138,22,37,199,18,27,33,28,46,14,39,25,110,10,38,19,29,27,37,23,22,23,38,33,25,51,29,20,16,6,19,56,19,7
+[Auction "N"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+DK DA D5 D4 
+H5 H2 H3 HA 
+C6 HQ H4 H7 
+C7 H8 H6 H9 
+S9 HT S6 HK 
+S4 D2 C2 HJ 
+SQ S3 S2 SA 
+C9 S5 ST SK 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "18"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT97.643.Q5.Q986 K.T87.AK643.AJT5 Q65.AQJ52.J972.2 J8432.K9.T8.K743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65754657547758977589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  4
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,3,6,278,46,56,104,50,28,53,47,32,64,70,15,15,23,10,11,30,36,17,13,124,97,30,8,81,49,9,22,17,10,10,17,242,16,41,33,24,90,23,8,158,21,8,37,19,18,66,16,18,17,8,25,17,29,10,18,10,10,7,12
+[Auction "E"]
+1D =1= 1H 1S 2H 
+3C Pass Pass Pass 
+[Note "1: 1+D, 11-15 pts"]
+[Play "S"]
+HA H9 H6 H8 
+H5 HK H4 H7 
+S5 S2 SA SK 
+S6 S3 S7 C5 
+D7 D8 D5 DA 
+D2 DT DQ DK 
+D9 C7 C8 D3 
+SQ S4 ST CT 
+C2 C3 C6 CA 
+H2 CK C9 CJ 
+HJ SJ S9 D4 
+DJ S8 CQ D6 
+HQ C4 H3 HT 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "18"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT97.643.Q5.Q986 K.T87.AK643.AJT5 Q65.AQJ52.J972.2 J8432.K9.T8.K743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65754657547758977589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  4
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,5,2,98,108,155,67,21,39,227,115,39,118,191,24,126,146,27,23,17,23,19,32,78,31,20,14,144,18,10,8,31,16,12,68,90,26,43,10,40,26,12,20,28,18,6,52,16,19,6,56,10,20,7,9,9,19,13
+[Auction "E"]
+1NT Pass 2H =1= Pass 
+2S Pass Pass Pass 
+[Note "1: sp"]
+[Play "S"]
+C2 C3 CQ CA 
+H5 CK C6 C5 
+S6 S2 S7 SK 
+HA H9 H6 H7 
+H2 HK H3 H8 
+S5 S3 S9 D3 
+SQ C4 C9 CT 
+HQ S4 H4 HT 
+D7 C7 C8 CJ 
+D2 D8 DQ DA 
+D9 DT D5 DK 
+DJ S8 -  D4 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "19"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:86.AT932.K74.T97 AT53.KQ875.T53.5 K742.4.962.AQ632 QJ9.J6.AQJ8.KJ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "45557455578887688876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  7
+S NT  4
+S  S  5
+S  H  5
+S  D  5
+S  C  7
+E NT  8
+E  S  8
+E  H  8
+E  D  7
+E  C  6
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 9,3,6,77,119,32,194,47,33,25,29,28,61,27,112,28,61,66,16,18,183,46,42,16,12,86,17,16,19,18,19,40,28,19,6,21,26,43,17,20,18,51,31,11,34,64
+[Auction "S"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H Pass 2S 
+Pass 2NT Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: H"]
+[Play "N"]
+CT C5 CA C4 
+DK D3 D6 DJ 
+D7 DT D2 D8 
+HA H5 H4 HJ 
+D4 D5 D9 DA 
+S8 S3 SK SQ 
+C7 H7 C3 CK 
+H2 -  -  DQ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "19"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:86.AT932.K74.T97 AT53.KQ875.T53.5 K742.4.962.AQ632 QJ9.J6.AQJ8.KJ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "45557455578887688876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  7
+S NT  4
+S  S  5
+S  H  5
+S  D  5
+S  C  7
+E NT  8
+E  S  8
+E  H  8
+E  D  7
+E  C  6
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,5,2,164,70,61,300,192,175,62,122,63,31,71,21,20,280,96,179,31,43,36,24,43,58,27,13,21,53,13,35,98,144,20,16,38,164,42,105,14,85,109,25,10,15,27,14,12,8,48,9,24,16,17,10
+[Auction "S"]
+Pass 1NT Pass 3C =1= 
+Pass 3D =2= Pass 3S =3= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 5 4 majors"]
+[Note "2: waiting"]
+[Note "3: 5hrearts"]
+[Play "N"]
+S8 S3 SK SJ 
+C9 C5 C2 CJ 
+H3 H5 H4 HJ 
+H2 HK D6 H6 
+DK D3 D2 DQ 
+CT H7 CA C4 
+D4 DT D9 D8 
+S6 S5 S2 SQ 
+H9 ST S4 S9 
+-  SA S7 C8 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "20"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:963.KQ2.AK8.J752 K742.T865.JT74.T AJ5.AJ3.Q2.K9643 QT8.974.9653.AQ8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9787aa787a3546335463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  7
+N  C 10
+S NT 10
+S  S  7
+S  H  8
+S  D  7
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  6
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,3,6,74,216,32,137,35,214,26,31,32,42,18,122,122,26,10,87,30,21,37,646,43,8,11,10,111,17,41,13,56,9,11,25,74,8,81,20,52,8,22,24,27,8,98
+[Auction "W"]
+Pass 1D =1= Pass 2C 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+D"]
+[Play "W"]
+H7 HK H6 H3 
+CQ CJ CT C3 
+H9 HQ H5 HJ 
+CA C2 S4 C9 
+H4 H2 H8 HA 
+C8 C7 S2 CK 
+D3 C5 S7 C6 
+D5 S3 D7 C4 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "20"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:963.KQ2.AK8.J752 K742.T865.JT74.T AJ5.AJ3.Q2.K9643 QT8.974.9653.AQ8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9787aa787a3546335463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  7
+N  C 10
+S NT 10
+S  S  7
+S  H  8
+S  D  7
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  6
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,5,2,57,242,38,468,64,308,27,180,47,138,24,161,196,19,101,38,103,26,8,26,22,27,32,204,33,9,25,26,21,81,30,37,24,30,17,54,30,22,10,15
+[Auction "W"]
+Pass 1C =1= Pass 2C =2= 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 1+♣ may have up to 5♢"]
+[Note "2:  * inverted [0:17]"]
+[Play "W"]
+D6 D8 DT DQ 
+H7 HQ H6 H3 
+CA C2 CT CK 
+SQ S3 S2 S5 
+ST S6 S4 SJ 
+C8 CJ H5 C3 
+CQ C7 H8 C4 
+S8 -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "21"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT983.QT42..Q952 .93.AKJ97.KJT764 AJ4.AKJ65.T842.3 Q7652.87.Q653.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "59b3359a33442a8442a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H 11
+N  D  3
+N  C  3
+S NT  5
+S  S  9
+S  H 10
+S  D  3
+S  C  3
+E NT  4
+E  S  4
+E  H  2
+E  D 10
+E  C  8
+W NT  4
+W  S  4
+W  H  2
+W  D 10
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,3,6,139,142,50,73,282,41,45,73,46,82,47,34,39,9,22,48,22,15,42,23,8,8,23,14,9,19,155,23,9,8,32,14,14,26,23,12,16,31,35,61,8,13,28,23,8,13,8,18,8,10,19,20,8,10
+[Auction "N"]
+Pass 1D =1= 1H 1S 
+3H 4C 4H Pass 
+Pass Pass 
+[Note "1: 1+D"]
+[Play "W"]
+CA C2 C7 C3 
+C8 C9 CT H5 
+H7 H2 H3 HK 
+H8 H4 H9 HA 
+S2 S3 D9 SA 
+S5 S8 D7 SJ 
+S6 S9 C4 S4 
+S7 SK C6 D2 
+D3 C5 CJ H6 
+D5 HT DJ D4 
+SQ ST DK HJ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "21"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT983.QT42..Q952 .93.AKJ97.KJT764 AJ4.AKJ65.T842.3 Q7652.87.Q653.A8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "59b3359a33442a8442a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H 11
+N  D  3
+N  C  3
+S NT  5
+S  S  9
+S  H 10
+S  D  3
+S  C  3
+E NT  4
+E  S  4
+E  H  2
+E  D 10
+E  C  8
+W NT  4
+W  S  4
+W  H  2
+W  D 10
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 21,5,2,102,116,83,39,287,175,110,513,53,80,145,115,82,117,10,294,28,31,17,442,214,71,29,30,26,9,26,513,22,14,21,10,19,1103,35,109,23,24,18,37
+[Auction "N"]
+Pass 1C 1H X 
+4H 4NT =1= Pass 5D 
+Pass Pass Pass 
+[Note "1: 2places"]
+[Play "N"]
+H4 H3 HK H7 
+H2 H9 HA H8 
+HT D7 H5 S5 
+S3 DA D2 D3 
+C5 C4 C3 CA 
+C2 CJ D4 C8 
+S8 D9 S4 S2 
+-  C6 -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "22"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K8.KT62.J9765.T5 JT76.AJ7.Q8.A962 Q42.4.KT4.KQJ843 A953.Q9853.A32.7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3CX"]
+[Result "9"]
+[Score "NS 470"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "53477534777996579965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  4
+N  D  7
+N  C  7
+S NT  5
+S  S  3
+S  H  4
+S  D  7
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  6
+E  C  5
+W NT  7
+W  S  9
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,3,6,289,250,374,78,179,29,352,43,1386,32,63,29,20,8,63,20,9,6,59,22,7,21,71,22,18,34,250,25,10,20,61,29,12,10,13,44,22,20,16,34,7,16,8,11,8,29,18,21,7
+[Auction "E"]
+1D =1= 3C =2= X Pass 
+Pass Pass 
+[Note "1: 1+D"]
+[Note "2: wide ranging - 2C would not be natural"]
+[Play "W"]
+H5 H2 HA H4 
+DA D5 DQ DK 
+SA S8 S6 S2 
+D3 D6 D8 DT 
+C7 CT CA C3 
+S5 SK S7 S4 
+H3 HK H7 D4 
+H8 C5 C2 CJ 
+H9 D7 C6 CK 
+D2 H6 C9 CQ 
+HQ D9 -  C8 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "22"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K8.KT62.J9765.T5 JT76.AJ7.Q8.A962 Q42.4.KT4.KQJ843 A953.Q9853.A32.7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "53477534777996579965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  4
+N  D  7
+N  C  7
+S NT  5
+S  S  3
+S  H  4
+S  D  7
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  6
+E  C  5
+W NT  7
+W  S  9
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,5,2,64,96,311,72,28,55,219,40,19,23,119,90,41,224,255,25,13,43,26,28,33,35,44,32,41,23,10,33,25,16,163,29,40,13,90,23,7,16,11,29,10,22,31,15,145,18,61,49,17,10,10,32,10,16,61,80,17,31,16,23,14,9
+[Auction "E"]
+1C Pass 1H =1= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 5hearts"]
+[Play "N"]
+D5 DQ DK D3 
+C5 CA CK C7 
+SK SJ S4 S3 
+CT C2 C3 H3 
+H2 HJ H4 H5 
+H6 HA C4 H8 
+D6 D8 D4 DA 
+D7 H7 DT D2 
+S8 S6 S2 S5 
+DJ C6 C8 H9 
+HT S7 SQ SA 
+HK C9 CJ HQ 
+D9 ST CQ S9 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "23"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ96.J.KT6.T8543 KJ5.AKQ.Q87.KJ92 T3.T98532.J3.A76 8742.764.A9542.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NTX"]
+[Result "10"]
+[Score "NS -950"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "45635346359879798797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  5
+S NT  3
+S  S  4
+S  H  6
+S  D  3
+S  C  5
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C  7
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,3,6,457,77,487,833,70,666,52,94,28,19,76,33,23,24,19,98,41,30,116,19,10,23,20,24,16,14,53,21,16,70,58,31,21,12,272,25,11,33,15,22,63,22,29
+[Auction "S"]
+2D =1= Pass 2H =2= 2NT 
+Pass 3C =3= Pass 3NT 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: multi, weak 2H/S or 23/24 bal"]
+[Note "2: p/c"]
+[Note "3: stayman"]
+[Play "S"]
+HT H4 HJ HK 
+C6 CQ C3 C2 
+D3 D2 D6 DQ 
+DJ D4 DK D7 
+S3 S2 S6 SJ 
+CA H6 C4 CJ 
+ST S4 SA S5 
+-  -  SQ -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "23"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ96.J.KT6.T8543 KJ5.AKQ.Q87.KJ92 T3.T98532.J3.A76 8742.764.A9542.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "45635346359879798797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  5
+S NT  3
+S  S  4
+S  H  6
+S  D  3
+S  C  5
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C  7
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,5,2,125,58,72,35,66,214,61,217,91,19,64,65,107,53,21,21,39,16,29,98,20,19,20,23,18,16,45,116,20,65,32,76,59,18,10,39,18,228,24
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1D =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: no 5card mj"]
+[Play "S"]
+H3 H4 HJ HK 
+C6 CQ C4 C2 
+D3 D2 D6 DQ 
+DJ D4 DT D7 
+HT H6 S6 HA 
+CA S2 C3 CJ 
+ST S4 SA S5 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "24"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q86.T73.T4.AKJ98 AT5.KQ94.AQ.Q632 KJ9732.A86.K92.5 4.J52.J87653.T74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "89656896564378543785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  5
+N  C  6
+S NT  8
+S  S  9
+S  H  6
+S  D  5
+S  C  6
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  4
+W  S  3
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,3,6,102,91,30,418,203,297,228,45,27,127,111,13,21,17,16,12,25,33,20,13,14,50,38,16,13,36,18,17,14,11,25,13,11,63,11,19,31,34
+[Auction "W"]
+Pass Pass 1C 2H =1= 
+Pass =2= 2S Pass Pass 
+Pass 
+[Note "1: spades or C&D"]
+[Note "2: less than 8 pts"]
+[Play "E"]
+HK HA H2 H7 
+C3 C5 C4 CA 
+C2 H6 C7 CK 
+DA D2 D5 D4 
+HQ H8 H5 HT 
+DQ DK D3 DT 
+ST D9 DJ S6 
+H9 -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "24"]
+[West "Rune Hauge#111671"]
+[North "Derek Maggs#15936"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q86.T73.T4.AKJ98 AT5.KQ94.AQ.Q632 KJ9732.A86.K92.5 4.J52.J87653.T74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "89656896564378543785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  5
+N  C  6
+S NT  8
+S  S  9
+S  H  6
+S  D  5
+S  C  6
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  4
+W  S  3
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,5,2,95,112,52,548,194,94,120,58,59,213,32,71,80,75,48,7,100,33,27,35,18,41,9,33,7,19,9,25,54,31,12,11,20,25,8,13,18,21,23,24,34,26,22,92,61,146,18,14,28,60,11,19,86,76,16,9
+[Auction "W"]
+Pass 1NT =1= X XX =2= 
+2D Pass Pass 2S 
+3D Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: single suit"]
+[Play "N"]
+CK C2 C5 CT 
+S6 SA S2 S4 
+S8 S5 SK D3 
+D4 DQ DK D5 
+DT DA D2 D6 
+SQ ST S3 D7 
+C8 C3 D9 DJ 
+H7 HK H6 H2 
+H3 H4 H8 HJ 
+CA C6 S7 C7 
+HT HQ HA H5 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "25"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J7.AQ9842.AQ2.42 A943.JT5.3.AT865 QT52.K73.KJ54.97 K86.6.T9876.KQJ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "65973659733836a3836a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  7
+N  C  3
+S NT  6
+S  S  5
+S  H  9
+S  D  7
+S  C  3
+E NT  3
+E  S  8
+E  H  3
+E  D  6
+E  C 10
+W NT  3
+W  S  8
+W  H  3
+W  D  6
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,3,6,327,31,107,32,80,30,53,31,130,19,18,21,34,105,16,36,82,23,21,13
+[Auction "N"]
+1H Pass 1S Pass 
+2H Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+D3 D4 D6 DA 
+H5 HK H6 H4 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "25"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J7.AQ9842.AQ2.42 A943.JT5.3.AT865 QT52.K73.KJ54.97 K86.6.T9876.KQJ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "65973659733836a3836a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  7
+N  C  3
+S NT  6
+S  S  5
+S  H  9
+S  D  7
+S  C  3
+E NT  3
+E  S  8
+E  H  3
+E  D  6
+E  C 10
+W NT  3
+W  S  8
+W  H  3
+W  D  6
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,1,2,225,40,267,60,602,30,26,124,11,26,84,34,17,13,20,18,18,20,28,33,18,10,42,38,16,7,18,19,16,8,15,12,26,20
+[Auction "N"]
+1H Pass 2H =1= Pass 
+Pass Pass 
+[Note "1: 8-10 3♡"]
+[Play "E"]
+D3 D4 D6 DA 
+H5 H3 H6 HA 
+HT HK D7 H2 
+HJ H7 C3 HQ 
+C5 D5 D8 DQ 
+S4 DJ D9 D2 
+C6 DK DT C2 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "26"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K83.QT852.983.J3 AQ72.K.KQ654.A98 65.AJ764.7.QT642 JT94.93.AJT2.K75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "21825218258c5b68c5b6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  8
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  8
+S  D  2
+S  C  5
+E NT  8
+E  S 12
+E  H  5
+E  D 11
+E  C  6
+W NT  8
+W  S 12
+W  H  5
+W  D 11
+W  C  6
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 21,3,6,176,117,501,151,251,46,52,43,154,42,18,23,74,79,33,25,42,17,11,28,55,26,12,63,36,17,21,16,14,31,22,21
+[Auction "E"]
+1C 1H 2D =1= 4H 
+5D Pass Pass Pass 
+[Note "1:  * 8+ with d [0:12]"]
+[Play "N"]
+H2 HK HA H3 
+CJ CA C4 C5 
+D3 D4 D7 DA 
+D8 D5 C2 DJ 
+D9 D6 H4 DT 
+SK SA S6 SJ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "26"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K83.QT852.983.J3 AQ72.K.KQ654.A98 65.AJ764.7.QT642 JT94.93.AJT2.K75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "21825218258c5b68c5b6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  8
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  8
+S  D  2
+S  C  5
+E NT  8
+E  S 12
+E  H  5
+E  D 11
+E  C  6
+W NT  8
+W  S 12
+W  H  5
+W  D 11
+W  C  6
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 18,1,2,101,89,39,46,156,206,45,69,38,26,128,63,87,39,203,19,33,9,32,44,10,21,62,19,26,24,42,20,10,19
+[Auction "E"]
+1D Pass 1S Pass 
+2NT =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: 4spades 15+"]
+[Play "N"]
+H5 HK HA H9 
+C3 C8 C4 CK 
+S3 S2 S5 S9 
+S8 S7 S6 ST 
+SK SA C2 S4 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "27"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:64.J986.AJ9.AK72 KT5.AKQ.QT764.93 AQJ87.T7.K85.Q85 932.5432.32.JT64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "aba9aaba8a2234322343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  9
+N  C 10
+S NT 10
+S  S 11
+S  H 10
+S  D  8
+S  C 10
+E NT  2
+E  S  2
+E  H  3
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,1,2,226,71,189,45,283,42,159,23,44,32,137,104,31,28,264,158,38,52,25,19,28,28,249,24,49,25,81,43,24,69,31,23,26,34,508,32,42,18,56,33,20,23,24,15,30,47,25,38,21,21,35,17,16,11,18,17,18,12,23,8,19,9
+[Auction "S"]
+1S Pass 2C Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14 or 17+"]
+[Play "W"]
+H4 H6 HQ H7 
+C4 CK C9 C5 
+S2 S4 S5 SJ 
+D3 DJ DQ D5 
+CT CA C3 C8 
+S9 S6 ST SQ 
+S3 H8 SK SA 
+H2 H9 D4 S8 
+H3 HJ D6 S7 
+C6 C2 HK CQ 
+D2 D9 D7 DK 
+H5 DA DT D8 
+CJ C7 HA HT 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "27"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:64.J986.AJ9.AK72 KT5.AKQ.QT764.93 AQJ87.T7.K85.Q85 932.5432.32.JT64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "aba9aaba8a2234322343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  9
+N  C 10
+S NT 10
+S  S 11
+S  H 10
+S  D  8
+S  C 10
+E NT  2
+E  S  2
+E  H  3
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,3,6,78,54,531,109,238,39,444,21,30,37,295,241,29,25,26,21,21,13,86,23,20,33,1213,64,10,27,22,19,21,12,65,12,40,9,25,11,31,61,24,18,25,10,35,16,17,12,16,20,15,14,10,15,9,26,11,31,9,7,10,9,10,9
+[Auction "S"]
+1S Pass 2C =1= Pass 
+2D =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: bal GF or clubs GF"]
+[Note "2: D or 5332"]
+[Play "E"]
+D6 D5 D3 D9 
+S5 SQ S2 S4 
+HQ HT H3 H6 
+D4 D8 D2 DJ 
+ST SJ S3 S6 
+SK SA S9 H8 
+C3 S8 H2 HJ 
+D7 S7 H4 H9 
+DT DK H5 DA 
+C9 CQ C6 C2 
+HK C5 CT CA 
+DQ C8 C4 CK 
+HA H7 CJ C7 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "28"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K.75.JT76.J87543 AQJT6.T2.AK5.KT2 9872.KQ83.432.A6 543.AJ964.Q98.Q9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2223522235bbba8bbba8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  3
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  5
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C  8
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,1,2,60,60,197,51,266,113,28,87,20,31,160,120,28,10,21,26,21,16,40,31,9,19,13,25,10,15,17,33,16,32,14,34,49,18,30,169,22,20,23,55,302,84,29,19,12,6,33
+[Auction "W"]
+Pass Pass 1S Pass 
+2C =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: 3sp ca 10hp"]
+[Play "S"]
+HQ HA H7 H2 
+S2 S3 SK SA 
+S7 S4 C7 SQ 
+S8 S5 C3 SJ 
+S9 D8 C4 ST 
+H3 H4 H5 HT 
+C6 CQ C5 C2 
+HK HJ C8 CT 
+CA C9 CJ CK 
+D4 -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "28"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K.75.JT76.J87543 AQJT6.T2.AK5.KT2 9872.KQ83.432.A6 543.AJ964.Q98.Q9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2223522235bbba8bbba8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  3
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  5
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C  8
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,3,6,81,48,27,33,134,59,30,25,88,42,128,22,62,42,12,25,261,45,31,11,9,20,26,33,131,36,22,8,63,19,6,11,14,19,7,9,16,17,29,11,28,26,32,10,51,29,8,8,9,30,9,7,15,51,16,15,9,17,7,9,9,14,7,9,9,9,7,8
+[Auction "W"]
+Pass Pass 1C Pass 
+1H =1= Pass 1S Pass 
+2S Pass 3C Pass 
+4S Pass Pass Pass 
+[Note "1: 8+ with H"]
+[Play "S"]
+CA C9 C3 C2 
+C6 CQ C4 CT 
+S2 S3 SK SA 
+S7 S4 C5 SQ 
+S8 S5 C7 SJ 
+S9 H4 C8 ST 
+HK HA H7 HT 
+D2 DQ D7 D5 
+D3 D8 DT DK 
+H8 D9 H5 S6 
+D4 H6 D6 DA 
+H3 H9 CJ CK 
+HQ HJ DJ H2 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "29"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.KQ9.942.Q9753 94.JT3.AQ853.JT6 AQJ653.A752.J.42 872.864.KT76.AK8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6aa686aa683337533375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H 10
+N  D  6
+N  C  8
+S NT  6
+S  S 10
+S  H 10
+S  D  6
+S  C  8
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 8,1,2,100,33,48,31,109,43,84,45,153,35,77,29,90,186,31,22,91,27,32,13,42,17,57,23,90,37,24,23,15,26,10,19,17,28,21,26,15,38,26,10,10
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT =1= Pass 2H Pass 
+2S Pass Pass Pass 
+[Note "1:  * up to 11 F1 [0:12]"]
+[Play "W"]
+S2 SK S4 S5 
+S7 ST S9 SA 
+S8 D2 D3 SQ 
+CK C3 C6 C2 
+D6 D4 DA DJ 
+D7 D9 D5 S3 
+CA C5 CT C4 
+DK -  -  -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "29"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.KQ9.942.Q9753 94.JT3.AQ853.JT6 AQJ653.A752.J.42 872.864.KT76.AK8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6aa686aa683337533375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H 10
+N  D  6
+N  C  8
+S NT  6
+S  S 10
+S  H 10
+S  D  6
+S  C  8
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 8,3,6,69,35,31,40,314,62,85,33,521,26,94,50,23,10,135,108,21,22,32,34,19,17,9,21,17,12,29,10,14,76,20,49,15,14,18,21,15,9
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: 6-12"]
+[Play "W"]
+CA C3 C6 C2 
+H6 H9 HT HA 
+S2 SK S4 S3 
+S7 ST S9 SJ 
+S8 D2 D8 SA 
+CK C5 CT C4 
+D6 D4 DA DJ 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "30"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J9.32.AKJ987.K86 54.KJT975.5.AQT4 A8763.A.QT3.J975 KQT2.Q864.642.32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "873978739756a3655a36"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  3
+N  D  9
+N  C  7
+S NT  8
+S  S  7
+S  H  3
+S  D  9
+S  C  7
+E NT  5
+E  S  6
+E  H 10
+E  D  3
+E  C  6
+W NT  5
+W  S  5
+W  H 10
+W  D  3
+W  C  6
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,3,6,151,72,155,209,35,169,45,57,20,22,33,61,30,22,21,51,22,9,244,22,9,33,18,21,19,17,57,25,16,15,81,22,10,22,21,31,9,10
+[Auction "E"]
+1H 1S 2H 3D 
+4H 5D 5H Pass 
+Pass Pass 
+[Play "S"]
+D3 D2 DK D5 
+DT D4 DA H7 
+HA H4 H2 HT 
+DQ D6 D7 H5 
+SA S2 S9 S4 
+C5 C2 CK CA 
+S3 H6 H3 HK 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "30"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J9.32.AKJ987.K86 54.KJT975.5.AQT4 A8763.A.QT3.J975 KQT2.Q864.642.32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "873978739756a3655a36"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  3
+N  D  9
+N  C  7
+S NT  8
+S  S  7
+S  H  3
+S  D  9
+S  C  7
+E NT  5
+E  S  6
+E  H 10
+E  D  3
+E  C  6
+W NT  5
+W  S  5
+W  H 10
+W  D  3
+W  C  6
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 21,1,2,75,144,296,188,181,160,78,361,100,77,131,25,18,41,61,118,37,41,302,26,16,9,15,14,21,20,35,469,27,18,23,32,12,12,26,16,20,11,71,53,25,23,44,25,16,21,36,19
+[Auction "E"]
+1H 1S 2NT =1= 3D 
+X =2= Pass 4H 5D 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: 7+hp and 4+hearts"]
+[Note "2: single dia"]
+[Play "E"]
+HJ HA H6 H2 
+S5 SA S2 S9 
+S4 S3 SK SJ 
+CQ C5 C3 C6 
+CA C7 C2 C8 
+CT C9 D2 CK 
+H5 S6 SQ DA 
+D5 D3 D4 DK 
+H7 -  -  D7 
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "31"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J632.Q4.AJ74.952 K75.AKJ2.3.KQJ83 AQ8.T9865.KQT.A4 T94.73.98652.T76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2DX"]
+[Result "4"]
+[Score "NS 800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "78785787855565854648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 6,3,6,75,41,141,186,88,433,156,832,459,36,36,82,31,11,22,23,9,22,44,22,10,37,25,36,19,10,41,13,67,10,15,75,215,14,49,18,9,20,14,32,13,16,16,36,39,36,38,36,104,28,11,25,9,8,13,10,13,13,11,13,6,13
+[Auction "S"]
+1H Pass 1S 1NT 
+X =1= 2D X =2= Pass 
+Pass Pass 
+[Note "1:  * we play support x's, undiscussed if applies here [0:24]"]
+[Note "2:  * penalty [0:11]"]
+[Play "N"]
+HQ HA HT H3 
+H4 HK H5 H7 
+D4 HJ H9 S4 
+SJ SK SA S9 
+S2 S5 SQ ST 
+DJ H2 H6 D8 
+S6 S7 S8 D2 
+C2 CK CA C7 
+D7 C3 H8 C6 
+S3 C8 C4 D5 
+C5 CJ DT CT 
+DA D3 DK D6 
+C9 CQ DQ D9 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "31"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J632.Q4.AJ74.952 K75.AKJ2.3.KQJ83 AQ8.T9865.KQT.A4 T94.73.98652.T76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "78785787855565854648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,1,2,366,226,177,70,252,53,143,36,95,21,25,162,23,31,237,37,13,21,36,63,8,33,38,31,18,8,62,18,39,18,316,26,34,752,112,123,54,14,124,21,27,15,298,19,19,13,21,99,12,28,27,17,125,27,15,23,17,25,13,6,16,13
+[Auction "S"]
+1NT =1= Pass 2C =2= X =3= 
+2H =4= Pass 2NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 5cd pupp"]
+[Note "3:  * clubs [0:23]"]
+[Note "4: 5♡ not max"]
+[Play "W"]
+C6 C2 CJ C4 
+H7 H4 HK H6 
+C7 C5 CK CA 
+D2 D4 D3 DK 
+D5 D7 H2 DQ 
+D6 DJ C3 DT 
+D8 DA C8 H5 
+ST S2 S5 SQ 
+H3 HQ HA H8 
+CT C9 CQ H9 
+S4 S3 HJ HT 
+S9 SJ S7 S8 
+D9 S6 SK SA 
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "32"]
+[West "Christine Bradley#96610"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ743.T95.Q4.T97 AT95.QJ8.T7.J863 K86.764.A983.AK4 2.AK32.KJ652.Q52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56444564447689876898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  4
+N  C  4
+S NT  5
+S  S  6
+S  H  4
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,3,6,213,50,34,76,71,72,30,19,75,95,8,15,24,41,13,22,43,45,19,14,105,21,23,18,26,22,93,18,142,39,13,8,61,64,39,16,33,24,80,10,18
+[Auction "W"]
+1D =1= Pass 1S X 
+1NT Pass Pass Pass 
+[Note "1: 11-15 may be 1 d"]
+[Play "N"]
+HT HJ H7 H2 
+D4 DT DA D2 
+DQ D7 D9 DJ 
+CT C3 CK C2 
+S4 S5 D3 DK 
+S3 S9 D8 D5 
+H9 HQ H4 H3 
+C9 C6 CA C5 
+-  -  H6 -  
+*
+
+[Event "12 May Maggs vs Plumley"]
+[Site "RealBridge"]
+[Date "2025.05.12"]
+[Board "32"]
+[West "Rune Hauge#111671"]
+[North "Joanne Norman#404693"]
+[East "Erik Sælensminde#411440"]
+[South "Phil Norman#28789"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ743.T95.Q4.T97 AT95.QJ8.T7.J863 K86.764.A983.AK4 2.AK32.KJ652.Q52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Maggs team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56444564447689876898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  4
+N  C  4
+S NT  5
+S  S  6
+S  H  4
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,2,163,53,47,51,43,56,18,52,115,140,21,13,85,21,20,39,323,37,19,9,16,34,14,13,156,32,18,15,27,83,28,50,29,113,114,32,203,22,14,69,34,36,14,11,25,12,14,7,153
+[Auction "W"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+H9 HQ H6 H3 
+DQ D7 D3 DJ 
+H5 HJ H4 H2 
+D4 DT DA D2 
+HT H8 H7 HA 
+S4 C3 S8 HK 
+S3 S5 D8 DK 
+C7 C6 D9 D6 
+C9 C8 CA C5 
+CT CJ CK C2 
+-  -  C4 -  
+*

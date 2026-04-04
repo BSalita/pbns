@@ -1,0 +1,2092 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "1"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT85.J94.T862.T6 J4.Q87.K7.AKQJ72 Q97.KT2.AQ954.54 K632.A653.J3.983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68695686957564874648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  9
+N  C  5
+S NT  6
+S  S  8
+S  H  6
+S  D  9
+S  C  5
+E NT  7
+E  S  5
+E  H  6
+E  D  4
+E  C  8
+W NT  7
+W  S  4
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,3,312,250,122,227,111,227,241,78,26,350,311,19,28,11,91,76,24,32,83,41,14,25,27,9,7,14,244,10,11,17,115,22,29,40,18,14,75,21,57,14,45,33,19,15,7,14,15,16,12,14,30,12,9,26,23,12,8,9,10
+[Auction "N"]
+Pass 1C =1= 1D X =2= 
+2D X =3= Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: Could be 2 and can have another 5 card suit"]
+[Note "2: 4+♡"]
+[Note "3: 3 hearts and non-min"]
+[Play "S"]
+D4 D3 DT DK 
+C5 C3 CT CA 
+C4 C8 C6 CK 
+H2 C9 S5 CQ 
+HT H3 S8 CJ 
+HK S2 ST C7 
+D5 S3 D8 C2 
+S7 HA H4 H7 
+S9 H5 H9 HQ 
+SQ H6 HJ H8 
+D9 S6 SA S4 
+-  -  D6 D7 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "1"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT85.J94.T862.T6 J4.Q87.K7.AKQJ72 Q97.KT2.AQ954.54 K632.A653.J3.983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68695686957564874648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  9
+N  C  5
+S NT  6
+S  S  8
+S  H  6
+S  D  9
+S  C  5
+E NT  7
+E  S  5
+E  H  6
+E  D  4
+E  C  8
+W NT  7
+W  S  4
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,261,553,252,465,64,48,63,90,42,145,59,48,55,161,296,105,27,105,75,24,36,26,25,30,13,18,43,19,172,24,323,27,105,25,101,46,156,28,52,28,91,34,81,131,41,180,55,54,14,32,22,40,15,32,36,15,17,21,12,15,22,33,21,13,12
+[Auction "N"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2D X 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 15-16"]
+[Note "2: 5c staymt"]
+[Play "S"]
+S7 S2 ST SJ 
+C4 C3 C6 CA 
+C5 C8 CT CK 
+D4 C9 D8 CQ 
+D5 H3 D6 CJ 
+D9 S3 D2 C7 
+S9 H5 S5 C2 
+SQ SK SA S4 
+DQ D3 DT D7 
+DA DJ H4 DK 
+HK HA H9 H7 
+H2 H6 HJ HQ 
+HT S6 S8 H8 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "2"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT7.Q97.AQ652.AQ 43.AJ6.43.T98642 Q52.82.JT987.K75 KJ986.KT543.K.J3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "955a6855a64683746837"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  5
+N  D 10
+N  C  6
+S NT  8
+S  S  5
+S  H  5
+S  D 10
+S  C  6
+E NT  4
+E  S  6
+E  H  8
+E  D  3
+E  C  7
+W NT  4
+W  S  6
+W  H  8
+W  D  3
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 11,0,3,92,47,35,130,148,118,66,222,28,50,23,45,472,14,21,25,22,11,18,30,24,10,24,10,24,24,51,11,35,13,10,348,19,24,60,5,20,19,13,19,21,9,11,109,27,20,7
+[Auction "E"]
+Pass Pass 1S 1NT 
+2C =1= 2D 2H 3D 
+Pass Pass Pass 
+[Note "1: nat nf"]
+[Play "W"]
+CJ CA C2 C5 
+DK DA D3 D7 
+C3 CQ C4 C7 
+H5 D2 D4 DJ 
+H3 S7 C6 CK 
+H4 H7 HJ H2 
+HK H9 H6 H8 
+HT HQ HA D8 
+SK SA S3 SQ 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "2"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT7.Q97.AQ652.AQ 43.AJ6.43.T98642 Q52.82.JT987.K75 KJ986.KT543.K.J3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "955a6855a64683746837"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  5
+N  D 10
+N  C  6
+S NT  8
+S  S  5
+S  H  5
+S  D 10
+S  C  6
+E NT  4
+E  S  6
+E  H  8
+E  D  3
+E  C  7
+W NT  4
+W  S  6
+W  H  8
+W  D  3
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,2,1,148,302,154,51,214,288,115,356,53,34,67,48,195,106,26,556,54,21,18,116,35,15,23,21,19,13,31,31,91,26,17,17,18,21,24,25,16,16,15,26,20,41,28,24,26,29,22,62,29,23,19,20,30
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+CT C5 CJ CA 
+D3 D7 DK DA 
+C2 C7 C3 CQ 
+D4 D8 H5 DQ 
+H6 D9 H3 D2 
+S3 DT S6 D5 
+S4 DJ S8 D6 
+C4 CK S9 H7 
+HJ S2 SJ SA 
+C6 S5 SK ST 
+-  -  H4 H9 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "3"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:76543.T.63.KQ942 J92.AKJ42.KJ4.T3 AK8.Q97.Q952.AJ5 QT.8653.AT87.876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "79459794596488464884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  5
+N  C  9
+S NT  7
+S  S  9
+S  H  4
+S  D  5
+S  C  9
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,278,42,142,87,371,61,56,31,58,20,72,45,16,14,95,18,12,105,27,19,14,21,18,22,14,10,15,16,8,10,23,21,9,9
+[Auction "S"]
+1NT =1= Pass 2H =2= X =3= 
+XX =4= Pass 2S Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: S"]
+[Note "3: hearts"]
+[Note "4: shows 3 S"]
+[Play "E"]
+HK H7 H3 HT 
+HA H9 H8 S3 
+S2 SA ST S4 
+S9 SK SQ S5 
+H2 HQ H5 D3 
+C3 CA C8 C2 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "3"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:76543.T.63.KQ942 J92.AKJ42.KJ4.T3 AK8.Q97.Q952.AJ5 QT.8653.AT87.876"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "79459794596488464884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  5
+N  C  9
+S NT  7
+S  S  9
+S  H  4
+S  D  5
+S  C  9
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,390,85,252,66,103,107,52,65,55,48,52,45,168,80,37,43,34,54,99,25,52,22,13,15,17,71,18,22,26,22,59,40,30,37,24,17,131,47,46,19,19,22,34,21,50,31,28,16,26,34,26,19,61,60,15,23,47,22,20,24,14,10,13,15
+[Auction "S"]
+1NT =1= Pass 2H =2= X 
+2S 3H Pass Pass 
+3S Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: S"]
+[Play "W"]
+H6 HT HK H7 
+D7 D3 D4 D2 
+DA D6 DJ D5 
+D8 S3 DK D9 
+ST S4 S2 SA 
+SQ S5 S9 SK 
+H3 S6 H2 H9 
+C7 C2 C3 CA 
+C6 C4 CT CJ 
+C8 CK SJ C5 
+H5 S7 HA HQ 
+DT CQ H4 DQ 
+H8 C9 HJ S8 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "4"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J84.AKJT75..AQ92 AQ975.Q863.T94.3 KT.942.AK72.J875 632..QJ8653.KT64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "97b5a97b5a2626326273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 11
+N  D  5
+N  C 10
+S NT  9
+S  S  7
+S  H 11
+S  D  5
+S  C 10
+E NT  2
+E  S  6
+E  H  2
+E  D  6
+E  C  3
+W NT  2
+W  S  6
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,196,281,235,76,36,900,106,174,29,31,39,94,103,21,71,75,27,9,9,79,26,8,37,1064,139,32,12,349,21,10,19,368,41,9,10,48,18,18,13,86,27,53,8,14,17,18,23,45,14,96,25,21,18,9,9,18,11,7,11,8,10,12,10
+[Auction "W"]
+2C =1= Pass 2D =2= Pass 
+Pass 3H =3= Pass 4H 
+Pass Pass Pass 
+[Note "1: Either our strongest bid or a weak 2D"]
+[Note "2: nf relay"]
+[Note "3:  * undiscussed [0:26]"]
+[Play "E"]
+DT DK D3 S4 
+D4 DA D5 SJ 
+H3 H2 D6 HA 
+H6 H9 S6 H5 
+C3 C5 C4 CQ 
+H8 H4 S2 HK 
+SA ST S3 S8 
+HQ D2 D8 H7 
+D9 D7 DJ HT 
+S5 CJ CK C2 
+S7 C7 DQ HJ 
+S9 C8 C6 CA 
+SQ SK CT C9 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "4"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J84.AKJT75..AQ92 AQ975.Q863.T94.3 KT.942.AK72.J875 632..QJ8653.KT64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "97b5a97b5a2626326273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 11
+N  D  5
+N  C 10
+S NT  9
+S  S  7
+S  H 11
+S  D  5
+S  C 10
+E NT  2
+E  S  6
+E  H  2
+E  D  6
+E  C  3
+W NT  2
+W  S  6
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,108,59,91,540,108,671,46,63,48,58,162,41,67,114,45,14,27,95,43,16,45,128,93,22,33,32,43,51,28,76,19,16,15,37,17,16,17,69,31,18,26,42,32,27,11,19
+[Auction "W"]
+Pass 1H 1S 3C =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 3c fit"]
+[Play "E"]
+DT DK D3 S4 
+D4 DA D5 S8 
+H3 H2 D6 HK 
+HQ H4 D8 H5 
+C3 C5 CK CA 
+H6 H9 S6 HA 
+H8 D2 S2 HJ 
+S5 D7 DJ HT 
+SA ST S3 SJ 
+D9 -  -  -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "5"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT654.Q54.98.AT7 .AK98.KJT74.Q854 83.T763.52.KJ632 AKJ972.J2.AQ63.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "43305433059aac89aac7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  0
+N  C  5
+S NT  4
+S  S  3
+S  H  3
+S  D  0
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D 12
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D 12
+W  C  7
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,0,3,73,126,55,124,63,68,40,101,24,185,101,369,28,17,23,15,222,22,28,36,22,11,15,19,23,22,12,18,9,11,20,12,28,9,65,13,43,14,20,11,13,8,25,36,41,9,7,15,21,10,6,15,15,9,12,16,21,8
+[Auction "N"]
+Pass 1D =1= Pass 1S =2= 
+Pass 1NT =3= Pass 2C =4= 
+Pass 2H =5= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 3+, usually unbalanced"]
+[Note "2: artificial, 11+"]
+[Note "3: 3 suited"]
+[Note "4: enquiry"]
+[Note "5: short spade 0 or 1"]
+[Play "S"]
+S8 SA S4 C4 
+D5 DA D9 D4 
+S3 SK S5 H8 
+D2 DQ D8 D7 
+C2 D3 S6 DK 
+H6 D6 ST DJ 
+H3 S2 H4 DT 
+H7 H2 H5 HA 
+HT HJ HQ HK 
+C3 S7 C7 H9 
+C6 C9 -  C5 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "5"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT654.Q54.98.AT7 .AK98.KJT74.Q854 83.T763.52.KJ632 AKJ972.J2.AQ63.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "43305433059aac89aac7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  0
+N  C  5
+S NT  4
+S  S  3
+S  H  3
+S  D  0
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D 12
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D 12
+W  C  7
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 26,2,1,172,240,121,53,63,76,151,68,54,48,59,1393,49,302,487,48,46,70,45,50,516,24,31,248,60,22,26,42,42,17,31,28,28,20,32,27,22,21,38,49,42,37,17,19,33,27,22,65,35,20,18,54,27,25,49,39,113,26,22,113,38,35,20,23,15,18,81,19,24,12,13
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+Pass 2C Pass 2H =2= 
+Pass 3H Pass 4D 
+Pass 5NT =3= Pass 6D 
+Pass Pass Pass 
+[Note "1: 11-16 1+D"]
+[Note "2:  * 4th sut [0:39]"]
+[Note "3: 2 A val + void"]
+[Play "S"]
+D2 D3 D8 DT 
+D5 DQ D9 D7 
+S3 SA S5 C4 
+S8 SK S6 C5 
+C2 S2 S4 DJ 
+H3 H2 H4 HA 
+H6 HJ H5 HK 
+H7 D6 HQ H8 
+C3 SJ SQ D4 
+CK C9 C7 CQ 
+C6 DA CT C8 
+CJ S9 ST DK 
+HT S7 CA H9 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "6"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ53.3.KQT.K7543 987.K974.AJ2.962 A2.QT862.9765.AJ QT64.AJ5.843.QT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "78899788895554455544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  7
+S  S  8
+S  H  8
+S  D  8
+S  C  9
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  4
+W NT  5
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,3,62,465,26,94,20,52,27,58,22,40,27,213,27,97,35,44,30,21,14,396,14,15,12,332,27,10,35,118,428,68,16,17,21,8,10,148,18,20,36,54,11,11,24,12,15,9,30
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+DJ D5 D8 DK 
+DA D6 D3 DQ 
+D2 D7 D4 DT 
+C6 CJ CQ C3 
+S8 SA S6 S3 
+C9 CA C8 C4 
+H4 D9 CT S5 
+S7 S2 S4 SK 
+C2 H2 H5 CK 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "6"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ53.3.KQT.K7543 987.K974.AJ2.962 A2.QT862.9765.AJ QT64.AJ5.843.QT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "78899788895554455544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  7
+S  S  8
+S  H  8
+S  D  8
+S  C  9
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  4
+W NT  5
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,2,1,142,209,45,79,53,122,74,242,56,93,34,196,70,53,30,111,53,14,28,65,53,21,47,262,42,12,53,131,23,15,19,94,94,170,22,84,36,18,12,15,12,15,14,19,21,21,24
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2D Pass 2NT 
+Pass Pass Pass 
+[Play "E"]
+DA D5 D8 DT 
+DJ D6 D3 DK 
+C6 CJ CQ C3 
+D2 D7 D4 DQ 
+C2 CA C8 C4 
+C9 D9 CT H3 
+S8 SA S4 S3 
+S7 S2 S6 SK 
+H4 H2 ST CK 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "7"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T.QJT9.J97643.T2 Q8543.853.T8.A43 K76.A742.A2.Q876 AJ92.K6.KQ5.KJ95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "22773327749b6699b669"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  7
+N  C  3
+S NT  3
+S  S  2
+S  H  7
+S  D  7
+S  C  4
+E NT  9
+E  S 11
+E  H  6
+E  D  6
+E  C  9
+W NT  9
+W  S 11
+W  H  6
+W  D  6
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 13,0,3,216,61,254,183,41,432,167,153,44,24,20,13,70,100,65,36,37,68,25,11,27,375,21,10,10,22,12,18,34,74,21,39,12,11,25,35,27,63,19,12,9,34,28,11,18,121,30,13,24,21,34
+[Auction "S"]
+1C =1= 1NT Pass 2H =2= 
+Pass 3C =3= Pass 3H =4= 
+Pass 3S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: spades"]
+[Note "3: 4♠ and a ♣ suit"]
+[Note "4: retransfer"]
+[Play "N"]
+D4 D8 DA D5 
+HQ H3 H4 HK 
+D3 DT D2 DK 
+D6 C3 S6 DQ 
+HJ H5 HA H6 
+H9 H8 H2 S2 
+ST S3 S7 SA 
+D7 S4 SK SJ 
+CT CA C6 C5 
+-  SQ H7 -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "7"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T.QJT9.J97643.T2 Q8543.853.T8.A43 K76.A742.A2.Q876 AJ92.K6.KQ5.KJ95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "22773327749b6699b669"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  7
+N  C  3
+S NT  3
+S  S  2
+S  H  7
+S  D  7
+S  C  4
+E NT  9
+E  S 11
+E  H  6
+E  D  6
+E  C  9
+W NT  9
+W  S 11
+W  H  6
+W  D  6
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,2,1,298,359,70,144,84,213,72,311,78,52,57,361,150,163,37,326,34,22,26,28,23,26,41,71,85,15,19,69,52,20,71,175,35,16,21,21,23,33,18,22,19,21,28,32,24,22,22,81
+[Auction "S"]
+1C =1= 1NT =2= Pass 2H =3= 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 15 to 18"]
+[Note "3: S"]
+[Play "N"]
+HQ H3 H2 HK 
+C2 CA C6 C5 
+ST S3 S6 SJ 
+D7 S4 S7 SA 
+D4 S5 SK S9 
+D3 D8 DA D5 
+H9 H5 HA H6 
+HT H8 H4 C9 
+HJ C3 H7 CJ 
+CT -  -  -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "8"]
+[West "Denis Murphy#118132"]
+[North "Ian Morris#67654"]
+[East "Pearl MURPHY#40817"]
+[South "Roger Sweet#401340"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT98.T43.KT5.T97 A.Q8.42.KQ865432 Q754.AJ965.73.AJ J632.K72.AQJ986."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "68634696346459944599"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  3
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C  4
+E NT  6
+E  S  4
+E  H  5
+E  D  9
+E  C  9
+W NT  4
+W  S  4
+W  H  5
+W  D  9
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,0,3,230,35,322,78,90,66,269,47,89,30,205,35,262,22,147,24,628,189,46,55,77,29,13,8,36,45,27,17,35,17,36,7,60,11,24,8,181,53,26,11,40,18,25,13,32,24,20,22,83,106,13,12,121,18,21,39,17,16,11,11,68,18,18,17,9,15,10,10
+[Auction "W"]
+1D =1= Pass 1S =2= Pass 
+1NT =3= Pass 2C =4= Pass 
+2S =5= Pass 2NT Pass 
+3D Pass Pass Pass 
+[Note "1: unbalanced 3+"]
+[Note "2: artificial 11+ forcing"]
+[Note "3: 3 suited"]
+[Note "4: asks where the shortage is"]
+[Note "5: short ♣"]
+[Play "N"]
+D5 D2 D3 D6 
+ST SA S7 S2 
+C7 CK CA D8 
+S8 D4 S4 S3 
+C9 CQ CJ S6 
+CT C2 H5 D9 
+H3 HQ HA H2 
+H4 H8 H6 HK 
+SK C3 S5 SJ 
+S9 C4 SQ DJ 
+HT C5 HJ H7 
+DK C6 H9 DQ 
+DT C8 D7 DA 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "8"]
+[West "Jette Bailey#93965"]
+[North "Ian Johns#406067"]
+[East "Alan Bailey#81112"]
+[South "Bob Brown#404707"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT98.T43.KT5.T97 A.Q8.42.KQ865432 Q754.AJ965.73.AJ J632.K72.AQJ986."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "68634696346459944599"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  3
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C  4
+E NT  6
+E  S  4
+E  H  5
+E  D  9
+E  C  9
+W NT  4
+W  S  4
+W  H  5
+W  D  9
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,2,1,276,54,149,187,40,41,117,364,46,19,104,32,28,15,26,227,37,12,69,27,101,20,35,27,20,14,82,28,39,18,23,60,19,14
+[Auction "W"]
+1D =1= Pass 5C Pass 
+Pass Pass 
+[Note "1:  * 1+d [0:26]"]
+[Play "S"]
+D3 DJ DK D4 
+S4 S2 ST SA 
+CJ D6 C7 CQ 
+CA D8 C9 C8 
+HA H2 H4 H8 
+S5 S3 SK C2 
+D7 S6 CT CK 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "9"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q98.AQ.AT85.J853 A64.KT832.J97.Q7 J5.J654.KQ6.T964 KT732.97.432.AK2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65577655777776677766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  7
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 2,1,3,402,99,178,59,104,202,133,45,14,22,36,10,15,20,12,8,11,32,28,35,15,28,53,13,17,92,10,38,9,19,12,24,10,39,16,13,22,80,27,8,13,9,32,14,18,11,12,8,30,29,15,33,10,14,9,11,11
+[Auction "N"]
+1D =1= 1H Pass Pass 
+Pass 
+[Note "1: 11-16 1+D"]
+[Play "S"]
+CT C2 C8 CQ 
+C4 CK C3 C7 
+C6 CA C5 D7 
+H4 H7 HQ HK 
+H5 H9 HA H2 
+D6 D2 DA D9 
+DQ D3 D5 DJ 
+DK D4 D8 H3 
+S5 S2 S8 SA 
+SJ SK S9 S4 
+C9 S3 SQ S6 
+HJ S7 CJ H8 
+H6 ST DT HT 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "9"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q98.AQ.AT85.J853 A64.KT832.J97.Q7 J5.J654.KQ6.T964 KT732.97.432.AK2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65577655777776677766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  7
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 8,2,0,573,91,216,118,75,41,158,68,84,87,118,44,9,257,82,28,13,320,41,7,29,11,24,38,33,185,36,13,33,10,26,9,37,14,24,33,23,28,47,15,72,22,12,62,9,15,18,42,8,35
+[Auction "N"]
+1C =1= Pass 1D =2= 1S 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: h"]
+[Play "N"]
+HA H2 H6 H7 
+HQ HK H4 H9 
+S8 SA S5 S2 
+S9 S4 SJ SK 
+C3 CQ C4 C2 
+C5 C7 C6 CA 
+C8 D7 C9 CK 
+D5 D9 DQ D2 
+DA DJ D6 D3 
+SQ S6 H5 S3 
+CJ -  -  -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "10"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:9.J96.AQ8763.K64 A52.A3.J9.AT9875 K874.Q875.542.Q2 QJT63.KT42.KT.J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "74784747845964869658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  8
+N  C  4
+S NT  7
+S  S  4
+S  H  7
+S  D  8
+S  C  4
+E NT  5
+E  S  9
+E  H  6
+E  D  4
+E  C  8
+W NT  6
+W  S  9
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,1,3,149,115,204,291,130,142,36,57,39,87,27,49,13,34,39,220,44,29,284,45,10,42,23,30,19,29,47,29,21,16,32,20,26,13,21,16,28,9,332,26,41,33,41,43,23,21,33,43,9,14,14,27,39,19,19,27,303,28,18,20,9,32,15,39,16,9
+[Auction "E"]
+1C =1= Pass 1NT =2= 2D 
+Pass Pass 2S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 6-10 5-4 in MM. either way"]
+[Play "N"]
+C4 CA C2 C3 
+H6 H3 H5 HK 
+S9 S2 SK SQ 
+C6 C5 CQ CJ 
+DQ D9 D4 DT 
+DA DJ D2 DK 
+D8 C7 D5 S3 
+D3 S5 S4 SJ 
+D6 SA S7 S6 
+CK C8 H7 ST 
+H9 HA H8 H2 
+D7 C9 S8 H4 
+HJ CT HQ HT 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "10"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:9.J96.AQ8763.K64 A52.A3.J9.AT9875 K874.Q875.542.Q2 QJT63.KT42.KT.J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "74784747845964869658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  8
+N  C  4
+S NT  7
+S  S  4
+S  H  7
+S  D  8
+S  C  4
+E NT  5
+E  S  9
+E  H  6
+E  D  4
+E  C  8
+W NT  6
+W  S  9
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,141,82,299,161,261,809,60,52,80,92,238,93,17,74,611,92,27,13,124,28,13,9,47,36,14,27,33,26,21,22,20,23,19,24,18,27,9,16,19,25,20,43,92,25,261,32,22,24,11,18,156,29,10,224,30,14,29,11,16,24,9,13,11,17,9,15
+[Auction "E"]
+1C =1= Pass 1H =2= 2D 
+X =3= Pass 2H Pass 
+3C 3D 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: spades 4+"]
+[Note "3: 3S"]
+[Play "N"]
+DA D9 D5 DT 
+DQ DJ D2 DK 
+H6 HA H5 H2 
+H9 H3 H7 HK 
+HJ S2 H8 H4 
+C6 CA C2 C3 
+C4 C5 CQ CJ 
+S9 SA HQ HT 
+D3 S5 S4 SQ 
+D6 C7 SK ST 
+D7 C8 D4 S3 
+D8 C9 S7 SJ 
+CK CT S8 S6 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "11"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T97.A974.J.A7654 5.T65.97652.Q982 KQJ63.KQ8.Q84.T3 A842.J32.AKT3.KJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "79748797484359543595"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D  4
+S  C  8
+E NT  4
+E  S  3
+E  H  5
+E  D  9
+E  C  5
+W NT  4
+W  S  3
+W  H  5
+W  D  9
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,1,3,162,141,318,368,142,84,53,43,50,17,47,23,37,23,28,137,9,30,29,35,8,213,25,16,22,11,41,24,17,11,18,27,26,9,311,19,43,18,20,22,14,18,110,21,33,11,25,13,12,27,16,38,13,13,29
+[Auction "S"]
+1S 1NT =1= X XX =2= 
+Pass 2C =3= Pass 2D 
+Pass Pass 2S Pass 
+Pass Pass 
+[Note "1:  * 15-18 [0:59]"]
+[Note "2: asks for p to bid 2C, start of escape into 5+ card suit"]
+[Note "3: forced"]
+[Play "W"]
+DK DJ D7 D4 
+S2 S7 S5 SJ 
+D3 ST D2 D8 
+H3 H4 H5 HQ 
+DA S9 D5 DQ 
+H2 H7 H6 HK 
+S4 C4 D6 SK 
+HJ HA HT H8 
+S8 H9 C2 C3 
+SA C5 D9 S3 
+DT -  -  -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "11"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T97.A974.J.A7654 5.T65.97652.Q982 KQJ63.KQ8.Q84.T3 A842.J32.AKT3.KJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "79748797484359543595"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D  4
+S  C  8
+E NT  4
+E  S  3
+E  H  5
+E  D  9
+E  C  5
+W NT  4
+W  S  3
+W  H  5
+W  D  9
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,0,141,45,113,27,36,578,47,169,29,23,89,91,13,34,38,11,24,22,13,19,13,7,26,77,24,7,26,19,30,20,66,23,47,13,20,56,20,32,17,51,9,21,17,26,26,10,17,14,12,18,21,20,15,7,8,19,8,12
+[Auction "S"]
+1S 1NT 2S Pass 
+Pass Pass 
+[Play "W"]
+DA DJ D2 D4 
+S2 S7 S5 SJ 
+D3 S9 D5 D8 
+H2 H4 H5 HK 
+DK ST D6 DQ 
+HJ H7 H6 HQ 
+H3 HA HT H8 
+S4 H9 C2 C3 
+DT C4 D7 S3 
+CJ CA C8 CT 
+CK C5 C9 S6 
+SA C6 D9 SQ 
+S8 C7 CQ SK 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "12"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J854.K63.A9.9743 KT97.AQ.Q876.A86 AQ.JT82.KT52.QJ5 632.9754.J43.KT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66867667676657666565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,40,60,80,107,45,54,59,145,47,18,187,54,12,38,26,17,95,22,189,38,10,34,18,28,24,17,75,12,34,8,14,13,31,12,25,15,33,80,240,13,36,11
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "S"]
+HJ H4 H3 HQ 
+SQ S2 S4 S9 
+H2 H5 H6 HA 
+SA S3 S5 ST 
+H8 H9 HK C6 
+D2 D3 DA D6 
+DK D4 D9 D7 
+HT H7 C4 S7 
+D5 DJ S8 D8 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "12"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J854.K63.A9.9743 KT97.AQ.Q876.A86 AQ.JT82.KT52.QJ5 632.9754.J43.KT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66867667676657666565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,50,59,126,91,25,40,135,216,120,23,245,126,15,31,18,16,198,20,158,43,17,27,20,21,19,24,503,18,141,16,60,34,28,27,73,14,42,30,58,32,25,59,29,25,19,18,28,21,9,26
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15/17"]
+[Play "S"]
+HT H4 H3 HQ 
+SQ S2 S4 S9 
+H2 H5 HK HA 
+CJ CK C3 C6 
+SA S3 S5 ST 
+D2 D3 DA D6 
+DK D4 D9 D7 
+D5 DJ H6 D8 
+H8 S6 S8 SK 
+DT H7 C4 DQ 
+C5 C2 C7 CA 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "13"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT53.KQ64.T92.J J92.83.AK874.KQ2 K8.AT972.6.T8765 764.J5.QJ53.A943"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4ab474ab473218532185"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H 11
+N  D  4
+N  C  7
+S NT  4
+S  S 10
+S  H 11
+S  D  4
+S  C  7
+E NT  3
+E  S  2
+E  H  1
+E  D  8
+E  C  5
+W NT  3
+W  S  2
+W  H  1
+W  D  8
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,173,71,95,32,81,18,70,19,45,85,31,85,15,26,401,41,11,14,101,31,102,27,338,24,26,10,30,26,35,12,48,15,18,21,21,17,14,10,23,12,18,9
+[Auction "N"]
+1S 2D X 3D 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+DK D6 D3 D9 
+CK C5 C3 CJ 
+CQ C6 CA H4 
+H3 H2 H5 HK 
+H8 H7 HJ HQ 
+S9 SK S6 S3 
+S2 S8 S7 SA 
+SJ C7 S4 SQ 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "13"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT53.KQ64.T92.J J92.83.AK874.KQ2 K8.AT972.6.T8765 764.J5.QJ53.A943"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4ab474ab473218532185"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H 11
+N  D  4
+N  C  7
+S NT  4
+S  S 10
+S  H 11
+S  D  4
+S  C  7
+E NT  3
+E  S  2
+E  H  1
+E  D  8
+E  C  5
+W NT  3
+W  S  2
+W  H  1
+W  D  8
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,0,167,31,223,131,96,27,62,38,40,25,38,57,121,46,1373,127,51,60,22,32,43,32,35,29,23,8,143,107,18,13,33,27,20,13,25,8,257,18,32,15,11,24
+[Auction "N"]
+1S 2D X 3D 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+DK D6 D3 D9 
+H3 H2 H5 H6 
+D4 H7 D5 D2 
+H8 H9 HJ HK 
+D7 HT DJ DT 
+S2 SK S4 S3 
+S9 S8 S6 SQ 
+SJ C5 S7 SA 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "14"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AK3.9654.K9.A962 842.QJT.QT32.Q74 QT975.A7.876.JT5 J6.K832.AJ54.K83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "8a7698a7694367343674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  7
+N  D  6
+N  C  9
+S NT  8
+S  S 10
+S  H  7
+S  D  6
+S  C  9
+E NT  4
+E  S  3
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 8,1,3,61,176,155,136,275,175,32,770,35,68,164,25,32,141,156,31,40,107,22,24,19,19,23,62,10,75,9,16,34,12,25,180,21,151,25,19,38,16,62,18,34,24,25,25,9,71,10,20,13
+[Auction "E"]
+Pass Pass 1C =1= X 
+1S =2= 2S Pass Pass 
+Pass 
+[Note "1: 2+ can have a 5c suit elsewhere"]
+[Note "2: No 4 card major"]
+[Play "W"]
+C3 C2 CQ C5 
+SJ SK S2 S7 
+S6 S3 S4 S9 
+D4 DK D2 D6 
+D5 D9 DQ D7 
+DJ SA S8 S5 
+H2 H5 HT HA 
+C8 H4 D3 SQ 
+CK CA C4 CJ 
+H3 C6 C7 CT 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "14"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AK3.9654.K9.A962 842.QJT.QT32.Q74 QT975.A7.876.JT5 J6.K832.AJ54.K83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "8a7698a7694367343674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  7
+N  D  6
+N  C  9
+S NT  8
+S  S 10
+S  H  7
+S  D  6
+S  C  9
+E NT  4
+E  S  3
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 8,2,0,46,58,27,88,135,227,166,54,29,143,210,23,18,64,15,21,10,19,37,13,23,106,61,22,19,93,57,12,25,379,41,12,27,114,24,25,11,21,18,33,10,58,17,28,21,134,29,24,15,79,24,22,8,33,6,15,18,32,11,13,10
+[Auction "E"]
+Pass Pass 1D X 
+2D 2S Pass Pass 
+Pass 
+[Play "W"]
+D5 DK D3 D6 
+D4 D9 DQ D7 
+H3 H4 HQ HA 
+C3 C2 CQ CJ 
+H2 H5 HJ H7 
+H8 H6 HT S9 
+S6 SA S2 S5 
+SJ SK S4 S7 
+HK H9 S8 ST 
+C8 C6 C7 CT 
+CK CA C4 C5 
+DJ C9 D2 D8 
+DA S3 DT SQ 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "15"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT.A4.AQJ7.AJ873 J53.Q32.K962.QT5 642.KJ765.4.K642 KQ987.T98.T853.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "99b8c99b8c2414124141"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  8
+N  C 12
+S NT  9
+S  S  9
+S  H 11
+S  D  8
+S  C 12
+E NT  2
+E  S  4
+E  H  1
+E  D  4
+E  C  1
+W NT  2
+W  S  4
+W  H  1
+W  D  4
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 20,1,3,703,63,295,32,84,38,659,42,467,45,223,28,144,30,155,37,447,250,29,30,86,13,26,16,33,16,38,22,29,9,20,10,46,10,33,21,27,21,24,9,56,20,17,10,25,37,20,18,52,17,26,440,17,36,32,57,61,8,17,18,16,17,11,9,34,9,11,8
+[Auction "S"]
+2H =1= Pass 2NT =2= Pass 
+3C Pass 4C =3= Pass 
+4D Pass 4H Pass 
+5C Pass Pass Pass 
+[Note "1: 5h 4+m 5 to 10"]
+[Note "2: forcing"]
+[Note "3: RKCB"]
+[Play "W"]
+SK SA S5 S2 
+C9 C3 CT CK 
+S7 CA C5 C2 
+H9 HA H2 H5 
+H8 H4 H3 HK 
+HT C7 HQ H6 
+D3 DA D2 D4 
+D5 D7 D9 C4 
+D8 ST CQ HJ 
+SQ C8 SJ S4 
+DT DJ D6 C6 
+S9 DQ DK H7 
+S8 CJ S3 S6 
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "15"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT.A4.AQJ7.AJ873 J53.Q32.K962.QT5 642.KJ765.4.K642 KQ987.T98.T853.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "99b8c99b8c2414124141"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  8
+N  C 12
+S NT  9
+S  S  9
+S  H 11
+S  D  8
+S  C 12
+E NT  2
+E  S  4
+E  H  1
+E  D  4
+E  C  1
+W NT  2
+W  S  4
+W  H  1
+W  D  4
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,2,0,108,775,437,282,500,48,47,22,181,535,29,57,85,16,164,45,639,21,15,11,82,19,25,99,67,23,16,23,40,20,106,24,13,22,11,32,22,32,10,12,9,48,11,19,57
+[Auction "S"]
+Pass 2S =1= 2NT 3S 
+3NT Pass Pass Pass 
+[Note "1: 5xS + 4+minor 5-9 pts"]
+[Play "E"]
+S3 S2 SQ ST 
+S5 S4 S7 SA 
+C5 C2 C9 CA 
+CT CK D5 C7 
+DK D4 D3 DQ 
+CQ C4 D8 C3 
+SJ S6 SK D7 
+D2 H5 S9 H4 
+D6 H6 S8 C8 
+-  -  DT -  
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "16"]
+[West "Denis Murphy#118132"]
+[North "Alan Bailey#81112"]
+[East "Pearl MURPHY#40817"]
+[South "Jette Bailey#93965"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT93.AQT75.92.J7 4.K942.863.AKT82 Q762.8.AKQJT7.94 AK85.J63.54.Q653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "69674696746474864748"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  4
+E  H  7
+E  D  4
+E  C  8
+W NT  6
+W  S  4
+W  H  7
+W  D  4
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 6,1,3,48,47,43,164,58,167,112,79,159,130,276,61,80,28,22,35,32,49,29,301,35,14,27,55,36,11,32,38,25,14,8,26,25,17,9,45,61,29,9
+[Auction "W"]
+Pass Pass Pass 1D =1= 
+X XX =2= 2C 2D 
+Pass Pass Pass 
+[Note "1: 1+d"]
+[Note "2: H"]
+[Play "W"]
+C5 C7 CK C4 
+SK S3 S4 S2 
+C3 CJ CA C9 
+D4 D2 D3 DA 
+D5 D9 D6 DK 
+S5 H5 D8 DQ 
+SA S9 H2 S6 
+*
+
+[Event "16 Apr Morris vs Murphy"]
+[Site "RealBridge"]
+[Date "2024.05.16"]
+[Board "16"]
+[West "Roger Sweet#401340"]
+[North "Ian Johns#406067"]
+[East "Ian Morris#67654"]
+[South "Bob Brown#404707"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT93.AQT75.92.J7 4.K942.863.AKT82 Q762.8.AKQJT7.94 AK85.J63.54.Q653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Murphy team"]
+[VisitTeam "Morris team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "69674696746474864748"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  7
+S  C  4
+E NT  6
+E  S  4
+E  H  7
+E  D  4
+E  C  8
+W NT  6
+W  S  4
+W  H  7
+W  D  4
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,168,341,309,580,44,104,103,394,81,704,87,71,99,153,24,55,26,12,21,11,24,18,13,22,28,24,11,31,85,31,36,143,28,171,22,10,32,37,14
+[Auction "W"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H =3= Pass 2S 
+Pass Pass Pass 
+[Note "1: weak 45+MM or GF"]
+[Note "2:  * relay [0:22]"]
+[Note "3:  * weak , longer H [1:03]"]
+[Play "W"]
+C5 C7 CK C4 
+C3 CJ CA C9 
+D5 D2 D3 DA 
+S5 S9 S4 S2 
+SK S3 D8 SQ 
+SA ST C2 S6 
+S8 SJ H2 S7 
+*

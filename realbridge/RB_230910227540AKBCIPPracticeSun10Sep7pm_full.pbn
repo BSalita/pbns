@@ -1,0 +1,1056 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "1"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A2.65.KJT62.AK92 KQJ53.A8742.A.63 T74.9.Q9873.T754 986.KQJT3.54.QJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "333a8333a869a3369a34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D 10
+N  C  8
+S NT  3
+S  S  3
+S  H  3
+S  D 10
+S  C  8
+E NT  6
+E  S  9
+E  H 10
+E  D  3
+E  C  3
+W NT  6
+W  S  9
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,2,1,220,180,277,192,421,38,24,85,59,32,30,38,26,10,21,15,12,15,20,48,74,18,47,22,17,18,7,87,13,15,7
+[Auction "N"]
+1D 2NT =1= 5D 5H 
+Pass Pass Pass 
+[Play "N"]
+D2 DA D3 D4 
+H6 H2 H9 HK 
+H5 H4 D7 HQ 
+SA S3 S7 S6 
+CA C3 C7 CQ 
+CK C6 C4 C8 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "1"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A2.65.KJT62.AK92 KQJ53.A8742.A.63 T74.9.Q9873.T754 986.KQJT3.54.QJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "333a8333a869a3369a34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D 10
+N  C  8
+S NT  3
+S  S  3
+S  H  3
+S  D 10
+S  C  8
+E NT  6
+E  S  9
+E  H 10
+E  D  3
+E  C  3
+W NT  6
+W  S  9
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,774,46,215,168,182,15,31,84,73,41,14,27,45,12,4,206,187,38,10,8,25,6,36,8,18,7,16,7,44,10,9,78,30,9,5,6,22,4,25
+[Auction "N"]
+1D 2D Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+CK C3 C7 C8 
+CA C6 C5 CJ 
+C2 HA C4 CQ 
+H5 H2 H9 HT 
+H6 H4 D3 HK 
+SA S3 S4 S6 
+D2 DA D7 D4 
+S2 SK S7 S8 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "2"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J4.95.KJT963.987 95.AQ63.Q.AKJT62 KQT87.KJT82.A75. A632.74.842.Q543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "588b4588b47342973429"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D 11
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D 11
+S  C  4
+E NT  7
+E  S  3
+E  H  4
+E  D  2
+E  C  9
+W NT  7
+W  S  3
+W  H  4
+W  D  2
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 15,2,1,157,127,62,243,203,151,14,31,104,306,64,25,78,10,21,48,60,150,21,23,42,96,16,22,18,65,11,21,21,41,10,7,187,168,23,171,56,23,36,47,200,28,9,12,9,25,17,7,26,25,8,9
+[Auction "E"]
+1C 2C 3C Pass 
+4C Pass Pass Pass 
+[Play "S"]
+SK SA S4 S9 
+H2 C3 C7 CA 
+S7 C4 C8 CK 
+D5 CQ C9 C2 
+DA D2 D9 DQ 
+SQ S2 SJ S5 
+S8 S3 H9 H3 
+ST S6 D3 C6 
+H8 H4 H5 HA 
+HT H7 D6 H6 
+D7 D4 DT CT 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "2"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J4.95.KJT963.987 95.AQ63.Q.AKJT62 KQT87.KJT82.A75. A632.74.842.Q543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "588b4588b47342973429"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D 11
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D 11
+S  C  4
+E NT  7
+E  S  3
+E  H  4
+E  D  2
+E  C  9
+W NT  7
+W  S  3
+W  H  4
+W  D  2
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,51,146,475,233,236,42,227,42,12,303,33,141,34,15,65,19,13,26,24,46,40,19,406,36,39,25,302,52,26,28,17,32,20,24,41,26,13,21,13,20,11,187,15,58,25,17,23,42,16,5
+[Auction "E"]
+1C =1= 2NT =2= X 3H 
+X 4H X Pass 
+Pass Pass 
+[Play "E"]
+CK H2 C3 C7 
+DQ D5 D4 DK 
+H3 H8 H4 H5 
+S5 S7 SA S4 
+H6 DA D2 D3 
+CA HT C4 C8 
+S9 SK S2 SJ 
+HQ SQ S3 C9 
+CJ S8 C5 H9 
+HA D7 D8 DJ 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "3"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:983.6.AK87632.J6 Q7654.8742.QJT.9 AKJ2.Q5.95.AT842 T.AKJT93.4.KQ753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "683a7683a865a2565a25"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D 10
+N  C  7
+S NT  6
+S  S  8
+S  H  3
+S  D 10
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  2
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  2
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,140,313,369,53,33,55,48,33,20,20,13,33,16,24,38,16,7,11,32,21,10,18,36,7,10,7,28,5,8,8,21,9,13
+[Auction "S"]
+1C 4H Pass Pass 
+Pass 
+[Play "N"]
+CJ C9 CA C3 
+S3 S4 SK ST 
+S8 S5 SA H9 
+H6 H2 H5 HA 
+D2 H4 HQ HK 
+C6 H7 C2 C5 
+S9 SQ S2 D4 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "3"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:983.6.AK87632.J6 Q7654.8742.QJT.9 AKJ2.Q5.95.AT842 T.AKJT93.4.KQ753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "683a7683a865a2565a25"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D 10
+N  C  7
+S NT  6
+S  S  8
+S  H  3
+S  D 10
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  2
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  2
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 21,2,1,184,126,133,86,416,241,42,123,42,19,27,59,226,11,14,32,18,32,9,12,27,10,17,77,29,16,11,44,54,9,8,40,26,11,9,116,40,9,25,32,66,20,22,49,32,16,11,45,17,31,8,23,8,7,26,13,10,11,6,11,11,10,4
+[Auction "S"]
+1C 1H 3D Pass 
+4D 4H 5D X 
+Pass Pass Pass 
+[Play "E"]
+C9 CA C3 C6 
+DQ D5 D4 DK 
+DJ D9 H3 DA 
+S4 SJ ST S9 
+S5 SK C5 S3 
+S6 SA H9 S8 
+S7 S2 C7 H6 
+H2 H5 HT D2 
+DT HQ HJ D3 
+SQ C2 HK D6 
+H4 C4 HA D7 
+H7 C8 CQ D8 
+H8 CT CK CJ 
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "4"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q965.3.KT4.A9873 JT73.A97.Q982.65 42.KQ862.5.KQJT4 AK8.JT54.AJ763.2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "66759667596768467684"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  5
+N  C  9
+S NT  6
+S  S  6
+S  H  7
+S  D  5
+S  C  9
+E NT  6
+E  S  7
+E  H  6
+E  D  8
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,229,244,44,140,96,84,16,41,52,40,44,51,10,63,26,8,18,173,22,23,14,14,22,7,25,49,10,11,6,44,5,20,12,48,12,10,4,20,10,9,4
+[Auction "W"]
+1D =1= Pass 1H =2= 2C 
+2H 3C Pass Pass 
+Pass 
+[Play "W"]
+SA S5 S3 S2 
+H4 H3 HA H2 
+DA D4 D2 D5 
+D3 DK D8 S4 
+C2 CA C6 C4 
+H5 C3 C5 CK 
+HT S6 H7 HK 
+HJ S9 H9 HQ 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "4"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q965.3.KT4.A9873 JT73.A97.Q982.65 42.KQ862.5.KQJT4 AK8.JT54.AJ763.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "66759667596768467684"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  5
+N  C  9
+S NT  6
+S  S  6
+S  H  7
+S  D  5
+S  C  9
+E NT  6
+E  S  7
+E  H  6
+E  D  8
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 13,2,1,226,153,68,127,159,43,69,44,31,68,17,37,208,184,144,28,51,91,18,19,158,24,45,17,45,55,27,10,89,31,8,24,85,23,27,15,41,17,21,18,15,11,20,35,143,231,18,27,29,55,14,15,23,24,15,10,13,27,8,31,10,13,9,9
+[Auction "W"]
+1D Pass 1S X 
+2D 3C Pass Pass 
+3S Pass Pass Pass 
+[Play "S"]
+D5 DA D4 D2 
+C4 C2 CA C5 
+H2 D3 DK D8 
+S2 D6 DT DQ 
+HK H4 H3 HA 
+CT S8 C3 C6 
+S4 SA S5 S3 
+CJ SK S6 S7 
+H6 DJ S9 D9 
+CQ D7 C9 ST 
+HQ H5 C7 H9 
+CK HT C8 SJ 
+H8 HJ SQ H7 
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "5"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K862.AQ965.A96.8 J4.3.KQ874.KJT63 T953.K8.JT5.AQ54 AQ7.JT742.32.972"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "8a976899755345753457"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  5
+E NT  5
+E  S  3
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  3
+W  H  4
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,179,79,164,104,43,43,44,27,29,14,295,169,17,19,37,21,11,14,235,27,12,32,42,59,17,17,119,28,12,21,16,19,13,18,37,47,27,26,13,45,15,17,49,128,60,77,16,41,13,7,30,13,39,9,13,7,18,14,19,4,14,6
+[Auction "N"]
+1H 2NT =1= X 3C 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DK D5 D2 DA 
+C3 CQ C2 C8 
+C6 CA C7 D6 
+SJ ST S7 S2 
+CK C4 C9 S6 
+H3 HK H2 H5 
+S4 S3 SA S8 
+DQ DT D3 D9 
+CJ C5 H4 SK 
+D4 H8 H7 HA 
+D7 DJ HT HQ 
+D8 S5 HJ H6 
+CT S9 SQ H9 
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "5"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K862.AQ965.A96.8 J4.3.KQ874.KJT63 T953.K8.JT5.AQ54 AQ7.JT742.32.972"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "8a976899755345753457"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  5
+E NT  5
+E  S  3
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  3
+W  H  4
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 20,2,1,179,68,507,46,97,37,308,85,62,72,55,14,83,37,91,112,230,19,83,25,70,9,133,26,128,22,154,17,25,7,85,18,21,16,69,31,11,38,32,63,23,23,40,39,26,9,12,17,8,22,9,24,6,24,11,23,8,29,11,12,8,10,12,12,7,11
+[Auction "N"]
+1H 2NT =1= X 3C 
+X Pass 3NT 4C 
+4S 5C X Pass 
+Pass Pass 
+[Play "N"]
+C8 C3 CQ C2 
+H5 H3 HK H2 
+SK S4 ST S7 
+DA D4 D5 D2 
+D6 DQ DJ D3 
+D9 C6 C4 C9 
+H6 CK CA C7 
+S2 SJ S3 SA 
+S6 D7 S5 SQ 
+H9 CT H8 H4 
+S8 CJ C5 H7 
+HQ DK DT HT 
+HA D8 S9 HJ 
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "6"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5.T2.KQJT2.AJT73 KQ93.A876.743.52 A862.5.9865.Q986 JT74.KQJ943.A.K4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "633ba633ba7992279922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  3
+N  D 11
+N  C 10
+S NT  6
+S  S  3
+S  H  3
+S  D 11
+S  C 10
+E NT  7
+E  S  9
+E  H  9
+E  D  2
+E  C  2
+W NT  7
+W  S  9
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 20,0,3,52,52,54,68,283,460,46,206,132,14,57,534,162,18,17,87,61,20,16,68,16,24,15,49,18,15,35,145,51,15,19,192,15,11,10,14,9,11,4,14,11,10,4,15,8,12,4
+[Auction "E"]
+Pass Pass 1H 2NT =1= 
+3H Pass 4H 5C 
+Pass Pass Pass 
+[Play "E"]
+SK SA S4 S5 
+C2 C8 C4 C3 
+C5 C6 CK CA 
+D3 D9 DA D2 
+S3 S2 SJ CT 
+D4 D5 H3 DK 
+D7 D6 H4 DQ 
+H6 D8 H9 DJ 
+H7 H5 HJ DT 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "6"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5.T2.KQJT2.AJT73 KQ93.A876.743.52 A862.5.9865.Q986 JT74.KQJ943.A.K4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "633ba633ba7992279922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  3
+N  D 11
+N  C 10
+S NT  6
+S  S  3
+S  H  3
+S  D 11
+S  C 10
+E NT  7
+E  S  9
+E  H  9
+E  D  2
+E  C  2
+W NT  7
+W  S  9
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 20,2,1,91,36,72,92,90,156,221,26,23,67,163,31,19,21,28,19,26,16,37,27,18,26,18,12,33,231,18,23,10,60,21,36,19,28,27,26,16,23,23,24,9,21,37,17,10
+[Auction "E"]
+Pass Pass 1H 2NT 
+3H 5C Pass Pass 
+Pass 
+[Play "W"]
+DA D2 D7 D5 
+HJ H2 HA H5 
+C4 DT D3 D6 
+S4 S5 SQ SA 
+CK CA C5 CQ 
+H3 HT H6 C6 
+S7 C3 S3 S2 
+H4 CJ C2 C8 
+H9 CT H7 C9 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "7"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:854.JT63.A832.76 KQJ62.52.7.KJ985 A973.Q8.KQJ965.4 T.AK974.T4.AQT32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "63481634816984b6984b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  8
+N  C  1
+S NT  6
+S  S  3
+S  H  4
+S  D  8
+S  C  1
+E NT  6
+E  S  9
+E  H  8
+E  D  4
+E  C 11
+W NT  6
+W  S  9
+W  H  8
+W  D  4
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 21,0,3,202,132,203,241,142,82,29,26,34,12,21,31,50,8,8,72,24,101,25,51,30,11,5,11,106,29,7,254,66,9,5,115,31,26,8,9,18,5,36,18,25,19,6,15,11,10,5,14,5,16,4,120,5,17,7,6
+[Auction "S"]
+1D 2NT =1= 3D 4D 
+5D Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+HK H3 H2 H8 
+ST S4 SJ SA 
+D4 DA D7 D5 
+DT D2 C5 DK 
+HA H6 H5 HQ 
+CA C6 C8 C4 
+C2 C7 CK DQ 
+H4 D8 C9 D6 
+H7 HJ CJ S3 
+H9 HT S2 S7 
+C3 S5 SQ S9 
+-  -  SK -  
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "7"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:854.JT63.A832.76 KQJ62.52.7.KJ985 A973.Q8.KQJ965.4 T.AK974.T4.AQT32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "63481634816984b6984b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  8
+N  C  1
+S NT  6
+S  S  3
+S  H  4
+S  D  8
+S  C  1
+E NT  6
+E  S  9
+E  H  8
+E  D  4
+E  C 11
+W NT  6
+W  S  9
+W  H  8
+W  D  4
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 20,2,1,164,56,247,135,150,30,25,14,23,196,27,175,12,182,25,25,50,18,33,8,23,13,42,13,12,19,34,12,76,13,18,34,8
+[Auction "S"]
+1D 3C =1= Pass 4C 
+Pass 5C Pass Pass 
+Pass 
+[Play "N"]
+DA D7 D5 D4 
+H3 H2 HQ HA 
+C6 CK C4 C2 
+C7 C5 D6 CA 
+S5 S2 SA ST 
+H6 H5 H8 HK 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "8"]
+[West "Tim Pan#43892"]
+[North "Leah Andrews#21534"]
+[East "Lysandra Zheng#43891"]
+[South "Anna Powell#1514"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:5.AQJ54.KJ864.Q5 J4.976.52.AJ8743 Q9762.83.QT7.K92 AKT83.KT2.A93.T6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "768a4769a55633757437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D 10
+N  C  4
+S NT  7
+S  S  6
+S  H  9
+S  D 10
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  3
+E  C  7
+W NT  5
+W  S  7
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,0,3,115,153,55,150,55,47,41,111,117,120,10,76,23,82,12,60,17,13,11,23,5,27,18,17,48,12,18,77,12,24,8,142,27,43,11,32,15,9,6,17,14,11,6,16,4,11,4
+[Auction "W"]
+1S 2S Pass 3D 
+Pass Pass Pass 
+[Play "W"]
+SA S5 S4 S2 
+CT C5 CA C2 
+C6 CQ C3 C9 
+DA D4 D5 DQ 
+HT HJ H6 H3 
+D3 D6 D2 DT 
+H2 HQ H7 H8 
+D9 DK C4 D7 
+HK HA H9 S6 
+S3 H5 C7 S7 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "8"]
+[West "Bigi Cameron#48052"]
+[North "Sara Worth#3548"]
+[East "Emma Russell#2503"]
+[South "Susan Macken#9994"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:5.AQJ54.KJ864.Q5 J4.976.52.AJ8743 Q9762.83.QT7.K92 AKT83.KT2.A93.T6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "768a4769a55633757437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D 10
+N  C  4
+S NT  7
+S  S  6
+S  H  9
+S  D 10
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  3
+E  C  7
+W NT  5
+W  S  7
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,109,243,68,347,317,38,71,246,28,63,168,43,893,39,25,68,58,9,44,160,48,14,12,28,56,21,7,50,73,14,19,129,191,85,19,17,129,17,14,21,25,19,12,100,32,14,19
+[Auction "W"]
+1S 2S Pass 3C 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SA S5 SJ S2 
+S3 H4 S4 S6 
+D3 D4 D5 DQ 
+DA D6 D2 DT 
+SK H5 H6 S7 
+CT C5 CA C2 
+C6 CQ C3 CK 
+S8 HJ C4 SQ 
+HT HQ H7 H3 
+*
+
+[Event "AKBC - IP Practice - Sun 10 Sep - 7pm"]
+[Site "RealBridge"]
+[Date "2023.09.10"]
+[Board "9"]
+[West "Anna Powell#1514"]
+[North "Sara Worth#3548"]
+[East "Leah Andrews#21534"]
+[South "Susan Macken#9994"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A2.65.KJT62.AK92 KQJ53.A8742.A.63 T74.9.Q9873.T754 986.KQJT3.54.QJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "T 2"]
+[VisitTeam "T 1"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "333a8333a869a3369a34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D 10
+N  C  8
+S NT  3
+S  S  3
+S  H  3
+S  D 10
+S  C  8
+E NT  6
+E  S  9
+E  H 10
+E  D  3
+E  C  3
+W NT  6
+W  S  9
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,2,0,232,346,579,127,305,72,65,15,89,60,29,12,52,16,25,12,125,29,25,11,39,26,18,11,37,23,9,21
+[Auction "N"]
+1D 2NT =1= 5D 5H 
+X Pass Pass Pass 
+[Play "N"]
+CA C3 C7 C8 
+CK C6 C4 CJ 
+SA S3 S7 S6 
+S2 SK S4 S8 
+H5 H2 H9 HK 
+*

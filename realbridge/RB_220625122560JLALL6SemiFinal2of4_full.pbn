@@ -1,0 +1,3493 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "15"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.Q.K764.AK73 972.T9532.AQ.QJ8 .AJ874.J952.T965 AJT854.K6.T83.42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "76799767995764457643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2S 2NT 3S 
+Pass Pass Pass 
+[Play "N"]
+CA C8 C6 C4 
+HQ H2 HA H6 
+S3 H3 H4 HK 
+CK CJ CT C2 
+C7 CQ C5 D3 
+S6 S2 C9 SA 
+SQ S7 D5 S4 
+SK S9 D9 S5 
+D4 DQ D2 D8 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "15"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.Q.K764.AK73 972.T9532.AQ.QJ8 .AJ874.J952.T965 AJT854.K6.T83.42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "76799767995764457643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2D =1= Pass 3S =2= 
+Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: P/C"]
+[Play "S"]
+D5 D8 DK DA 
+D2 D3 D4 DQ 
+H4 SJ SQ S2 
+DJ DT D7 S7 
+H7 HK HQ H5 
+H8 S4 SK S9 
+CT C2 CK C8 
+C5 S5 S3 H2 
+C6 ST S6 H9 
+C9 S8 C3 HT 
+HJ SA C7 H3 
+-  C4 CA CJ 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "15"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.Q.K764.AK73 972.T9532.AQ.QJ8 .AJ874.J952.T965 AJT854.K6.T83.42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "6"]
+[Score "NS -1100"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "76799767995764457643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2S 2NT 3S 
+4H Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+C4 CA C8 C9 
+HK HQ H5 H4 
+DT D4 DQ D5 
+D8 D6 DA DJ 
+C2 CK CQ C5 
+S4 S3 S2 H7 
+H6 C3 H3 HA 
+S5 C7 CJ C6 
+S8 D7 HT HJ 
+D3 DK H2 D2 
+ST S6 H9 H8 
+SA SQ S7 D9 
+SJ SK S9 CT 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "15"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.Q.K764.AK73 972.T9532.AQ.QJ8 .AJ874.J952.T965 AJT854.K6.T83.42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NTX"]
+[Result "7"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "76799767995764457643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2D =1= 2NT 3S =2= 
+4H Pass 4S Pass 
+4NT X Pass Pass 
+Pass 
+[Note "1: weak in either M"]
+[Note "2: P/C with longer ♡"]
+[Play "E"]
+S2 H4 ST SK 
+H2 H7 HK HQ 
+S7 D2 S5 S6 
+S9 D5 SA S3 
+DQ D9 D3 D7 
+H3 HJ H6 C3 
+DA DJ D8 D4 
+CQ C5 C4 CA 
+H5 H8 DT DK 
+HT C6 C2 D6 
+C8 C9 S4 CK 
+H9 CT S8 SQ 
+CJ HA SJ C7 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "16"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J942.J7652.KQ43. AKQ7.4.T852.AT73 T.AT.J76.QJ86542 8653.KQ983.A9.K9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "43456435569a7769a876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+1H Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+DK D2 D6 DA 
+D3 CA C8 C9 
+S2 SA ST S3 
+S4 SK C2 S5 
+DQ D5 D7 D9 
+SJ SQ C4 S6 
+D4 D8 DJ S8 
+H2 H4 HA HQ 
+H5 C3 C5 CK 
+H6 C7 HT HK 
+HJ S7 C6 H9 
+S9 DT CJ H3 
+H7 CT CQ H8 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "16"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J942.J7652.KQ43. AKQ7.4.T852.AT73 T.AT.J76.QJ86542 8653.KQ983.A9.K9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "43456435569a7769a876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+2D =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: flannery"]
+[Play "S"]
+CQ CK S2 C3 
+D6 DA DK D2 
+ST S3 S4 SK 
+C6 S5 S9 SA 
+C2 S6 SJ SQ 
+HT HK H5 H4 
+D7 D9 DQ D5 
+HA H3 H6 D8 
+DJ S8 D3 DT 
+C4 HQ H2 C7 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "16"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J942.J7652.KQ43. AKQ7.4.T852.AT73 T.AT.J76.QJ86542 8653.KQ983.A9.K9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "43456435569a7769a876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+1H Pass 1S 3C 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+CQ C9 S2 C3 
+D7 DA DK D5 
+ST S3 S4 SA 
+HA H3 H2 H4 
+DJ D9 D4 D2 
+C2 CK S9 C7 
+C4 S5 SJ SK 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "16"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J942.J7652.KQ43. AKQ7.4.T852.AT73 T.AT.J76.QJ86542 8653.KQ983.A9.K9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3CX"]
+[Result "7"]
+[Score "NS -300"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "43456435569a7769a876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  7
+E  D  7
+E  C  6
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+1H Pass 2C =1= 3C 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: artif GF relay"]
+[Play "W"]
+S5 S2 SQ ST 
+H3 H2 H4 HA 
+D9 DK D2 D7 
+S6 S4 SA C2 
+C9 H5 C3 C6 
+DA D3 D5 D6 
+H8 H6 C7 HT 
+CK D4 DT DJ 
+HK H7 -  -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "17"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T92.T5.AKQ852.K4 K74.643.63.JT765 A85.KJ92.J94.A32 QJ63.AQ87.T7.Q98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98896988964554745547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  6
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  6
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1H Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S3 S2 SK S5 
+SQ S9 S7 S8 
+SJ ST S4 SA 
+DT D2 D3 DJ 
+D7 DA D6 D9 
+H7 DK H3 D4 
+H8 DQ H4 H2 
+HQ D8 C5 H9 
+C8 D5 H6 C2 
+C9 C4 C6 CA 
+CQ CK C7 C3 
+HA H5 CT HJ 
+S6 HT CJ HK 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "17"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T92.T5.AKQ852.K4 K74.643.63.JT765 A85.KJ92.J94.A32 QJ63.AQ87.T7.Q98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98896988964554745547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  6
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  6
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1H Pass 
+2D Pass 2S =1= Pass 
+2NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: art GF"]
+[Play "E"]
+C6 C2 CQ CK 
+H3 H2 HA HT 
+CT C3 C9 C4 
+C7 CA C8 S2 
+S4 SA S3 S9 
+D3 DJ D7 D2 
+D6 D4 DT DQ 
+H6 D9 S6 DA 
+S7 S5 H7 DK 
+H4 S8 SJ D8 
+C5 H9 SQ D5 
+CJ HK H8 H5 
+SK HJ HQ ST 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "17"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T92.T5.AKQ852.K4 K74.643.63.JT765 A85.KJ92.J94.A32 QJ63.AQ87.T7.Q98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98896988964554745547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  6
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  6
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1H X 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+SJ S2 S4 S8 
+S3 S9 SK SA 
+D7 D2 D3 DJ 
+DT DQ D6 D9 
+H7 DK C6 D4 
+H8 DA S7 H9 
+HQ D8 H6 H2 
+C8 D5 H4 C2 
+C9 C4 C5 CA 
+CQ CK C7 C3 
+-  H5 -  -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "17"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T92.T5.AKQ852.K4 K74.643.63.JT765 A85.KJ92.J94.A32 QJ63.AQ87.T7.Q98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98896988964554745547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  6
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  6
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass 1H Pass 
+2D Pass 2NT =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: F"]
+[Play "W"]
+SJ S2 S4 S8 
+SQ S9 S7 S5 
+S6 ST SK SA 
+DT DA D3 D4 
+D7 DK D6 D9 
+H7 DQ C7 DJ 
+H8 D8 H6 H2 
+S3 D5 H4 HJ 
+HQ D2 H3 H9 
+HA H5 C5 HK 
+C8 -  -  -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "18"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.9.AKJ974.KT76 Q985.KQ732.T.J93 K63.AJT5.5.Q8542 AJ72.864.Q8632.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "755897559a5784357843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1H Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "N"]
+H9 HK HA H6 
+ST SQ S3 S2 
+S4 S5 S6 SJ 
+D4 H2 H5 H4 
+D7 S8 SK SA 
+D9 HQ HT H8 
+C6 H3 HJ S7 
+DJ DT D5 D2 
+DK S9 C5 D3 
+C7 H7 C2 D6 
+CT C9 C4 CA 
+-  -  -  DQ 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "18"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.9.AKJ974.KT76 Q985.KQ732.T.J93 K63.AJT5.5.Q8542 AJ72.864.Q8632.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "755897559a5784357843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1H Pass 1S =1= Pass 
+2S Pass Pass Pass 
+[Note "1: 5-4"]
+[Play "N"]
+ST S5 S6 SJ 
+H9 HQ HA H8 
+S4 S8 S3 S2 
+D4 S9 SK SA 
+D7 H2 HT H4 
+DJ DT D5 D2 
+DA C3 C4 D3 
+C6 C9 C5 CA 
+-  -  -  H6 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "18"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.9.AKJ974.KT76 Q985.KQ732.T.J93 K63.AJT5.5.Q8542 AJ72.864.Q8632.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3HX"]
+[Result "6"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "755897559a5784357843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S =1= Pass 2H 2NT 
+Pass 3C Pass Pass 
+3H X Pass Pass 
+Pass 
+[Note "1: ♡"]
+[Play "N"]
+H9 HQ HA H4 
+D7 HK HJ H6 
+DJ DT D5 D3 
+DK H2 H5 D2 
+D4 H3 HT H8 
+C7 C3 C4 CA 
+S4 S5 S3 SA 
+ST SQ SK S2 
+-  -  C5 -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "18"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.9.AKJ974.KT76 Q985.KQ732.T.J93 K63.AJT5.5.Q8542 AJ72.864.Q8632.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "755897559a5784357843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1D =1= Pass 
+1H Pass Pass 2D 
+2H Pass Pass Pass 
+[Note "1: 2+"]
+[Play "S"]
+D5 D2 DJ DT 
+HA H4 H9 HK 
+C2 CA C6 C3 
+H5 D3 D7 H2 
+HJ H6 D4 HQ 
+SK SA S4 SQ 
+HT D6 D9 H3 
+C5 H8 C7 C9 
+C4 D8 DK H7 
+S6 S2 ST S9 
+C8 SJ CK CJ 
+CQ S7 CT S5 
+S3 DQ DA S8 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "19"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.JT5.JT43.943 AQ864.98643.82.6 T73.AKQ7.Q76.T87 K2.2.AK95.AKQJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -720"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "00430004309c9ac9c9ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  4
+S  D  3
+S  C  0
+E NT  9
+E  S 12
+E  H  9
+E  D 10
+E  C 12
+W NT  9
+W  S 12
+W  H  9
+W  D 10
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+[Auction "S"]
+1C 3NT Pass Pass 
+Pass 
+[Play "N"]
+C3 C6 CT CA 
+C4 H3 C7 CK 
+C9 H4 C8 CQ 
+HJ D2 D7 CJ 
+H5 H6 D6 C5 
+DJ H8 DQ C2 
+S5 S4 S7 SK 
+S9 SA S3 S2 
+SJ SQ ST H2 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "19"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.JT5.JT43.943 AQ864.98643.82.6 T73.AKQ7.Q76.T87 K2.2.AK95.AKQJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -720"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "00430004309c9ac9c9ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  4
+S  D  3
+S  C  0
+E NT  9
+E  S 12
+E  H  9
+E  D 10
+E  C 12
+W NT  9
+W  S 12
+W  H  9
+W  D 10
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+[Auction "S"]
+1D X 2D 2S 
+Pass 3C Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+DJ D2 D6 DK 
+C4 C6 C7 CA 
+C3 H3 C8 CK 
+C9 H4 CT CQ 
+HJ H6 HA CJ 
+D3 H8 D7 C5 
+S5 H9 DQ C2 
+S9 S4 -  SK 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "19"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.JT5.JT43.943 AQ864.98643.82.6 T73.AKQ7.Q76.T87 K2.2.AK95.AKQJ52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "00430004309c9ac9c9ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  4
+S  D  3
+S  C  0
+E NT  9
+E  S 12
+E  H  9
+E  D 10
+E  C 12
+W NT  9
+W  S 12
+W  H  9
+W  D 10
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C =1= Pass 1H =2= 
+Pass 1S =3= Pass 1NT =4= 
+Pass 2C =5= Pass 2S =6= 
+Pass 2NT =7= Pass 3H =8= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: str"]
+[Note "2: GF, 4+♠, unbal"]
+[Note "3: relay"]
+[Note "4: 4+♡"]
+[Note "5: relay"]
+[Note "6: at least 55"]
+[Note "7: relay"]
+[Note "8: 5=5=2=1 in that order"]
+[Play "S"]
+HQ H2 HJ H3 
+H7 D5 HT H4 
+HA D9 H5 H9 
+HK C2 C9 H6 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "19"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.JT5.JT43.943 AQ864.98643.82.6 T73.AKQ7.Q76.T87 K2.2.AK95.AKQJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "12"]
+[Score "NS -950"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "00430004309c9ac9c9ac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  4
+S  D  3
+S  C  0
+E NT  9
+E  S 12
+E  H  9
+E  D 10
+E  C 12
+W NT  9
+W  S 12
+W  H  9
+W  D 10
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C =1= Pass 1H =2= 
+X 2H Pass 4H 
+Pass 5C Pass Pass 
+X Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: ♠"]
+[Play "N"]
+HJ H3 HQ H2 
+H5 H4 HK C2 
+D4 D2 D7 DA 
+D3 D8 D6 DK 
+DT C6 DQ D5 
+S5 S4 S7 SK 
+C3 H6 C7 CA 
+C4 H8 C8 CK 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "20"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT86.5.KQJ94.A98 Q5.QT942.AT.T532 K743.AK63.872.K6 J92.J87.653.QJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "ab8b8ab8b82252522525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+C3 CK C7 C9 
+DA D2 D3 DJ 
+DT D7 D5 DK 
+S5 SK S2 S6 
+SQ S3 S9 SA 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "20"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT86.5.KQJ94.A98 Q5.QT942.AT.T532 K743.AK63.872.K6 J92.J87.653.QJ74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ab8b8ab8b82252522525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1D 1H X 
+Pass 3H =1= Pass 4NT 
+Pass 5H =2= Pass 5S 
+Pass Pass Pass 
+[Note "1: mini splinter - I think"]
+[Note "2: 2 w/o"]
+[Play "W"]
+CQ C8 C2 CK 
+S2 S6 S5 SK 
+S9 ST SQ S3 
+CJ CA C3 C6 
+SJ SA C5 S4 
+D3 DK DA D2 
+C4 C9 CT S7 
+D5 DQ DT D8 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "20"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT86.5.KQJ94.A98 Q5.QT942.AT.T532 K743.AK63.872.K6 J92.J87.653.QJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "ab8b8ab8b82252522525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+S5 S3 SJ SA 
+SQ SK S2 S8 
+H4 S4 S9 ST 
+DA D2 D6 DJ 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "20"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT86.5.KQJ94.A98 Q5.QT942.AT.T532 K743.AK63.872.K6 J92.J87.653.QJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ab8b8ab8b82252522525"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  8
+S  D 11
+S  C  8
+E NT  2
+E  S  2
+E  H  5
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  5
+W  D  2
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S =1= Pass 4S 
+Pass Pass Pass 
+[Note "1: unbalenced hand"]
+[Play "E"]
+HT HA H7 H5 
+S5 SK S2 S6 
+SQ S3 S9 ST 
+H4 H3 H8 S8 
+H2 S4 SJ SA 
+DA D2 D6 DQ 
+C5 CK C4 C8 
+DT D8 D5 DK 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "21"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT.A87.AQ98754.J AK984.JT63.J3.A6 7652.Q954..QT742 Q3.K2.KT62.K9853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44564445649977999778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+1D 1S Pass 1NT 
+2D X Pass Pass 
+Pass 
+[Play "E"]
+SA S2 S3 ST 
+SK S5 SQ SJ 
+S8 S6 C5 D4 
+CA C2 C3 CJ 
+S9 S7 C8 D5 
+H6 HQ HK H8 
+H3 H4 H2 HA 
+HT H5 C9 H7 
+HJ H9 CK D7 
+DJ C4 D2 D9 
+S4 C7 DK DA 
+D3 CT D6 DQ 
+C6 CQ DT D8 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "21"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT.A87.AQ98754.J AK984.JT63.J3.A6 7652.Q954..QT742 Q3.K2.KT62.K9853"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "44564445649977999778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+1D 1S Pass 1NT 
+2D 2H Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+C2 C3 CJ CA 
+S2 SQ ST S4 
+S5 S3 SJ SA 
+S6 C5 D9 SK 
+S7 D2 D5 S9 
+CQ CK D4 C6 
+CT C9 D7 D3 
+H5 H2 H7 HT 
+H4 HK HA H3 
+C4 D6 DA DJ 
+H9 DT H8 H6 
+HQ DK D8 HJ 
+C7 C8 DQ S8 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "21"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT.A87.AQ98754.J AK984.JT63.J3.A6 7652.Q954..QT742 Q3.K2.KT62.K9853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44564445649977999778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+1D 1S X Pass 
+2D Pass Pass 2S 
+3D Pass Pass Pass 
+[Play "E"]
+SK S2 S3 SJ 
+SA S5 SQ ST 
+S9 S6 C5 D4 
+D3 S7 D2 DA 
+DJ C2 DK DQ 
+CA C4 C3 CJ 
+HJ HQ HK HA 
+C6 H4 DT D7 
+HT H5 H2 H8 
+H3 H9 D6 H7 
+-  -  CK -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "21"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT.A87.AQ98754.J AK984.JT63.J3.A6 7652.Q954..QT742 Q3.K2.KT62.K9853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "44564445649977999778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+1D X Pass 2NT 
+3D 3NT Pass Pass 
+Pass 
+[Play "N"]
+D8 DJ C2 D2 
+HA H3 H4 HK 
+CJ CA C4 C3 
+D4 C6 CQ CK 
+D5 D3 CT C9 
+SJ S4 S7 SQ 
+D7 S8 C7 C8 
+D9 H6 S2 C5 
+H7 HT HQ H2 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "22"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.QJT3.KJ6.KJ874 JT97.A842.AT73.3 Q8.K97.Q8542.AQ2 AK6543.65.9.T965"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -790"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "53798537988a5448a544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  8
+E  S 10
+E  H  5
+E  D  4
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1D 1S X 
+4S Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+HQ HA H7 H6 
+C8 C3 CA C6 
+S2 S7 S8 SA 
+C4 S9 C2 C5 
+D6 DA D5 D9 
+DK D3 D2 S3 
+C7 ST CQ C9 
+DJ D7 D4 S4 
+CJ SJ SQ CT 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "22"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.QJT3.KJ6.KJ874 JT97.A842.AT73.3 Q8.K97.Q8542.AQ2 AK6543.65.9.T965"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -300"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "53798537988a5448a544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  8
+E  S 10
+E  H  5
+E  D  4
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1D 2S X 
+4S Pass Pass 4NT =1= 
+Pass 5D Pass Pass 
+X Pass Pass Pass 
+[Note "1: intended as takeout"]
+[Play "W"]
+SK S2 S9 S8 
+CT C4 C3 CA 
+D9 DJ D3 D4 
+H5 H3 H8 HK 
+SA D6 S7 SQ 
+H6 DK DA D2 
+S5 C7 ST D5 
+S3 HT HA H7 
+S4 C8 SJ D8 
+S6 HJ H2 H9 
+C5 HQ H4 C2 
+C6 CJ D7 CQ 
+C9 CK DT DQ 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "22"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.QJT3.KJ6.KJ874 JT97.A842.AT73.3 Q8.K97.Q8542.AQ2 AK6543.65.9.T965"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -790"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "53798537988a5448a544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  8
+E  S 10
+E  H  5
+E  D  4
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1D 1S X 
+4S Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+HQ HA H7 H6 
+C8 C3 CA C6 
+H3 H2 HK H5 
+HJ H4 H9 S3 
+C7 S7 CQ C5 
+D6 DA D5 D9 
+DJ D3 D4 S4 
+C4 S9 C2 C9 
+DK D7 D8 S5 
+CK ST SQ CT 
+CJ DT DQ SA 
+S2 SJ S8 S6 
+HT H8 D2 SK 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "22"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.QJT3.KJ6.KJ874 JT97.A842.AT73.3 Q8.K97.Q8542.AQ2 AK6543.65.9.T965"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -790"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "53798537988a5448a544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  8
+E  S 10
+E  H  5
+E  D  4
+E  C  4
+W NT  8
+W  S 10
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1D 2S X 
+4S Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+HQ H2 H7 H5 
+S2 SJ SQ SA 
+H3 HA H9 H6 
+C4 C3 CA C6 
+-  -  S8 -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "23"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK84.AKQ64.83.KQ T953.8.AQ95.J953 J72.72.KJT4.A764 Q6.JT953.762.T82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "cbaaacbaaa1232212322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 10
+N  C 10
+S NT 12
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1NT Pass 3NT Pass 
+4H Pass Pass Pass 
+[Play "E"]
+S5 S2 SQ SA 
+H8 H2 H5 HA 
+S3 H7 H3 HK 
+D5 D4 H9 HQ 
+C3 C4 C2 CK 
+C5 C6 C8 CQ 
+S9 SJ S6 S4 
+C9 CA CT D3 
+ST S7 D2 SK 
+D9 C7 HT S8 
+DA -  D6 D8 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "23"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK84.AKQ64.83.KQ T953.8.AQ95.J953 J72.72.KJT4.A764 Q6.JT953.762.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "cbaaacbaaa1232212322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 10
+N  C 10
+S NT 12
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 2C Pass 
+2D =1= Pass 2H =2= Pass 
+2S =3= Pass 3S Pass 
+3NT Pass Pass Pass 
+[Note "1: waiting"]
+[Note "2: H's or big balanced"]
+[Note "3: forced"]
+[Play "W"]
+D7 D3 DQ DK 
+H5 HA H8 H7 
+H3 HK C5 H2 
+D6 D8 DA D4 
+C8 CQ C3 C4 
+SQ S4 S3 SJ 
+CT CK CJ CA 
+D2 H4 D5 DJ 
+H9 H6 D9 DT 
+S6 SA -  S2 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "23"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK84.AKQ64.83.KQ T953.8.AQ95.J953 J72.72.KJT4.A764 Q6.JT953.762.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "cbaaacbaaa1232212322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 10
+N  C 10
+S NT 12
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1NT Pass 2S Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+C2 CQ C3 C7 
+H5 HA H8 H7 
+H3 HK D5 H2 
+D7 D3 D9 DJ 
+C8 CK C5 C6 
+D2 D8 DA D4 
+CT H4 C9 CA 
+D6 H6 DQ DK 
+H9 S4 S3 DT 
+S6 SA S5 S7 
+HT HQ ST C4 
+SQ SK S9 S2 
+HJ S8 CJ SJ 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "23"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK84.AKQ64.83.KQ T953.8.AQ95.J953 J72.72.KJT4.A764 Q6.JT953.762.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "cbaaacbaaa1232212322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 10
+N  C 10
+S NT 12
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1NT Pass 2S Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * f [0:12]"]
+[Play "W"]
+D7 D8 D9 DJ 
+H5 HA H8 H7 
+D6 D3 DA D4 
+C8 CQ C3 C7 
+H3 HK C5 H2 
+SQ S4 S5 SJ 
+S6 SA ST S2 
+D2 SK S3 S7 
+H9 HQ C9 C4 
+C2 CK CJ CA 
+CT H4 -  C6 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "24"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K54.AJ8652.K8.K2 J9832.43.Q965.J6 QT7.QT9.JT7.A943 A6.K7.A432.QT875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98b6798b672526625276"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 11
+N  D  6
+N  C  7
+S NT  9
+S  S  8
+S  H 11
+S  D  6
+S  C  7
+E NT  2
+E  S  5
+E  H  2
+E  D  6
+E  C  6
+W NT  2
+W  S  5
+W  H  2
+W  D  7
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "W"]
+1C 1H Pass 2D =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: good raise"]
+[Play "E"]
+CJ CA C7 C2 
+H3 HQ HK HA 
+H4 H9 H7 H2 
+D6 D7 D3 DK 
+D5 DT DA D8 
+C6 C3 CQ CK 
+S2 HT C5 H5 
+S3 S7 S6 SK 
+S8 ST SA S4 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "24"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K54.AJ8652.K8.K2 J9832.43.Q965.J6 QT7.QT9.JT7.A943 A6.K7.A432.QT875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "98b6798b672526625276"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 11
+N  D  6
+N  C  7
+S NT  9
+S  S  8
+S  H 11
+S  D  6
+S  C  7
+E NT  2
+E  S  5
+E  H  2
+E  D  6
+E  C  6
+W NT  2
+W  S  5
+W  H  2
+W  D  7
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "W"]
+1C 1H Pass 2C 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+H3 HQ HK HA 
+H4 H9 H7 H2 
+DQ DJ D2 D8 
+CJ -  -  -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "24"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K54.AJ8652.K8.K2 J9832.43.Q965.J6 QT7.QT9.JT7.A943 A6.K7.A432.QT875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98b6798b672526625276"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 11
+N  D  6
+N  C  7
+S NT  9
+S  S  8
+S  H 11
+S  D  6
+S  C  7
+E NT  2
+E  S  5
+E  H  2
+E  D  6
+E  C  6
+W NT  2
+W  S  5
+W  H  2
+W  D  7
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "W"]
+1C =1= 1H Pass 2H 
+Pass 2S Pass 2NT 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "E"]
+H3 HT HK HA 
+H4 H9 H7 H2 
+-  HQ C5 H5 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "24"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K54.AJ8652.K8.K2 J9832.43.Q965.J6 QT7.QT9.JT7.A943 A6.K7.A432.QT875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "98b6798b672526625276"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 11
+N  D  6
+N  C  7
+S NT  9
+S  S  8
+S  H 11
+S  D  6
+S  C  7
+E NT  2
+E  S  5
+E  H  2
+E  D  6
+E  C  6
+W NT  2
+W  S  5
+W  H  2
+W  D  7
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "W"]
+1D =1= 1H X =2= 2H 
+3C 3H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: 4+♠"]
+[Play "E"]
+CJ CA C7 C2 
+H3 HT H7 H2 
+H4 H9 HK HA 
+S3 ST SA S4 
+C6 C3 CQ CK 
+SJ SQ S6 S5 
+D5 DJ DA D8 
+-  -  D2 -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "25"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT7.A73.AT98.87 J985.K954.KJ.AT2 6432.QJ.543.KQJ5 Q.T862.Q762.9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "88687786875465555655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+1NT =1= Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 14+(15-17)"]
+[Play "E"]
+H5 HJ H6 H7 
+S5 S2 SQ SA 
+C2 CK C6 C8 
+S8 S3 C3 S7 
+DK D3 D7 DA 
+CA C5 C4 C7 
+DJ D4 DQ D8 
+-  -  D2 D9 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "25"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT7.A73.AT98.87 J985.K954.KJ.AT2 6432.QJ.543.KQJ5 Q.T862.Q762.9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88687786875465555655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+1NT Pass 3C =1= Pass 
+3D =2= Pass 3H =3= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: puppet"]
+[Note "2: no 5cM"]
+[Note "3: 4s"]
+[Play "E"]
+H5 HJ H2 H7 
+S5 S2 SQ SK 
+C2 CK C3 C7 
+H4 HQ H6 HA 
+CA C5 C4 C8 
+CT CJ C9 D8 
+S8 S3 D2 SA 
+H9 S4 HT H3 
+S9 CQ C6 D9 
+SJ S6 H8 S7 
+HK D3 D6 ST 
+DJ D4 D7 DA 
+DK D5 DQ DT 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "25"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT7.A73.AT98.87 J985.K954.KJ.AT2 6432.QJ.543.KQJ5 Q.T862.Q762.9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "88687786875465555655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+1NT Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "E"]
+S5 S6 SQ SA 
+CT CK C3 C7 
+S8 S2 H8 SK 
+CA C5 C4 C8 
+C2 CJ C6 D9 
+HK HJ H2 H3 
+H4 HQ H6 H7 
+DJ D3 D2 DA 
+H5 S3 HT HA 
+S9 CQ C9 DT 
+SJ S4 D6 S7 
+DK D4 D7 D8 
+H9 D5 DQ ST 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "25"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKT7.A73.AT98.87 J985.K954.KJ.AT2 6432.QJ.543.KQJ5 Q.T862.Q762.9643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88687786875465555655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+1NT =1= Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+H5 HQ H8 H3 
+S5 S2 SQ SA 
+C2 CK C3 C8 
+H4 HJ H2 HA 
+CA C5 C4 C7 
+CT CQ C6 D8 
+S9 S3 C9 SK 
+H9 S4 H6 H7 
+S8 CJ D2 D9 
+SJ S6 HT S7 
+HK -  -  -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "26"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.KJT982.3.KT2 K7543.A.K942.954 J962.Q6.A86.J763 T.7543.QJT75.AQ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "789377693764395653a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  3
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  3
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D  9
+E  C  5
+W NT  6
+W  S  5
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 1NT =1= 2H 
+Pass Pass Pass 
+[Note "1: forcing "]
+[Play "E"]
+C4 C6 CA C2 
+S5 S2 ST SA 
+HA H6 H5 H2 
+SK S6 D7 SQ 
+S7 S9 H3 S8 
+D4 DA DQ D3 
+D2 D6 DT H8 
+S4 HQ H4 H9 
+C5 C3 C8 CT 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "26"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.KJT982.3.KT2 K7543.A.K942.954 J962.Q6.A86.J763 T.7543.QJT75.AQ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "789377693764395653a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  3
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  3
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D  9
+E  C  5
+W NT  6
+W  S  5
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1H 
+1S 1NT Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+C4 C3 CA C2 
+S3 S2 ST SA 
+HA H6 H5 HT 
+SK S6 D7 SQ 
+S7 S9 H3 S8 
+D4 DA DQ D3 
+S4 HQ H4 H2 
+C5 C6 C8 CT 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "26"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.KJT982.3.KT2 K7543.A.K942.954 J962.Q6.A86.J763 T.7543.QJT75.AQ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "789377693764395653a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  3
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  3
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D  9
+E  C  5
+W NT  6
+W  S  5
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1H 
+1S 1NT Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+C4 C3 CA C2 
+S3 S2 ST SA 
+HA H6 H5 HT 
+D2 DA D5 D3 
+S5 HQ H3 HK 
+C5 S6 H4 HJ 
+S4 D6 H7 H8 
+S7 C6 D7 H9 
+SK S9 DT SQ 
+DK D8 DJ H2 
+D4 SJ DQ S8 
+C9 CJ CQ CK 
+D9 C7 C8 CT 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "26"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ8.KJT982.3.KT2 K7543.A.K942.954 J962.Q6.A86.J763 T.7543.QJT75.AQ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "789377693764395653a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  3
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  3
+S  C  7
+E NT  6
+E  S  4
+E  H  3
+E  D  9
+E  C  5
+W NT  6
+W  S  5
+W  H  3
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 1NT 2H 
+Pass Pass Pass 
+[Play "E"]
+D4 DA D7 D3 
+HA H6 H7 H9 
+D2 D6 DT H2 
+S3 HQ H3 HK 
+C9 D8 H4 HJ 
+C5 C3 H5 HT 
+S5 S2 ST SQ 
+C4 C6 CA CK 
+DK C7 DQ H8 
+S4 S6 C8 SA 
+SK S9 D5 S8 
+D9 CJ DJ C2 
+S7 SJ CQ CT 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "27"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT3.9742.AK.T875 984.KQ.854.AK963 AKJ2.JT863.T96.2 765.A5.QJ732.QJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "69a6569a657336773367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H 10
+S  D  6
+S  C  5
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  7
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1C 
+X XX 1H Pass 
+2H Pass Pass 3C 
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "E"]
+CA C2 CQ C7 
+D8 D6 D3 DA 
+HQ H3 H5 H2 
+D5 D9 DJ DK 
+HK H6 HA H4 
+-  -  DQ -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "27"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT3.9742.AK.T875 984.KQ.854.AK963 AKJ2.JT863.T96.2 765.A5.QJ732.QJ4"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "69a6569a657336773367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H 10
+S  D  6
+S  C  5
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  7
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass Pass 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "27"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT3.9742.AK.T875 984.KQ.854.AK963 AKJ2.JT863.T96.2 765.A5.QJ732.QJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "3"]
+[Score "NS 250"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "69a6569a657336773367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H 10
+S  D  6
+S  C  5
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  7
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+1H 1NT 2H Pass 
+Pass 2S =2= Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: t/o"]
+[Play "N"]
+DK D4 D6 D3 
+DA D5 DT D7 
+H4 HQ H3 H5 
+S3 D8 D9 DQ 
+C5 CA C2 C4 
+ST S4 SA S6 
+H9 HK H6 HA 
+C8 CK S2 CJ 
+SQ S8 SK S5 
+H7 S9 SJ S7 
+H2 C3 HJ D2 
+CT C6 HT DJ 
+C7 C9 H8 CQ 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "27"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT3.9742.AK.T875 984.KQ.854.AK963 AKJ2.JT863.T96.2 765.A5.QJ732.QJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "69a6569a657336773367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H 10
+S  D  6
+S  C  5
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  7
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+2C =2= 2D 2H 3D 
+3H Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: majors"]
+[Play "E"]
+CA C2 CQ C5 
+D8 D6 D2 DA 
+HQ H3 H5 H2 
+D5 D9 DJ DK 
+HK H6 HA H4 
+-  -  DQ -  
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "28"]
+[West "Alex Ornstein#USAK468506"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bruce Rogoff#USAK596571"]
+[South "David Yang#USAO217818"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ93.J96543.T6.T 8762.AQ2.Q7.9875 AQ.K8.A8532.AKQ2 T54.T7.KJ94.J643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "99b9999b994323443234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  4
+E  S  3
+E  H  2
+E  D  3
+E  C  4
+W NT  4
+W  S  3
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 2D =1= Pass 2NT =2= 
+Pass 3D =3= Pass 4S =4= 
+Pass 5C =5= Pass 5H 
+Pass Pass Pass 
+[Note "1: 3-9HCP, 5+M"]
+[Note "2: ask"]
+[Note "3: medium hand with hearts"]
+[Note "4: rkc H"]
+[Note "5: 0 or 3"]
+[Play "W"]
+C4 CT C9 C2 
+H7 H3 H2 HK 
+HT HJ HQ H8 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "28"]
+[West "Eldad Ginossar#USA3858529"]
+[North "Phil Clayton#USAn026806"]
+[East "Chris Willenken#USAJ677047"]
+[South "Hemant Lall#USAO987737"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ93.J96543.T6.T 8762.AQ2.Q7.9875 AQ.K8.A8532.AKQ2 T54.T7.KJ94.J643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "4"]
+[Room "Open"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "99b9999b994323443234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  4
+E  S  3
+E  H  2
+E  D  3
+E  C  4
+W NT  4
+W  S  3
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 2C 
+Pass 2D Pass 2NT 
+Pass 3C Pass 3D 
+Pass 3S =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: Smolen"]
+[Play "W"]
+HT HJ HA H8 
+S5 S3 S8 SA 
+DJ D6 D7 D3 
+S4 SK S2 SQ 
+ST SJ S6 C2 
+C6 S9 S7 D2 
+D4 DT DQ D5 
+C3 CT C9 CA 
+C4 H3 C5 CK 
+H7 H4 H2 HK 
+CJ H5 C7 CQ 
+D9 H6 HQ DA 
+DK H9 C8 D8 
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "28"]
+[West "Kit Woolsey#USAK842084"]
+[North "Andrew Rosenthal#USAJ653539"]
+[East "Bart Bramley#USAJ201743"]
+[South "Migry Campanile#USA9775684"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ93.J96543.T6.T 8762.AQ2.Q7.9875 AQ.K8.A8532.AKQ2 T54.T7.KJ94.J643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "3"]
+[Room "Closed"]
+[HomeTeam "[3] Lall"]
+[VisitTeam "[2] Rosenthal (wins tie)"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "99b9999b994323443234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  4
+E  S  3
+E  H  2
+E  D  3
+E  C  4
+W NT  4
+W  S  3
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 2C 
+Pass 2D Pass 2NT 
+Pass 4D =1= Pass 4H 
+Pass Pass Pass 
+[Note "1: ♡"]
+[Play "W"]
+C4 CT C7 C2 
+H7 H4 HA H8 
+D4 D6 D7 DA 
+HT H3 H2 HK 
+*
+
+[Event "JLALL6 SemiFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.06.25"]
+[Board "28"]
+[West "Jiang Gu#USAQ567484"]
+[North "Leni Holtz#USAM406486"]
+[East "Ai-Tai Lo#USAN531659"]
+[South "Jeff Ferro#USAN522390"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ93.J96543.T6.T 8762.AQ2.Q7.9875 AQ.K8.A8532.AKQ2 T54.T7.KJ94.J643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[4] Ferro (wins tie)"]
+[VisitTeam "[1] Lo"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "99b9999b994323443234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  9
+N  C  9
+S NT  9
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  4
+E  S  3
+E  H  2
+E  D  3
+E  C  4
+W NT  4
+W  S  3
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 2C 
+Pass 2D Pass 2NT 
+Pass 3C Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+S5 S3 S2 SA 
+DJ D6 D7 D5 
+S4 SK S6 SQ 
+ST SJ S7 C2 
+C6 S9 S8 D3 
+D4 DT DQ D2 
+C3 CT C9 CA 
+D9 H3 H2 DA 
+C4 H4 C5 CK 
+CJ H5 C7 CQ 
+DK H6 HQ D8 
+H7 H9 HA H8 
+HT HJ C8 HK 

@@ -1,0 +1,3069 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "1"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9763.JT3.974.JT2 AKQ85.AK2.AK5.64 JT4.865.QJT8.AQ9 2.Q974.632.K8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2213222132abcababcab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  3
+N  C  2
+S NT  2
+S  S  2
+S  H  1
+S  D  3
+S  C  2
+E NT 10
+E  S 11
+E  H 12
+E  D 10
+E  C 11
+W NT 10
+W  S 11
+W  H 12
+W  D 10
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 14,2,1,507,260,430,97,104,249,55,63,32,24,36,535,85,23,42,111,33,18,13,32,24,18,13,81,23,175,26,22,64,25,28,56,26,12,31,74,38,23,12,26,36,23,23,226,39,12,24,35,27,32,17,20,10,17,8,35,14,13,9,19,9,19,10
+[Auction "N"]
+Pass 2D =1= Pass 2H 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 23/24 or 9pt [1:07]"]
+[Play "S"]
+DQ D2 D4 DA 
+H5 H4 H3 HA 
+H6 H7 HJ HK 
+H8 H9 HT H2 
+DT D3 D9 D5 
+D8 D6 D7 DK 
+CA C3 C2 C4 
+DJ C5 S7 S5 
+SJ S2 S3 SA 
+S4 C7 S6 SK 
+ST C8 S9 SQ 
+C9 CK CT C6 
+CQ HQ CJ S8 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "1"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9763.JT3.974.JT2 AKQ85.AK2.AK5.64 JT4.865.QJT8.AQ9 2.Q974.632.K8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2213222132abcababcab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  3
+N  C  2
+S NT  2
+S  S  2
+S  H  1
+S  D  3
+S  C  2
+E NT 10
+E  S 11
+E  H 12
+E  D 10
+E  C 11
+W NT 10
+W  S 11
+W  H 12
+W  D 10
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 14,0,3,486,266,208,352,68,68,65,176,48,68,105,29,53,33,41,98,874,37,72,113,62,19,8,22,47,37,12,276,59,29,22,155,92,32,32,61,146,33,22,24,84,35,17,49,42,19,43,28,71,24,16,27,210,35,17,19,50,15,34,20,10,22,16,21,23,8,12
+[Auction "N"]
+Pass 2D =1= Pass 2S =2= 
+Pass 2NT Pass 3C =3= 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 3 way multi"]
+[Note "2: can go to the 3H level"]
+[Note "3: 5card pupet stay"]
+[Play "S"]
+DQ D2 D4 DA 
+S4 S2 S3 SA 
+SJ D3 S6 SK 
+ST C3 S7 SQ 
+H5 D6 S9 S5 
+D8 C5 D9 DK 
+H6 C7 C2 S8 
+H8 H4 H3 HA 
+C9 H7 HJ HK 
+DT HQ HT H2 
+DJ H9 D7 C4 
+CQ C8 CJ C6 
+CA CK CT D5 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "2"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT72.Q.AQT9.8752 A4.A954.K85.AK96 653.J8762.2.QJ43 KJ98.KT3.J7643.T"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "453344433498aa898aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  3
+N  C  4
+S NT  4
+S  S  4
+S  H  3
+S  D  3
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D 10
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,457,336,148,29,78,95,57,27,28,19,156,118,57,35,212,29,17,23,26,14,18,29,182,37,76,17,43,95,28,25,258,27,19,19,94,33,28,22,67,21,14,29,23,9,60,12,35,28,22,113,64,39,62,10,46,19,13,12,17,18,11,13
+[Auction "E"]
+1C =1= Pass 1S Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+ clubs playing 5 card majors"]
+[Play "S"]
+H6 H3 HQ HA 
+S3 S8 S2 SA 
+S5 SJ SQ S4 
+CJ CT C7 C6 
+C3 D3 C8 C9 
+H2 HT C5 H4 
+D2 D4 D9 DK 
+C4 D6 C2 CA 
+CQ D7 DT CK 
+H7 HK DQ H5 
+S6 SK S7 D5 
+H8 S9 ST D8 
+HJ DJ DA H9 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "2"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT72.Q.AQT9.8752 A4.A954.K85.AK96 653.J8762.2.QJ43 KJ98.KT3.J7643.T"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "453344433498aa898aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  3
+N  C  4
+S NT  4
+S  S  4
+S  H  3
+S  D  3
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D 10
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,169,84,86,147,277,122,70,42,42,54,32,46,409,520,29,18,196,47,43,32,71,59,34,24,259,162,40,37,131,28,209,22,8,275,72,19,377,628,43,95,295,141,146,10,112,53,25,26,27,51,43,231,47
+[Auction "E"]
+1H Pass 1S Pass 
+2NT Pass 3H Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+CQ CT C2 CA 
+H2 HK HQ H4 
+D2 D3 D9 DK 
+C3 D4 DT D5 
+S3 D6 DA D8 
+CJ S8 C5 C6 
+C4 D7 C7 CK 
+S5 DJ C8 C9 
+S6 SK S2 S4 
+HJ HT S7 H5 
+H6 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "3"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT62.A.JT762.AJ7 KQ74.KQ62.9.9642 J98.983.AQ85.KQT 53.JT754.K43.853"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "896a8896a84472544725"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D 10
+N  C  8
+S NT  8
+S  S  9
+S  H  6
+S  D 10
+S  C  8
+E NT  4
+E  S  4
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  2
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,350,30,81,142,267,60,34,94,22,40,16,102,20,11,59,19,10,18,27,78,70,18,17,16,20,43,18,40,54,21,30,54,13,22,18,20,123,13,76,27,21,12,34,26,17,15,24,14,18,27,20,18,9,11,31,13,6,14,16,11,10,15
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2D =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12/14"]
+[Note "2:  * stayman [0:11]"]
+[Note "3: no 4 card M"]
+[Play "W"]
+HJ HA H6 H3 
+D3 DJ D9 D5 
+D4 D2 S4 DA 
+DK D6 C2 DQ 
+C3 C7 C9 CK 
+C5 DT C4 D8 
+C8 D7 C6 S8 
+H4 CA H2 CT 
+H5 CJ S7 CQ 
+S3 SA SQ SJ 
+S5 S2 SK S9 
+H7 S6 HK H8 
+HT ST HQ H9 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "3"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT62.A.JT762.AJ7 KQ74.KQ62.9.9642 J98.983.AQ85.KQT 53.JT754.K43.853"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "896a8896a84472544725"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D 10
+N  C  8
+S NT  8
+S  S  9
+S  H  6
+S  D 10
+S  C  8
+E NT  4
+E  S  4
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  2
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,248,64,440,54,134,43,298,92,38,25,302,337,29,25,712,30,18,49,33,52,25,24,29,56,17,30,24,48,17,71,26,88,56,30,23,42,12,73,193,26,12,22,66,18,15,21,20,15,15,15,35,20,15,16,16,9,13,62,21,10,12,21
+[Auction "S"]
+1NT Pass 2C =1= Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Note "1: STAYMAN"]
+[Play "W"]
+H5 HA H6 H3 
+DK DJ D9 D5 
+H4 S2 HK H8 
+H7 S6 HQ H9 
+HT ST H2 S8 
+HJ C7 S4 S9 
+S5 SA S7 SJ 
+C3 CA C2 CT 
+C5 CJ C4 CQ 
+C8 D2 C6 CK 
+D3 D6 SQ DA 
+D4 D7 C9 DQ 
+S3 DT SK D8 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "4"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T732.K9.AKT3.K62 A.AT74.975.J9874 KQJ9864.QJ2.82.T 5.8653.QJ64.AQ53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7a5757a5753376733867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  7
+N  C  5
+S NT  7
+S  S 10
+S  H  5
+S  D  7
+S  C  5
+E NT  3
+E  S  3
+E  H  7
+E  D  6
+E  C  7
+W NT  3
+W  S  3
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,125,135,75,163,90,32,51,40,107,24,76,101,204,12,18,37,24,20,206,31,26,18,13,140,23,12,27,107,119,13,12,122,41,13,10,38
+[Auction "W"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 4S 
+Pass =3= Pass Pass 
+[Note "1: 12-14"]
+[Note "2: transfer"]
+[Note "3: ♣"]
+[Play "E"]
+C9 CT CA C2 
+D5 D2 DQ DA 
+SA S4 S5 S2 
+D7 D8 DJ DK 
+H4 S6 D4 ST 
+HA H2 H3 HK 
+C4 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "4"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T732.K9.AKT3.K62 A.AT74.975.J9874 KQJ9864.QJ2.82.T 5.8653.QJ64.AQ53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7a5757a5753376733867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D  7
+N  C  5
+S NT  7
+S  S 10
+S  H  5
+S  D  7
+S  C  5
+E NT  3
+E  S  3
+E  H  7
+E  D  6
+E  C  7
+W NT  3
+W  S  3
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,221,560,62,139,104,122,29,110,89,81,22,27,245,26,22,120,41,15,22,143,33,36,15,18,51,33,38,92,28,14,7
+[Auction "W"]
+Pass 1NT =1= Pass 2H 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: 13-15"]
+[Play "E"]
+D7 D8 DJ DA 
+SA S6 S5 S2 
+HA H2 H3 H9 
+D9 D2 D4 DT 
+D5 CT D6 DK 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "5"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8.J74.KJ842.8653 Q962.Q86.Q765.A9 JT.KT9532.T93.Q7 AK7543.A.A.KJT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -520"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "0066000660dd67ddd67d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  6
+N  C  0
+S NT  0
+S  S  0
+S  H  6
+S  D  6
+S  C  0
+E NT 13
+E  S 13
+E  H  6
+E  D  7
+E  C 13
+W NT 13
+W  S 13
+W  H  6
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 14,2,1,63,57,104,355,1884,36,104,23,24,60,78,57,20,185,25,22,11,118,16,20,11,51,34,26,23,49,23,37,12,66,50,13,116,43,17,20,11,36,109,44,83,170,42,16,10,26,11,18,14,17,17,138,12
+[Auction "N"]
+Pass Pass Pass 2C 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+HT HA H4 H6 
+SJ SA S8 S2 
+ST S3 D2 SQ 
+DT S4 D4 S9 
+D3 SK D8 S6 
+H2 S7 H7 D5 
+D9 DA DJ D6 
+C7 S5 C8 D7 
+CQ C2 C3 CA 
+H3 CK C5 C9 
+H5 CJ C6 DQ 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "5"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8.J74.KJ842.8653 Q962.Q86.Q765.A9 JT.KT9532.T93.Q7 AK7543.A.A.KJT42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "0066000660dd67ddd67d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  6
+N  C  0
+S NT  0
+S  S  0
+S  H  6
+S  D  6
+S  C  0
+E NT 13
+E  S 13
+E  H  6
+E  D  7
+E  C 13
+W NT 13
+W  S 13
+W  H  6
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 28,0,3,80,42,77,93,105,168,111,659,74,105,104,33,64,78,73,97,104,42,25,209,86,155,21,33,39,25,16,55,118,15,24,35,27,12,27,17,31,20,12
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 3S Pass 4D 
+Pass 4S Pass 4NT 
+Pass 5D Pass 6S 
+Pass Pass Pass 
+[Play "N"]
+H4 H6 H9 HA 
+S8 S2 ST SA 
+C3 S6 SJ SK 
+C5 CA C7 C2 
+C6 C9 CQ CK 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "6"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:93.KQ632.AJT752. J7.AJT874.8.QJ82 KQT8654..K963.A4 A2.95.Q4.KT97653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7b5c47b5c42171821718"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  5
+N  D 12
+N  C  4
+S NT  7
+S  S 11
+S  H  5
+S  D 12
+S  C  4
+E NT  2
+E  S  1
+E  H  7
+E  D  1
+E  C  8
+W NT  2
+W  S  1
+W  H  7
+W  D  1
+W  C  8
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 18,2,1,504,364,97,46,30,16,165,20,14,192,23,28,19,37,29,23,13,32,41,26,12,23,20,36,17,50,27,11,21,166,16,16,28,67,21,11,15,67,25,48,17
+[Auction "E"]
+2H =1= 4S Pass Pass 
+Pass 
+[Note "1: weak 6+ cards 7 to 11pts"]
+[Play "W"]
+H9 HQ HA S4 
+C3 S3 C2 C4 
+SA S9 S7 SK 
+C5 H2 CQ CA 
+S2 H3 SJ SQ 
+H5 H6 H4 ST 
+C6 D2 H7 S8 
+D4 D5 D8 DK 
+DQ DA H8 D9 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "6"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:93.KQ632.AJT752. J7.AJT874.8.QJ82 KQT8654..K963.A4 A2.95.Q4.KT97653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7b5c47b5c42171821718"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  5
+N  D 12
+N  C  4
+S NT  7
+S  S 11
+S  H  5
+S  D 12
+S  C  4
+E NT  2
+E  S  1
+E  H  7
+E  D  1
+E  C  8
+W NT  2
+W  S  1
+W  H  7
+W  D  1
+W  C  8
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 18,0,3,230,664,114,444,49,337,30,55,85,30,26,640,39,24,28,29,25,72,34,204,75,26,56,65,26,23,16,105,19,27,18,125,16,29,15,90,12,33,25
+[Auction "E"]
+2D =1= 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: 3 way multi"]
+[Play "W"]
+H9 HK HA S4 
+C7 S3 C2 C4 
+SA S9 S7 SK 
+C3 H2 CJ CA 
+S2 H3 SJ SQ 
+C5 H6 H4 ST 
+D4 D2 D8 DK 
+DQ DA H7 D9 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "7"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:832.QT87.AK876.6 A95.95.Q4.QJ9742 JT.KJ642.953.KT3 KQ764.A3.JT2.A85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "34883348838955989559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  8
+N  D  8
+N  C  3
+S NT  3
+S  S  4
+S  H  8
+S  D  8
+S  C  3
+E NT  8
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,334,225,86,84,40,160,93,32,24,77,35,12,10,73,44,17,20,186,32,16,57,16,22,12,25,36,19,45,14,47,72,15,9,16,32,13,47,12,51,11,10,14,44,13,10,27,24,15,87,20,22,12,24,10,16,14,16
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+D6 D4 D9 DT 
+S2 SA SJ S4 
+C6 CQ CK CA 
+S8 CJ C3 C5 
+S3 C9 CT C8 
+H7 H5 H4 HA 
+D7 S5 ST SK 
+D8 S9 D5 SQ 
+H8 H9 D3 S7 
+HT C2 H2 S6 
+HQ C4 HK H3 
+DK DQ HJ D2 
+DA C7 H6 DJ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "7"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:832.QT87.AK876.6 A95.95.Q4.QJ9742 JT.KJ642.953.KT3 KQ764.A3.JT2.A85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "34883348838955989559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  8
+N  D  8
+N  C  3
+S NT  3
+S  S  4
+S  H  8
+S  D  8
+S  C  3
+E NT  8
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,142,41,80,120,161,42,73,70,149,124,94,20,23,95,66,36,36,288,21,24,50,591,45,25,50,207,71,15,10,63,30,110,60,153,15,29,10,24,44,17,18
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+DA D4 D3 D2 
+C6 CQ CK CA 
+S2 S5 SJ SQ 
+S3 SA ST S4 
+S8 S9 H2 SK 
+D6 C2 CT C8 
+H7 H5 HJ HA 
+H8 CJ C3 C5 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "8"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q64.AQ2.AQ8.K864 AT9752.75.K76.J7 K83.K9.JT942.932 J.JT8643.53.AQT5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "97588975884684546845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  8
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 10,2,1,82,259,264,109,34,71,34,190,27,28,23,154,104,14,45,35,114,20,17,149,48,27,33,22,30,15,21,33,28,27,24,20,49,22,11,226,92,13,20,52,54,258,54,28,18,28,20,23,46,24,19,30,13,16,26,15,45,11,11,13,19,10,11
+[Auction "W"]
+Pass 1C 2S =1= Pass 
+Pass X Pass 3C 
+Pass Pass Pass 
+[Note "1: 6 card suit, 6 to 11 points"]
+[Play "E"]
+SA S3 SJ S4 
+ST SK C5 S6 
+D7 D2 D3 DA 
+H5 HK HJ H2 
+H7 H9 H3 HA 
+CJ S8 H4 HQ 
+S2 D4 CT SQ 
+C7 C9 H6 D8 
+S5 C2 CA C4 
+S7 C3 H8 DQ 
+D6 D9 D5 C6 
+S9 DT CQ CK 
+DK DJ HT C8 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "8"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q64.AQ2.AQ8.K864 AT9752.75.K76.J7 K83.K9.JT942.932 J.JT8643.53.AQT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "97588975884684546845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  7
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  8
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 7,0,3,785,423,177,286,54,78,167,138,13,25,300,50,52,22,29,100,27,22,161,35,37,38,138,52,23,32,107,33,22,25,21,43,21,19,109
+[Auction "W"]
+2D =1= X 2H =2= Pass 
+Pass Pass 
+[Note "1: multi 2D"]
+[Note "2: relay"]
+[Play "S"]
+DJ D3 DA D6 
+S3 SJ S4 SA 
+H9 HT HQ H5 
+D2 D5 D8 DK 
+C2 CT CK C7 
+C3 C5 C4 CJ 
+HK H3 H2 H7 
+C9 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "9"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T975.AKQ7.J8.KT9 J3.JT962.32.AQ83 K64.43.AQT75.764 AQ82.85.K964.J52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "66575665756686767868"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  6
+S  H  5
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  6
+E  C  7
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,2,1,260,351,121,45,51,30,284,153,71,32,19,214,31,12,24,48,35,26,13,29,29,12,53,34,32,22,12,135,27,28,112,81,27,267,48,231,116,27,11,57,173,22,21,21,16,33,43,39,26,13,11,20,54,16,12,22,10,23,10
+[Auction "N"]
+1NT =1= 2C =2= 2D 3C 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Clubs and hearts"]
+[Play "S"]
+DA D4 D8 D3 
+D5 DK DJ D2 
+H4 H8 HQ H2 
+C4 CJ C9 C3 
+H3 H5 HK H6 
+C6 D6 H7 H9 
+DQ D9 S7 C8 
+C7 S2 HA HJ 
+S4 SA S5 S3 
+D7 C2 CT CQ 
+S6 C5 CK CA 
+DT S8 S9 HT 
+SK SQ ST SJ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "9"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T975.AKQ7.J8.KT9 J3.JT962.32.AQ83 K64.43.AQT75.764 AQ82.85.K964.J52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "66575665756686767868"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  6
+S  H  5
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  6
+E  C  7
+W NT  6
+W  S  7
+W  H  8
+W  D  6
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,241,81,100,28,59,317,49,13,50,198,54,20,23,25,24,29,111,27,28,8,40,17,59,137,41,75,35,15,286,33,13,10,23,95,66,12,294,62,43,39,29,358,23,15,14,10,15,14,13,18,15,30,20,26,40,16
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+HJ H3 H8 HA 
+C3 C4 CJ C9 
+H2 H4 H5 HK 
+D2 D5 D4 DJ 
+D3 DT DK D8 
+CA C6 C5 CK 
+CQ C7 C2 CT 
+C8 D7 S2 S5 
+SJ S4 S8 S7 
+S3 SK SA ST 
+H6 S6 SQ S9 
+H9 DA D6 H7 
+HT DQ D9 HQ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "10"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT.Q984.JT.T8654 KJ3.AJ3.KQ75.KQ9 Q97652..A843.J32 84.KT7652.962.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "373453734576a8776a77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  7
+S  H  3
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H 10
+E  D  8
+E  C  7
+W NT  7
+W  S  6
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,2,1,278,107,70,40,67,151,213,32,31,21,25,132,28,26,16,248,35,15,278,64,12,39,317,34,98,16,53,19,13,61,22,48,20,21,12,59,22,58,9,52,10,24,23,203,21,20,13,21,8,14
+[Auction "E"]
+2NT =1= Pass 3C Pass 
+3D =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 19/20"]
+[Note "2:  * denies 4 card major [0:21]"]
+[Play "S"]
+S6 S4 SA S3 
+SQ S8 ST SJ 
+S7 D2 C8 SK 
+D3 H2 H4 HA 
+D4 H5 HQ HJ 
+DA D6 DJ DK 
+S9 H6 H9 D5 
+S5 H7 H8 D7 
+S2 CA C4 C9 
+D8 D9 DT DQ 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "10"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT.Q984.JT.T8654 KJ3.AJ3.KQ75.KQ9 Q97652..A843.J32 84.KT7652.962.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "373453734576a8776a77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  7
+S  H  3
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H 10
+E  D  8
+E  C  7
+W NT  7
+W  S  6
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,288,94,50,65,225,109,209,53,100,145,31,34,14,137,41,14,342,45,110,70,118,88,68,19,693,38,37,60,85,124,37,28,34,21,26,27,24,30,17,26,39,53,34,27,19,87,17,27,16,20,15,15,20
+[Auction "E"]
+1D Pass 1H Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+S2 S4 SA S3 
+SQ S8 ST SJ 
+S9 D2 C4 SK 
+D3 H2 H4 HA 
+D4 H5 H8 HJ 
+D8 HK H9 H3 
+C2 H6 HQ D5 
+DA D6 DJ DK 
+S7 D9 C5 C9 
+S6 H7 C6 D7 
+S5 C7 C8 CK 
+C3 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "11"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:2.A82.JT9865.T87 QJT87.7.A74.AJ65 K543.KJT653.Q2.4 A96.Q94.K3.KQ932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "32761328617b57cab57c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  7
+N  D  6
+N  C  1
+S NT  3
+S  S  2
+S  H  8
+S  D  6
+S  C  1
+E NT  7
+E  S 11
+E  H  5
+E  D  7
+E  C 12
+W NT 10
+W  S 11
+W  H  5
+W  D  7
+W  C 12
+[OptimumScore "NS -800"]
+[Competition "Teams"]
+% RBDATA 18,2,1,340,50,57,99,62,102,137,79,92,51,29,34,34,18,26,48,278,33,17,36,23,123,24,40,26,39,19,110,33,24,40,392,31,15,9,25,29,13,28,25,147,21,12,11,25,12,23,25,25,28,12,23,12,17,9,22,11,41,10,18,13,14,9,13,9,13,8
+[Auction "S"]
+Pass 1C Pass 1S 
+2H X XX =1= 3C 
+3H 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: hon card supp for p suit"]
+[Play "S"]
+HJ HQ HA H7 
+H3 H4 H8 S7 
+S3 S6 S2 S8 
+S4 S9 DJ ST 
+S5 SA D5 SJ 
+C4 C2 C7 CJ 
+SK C3 C8 CA 
+HK H9 H2 SQ 
+H5 CK CT C6 
+H6 CQ D6 C5 
+HT C9 D8 D4 
+D2 DK D9 D7 
+DQ D3 DT DA 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "11"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:2.A82.JT9865.T87 QJT87.7.A74.AJ65 K543.KJT653.Q2.4 A96.Q94.K3.KQ932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "32761328617b57cab57c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  7
+N  D  6
+N  C  1
+S NT  3
+S  S  2
+S  H  8
+S  D  6
+S  C  1
+E NT  7
+E  S 11
+E  H  5
+E  D  7
+E  C 12
+W NT 10
+W  S 11
+W  H  5
+W  D  7
+W  C 12
+[OptimumScore "NS -800"]
+[Competition "Teams"]
+% RBDATA 18,0,3,219,303,296,99,221,59,74,238,840,70,42,40,50,29,20,15,43,86,52,93,67,14,50,56,229,166,27,176,130
+[Auction "S"]
+2H X 3H =1= 4S 
+Pass Pass Pass 
+[Note "1: ♡"]
+[Play "S"]
+C4 C2 CT CA 
+S3 SA S2 S7 
+SK S6 D5 S8 
+HJ HQ HA H7 
+D2 DK D6 D4 
+-  S9 D8 -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "12"]
+[West "margaret#stoker"]
+[North "Babs Matthews#2436"]
+[East "rodney light#95804"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.J62.8653.AK32 873.K9874.9.J864 K95.AT5.KQT42.Q7 QJ642.Q3.AJ7.T95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "a78a9a78a93553435534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D 10
+N  C  9
+S NT 10
+S  S  7
+S  H  8
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  5
+E  D  3
+E  C  4
+W NT  3
+W  S  5
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,181,126,64,110,93,21,27,377,94,23,27,18,34,154,40,122,27,12,21,12,37,17,23,12,21,33,37,22,76,19,14,34,56,472,16,118,13,16,31,13,121,20,56,33,25,12,9,22,12,11,76
+[Auction "W"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+H9 H5 HQ H2 
+HK HA H3 H6 
+C6 CQ C5 C2 
+C8 C7 C9 CA 
+D9 DQ DA D3 
+C4 S5 CT CK 
+H4 DK D7 D5 
+H7 D2 DJ D6 
+S3 S9 S6 SA 
+H8 DT S2 D8 
+S7 D4 S4 C3 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "12"]
+[West "Ian Reeves#44049"]
+[North "Michael Brewer#"]
+[East "Tim Matthews#71107"]
+[South "david king#00460861"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.J62.8653.AK32 873.K9874.9.J864 K95.AT5.KQT42.Q7 QJ642.Q3.AJ7.T95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "a78a9a78a93553435534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D 10
+N  C  9
+S NT 10
+S  S  7
+S  H  8
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  5
+E  D  3
+E  C  4
+W NT  3
+W  S  5
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 9,0,3,184,229,35,311,106,138,86,52,32,47,239,29,37,176,29,63,18,24,38,20,23,96,48,320,39,26,81,30,39,68,24,19,44,38,47,24,32,49,48,33,54,136,23,15,13,35,21,16,14,27,16,14,71,22,28,17,20,20,11,21,8
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2NT Pass Pass 
+Pass 
+[Play "W"]
+S4 ST S3 S5 
+DA D8 D9 DK 
+S2 SA S7 S9 
+DJ D6 H7 DT 
+SQ H2 S8 SK 
+D7 D5 H4 DQ 
+C9 D3 H8 D4 
+C5 H6 H9 D2 
+H3 HJ HK HA 
+CT C2 C4 CQ 
+S6 CA C6 C7 
+SJ CK C8 H5 
+HQ C3 CJ HT 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "13"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:8742.AJT.AKJ6.Q8 QJ.862.Q9532.AT7 KT6.KQ754.8.K963 A953.93.T74.J542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "99a7898a774436544364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  5
+W NT  4
+W  S  4
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,908,201,164,119,41,100,24,23,117,36,34,13,107,26,14,115,478,33,14,27,64,31,31,11,49,33,23,15,127,27,16,31,83,25,13,8,92,24,14,11,65,12,20,26,44,20,20,14,194,62,99,12,10,18,13,19,14,9,6,15
+[Auction "N"]
+1C =1= 1D 2H Pass 
+4H Pass Pass Pass 
+[Note "1: 2+ clubs"]
+[Play "W"]
+D7 DA D2 D8 
+DT DK D3 S6 
+C5 CQ CA C3 
+SA S2 SQ SK 
+D4 DJ DQ H4 
+H3 HT H6 H5 
+H9 HJ H2 H7 
+C2 C8 C7 CK 
+C4 D6 CT C9 
+S3 S4 SJ ST 
+S5 HA H8 HQ 
+S9 S7 D5 HK 
+CJ S8 D9 C6 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "13"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:8742.AJT.AKJ6.Q8 QJ.862.Q9532.AT7 KT6.KQ754.8.K963 A953.93.T74.J542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "99a7898a774436544364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  5
+W NT  4
+W  S  4
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,2,0,1065,99,149,65,122,41,216,63,19,19,100,118,21,21,95,75,18,30,258,20,9,37,20,12,11,14,25,19,9,26,94,32,58,16,151,26,18,11,117,41,30,27,60,10,9,21,67,116,39,67,20,135,10,17,10,109,16,7,12,30,9,26
+[Auction "N"]
+1S Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+H9 HT H2 H4 
+C2 CQ C7 C3 
+D4 DA D2 D8 
+D7 DK D3 S6 
+C4 C8 CA C6 
+SA S2 SQ SK 
+S3 S4 SJ ST 
+C5 HA CT C9 
+H3 HJ H6 H5 
+DT D6 DQ HK 
+S5 S7 H8 HQ 
+CJ S8 D5 CK 
+S9 DJ D9 H7 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "14"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J96.J985.8.J8532 KQ54.K2.A52.QT94 T.T763.J9743.K76 A8732.AQ4.KQT6.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "0031300313ddab9ddab9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  1
+N  C  3
+S NT  0
+S  S  0
+S  H  3
+S  D  1
+S  C  3
+E NT 13
+E  S 13
+E  H 10
+E  D 11
+E  C  9
+W NT 13
+W  S 13
+W  H 10
+W  D 11
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 18,2,0,282,37,281,41,80,31,1046,98,30,34,20,255,20,33,88,37,16,13,19,21,19,18,79,59,12,10
+[Auction "E"]
+1NT =1= Pass 2H Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+D4 DT D8 D2 
+ST SA S9 S4 
+H7 S2 S6 SK 
+D7 S3 SJ SQ 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "14"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J96.J985.8.J8532 KQ54.K2.A52.QT94 T.T763.J9743.K76 A8732.AQ4.KQT6.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "0031300313ddab9ddab9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  1
+N  C  3
+S NT  0
+S  S  0
+S  H  3
+S  D  1
+S  C  3
+E NT 13
+E  S 13
+E  H 10
+E  D 11
+E  C  9
+W NT 13
+W  S 13
+W  H 10
+W  D 11
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 28,1,3,236,23,477,73,264,109,61,102,126,95,39,98,29,30,10,543,16,31,120,65,22,34,29,135,24,17,78,73,29,14
+[Auction "E"]
+1NT =1= Pass 2H =2= Pass 
+2NT =3= Pass 3D Pass 
+4S Pass 6S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: trans to spades"]
+[Note "3: max with 4 spades"]
+[Play "S"]
+D3 D6 D8 DA 
+ST S2 S6 SK 
+D4 S3 SJ SQ 
+C6 SA S9 S4 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "15"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T42.AJ87.AT.QT98 Q983.KQT96.87.K2 A765.2.J954.AJ74 KJ.543.KQ632.653"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "8968a8968a5465354753"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  8
+N  C 10
+S NT  8
+S  S  9
+S  H  6
+S  D  8
+S  C 10
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  3
+W NT  5
+W  S  4
+W  H  7
+W  D  5
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA -2,1,3,451,61,142,123
+[Auction "S"]
+Pass Pass Pass Pass 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "15"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T42.AJ87.AT.QT98 Q983.KQT96.87.K2 A765.2.J954.AJ74 KJ.543.KQ632.653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "8968a8968a5465354753"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  8
+N  C 10
+S NT  8
+S  S  9
+S  H  6
+S  D  8
+S  C 10
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  3
+W NT  5
+W  S  4
+W  H  7
+W  D  5
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 10,2,0,490,164,212,215,78,324,238,148,27,157,173,72,14,32,186,59,27,13,67,139,22,20,54,26,12,19,21,34,34,60,44,93,19,18,115,56,23,33,71,44,14,12,21,26,15,47,63,44,26,16,29,16,17,13,36,287,20,20,24,18,12,48
+[Auction "S"]
+Pass Pass 1NT =1= 2H 
+X =2= Pass 3C Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2:  * t/o [0:26]"]
+[Play "E"]
+HK H2 H3 H7 
+S9 SA SJ S2 
+D7 D4 D2 DA 
+H6 S5 H4 HA 
+H9 CJ H5 H8 
+D8 D5 D6 DT 
+CK CA C3 CQ 
+C2 C4 C5 CT 
+HQ C7 D3 HJ 
+S3 S6 SK S4 
+S8 D9 DK C8 
+SQ S7 C6 C9 
+HT DJ DQ ST 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "16"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K86.Q752.J8.J963 AQJ73.J63.65.KT7 T5.AT98.AKQT2.84 942.K4.9743.AQ52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "53874538647955979559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  7
+N  C  4
+S NT  5
+S  S  3
+S  H  8
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  7
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,93,45,92,93,1105,55,53,202,52,234,314,61,31,121,25,317,40,29,30,18,19,86,246,60,17,101,27,32,18,34,25,13,31,224,53,19,24,231,21,33,23,44,39,45,13,46,18,22,14,16,9
+[Auction "W"]
+Pass Pass 1S 2S 
+3S 4H Pass Pass 
+Pass 
+[Play "E"]
+D6 D2 D3 DJ 
+H6 H8 HK H2 
+CT C4 CA C6 
+SA S5 S9 SK 
+CK C8 C2 C3 
+SQ ST S4 S6 
+C7 H9 C5 C9 
+H3 HA H4 H5 
+HJ HT S2 HQ 
+D5 DA D4 D8 
+-  DK D7 -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "16"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K86.Q752.J8.J963 AQJ73.J63.65.KT7 T5.AT98.AKQT2.84 942.K4.9743.AQ52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "53874538647955979559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  7
+N  C  4
+S NT  5
+S  S  3
+S  H  8
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  7
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,182,27,125,71,132,32,110,237,33,156,18,9,27,18,10,10,77,22,88,61,114,33,10,15,60,14,15,12,218,36,10,21,19,21,29,11,161,53,11,13,24,46,23,11,10,24,100,21,19,22,188,16,89,10,11,9,34,9,13,10
+[Auction "W"]
+Pass Pass 1S 2D 
+2S Pass Pass Pass 
+[Play "S"]
+DK D3 DJ D5 
+DA D4 D8 D6 
+DQ D7 H2 S3 
+C8 CA C3 C7 
+S5 S2 S6 SJ 
+C4 CQ C6 CT 
+ST S4 S8 SQ 
+H8 S9 SK SA 
+HA H4 H5 H3 
+DT D9 C9 S7 
+D2 C2 CJ CK 
+H9 HK H7 H6 
+HT C5 HQ HJ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "17"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT653.5.KQ.AKQ42 94.72.T6543.JT93 K2.KQT9643.AJ87. AJ87.AJ8.92.8765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9aa9a9aa9a4324333243"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  9
+N  C 10
+S NT  9
+S  S 10
+S  H 10
+S  D  9
+S  C 10
+E NT  4
+E  S  3
+E  H  2
+E  D  4
+E  C  3
+W NT  3
+W  S  3
+W  H  2
+W  D  4
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,307,61,147,108,111,38,333,111,38,13,185,25,16,47,834,25,82,11,71,37,45,24,26,28,14,8,173,20,14,26,21,20,6,13,25,17,11,50,166,35,15,29,108,42,11,35
+[Auction "N"]
+1S =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: 5 card majors"]
+[Play "W"]
+D9 DQ D3 D7 
+HA H5 H2 HQ 
+SA S3 S4 S2 
+C8 CA C3 D8 
+C5 CK C9 DJ 
+C6 C2 CT H9 
+H8 S5 H7 HK 
+HJ S6 D6 HT 
+S7 SQ S9 SK 
+S8 ST D4 H6 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "17"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT653.5.KQ.AKQ42 94.72.T6543.JT93 K2.KQT9643.AJ87. AJ87.AJ8.92.8765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9aa9a9aa9a4324333243"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  9
+N  C 10
+S NT  9
+S  S 10
+S  H 10
+S  D  9
+S  C 10
+E NT  4
+E  S  3
+E  H  2
+E  D  4
+E  C  3
+W NT  3
+W  S  3
+W  H  2
+W  D  4
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,108,42,39,72,115,58,82,83,38,55,27,30,180,97,135,70,40,74,77,28,9,18,25,23,12,105,43,42,25,55,255,131,29,19,21,89,10,17,31,33,36,75,264,51,73,19,54,35,22,16,28,26,10,14,39,29,15,21,9,31,9,14,8,16,10,10
+[Auction "N"]
+1S Pass 2H Pass 
+3C Pass 3D Pass 
+3NT Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+D9 DQ D3 D7 
+C5 CA C3 S2 
+C6 CK C9 SK 
+HA H5 H2 HK 
+C8 C2 CT H3 
+H8 S3 H7 HQ 
+HJ S5 CJ HT 
+C7 C4 S4 H4 
+D2 S6 D4 H9 
+S7 DK D5 D8 
+S8 ST S9 H6 
+SJ SQ D6 DA 
+SA CQ DT DJ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "18"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ4.AK95.A8.K954 T93.J8432.63.J32 AJ752.76.K742.A6 86.QT.QJT95.QT87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "ccbaaccbaa1023210232"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 11
+N  D 10
+N  C 10
+S NT 12
+S  S 12
+S  H 11
+S  D 10
+S  C 10
+E NT  1
+E  S  0
+E  H  2
+E  D  3
+E  C  2
+W NT  1
+W  S  0
+W  H  2
+W  D  3
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,1,3,84,146,31,145,98,41,79,183,96,319,43,168,93,46,18,40,139,32,14,168,22,12,14,106,22,13,76,254,33,12,27,131,33,15,18,24,50,13,9,115,37,135,85,77,26,13,26,13,42,20,11,291,30,14,25,146,26,27,18,31,9,23,12,9,4,19,229
+[Auction "E"]
+Pass 1S Pass 2C 
+Pass 2D X 4NT 
+Pass 5H Pass 6S 
+Pass Pass Pass 
+[Play "W"]
+S8 S4 S9 SJ 
+S6 SQ S3 S2 
+D5 SK ST S5 
+C8 C4 C2 CA 
+HT HK H2 H6 
+HQ HA H3 H7 
+C7 H9 HJ S7 
+D9 DA D3 D2 
+DT D8 D6 DK 
+CT CK C3 C6 
+CQ C9 CJ SA 
+DJ C5 H4 D7 
+DQ H5 H8 D4 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "18"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ4.AK95.A8.K954 T93.J8432.63.J32 AJ752.76.K742.A6 86.QT.QJT95.QT87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "ccbaaccbaa1023210232"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 11
+N  D 10
+N  C 10
+S NT 12
+S  S 12
+S  H 11
+S  D 10
+S  C 10
+E NT  1
+E  S  0
+E  H  2
+E  D  3
+E  C  2
+W NT  1
+W  S  0
+W  H  2
+W  D  3
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,2,0,151,149,259,420,134,296,63,526,45,325,83,424,36,404,55,99,105,20,171,176,519,33,14,153,38,25,20,360,72,14,20,251,16,18,30,43,42,22,50,53,21,21,39,26,32,56,16,136,38,16,17,139,46,12,18,32,15,10,16,62,35,18,19,145,13,13,47,14,23,8,8
+[Auction "E"]
+Pass 1S 2NT X =1= 
+3C Pass Pass 4C =2= 
+Pass 4S Pass 4NT 
+Pass 5H Pass 6S 
+Pass Pass Pass 
+[Note "1:  * at least 1 4xcd minor penalties [0:28]"]
+[Note "2:  * forcing [0:40]"]
+[Play "W"]
+DQ DA D3 D2 
+D5 D8 D6 DK 
+S6 SK S9 S2 
+S8 S4 ST SA 
+D9 SQ H2 D4 
+C7 C4 C2 CA 
+CQ C5 S3 SJ 
+DT H5 H3 S7 
+HT HK H4 H7 
+HQ HA H8 H6 
+C8 CK C3 C6 
+CT C9 CJ S5 
+DJ H9 HJ D7 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "19"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q973.AKQ.QJ5.QJ6 J4.962.T74.A9842 T8652.J853.AK9.T AK.T74.8632.K753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8aa878aa875335653356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  8
+N  C  7
+S NT  8
+S  S 10
+S  H 10
+S  D  8
+S  C  7
+E NT  5
+E  S  3
+E  H  3
+E  D  5
+E  C  6
+W NT  5
+W  S  3
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,1,3,82,34,292,50,235,30,334,157,28,28,116,88,213,20,73,45,39,15,18,37,299,36,242,33,18,19,31,21,18,15,33,24,19,14,168,23,24,16,29,31,21,9,17,9,10,41,55,16,105,88,27,10,21,15,11,28,20,20,18,28,7,21
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1S Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+ clubs"]
+[Play "E"]
+C4 CT CK C6 
+S4 S2 SK S3 
+C2 S5 C3 CJ 
+H2 H3 H4 HA 
+H6 H5 H7 HK 
+H9 H8 HT HQ 
+D4 D9 D6 DQ 
+D7 DK D2 D5 
+DT DA D3 DJ 
+C8 HJ D8 S7 
+SJ S6 SA S9 
+CA S8 C7 CQ 
+C9 ST C5 SQ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "19"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q973.AKQ.QJ5.QJ6 J4.962.T74.A9842 T8652.J853.AK9.T AK.T74.8632.K753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8aa878aa875335653356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  8
+N  C  7
+S NT  8
+S  S 10
+S  H 10
+S  D  8
+S  C  7
+E NT  5
+E  S  3
+E  H  3
+E  D  5
+E  C  6
+W NT  5
+W  S  3
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,338,769,54,46,163,112,64,46,30,31,355,162,47,28,57,67,24,13,203,110,18,112,41,70,25,19,162,20,15,20,41,21,5,29,22,27,11,13,14,32,12,14,12,25,11,22,33
+[Auction "S"]
+Pass Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+D7 DA D2 D5 
+S4 S8 SA S3 
+DT DK D3 DQ 
+SJ ST SK S7 
+D4 D9 D6 DJ 
+H2 H3 H4 HA 
+H6 H5 H7 HK 
+H9 H8 HT HQ 
+CA CT C3 C6 
+C2 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "20"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K963.T732.842.96 QJ75..K96.AJT542 4.AKQJ65.J7.KQ73 AT82.984.AQT53.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "62824628247b4b97b4b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  8
+N  D  2
+N  C  4
+S NT  6
+S  S  2
+S  H  8
+S  D  2
+S  C  4
+E NT  7
+E  S 11
+E  H  4
+E  D 11
+E  C  9
+W NT  7
+W  S 11
+W  H  4
+W  D 11
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,243,73,105,53,126,35,135,40,47,82,22,13,572,43,42,12,36,23,11,12,139,24,18,25,26,23,18,51,96,22,17,161,33,15,17,59,15,20,11,25,59,323,19,26,23,66,13,26,49,19,16,16,18,22,17,13,13,27,12,18
+[Auction "W"]
+Pass Pass 1C 4H 
+X Pass Pass Pass 
+[Play "W"]
+C8 C6 CA C3 
+DQ D2 D6 DJ 
+DA D4 D9 D7 
+D3 D8 DK H5 
+H4 H2 C5 HJ 
+H8 H3 C2 HQ 
+H9 H7 S5 HA 
+S2 C9 C4 CK 
+S8 S3 CT CQ 
+D5 S6 CJ C7 
+SA S9 SJ S4 
+ST SK S7 H6 
+DT HT SQ HK 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "20"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K963.T732.842.96 QJ75..K96.AJT542 4.AKQJ65.J7.KQ73 AT82.984.AQT53.8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "62824628247b4b97b4b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  8
+N  D  2
+N  C  4
+S NT  6
+S  S  2
+S  H  8
+S  D  2
+S  C  4
+E NT  7
+E  S 11
+E  H  4
+E  D 11
+E  C  9
+W NT  7
+W  S 11
+W  H  4
+W  D 11
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 16,2,0,116,50,237,354,172,46,307,101,190,39,165,208,82,32,80,114,128,64,298,67,29,62,22,58,37,22,197,67,55,17,70,68,29,23,32,30,24,21,156,15,50,49,17,26,15,65,84,40,68,26,33,18,33,12,33,18,45,32,26,19,18,22,28,14,13,8
+[Auction "W"]
+Pass Pass 1C X 
+1D Pass 3C 3H 
+Pass Pass 4D =1= Pass 
+Pass Pass 
+[Note "1: ♢"]
+[Play "N"]
+H7 D6 H5 H4 
+SK SQ S4 S2 
+C9 CA C3 C8 
+C6 C2 C7 D3 
+HT D9 H6 H8 
+D4 DK D7 D5 
+S3 S5 DJ S8 
+H2 C4 HA H9 
+H3 C5 CK DT 
+D2 CT HJ DA 
+D8 CJ HQ DQ 
+S6 S7 CQ SA 
+S9 SJ HK ST 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "21"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q95.QJ97643..763 AKT43.T.AQT9.Q85 7.K8.K6532.KT942 J862.A52.J874.AJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2162421625bb6a7bc6a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  6
+S  D  2
+S  C  5
+E NT 11
+E  S 11
+E  H  6
+E  D 10
+E  C  7
+W NT 11
+W  S 12
+W  H  6
+W  D 10
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,1,3,515,163,58,106,34,33,25,92,274,23,105,147,30,15,31,75,33,28,27,236,354,26,30,94,42,28,15,37,18,40,10,25,26,28,27
+[Auction "N"]
+2H =1= 2S 4H 4S 
+Pass Pass Pass 
+[Note "1: 6 cards  6 to 11"]
+[Play "S"]
+D2 D7 S5 D9 
+HK HA H3 HT 
+S7 S2 S9 SA 
+H8 S6 SQ SK 
+C2 CJ C7 C5 
+C4 CA C3 C8 
+DK D4 H4 DT 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "21"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q95.QJ97643..763 AKT43.T.AQT9.Q85 7.K8.K6532.KT942 J862.A52.J874.AJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2162421625bb6a7bc6a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  1
+S  H  6
+S  D  2
+S  C  5
+E NT 11
+E  S 11
+E  H  6
+E  D 10
+E  C  7
+W NT 11
+W  S 12
+W  H  6
+W  D 10
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,2,0,700,731,165,72,27,130,68,58,21,18,121,25,12,226,31,12,22,11,18,11,13,207,41,120,18,16,54,14,11,186,31,15,14,137,26,80,26,86,48,39,11,108,25,19,27,11
+[Auction "N"]
+2D =1= 2S Pass 3S 
+Pass 4S =2= Pass Pass 
+Pass 
+[Note "1: multi 2D 3 way"]
+[Note "2: ♠♠"]
+[Play "S"]
+HK HA H9 HT 
+S7 S2 S5 SA 
+D2 S6 S9 SK 
+C2 S8 SQ S3 
+H8 H2 HQ S4 
+C4 CJ C3 C5 
+D3 DJ H3 DA 
+C9 CA C6 C8 
+DK D4 H4 D9 
+D6 -  -  -  
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "22"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:32.K6.AJ873.AJ98 976.AJ9.65.Q6532 AT5.QT73.KT9.K74 KQJ84.8542.Q42.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a79baa79ba1631216312"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D 11
+N  C 10
+S NT 10
+S  S  7
+S  H  9
+S  D 11
+S  C 10
+E NT  1
+E  S  6
+E  H  3
+E  D  1
+E  C  2
+W NT  1
+W  S  6
+W  H  3
+W  D  1
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,1,3,56,201,121,40,111,28,40,28,163,23,12,32,18,23,13,205,120,24,13,44,33,14,21,51,18,27,10,44,12,22,38,65,57,20,31,58,198,12,104,14,31,23,10,22,46,8,12,32,19,19,10,13,28,12,20,11,19,11,8
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SK S2 S6 S5 
+SJ S3 S7 ST 
+S4 C8 S9 SA 
+D4 DJ D6 D9 
+D2 D3 D5 DK 
+DQ DA C5 DT 
+S8 D8 H9 H3 
+H5 D7 C2 C4 
+H2 H6 HA H7 
+H4 HK HJ HT 
+CT C9 C3 CK 
+H8 CA C6 C7 
+SQ CJ CQ HQ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "22"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:32.K6.AJ873.AJ98 976.AJ9.65.Q6532 AT5.QT73.KT9.K74 KQJ84.8542.Q42.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a79baa79ba1631216312"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D 11
+N  C 10
+S NT 10
+S  S  7
+S  H  9
+S  D 11
+S  C 10
+E NT  1
+E  S  6
+E  H  3
+E  D  1
+E  C  2
+W NT  1
+W  S  6
+W  H  3
+W  D  1
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,166,196,88,125,95,24,39,41,201,16,8,58,32,23,10,213,49,15,20,17,40,9,9,9,53,50,9,191,157,21,16,59,18,17,58,25,231,54,162,51,33,19,36,94,128,26,15,145,23,9,16,11,14,22,12,9,12,17,11
+[Auction "E"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12/14"]
+[Play "W"]
+SK S2 S6 S5 
+SQ S3 S9 ST 
+S8 H6 S7 SA 
+D2 D3 D5 DK 
+DQ DA D6 DT 
+D4 DJ H9 D9 
+H4 D7 C2 H3 
+H2 D8 C3 H7 
+CT C8 C5 CK 
+H5 CA C6 C7 
+H8 HK HA HT 
+S4 C9 CQ C4 
+SJ CJ HJ HQ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "23"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ632.7542.QJ73. T.KT9.AK8.AKQJT8 KQ.AJ863.6542.43 98754.Q.T9.97652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "6"]
+[Score "NS -1400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "46982469819744b9744b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  9
+N  D  8
+N  C  2
+S NT  4
+S  S  6
+S  H  9
+S  D  8
+S  C  1
+E NT  9
+E  S  7
+E  H  4
+E  D  4
+E  C 11
+W NT  9
+W  S  7
+W  H  4
+W  D  4
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 23,1,3,214,41,212,305,61,143,43,111,186,45,27,875,46,19,36,98,94,211,23,127,29,26,9,55,16,36,12,201,25,23,20,66,101,55,35,361,34,7,17,94,36,8,31,39,24,8,25,24,25,8,732,72,22,13,11,19,254,31,69,21,104,13,48,20,12,22,8
+[Auction "S"]
+Pass Pass 1S =1= X 
+XX 2C Pass 5C 
+5S Pass Pass X 
+Pass Pass Pass 
+[Note "1: 5 card majors"]
+[Play "E"]
+CK C3 C9 S2 
+ST SQ S4 S3 
+C8 SK S5 S6 
+H9 HA HQ H2 
+HT H6 DT H4 
+DK D2 D9 D3 
+HK H3 C2 H5 
+DA D4 C5 D7 
+CA C4 C6 SJ 
+D8 D5 S7 DQ 
+CT H8 C7 H7 
+CJ D6 S8 SA 
+CQ HJ S9 DJ 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "23"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ632.7542.QJ73. T.KT9.AK8.AKQJT8 KQ.AJ863.6542.43 98754.Q.T9.97652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "46982469819744b9744b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  9
+N  D  8
+N  C  2
+S NT  4
+S  S  6
+S  H  9
+S  D  8
+S  C  1
+E NT  9
+E  S  7
+E  H  4
+E  D  4
+E  C 11
+W NT  9
+W  S  7
+W  H  4
+W  D  4
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 10,2,0,458,58,149,251,172,208,46,319,118,180,28,39,192,15,21,53,41,20,12,116,28,26,39,11,20,11,13,71,35,12,20,16,29,11,24
+[Auction "S"]
+Pass Pass 1S X 
+XX =1= Pass Pass 3C =2= 
+Pass Pass Pass 
+[Note "1: 9 plus pts"]
+[Note "2: ♣"]
+[Play "S"]
+SK S4 S2 ST 
+SQ S5 S3 C8 
+C3 C2 H7 CA 
+C4 C5 H2 CK 
+HA HQ H4 H9 
+D5 D9 DJ DA 
+*
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "24"]
+[West "Ian Reeves#44049"]
+[North "rodney light#95804"]
+[East "Tim Matthews#71107"]
+[South "margaret#stoker"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ54.J742.6.KQ53 86.AT85.K75.AJ96 KJT972.Q.T8432.7 3.K963.AQJ9.T842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "492424924274a8a74a8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  2
+N  D  4
+N  C  2
+S NT  4
+S  S  9
+S  H  2
+S  D  4
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  8
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  8
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,158,150,146,163,147,100,118,31,51,116,88,92,19,332,45,25,13,193,65,14,48,181,65,25,23,24,147,410,20,490,23,15,26,11,29,12,37,97,46,30,12,19,31,11,27,19,23,10,8,18,21,9,10,8,23,53,12,6,10,8,7
+[Auction "W"]
+Pass Pass 1NT =1= 2S 
+X =2= 4S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: take out"]
+[Play "W"]
+H3 H2 HA HQ 
+S3 S4 S6 S9 
+DJ D6 D5 DT 
+C2 CK CA C7 
+D9 S5 S8 ST 
+DQ SQ D7 D2 
+HK HJ H5 D3 
+H6 H4 H8 S2 
+DA SA DK D4 
+C4 CQ C6 D8 
+C8 C3 CJ S7 
+CT C5 HT SJ 
+H9 H7 C9 SK 
+
+[Event "Match Brewer vs Matthews"]
+[Site "RealBridge"]
+[Date "2023.05.12"]
+[Board "24"]
+[West "david king#00460861"]
+[North "Babs Matthews#2436"]
+[East "Michael Brewer#"]
+[South "john farmer#john56789"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ54.J742.6.KQ53 86.AT85.K75.AJ96 KJT972.Q.T8432.7 3.K963.AQJ9.T842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Team Matthews"]
+[VisitTeam "Team Brewer"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "492424924274a8a74a8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  2
+N  D  4
+N  C  2
+S NT  4
+S  S  9
+S  H  2
+S  D  4
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  8
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  8
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,297,133,141,42,239,34,304,34,81,26,99,28,85,70,103,21,42,276,57,24,52,168,65,74,48,159,45,13,38,505,25,117,11,154,27,61,33,33,49,21,20,28,55,35,37,75,80,20,62,21,41,22,21,26,23,10,56,20,53,8,11,11,33,10,9
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2S Pass 3D 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+S3 S4 S8 SJ 
+C2 CQ CA C7 
+D9 S5 S6 S9 
+DJ D6 D5 D2 
+H3 H2 HA HQ 
+H6 H4 H8 S2 
+DQ SQ D7 D3 
+C4 CK C6 D4 
+H9 H7 HT S7 
+DA SA DK D8 
+HK HJ H5 ST 
+C8 C3 C9 SK 
+CT C5 CJ DT 

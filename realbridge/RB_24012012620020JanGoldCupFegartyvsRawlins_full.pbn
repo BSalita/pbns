@@ -1,0 +1,6111 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "1"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:4.KQ9654.K64.975 T8652.2.T93.QT43 KJ97.J7.Q87.AK86 AQ3.AT83.AJ52.J2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "75967959674847648476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  7
+E  C  6
+W NT  4
+W  S  8
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,68,219,418,60,135,106,193,61,26,102,26,173,279,35,15,693,38,17,9,21,27,16,32,46,28,10,7,39,61,20,19,9,26,13,18,9,15,6,11,8,9
+[Auction "N"]
+2H Pass 2NT Pass 
+3S Pass 4H X 
+Pass Pass Pass 
+[Play "E"]
+S8 S9 SQ S4 
+S2 S7 SA H5 
+H2 HJ HA H4 
+D3 D7 DA D4 
+D9 DQ D2 D6 
+C3 H7 H3 H9 
+S5 C6 H8 HK 
+S6 -  -  HQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "1"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:4.KQ9654.K64.975 T8652.2.T93.QT43 KJ97.J7.Q87.AK86 AQ3.AT83.AJ52.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "75967959674847648476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  7
+E  C  6
+W NT  4
+W  S  8
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,0,3,168,62,288,201,132,186,59,228,33,29,419,182,126,39,51,143,33,10,422,70,168,21,7,162,110,28,85,242,76,36,23,128,24,17,39,60,78,33,9,62,20,9,9,9,15,11,13,16,51,32,6,18,33,11,8,15,16,14,19,8,8,11,5
+[Auction "N"]
+2D =1= Pass 2H =2= 2NT 
+Pass 3H =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct"]
+[Note "3: S"]
+[Play "N"]
+S4 S5 S7 SQ 
+C5 C3 CK CJ 
+H4 H2 HJ H3 
+H9 S2 H7 H8 
+HK D3 S9 HA 
+C7 CQ CA C2 
+D4 S6 SK SA 
+D6 D9 D7 DA 
+DK DT D8 D2 
+HQ C4 C8 HT 
+H6 S8 C6 S3 
+H5 ST SJ D5 
+C9 CT DQ DJ 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "2"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A7542.632.T73.K3 T6.J9.KQ984.A964 QJ83.KT85.J5.QJ8 K9.AQ74.A62.T752"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "46644466448579986799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  5
+E  H  7
+E  D  9
+E  C  9
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,109,31,49,51,19,67,102,147,55,42,112,29,15,11,21,17,20,6,56,9,21,371,70,20,45,177,88,15,30,20,151,32,20,13,110,16,26,14,24,10,21,14,22,15
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+S4 ST SJ SK 
+D7 DQ D5 D6 
+D3 D4 DJ DA 
+DT DK H5 D2 
+H6 D8 S3 C2 
+H3 D9 S8 C5 
+H2 HJ HK HA 
+C3 CA C8 CT 
+S2 H9 HT HQ 
+S5 -  -  H7 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "2"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A7542.632.T73.K3 T6.J9.KQ984.A964 QJ83.KT85.J5.QJ8 K9.AQ74.A62.T752"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "46644466448579986799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  5
+E  H  7
+E  D  9
+E  C  9
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,115,70,106,84,386,136,38,99,32,26,138,22,10,46,20,21,12,18,66,26,22,9,8,54,17,36,32,24,12,7,281,33,25,11,60,22,9,11,25,18,7,14,11,10,6,16,64,13,16,5,40,10,31,7,8,6,9,4
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+S4 S6 SJ SK 
+D7 D4 D5 DA 
+D3 DK DJ D6 
+DT DQ S3 D2 
+H6 D9 H5 C5 
+H3 D8 H8 C2 
+H2 HJ HK HA 
+S2 H9 HT HQ 
+C3 CA C8 C7 
+CK C4 CJ CT 
+S5 ST SQ S9 
+SA C6 S8 H4 
+S7 C9 CQ H7 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "3"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8762.A8.AT75.AQ6 AKJT.42.K82.7543 Q53.KQT763.J6.98 94.J95.Q943.KJT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "98976989763536735367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  9
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  3
+E  S  5
+E  H  3
+E  D  6
+E  C  7
+W NT  3
+W  S  5
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,2,1,124,51,81,28,133,31,31,31,22,22,311,828,30,68,29,30,17,23,43,19,16,9,24,13,86,16,731,35,25,15,141,28,22,76,17,32,13,20,135,16,9,16,54,23,43,18,28,13,20,17,14,21,14
+[Auction "S"]
+2H Pass 2NT Pass 
+3S Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+H5 H8 H4 H3 
+S9 S2 SK S3 
+S4 S6 SA S5 
+H9 S7 SJ SQ 
+HJ HA H2 H6 
+C2 S8 ST H7 
+CJ CQ C5 C9 
+CK CA C3 C8 
+CT C6 C7 HT 
+D3 DT DK D6 
+D4 -  C4 HQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "3"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8762.A8.AT75.AQ6 AKJT.42.K82.7543 Q53.KQT763.J6.98 94.J95.Q943.KJT2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "98976989763536735367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  9
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  3
+E  S  5
+E  H  3
+E  D  6
+E  C  7
+W NT  3
+W  S  5
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 7,0,3,219,58,242,55,47,129,60,113,38,14,187,25,27,22,50,25,7,6,41,20,9,11,33,12,32,21,67,16,6,20,15,27,16,7,188,34,8,18,21,19,13,14,27,15,13,18
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct if weak 2"]
+[Play "E"]
+SA S3 S4 S2 
+C7 C8 CK CA 
+H2 H3 H9 HA 
+H4 HK H5 H8 
+D2 HQ HJ D5 
+C3 C9 CT CQ 
+SK S5 S9 S6 
+DK D6 D3 DA 
+ST SQ C2 S7 
+D8 DJ DQ D7 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "4"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J.J754.KT86.A763 Q762.K32.52.KQT2 K943.T98.A743.54 AT85.AQ6.QJ9.J98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "33564335749986999869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  5
+S  D  7
+S  C  4
+E NT  9
+E  S  9
+E  H  8
+E  D  6
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,2,1,126,32,25,45,118,163,40,33,48,27,21,20,46,25,19,12,424,19,25,34,120,68,19,18,21,31,82,8,45,25,19,49,163,30,24,12,182,25,25,20,10,19,16
+[Auction "W"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+H4 H2 H8 HQ 
+C3 C2 C4 C9 
+C6 CT C5 C8 
+SJ S2 S3 ST 
+H5 H3 H9 HA 
+C7 S6 S4 SA 
+CA CQ D3 CJ 
+D6 D2 DA D9 
+H7 S7 SK S5 
+DK -  D7 DQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "4"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J.J754.KT86.A763 Q762.K32.52.KQT2 K943.T98.A743.54 AT85.AQ6.QJ9.J98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "33564335749986999869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  5
+S  D  7
+S  C  4
+E NT  9
+E  S  9
+E  H  8
+E  D  6
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,0,3,142,80,70,57,155,196,25,17,13,60,11,22,76,40,43,14,251,104,13,33,45,247,24,16,19,24,15,14,206,34,13,74,27,16,10,8,11,15,23,11,24
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+H4 H2 H8 HA 
+C3 C2 C5 C9 
+C6 CK C4 C8 
+CA CQ D7 CJ 
+H5 H3 H9 HQ 
+SJ S2 S4 SA 
+D6 SQ SK S5 
+D8 D2 DA D9 
+DK D5 D4 DJ 
+DT -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "5"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ.K.AJ8752.8762 63.T976.KQ63.JT4 T9854.A843.T94.Q AK72.QJ52..AK953"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3DX"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "36483364839795a9795a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  4
+N  D  8
+N  C  3
+S NT  3
+S  S  6
+S  H  4
+S  D  8
+S  C  3
+E NT  9
+E  S  7
+E  H  9
+E  D  5
+E  C 10
+W NT  9
+W  S  7
+W  H  9
+W  D  5
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 11,2,1,68,30,63,55,75,46,151,61,32,63,30,26,54,38,9,171,28,22,8,238,20,17,7,58,37,105,8,21,24,37,7,14,22,8,39,385,34,7,23,12,27,15,12,9,16,13,16,63,46
+[Auction "N"]
+Pass Pass Pass 1C 
+2D Pass 3D X 
+Pass Pass Pass 
+[Play "E"]
+CJ CQ CK C2 
+S6 S4 SK SQ 
+S3 S5 SA SJ 
+DQ S8 S7 D7 
+HT H3 H5 HK 
+C4 D4 C5 C6 
+H6 HA H2 C7 
+H7 H4 HQ D2 
+CT D9 C3 C8 
+-  DT C9 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "5"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ.K.AJ8752.8762 63.T976.KQ63.JT4 T9854.A843.T94.Q AK72.QJ52..AK953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "36483364839795a9795a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  4
+N  D  8
+N  C  3
+S NT  3
+S  S  6
+S  H  4
+S  D  8
+S  C  3
+E NT  9
+E  S  7
+E  H  9
+E  D  5
+E  C 10
+W NT  9
+W  S  7
+W  H  9
+W  D  5
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 17,0,3,139,73,69,659,130,76,63,219,50,30,36,33,529,713,37,20,29,43,34,50,19,24,13,61,25,16,41,61,48,30,13,187,39,33,26,23,24,18,8,55,18,21,9,54,20,22,6,85,29,47,13,56,43,41,9,37,8,18
+[Auction "N"]
+1D Pass 1S X =1= 
+2D 2H 3D 4H 
+Pass Pass Pass 
+[Note "1: 4H & 4+C"]
+[Play "S"]
+DT C3 DA D3 
+ST SA SQ S3 
+H3 H2 HK H6 
+S4 SK SJ S6 
+H4 HQ D7 H7 
+S5 S2 D2 HT 
+D4 C5 D5 DK 
+D9 C9 D8 DQ 
+CQ CK C7 C4 
+S8 S7 C2 H9 
+S9 H5 DJ D6 
+-  CA C6 CT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "6"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ8.AT862.A2.852 9742.KQ97.QJ54.Q AT.4.KT863.JT976 Q653.J53.97.AK43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "77799777995564355643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  7
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  5
+E  H  6
+E  D  4
+E  C  3
+W NT  5
+W  S  5
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,167,35,113,46,68,40,42,33,134,28,50,54,505,182,318,29,52,28,12,181,47,55,103,66,384,29,9,21,365,33,35,15,33,93,7,104,22,30,21,18,70,30,14,17,18,59,8,23,9,19,8,14,24
+[Auction "E"]
+Pass Pass 1C 1H 
+X Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+CJ C3 C8 CQ 
+H4 H3 H2 HK 
+ST S3 S8 S2 
+D3 D7 DA D4 
+DK D9 D2 DQ 
+D8 C4 C5 DJ 
+C6 HJ HA H7 
+SA S5 SJ S4 
+DT S6 C2 D5 
+D6 SQ H6 S7 
+C7 -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "6"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ8.AT862.A2.852 9742.KQ97.QJ54.Q AT.4.KT863.JT976 Q653.J53.97.AK43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "77799777995564355643"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  9
+N  C  9
+S NT  7
+S  S  7
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  5
+E  H  6
+E  D  4
+E  C  3
+W NT  5
+W  S  5
+W  H  6
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,88,270,125,190,127,48,72,144,1399,27,10,229,31,7,25,9,24,10,15,68,619,46,30,15,22,23,11,74,87,26,49,45,16,23,24,107,25,8,38,15,26,9,46,8,36
+[Auction "E"]
+Pass 2NT =1= Pass 3C 
+Pass Pass Pass 
+[Note "1: both minors < 10 HCP"]
+[Play "E"]
+HQ H4 H3 HA 
+D4 D3 D7 DA 
+D5 DK D9 D2 
+DJ D6 CK H2 
+CQ C6 CA C2 
+S7 C9 C3 C5 
+DQ D8 S3 C8 
+S2 SA S6 S8 
+S4 CJ C4 H6 
+-  CT H5 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "7"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ82.876.AT97.A2 76.532.542.QJ843 A43.AJ94.Q3.KT95 JT95.KQT.KJ86.76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aaaa9aaaa93333433334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S 10
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  3
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,125,71,40,133,62,33,36,41,24,28,521,376,190,661,29,36,180,20,324,32,14,345,1026,187,22,21,29,46,16,12,80,19,8,48,461,29,22,22,82,36,29,58,12,36,10,15,19,20,8,20,10,15,7,12
+[Auction "S"]
+1C Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+SJ S2 S6 SA 
+DK DA D2 DQ 
+HT H8 H2 H4 
+C7 C2 CJ CK 
+D6 DT D4 D3 
+HQ H6 H3 H9 
+HK H7 H5 HA 
+C6 D7 C8 HJ 
+S9 SK S7 S3 
+S5 SQ C3 S4 
+D8 CA C4 C5 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "7"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ82.876.AT97.A2 76.532.542.QJ843 A43.AJ94.Q3.KT95 JT95.KQT.KJ86.76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aaaa9aaaa93333433334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S 10
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  3
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,274,60,134,54,383,72,185,52,190,100,61,45,49,55,185,414,28,36,125,23,9,26,30,30,15,34,829,698,26,9,92,30,7,23,20,26,7,26,16,20,8,53,345,30,22,21,54,32,17,23,16,31,9,45,18,65,7,9,3,24,14,8,6,14,15,6
+[Auction "S"]
+1C =1= Pass 1H =2= Pass 
+1S =3= Pass 2C =4= Pass 
+2H =5= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: ♠"]
+[Note "3: exactly 3S handtype strength undefined"]
+[Note "4: enquiry"]
+[Note "5: 11-14 bal"]
+[Play "E"]
+C3 C9 C6 C2 
+S6 S3 S5 SK 
+D5 DQ DK D7 
+S7 SA SJ S2 
+C4 C5 C7 CA 
+D2 D3 D6 DA 
+D4 H4 DJ DT 
+H5 HA HK H7 
+C8 CK D8 H6 
+H3 S4 ST SQ 
+H2 CT HT D9 
+CJ H9 S9 S8 
+CQ HJ HQ H8 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "8"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJT.QJ3.AQ32.A86 9654.AT62.JT95.7 A8732.7.76.QJ543 K.K9854.K84.KT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "89579895795475354763"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  5
+S  D  7
+S  C  9
+E NT  5
+E  S  4
+E  H  7
+E  D  5
+E  C  3
+W NT  5
+W  S  4
+W  H  7
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,138,79,74,190,44,40,204,66,162,28,19,71,215,43,76,106,19,9,44,23,17,606,49,12,181,73,30,33,134,17,74,247,26,37,294,18,45,34,19,38,26,19,52
+[Auction "W"]
+1H 1NT =1= 2H 2S 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+H5 HQ HA H7 
+CK CA C7 CJ 
+SK SQ S4 S2 
+CT C6 S5 C3 
+H4 H3 H2 S3 
+H8 ST S6 S7 
+D4 SJ S9 S8 
+C2 C8 H6 CQ 
+C9 D2 HT C4 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "8"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJT.QJ3.AQ32.A86 9654.AT62.JT95.7 A8732.7.76.QJ543 K.K9854.K84.KT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "89579895795475354763"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  5
+S  D  7
+S  C  9
+E NT  5
+E  S  4
+E  H  7
+E  D  5
+E  C  3
+W NT  5
+W  S  4
+W  H  7
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,105,109,131,276,62,210,37,37,25,73,323,31,33,68,104,24,39,54,26,23,26,34,31,38,41,38,36,105,83,111,60,34,24,326,27,29,27,29,44,10,47,79,31,24,27
+[Auction "W"]
+1H 1NT 2H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+H4 HJ HA H7 
+CK CA C7 CJ 
+SK SQ S4 S2 
+CT C6 S5 C3 
+H5 H3 H2 S3 
+H8 ST S6 S7 
+C2 C8 S9 C4 
+HK HQ H6 S8 
+D8 DQ D5 D7 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "9"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT4.953.A8765.J5 Q9765.KQ7.J9.T74 J83.J642.KQT.K32 A2.AT8.432.AQ986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "12"]
+[Score "NS -230"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "64564645647977979779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  7
+W  S  9
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,191,65,64,55,47,94,33,100,27,26,30,75,205,17,32,71,19,7,13,10,17,15,11,23,37,23,27,134,23,9,23,34,23,22,7,80,14,9,18,26,56,17,14,7,43
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2H =1= Pass 2S 
+Pass Pass Pass 
+[Note "1: spades"]
+[Play "N"]
+CJ C4 C3 CQ 
+S4 S5 S3 SA 
+SK S6 S8 S2 
+C5 CT CK CA 
+H3 HK H6 H8 
+ST SQ SJ D2 
+D5 C7 C2 C9 
+D6 D9 DK C8 
+D7 -  -  C6 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "9"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT4.953.A8765.J5 Q9765.KQ7.J9.T74 J83.J642.KQT.K32 A2.AT8.432.AQ986"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "64564645647977979779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  7
+E  D  7
+E  C  9
+W NT  7
+W  S  9
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,197,35,94,98,34,126,142,37,28,168,89,37,17,297,30,7,18,215,31,8,521,30,25,12,15,12,18,19,12,11,239,23,20,72,187,29,20,49,30,10,12,15,38,13,6,16,18,11,7,9,7,13,15,13,10,10,7,10,7,9,11
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+DK D2 D6 D9 
+DQ D3 D5 DJ 
+DT D4 D7 S5 
+S8 SA S4 S6 
+S3 S2 SK S7 
+SJ C6 D8 S9 
+C2 CQ C5 C4 
+H2 H8 H9 HK 
+H4 C8 ST SQ 
+H6 HA H3 H7 
+HJ HT H5 HQ 
+C3 CA CJ C7 
+CK C9 DA CT 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "10"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9.Q9876.A52.J84 T2.A543.QJ7643.7 QJ7543.J2.K98.A9 K86.KT.T.KQT6532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "59865598655457854578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  8
+N  D  6
+N  C  5
+S NT  5
+S  S  9
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,77,47,154,107,75,38,123,204,34,79,21,122,988,31,37,27,33,24,34,1362,48,19,23,42,23,20,28,42,48,711,50,65,25,37,255,258,49,34,24,37,23,21,19,25,21,43,7
+[Auction "E"]
+Pass 1S 2C X 
+Pass 2S 3C 3S 
+Pass Pass Pass 
+[Play "W"]
+DT D2 D7 DK 
+HK H6 H3 H2 
+CK C4 C7 CA 
+HT H7 HA HJ 
+C3 DA DQ D8 
+S8 HQ H4 C9 
+S6 S9 ST SJ 
+SK SA S2 S3 
+C2 H8 H5 D9 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "10"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9.Q9876.A52.J84 T2.A543.QJ7643.7 QJ7543.J2.K98.A9 K86.KT.T.KQT6532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "59865598655457854578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  8
+N  D  6
+N  C  5
+S NT  5
+S  S  9
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,69,34,213,104,128,108,225,100,42,39,50,32,695,41,28,226,372,47,18,81,78,20,1318,126,943,164,23,34,125,571,24,56,24,253,43,38,40,15,19,135,20,16,13,94,25,14,22
+[Auction "E"]
+Pass 1S 2C X 
+2D 2S 3C 4S 
+Pass Pass Pass 
+[Play "W"]
+DT D2 D7 DK 
+HK H6 H5 H2 
+CK C4 C7 CA 
+C2 C8 S2 C9 
+S6 D5 DQ D8 
+CQ CJ D6 S3 
+SK SA ST SQ 
+HT H7 H3 HJ 
+S8 S9 D3 S4 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "11"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q8.AKQ96.KT8.QJ3 A76.T5432.973.97 KJT4.J.Q642.T862 9532.87.AJ5.AK54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "98789987894555445554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 7,0,3,126,52,115,153,110,101,177,110,36,27,28,19,106,63,133,24,526,38,22,27,99,26,24,16,24,14,21,11,18,13,20,14,19,22,36,40,17,719,44,13,71,25,27,20,52,21,10,22,111,22,64,49,24,12
+[Auction "S"]
+Pass 1NT X XX =1= 
+Pass 2C Pass 2H 
+X Pass Pass Pass 
+[Note "1: 5+ card suit somewhere"]
+[Play "S"]
+HJ H7 H6 H2 
+S4 S2 SQ SA 
+C8 CA C3 C7 
+C2 CK CJ C9 
+C6 C4 CQ H3 
+D4 DA D8 D3 
+CT C5 HQ D7 
+ST S3 S8 S6 
+SK S5 DT S7 
+SJ S9 DK H4 
+D2 -  -  D9 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "11"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q8.AKQ96.KT8.QJ3 A76.T5432.973.97 KJT4.J.Q642.T862 9532.87.AJ5.AK54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "5"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "98789987894555445554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 7,2,1,107,114,89,48,162,36,213,173,167,30,26,88,21,36,60,192,20,20,19,279,48,12,22,19,23,12,11,16,12,13,9,10,7,18,9,36,30,14,6,256,50,308,36,14,36,19,16
+[Auction "S"]
+Pass 1NT =1= X =2= 2H 
+Pass Pass Pass 
+[Note "1: 12 14"]
+[Note "2: 15+"]
+[Play "S"]
+D2 D5 DT D3 
+D4 DA DK D7 
+DQ DJ D8 D9 
+S4 S2 SQ SA 
+C2 CA C3 C7 
+C6 CK CJ C9 
+C8 C4 CQ H2 
+ST S3 S8 S6 
+SK S5 H6 S7 
+HJ H7 H9 HT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "12"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K5.Q8.A65.KQ7432 T843.AJ64.7.JT86 AQJ976.T2.JT42.A 2.K9753.KQ983.95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "8a47a8a47a3184231842"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  4
+N  D  7
+N  C 10
+S NT  8
+S  S 10
+S  H  4
+S  D  7
+S  C 10
+E NT  3
+E  S  1
+E  H  8
+E  D  4
+E  C  2
+W NT  3
+W  S  1
+W  H  8
+W  D  4
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,342,174,66,67,55,78,27,347,155,56,21,37,186,50,44,284,32,45,42,110,20,18,22,23,118,14,21,77,21,36,14,268,20,22,84,274,22,23,75,12,58,25,21,14,40,33,21,20,24,13,24,15,19,21,10,11,8,22,16
+[Auction "W"]
+2H =1= 3C 4H 4S 
+Pass Pass Pass 
+[Note "1: weak, 6+H or 5H/5m"]
+[Play "W"]
+H3 H8 HA H2 
+DQ DA D7 DT 
+C5 C2 C6 CA 
+S2 S5 S3 SA 
+H5 SK S4 S6 
+C9 CK C8 HT 
+D3 CQ CT D2 
+H7 C3 CJ S7 
+D8 C4 S8 SQ 
+H9 C7 ST SJ 
+DK D5 H4 DJ 
+HK HQ H6 S9 
+D9 D6 HJ D4 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "12"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K5.Q8.A65.KQ7432 T843.AJ64.7.JT86 AQJ976.T2.JT42.A 2.K9753.KQ983.95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "8a47a8a47a3184231842"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  4
+N  D  7
+N  C 10
+S NT  8
+S  S 10
+S  H  4
+S  D  7
+S  C 10
+E NT  3
+E  S  1
+E  H  8
+E  D  4
+E  C  2
+W NT  3
+W  S  1
+W  H  8
+W  D  4
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,292,118,231,372,39,37,29,122,55,82,18,79,205,21,41,186,25,9,30,8,33,10,23,11,174,27,25,11,23,25,26,111,36,16,92,24,311,76,54,13,24,42,25,101,48,7,15
+[Auction "W"]
+2D =1= 3C 4D =2= Pass 
+4H Pass Pass 4S 
+Pass Pass Pass 
+[Note "1: Multi"]
+[Note "2: bid your suit"]
+[Play "W"]
+DK DA D7 D2 
+C9 C2 C6 CA 
+S2 S5 S3 SA 
+H3 SK S4 S6 
+C5 CK C8 H2 
+D9 CQ CT HT 
+D3 D5 S8 D4 
+H5 H8 H4 S7 
+H7 C3 ST SQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "13"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K96.T62.T952.JT3 J53.KQ73.AK.AK75 AQ874.A4.7.Q8642 T2.J985.QJ8643.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "682286822874a9474a94"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  2
+N  D  2
+N  C  8
+S NT  6
+S  S  8
+S  H  2
+S  D  2
+S  C  8
+E NT  7
+E  S  4
+E  H 10
+E  D  9
+E  C  4
+W NT  7
+W  S  4
+W  H 10
+W  D  9
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,95,212,81,439,39,136,48,248,30,398,50,51,31,229,75,36,55,14,24,23,25,89,16,21,10,33,24,18,36,31,30,19,8,54,22,28,27,29,14,27,8,28,15,27,9,33,13,44,11,30,7,29,11,32,8,20,13,18,6,22,12,16,7,16,10
+[Auction "N"]
+Pass 2NT =1= Pass 3C =2= 
+Pass 3D =3= Pass 3S =4= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 20-21"]
+[Note "2: Modified puppet"]
+[Note "3: at least one 4 card major"]
+[Note "4: Hts"]
+[Play "S"]
+HA H5 H2 H3 
+H4 H8 H6 HK 
+S4 H9 HT HQ 
+D7 D3 D9 DA 
+C4 D4 D2 DK 
+C2 C9 C3 CA 
+C6 S2 CT CK 
+C8 HJ CJ C5 
+S7 DQ D5 C7 
+S8 DJ DT S3 
+SQ D8 S6 S5 
+CQ D6 S9 SJ 
+SA ST SK H7 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "13"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K96.T62.T952.JT3 J53.KQ73.AK.AK75 AQ874.A4.7.Q8642 T2.J985.QJ8643.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "682286822874a9474a94"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  2
+N  D  2
+N  C  8
+S NT  6
+S  S  8
+S  H  2
+S  D  2
+S  C  8
+E NT  7
+E  S  4
+E  H 10
+E  D  9
+E  C  4
+W NT  7
+W  S  4
+W  H 10
+W  D  9
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,50,277,69,639,39,107,100,37,29,152,54,50,33,19,34,33,23,657,118,92,29,783,23,21,14,14,18,7,10,462,30,10,19,61,24,10,4,33,18,10,6,12,20,10,5,9
+[Auction "N"]
+Pass 2NT =1= Pass 3C =2= 
+Pass 3D =3= Pass 3S 
+Pass 4C =4= Pass 4D 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 20-21"]
+[Note "2: 5c stayman"]
+[Note "3: 1 or 2 4cms"]
+[Note "4: 4 ♡, suitable"]
+[Play "S"]
+HA H5 H2 H3 
+SA S2 S6 S5 
+S4 ST SK S3 
+C8 C9 CJ CA 
+H4 H8 H6 HK 
+S7 H9 HT HQ 
+D7 D3 D2 DA 
+-  -  -  DK 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "14"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:73.J97.762.K9864 98.AT653.KQJ4.53 AQT6542.2.A95.J7 KJ.KQ84.T83.AQT2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "383353833575aa875aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  3
+N  C  5
+S NT  3
+S  S  8
+S  H  3
+S  D  3
+S  C  5
+E NT  7
+E  S  5
+E  H 10
+E  D 10
+E  C  8
+W NT  7
+W  S  5
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,126,67,228,74,125,38,156,60,43,47,21,35,56,126,42,34,38,25,27,10,41,28,11,14,90,24,20,10,50,23,15,18,115,37,16,15,12,22,9,13,23,37,27,14,32
+[Auction "E"]
+Pass 1S 1NT Pass 
+2D =1= 2S 3H Pass 
+4H Pass Pass Pass 
+[Note "1: Hearts "]
+[Play "N"]
+S7 S8 SA SJ 
+S3 S9 ST SK 
+H7 H3 H2 HK 
+H9 H5 S5 HQ 
+HJ HA S2 H4 
+D2 D4 D5 DT 
+D6 DJ DA D8 
+CK C3 CJ CQ 
+C8 -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "14"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:73.J97.762.K9864 98.AT653.KQJ4.53 AQT6542.2.A95.J7 KJ.KQ84.T83.AQT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "383353833575aa875aa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  3
+N  C  5
+S NT  3
+S  S  8
+S  H  3
+S  D  3
+S  C  5
+E NT  7
+E  S  5
+E  H 10
+E  D 10
+E  C  8
+W NT  7
+W  S  5
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,2,1,95,289,297,33,113,157,107,22,90,25,117,29,42,20,339,73,60,36,409,26,7,13,27,23,11,21,33,14,20,11,41,23,18,76,32,51,15,6,163,20,13,18,12
+[Auction "E"]
+Pass 1S X Pass 
+4H 4S X Pass 
+5D Pass 5H Pass 
+Pass Pass 
+[Play "S"]
+SA SJ S3 S8 
+S2 SK S7 S9 
+H2 HK H7 H3 
+S6 HQ H9 H5 
+S5 H4 HJ HA 
+D9 D3 D7 DQ 
+C7 CQ CK C3 
+-  -  D2 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "15"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.AQJ9.KQ5.K84 AT43.T4.AT4.AJ53 976.K63.J973.962 Q52.8752.862.QT7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1C"]
+[Result "7"]
+[Score "NS 70"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "87886767865655656556"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  6
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  6
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 0,0,3,104,47,202,115,89,120,68,394,60,15,49,43,15,7,22,59,42,54,61,25,9,6,27,19,15,7,183,28,9,44,94,19,8,27,75,331,17,10,76,23,8,11,38,245,16,20,20,174,79,49,32,15,94,27,8,18,6,6
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+Pass Pass 
+[Note "1: 2+C might have 5d"]
+[Play "E"]
+HT H3 H7 HQ 
+DA D3 D8 DQ 
+H4 H6 H8 HA 
+D4 D7 D2 DK 
+DT DJ D6 D5 
+C3 HK H2 H9 
+S3 S6 SQ SK 
+CJ S7 H5 HJ 
+SA S9 S5 S8 
+S4 C2 S2 SJ 
+CA D9 CT CK 
+C5 C6 C7 C8 
+ST C9 CQ C4 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "15"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.AQJ9.KQ5.K84 AT43.T4.AT4.AJ53 976.K63.J973.962 Q52.8752.862.QT7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1C"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "87886767865655656556"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  6
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  6
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 0,2,1,56,83,50,44,77,134,212,237,144,13,16,30,16,38,66,18,62,17,16,39,17,87,41,18,100,10,1778,30,19,12,663,47,49,24,103,18,18,9,17,10,9,17,11,22,7,12,18,29,22,11,13,17,12,10,11,26,14,10
+[Auction "S"]
+Pass Pass 1C Pass 
+Pass Pass 
+[Play "E"]
+HT HK H7 H9 
+CA C2 C7 CK 
+H4 H3 H2 HA 
+C3 C9 CT C4 
+C5 H6 H8 HQ 
+CJ C6 CQ C8 
+ST S6 S2 S8 
+SA S7 S5 SJ 
+S3 S9 SQ SK 
+D4 D3 H5 HJ 
+DA D7 D2 DQ 
+S4 D9 D6 D5 
+DT DJ D8 DK 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "16"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:53.AJT6.AQT3.Q86 A7.983.K92.KT974 KQJ2.K74.65.AJ32 T9864.Q52.J874.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bab9ab9b992323323233"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D  9
+N  C 10
+S NT 11
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  2
+E  S  3
+E  H  2
+E  D  3
+E  C  3
+W NT  2
+W  S  3
+W  H  2
+W  D  3
+W  C  3
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,96,152,69,162,43,86,46,63,53,35,22,29,921,26,46,241,43,14,18,211,17,23,31,50,59,29,24,422,19,20,36,92,27,65,33,141,33,44,23,411,23,10,33,21,94,9,27,141,21,10,73,29,9,19,17,7,66,13,17,7,19,7,8
+[Auction "W"]
+Pass 1C =1= Pass 1H =2= 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+C, maybe 5d"]
+[Note "2: spades"]
+[Play "E"]
+C4 C2 C5 C6 
+H9 HK H5 H6 
+H3 H4 H2 HJ 
+S7 SK S8 S3 
+DK D5 D4 DT 
+D9 D6 DJ DA 
+CK CA S4 CQ 
+SA SQ S6 S5 
+D2 C3 D7 DQ 
+C7 CJ HQ C8 
+C9 SJ ST D3 
+H8 H7 S9 HT 
+CT S2 D8 HA 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "16"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:53.AJT6.AQT3.Q86 A7.983.K92.KT974 KQJ2.K74.65.AJ32 T9864.Q52.J874.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bab9ab9b992323323233"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D  9
+N  C 10
+S NT 11
+S  S  9
+S  H 11
+S  D  9
+S  C  9
+E NT  2
+E  S  3
+E  H  2
+E  D  3
+E  C  3
+W NT  2
+W  S  3
+W  H  2
+W  D  3
+W  C  3
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,2,1,434,213,61,81,27,32,72,84,30,33,21,49,197,44,33,14,45,19,37,24,38,13,32,141,27,14,80,195,249,34,19,13,27,5,20,7,13,8,34,6,24,6,24,14,34,13,21,114,25,72
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+CT C2 C5 CQ 
+S7 SJ S4 S3 
+H3 H4 H2 HJ 
+SA S2 ST S5 
+H9 H7 HQ HA 
+H8 HK H5 H6 
+C4 SK S6 D3 
+D2 SQ S8 DT 
+DK D5 D8 DQ 
+C9 CJ D4 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "17"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:86532.982.J6.986 J9.KQT76.K8754.A AQ4.A4.T93.KQ753 KT7.J53.AQ2.JT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "362263622697bb797bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  2
+N  D  2
+N  C  6
+S NT  3
+S  S  6
+S  H  2
+S  D  2
+S  C  6
+E NT  9
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT  9
+W  S  7
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 7,0,3,76,76,130,257,97,57,35,323,40,155,50,38,151,35,21,61,101,21,9,127,64,8,26,27,37,34,25,33,19,27,11,42,21,29,28,27,25,25,12,23,16,24,11,25,25
+[Auction "N"]
+Pass 1H X XX =1= 
+1S 2D Pass 2H 
+Pass Pass Pass 
+[Note "1: 9+"]
+[Play "S"]
+CK C2 C6 CA 
+HA H3 H2 HK 
+SA S7 S6 S9 
+S4 SK S5 SJ 
+H4 HJ H8 H6 
+C3 H5 H9 HQ 
+D3 DA D6 D4 
+D9 DQ DJ D5 
+-  D2 S2 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "17"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:86532.982.J6.986 J9.KQT76.K8754.A AQ4.A4.T93.KQ753 KT7.J53.AQ2.JT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "362263622697bb797bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  2
+N  D  2
+N  C  6
+S NT  3
+S  S  6
+S  H  2
+S  D  2
+S  C  6
+E NT  9
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT  9
+W  S  7
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,57,32,140,509,39,150,41,44,31,25,177,139,115,7,45,38,23,18,13,22,8,24,17,742,35,5,29,136,29,20,8,54,28,11,8,25,16,13,9,15,14,10,8,10,6,16,10
+[Auction "N"]
+Pass 1H 2C 2NT 
+Pass 3D Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+CK C2 C9 CA 
+H4 HJ H8 H6 
+HA H3 H2 HK 
+CQ C4 C8 H7 
+C5 H5 H9 HQ 
+D9 DA D6 D4 
+D3 DQ DJ D5 
+C3 CJ C6 S9 
+C7 CT S8 SJ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "18"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ983.98.QJT.K82 KT5.K2.6543.QJ53 A62.JT743.K72.74 74.AQ65.A98.AT96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57755577558667886678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  7
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,141,41,54,89,59,42,36,531,45,13,25,22,25,319,55,58,18,11,39,23,24,25,19,12,13,16,23,30,294,33,16,19,71,9,23
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+SQ SK SA S4 
+S3 S5 S6 S7 
+H9 HK H3 H6 
+CK CQ C7 C6 
+SJ ST S2 D8 
+S9 D3 H4 D9 
+S8 D4 D2 H5 
+DQ -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "18"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ983.98.QJT.K82 KT5.K2.6543.QJ53 A62.JT743.K72.74 74.AQ65.A98.AT96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57755577558667886678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  7
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,53,70,68,41,48,43,30,601,31,18,127,36,16,13,8,46,27,26,33,38,22,23,63,18,25,24,17,27,49,13,24,16,49,12,16
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+SQ S5 S6 S7 
+S8 ST SA S4 
+S9 SK S2 D8 
+C8 CQ C4 C6 
+CK CJ C7 C9 
+SJ D3 H7 D9 
+S3 D4 H3 H5 
+DQ -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "19"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q76.A96.K8764.KQ AJ4.J8.JT2.76432 KT.KT743.AQ.AJT9 98532.Q52.953.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cabcbcabcb1311213112"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 11
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 11
+E NT  1
+E  S  3
+E  H  1
+E  D  1
+E  C  2
+W NT  1
+W  S  3
+W  H  1
+W  D  1
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,2,1,184,47,84,46,303,36,343,124,49,180,1298,25,18,41,37,23,53,25,8,28,16,24,9,10,95,47,7,22,58,31,9,10,33,21,10,43,17,21,13,12,98,43,11,24
+[Auction "S"]
+1H Pass 2D =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: GF ♢"]
+[Play "W"]
+S8 S6 SA ST 
+C8 CQ C6 C9 
+D3 D4 D2 DA 
+D5 D6 DT DQ 
+S5 S7 S4 SK 
+H2 HA H8 H3 
+S2 SQ SJ H4 
+D9 DK DJ H7 
+S3 D8 HJ HT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "19"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q76.A96.K8764.KQ AJ4.J8.JT2.76432 KT.KT743.AQ.AJT9 98532.Q52.953.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cabcbcabcb1311213112"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 11
+N  D 12
+N  C 11
+S NT 12
+S  S 10
+S  H 11
+S  D 12
+S  C 11
+E NT  1
+E  S  3
+E  H  1
+E  D  1
+E  C  2
+W NT  1
+W  S  3
+W  H  1
+W  D  1
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,0,3,195,48,232,72,220,83,244,56,111,48,176,33,52,32,33,28,602,48,604,217,22,31,162,28,26,21,37,22,26,16,127,35,15,22,63,13,23,20,117,13,12,21,18,23,16,15,12,27,11,41,15
+[Auction "S"]
+1H Pass 2C =1= Pass 
+2NT =2= Pass 3H Pass 
+3S =3= Pass 4C Pass 
+4D =4= Pass 4H Pass 
+Pass Pass 
+[Note "1: artificial, 3 way"]
+[Note "2: 15+ no shortage"]
+[Note "3: cue"]
+[Note "4:  * cue [0:07]"]
+[Play "W"]
+C8 CK C7 C9 
+H5 HA H8 H3 
+H2 H6 HJ HK 
+D5 D4 DJ DA 
+D3 D6 D2 DQ 
+C5 CQ C2 CT 
+D9 DK DT ST 
+HQ D7 C6 SK 
+S9 -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "20"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q5.A.K9864.AKT86 KJT732.75.Q5.Q43 A4.KT9863.T72.95 986.QJ42.AJ3.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "669b9669a96642366423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  9
+N  D 11
+N  C  9
+S NT  6
+S  S  6
+S  H  9
+S  D 10
+S  C  9
+E NT  6
+E  S  6
+E  H  4
+E  D  2
+E  C  3
+W NT  6
+W  S  6
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 11,2,1,72,36,114,123,174,77,42,79,55,315,28,30,823,38,23,16,43,5,32,16,14,7,39,9,18,12,27,14,28,15,32,93,13,81,10,14,25,6,41,7,31,15,13,22,19,19
+[Auction "W"]
+Pass 1D 1S 2H 
+2S 3C Pass 3D 
+Pass Pass Pass 
+[Play "E"]
+SJ S4 S6 SQ 
+C3 C5 C2 CK 
+C4 C9 CJ CA 
+CQ D7 C7 C6 
+DQ D2 D3 D8 
+H7 H3 H4 HA 
+S2 SA S8 S5 
+D5 DT DA D4 
+H5 -  HQ D9 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "20"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q5.A.K9864.AKT86 KJT732.75.Q5.Q43 A4.KT9863.T72.95 986.QJ42.AJ3.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "669b9669a96642366423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  9
+N  D 11
+N  C  9
+S NT  6
+S  S  6
+S  H  9
+S  D 10
+S  C  9
+E NT  6
+E  S  6
+E  H  4
+E  D  2
+E  C  3
+W NT  6
+W  S  6
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 11,0,3,106,100,78,200,222,80,46,244,46,49,32,103,691,30,11,27,25,12,27,70,29,11,9,31,21,15,35,112,27,29,19,50,19,49,25,141,22,18,28,30,20,35,21,1305,29,10,42,36,63,19,8,17,21,10,24,7
+[Auction "W"]
+Pass 1D 1S X 
+2S 3C Pass 3D 
+Pass Pass Pass 
+[Play "E"]
+ST SA S9 S5 
+H5 H3 H2 HA 
+C4 C5 C7 CA 
+C3 C9 C2 CK 
+CQ D7 CJ C6 
+H7 HK H4 SQ 
+DQ DT D3 D4 
+SK S4 S6 D6 
+D5 D2 DJ D8 
+S2 H6 HJ D9 
+S3 H8 DA CT 
+-  -  HQ -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "21"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.KQJ.T72.AQJ6 T32.A9732.6.9853 754.T6.AQJ84.742 K986.854.K953.KT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "aa8baaa8ba2342333523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 11
+S  C 10
+E NT  2
+E  S  3
+E  H  4
+E  D  2
+E  C  3
+W NT  3
+W  S  3
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,153,37,89,57,37,32,140,25,23,59,88,45,165,17,16,30,13,34,18,35,19,71,716,34,19,29,171,30,6,27,17,12,7,26,21,14,394,26,19,17,6,25,57,91,20,20,9,158,19,19
+[Auction "N"]
+1C Pass 1D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+H3 H6 H8 HQ 
+D6 D4 D3 DT 
+S2 DJ D5 D2 
+S3 S4 S6 SQ 
+C3 C2 CT CA 
+C5 C4 CK CQ 
+H2 HT H5 HK 
+C8 C7 S8 CJ 
+H7 DA D9 D7 
+ST S5 S9 SA 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "21"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.KQJ.T72.AQJ6 T32.A9732.6.9853 754.T6.AQJ84.742 K986.854.K953.KT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "aa8baaa8ba2342333523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 11
+S  C 10
+E NT  2
+E  S  3
+E  H  4
+E  D  2
+E  C  3
+W NT  3
+W  S  3
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,221,64,183,110,60,22,84,42,72,31,122,215,40,29,158,28,32,11,51,59,43,743,216,31,28,27,265,44,15,81,18,36,35,10,43,21,8,15,183,26,9,27,413,65,11,17,14,14,22,24,12,26,8,7,13,24,8,9,8,19,7,5
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct"]
+[Play "E"]
+H2 H6 H8 HQ 
+D6 D4 D3 DT 
+C9 DQ D5 D2 
+C3 C2 CT CQ 
+S3 S4 SK SQ 
+HA HT H5 HK 
+H7 D8 H4 HJ 
+S2 S5 S9 SA 
+H3 DA D9 D7 
+C5 C4 CK CA 
+ST S7 S8 SJ 
+C8 C7 DK CJ 
+H9 DJ S6 C6 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "22"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T97.A9852.T7.A53 KJ532.643.Q83.T8 Q8.KQJ.J96542.Q2 A64.T7.AK.KJ9764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "53773537737a66a7a66a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  7
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  7
+S  C  3
+E NT  7
+E  S 10
+E  H  6
+E  D  6
+E  C 10
+W NT  7
+W  S 10
+W  H  6
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,2,1,162,64,50,46,27,232,281,73,83,37,33,402,209,92,29,24,116,24,52,24,168,370,41,29,529,28,8,28,146,22,12,8,17,7,298,25,25,23,17,6,41,22,27,12
+[Auction "E"]
+Pass Pass 1C 1H 
+1S 2C 2H =1= Pass 
+2S Pass Pass Pass 
+[Note "1: S raise"]
+[Play "S"]
+HK H7 H2 H4 
+HQ HT H8 H3 
+C2 C4 CA C8 
+HJ S4 HA H6 
+S8 SA S7 S2 
+SQ S6 S9 SK 
+D4 C6 ST SJ 
+CQ CK C3 CT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "22"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T97.A9852.T7.A53 KJ532.643.Q83.T8 Q8.KQJ.J96542.Q2 A64.T7.AK.KJ9764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "53773537737a66a7a66a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  7
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  7
+S  C  3
+E NT  7
+E  S 10
+E  H  6
+E  D  6
+E  C 10
+W NT  7
+W  S 10
+W  H  6
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,0,3,120,82,139,87,73,53,63,45,23,34,75,164,28,16,816,58,9,44,45,14,16,11,139,25,24,69,17,34,6,31,305,22,11,16,139,30,32,60,801,22,34,6,134,21,16,10,7,28,8,51,17,14,9,16,8,13,4,5,6,9,5,10
+[Auction "E"]
+Pass 1D 1NT Pass 
+2H =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: spades"]
+[Play "N"]
+DT D3 D6 DA 
+H2 H4 HJ H7 
+D7 D8 D9 DK 
+S7 SK S8 S4 
+S9 DQ D5 HT 
+HA H3 HQ S6 
+C3 C8 CQ C7 
+CA CT C2 CK 
+ST S2 SQ SA 
+C5 H6 D2 CJ 
+H5 S3 D4 C9 
+H8 SJ DJ C4 
+H9 S5 HK C6 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "23"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J863.AT3.AT2.J63 QT.862.QJ86.A842 9754.K54.K943.T9 AK2.QJ97.75.KQ75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "56554565548688986889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  5
+S  D  5
+S  C  4
+E NT  8
+E  S  6
+E  H  8
+E  D  8
+E  C  9
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,71,62,35,31,28,36,25,148,33,27,20,22,2329,22,22,59,24,26,43,907,32,16,13,76,11,26,8,146,10,24,328,70,23,44,23,87,35,6,39,62,18,16,15,44
+[Auction "S"]
+Pass 1C Pass 1D 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+S3 SQ S4 S2 
+H3 H2 H5 HJ 
+C6 C2 C9 CQ 
+C3 C4 CT CK 
+CJ CA D3 C5 
+HT H6 H4 H7 
+S6 ST S5 SA 
+HA H8 HK HQ 
+S8 -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "23"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J863.AT3.AT2.J63 QT.862.QJ86.A842 9754.K54.K943.T9 AK2.QJ97.75.KQ75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "56554565548688986889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  5
+S  D  5
+S  C  4
+E NT  8
+E  S  6
+E  H  8
+E  D  8
+E  C  9
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 9,0,3,74,126,54,106,37,787,66,289,48,82,55,65,127,122,77,113,36,28,25,442,31,39,22,17,88,21,29,209,31,31,17,172,20,25,12,142,20,23,13,63,17,28,24,35,50,21,26,212,14,23,8,18,7,52
+[Auction "S"]
+Pass 1H Pass 2C 
+Pass 2S =1= Pass 2NT =2= 
+Pass Pass Pass 
+[Note "1: natural reverse or balanced 15"]
+[Note "2: minimum 9 points"]
+[Play "S"]
+S7 S2 S8 SQ 
+H4 HQ HA H6 
+D3 D5 DA D6 
+D4 D7 DT DQ 
+H5 HJ H3 H2 
+CT CK C3 C2 
+C9 CQ C6 C4 
+S4 C5 CJ CA 
+D9 C7 S3 C8 
+S5 SK S6 ST 
+-  SA SJ H8 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "24"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ9643.85.J.Q753 T2.AJT6.QT76.KJ8 K75.Q9743.K.A642 A8.K2.A985432.T9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1741717517b68c6b68c6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  4
+N  D  1
+N  C  7
+S NT  1
+S  S  7
+S  H  5
+S  D  1
+S  C  7
+E NT 11
+E  S  6
+E  H  8
+E  D 12
+E  C  6
+W NT 11
+W  S  6
+W  H  8
+W  D 12
+W  C  6
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 21,2,1,133,45,133,323,64,30,174,61,237,33,21,69,42,212,34,31,47,27,22,6,227,22,16,6,24,9,48,24,20,7,25,17,194,29,15,16,20,13,21,23,13
+[Auction "W"]
+1D 2S X 3S 
+Pass Pass X Pass 
+5D Pass Pass Pass 
+[Play "N"]
+SQ S2 S7 SA 
+DJ D6 DK DA 
+H5 H6 H7 HK 
+H8 HA H9 H2 
+S3 HT H4 S8 
+S6 ST S5 D2 
+C3 CK CA C9 
+-  -  HQ -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "24"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ9643.85.J.Q753 T2.AJT6.QT76.KJ8 K75.Q9743.K.A642 A8.K2.A985432.T9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1741717517b68c6b68c6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  4
+N  D  1
+N  C  7
+S NT  1
+S  S  7
+S  H  5
+S  D  1
+S  C  7
+E NT 11
+E  S  6
+E  H  8
+E  D 12
+E  C  6
+W NT 11
+W  S  6
+W  H  8
+W  D 12
+W  C  6
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,0,3,139,123,95,168,166,55,500,87,422,44,52,349,75,236,50,111,27,17,48,21,334,22,56,11,200,25,18,13,31,14,48,30,28,11,22,14,46,25,32,11,11,25,13,10,21,29,22,11,33,20,8,10,11,20,13,12,24
+[Auction "W"]
+1D 2S X Pass 
+3D Pass 3S =1= X 
+3NT Pass Pass Pass 
+[Note "1: asking"]
+[Play "N"]
+S6 S2 SK S8 
+S3 ST S7 SA 
+DJ DT DK DA 
+H8 DQ C2 D2 
+C7 D7 C4 D3 
+C3 D6 C6 D9 
+C5 H6 H3 D8 
+S4 C8 H4 D4 
+S9 CJ S5 D5 
+H5 HT H7 HK 
+SJ HA H9 H2 
+-  CK -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "25"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKQT842.AJ.T.AQ2 J96.QT92.AK32.K6 753.K84.8654.J73 .7653.QJ97.T9854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9b4569b3563288632886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  4
+N  D  5
+N  C  6
+S NT  9
+S  S 11
+S  H  3
+S  D  5
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  8
+E  C  6
+W NT  3
+W  S  2
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,107,54,207,40,43,103,69,47,72,45,56,10,177,15,42,28,10,26,7,148,18,27,7,120,23,25,8,48,9,49,9,26,8,26,11,27
+[Auction "N"]
+2C =1= Pass 2D Pass 
+4S Pass Pass Pass 
+[Note "1: strongest"]
+[Play "E"]
+DA D4 DQ DT 
+D2 D5 D7 S8 
+S6 S3 D9 SA 
+S9 S5 H6 SK 
+SJ S7 C4 SQ 
+HQ HK H3 HJ 
+CK C3 C8 CQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "25"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AKQT842.AJ.T.AQ2 J96.QT92.AK32.K6 753.K84.8654.J73 .7653.QJ97.T9854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9b4569b3563288632886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  4
+N  D  5
+N  C  6
+S NT  9
+S  S 11
+S  H  3
+S  D  5
+S  C  6
+E NT  3
+E  S  2
+E  H  8
+E  D  8
+E  C  6
+W NT  3
+W  S  2
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,433,65,160,69,48,47,394,68,116,46,27,58,36,24,40,99,215,12,36,17,56,23,67,28,8,447,29,26,7,81,24,22,8,176,51,57,84,71,72,26,8,9,24,37,19,11,30,57,27,30,22,21,83,28,15,42,8,7,11,17,7,7,9,15,5,7
+[Auction "N"]
+2C =1= Pass 2D =2= Pass 
+2S Pass 2NT =3= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: either wk 2d or v str hand"]
+[Note "2: pass or correct"]
+[Note "3: negative"]
+[Play "E"]
+DA D4 DQ DT 
+D2 D5 DJ S2 
+S6 S3 C8 SA 
+S9 S5 D7 SK 
+SJ S7 H6 SQ 
+H2 C3 H3 ST 
+H9 H4 H5 HA 
+HQ HK H7 HJ 
+CK C7 C9 CQ 
+HT H8 D9 S4 
+C6 CJ C4 S8 
+D3 D6 C5 CA 
+DK D8 CT C2 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "26"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT75.8653.82.975 642.Q972.AKQT4.6 AQJ83.AJ.53.AKQ2 9.KT4.J976.JT843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a5378a537437a5437a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  3
+N  C  7
+S NT  8
+S  S 10
+S  H  5
+S  D  3
+S  C  7
+E NT  4
+E  S  3
+E  H  7
+E  D 10
+E  C  5
+W NT  4
+W  S  3
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 18,2,1,73,148,156,46,37,129,50,36,99,159,70,44,57,51,30,12,34,48,93,12,72,66,71,11,19,16,50,15,38
+[Auction "E"]
+1D X 3D =1= Pass 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: weakish"]
+[Play "W"]
+CJ C5 C6 CA 
+S9 S5 S2 SQ 
+D6 S7 S6 SA 
+C4 ST S4 S3 
+HK H3 H2 HJ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "26"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT75.8653.82.975 642.Q972.AKQT4.6 AQJ83.AJ.53.AKQ2 9.KT4.J976.JT843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a5378a537437a5437a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  3
+N  C  7
+S NT  8
+S  S 10
+S  H  5
+S  D  3
+S  C  7
+E NT  4
+E  S  3
+E  H  7
+E  D 10
+E  C  5
+W NT  4
+W  S  3
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 18,0,3,94,119,212,133,45,41,34,236,33,28,34,298,95,40,20,52,22,110,15,21,28,140,26,33,28,16,26
+[Auction "E"]
+1D X 3D Pass 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+D7 D2 DQ D3 
+D6 D8 DK D5 
+C3 C5 C6 CA 
+S9 S5 S4 SQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "27"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K86.3.J74.Q65432 AQT.KJ5.9532.T87 J97543.7.K86.AK9 2.AQT98642.AQT.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "180371804775c9575c95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  0
+N  D  3
+N  C  7
+S NT  1
+S  S  8
+S  H  0
+S  D  4
+S  C  7
+E NT  7
+E  S  5
+E  H 12
+E  D  9
+E  C  5
+W NT  7
+W  S  5
+W  H 12
+W  D  9
+W  C  5
+[OptimumScore "NS -800"]
+[Competition "Teams"]
+% RBDATA 17,2,1,99,205,57,26,115,43,355,33,48,210,44,25,10,471,177,37,30
+[Auction "S"]
+1S 4H Pass Pass 
+Pass 
+[Play "N"]
+S6 SA S7 S2 
+C2 C7 CK CJ 
+SK ST S5 DT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "27"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K86.3.J74.Q65432 AQT.KJ5.9532.T87 J97543.7.K86.AK9 2.AQT98642.AQT.J"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "8"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "180371804775c9575c95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  0
+N  D  3
+N  C  7
+S NT  1
+S  S  8
+S  H  0
+S  D  4
+S  C  7
+E NT  7
+E  S  5
+E  H 12
+E  D  9
+E  C  5
+W NT  7
+W  S  5
+W  H 12
+W  D  9
+W  C  5
+[OptimumScore "NS -800"]
+[Competition "Teams"]
+% RBDATA 23,0,3,77,296,117,62,38,47,97,22,142,39,35,57,145,75,43,12,522,33,22,22,620,86,25,40,30,18,105,34,62,27,11,34,34,48,105,43,23,19,31,29,19,40,21,70,118,18,84,28,17,24,15,19,9,29,11,21,20,15,10,8
+[Auction "S"]
+1S 4H 4S Pass 
+Pass 5H Pass Pass 
+5S Pass Pass Pass 
+[Play "W"]
+HA H3 H5 H7 
+DA D4 D5 D6 
+DT D7 D2 DK 
+S2 S8 ST S4 
+CJ C2 C8 CA 
+H8 SK SA S3 
+H6 S6 SQ S5 
+H2 C3 HK S7 
+H4 DJ HJ SJ 
+H9 C4 C7 CK 
+HT CQ CT C9 
+HQ C6 D3 D8 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "28"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:42.A8.KQ2.AJ9742 QJ76.5432.953.KQ KT85.KQ.AJT84.83 A93.JT976.76.T65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "986aaa86aa3463334633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  6
+N  D 10
+N  C 10
+S NT 10
+S  S  8
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  4
+E  H  6
+E  D  3
+E  C  3
+W NT  3
+W  S  4
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,93,34,42,193,62,44,40,90,32,35,62,270,25,33,19,33,702,53,23,26,41,660,37,11,26,48,31,38,29,16,14,25,8,10,22,9,17,8,33,17,40,17,12,14,44,9,13,12,14,41,30,78,27
+[Auction "W"]
+Pass 1C Pass 1D 
+Pass 2C Pass 2S 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+HJ H8 H4 HK 
+C5 C2 CK C8 
+HT HA H2 HQ 
+D6 DK D5 D4 
+D7 DQ D3 D8 
+S3 D2 D9 DA 
+S9 S2 H5 DJ 
+H6 S4 S7 DT 
+CT CJ CQ C3 
+-  -  H3 S5 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "28"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:42.A8.KQ2.AJ9742 QJ76.5432.953.KQ KT85.KQ.AJT84.83 A93.JT976.76.T65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "986aaa86aa3463334633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  6
+N  D 10
+N  C 10
+S NT 10
+S  S  8
+S  H  6
+S  D 10
+S  C 10
+E NT  3
+E  S  4
+E  H  6
+E  D  3
+E  C  3
+W NT  3
+W  S  4
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,137,99,84,156,47,70,55,97,60,35,35,153,607,32,17,21,34,12,19,22,17,20,448,48,29,24,15,30,22,14,19,13,21,12,203,331,60,19,23,15,92,25,23,15,50,30,26,66,28,19,13,26,24,11,28,21,20,8,11,16,9,9,21
+[Auction "W"]
+Pass 1C =1= Pass 1H =2= 
+Pass 2C Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+C"]
+[Note "2: spades"]
+[Play "W"]
+HJ H8 H5 HQ 
+D6 DK D5 D4 
+SA S2 S6 SK 
+H7 HA H2 HK 
+D7 DQ D3 D8 
+C6 D2 D9 DT 
+C5 C2 S7 DJ 
+CT C4 H3 DA 
+S3 CA CQ C3 
+S9 S4 SQ S5 
+H6 C7 SJ S8 
+H9 C9 CK C8 
+HT CJ H4 ST 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "29"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT843.Q.AJT84.QT K.A97643.K765.A6 J65.KJT8.Q2.K932 Q972.52.93.J8754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "99897987974454644546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  8
+N  D  9
+N  C  7
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,79,99,312,64,104,77,25,26,35,60,47,19,42,101,31,53,278,31,11,236,119,66,98,583,23,1006,33,17,14,123,21,14,21,164,41,13,20,34,12,40
+[Auction "N"]
+1S 2H 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H5 HQ HA H8 
+H2 S3 H3 HK 
+D9 D4 DK DQ 
+C8 CT CA C2 
+C7 CQ C6 CK 
+D3 S4 H4 HJ 
+S2 S8 H6 HT 
+C4 DA D5 D2 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "29"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT843.Q.AJT84.QT K.A97643.K765.A6 J65.KJT8.Q2.K932 Q972.52.93.J8754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "99897987974454644546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  8
+N  D  9
+N  C  7
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 8,0,3,130,105,490,52,117,87,38,117,60,14,75,93,7,197,298,87,15,51,707,50,33,9,391,33,17,6,66,17,97,84,144,20,13,26,680,60,26,27,199,31,23,7,17,64,7,6,10,19,6,5
+[Auction "N"]
+1S 2H 2S Pass 
+Pass Pass 
+[Play "E"]
+HA H8 H2 HQ 
+H9 HT H5 CT 
+H3 HJ S7 CQ 
+C6 C2 C5 S3 
+DK D2 D3 D4 
+H4 HK D9 D8 
+SK S5 S2 SA 
+H6 SJ SQ S4 
+CA C3 C7 S8 
+H7 S6 S9 ST 
+D5 DQ C4 DA 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "30"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:63.AJT7.A2.AJ763 J852.K52.KQ63.K9 A94.Q86.T975.QT2 KQT7.943.J84.854"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NTX"]
+[Result "8"]
+[Score "NS -280"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "75969759695846458464"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H  9
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,195,31,46,105,79,52,99,67,96,122,30,15,80,55,23,19,27,21,145,37,23,26,75,343,22,14,33,131,27,26,27,23,61,20,16,28,53,22,15,118,19,12,219,49,22,14,7,19,22,9,7,11,6,14,12,9,14,6,24
+[Auction "E"]
+1NT =1= Pass Pass X =2= 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: 15+"]
+[Play "S"]
+DT D4 DA D3 
+D7 D8 D2 D6 
+SA SK S3 S2 
+D5 DJ C3 DQ 
+D9 H3 C6 DK 
+S9 ST S6 S8 
+C2 C4 CA C9 
+H8 H4 HJ HK 
+S4 S7 H7 SJ 
+CT C5 C7 CK 
+H6 SQ CJ S5 
+CQ C8 HT H2 
+HQ H9 HA H5 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "30"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:63.AJT7.A2.AJ763 J852.K52.KQ63.K9 A94.Q86.T975.QT2 KQT7.943.J84.854"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "75969759695846458464"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H  9
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,154,47,58,122,73,125,74,33,10,31,33,25,100,27,26,14,22,23,25,27,27,25,8,29,19,20,12,39,52,60,17,26,22,36,13,50,166,31,11,18,11
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+DT D4 DA D3 
+C2 C4 C6 CK 
+S4 SK S6 S5 
+SA S7 S3 SJ 
+CQ C5 C3 C9 
+CT C8 CA S2 
+D7 H3 CJ S8 
+S9 H4 C7 H2 
+H6 H9 HA H5 
+-  -  HJ -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "31"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A76.K632.K63.KQJ KQ932.Q7.42.A953 J.AJ985.AT5.8742 T854.T4.QJ987.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "86b8a86b8a3725337253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 11
+N  D  8
+N  C 10
+S NT  8
+S  S  6
+S  H 11
+S  D  8
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  5
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,202,59,71,211,430,313,272,28,28,28,31,211,28,34,418,245,36,33,27,29,13,19,85,109,18,137,332,41,47,21,22,43,10,21,227,27,14,6,18,17,34,7,16,29,14
+[Auction "S"]
+Pass Pass 1NT =1= 2D =2= 
+3H 4S X Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♠ and another"]
+[Play "N"]
+H2 H7 HA H4 
+DK D2 D5 D9 
+HK HQ H8 HT 
+S6 SK SJ S4 
+SA S2 H9 S8 
+CK CA C2 C6 
+S7 SQ H5 S5 
+D6 D4 DA D7 
+CJ -  C8 CT 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "31"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A76.K632.K63.KQJ KQ932.Q7.42.A953 J.AJ985.AT5.8742 T854.T4.QJ987.T6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "86b8a86b8a3725337253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 11
+N  D  8
+N  C 10
+S NT  8
+S  S  6
+S  H 11
+S  D  8
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  5
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,92,57,142,354,146,89,372,66,33,53,119,72,138,24,202,36,24,19,64,22,34,24,133,30,27,10,169,39,105,170,41,27,26,25,57,46,22,23,25,157,19,29,18,28,12,55,13,50,24,23,17,23,75,18,22,11,20,18,17,14,10,12
+[Auction "S"]
+Pass Pass 1NT =1= 2C =2= 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: C and a higher suit"]
+[Play "W"]
+CT CJ C3 C7 
+H4 H2 H7 HA 
+HT HK HQ H8 
+C6 CK CA C2 
+S4 SA SK SJ 
+D7 CQ C5 C4 
+S5 S6 SQ H5 
+S8 H3 C9 C8 
+D8 H6 S3 H9 
+ST S7 S2 HJ 
+D9 D3 D2 DA 
+DQ DK D4 D5 
+DJ D6 S9 DT 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "32"]
+[West "Jonathan Mestel#56114"]
+[North "Ivan Leung#524083"]
+[East "Paul Barden#420164"]
+[South "Chris Mooney#29907"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQJ4.853.QJ83.QT K.AT942.AT72.987 T8632.KQ.96.KJ52 975.J76.K54.A643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "69566695665487654876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H  5
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  8
+E  D  7
+E  C  6
+W NT  5
+W  S  4
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,101,44,45,102,41,35,74,473,58,34,69,34,43,80,23,135,17,56,8,19,31,8,38,181,20,33,10,14,18,20,11,37,33,19,13,67,75,37,12,14,34,11,16,46,26,9,14
+[Auction "W"]
+Pass 1D 1H 1S 
+2H 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+H6 H3 HA HK 
+H7 H5 HT HQ 
+S5 S4 SK ST 
+DK D3 D2 D6 
+CA CT C7 C2 
+D5 DQ DA D9 
+D4 D8 D7 S8 
+S7 SJ H2 S2 
+S9 SQ H4 S3 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "32"]
+[West "Mike Rawlins#94613"]
+[North "Catherine#113739"]
+[East "Naomi Gibbs#430704"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQJ4.853.QJ83.QT K.AT942.AT72.987 T8632.KQ.96.KJ52 975.J76.K54.A643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "69566695665487654876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H  5
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  8
+E  D  7
+E  C  6
+W NT  5
+W  S  4
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,69,116,93,218,92,109,30,62,87,227,178,475,28,166,34,45,38,776,48,11,7,21,23,27,139,50,34,14,28,30,20,6,10,14,12,13,9,120,176,37,9,16,28,8,7,59,32,7,6,20
+[Auction "W"]
+Pass 1C =1= 1H X =2= 
+2H 2S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: 4+ Spades"]
+[Play "E"]
+C7 C2 CA CQ 
+C9 C5 C6 CT 
+HA HQ H7 H3 
+C8 CJ C4 D3 
+SK ST S7 S4 
+DA D6 D4 D8 
+D2 D9 DK DJ 
+H4 CK C3 SJ 
+H2 S2 S5 SA 
+H9 S3 S9 SQ 
+-  -  -  H5 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "33"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K.J75.642.K98754 A743.KQ4.KQ5.J62 Q965.32.AT873.QT JT82.AT986.J9.A3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3325633256aaa76aaa76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  2
+S  D  5
+S  C  6
+E NT 10
+E  S 10
+E  H 10
+E  D  7
+E  C  6
+W NT 10
+W  S 10
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,0,2,278,88,138,50,81,29,135,26,33,27,46,229,260,41,7,16,28,23,19,17,21,14,29,306,26,15,45,68,25,13,27,392,29,38,9,35,14,23,23,263,28,23
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+X 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+CQ CA C4 C6 
+S5 SJ SK SA 
+S6 S8 C5 S3 
+D3 DJ D2 D5 
+DA D9 D4 DK 
+SQ S2 C7 S4 
+CT C3 CK C2 
+S9 -  C9 CJ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "33"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K.J75.642.K98754 A743.KQ4.KQ5.J62 Q965.32.AT873.QT JT82.AT986.J9.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3325633256aaa76aaa76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  2
+S  D  5
+S  C  6
+E NT 10
+E  S 10
+E  H 10
+E  D  7
+E  C  6
+W NT 10
+W  S 10
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,3,1,579,75,116,402,195,111,45,438,236,49,74,307,58,2289,43,39,49,115,396,77,30,121,37,50,44,260,35,62,30,30,27,12,18,10,19,13,10,50,47,27,16,22,321,22,57,295,27,21,25,25,27,24,26,39,29,11,18,20,50,13,10,19,14,10,28,27,13,32,11
+[Auction "N"]
+Pass 1C 1D 1H 
+2D 2NT Pass 3D =1= 
+X =2= 3H Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: arificial GF"]
+[Note "2: denies top D"]
+[Play "N"]
+D2 D5 DA D9 
+C4 C2 CT CA 
+SK SA S5 S2 
+D4 DQ D3 DJ 
+D6 DK D7 C3 
+C5 S3 SQ S8 
+C7 C6 CQ ST 
+C8 S4 S6 SJ 
+H7 HK H2 H6 
+H5 HQ H3 H8 
+HJ H4 D8 HA 
+C9 CJ S9 HT 
+CK S7 DT H9 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "34"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J743.972.764.KJ2 Q6.T8.AK98.QT983 AT952.KQ3.QT5.74 K8.AJ654.J32.A65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "573435734386a9a86a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  3
+S  D  4
+S  C  3
+E NT  8
+E  S  6
+E  H 10
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,2,108,58,233,251,32,51,135,42,175,21,32,32,163,29,38,89,50,20,681,16,46,25,625,40,13,7,82,15,31,18,67,10,37,14,124,23,9,26,67,25,18,52,58,10,27,20
+[Auction "E"]
+1C 1S X 3S 
+Pass Pass X Pass 
+4C Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+S3 S6 SA SK 
+CK C3 C7 C5 
+D7 DA D5 D2 
+H2 HT H3 H4 
+H7 H8 HQ HA 
+H9 D8 HK H5 
+S4 SQ S2 S8 
+C2 C8 C4 CA 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "34"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J743.972.764.KJ2 Q6.T8.AK98.QT983 AT952.KQ3.QT5.74 K8.AJ654.J32.A65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "573435734386a9a86a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  3
+S  D  4
+S  C  3
+E NT  8
+E  S  6
+E  H 10
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,3,1,231,71,197,55,526,60,253,60,350,49,17,55,274,382,50,25,28,30,30,34,17,19,42,28,273,26,73,20,31,25,301,24,27,50,29,17,26,73,40,15,23
+[Auction "E"]
+1NT Pass 2C =1= Pass 
+2D Pass 3H =2= Pass 
+3NT Pass Pass Pass 
+[Note "1: Asks about hearts"]
+[Note "2: 5H GF"]
+[Play "S"]
+S2 SK S3 S6 
+C4 CA C2 C3 
+C7 C5 CK C8 
+SA S8 S4 SQ 
+ST H4 SJ D8 
+S9 H5 S7 H8 
+S5 H6 H9 D9 
+HK -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "35"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:5.KJ43.T9632.Q52 K2.982.AKJ.AJT87 AJT83.75.754.K63 Q9764.AQT6.Q8.94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44464444649886899878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  6
+E  C  8
+W NT  9
+W  S  9
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,2,435,75,313,97,46,246,48,13,24,83,128,29,32,129,30,23,60,422,31,32,34,14,29,7,10,59,78,24,12
+[Auction "S"]
+2D =1= Pass 2S =2= 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: multi"]
+[Note "2: pass or correct if weak 2"]
+[Play "S"]
+SJ S4 S5 SK 
+SA S6 D6 S2 
+C3 C4 CQ CA 
+CK C9 C5 CJ 
+H7 HQ HK H2 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "35"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:5.KJ43.T9632.Q52 K2.982.AKJ.AJT87 AJT83.75.754.K63 Q9764.AQT6.Q8.94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44464444649886899878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  4
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  6
+E  C  8
+W NT  9
+W  S  9
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,3,1,82,84,88,100,58,103,105,27,41,267,49,30,21,26,408,25,169,23,203,27,28,107,42,18,24,20,25,116,25,26,27,240,51,16,46,14,25,14,28,16,30,31
+[Auction "S"]
+Pass Pass Pass 1C 
+1S X Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+S3 S6 S5 S2 
+C6 C9 CQ CA 
+CK C4 C2 CJ 
+SA S4 C5 SK 
+SJ SQ H3 H2 
+D7 D8 D6 DK 
+H5 HQ HK H8 
+-  -  D2 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "36"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KJ42.QT4.92.K953 A8.J87.KT54.AQ42 T65.532.Q6.JT876 Q973.AK96.AJ873."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "2311423214babc8babc8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  1
+N  D  1
+N  C  4
+S NT  2
+S  S  3
+S  H  2
+S  D  1
+S  C  4
+E NT 11
+E  S 10
+E  H 11
+E  D 12
+E  C  8
+W NT 11
+W  S 10
+W  H 11
+W  D 12
+W  C  8
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 21,0,2,127,50,71,52,207,53,164,36,516,45,409,36,45,36,276,20,270,177,35,32,149,24,24,12,139,30,10,13,10,13,71,25,255,23,19,17
+[Auction "W"]
+1D Pass 2D =1= Pass 
+2H Pass 2NT Pass 
+3S Pass 4C Pass 
+5D Pass Pass Pass 
+[Note "1: inverted "]
+[Play "N"]
+D2 D4 DQ DA 
+D9 DT D6 D3 
+S4 SA S5 S3 
+SJ S8 S6 S9 
+C5 CQ C6 H6 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "36"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KJ42.QT4.92.K953 A8.J87.KT54.AQ42 T65.532.Q6.JT876 Q973.AK96.AJ873."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "2311423214babc8babc8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  1
+N  D  1
+N  C  4
+S NT  2
+S  S  3
+S  H  2
+S  D  1
+S  C  4
+E NT 11
+E  S 10
+E  H 11
+E  D 12
+E  C  8
+W NT 11
+W  S 10
+W  H 11
+W  D 12
+W  C  8
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 26,3,1,100,48,160,52,84,44,274,45,228,58,40,31,21,41,28,24,282,46,41,39,368,52,1126,639,76,43,33,18,28,21,21,19,24,87,220,1413,31,18,22,28,16,15,48,17,44,23,338,33,43,97,29,24,18,57,34,20,13,28,22,21,12,31,13,31,12,33,13,40,12,19,12,14,11,18
+[Auction "W"]
+1D Pass 2C Pass 
+2D Pass 2S Pass 
+3H Pass 3NT Pass 
+4S Pass 5D Pass 
+5H Pass 6D Pass 
+Pass Pass 
+[Play "N"]
+D2 D4 D6 D7 
+S2 SA S6 S3 
+SJ S8 S5 S7 
+D9 DK DQ D3 
+H4 HJ H5 HA 
+S4 D5 ST S9 
+C3 C2 C7 D8 
+SK DT C6 SQ 
+C5 CA C8 H6 
+HT H7 H2 HK 
+C9 C4 CT DA 
+CK H8 H3 DJ 
+HQ CQ CJ H9 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "37"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT7.AJ9732.63.76 J93.Q5.AKJ952.Q3 A8542.6.Q.AJ9542 K6.KT84.T874.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "49639496397479494794"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  6
+N  D  3
+N  C  9
+S NT  4
+S  S  9
+S  H  6
+S  D  3
+S  C  9
+E NT  7
+E  S  4
+E  H  7
+E  D  9
+E  C  4
+W NT  9
+W  S  4
+W  H  7
+W  D  9
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 14,0,2,154,52,110,139,46,17,17,182,249,19,512,68,30,11,25,307,27,10,14,9,35,12,44,23,37,139,24,58,129,32,14,38,18,14,8
+[Auction "N"]
+2D =1= 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: multi"]
+[Play "N"]
+H7 H5 H6 H8 
+D6 DA DQ D7 
+D3 DK C2 D4 
+HA HQ S2 H4 
+C7 C3 CA C8 
+SQ S3 S4 S6 
+S7 S9 SA SK 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "37"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT7.AJ9732.63.76 J93.Q5.AKJ952.Q3 A8542.6.Q.AJ9542 K6.KT84.T874.KT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "49639496397479494794"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  6
+N  D  3
+N  C  9
+S NT  4
+S  S  9
+S  H  6
+S  D  3
+S  C  9
+E NT  7
+E  S  4
+E  H  7
+E  D  9
+E  C  4
+W NT  9
+W  S  4
+W  H  7
+W  D  9
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 11,3,1,350,123,276,184,507,27,53,32,994,48,123,125,33,99,26,35,27,27,20,17,16,197,24,8,14,122,25,7,10,15,42,10,6,10,24,10,7
+[Auction "N"]
+Pass 1NT 2S =1= X 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: S and a minor"]
+[Play "S"]
+H6 H4 HA H5 
+DQ H8 H2 HQ 
+SA S6 S7 S3 
+CA C8 C7 C3 
+C5 CT C6 CQ 
+C2 D4 D3 DA 
+C4 D7 D6 DK 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "38"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q874.A8.742.AT84 AJ965.74.AJ98.97 3.KQ932.QT3.KQ63 KT2.JT65.K65.J52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "65859658596848368483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  5
+N  C  9
+S NT  6
+S  S  5
+S  H  8
+S  D  5
+S  C  9
+E NT  6
+E  S  8
+E  H  4
+E  D  8
+E  C  3
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,0,2,55,61,37,60,24,208,56,389,28,64,27,435,303,32,27,70,18,23,13,53,22,41,23,37,23,25,13,13,8,30,11,30,13,23,33,359,19,31,23,204,22,18,23,89,26,31,63,21,27,12,8
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2C Pass 3C 
+Pass Pass Pass 
+[Play "W"]
+C2 C4 C7 CQ 
+C5 CA C9 C3 
+CJ C8 S5 CK 
+H5 HA H4 H2 
+H6 H8 H7 HK 
+HT D2 S6 HQ 
+HJ S4 D8 H3 
+S2 S7 SJ S3 
+ST S8 S9 C6 
+D5 D4 D9 H9 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "38"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q874.A8.742.AT84 AJ965.74.AJ98.97 3.KQ932.QT3.KQ63 KT2.JT65.K65.J52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "65859658596848368483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  5
+N  C  9
+S NT  6
+S  S  5
+S  H  8
+S  D  5
+S  C  9
+E NT  6
+E  S  8
+E  H  4
+E  D  8
+E  C  3
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,3,1,67,74,41,89,41,65,28,401,252,105,570,133,32,56,101,503,133,38,32,41,28,27,38,57,30,30,21,33,23,26,17,20,17,28,15,27,27,22,25,288,32,21,68,26,24,23,13,97,29,25,20,37,21,11,25,42,23,20,11,40,21,19,10,18,11,16,9
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2C Pass Pass 
+X Pass 2D 3C 
+Pass Pass Pass 
+[Play "W"]
+C2 C4 C7 CK 
+C5 CA C9 C3 
+CJ C8 S6 CQ 
+H5 HA H4 H2 
+H6 H8 H7 HK 
+HT D2 D9 HQ 
+HJ CT D8 H3 
+D5 D4 DA D3 
+DK D7 DJ DQ 
+D6 S4 S5 DT 
+S2 S7 S9 H9 
+ST S8 SJ C6 
+SK SQ SA S3 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "39"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K76.6.AQJT5.QJ54 A4.QJT872..T8632 JT83.A95.K32.K97 Q952.K43.98764.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "68387683874594544945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D  8
+N  C  7
+S NT  6
+S  S  8
+S  H  3
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  9
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,0,2,86,41,69,201,268,308,218,89,570,26,43,50,136,381,25,24,24,7,10,336,26,8,15,9,23,9,11,18,26,10,13,8,18,14,8,62,21,16,53,8,59,9,12,159,76,13,14,88,33,18,15,12,64,7,6,50,22,8,6,18,6,8,5
+[Auction "S"]
+Pass Pass 1D 2H 
+X 3D X 4H 
+Pass Pass Pass 
+[Play "S"]
+D2 D4 DA H2 
+C7 CA C5 C2 
+D3 D6 D5 H7 
+C9 H3 C4 C3 
+DK D7 DT H8 
+CK H4 CJ C6 
+S3 S2 S6 SA 
+S8 HK CQ C8 
+ST S5 S7 S4 
+SJ SQ SK HT 
+H5 D8 H6 HQ 
+H9 S9 DJ CT 
+HA D9 DQ HJ 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "39"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K76.6.AQJT5.QJ54 A4.QJT872..T8632 JT83.A95.K32.K97 Q952.K43.98764.A"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "7"]
+[Score "NS -1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "68387683874594544945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D  8
+N  C  7
+S NT  6
+S  S  8
+S  H  3
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  9
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 21,3,1,159,42,92,33,92,108,214,28,219,136,234,23,378,100,39,26,19,88,84,33,17,1286,30,9,36,179,54,9,22,21,47,22,21,104,27,14,29,21,182,26,28,97,27,10,116,317,173,101,16,17,19,21,50,23,14,654,36,19,16,27,13,10,15,27,18,16,7,15,6
+[Auction "S"]
+Pass Pass 1D 2H 
+X Pass 3C Pass 
+3D 3H 4D Pass 
+5D X Pass Pass 
+Pass 
+[Play "E"]
+HQ HA H3 H6 
+H8 D2 D4 DQ 
+C2 C7 CA CQ 
+H2 H5 HK D5 
+C6 CK D6 C4 
+H7 H9 H4 DT 
+C3 C9 D7 CJ 
+C8 D3 D9 DJ 
+CT DK S2 C5 
+SA ST S5 SK 
+HJ S3 S9 DA 
+S4 S8 SQ S6 
+HT SJ D8 S7 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "40"]
+[West "Chris Mooney#29907"]
+[North "Catherine#113739"]
+[East "Ivan Leung#524083"]
+[South "Paul Fegarty#29653"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q863.KQ52.AK4.A8 AKJ4.J98.Q965.54 95.764.T72.JT973 T72.AT3.J83.KQ62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55657556578877688776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  6
+S  D  5
+S  C  7
+E NT  8
+E  S  8
+E  H  7
+E  D  7
+E  C  6
+W NT  8
+W  S  8
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,0,2,47,150,120,76,116,303,28,75,37,47,34,13,104,23,18,6,54,19,27,23,469,52,25,12,117,21,12,22,759,19,14,16,12,26,23,38,23,231,16,28,22,23,15,14,11,32,7,11,12,50,19,8,8,35,18,17,8,6,6,15
+[Auction "W"]
+Pass 1C =1= 1S Pass 
+2S Pass Pass Pass 
+[Note "1: 2+c"]
+[Play "S"]
+CJ CK CA C4 
+D7 D3 DA D5 
+C3 CQ C8 C5 
+D2 D8 DK D6 
+DT DJ D4 D9 
+S5 S2 S3 SA 
+H4 H3 HQ H8 
+S9 ST S6 S4 
+C7 S7 S8 SJ 
+C9 C2 SQ SK 
+H6 C6 H2 DQ 
+H7 HA H5 H9 
+CT HT HK HJ 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "40"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Rawlins#94613"]
+[East "Paul Barden#420164"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q863.KQ52.AK4.A8 AKJ4.J98.Q965.54 95.764.T72.JT973 T72.AT3.J83.KQ62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55657556578877688776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  5
+N  C  7
+S NT  5
+S  S  5
+S  H  6
+S  D  5
+S  C  7
+E NT  8
+E  S  8
+E  H  7
+E  D  7
+E  C  6
+W NT  8
+W  S  8
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,3,1,72,55,90,75,110,73,28,30,18,64,31,125,21,26,129,29,27,18,161,31,20,27,13,34,21,18,601,19,11,26,14,31,21,16,174,38,38,27,214,19,20,23,497,23,16,8,30,39,19,405,9
+[Auction "W"]
+Pass 1H 1S Pass 
+2H =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: good S raise"]
+[Play "S"]
+H4 H3 HQ H8 
+D7 D3 DK D5 
+D2 D8 DA D6 
+DT DJ D4 D9 
+S5 S2 S3 SA 
+C7 CK CA C4 
+C3 CQ C8 C5 
+S9 S7 S6 SJ 
+C9 ST S8 SK 
+H7 C2 SQ DQ 
+-  -  H2 -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "41"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A75.JT93.Q984.42 K8.K6542.KT3.T76 64..A752.AKJ9853 QJT932.AQ87.J6.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "944aa944aa4991249922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  4
+N  D 10
+N  C 10
+S NT  9
+S  S  4
+S  H  4
+S  D 10
+S  C 10
+E NT  4
+E  S  9
+E  H  9
+E  D  1
+E  C  2
+W NT  4
+W  S  9
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 20,3,0,92,27,329,837,314,162,42,55,33,45,155,162,29,31,12,25,28,124,23,10,20,39,26,32,18,35,63,20,14,335,25,17,18,20,17,45,23,82,29,23,19,23,36,23,14,16,42,11,20,30,34,20,30,17,25,7,21,20,12,17,12
+[Auction "N"]
+Pass Pass 4C 4S 
+5C X Pass Pass 
+Pass 
+[Play "W"]
+SQ SA S8 S4 
+CQ C2 C6 CJ 
+ST S5 SK S6 
+H7 H3 H4 C3 
+S3 C4 C7 CA 
+D6 D4 D3 DA 
+DJ DQ DK D5 
+H8 H9 H2 C5 
+S2 D8 DT D2 
+HQ HT H5 C8 
+S9 D9 CT D7 
+HA HJ HK C9 
+SJ S7 H6 CK 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "41"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A75.JT93.Q984.42 K8.K6542.KT3.T76 64..A752.AKJ9853 QJT932.AQ87.J6.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "944aa944aa4991249922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  4
+N  D 10
+N  C 10
+S NT  9
+S  S  4
+S  H  4
+S  D 10
+S  C 10
+E NT  4
+E  S  9
+E  H  9
+E  D  1
+E  C  2
+W NT  4
+W  S  9
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 18,1,2,59,33,402,159,83,26,73,43,77,87,25,177,28,22,14,19,23,25,34,71,32,19,42,198,156,51,40,45,28,11,71,2006,31,131,1354,21,103,20,34,85,28,11,39,10,20,23
+[Auction "N"]
+Pass Pass 4C 4S 
+Pass Pass Pass 
+[Play "N"]
+C4 C6 CK CQ 
+C2 C7 CA S9 
+S5 SK S4 S2 
+SA S8 S6 S3 
+S7 D3 C3 SQ 
+H3 H2 C5 HA 
+D4 DT DA D6 
+D8 CT CJ ST 
+H9 H4 C8 HQ 
+HT HK -  H7 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "42"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:8732.T3.A63.AQ98 JT96.QJ4.J94.J65 K5.A98752.87.K73 AQ4.K6.KQT52.T42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "65857658577748577485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  5
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  7
+E  H  4
+E  D  8
+E  C  5
+W NT  7
+W  S  7
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,3,0,113,276,194,222,55,40,29,219,32,37,20,135,421,23,24,103,34,12,28,63,23,29,21,34,25,25,14,25,26,29,30,1277,40,13,25,55,22,10,29,27,22,24,12,18,29,86,14,97,74,29,11,15
+[Auction "E"]
+Pass 2H =1= X Pass 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: weak could be 5H and 5 minor"]
+[Play "W"]
+DK D3 D4 D8 
+DQ DA D9 D7 
+DT D6 DJ H7 
+C2 CA C5 C3 
+HK H3 H4 H8 
+SA S2 S6 S5 
+SQ S3 S9 SK 
+C4 CQ C6 C7 
+H6 HT HJ HA 
+S4 S7 HQ H5 
+-  -  SJ -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "42"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:8732.T3.A63.AQ98 JT96.QJ4.J94.J65 K5.A98752.87.K73 AQ4.K6.KQT52.T42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "65857658577748577485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  5
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  5
+S  C  7
+E NT  7
+E  S  7
+E  H  4
+E  D  8
+E  C  5
+W NT  7
+W  S  7
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,1,2,54,326,293,62,30,732,33,98,45,52,206,12,28,424,37,14,16,22,18,18,22,42,11,19,6,167,39,6,36,226,68,19,7,10,27,22,23,42
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2H Pass Pass 
+Pass 
+[Play "W"]
+DK D3 D9 D7 
+DQ DA D4 D8 
+H6 H3 H4 HA 
+HK HT HJ H2 
+D5 D6 DJ H5 
+D2 S2 HQ H8 
+SA S3 SJ SK 
+SQ -  -  -  
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "43"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A85.K2.QT7.JT943 743.743.982.K862 Q.AQJT865.63.A75 KJT962.9.AKJ54.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "94a4a94a4a3937339373"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT  9
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  3
+E  S  9
+E  H  3
+E  D  7
+E  C  3
+W NT  3
+W  S  9
+W  H  3
+W  D  7
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,1,2,95,112,214,39,419,67,182,29,191,85,340,31,19,275,30,10,46,68,25,22,7,50,105,23,7,63,20,10,320,49,28,28,9,313,27,7,19
+[Auction "S"]
+1H 2H X 2S 
+4H 4S Pass Pass 
+Pass 
+[Play "S"]
+D6 DK D7 D2 
+CA CQ C3 C6 
+HA H9 H2 H3 
+D3 DA DT D8 
+HQ D4 DQ D9 
+H5 S2 HK H4 
+SQ SK SA S3 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "43"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A85.K2.QT7.JT943 743.743.982.K862 Q.AQJT865.63.A75 KJT962.9.AKJ54.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "94a4a94a4a3937339373"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H 10
+N  D  4
+N  C 10
+S NT  9
+S  S  4
+S  H 10
+S  D  4
+S  C 10
+E NT  3
+E  S  9
+E  H  3
+E  D  7
+E  C  3
+W NT  3
+W  S  9
+W  H  3
+W  D  7
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,3,0,98,510,599,35,192,234,252,46,624,86,82,21,13,29,159,37,10,1085,108,10,18,163,30,24,19,26,158,172,15,172,29,9,26,45,30,9,21,17,45,33,19,23,132,12,17,27,15,15,298
+[Auction "S"]
+1H 2H =1= 2NT Pass 
+4H 4S Pass Pass 
+Pass 
+[Note "1: S & a minor"]
+[Play "N"]
+HK H3 HA H9 
+H2 H4 HQ S2 
+SA S3 SQ SK 
+CJ C2 CA CQ 
+C3 H7 HJ S9 
+S5 S4 H5 SJ 
+S8 S7 H6 ST 
+D7 D2 D3 DA 
+DT D8 D6 DK 
+DQ D9 H8 D4 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "44"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQJ654.J.A975.97 9872.94.QJT86.AT AT3.K72.32.QJ632 .AQT8653.K4.K854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "482467824665b9765b97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  2
+N  D  4
+N  C  6
+S NT  7
+S  S  8
+S  H  2
+S  D  4
+S  C  6
+E NT  6
+E  S  5
+E  H 11
+E  D  9
+E  C  7
+W NT  6
+W  S  5
+W  H 11
+W  D  9
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,1,2,202,53,100,174,161,96,51,61,52,30,136,92,31,204,44,10,18,39,26,13,12,78,31,27,63,262,35,20,66,17,53,306,38,49,139,28,25,252,22,12,10,853,24,10,21,13,27,10,5,11,7,9,20,8,11,7,10,10,5,14,8
+[Auction "W"]
+1H 1S 2D =1= 2H =2= 
+4H 4S Pass Pass 
+Pass 
+[Note "1: not  forcing"]
+[Note "2: S raise"]
+[Play "E"]
+H9 H2 HQ HJ 
+D6 D2 DK DA 
+DT D3 D4 D5 
+H4 H7 HT S4 
+CT CQ CK C7 
+CA HK HA C9 
+D8 C2 C8 SK 
+S2 S3 H6 SQ 
+DJ ST H5 D7 
+S7 SA H3 S5 
+S8 CJ C4 D9 
+DQ C3 C5 S6 
+S9 C6 H8 SJ 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "44"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQJ654.J.A975.97 9872.94.QJT86.AT AT3.K72.32.QJ632 .AQT8653.K4.K854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "482467824665b9765b97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  2
+N  D  4
+N  C  6
+S NT  7
+S  S  8
+S  H  2
+S  D  4
+S  C  6
+E NT  6
+E  S  5
+E  H 11
+E  D  9
+E  C  7
+W NT  6
+W  S  5
+W  H 11
+W  D  9
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,3,0,185,331,80,217,704,44,59,42,22,29,213,57,17,841,25,50,7,188,43,45,63,282,33,19,29,69,93,99,8,191,22,14,10,34,15,446,29,38,22,30,15,25,14,16,21,7,22,7,16,8
+[Auction "W"]
+1H 2S =1= Pass 3S 
+4H 4S Pass Pass 
+Pass 
+[Note "1: intermediate"]
+[Play "E"]
+H9 H2 HQ HJ 
+DT D2 D4 D7 
+H4 H7 HT S5 
+CT CQ CK C7 
+D8 HK HA C9 
+D6 D3 DK DA 
+DJ ST H3 D5 
+CA C2 C4 S4 
+DQ SA H5 D9 
+S2 S3 H6 SK 
+-  -  -  SQ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "45"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT3.762.AK86.J52 J7.AK4.T43.AQ843 K96.QT953.J7.KT6 Q8542.J8.Q952.97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "87976879764645646356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  6
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  6
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,1,2,159,30,401,117,45,45,33,214,44,42,30,27,16,6,36,14,21,28,68,63,6,27,20,13,22,15,321,53,42,14,53,32,21,55,121,56,25,9,12,36,10,43,25,55,22,6,21,17,17,7,23,33,12,11,11,10,11,8
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+Pass Pass 
+[Note "1: to play"]
+[Play "W"]
+S4 S3 S7 S9 
+D2 DA D4 D7 
+HJ H2 H4 HT 
+S2 SA SJ S6 
+H8 H6 HK H3 
+S5 H7 HA H9 
+DQ DK D3 DJ 
+C7 C2 CA C6 
+D5 D6 DT H5 
+C9 ST C3 HQ 
+S8 C5 C4 SK 
+D9 CJ C8 CK 
+SQ D8 CQ CT 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "45"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT3.762.AK86.J52 J7.AK4.T43.AQ843 K96.QT953.J7.KT6 Q8542.J8.Q952.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "87976879764645646356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  7
+N  C  6
+S NT  8
+S  S  7
+S  H  9
+S  D  7
+S  C  6
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,3,0,230,46,291,77,220,35,100,420,168,830,32,46,63,33,18,28,50,31,17,7,30,26,481,36,36,13,149,20,27,20,45,11,73,22,7,87,258,13,13,23,66,48,14,16,27,32,15,8
+[Auction "N"]
+1NT Pass 2D =1= Pass 
+2H =2= Pass Pass Pass 
+[Note "1: Hearts or 12p or a big hand"]
+[Note "2: denies 4 Hts"]
+[Play "E"]
+SJ SK S2 S3 
+D3 D7 D5 DA 
+HK H3 H8 H6 
+S7 S6 S4 ST 
+H4 H9 HJ H2 
+HA S9 S5 SA 
+D4 DJ DQ DK 
+C3 CT C7 C2 
+C4 H5 S8 H7 
+CA C6 C9 C5 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "46"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q75.A4.KQJT8.KT8 T98.KJ75.764.Q73 AKJ62.QT2.953.42 43.9863.A2.AJ965"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8a6a68a6a63272732727"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D 10
+N  C  6
+S NT  8
+S  S 10
+S  H  6
+S  D 10
+S  C  6
+E NT  3
+E  S  2
+E  H  7
+E  D  2
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  2
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,2,39,45,252,116,19,50,70,45,18,129,53,41,15,98,26,28,12,94,404,34,56,123,36,35,19,16,24,35,24,28,14,17,21
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1S Pass 1NT 
+Pass 2D =1= Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: artificial GF"]
+[Play "W"]
+H9 H4 HK HT 
+CA C8 C3 C4 
+C9 CK C7 C2 
+S3 S5 S8 SA 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "46"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q75.A4.KQJT8.KT8 T98.KJ75.764.Q73 AKJ62.QT2.953.42 43.9863.A2.AJ965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "12"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8a6a68a6a63272732727"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D 10
+N  C  6
+S NT  8
+S  S 10
+S  H  6
+S  D 10
+S  C  6
+E NT  3
+E  S  2
+E  H  7
+E  D  2
+E  C  7
+W NT  3
+W  S  2
+W  H  7
+W  D  2
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 11,3,0,63,107,116,91,32,51,91,455,71,389,37,655,107,99,37,181,170,35,23,27,26,13,18,45,17,8,14,275,24,22,9,19,33,10,25,30,67,16,14,12,26,18,9,30,118,10,54,11,37,8,11,9,10,10,8
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1S X XX =1= 
+2H 2S Pass 3D 
+Pass Pass Pass 
+[Note "1: 3 spades"]
+[Play "E"]
+H5 HT H6 H4 
+D4 D3 D2 DK 
+D6 D5 DA DQ 
+C3 C2 C6 CK 
+D7 D9 C5 DJ 
+H7 H2 H3 DT 
+HJ HQ H8 HA 
+HK C4 C9 D8 
+S8 S2 S4 SQ 
+S9 SA S3 S7 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "47"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A8.KJT.T6532.K93 93.A65.A9.QJ8654 KQ76.Q943.J84.AT JT542.872.KQ7.72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "87895878954644746447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  9
+N  C  5
+S NT  8
+S  S  7
+S  H  8
+S  D  9
+S  C  5
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 9,1,2,154,41,454,102,480,62,118,201,531,44,18,68,23,90,586,61,37,6,17,35,7,38,68,25,31,8,36,93,26,44,57,12,12,8,20,6,51,18,21,12,18,6,20,13,19,11,18,11,12,12,21,11,20,4,20,11,11,4
+[Auction "S"]
+1NT =1= Pass 2NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+H7 HT HA H3 
+C2 C3 C6 CT 
+DQ D2 D9 D4 
+C7 C9 C4 CA 
+D7 D3 DA DJ 
+S5 CK C5 D8 
+H8 HK H6 H4 
+H2 HJ H5 HQ 
+S2 D5 C8 H9 
+S4 SA S3 S6 
+ST S8 S9 SK 
+SJ D6 CJ SQ 
+DK DT CQ S7 
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "47"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A8.KJT.T6532.K93 93.A65.A9.QJ8654 KQ76.Q943.J84.AT JT542.872.KQ7.72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "87895878954644746447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  9
+N  C  5
+S NT  8
+S  S  7
+S  H  8
+S  D  9
+S  C  5
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 9,3,0,146,72,853,176,528,56,2065,98,493,111,103,57,32,43,17,18,58,31,25,22,34,19,25,18,62,29,37,31,662,37,25,26,21,131,21,30,38,26,22,9,17,13,20,21,29,68,19,9,33,21,20,9,190,50
+[Auction "S"]
+1NT =1= Pass 2D =2= Pass 
+2NT =3= Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Hts or 12 or strong"]
+[Note "3: 4H and 4S with 12 points"]
+[Play "W"]
+C7 C3 CJ CA 
+H2 HT H6 H3 
+H7 HJ H5 H4 
+H8 HK HA H9 
+DQ D2 D9 D4 
+C2 C9 CQ CT 
+S5 CK C4 D8 
+S4 SA S9 S6 
+S2 S8 S3 SK 
+ST D3 C5 HQ 
+SJ D5 C6 SQ 
+DK -  -  DJ 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "48"]
+[West "Chris Mooney#29907"]
+[North "Paul Barden#420164"]
+[East "Ivan Leung#524083"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:73.9642.Q762.AQ2 KJ4.QJT.A3.KT954 Q2.3.KT9854.J873 AT9865.AK875.J.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1118411184ccc58ccc58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  8
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  8
+S  C  4
+E NT 12
+E  S 12
+E  H 12
+E  D  5
+E  C  8
+W NT 12
+W  S 12
+W  H 12
+W  D  5
+W  C  8
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 28,1,2,118,35,118,196,75,194,85,69,32,111,19,28,21,167,50,22,575,35,22,19,15,16,95,32
+[Auction "W"]
+1S Pass 2C =1= 3D 
+3H 5D 5S Pass 
+6S Pass Pass Pass 
+[Note "1: GF, ♣ or BAL"]
+[Play "N"]
+D2 DA DT DJ 
+S3 S4 S2 SA 
+S7 SK SQ S5 
+*
+
+[Event "20 Jan Gold Cup Fegarty vs Rawlins"]
+[Site "RealBridge"]
+[Date "2024.01.20"]
+[Board "48"]
+[West "Catherine#113739"]
+[North "Mike Rawlins#94613"]
+[East "Paul Fegarty#29653"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:73.9642.Q762.AQ2 KJ4.QJT.A3.KT954 Q2.3.KT9854.J873 AT9865.AK875.J.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1118411184ccc58ccc58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  8
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  8
+S  C  4
+E NT 12
+E  S 12
+E  H 12
+E  D  5
+E  C  8
+W NT 12
+W  S 12
+W  H 12
+W  D  5
+W  C  8
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 23,3,0,94,31,544,131,38,28,306,34,1206,110,304,86,378,169,267,52,590,73,248,64,292,70,21,25,87,147,29,12,437,26,11,22,24,20,27,14
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2H Pass 2S =2= Pass 
+4C =3= Pass 4D =4= X 
+Pass =5= Pass XX =6= Pass 
+4NT Pass 5H =7= Pass 
+5S Pass Pass Pass 
+[Note "1: Nat or 11+ bal or inv+ 3cd S raise"]
+[Note "2: FG 3 cd S raise"]
+[Note "3: short C 6s, 4+h"]
+[Note "4: cue"]
+[Note "5: enc, denies 1st round control"]
+[Note "6: 1st roung control"]
+[Note "7: 2 KC"]
+[Play "N"]
+D6 DA D4 DJ 
+S3 SK S2 S5 
+S7 S4 SQ SA 
+*

@@ -1,0 +1,2496 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "11"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9843.KQ.KQ98.T6 A65.764.AT76.J93 7.A832.J5.AKQ752 KQT2.JT95.432.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "9898b9898b4534245342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C 11
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  2
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "S"]
+1C Pass 1S Pass 
+2H Pass 2NT =1= Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: lebensohl (forces 3c)"]
+[Play "E"]
+D6 D5 D2 D8 
+H4 H2 H5 HQ 
+DA DJ D3 D9 
+SA S7 S2 S3 
+S6 H3 SK S4 
+S5 C2 SQ S8 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "11"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9843.KQ.KQ98.T6 A65.764.AT76.J93 7.A832.J5.AKQ752 KQT2.JT95.432.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "9898b9898b4534245342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C 11
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  2
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "S"]
+1C Pass 1S Pass 
+2C Pass 2D =1= X 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: art. F1"]
+[Play "E"]
+D6 D5 D4 D8 
+H4 H2 H5 HK 
+H7 H3 H9 HQ 
+C3 CQ C8 C6 
+C9 CA C4 CT 
+CJ CK D3 DQ 
+S5 C7 S2 S3 
+H6 C5 D2 S4 
+S6 C2 ST S8 
+D7 HA HJ S9 
+SA S7 SQ SJ 
+DA DJ HT D9 
+DT H8 SK DK 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "11"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9843.KQ.KQ98.T6 A65.764.AT76.J93 7.A832.J5.AKQ752 KQT2.JT95.432.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9898b9898b4534245342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C 11
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  2
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "S"]
+1C =1= Pass 1H =2= Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+S"]
+[Play "E"]
+D6 D5 D2 D8 
+C3 CA C8 C6 
+H4 H2 H9 HK 
+H6 H3 H5 HQ 
+C9 CK C4 CT 
+CJ CQ D3 S3 
+S5 C7 D4 S4 
+D7 C5 S2 S8 
+H7 C2 ST S9 
+S6 HA HT SJ 
+DA DJ HJ D9 
+SA S7 SK DQ 
+DT H8 SQ DK 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "11"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J9843.KQ.KQ98.T6 A65.764.AT76.J93 7.A832.J5.AKQ752 KQT2.JT95.432.84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9898b9898b4534245342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C 11
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  2
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "S"]
+1C Pass 1S Pass 
+2H Pass 3D =1= Pass 
+3NT Pass Pass Pass 
+[Note "1:  * lebensohl response: gf [0:08] * lebesohl response: gf & diamonds [0:30]"]
+[Play "W"]
+SQ S3 S5 S7 
+S2 S8 SA H2 
+HJ HQ H7 H3 
+H5 HK H4 H8 
+C4 C6 C3 CA 
+C8 CT C9 CK 
+D4 S4 CJ CQ 
+D3 D8 D6 C7 
+D2 D9 D7 C5 
+ST DQ S6 C2 
+H9 S9 H6 HA 
+HT DK DA D5 
+SK SJ DT DJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "12"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8765.Q6542.2.A85 K4.983.KJ76.KQT9 QJT9.AK7.QT53.J2 A32.JT.A984.7643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "69854698547458874588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  4
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1D Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+H4 H3 HA HT 
+H2 H8 HK HJ 
+HQ H9 H7 S2 
+H5 D6 D3 D4 
+H6 C9 C2 D8 
+C5 CK CJ C3 
+CA CT S9 C4 
+D2 D7 DT DA 
+C8 CQ ST C6 
+S5 SK SQ S3 
+S6 S4 SJ SA 
+S7 DK D5 D9 
+S8 DJ DQ C7 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "12"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8765.Q6542.2.A85 K4.983.KJ76.KQT9 QJT9.AK7.QT53.J2 A32.JT.A984.7643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "69854698547458874588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  4
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1D 1S 
+1NT 3D =1= Pass 3S 
+Pass Pass Pass 
+[Note "1: mixed raise"]
+[Play "W"]
+HJ H2 H9 HA 
+C4 C5 C9 C2 
+HT HQ H3 H7 
+S2 S5 S4 SQ 
+SA S6 SK SJ 
+S3 S7 D6 S9 
+D4 H4 H8 HK 
+C3 CA CK CJ 
+C6 C8 CQ ST 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "12"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8765.Q6542.2.A85 K4.983.KJ76.KQT9 QJT9.AK7.QT53.J2 A32.JT.A984.7643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "69854698547458874588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  4
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1D Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+H4 H3 HA HT 
+H2 H8 HK HJ 
+HQ H9 H7 S2 
+H6 C9 D5 D4 
+H5 S4 S9 D8 
+D2 DJ DQ DA 
+S6 D6 DT D9 
+S5 SK SQ S3 
+C5 DK D3 C3 
+CA CK C2 C4 
+C8 CQ CJ C6 
+S7 CT ST C7 
+S8 D7 SJ SA 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "12"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8765.Q6542.2.A85 K4.983.KJ76.KQT9 QJT9.AK7.QT53.J2 A32.JT.A984.7643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "69854698547458874588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  4
+E NT  7
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1D Pass 
+2D Pass Pass Pass 
+[Play "S"]
+HA HT H2 H3 
+SQ S2 S5 SK 
+HK HJ H4 H9 
+SJ SA S6 S4 
+D3 DA D2 D6 
+D5 D4 C5 DK 
+C2 C3 CA CK 
+S9 S3 S8 D7 
+CJ C4 C8 CQ 
+H7 C6 H5 CT 
+ST D8 H6 H8 
+DT C7 S7 C9 
+DQ D9 HQ DJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "13"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J75.J765.A87.T72 KQT3.QT.Q42.AQ43 A64.A32.K9.KJ865 982.K984.JT653.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76748766486769557685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  9
+E  C  5
+W NT  5
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "S"]
+C6 C9 CT CQ 
+DK D3 D8 D2 
+CK S2 C2 C3 
+CJ H4 C7 CA 
+D9 D5 D7 DQ 
+H2 D6 DA D4 
+SA S8 S5 SQ 
+C8 S9 H5 C4 
+C5 H8 H6 S3 
+S6 DT SJ SK 
+HA H9 H7 HQ 
+S4 -  -  -  
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "13"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J75.J765.A87.T72 KQT3.QT.Q42.AQ43 A64.A32.K9.KJ865 982.K984.JT653.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76748766486769557685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  9
+E  C  5
+W NT  5
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+S4 S8 SJ SQ 
+S6 S9 S5 S3 
+DK D3 D7 DQ 
+SA S2 S7 ST 
+H2 H4 H5 HT 
+D9 DT DA D2 
+CK C9 CT CQ 
+CJ H8 C2 CA 
+H3 DJ D8 D4 
+C5 D5 C7 C3 
+C6 D6 H6 C4 
+HA H9 H7 HQ 
+C8 HK HJ SK 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "13"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J75.J765.A87.T72 KQT3.QT.Q42.AQ43 A64.A32.K9.KJ865 982.K984.JT653.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76748766486769557685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  9
+E  C  5
+W NT  5
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "S"]
+C5 C9 CT CQ 
+HA H4 H5 HQ 
+S4 S2 SJ SK 
+C6 S9 C2 C3 
+H2 HK H6 HT 
+H3 H9 H7 C4 
+SA S8 S5 S3 
+CK H8 C7 CA 
+S6 D3 S7 SQ 
+DK D5 D7 DQ 
+CJ D6 D8 ST 
+D9 DJ DA D2 
+C8 DT HJ D4 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "13"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J75.J765.A87.T72 KQT3.QT.Q42.AQ43 A64.A32.K9.KJ865 982.K984.JT653.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76748766486769557685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  9
+E  C  5
+W NT  5
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "S"]
+S4 S8 SJ SK 
+C5 C9 C7 CA 
+C6 S2 C2 C3 
+HA H4 H5 HQ 
+SA S9 S5 S3 
+H3 HK H6 HT 
+H2 H8 H7 D2 
+DK DJ D7 D4 
+D9 D3 DA DQ 
+C8 D5 CT C4 
+CJ H9 HJ ST 
+S6 D6 S7 SQ 
+CK DT D8 CQ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "14"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.T75.KT75.J65 AKJT854.Q86.94.9 2.K9432.QJ2.Q432 76.AJ.A863.AKT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1053410534cd898cd898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  3
+N  C  4
+S NT  1
+S  S  0
+S  H  5
+S  D  3
+S  C  4
+E NT 12
+E  S 13
+E  H  8
+E  D  9
+E  C  8
+W NT 12
+W  S 13
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+[Auction "E"]
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+C3 CA C5 C9 
+S2 S6 S3 SA 
+H2 S7 S9 SK 
+H3 HJ H5 H6 
+H4 HA H7 H8 
+C2 CK C6 HQ 
+C4 C7 CJ S4 
+D2 DA D5 D4 
+CQ CT D7 D9 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "14"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.T75.KT75.J65 AKJT854.Q86.94.9 2.K9432.QJ2.Q432 76.AJ.A863.AKT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1053410534cd898cd898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  3
+N  C  4
+S NT  1
+S  S  0
+S  H  5
+S  D  3
+S  C  4
+E NT 12
+E  S 13
+E  H  8
+E  D  9
+E  C  8
+W NT 12
+W  S 13
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 2C Pass 
+2S Pass 3D Pass 
+4S Pass Pass Pass 
+[Play "S"]
+H3 HJ H7 H6 
+H2 HA H5 H8 
+S2 S6 S3 SA 
+H4 S7 S9 SK 
+C2 CA C6 C9 
+C3 CK C5 HQ 
+C4 C8 CJ S4 
+H9 D3 SQ ST 
+HK D6 HT S5 
+D2 C7 D5 SJ 
+DJ CT D7 S8 
+DQ DA DT D4 
+CQ D8 DK D9 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "14"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.T75.KT75.J65 AKJT854.Q86.94.9 2.K9432.QJ2.Q432 76.AJ.A863.AKT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "1053410534cd898cd898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  3
+N  C  4
+S NT  1
+S  S  0
+S  H  5
+S  D  3
+S  C  4
+E NT 12
+E  S 13
+E  H  8
+E  D  9
+E  C  8
+W NT 12
+W  S 13
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 2C =1= Pass 
+2S Pass 3D Pass 
+3S Pass 4NT Pass 
+5H =2= Pass 6S Pass 
+Pass Pass 
+[Note "1: GF"]
+[Note "2: 2 w/o Q"]
+[Play "S"]
+C4 CA C5 C9 
+C2 CK C6 D4 
+S2 S7 S3 SK 
+H2 HJ H5 H6 
+H3 HA H7 H8 
+C3 C7 CJ SJ 
+HK S6 HT HQ 
+D2 DA D5 D9 
+DJ D3 DK S4 
+H4 D6 S9 SA 
+-  -  -  ST 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "14"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.T75.KT75.J65 AKJT854.Q86.94.9 2.K9432.QJ2.Q432 76.AJ.A863.AKT87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "1053410534cd898cd898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  3
+N  C  4
+S NT  1
+S  S  0
+S  H  5
+S  D  3
+S  C  4
+E NT 12
+E  S 13
+E  H  8
+E  D  9
+E  C  8
+W NT 12
+W  S 13
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+[Auction "E"]
+1S Pass 2C Pass 
+2S Pass 2NT Pass 
+3S Pass 4D Pass 
+4S Pass Pass Pass 
+[Play "S"]
+S2 S6 SQ SA 
+H2 S7 S3 SK 
+H3 D3 S9 SJ 
+C2 CA C5 C9 
+C3 CK C6 D4 
+C4 C7 CJ S4 
+DJ DA D5 D9 
+CQ C8 H7 S5 
+H4 HJ H5 H6 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "15"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT93.A653.T98.87 K742.K9.J52.T642 Q86.T742.AKQ7.93 J5.QJ8.643.AKQJ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67885688856555865558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C Pass 1S 
+X 2C 2H Pass 
+Pass Pass 
+[Play "E"]
+CT C3 C5 C7 
+C2 C9 CJ C8 
+C4 S6 CQ H3 
+HK H2 H8 H5 
+D2 DA D3 D9 
+H9 H4 HJ HA 
+D5 DQ D4 DT 
+DJ DK D6 D8 
+SK SQ S5 S3 
+S7 S8 SJ SA 
+C6 H7 HQ H6 
+S2 HT CK S9 
+S4 D7 CA ST 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "15"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT93.A653.T98.87 K742.K9.J52.T642 Q86.T742.AKQ7.93 J5.QJ8.643.AKQJ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67885688856555865558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C Pass 1S 
+X 1NT 2H Pass 
+Pass Pass 
+[Play "E"]
+C4 C3 CJ C8 
+C2 C9 CA C7 
+DJ DA D4 D8 
+H9 H2 H8 H3 
+D2 D7 D3 D9 
+HK H4 HJ HA 
+D5 DQ D6 DT 
+S2 DK C5 S3 
+S4 H7 HQ H5 
+C6 S6 CK H6 
+SK -  -  ST 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "15"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT93.A653.T98.87 K742.K9.J52.T642 Q86.T742.AKQ7.93 J5.QJ8.643.AKQJ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67885688856555865558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "S"]
+1C =1= Pass 1D =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+H"]
+[Play "W"]
+CA C7 C2 C3 
+CJ C8 C4 C9 
+SJ SA S7 S6 
+H8 HA H9 H2 
+HJ H3 HK H4 
+D3 D8 D2 DA 
+S5 S3 SK SQ 
+-  -  S4 S8 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "15"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT93.A653.T98.87 K742.K9.J52.T642 Q86.T742.AKQ7.93 J5.QJ8.643.AKQJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67885688856555865558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1:  * 15-17 [0:05]"]
+[Play "N"]
+S3 S2 SQ S5 
+D9 D2 DA D3 
+D8 D5 DK D4 
+DT DJ DQ D6 
+H3 C2 D7 H8 
+C7 C4 C9 CA 
+SA S4 S8 SJ 
+ST SK S6 HQ 
+C8 CT C3 C5 
+H5 C6 H2 CK 
+H6 H9 H4 CQ 
+S9 HK H7 CJ 
+HA S7 HT HJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "16"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T652.72.KT43.KQ7 874.AJ9.AQ652.A9 AK3.QT53.J98.JT2 QJ9.K864.7.86543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66465664656687866878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+H3 H4 H7 H9 
+C2 C3 C7 CA 
+CT C4 CQ C9 
+D8 D7 D3 D2 
+DJ C5 D4 DQ 
+SA S9 S2 S4 
+D9 C6 DT DA 
+S3 SJ S5 S8 
+H5 H6 H2 HA 
+HQ HK S6 HJ 
+HT H8 ST S7 
+SK SQ DK D5 
+CJ C8 CK D6 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "16"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T652.72.KT43.KQ7 874.AJ9.AQ652.A9 AK3.QT53.J98.JT2 QJ9.K864.7.86543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66465664656687866878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+H3 H4 H7 H9 
+C2 C3 C7 CA 
+CT C4 CQ C9 
+D9 D7 D3 DQ 
+SA S9 S2 S4 
+DJ H6 D4 DA 
+SK SJ S5 S7 
+D8 C5 DT D2 
+S3 SQ S6 S8 
+H5 HK H2 HJ 
+HT H8 ST HA 
+CJ C6 DK D5 
+HQ C8 CK D6 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "16"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T652.72.KT43.KQ7 874.AJ9.AQ652.A9 AK3.QT53.J98.JT2 QJ9.K864.7.86543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "66465664656687866878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 15-17 [0:04]"]
+[Play "S"]
+H3 H4 H7 H9 
+H5 H6 H2 HA 
+HQ HK S2 HJ 
+D8 D7 D3 DQ 
+SA S9 S5 S8 
+HT H8 S6 D2 
+CJ C3 C7 CA 
+D9 C4 D4 DA 
+SK SQ ST S4 
+CT C5 CQ C9 
+C2 C6 CK S7 
+DJ C8 DK D5 
+S3 SJ DT D6 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "16"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T652.72.KT43.KQ7 874.AJ9.AQ652.A9 AK3.QT53.J98.JT2 QJ9.K864.7.86543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "66465664656687866878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+H3 H4 H7 H9 
+CT C3 C7 C9 
+D8 D7 DK DA 
+H5 H6 H2 HA 
+SK S9 S2 S4 
+D9 C4 D3 DQ 
+SA SJ S5 S7 
+S3 SQ S6 S8 
+C2 C5 CQ CA 
+HQ HK D4 HJ 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "17"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT53.J4.KJ3.QJT7 J7.KT.T742.A9865 AQ86.872.986.432 942.AQ9653.AQ5.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "47434474349599795997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  9
+W  S  5
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1H 
+X 1NT 2S 3H 
+Pass Pass Pass 
+[Play "N"]
+CQ C5 C3 CK 
+S3 SJ SQ S2 
+DJ D2 D9 D5 
+H4 HK H8 H3 
+C7 CA C4 S4 
+DK D4 D6 DQ 
+CJ C6 C2 H5 
+HJ HT H2 HA 
+S5 S7 H7 HQ 
+D3 C8 S6 H9 
+ST C9 S8 H6 
+CT D7 D8 DA 
+SK DT SA S9 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "17"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT53.J4.KJ3.QJT7 J7.KT.T742.A9865 AQ86.872.986.432 942.AQ9653.AQ5.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "47434474349599795997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  9
+W  S  5
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1H 
+X 1NT Pass 2H 
+Pass Pass Pass 
+[Play "N"]
+CQ C5 C4 CK 
+S3 S7 S8 S2 
+DJ D2 D9 D5 
+CT CA C2 DQ 
+S5 SJ SA S4 
+C7 C6 C3 H9 
+ST HT S6 S9 
+H4 HK H2 H3 
+D3 D4 D6 DA 
+HJ D7 H7 HA 
+CJ DT H8 HQ 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "17"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT53.J4.KJ3.QJT7 J7.KT.T742.A9865 AQ86.872.986.432 942.AQ9653.AQ5.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "47434474349599795997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  9
+W  S  5
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+1C =1= Pass 1H =2= 2H 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+S"]
+[Play "N"]
+CQ C5 C4 CK 
+H4 HK H2 H3 
+C7 CA C2 D5 
+ST S7 S6 S9 
+HJ HT H7 HA 
+S3 D2 H8 HQ 
+CT D4 S8 H9 
+SK SJ SA S2 
+S5 C6 SQ S4 
+DK D7 D6 DQ 
+CJ -  -  -  
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "17"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT53.J4.KJ3.QJT7 J7.KT.T742.A9865 AQ86.872.986.432 942.AQ9653.AQ5.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "47434474349599795997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  9
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  9
+W  S  5
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1H 
+X 1NT =1= Pass 2C =2= 
+Pass Pass Pass 
+[Note "1: transfer"]
+[Note "2: accept transfer"]
+[Play "N"]
+CQ C5 C4 CK 
+H4 HK H2 H3 
+C7 CA C2 S2 
+CT C9 C3 D5 
+HJ HT H7 HA 
+CJ S7 H8 HQ 
+S3 SJ SA S4 
+D3 D2 D6 DA 
+S5 D4 D8 H9 
+ST D7 D9 H6 
+DJ DT -  H5 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "18"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.QJ763.5.QT974 Q5.K.AT8632.A863 A932.T854.KQJ4.2 KJ876.A92.97.KJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "54745547458959889598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  9
+E  H  5
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1S 2NT =1= 
+3D Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1:  * ♥+♣ [0:11]"]
+[Play "N"]
+HQ HK H4 H2 
+CQ C3 C2 CJ 
+CT C6 S2 C5 
+D5 DA DK D7 
+ST SQ SA S6 
+S4 D2 DQ D9 
+C4 C8 S3 CK 
+H3 S5 S9 SK 
+H6 D3 D4 SJ 
+C7 D6 H5 S8 
+C9 D8 H8 S7 
+H7 CA HT HA 
+HJ DT DJ H9 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "18"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.QJ763.5.QT974 Q5.K.AT8632.A863 A932.T854.KQJ4.2 KJ876.A92.97.KJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "54745547458959889598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  9
+E  H  5
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1S Pass 
+2C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H6 HK H5 H2 
+S4 SQ SA S6 
+HJ D2 H4 H9 
+H3 D3 HT HA 
+ST S5 S2 SK 
+C4 D6 S3 SJ 
+C9 CA C2 C5 
+C7 C3 D4 CK 
+CQ C6 H8 CJ 
+HQ D8 DJ D7 
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "18"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.QJ763.5.QT974 Q5.K.AT8632.A863 A932.T854.KQJ4.2 KJ876.A92.97.KJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NTX"]
+[Result "7"]
+[Score "NS 300"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "54745547458959889598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  9
+E  H  5
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1S X 
+2C 2H 3NT Pass 
+Pass X Pass Pass 
+Pass 
+[Play "N"]
+H6 HK H8 H2 
+S4 S5 S2 SJ 
+ST SQ SA S6 
+HJ D2 H4 H9 
+D5 D3 DJ D7 
+H3 D6 H5 HA 
+C4 D8 S3 SK 
+C9 CA C2 C5 
+C7 C3 D4 CK 
+CT DA DQ D9 
+H7 DT DK S7 
+HQ C6 HT CJ 
+CQ C8 S9 S8 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "18"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T4.QJ763.5.QT974 Q5.K.AT8632.A863 A932.T854.KQJ4.2 KJ876.A92.97.KJ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "54745547458959889598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  9
+E  H  5
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1S X 
+2C 4H X Pass 
+Pass Pass 
+[Play "W"]
+D9 D5 DA D4 
+S6 S4 SQ SA 
+D7 ST D2 DK 
+C5 C4 D3 DQ 
+CJ C7 D6 DJ 
+CK C9 C3 C2 
+SK H3 S5 S2 
+HA CT C6 HT 
+SJ H7 HK S3 
+H9 CQ CA H8 
+S8 HQ C8 S9 
+H2 HJ D8 H4 
+S7 H6 DT H5 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "19"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ6.Q9832.Q3.QT2 985.J7.J942.A973 7432.K654.K86.K4 AKT.AT.AT75.J865"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67855678556658866588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  8
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "N"]
+SQ S5 S2 SA 
+C2 CA C4 C5 
+DQ DJ D6 D5 
+SJ S8 S3 SK 
+CT C3 CK C8 
+S6 S9 S7 ST 
+CQ C7 H4 CJ 
+H3 H7 HK HA 
+D3 C9 H6 C6 
+H2 D9 DK DA 
+H8 D2 D8 DT 
+H9 D4 H5 D7 
+HQ HJ S4 HT 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "19"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ6.Q9832.Q3.QT2 985.J7.J942.A973 7432.K654.K86.K4 AKT.AT.AT75.J865"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67855678556658866588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  8
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+H3 H7 HK HA 
+C2 CA C4 C5 
+D3 DJ DK DA 
+DQ D2 D6 D5 
+HQ HJ H4 HT 
+H9 S5 H5 ST 
+H8 C3 H6 DT 
+H2 C7 D8 C6 
+SQ S8 S7 SA 
+S6 D9 S2 D7 
+SJ D4 S3 C8 
+CT S9 S4 SK 
+CQ C9 CK CJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "19"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ6.Q9832.Q3.QT2 985.J7.J942.A973 7432.K654.K86.K4 AKT.AT.AT75.J865"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67855678556658866588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  8
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+H3 H7 HK HA 
+C2 CA C4 C5 
+DQ DJ D6 D5 
+HQ HJ H4 HT 
+H9 S5 H5 ST 
+H8 S8 H6 C6 
+H2 S9 S7 C8 
+CQ C3 CK CJ 
+S6 C7 S2 SK 
+SQ D2 S3 SA 
+D3 D4 D8 DA 
+CT D9 DK D7 
+SJ C9 S4 DT 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "19"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ6.Q9832.Q3.QT2 985.J7.J942.A973 7432.K654.K86.K4 AKT.AT.AT75.J865"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67855678556658866588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  8
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+H3 H7 HK HA 
+C2 CA C4 C6 
+DQ DJ D6 D5 
+HQ HJ H4 HT 
+H9 S5 H6 ST 
+H8 C3 H5 C5 
+H2 S8 S7 C8 
+SQ S9 S2 SA 
+D3 D2 D8 DA 
+CT D9 DK D7 
+S6 D4 S4 SK 
+CQ C7 S3 DT 
+SJ C9 CK CJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "20"]
+[West "Evan Alexis#USA6378285"]
+[North "Brian Zhang#USA7747381"]
+[East "Isaac Stone#USA2388081"]
+[South "Eric Xiao#USA7818904"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9653.KJ3.843.QT3 K8.AT984.JT962.5 QT7.Q752.AK.K982 AJ42.6.Q75.AJ764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[HomeTeam "[4] Zhang"]
+[VisitTeam "[1] Eckert"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55626556266779767797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  2
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  2
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+2C Pass 2D Pass 
+Pass Pass 
+[Play "S"]
+C2 CA C3 C5 
+H2 H6 H3 HA 
+H5 D5 HJ H4 
+C8 C4 CT D2 
+H7 D7 HK H8 
+S7 S2 S3 SK 
+ST SA S5 S8 
+SQ S4 S6 D6 
+HQ DQ S9 H9 
+DK SJ CQ HT 
+CK C6 D8 D9 
+DA C7 D3 DT 
+C9 CJ D4 DJ 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "20"]
+[West "Eric He#USA7807759"]
+[North "Sam Pahk#USA7789246"]
+[East "Edward He#USA7709129"]
+[South "Kai Eckert#USA7790481"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9653.KJ3.843.QT3 K8.AT984.JT962.5 QT7.Q752.AK.K982 AJ42.6.Q75.AJ764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[HomeTeam "[1] Eckert"]
+[VisitTeam "[4] Zhang"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55626556266779767797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  2
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  2
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 2H Pass 
+2NT Pass Pass Pass 
+[Play "N"]
+D4 D2 DA D5 
+C3 C5 C9 CA 
+D3 D6 DK DQ 
+CT H4 CK C4 
+CQ H8 C2 C6 
+D8 D9 H2 D7 
+-  DT C8 -  
+*
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "20"]
+[West "Andrew Chen#USA1681008"]
+[North "Jeff Hu#USA7191863"]
+[East "Jeff Xiao#USA8251282"]
+[South "Henry Xing#USA7840888"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9653.KJ3.843.QT3 K8.AT984.JT962.5 QT7.Q752.AK.K982 AJ42.6.Q75.AJ764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "4"]
+[HomeTeam "[3] Hu"]
+[VisitTeam "[2] Gong"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55626556266779767797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  2
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  2
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+S7 S2 S9 SK 
+DK D5 D8 DJ 
+ST SJ S3 S8 
+DA DQ D3 D2 
+H2 H6 HK HA 
+C2 D7 D4 DT 
+H5 C4 H3 D9 
+C8 C6 HJ D6 
+HQ C7 C3 HT 
+SQ SA S5 C5 
+C9 CA CT H4 
+H7 S4 S6 H8 
+CK CJ CQ H9 
+
+[Event "Junior JLall #1 RR - Round 2 of 3"]
+[Site "RealBridge"]
+[Date "2021.12.28"]
+[Board "20"]
+[West "Amber Lin#USA9818421"]
+[North "Nathan Gong#USA6790682"]
+[East "Olivia Schireson#USA6898505"]
+[South "Arthur Gong#USA6790623"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9653.KJ3.843.QT3 K8.AT984.JT962.5 QT7.Q752.AK.K982 AJ42.6.Q75.AJ764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "3"]
+[HomeTeam "[2] Gong"]
+[VisitTeam "[3] Hu"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55626556266779767797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  2
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  2
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  9
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+DA D5 D3 D2 
+DK DQ D4 D6 
+H2 H6 HK H4 
+H5 C4 HJ HA 
+-  -  -  H8 
+*

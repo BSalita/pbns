@@ -1,0 +1,4066 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "1"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.K96.AK953.AQ32 J8.AQT832.J.KJ85 AKQ753.J75.87.96 T964.4.QT642.T74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "89787796765464654646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,684,345,839,47,59,51,101,210,50,19,156,59,49,63,156,18,16,30,24,29,10,23,83,30,58,27,1095,41,36,25,548,223,26,141,27,91,30,14,25,48
+[Auction "N"]
+1NT =1= 2D =2= 4S Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 1 suit unspec or 5/5 c/h"]
+[Play "W"]
+H4 H6 HQ H7 
+D4 DA DJ D7 
+S4 S2 S8 SA 
+S6 C2 SJ SK 
+S9 C3 C5 SQ 
+DQ DK H3 D8 
+ST H9 HT HJ 
+C7 CQ CK C6 
+-  -  HA H5 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "1"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.K96.AK953.AQ32 J8.AQT832.J.KJ85 AKQ753.J75.87.96 T964.4.QT642.T74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "89787796765464654646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,387,179,202,49,93,49,155,74,67,42,35,25,369,697,37,108,20,35,18,43,70,82,29,23,178,21,29,23,78,20,17,45,367,18,1467,43,967,90,53,18,222,61,8,11,20,16,33,8,30,30,48,7,70,17,20,45,15,17,14,11,16,9,9,12
+[Auction "N"]
+1D 1H 1S Pass 
+2C 2H 3S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+H2 HJ H4 H6 
+DJ D7 D4 D3 
+SJ SA S4 S2 
+S8 SK S6 C2 
+C5 SQ S9 C3 
+H3 D8 D2 DA 
+H8 S3 D6 DK 
+HA H5 C7 HK 
+HQ H7 C4 H9 
+HT S5 CT D5 
+C8 C6 ST CQ 
+CJ C9 DT CA 
+CK S7 DQ D9 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "2"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.76.KJT865.42 Q76.A4.92.AQJT96 T83.KJT5.AQ3.K75 A954.Q9832.74.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75695756955773857738"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  5
+S NT  7
+S  S  5
+S  H  6
+S  D  9
+S  C  5
+E NT  5
+E  S  7
+E  H  7
+E  D  3
+E  C  8
+W NT  5
+W  S  7
+W  H  7
+W  D  3
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 5,2,1,127,126,46,55,142,40,212,75,51,97,24,28,61,459,27,18,50,362,34,11,98,32,12,14,477,68,15,46,39,23,15,16,19,74,36,19,64,63,14,18,20,32,12,10,17,14,15,15,16,19,9,20,17,69,15,10,11,17,12,9
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass Pass Pass 
+[Play "S"]
+S8 S4 SK S7 
+C5 C3 C2 CA 
+C7 C8 C4 C9 
+CK H2 D5 CQ 
+HJ HQ H6 H4 
+H5 H3 H7 HA 
+HT D4 D6 CJ 
+D3 D7 D8 CT 
+S3 S5 S2 SQ 
+ST SA SJ S6 
+HK H8 DT D2 
+DA S9 DJ D9 
+DQ H9 DK C6 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "2"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.76.KJT865.42 Q76.A4.92.AQJT96 T83.KJT5.AQ3.K75 A954.Q9832.74.83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75695756955773857738"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  5
+S NT  7
+S  S  5
+S  H  6
+S  D  9
+S  C  5
+E NT  5
+E  S  7
+E  H  7
+E  D  3
+E  C  8
+W NT  5
+W  S  7
+W  H  7
+W  D  3
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,105,175,61,49,81,67,43,87,81,113,44,39,17,64,133,21,14,34,178,23,18,141,19,43,42,10,13,30,15,286,23,14,39,162,53,38,33,88,25,14,11,13,16,16,7
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass Pass 2D 
+3C 3D Pass Pass 
+Pass 
+[Play "E"]
+HA H5 H8 H7 
+H4 HK H2 H6 
+D2 D3 D4 DJ 
+D9 DA D7 D5 
+SQ S3 S4 SJ 
+S7 S8 S9 SK 
+CA C5 C3 C2 
+S6 ST SA S2 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "3"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J8754.Q8.J872.T2 AT9.A6.93.AKQJ76 KQ2.JT97.K64.943 63.K5432.AQT5.85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1422114221c8aacc8aac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  2
+N  D  2
+N  C  1
+S NT  1
+S  S  4
+S  H  2
+S  D  2
+S  C  1
+E NT 12
+E  S  8
+E  H 10
+E  D 10
+E  C 12
+W NT 12
+W  S  8
+W  H 10
+W  D 10
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,118,114,60,217,64,121,34,330,42,94,40,43,29,143,150,22,50,32,40,12,9,54,13,45,29,45,140,22,45,81,110,16,35,38,86,65,21,87,15,19,13,139,19,14,43,83,17,14,12,16,19,14,28,52,118,13,14,17,19,11,11,13,10,12,7
+[Auction "S"]
+Pass Pass Pass 2NT =1= 
+Pass 3D Pass 3H =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 19-21"]
+[Note "2: forced"]
+[Play "S"]
+C4 C5 CT CA 
+C3 C8 C2 CK 
+C9 D5 S5 CQ 
+D6 S3 D2 CJ 
+S2 H2 H8 C7 
+D4 H3 S4 C6 
+DK DA D7 D3 
+HJ DQ D8 D9 
+H7 H4 HQ HA 
+HT HK S7 H6 
+H9 H5 S8 S9 
+SK S6 SJ SA 
+SQ DT DJ ST 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "3"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J8754.Q8.J872.T2 AT9.A6.93.AKQJ76 KQ2.JT97.K64.943 63.K5432.AQT5.85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1422114221c8aacc8aac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  2
+N  D  2
+N  C  1
+S NT  1
+S  S  4
+S  H  2
+S  D  2
+S  C  1
+E NT 12
+E  S  8
+E  H 10
+E  D 10
+E  C 12
+W NT 12
+W  S  8
+W  H 10
+W  D 10
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,55,183,73,94,84,117,35,65,358,39,276,29,384,60,51,32,132,68,26,130,32,18,27,27,21,10,6,104,34,17,30,25,24,50,95,132,19,10,32,10,14,27,13,14,17,12,114,23,15,23,52,11,20,12,9,9,10,6,10
+[Auction "S"]
+Pass 2H =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 5/4 H/m or better [0:21]"]
+[Play "S"]
+SQ S3 S8 S9 
+SK S6 S7 ST 
+S2 H2 S5 SA 
+C3 C5 C2 CK 
+C4 C8 CT CQ 
+C9 H3 H8 CA 
+D4 D5 D8 CJ 
+D6 DA D2 D3 
+H7 H4 HQ HA 
+H9 DT S4 C7 
+HT DQ SJ C6 
+HJ HK D7 H6 
+DK H5 DJ D9 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "4"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ2.Q96542.832. Q97.K87.AJ.T7543 54.AJT3.654.AKQ9 T863..KQT97.J862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "86a7586a762506726067"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  7
+N  C  5
+S NT  8
+S  S  6
+S  H 10
+S  D  7
+S  C  6
+E NT  2
+E  S  5
+E  H  0
+E  D  6
+E  C  7
+W NT  2
+W  S  6
+W  H  0
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,2,1,119,102,77,590,118,83,43,27,25,48,95,26,41,26,32,17,114,20,28,13,27,12,27,9,10,17,22,15,14
+[Auction "W"]
+Pass 1H Pass 3NT =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: bal 4 card raise 12-14"]
+[Play "E"]
+S9 S4 S3 SJ 
+H7 HA D9 H2 
+C4 CA C2 D2 
+C3 CK C6 D3 
+C5 CQ C8 D8 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "4"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ2.Q96542.832. Q97.K87.AJ.T7543 54.AJT3.654.AKQ9 T863..KQT97.J862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "86a7586a762506726067"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  7
+N  C  5
+S NT  8
+S  S  6
+S  H 10
+S  D  7
+S  C  6
+E NT  2
+E  S  5
+E  H  0
+E  D  6
+E  C  7
+W NT  2
+W  S  6
+W  H  0
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,134,60,101,282,92,328,55,135,33,347,55,79,159,95,28,320,87,20,28,20,25,13,9,17,24,14,10,31,30,9,27,15,12,9,11,15,12,46,16,19,33,7,56,51,22,76,16
+[Auction "W"]
+Pass 1H Pass 2NT =1= 
+Pass 3C =2= Pass 4H 
+Pass Pass Pass 
+[Note "1: jacoby gf"]
+[Note "2: min"]
+[Play "E"]
+C7 CA C2 D2 
+H7 HA D7 H4 
+C3 CK C6 D3 
+C4 CQ C8 D8 
+S9 S4 S3 SA 
+S7 S5 S6 SK 
+SQ H3 S8 S2 
+HK HJ D9 H2 
+H8 HT DT HQ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "5"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9742.T9753.94.KJ AT6.KJ6.KJ863.74 KQ5.AQ.QT5.AQ852 J83.842.A72.T963"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "89979899794436443364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  4
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,78,101,113,66,145,61,929,42,850,43,277,46,43,22,98,310,35,24,1024,33,11,21,57,26,20,24,17,40,10,28,80,16,15,48,18,60,18,14,17,85,24,13,344,39,268,23,38,30,21,17,34,12,7,35,14,12,8,60,17,15,9,17,9,17,12,7
+[Auction "N"]
+Pass 1NT =1= X Pass =2= 
+2H Pass 2NT Pass 
+3S Pass 4H Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2:  * halmic [0:08]"]
+[Play "E"]
+C4 C2 C9 CK 
+C7 C5 C3 CJ 
+H6 HQ H2 H3 
+HJ HA H4 H5 
+HK CA C6 D4 
+D6 D5 DA D9 
+D3 DT D7 H7 
+D8 DQ H8 HT 
+S6 SK S3 S2 
+DJ CQ CT S4 
+ST C8 D2 S7 
+SA S5 SJ S9 
+DK SQ S8 H9 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "5"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9742.T9753.94.KJ AT6.KJ6.KJ863.74 KQ5.AQ.QT5.AQ852 J83.842.A72.T963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "89979899794436443364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  4
+E  H  3
+E  D  6
+E  C  4
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,104,170,198,71,48,234,95,56,47,259,837,32,107,88,289,32,45,22,478,1345,23,37,272,32,22,42,334,29,17,15,346,26,15,21,119,31,62,91,46,27,38,46,65,38,316,326,675,26,14,12,105,34,30,19,17,72,983,40,20,23,24,13,20,17,33,13,15,14,9,9
+[Auction "N"]
+Pass 1NT =1= X =2= Pass 
+Pass XX =3= Pass 2C 
+Pass 2D Pass Pass 
+2H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 11-14 cd be unbal"]
+[Note "2: pen"]
+[Note "3: forced"]
+[Play "W"]
+C6 CK C4 C5 
+S8 S2 S6 SK 
+C3 CJ C7 C2 
+H4 H3 H6 HQ 
+C9 S4 D6 CA 
+CT H5 D3 CQ 
+H2 H7 D8 C8 
+H8 H9 HK HA 
+D7 D9 DJ D5 
+S3 HT HJ DT 
+SJ S7 SA S5 
+DA D4 DK DQ 
+D2 S9 ST SQ 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "6"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ6542.73.7.Q842 J873.T54.QJ6.J53 AT.AQ62.A984.A76 9.KJ98.KT532.KT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8b76a8b86a5257232572"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C 10
+S NT  8
+S  S 11
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  2
+E  H  5
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  5
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,98,101,196,161,51,156,49,125,38,59,25,73,177,33,75,147,23,8,30,15,16,76,22,30,25,44,24,183,31,23,19,92,29,43,11,28,30,23,17,103,25,1566,80,56,25,32,12,48,18,8,20,20,70,32,14,24,19,13,12,12,11,10,9
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2NT Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+DQ DA D5 D7 
+S3 SA S9 S2 
+S7 ST D2 SK 
+S8 H2 H8 SQ 
+H5 HQ HK H3 
+D6 D4 D3 S4 
+C5 CA C9 C2 
+C3 C6 CT C4 
+DJ D8 DK S5 
+CJ C7 CK CQ 
+H4 D9 DT S6 
+SJ H6 H9 C8 
+HT HA HJ H7 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "6"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ6542.73.7.Q842 J873.T54.QJ6.J53 AT.AQ62.A984.A76 9.KJ98.KT532.KT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8b76a8b86a5257232572"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C 10
+S NT  8
+S  S 11
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  2
+E  H  5
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  5
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,70,189,53,72,34,277,67,142,41,57,31,101,89,35,21,528,34,16,25,42,38,11,11,15,39,23,17,80,39,154,28,485,30,50,43,199,35,31,54,29,34,22,41,49,28,29,14,38
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 2NT Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+H5 HQ HK H7 
+H4 HA HJ H3 
+S3 SA S9 S2 
+S7 ST D3 SK 
+S8 D4 D2 SQ 
+SJ C6 CT S4 
+HT H2 H9 S6 
+C5 CA C9 C2 
+C3 C7 CK C4 
+-  -  H8 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "7"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:73.K853.AQJ.JT62 AK.QJT9.K853.K73 Q98642.6.T2.AQ98 JT5.A742.9764.54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "79659786595477454773"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  5
+N  C  9
+S NT  7
+S  S  8
+S  H  6
+S  D  5
+S  C  9
+E NT  5
+E  S  4
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  4
+W  H  7
+W  D  7
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,2,1,197,71,67,188,45,127,31,105,244,23,32,69,36,17,26,20,24,23,17,21,157,51,11,50,30,17,11,42,23,14,10,57,23,24,11,9
+[Auction "S"]
+2S =1= Pass Pass 2NT =2= 
+Pass Pass Pass 
+[Note "1: wk"]
+[Note "2: 16-19"]
+[Play "S"]
+S6 SJ S3 SA 
+H6 H2 HK HQ 
+S2 S5 S7 SK 
+C8 H4 H3 HJ 
+C9 H7 H5 HT 
+D2 HA H8 H9 
+DT D4 DA D3 
+-  -  C2 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "7"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:73.K853.AQJ.JT62 AK.QJT9.K853.K73 Q98642.6.T2.AQ98 JT5.A742.9764.54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "79659786595477454773"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  5
+N  C  9
+S NT  7
+S  S  8
+S  H  6
+S  D  5
+S  C  9
+E NT  5
+E  S  4
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  4
+W  H  7
+W  D  7
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,326,73,191,33,102,85,37,20,83,16,294,43,20,41,62,26,44,19,35,27,30,260,124,106,25,26,25,10,24,34,27,15,15,399,20,16,10,17,18,18,10
+[Auction "S"]
+2D =1= Pass 2H =2= 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: multi"]
+[Note "2: p/c"]
+[Play "S"]
+S6 S5 S3 SA 
+H6 H2 HK HQ 
+S4 ST S7 SK 
+C9 H4 H3 HJ 
+C8 H7 H5 HT 
+CQ HA H8 H9 
+D2 D4 DA D3 
+CA C4 C2 C3 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "8"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ5.AQ.AKT2.J753 K86.8754.Q98.AK2 T943.JT32.J43.64 J72.K96.765.QT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "78787687875554665546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  6
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,89,154,54,82,42,89,140,62,65,168,78,14,14,537,21,17,16,20,16,33,10,11,50,16,18,310,394,34,16,49
+[Auction "W"]
+Pass 2NT =1= Pass Pass 
+Pass 
+[Note "1: 20pts"]
+[Play "E"]
+H4 H2 H9 HQ 
+DQ D3 D7 D2 
+CK C4 C8 C3 
+CA C6 C9 C5 
+C2 S3 CQ C7 
+SK S4 S7 S5 
+H5 -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "8"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ5.AQ.AKT2.J753 K86.8754.Q98.AK2 T943.JT32.J43.64 J72.K96.765.QT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "78787687875554665546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  6
+S  S  8
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,2,1,124,284,81,172,78,103,40,123,64,94,737,62,24,25,35,32,31,489,34,46,30,310,38,20,26,227,44,12,39,36,36,24,27,647,31,27,16,86,43,23,24,44,59,29,19
+[Auction "W"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2NT =3= Pass Pass 
+Pass 
+[Note "1: big hand or 20/21 balanced"]
+[Note "2: relay"]
+[Note "3: 20/21"]
+[Play "E"]
+H7 H2 H9 HQ 
+C2 C6 C8 C3 
+DQ D3 D7 D2 
+H4 H3 H6 HA 
+CK C4 CT C5 
+H5 HT HK S5 
+SK S3 S7 SQ 
+CA S4 C9 C7 
+D8 DJ D6 DT 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "9"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q632.A.J32.KT843 7.KQJ7.Q876.AJ52 AT84.962.AT94.76 KJ95.T8543.K5.Q9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "573675736785a6586a66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  6
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  6
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  6
+E  C  5
+W NT  8
+W  S  6
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,2,1,68,238,640,75,246,100,313,141,62,34,462,59,43,116,29,28,323,22,97,23,32,108,77,28,38,52,52,59,27,218,29,23,14,120,26,23,39,25,21,22,21,23,34,52,17,23,15,15,19,25,11,26,15,27,20,14,12,21,15,14,15,25,63,20,50,21,20,10,8
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+X =2= Pass 2D =3= 2H 
+Pass Pass 2S Pass 
+Pass 3H Pass Pass 
+Pass 
+[Note "1: 11-14 cd be unbal"]
+[Note "2: 5m, 4M"]
+[Note "3: to play in D or higher suit"]
+[Play "N"]
+S2 S7 SA S5 
+HA H7 H2 H3 
+DJ D6 D4 DK 
+CK CA C6 CQ 
+C4 HJ H6 H4 
+D3 D7 D9 D5 
+S3 HQ H9 H5 
+C3 CJ C7 C9 
+D2 D8 DT H8 
+S6 C2 S4 SK 
+SQ HK S8 S9 
+C8 C5 DA HT 
+CT DQ ST SJ 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "9"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q632.A.J32.KT843 7.KQJ7.Q876.AJ52 AT84.962.AT94.76 KJ95.T8543.K5.Q9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "573675736785a6586a66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  6
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  6
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  6
+E  C  5
+W NT  8
+W  S  6
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 13,0,3,132,78,120,36,119,103,165,62,156,41,26,56,28,64,28,135,19,40,691,43,513,28,23,222,21,18,16,21,18,21,608,26,24,32,100,27,25,14,138,25,38,18,362,301,25,14,26,26,14,20,11,21,18,9,17
+[Auction "N"]
+Pass 1D Pass 1H 
+X 2H 2S 3H 
+Pass Pass 3S Pass 
+Pass Pass 
+[Play "W"]
+H8 HA H7 H2 
+SJ S2 S7 ST 
+DK D2 D6 DA 
+S5 S3 HJ SA 
+D5 DJ DQ D4 
+S9 D3 D7 DT 
+SK S6 D8 S4 
+H3 SQ HQ H6 
+C9 C3 CA C7 
+H4 C4 HK H9 
+-  -  C2 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "10"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT93.T7.532.AK94 8.AJ963.QT87.QT5 AKQ74.542.K4.762 652.KQ8.AJ96.J83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "483374833765aa565aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  3
+N  D  3
+N  C  7
+S NT  4
+S  S  8
+S  H  3
+S  D  3
+S  C  7
+E NT  6
+E  S  5
+E  H 10
+E  D 10
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 13,2,1,79,49,48,237,63,103,50,88,459,17,15,100,37,12,41,62,66,214,113,376,78,23,19,24,26,21,15,29,16,78,19,116,22,51,10,34,21,32,20,19,29
+[Auction "E"]
+Pass 1S Pass 3S =1= 
+Pass Pass Pass 
+[Note "1: 2 1/2 S"]
+[Play "W"]
+S2 SJ S8 S4 
+HQ HT H6 H2 
+S5 ST H3 S7 
+C8 C4 CQ C7 
+DA D2 D7 DK 
+D6 D3 DQ D4 
+H8 H7 HA H4 
+D9 D5 D8 SQ 
+S6 -  -  SA 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "10"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT93.T7.532.AK94 8.AJ963.QT87.QT5 AKQ74.542.K4.762 652.KQ8.AJ96.J83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "483374833765aa565aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  3
+N  D  3
+N  C  7
+S NT  4
+S  S  8
+S  H  3
+S  D  3
+S  C  7
+E NT  6
+E  S  5
+E  H 10
+E  D 10
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 8,0,3,219,66,52,105,261,247,25,65,46,70,109,35,33,28,102,68,18,86,23,33,14,333,24,27,24,34,20,36,13,42,31,14,16,21,22,25,25,13,46,17,7,57,19,46,29,13,26,24,9,14
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+2H =2= Pass Pass X 
+Pass 2S Pass Pass 
+Pass 
+[Note "1:  * 12-14 [0:14]"]
+[Note "2: Hearts and a minor"]
+[Play "W"]
+HK H7 H9 H2 
+HQ HT H3 H5 
+D6 D2 DQ DK 
+H8 S3 H6 H4 
+S2 SJ S8 S4 
+S5 ST HJ S7 
+S6 S9 HA SQ 
+C3 C9 CT C7 
+D9 D3 D7 D4 
+DA -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "11"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT75.J64.86.AJT8 K982.T85.KQT975. A64.A32.AJ43.962 J3.KQ97.2.KQ7543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "86657866575678656786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  6
+N  D  5
+N  C  7
+S NT  8
+S  S  6
+S  H  6
+S  D  5
+S  C  7
+E NT  5
+E  S  6
+E  H  7
+E  D  8
+E  C  6
+W NT  5
+W  S  6
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,157,131,132,274,53,78,201,539,20,36,15,23,15,19,21,72,115,28,17,57,122,75,13,328,108,39,55,15,323,43,88,92,16,58,18,32,106,20,37,13,9,18,24,13,23,82,88,15,29,12,12,8,14,7,11,8
+[Auction "S"]
+1NT =1= Pass Pass Pass 
+[Note "1: 11-14"]
+[Play "W"]
+C3 C8 D5 C2 
+S3 S5 S2 SA 
+SJ SQ SK S6 
+C4 ST S9 S4 
+C5 CT H8 C6 
+D2 D8 DQ DA 
+H7 H4 HT H2 
+C7 S7 S8 H3 
+H9 D6 DK D3 
+HQ H6 H5 HA 
+HK CJ D7 DJ 
+CQ CA D9 C9 
+CK HJ DT D4 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "11"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QT75.J64.86.AJT8 K982.T85.KQT975. A64.A32.AJ43.962 J3.KQ97.2.KQ7543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "86657866575678656786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  6
+N  D  5
+N  C  7
+S NT  8
+S  S  6
+S  H  6
+S  D  5
+S  C  7
+E NT  5
+E  S  6
+E  H  7
+E  D  8
+E  C  6
+W NT  5
+W  S  6
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,2,1,164,347,235,137,557,62,103,46,193,431,16,28,274,65,39,14,863,45,15,29,53,24,41,42,204,358,44,15,195,76,88,54,642,29,13,36,33,99,107,157,522,51,17,263,25,32,72,23,10,23,9,19,21
+[Auction "S"]
+1D 2H =1= X Pass 
+2NT Pass Pass Pass 
+[Note "1: 4h Longer min"]
+[Play "W"]
+HK H4 H8 HA 
+CK CA H5 C2 
+S3 S5 S8 SA 
+SJ SQ SK S4 
+D2 D6 DQ DA 
+C3 CJ D5 C6 
+C4 D8 DK D3 
+H7 S7 DT DJ 
+CQ C8 HT C9 
+C5 CT D7 D4 
+H9 ST S2 S6 
+-  H6 -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "12"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:53.Q95.A976.QJ95 AQJT742.K7.QJ.K8 98.J632.KT3.A742 K6.AT84.8542.T63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44877448775955359553"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  4
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  5
+E  C  3
+W NT  5
+W  S  9
+W  H  5
+W  D  5
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,140,51,102,42,102,61,30,38,28,29,164,566,54,53,473,30,17,23,21,18,13,22,259,36,79,461,334,74,78,200,36,26,23,30,24,19,21,27,44,22,20,52,18,38,11,82,21,24,19,26,19,23,25,26,15,15,10,25,8,13,7,10
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+H2 H4 H9 HK 
+S8 SK S3 S2 
+S9 S6 S5 SA 
+C4 C3 D6 SQ 
+C2 C6 D7 SJ 
+H3 HA H5 H7 
+CA CT CJ CK 
+H6 H8 HQ S4 
+D3 D2 DA DJ 
+C7 D4 CQ C8 
+HJ D5 C9 S7 
+DT D8 C5 ST 
+DK HT D9 DQ 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "12"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:53.Q95.A976.QJ95 AQJT742.K7.QJ.K8 98.J632.KT3.A742 K6.AT84.8542.T63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44877448775955359553"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  4
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  5
+E  C  3
+W NT  5
+W  S  9
+W  H  5
+W  D  5
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,80,40,105,32,62,43,30,41,419,35,274,461,45,19,44,33,22,36,210,31,23,17,385,33,14,12,117,26,11,17
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT Pass 3S Pass 
+Pass Pass 
+[Play "S"]
+H2 HA H9 H7 
+CA C3 C9 CK 
+C2 C6 CJ C8 
+H3 H4 HQ HK 
+S8 SK S3 S2 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "13"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T853.Q75.Q.KQJ54 7.K632.AJT873.T9 Q642.J98.K64.A63 AKJ9.AT4.952.872"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6642566425768a6778a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  2
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  2
+S  C  5
+E NT  7
+E  S  6
+E  H  8
+E  D 10
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,0,3,120,32,40,92,324,293,107,206,83,40,66,25,44,544,166,128,19,21,40,9,44,34,103,22,21,441,33,11,27,205,24,13,43,21,84,73,19,24,24,54,46,11,25,34,11,35,15,12,16,8,15,8,15,7,17,7,14
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+Pass 2NT =2= Pass 3C =3= 
+X 3D Pass Pass 
+Pass 
+[Note "1:  * 12-14 [0:06]"]
+[Note "2: t/fer * diamonds [0:12]"]
+[Note "3:  * pass or correct [0:14]"]
+[Play "S"]
+CA C2 CJ CT 
+C6 C7 CQ C9 
+C3 C8 CK D7 
+D4 D2 DQ DA 
+DK D5 C4 DJ 
+H9 H4 H5 HK 
+D6 D9 C5 DT 
+S2 SJ S5 S7 
+S4 SA S3 H2 
+S6 SK S8 H3 
+H8 HA H7 H6 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "13"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T853.Q75.Q.KQJ54 7.K632.AJT873.T9 Q642.J98.K64.A63 AKJ9.AT4.952.872"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6642566425768a6778a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  2
+N  C  5
+S NT  6
+S  S  6
+S  H  4
+S  D  2
+S  C  5
+E NT  7
+E  S  6
+E  H  8
+E  D 10
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,2,1,113,197,96,257,73,33,44,29,27,238,148,14,28,164,58,23,16,283,19,15,20,52,27,24,16,23,22,14,21,17,23,11,18,43,19,13,15,61,27,33,10,26,19,15,13,52,39,51,22,23,21,15,15,14,15,12,14,11,11,10,14
+[Auction "N"]
+Pass 2H =1= Pass 3C =2= 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: 4H and a 5+ minor weak"]
+[Note "2: p or corr"]
+[Play "S"]
+D4 D2 DQ DA 
+D6 D5 CK D7 
+S2 SA S3 S7 
+S4 S9 S5 DT 
+H9 HA H7 H2 
+S6 SK S8 C9 
+SQ SJ ST CT 
+DK D9 C5 D3 
+CA C2 C4 D8 
+H8 HT HQ H3 
+C3 C7 CQ DJ 
+HJ H4 H5 HK 
+C6 C8 CJ H6 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "14"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J753.J643.T54.85 KQ62.K7.K9.QJ764 A8.Q5.J762.AKT93 T94.AT982.AQ83.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "43345433459a9888a988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S 10
+E  H  9
+E  D  8
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,2,1,102,81,104,74,31,49,32,37,82,36,22,8,463,53,11,9,29,22,22,48,100,24,14,19,24,14,14,22,42,30,12,12,41,28,20,13,29,17,10,109
+[Auction "E"]
+1NT Pass 2D =1= Pass 
+2H Pass Pass Pass 
+[Note "1: h"]
+[Play "S"]
+CK C2 C5 C7 
+SA S4 S7 S6 
+S8 S9 S3 S2 
+H5 H2 H3 HK 
+HQ HA H4 H7 
+C3 H8 HJ C4 
+C9 H9 C8 C6 
+CT HT H6 CJ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "14"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J753.J643.T54.85 KQ62.K7.K9.QJ764 A8.Q5.J762.AKT93 T94.AT982.AQ83.2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "43345433459a9888a988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S 10
+E  H  9
+E  D  8
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 4,0,3,170,67,32,60,67,50,44,53,20,42,409,478,27,23,83,45,23,61,100,30,99,20,260,46,18,66,336,45,24,58,54,122,19,9,19,29,20,23,20,25,23,22,19,12,16,10,22,16,17,11,12,47
+[Auction "E"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+D4 D9 DJ DQ 
+S3 SQ SA S4 
+D5 DK D2 D3 
+SJ S2 S8 S9 
+DT C4 D6 DA 
+C8 C6 D7 D8 
+S5 S6 C3 ST 
+H4 HK H5 H2 
+S7 SK C9 C2 
+H3 H7 HQ HA 
+HJ -  -  HT 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "15"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT7.K9543.AT54.9 QJ982.JT2.Q7.QJ4 K64.A876.KJ9.AKT 53.Q.8632.876532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "c9cc9c9cc91411414114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H 12
+S  D 12
+S  C  9
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 27,2,1,190,57,56,63,128,58,318,58,243,91,153,46,66,30,471,300,67,33,341,27,13,11,21,24,19,20
+[Auction "S"]
+1C =1= Pass 1H Pass 
+3H Pass 4NT =2= Pass 
+5H =3= Pass 6H Pass 
+Pass Pass 
+[Note "1: can be 2"]
+[Note "2: rkcH"]
+[Note "3: 2-Q"]
+[Play "E"]
+D7 DJ D3 D4 
+H2 HA HQ H3 
+HJ H6 C3 HK 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "15"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT7.K9543.AT54.9 QJ982.JT2.Q7.QJ4 K64.A876.KJ9.AKT 53.Q.8632.876532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "c9cc9c9cc91411414114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H 12
+S  D 12
+S  C  9
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 27,0,3,134,32,221,78,168,48,262,38,237,35,47,38,406,150,53,25,425,45,23,26,373,32,19,38,66,20,15,55,26,18,18,15,260,21,29,22,40,30,16,15,74,27,15,27,14,19,20,36,124,31,14,36,16,24,19,14,15,18,13,14,11,15,19,9
+[Auction "S"]
+1H Pass 4C =1= Pass 
+4NT =2= Pass 5D Pass 
+6H Pass Pass Pass 
+[Note "1: splinter"]
+[Note "2:  * rkcb [0:15]"]
+[Play "W"]
+S3 S7 S8 SK 
+HQ H3 H2 HA 
+S5 SA S2 S4 
+C2 C9 C4 CA 
+C3 ST CJ CK 
+C5 H4 CQ CT 
+C6 HK HT H6 
+D2 D4 D7 DK 
+C7 H5 S9 S6 
+C8 H9 HJ H7 
+D3 D5 SQ H8 
+D6 DT DQ DJ 
+D8 DA SJ D9 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "16"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AJ762.987.KQ4.J8 T9.AKJ.J9732.K74 K854.Q632.AT.T95 Q3.T54.865.AQ632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "69866698665457754577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H  8
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  7
+W NT  5
+W  S  4
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,113,78,72,521,74,44,51,94,158,24,12,103,36,32,19,36,21,16,14,19,23,19,41,58,24,34,31,17,19,19,11,44,19,20,17,16
+[Auction "W"]
+Pass 1S Pass 3S =1= 
+Pass Pass Pass 
+[Note "1: Mixed raise"]
+[Play "E"]
+HK H2 H5 H8 
+C7 CT CA C8 
+CK C5 C3 CJ 
+C4 C9 CQ S2 
+S9 SK S3 S6 
+ST S4 SQ SA 
+HA H3 H4 H7 
+D3 -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "16"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AJ762.987.KQ4.J8 T9.AKJ.J9732.K74 K854.Q632.AT.T95 Q3.T54.865.AQ632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "69866698665457754577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H  8
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  7
+W NT  5
+W  S  4
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,220,135,48,283,58,51,216,37,11,29,32,12,38,20,18,27,11,133,57,13,11,15,95,11,40,24,16,10,38,13,33,37,14,8,15,13,22,22,30,14,13,15,15,14,9,12,15,16,6
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+D7 DA D6 D4 
+S9 SK S3 S2 
+ST S4 SQ SA 
+C4 S8 D5 SJ 
+HJ S5 C3 S7 
+D2 DT H5 S6 
+D3 H2 D8 DK 
+D9 H3 H4 DQ 
+HK H6 HT H7 
+C7 C5 CA C8 
+CK C9 C2 CJ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "17"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A86.43.K87.AK643 KQJT9743.7.A.Q52 5.AJ52.J9432.JT7 2.KQT986.QT65.98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "55689556896865368653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  6
+S  D  8
+S  C  9
+E NT  6
+E  S  8
+E  H  6
+E  D  5
+E  C  3
+W NT  6
+W  S  8
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,147,114,76,65,37,66,86,48,25,60,22,23,12,66,23,14,67,106,30,16,51,131,75,60,20,56,93,14,13,23,25,18,12
+[Auction "N"]
+1C =1= 4S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "S"]
+CJ C8 CK C5 
+C7 C9 CA C2 
+CT D5 C4 CQ 
+S5 S2 SA SK 
+H2 D6 C3 SQ 
+H5 H6 S6 SJ 
+HA H8 H3 H7 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "17"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A86.43.K87.AK643 KQJT9743.7.A.Q52 5.AJ52.J9432.JT7 2.KQT986.QT65.98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "55689556896865368653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  6
+S  D  8
+S  C  9
+E NT  6
+E  S  8
+E  H  6
+E  D  5
+E  C  3
+W NT  6
+W  S  8
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,177,68,79,51,65,28,284,310,39,109,33,18,29,713,46,59,55,63,60,12,183,55,40,23,34,71,26,8,45,494,52,20,14,83,33,11,24,23,17,14,7,25
+[Auction "N"]
+1NT 4S Pass Pass 
+Pass 
+[Play "S"]
+D3 DT D8 DA 
+HA H6 H4 H7 
+D2 D5 D7 S3 
+CT C8 C3 C2 
+D4 D6 DK S4 
+C7 C9 CK CQ 
+S5 S2 S6 S9 
+H2 H8 SA ST 
+CJ H9 CA C5 
+-  -  C6 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "18"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ74.JT53.J3.Q97 T52.72.A7.KJT854 963.K84.KQT2.A62 AQ8.AQ96.98654.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "85755756655666858668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  7
+N  D  5
+N  C  5
+S NT  7
+S  S  5
+S  H  6
+S  D  6
+S  C  5
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  8
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,69,54,71,69,39,39,51,41,118,493,227,14,88,341,24,11,48,53,12,30,30,21,28,84,18,117,42,11,83,808,73,18,12,534,40,52,26,90,127,38,34,36,18,59,34,15,17,10,11,29
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+SQ SK S5 S3 
+D4 DJ D7 D2 
+D5 D3 DA DQ 
+HQ H3 H2 H4 
+H6 H5 H7 H8 
+H9 HT S2 HK 
+S8 S4 ST S9 
+C3 C9 C8 C2 
+HA HJ C4 C6 
+SA S7 C5 S6 
+D9 -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "18"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ74.JT53.J3.Q97 T52.72.A7.KJT854 963.K84.KQT2.A62 AQ8.AQ96.98654.3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "85755756655666858668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  7
+N  D  5
+N  C  5
+S NT  7
+S  S  5
+S  H  6
+S  D  6
+S  C  5
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  8
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,0,3,198,69,44,96,54,276,50,91,123,41,20,22,739,33,57,24,19,49,86,26,213,43,38,24,238,64,23,16,19,23,8,20,25,15,10,27,27,36,27,29,43,22,16,35,15,16,25,7,22
+[Auction "E"]
+3C Pass Pass Pass 
+[Play "S"]
+DK D4 DJ DA 
+H4 HQ H5 H2 
+CA C3 C7 C8 
+S6 S8 SJ S2 
+HK HA H3 H7 
+H8 H6 HJ CT 
+C2 D5 C9 CK 
+C6 D6 CQ CJ 
+D2 H9 HT C4 
+S9 SQ SK S5 
+DT D8 D3 D7 
+DQ -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "19"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQJ652..974.AQ64 .KJ653.A532.KJT3 T9873.T982.JT8.7 K4.AQ74.KQ6.9852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "11"]
+[Score "NS 690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "2a1122a11263b6aa3b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S 10
+N  H  1
+N  D  1
+N  C  2
+S NT  2
+S  S 10
+S  H  1
+S  D  1
+S  C  2
+E NT  6
+E  S  3
+E  H 11
+E  D  6
+E  C 10
+W NT 10
+W  S  3
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,325,108,270,301,176,37,130,257,107,146,42,44,34,32,30,84,109,22,44,25,46,21,21,263,29,20,16,35,18,57,14,30,70,7,16,52,32,17,20
+[Auction "S"]
+Pass 1NT =1= 2D =2= 3D =3= 
+Pass 3H 3S Pass 
+4S Pass Pass X 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: long M"]
+[Note "3: hearts"]
+[Play "E"]
+CJ C7 C2 CQ 
+C3 D8 C5 CA 
+CT ST C8 C4 
+H6 S3 S4 SQ 
+D2 S7 SK SA 
+CK S8 C9 C6 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "19"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQJ652..974.AQ64 .KJ653.A532.KJT3 T9873.T982.JT8.7 K4.AQ74.KQ6.9852"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5SX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "2a1122a11263b6aa3b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S 10
+N  H  1
+N  D  1
+N  C  2
+S NT  2
+S  S 10
+S  H  1
+S  D  1
+S  C  2
+E NT  6
+E  S  3
+E  H 11
+E  D  6
+E  C 10
+W NT 10
+W  S  3
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 23,2,1,99,330,271,556,477,150,117,101,49,29,35,140,618,25,13,1167,37,11,20,38,21,15,44,52,18,16,29,48,23,21,22,446,30,18,21,17,24,16,31,58,30,18,30,215,14,23,39,98,22,15,19,21,13,13,13
+[Auction "S"]
+Pass 1NT =1= 2D =2= 3H 
+4S 5H 5S X 
+Pass Pass Pass 
+[Note "1: 11-14 poss single"]
+[Note "2: single suited major"]
+[Play "W"]
+HA S2 H5 H8 
+C2 CA C3 C7 
+C5 C4 CT S3 
+S4 SQ H3 S7 
+C8 C6 CJ S8 
+H4 S5 H6 H2 
+C9 CQ CK S9 
+H7 S6 HJ H9 
+DQ D4 D2 DJ 
+D6 D7 DA D8 
+DK D9 D3 DT 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "20"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J.AJT9.AJT4.T942 AT9854.2.K.AKQJ7 732.7643.Q9532.5 KQ6.KQ85.876.863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "228a2228a27b53b7b53b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  8
+N  D 10
+N  C  2
+S NT  2
+S  S  2
+S  H  8
+S  D 10
+S  C  2
+E NT  7
+E  S 11
+E  H  5
+E  D  3
+E  C 11
+W NT  7
+W  S 11
+W  H  5
+W  D  3
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,190,57,82,59,343,67,52,65,22,28,9,139,53,63,41,22,24,34,195,320,64,18,8,36,8,14,19,36,22,40,84,33,23,11,52,31,10,100,22,24,18,80,10,20,8,23,7,22,8,66,10,15,10,37,7,18,9,8,9,16,7,9
+[Auction "W"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+C5 C3 C9 CA 
+S7 SK SJ S4 
+S3 SQ C2 S5 
+S2 S6 C4 SA 
+H6 HK HA H2 
+D3 C6 CT CK 
+H3 C8 D4 CQ 
+D2 D6 H9 ST 
+H4 D7 DT S9 
+H7 D8 DJ S8 
+D5 H5 DA CJ 
+D9 H8 HT C7 
+DQ HQ HJ DK 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "20"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J.AJT9.AJT4.T942 AT9854.2.K.AKQJ7 732.7643.Q9532.5 KQ6.KQ85.876.863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "228a2228a27b53b7b53b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  8
+N  D 10
+N  C  2
+S NT  2
+S  S  2
+S  H  8
+S  D 10
+S  C  2
+E NT  7
+E  S 11
+E  H  5
+E  D  3
+E  C 11
+W NT  7
+W  S 11
+W  H  5
+W  D  3
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,141,67,956,63,69,92,45,72,91,37,147,25,231,60,35,14,102,43,15,13,101,25,14,23,167,31,29,12,26,23,25,70,202,59,21,17,13
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT X =1= 3C Pass 
+4S Pass Pass Pass 
+[Note "1:  * take out [0:11]"]
+[Play "S"]
+D3 D6 DA DK 
+D2 D7 DJ S4 
+S3 SK SJ S5 
+S2 S6 D4 ST 
+H3 HK HA H2 
+H4 HQ HJ C7 
+-  SQ -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "21"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT7.Q52.A9852.A3 J93.J4.Q74.KJ642 K84.AT73.T6.QT75 A652.K986.KJ3.98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "87887878875655656556"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,203,63,77,215,69,337,23,39,126,58,44,24,86,25,13,19,246,125,35,212,511,25,31,31,155,29,205,14,307,92,26,41,16,65,31,17,19,16,14,14
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+C6 CT C8 C3 
+D7 DT DK DA 
+D4 D6 DJ D2 
+HJ HA H6 H2 
+H4 H3 H8 HQ 
+DQ S4 D3 D9 
+S3 S8 SA S7 
+S9 SK S2 ST 
+C2 C5 C9 CA 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "21"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT7.Q52.A9852.A3 J93.J4.Q74.KJ642 K84.AT73.T6.QT75 A652.K986.KJ3.98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "87887878875655656556"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  5
+W  S  6
+W  H  5
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,79,48,78,55,55,28,82,54,63,215,40,38,107,25,23,42,149,42,26,39,344,28,25,16,136,23,45,25,257,29,11,20,87,146,25,19,25,22,13,21,182,18,12,401,83,18,16,13,134,22,18,24,12,17,16,10,9,13,9,105
+[Auction "N"]
+1D Pass 1H Pass 
+1NT =1= Pass Pass Pass 
+[Note "1:  * 12-14 [0:16]"]
+[Play "E"]
+C4 C5 C8 CA 
+D7 DT DJ D2 
+HJ HA H6 H5 
+H4 H3 H8 HQ 
+C2 CT C9 C3 
+SJ S4 S2 ST 
+S9 SK SA S7 
+S3 S8 S5 SQ 
+D4 D6 DK DA 
+DQ H7 D3 D9 
+CK C7 H9 H2 
+C6 CQ S6 D5 
+CJ HT HK D8 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "22"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ.KJ2.JT85.A532 AT7543.Q.K743.QT K62.A83.Q962.876 98.T97654.A.KJ94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "74466744665985659856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  7
+S  S  4
+S  H  4
+S  D  6
+S  C  6
+E NT  5
+E  S  9
+E  H  8
+E  D  5
+E  C  6
+W NT  5
+W  S  9
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,149,26,62,93,27,28,24,121,21,238,114,52,610,34,36,55,195,47,16,27,50,164,10,29,34,45,16,11,13,17,16,15,10,17,7,53
+[Auction "E"]
+1S Pass 1NT Pass 
+2S Pass Pass Pass 
+[Play "S"]
+C7 C4 CA CQ 
+HA H4 H2 HQ 
+S2 S8 SJ SA 
+SK S9 SQ S3 
+D2 DA D8 D3 
+H3 H5 HJ S7 
+S6 H6 C5 ST 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "22"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ.KJ2.JT85.A532 AT7543.Q.K743.QT K62.A83.Q962.876 98.T97654.A.KJ94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "74466744665985659856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  7
+S  S  4
+S  H  4
+S  D  6
+S  C  6
+E NT  5
+E  S  9
+E  H  8
+E  D  5
+E  C  6
+W NT  5
+W  S  9
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,2,1,97,42,48,55,176,41,245,41,244,39,126,189,25,22,24,67,25,44,187,30,14,28,101,27,12,31,29,40,28,41,1109,32,65,20,163,22,14,22,17,24,16,11
+[Auction "E"]
+1S Pass 1NT Pass 
+2D Pass 2H Pass 
+Pass Pass 
+[Play "N"]
+SQ SA S6 S9 
+HK HQ H3 H4 
+SJ S3 S2 S8 
+DJ D3 D2 DA 
+H2 S4 H8 H5 
+CA CT C7 C4 
+C2 CQ C8 CK 
+HJ S5 HA H6 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "23"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:87.J87.Q974.A643 J.AKQT962.A5.KJ9 KT643.53.T63.Q72 AQ952.4.KJ82.T85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1314313143cac9acac9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  4
+N  C  3
+S NT  1
+S  S  3
+S  H  1
+S  D  4
+S  C  3
+E NT 12
+E  S 10
+E  H 12
+E  D  9
+E  C 10
+W NT 12
+W  S 10
+W  H 12
+W  D  9
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 17,0,3,70,303,121,44,43,26,24,61,274,56,64,60,25,9,23,18,15,66,20,23,28,263,23,492,45,22,48,22,23,17,25,18
+[Auction "S"]
+Pass 2S =1= Pass 4H 
+Pass Pass Pass 
+[Note "1: s+m 5/4 or better, 6-11"]
+[Play "S"]
+D3 D8 D9 DA 
+H3 H4 H7 HA 
+H5 C5 H8 HK 
+S6 S2 HJ HQ 
+S3 SA S8 SJ 
+CQ CT C4 C9 
+DT -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "23"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:87.J87.Q974.A643 J.AKQT962.A5.KJ9 KT643.53.T63.Q72 AQ952.4.KJ82.T85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1314313143cac9acac9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  4
+N  C  3
+S NT  1
+S  S  3
+S  H  1
+S  D  4
+S  C  3
+E NT 12
+E  S 10
+E  H 12
+E  D  9
+E  C 10
+W NT 12
+W  S 10
+W  H 12
+W  D  9
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 17,2,1,248,60,60,206,72,299,41,109,50,238,40,39,45,195,37,47,22,97,238,13,25,54,22,36,12,134,102,72,12,47,68,41,22,262,16,12,22,65,14,22,23,419,25,15,40,13,30,19,20,21
+[Auction "S"]
+Pass Pass Pass 2D =1= 
+Pass 2S Pass 2NT =2= 
+Pass 3C =3= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: wk M or str 1 or 2 suited"]
+[Note "2: str single suited"]
+[Note "3: ?"]
+[Play "S"]
+H3 H4 HJ HA 
+H5 D2 H8 HK 
+S4 C5 H7 HQ 
+SK SA S7 SJ 
+S3 SQ S8 C9 
+S6 S2 C3 H2 
+D3 DK D4 D5 
+C2 C8 CA CJ 
+-  -  C4 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "24"]
+[West "Barney Nisbet#"]
+[North "Ian Walsh#112937"]
+[East "Keith Joules#504710"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ6.AJ.JT842.AJ7 853.KT9.AKQ.8643 KQ.87532.9763.T2 T9742.Q64.5.KQ95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "65786657866764767647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  8
+N  C  6
+S NT  6
+S  S  5
+S  H  7
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 6,0,3,109,69,56,65,65,135,169,260,65,226,38,36,68,199,117,16,58,36,16,47,16,47,16,17,30,232,35,14,41,618,22,117,17,136,47,8,16,17,16,14,28,15,32,35,7
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1NT =1= Pass 2C =2= 
+Pass 2D =3= Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Note "2: demands 2D"]
+[Note "3: forced"]
+[Play "E"]
+DA D3 D5 D2 
+DK D6 C5 D4 
+DQ D7 S7 DT 
+S8 SQ S2 S6 
+C3 CT CQ CA 
+S5 SK S4 SJ 
+C4 C2 CK C7 
+HK H2 H6 HJ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "24"]
+[West "Irving Blakey#26484"]
+[North "Frank Dixon#34239"]
+[East "joy blakey#39337"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ6.AJ.JT842.AJ7 853.KT9.AKQ.8643 KQ.87532.9763.T2 T9742.Q64.5.KQ95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "65786657866764767647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  8
+N  C  6
+S NT  6
+S  S  5
+S  H  7
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 7,2,1,161,88,45,188,104,56,49,36,53,156,101,49,18,121,41,57,24,109,30,490,27,120,29,23,19,89,25,16,22,15,26,13,15,42,33,16,21,13,26,23,29,30,81,18,21,127,285,23,12,110,28,19,18,38
+[Auction "W"]
+Pass 1NT =1= Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "E"]
+DK D3 D5 D4 
+DA D6 S4 D8 
+DQ D7 S2 DJ 
+C6 C2 CQ CA 
+S5 SQ S7 S6 
+S3 SK ST SA 
+H9 H2 H4 HA 
+S8 CT S9 SJ 
+HK H3 H6 HJ 
+C3 H5 C5 C7 
+HT H7 HQ D2 
+-  -  CK -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "25"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ.T53.A75.Q7643 K8543.AKJ64.8.J5 62.987.QT6.AKT98 QT97.Q2.KJ9432.2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "72338723386aa956aa95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  2
+N  H  3
+N  D  3
+N  C  8
+S NT  7
+S  S  2
+S  H  3
+S  D  3
+S  C  8
+E NT  6
+E  S 10
+E  H 10
+E  D  9
+E  C  5
+W NT  6
+W  S 10
+W  H 10
+W  D  9
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,2,401,211,389,115,125,28,66,20,98,79,187,22,31,22,99,74,23,331,24,17,12,28,21,31,27,49,24,21,19,83,16,25,14
+[Auction "N"]
+1NT 2C =1= 2NT =2= 3S 
+Pass =3= 4S Pass Pass 
+Pass 
+[Note "1: both majors"]
+[Note "2:  * lebensohl [0:12]"]
+[Note "3: Alerted"]
+[Play "N"]
+C4 CJ CK C2 
+C3 C5 CA S7 
+SA S3 S2 SQ 
+DA D8 D6 D2 
+H3 H4 H7 HQ 
+SJ SK S6 S9 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "25"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ.T53.A75.Q7643 K8543.AKJ64.8.J5 62.987.QT6.AKT98 QT97.Q2.KJ9432.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "72338723386aa956aa95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  2
+N  H  3
+N  D  3
+N  C  8
+S NT  7
+S  S  2
+S  H  3
+S  D  3
+S  C  8
+E NT  6
+E  S 10
+E  H 10
+E  D  9
+E  C  5
+W NT  6
+W  S 10
+W  H 10
+W  D  9
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,3,1,610,94,514,286,88,216,42,24,37,24,62,85,15,110,310,13,18,39,26,26,19,83,18,23,9,36,22,18,29,109,25,13,16,20,21,20,42,23
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: good raise to 3 +"]
+[Play "S"]
+CK C2 C4 C5 
+H9 HQ H5 H6 
+S2 S7 SJ SK 
+S6 S9 SA S3 
+CA ST C3 CJ 
+H7 H2 H3 HA 
+D6 DK DA D8 
+-  -  D5 -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "26"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T94.Q.Q864.JT982 KQ.A52.AK952.764 87652.K84.J7.Q53 AJ3.JT9763.T3.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1312513125c9cb8c9cb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  2
+N  C  5
+S NT  1
+S  S  3
+S  H  1
+S  D  2
+S  C  5
+E NT 12
+E  S  9
+E  H 12
+E  D 11
+E  C  8
+W NT 12
+W  S  9
+W  H 12
+W  D 11
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 17,0,2,172,36,281,61,25,159,113,40,20,28,352,214,49,20,26,24,20,32,18,43,18
+[Auction "E"]
+1NT =1= Pass 2D Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+S7 SA S4 SQ 
+H4 HJ HQ HA 
+HK H3 -  H2 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "26"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T94.Q.Q864.JT982 KQ.A52.AK952.764 87652.K84.J7.Q53 AJ3.JT9763.T3.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1312513125c9cb8c9cb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  2
+N  C  5
+S NT  1
+S  S  3
+S  H  1
+S  D  2
+S  C  5
+E NT 12
+E  S  9
+E  H 12
+E  D 11
+E  C  8
+W NT 12
+W  S  9
+W  H 12
+W  D 11
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 17,3,1,97,37,54,64,89,35,182,76,129,48,77,39,22,24,35,249,18,25,32,37,25,19,59,15,23,17
+[Auction "E"]
+1D Pass 1H Pass 
+1NT =1= Pass 2C =2= Pass 
+2H =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-18"]
+[Note "2: ?"]
+[Note "3: 15-16 3H"]
+[Play "N"]
+CJ C4 C5 CA 
+HQ HA H4 HJ 
+C2 H2 H8 HT 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "27"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ42.QJT92.32.T3 AT.743.J5.KQ9742 Q75.A65.A9876.A8 9863.K8.KQT4.J65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67974679747546975469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  9
+S  D  7
+S  C  4
+E NT  7
+E  S  5
+E  H  4
+E  D  6
+E  C  9
+W NT  7
+W  S  5
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,3,1,108,214,223,53,49,76,32,223,153,48,40,30,122,489,81,59,33,48,22,99,25,20,17,16,38,98,26,23,29,27,21,15,27,25,63,36,83,26,11,11,28,18,40,17,73,46,22,18
+[Auction "S"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass 3C 
+3H Pass Pass Pass 
+[Note "1:  * 12-14 [0:06]"]
+[Note "2: t/fer"]
+[Play "W"]
+C6 C3 CQ CA 
+S3 SJ SA S5 
+C5 CT CK C8 
+D4 D2 DJ DA 
+S8 SK ST S7 
+HK HQ H3 H5 
+DK D3 D5 D6 
+S6 S2 H4 SQ 
+CJ S4 C2 HA 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "27"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ42.QJT92.32.T3 AT.743.J5.KQ9742 Q75.A65.A9876.A8 9863.K8.KQT4.J65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67974679747546975469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  9
+S  D  7
+S  C  4
+E NT  7
+E  S  5
+E  H  4
+E  D  6
+E  C  9
+W NT  7
+W  S  5
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,0,2,167,58,156,119,190,103,384,65,335,204,81,69,72,118,156,83,17,19,19,69,19,123,35,25,47,185,26,31,24,694,24,11,21,86,85,102,25,65,26,17,37,44,26,43,28
+[Auction "S"]
+1NT =1= Pass 2C =2= X =3= 
+2D X =4= 2H =5= Pass 
+2S =6= 3C Pass Pass 
+Pass 
+[Note "1: 11-4"]
+[Note "2: stay"]
+[Note "3: clubs"]
+[Note "4: pen"]
+[Note "5: to play longer S poss"]
+[Note "6: spade preference"]
+[Play "N"]
+HQ H3 HA H8 
+HJ H4 H6 HK 
+D3 DJ DA D4 
+SJ SA S5 S3 
+D2 D5 D7 DK 
+CT CK D6 DT 
+H2 H7 H5 C5 
+C3 C4 D8 DQ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "28"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J3.K73.5.AK97652 T97.J5.AQ42.T843 Q4.QT64.JT9873.J AK8652.A982.K6.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3246732467aa876aa876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  4
+N  D  6
+N  C  7
+S NT  3
+S  S  2
+S  H  4
+S  D  6
+S  C  7
+E NT 10
+E  S 10
+E  H  8
+E  D  7
+E  C  6
+W NT 10
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,3,1,138,189,106,54,102,104,17,27,155,72,19,37,90,84,18,42,85,29,28,16,90,19,20,8
+[Auction "W"]
+1S 2C 2S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CK C3 CJ CQ 
+D5 D2 D7 DK 
+S3 S9 S4 SA 
+SJ ST SQ SK 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "28"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J3.K73.5.AK97652 T97.J5.AQ42.T843 Q4.QT64.JT9873.J AK8652.A982.K6.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3246732467aa876aa876"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  4
+N  D  6
+N  C  7
+S NT  3
+S  S  2
+S  H  4
+S  D  6
+S  C  7
+E NT 10
+E  S 10
+E  H  8
+E  D  7
+E  C  6
+W NT 10
+W  S 10
+W  H  8
+W  D  7
+W  C  6
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 18,0,2,157,89,46,137,26,41,15,86,40,357,35,16,264,185,61,27,360,36,13,16,243,44,9,23,13,140,13,20,62,31,19,48,60,21,56,35,47,35,10,13
+[Auction "W"]
+1S 2C 2S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CK C3 CJ CQ 
+D5 D2 D7 DK 
+S3 S7 S4 SA 
+H3 H5 H6 HA 
+H7 HJ HQ H2 
+SJ D4 D3 D6 
+CA C4 H4 S2 
+C2 S9 SQ SK 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "29"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT.T973.5.AQJT76 KQ32.A85.Q9874.8 A9854.4.AK2.K943 76.KQJ62.JT63.52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a64c8a64c4378142781"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  4
+N  C 12
+S NT  8
+S  S 10
+S  H  6
+S  D  4
+S  C 12
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  1
+W NT  4
+W  S  2
+W  H  7
+W  D  8
+W  C  1
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 20,3,1,111,99,98,197,72,259,287,52,223,434,138,33,42,45,142,240,31,10,182,38,48,16,39,25,17,34,37,35,48,13,240,38,28,69,67,25,11,26,45,18,46,19,12,17,55,24,23,21,9,9,26,15,12,13,16,21,20,44,10,18,7,15,12,11,6,14
+[Auction "N"]
+Pass 1D 1S 2H =1= 
+Pass Pass X 3D 
+4C 4H 5C =2= Pass 
+Pass Pass 
+[Note "1: nf"]
+[Note "2: ♣"]
+[Play "E"]
+D7 DA D3 D5 
+C8 C3 C2 CA 
+D4 CK C5 C6 
+H8 H4 HK H3 
+HA C4 H6 H7 
+D8 DK D6 ST 
+D9 D2 DT CQ 
+H5 C9 H2 HT 
+S2 SA S6 SJ 
+S3 S4 S7 C7 
+SQ S5 HJ CJ 
+SK S8 DJ CT 
+DQ S9 HQ H9 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "29"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT.T973.5.AQJT76 KQ32.A85.Q9874.8 A9854.4.AK2.K943 76.KQJ62.JT63.52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a64c8a64c4378142781"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  4
+N  C 12
+S NT  8
+S  S 10
+S  H  6
+S  D  4
+S  C 12
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  1
+W NT  4
+W  S  2
+W  H  7
+W  D  8
+W  C  1
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 20,0,2,240,54,78,114,159,46,586,185,421,38,45,157,74,56,34,305,20,23,144,106,9,37,21,82,23,24,519,32,16,41,29,20,10,18,13,12,16,15,28,17,16,22,33,16,9,14,26,19,7,13,8,18,7,32
+[Auction "N"]
+Pass 1D 1S X 
+2C Pass 3H =1= Pass 
+4H Pass 5C Pass 
+Pass Pass 
+[Note "1: splinter"]
+[Play "E"]
+C8 C3 C2 CQ 
+H8 H4 HJ H3 
+D7 C4 C5 CA 
+H5 C9 H2 H7 
+D4 DA D3 D5 
+D8 DK D6 ST 
+DQ D2 DT C6 
+HA CK H6 HT 
+S2 SA S6 SJ 
+S3 S4 S7 C7 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "30"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKJ9.K32.K3.A764 853.AT96.T742.K9 2.Q875.865.JT853 QT764.J4.AQJ9.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8786a8786a5657356573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  6
+N  C 10
+S NT  8
+S  S  7
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  6
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  6
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 8,3,1,66,47,106,256,214,112,68,92,84,129,39,43,46,31,13,54,60,24,80,48,985,42,83,27,321,31,10,29,31,20,21,40,52,25,9,20,19,26,13,7,19,140,18,10,14,97,14,9,41,25,20,12
+[Auction "E"]
+Pass Pass 1S 1NT 
+2S Pass Pass Pass 
+[Play "N"]
+CA C9 C8 C2 
+C4 CK C3 CQ 
+SJ S8 S2 ST 
+SA S3 C5 S4 
+C7 S5 CT H4 
+DK DT D6 D9 
+C6 H6 CJ S6 
+D3 D2 D5 DA 
+H2 D4 D8 DQ 
+H3 D7 H5 DJ 
+HK HA H7 HJ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "30"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKJ9.K32.K3.A764 853.AT96.T742.K9 2.Q875.865.JT853 QT764.J4.AQJ9.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8786a8786a5657356573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  6
+N  C 10
+S NT  8
+S  S  7
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  6
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  6
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 8,0,2,113,32,41,130,137,405,81,209,157,44,49,56,278,116,19,21,406,38,55,16,20,29,9,16,817,74,34,98,1726,86,21,42,79,17,13,64,45,34,12,19,20,24,18,8,40,52,12,13,22,23,8,10,17
+[Auction "E"]
+Pass Pass 1S 1NT 
+X 2C =1= Pass Pass =2= 
+2S Pass Pass Pass 
+[Note "1: clubs ir srart of rescue"]
+[Note "2: Alerted"]
+[Play "N"]
+SA S3 S2 S4 
+CA C9 CJ C2 
+C4 CK C5 CQ 
+SJ S5 C8 ST 
+C7 S8 CT H4 
+DK DT D5 D9 
+C6 H6 C3 S6 
+D3 D2 D6 DA 
+S9 D4 D8 DQ 
+SK H9 H5 S7 
+H2 -  -  -  
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "31"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q.Q983.K8652.JT4 T3.642.AT9.A9873 A94.AT5.Q3.KQ652 KJ87652.KJ7.J74."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "73979849895945459454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  4
+S  H  9
+S  D  8
+S  C  9
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  4
+W NT  5
+W  S  9
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 15,3,1,117,380,200,117,48,151,237,22,1022,52,210,157,36,46,36,108,73,30,17,260,17,30,52,539,27,14,12,13,26,26,11,53,28,68,29,24,29,23,380,99,35,51,25,18,26,17,27,18,18,49,17,295,28,11,18,21,28,20,13,15,16,34,12,10,28,12,13
+[Auction "S"]
+1C 2D =1= Pass 2H =2= 
+Pass 2S Pass Pass 
+3C 3S 4C X 
+Pass Pass Pass 
+[Note "1: any suit or 5+ each C&H"]
+[Note "2: relay"]
+[Play "W"]
+D7 D2 DA D3 
+D4 D5 DT DQ 
+S6 SQ S3 SA 
+S7 C4 ST S4 
+H7 H9 H6 HA 
+SJ CT D9 S9 
+DJ DK C7 CQ 
+S2 CJ CA C2 
+HK H3 H2 H5 
+SK D6 H4 C5 
+HJ HQ C3 HT 
+S5 H8 C8 CK 
+S8 D8 C9 C6 
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "31"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q.Q983.K8652.JT4 T3.642.AT9.A9873 A94.AT5.Q3.KQ652 KJ87652.KJ7.J74."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "73979849895945459454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  9
+N  D  7
+N  C  9
+S NT  8
+S  S  4
+S  H  9
+S  D  8
+S  C  9
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  4
+W NT  5
+W  S  9
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,2,149,136,94,27,138,52,1762,24,18,162,26,423,39,114,59,20,23,18,327,51,14,721,34,14,24,65,19,40,18,17,82
+[Auction "S"]
+1C 3S Pass Pass 
+Pass 
+[Play "N"]
+CJ CA C2 D4 
+SQ S3 S4 SK 
+D2 ST SA S2 
+HQ H2 H5 HJ 
+H3 H4 HA H7 
+H8 H6 HT HK 
+D5 -  -  SJ 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "32"]
+[West "Irving Blakey#26484"]
+[North "Keith Joules#504710"]
+[East "joy blakey#39337"]
+[South "Barney Nisbet#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:84.84.A865.KJT84 K92.AQJT9.KT7.63 QT5.7653.J9432.7 AJ763.K2.Q.AQ952"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1116411164bbc79ccc79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  6
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  6
+S  C  4
+E NT 11
+E  S 11
+E  H 12
+E  D  7
+E  C  9
+W NT 12
+W  S 12
+W  H 12
+W  D  7
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 28,3,1,115,53,57,233,35,47,137,60,54,45,118,34,441,48,168,30,81,45,17,24,30,87,70,21,56,90,18,18,49,25,23,15,18,15,27,10,34,20,30,11
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 2D =1= Pass 
+3S Pass 4S Pass 
+4NT =2= Pass 5H =3= Pass 
+6S Pass Pass Pass 
+[Note "1: 4SF"]
+[Note "2: rkc"]
+[Note "3: 2 no SQ"]
+[Play "N"]
+DA D7 D4 DQ 
+D5 DK D2 C2 
+S4 SK ST S3 
+S8 S2 S5 SJ 
+D6 S9 SQ SA 
+*
+
+[Event "05 Jul Solomon vs Dixon"]
+[Site "RealBridge"]
+[Date "2024.07.05"]
+[Board "32"]
+[West "Paul Brereton#94086"]
+[North "Ian Walsh#112937"]
+[East "Frank Dixon#34239"]
+[South "Warner Solomon#74645"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:84.84.A865.KJT84 K92.AQJT9.KT7.63 QT5.7653.J9432.7 AJ763.K2.Q.AQ952"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Dixon team"]
+[VisitTeam "Solomon team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1116411164bbc79ccc79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  6
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  6
+S  C  4
+E NT 11
+E  S 11
+E  H 12
+E  D  7
+E  C  9
+W NT 12
+W  S 12
+W  H 12
+W  D  7
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 23,0,2,226,57,81,32,29,41,111,36,580,49,20,24,64,45,365,43,170,47,346,26,116,53,49,63,281,15,181,160,18,16,486,29,11,20,57,30,27,43,37,34
+[Auction "W"]
+1S Pass 2H Pass 
+3C Pass 3S Pass 
+4C Pass 4D =1= Pass 
+4H Pass 4NT =2= Pass 
+5H =3= Pass 5S Pass 
+Pass Pass 
+[Note "1:  * cue [0:10]"]
+[Note "2: rkc Spades"]
+[Note "3: 2-Q"]
+[Play "N"]
+DA D7 D2 DQ 
+D5 DK D3 C2 
+S4 SK S5 S3 
+S8 S2 ST SJ 
+D6 -  -  SA 
+*

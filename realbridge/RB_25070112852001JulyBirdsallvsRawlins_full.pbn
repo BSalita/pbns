@@ -1,0 +1,3434 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "1"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8653.T954.3.K542 A72.A8.K852.A983 QT4.Q6.J974.QJT6 KJ9.KJ732.AQT6.7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1110411104bbcd9bbcd9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  0
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  0
+S  C  4
+E NT 11
+E  S 11
+E  H 12
+E  D 13
+E  C  9
+W NT 11
+W  S 11
+W  H 12
+W  D 13
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 27,0,3,74,366,61,27,38,58,77,101,36,371,100,229,34,396,92,58,34,20,36,52,49,46,17,13,34,8,14,8,12,16,13,13,26,9,32,54,85,18,29,11,12,23,251,140,61,9,48,34,26,7,13,8,18,13,8,31,9,8,12,8,22,9,14,10,11,20,8,7,8,7,5
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3C =1= 
+Pass 3H =2= Pass 4NT =3= 
+Pass 5D =4= Pass 6H 
+Pass Pass Pass 
+[Note "1: GF checkback"]
+[Note "2: Hx of H"]
+[Note "3: RKCB"]
+[Note "4: 0 or 3 "]
+[Play "N"]
+D3 D2 DJ DA 
+H4 HA H6 H2 
+H5 H8 HQ HK 
+H9 C3 D4 HJ 
+S6 DK D7 D6 
+C2 D5 D9 DT 
+S3 D8 C6 DQ 
+HT C8 S4 H3 
+C4 CA CT C7 
+C5 C9 CJ H7 
+S5 SA ST S9 
+S8 S2 SQ SK 
+CK S7 CQ SJ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "1"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8653.T954.3.K542 A72.A8.K852.A983 QT4.Q6.J974.QJT6 KJ9.KJ732.AQT6.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1110411104bbcd9bbcd9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  0
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  0
+S  C  4
+E NT 11
+E  S 11
+E  H 12
+E  D 13
+E  C  9
+W NT 11
+W  S 11
+W  H 12
+W  D 13
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,1082,94,296,89,58,63,62,49,49,33,41,52,53,292,486,36,47,145,47,11,39,184,102,295,54,139,27,24,16,31,262,52,18,35,20,22,134,26,12,22,20,266,17,24,29,77,19,20,12,36,12,55,152,58,12,21,19,34,15,76,15,17,10,13,8
+[Auction "N"]
+Pass 1NT Pass 2D 
+Pass 2H Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+CQ C7 C2 C3 
+CJ H2 C4 C8 
+CT H3 C5 CA 
+D4 DA D3 D2 
+D7 D6 H4 DK 
+D9 DT S5 D5 
+DJ DQ S3 D8 
+H6 H7 H5 HA 
+HQ HK H9 H8 
+C6 HJ HT S2 
+S4 S9 S6 SA 
+ST SJ S8 S7 
+SQ SK CK C9 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "2"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:85.KT.QJ62.Q9732 QJT942.654.A5.JT K63.AJ32.K7.K854 A7.Q987.T9843.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66889668894755447554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  8
+N  C  9
+S NT  6
+S  S  6
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  7
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,240,242,30,107,119,251,37,16,32,34,17,85,21,14,23,57,43,25,43,27,236,44,102,26,352,25,79,17,18,26,23,33,27,115,100,16,135,80,24,36,31,21,6,44,39,76,14,3,21,14,17,7,16,3,18,7
+[Auction "E"]
+2S =1= Pass Pass Pass 
+[Note "1: weak could be 5S and 5 minor"]
+[Play "S"]
+C4 CA C2 CT 
+S3 SA S5 S2 
+SK S7 S8 S9 
+CK C6 C3 CJ 
+H2 H7 HK H6 
+C8 D3 CQ SQ 
+S6 D4 C7 SJ 
+H3 HQ HT H4 
+HJ H8 C9 H5 
+HA H9 D2 S4 
+C5 D8 D6 ST 
+D7 D9 DJ DA 
+DK DT DQ D5 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "2"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:85.KT.QJ62.Q9732 QJT942.654.A5.JT K63.AJ32.K7.K854 A7.Q987.T9843.A6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66889668894755447554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  8
+N  C  9
+S NT  6
+S  S  6
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  7
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,2,1,151,188,122,456,87,163,122,190,831,39,12,812,32,28,10,297,34,19,11,44,49,24,22,15,25,9,35,68,14,13,15
+[Auction "E"]
+2S =1= X Pass 3C 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+SQ S3 S7 S8 
+S9 S6 SA S5 
+CJ C4 CA C3 
+DA D7 DT D2 
+D5 DK D3 D6 
+CT CK C6 C2 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "3"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J743.T42.KQ94.KJ T6.A63.AJT87.743 KQ8.KJ985.53.T52 A952.Q7.62.AQ986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "56754567447758977689"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  4
+S  C  4
+E NT  7
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  7
+W  H  6
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,117,48,68,62,210,60,68,57,155,18,49,59,38,289,21,385,35,46,16,477,74,41,13,233,32,17,23,287,36,7,29,10,30,9,156,130,26,47,13,326,29,71,33,249,39,12,27,62,16,7,24,11,14,170,3
+[Auction "S"]
+Pass 1C Pass 1D 
+1H 1S 2H 3C 
+Pass Pass Pass 
+[Play "N"]
+H4 H3 HK H7 
+CJ C3 C2 C8 
+DQ DA D3 D2 
+S3 S6 SQ SA 
+H2 H6 H5 HQ 
+S4 ST SK S2 
+DK D7 D5 D6 
+D4 DJ C5 C6 
+S7 C4 S8 S5 
+HT HA H8 S9 
+CK C7 CT CA 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "3"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J743.T42.KQ94.KJ T6.A63.AJT87.743 KQ8.KJ985.53.T52 A952.Q7.62.AQ986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "56754567447758977689"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  4
+S  C  4
+E NT  7
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  7
+W  H  6
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,81,202,57,153,334,138,329,83,86,51,28,230,56,16,119,108,48,21,361,111,38,21,121,187,28,14,14,25,15,49,162,18,140,23,79,26,19,12,12,20,15,12
+[Auction "S"]
+Pass 1C Pass 1D 
+1H Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+D6 DK DA D5 
+SA S3 ST SK 
+S9 SJ S6 S8 
+H7 HT HA H5 
+D2 DQ DJ D3 
+HQ H2 H3 HJ 
+CA CJ C7 C2 
+S5 S4 H6 SQ 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "4"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.QJ9653.7.J654 A86.K42.J985.AQT 7543.AT7.AKT3.98 KT92.8.Q642.K732"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4483544834975a887598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D  3
+N  C  5
+S NT  4
+S  S  4
+S  H  8
+S  D  3
+S  C  4
+E NT  9
+E  S  7
+E  H  5
+E  D 10
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,0,3,33,205,127,929,29,82,42,96,202,18,16,93,22,15,53,69,77,15,50,21,21,11,32,174,78,19,31,93,21,19,9,108,14,26,23,83,59,26,11,29,12,9,24,18,6,9,25,18,12,6,11,12,34,6,7,8,16,8,4
+[Auction "W"]
+Pass 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+D8 DA D2 D7 
+CT C8 C2 C4 
+D5 DK D4 SJ 
+CQ C9 C3 C5 
+D9 DT DQ H3 
+CA H7 C7 C6 
+DJ D3 D6 H9 
+S6 HT CK CJ 
+H4 HA H8 H5 
+SA S3 S2 SQ 
+S8 S4 SK H6 
+H2 S5 S9 HJ 
+HK S7 ST HQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "4"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.QJ9653.7.J654 A86.K42.J985.AQT 7543.AT7.AKT3.98 KT92.8.Q642.K732"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4483544834975a887598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D  3
+N  C  5
+S NT  4
+S  S  4
+S  H  8
+S  D  3
+S  C  4
+E NT  9
+E  S  7
+E  H  5
+E  D 10
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 12,2,1,79,131,100,57,38,57,43,57,102,202,126,398,50,396,38,64,140,114,17,142,22,17,26,20,23,37,47,769,36,12,15,175,24,11,63,43,28,22,11,71,36,13,95,39,66,30,9,64,19,21,32,43,181,35,11,12,12,8,16,9,11,7,20,14,9,7,8
+[Auction "W"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+2D 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+D8 DA D2 D7 
+D5 DK D4 SJ 
+CT C8 C3 C6 
+SA S3 S2 SQ 
+S8 S4 SK H5 
+CQ C9 C2 C4 
+S6 S7 ST H3 
+CA H7 C7 C5 
+D9 D3 D6 H6 
+H2 HT CK CJ 
+H4 HA H8 H9 
+HK S5 S9 HJ 
+DJ DT DQ HQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "5"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9732.3.A42.QT843 AKT.AKJT9542.8.J J4.Q.QJT97653.62 Q865.876.K.AK975"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "00084000845ac595ac59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  8
+N  C  4
+S NT  0
+S  S  0
+S  H  0
+S  D  8
+S  C  4
+E NT  5
+E  S 10
+E  H 12
+E  D  5
+E  C  9
+W NT  5
+W  S 10
+W  H 12
+W  D  5
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,0,3,51,244,555,311,81,205,51,262,35,593,58,150,41,19,35,317,152,29,26,22,50,19,12
+[Auction "N"]
+Pass 2C =1= 2D 3S =2= 
+Pass 4H Pass 4NT =3= 
+Pass 5D =4= Pass 6H 
+Pass Pass Pass 
+[Note "1: our only big bid"]
+[Note "2: 12+ points"]
+[Note "3: RKCB"]
+[Note "4: 0 or 3"]
+[Play "S"]
+C6 CA C4 CJ 
+HQ H6 H3 HA 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "5"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9732.3.A42.QT843 AKT.AKJT9542.8.J J4.Q.QJT97653.62 Q865.876.K.AK975"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "00084000845ac595ac59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  8
+N  C  4
+S NT  0
+S  S  0
+S  H  0
+S  D  8
+S  C  4
+E NT  5
+E  S 10
+E  H 12
+E  D  5
+E  C  9
+W NT  5
+W  S 10
+W  H 12
+W  D  5
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,2,1,74,95,256,230,378,202,112,42,47,178,41,109,51,60,36,27,40,560,95,49,17,618
+[Auction "N"]
+Pass 1H 2D 3D 
+Pass =1= 3S =2= Pass 4H 
+Pass 4NT Pass 5D 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: at least one of 3 top diamonds"]
+[Note "2: advance cue"]
+[Play "S"]
+DJ DK DA D8 
+-  -  H3 -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "6"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ942.AQ.6.T9632 J86.J96543.AQ43. T73.87.T952.KQ85 A5.KT2.KJ87.AJ74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "383383833865aa575aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  3
+N  C  8
+S NT  3
+S  S  8
+S  H  3
+S  D  3
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D 10
+E  C  5
+W NT  7
+W  S  5
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,223,46,70,70,19,47,292,382,37,26,29,32,24,72,301,89,68,20,48,36,30,41,218,87,135,36,66,84,21,24,19,22,24,24
+[Auction "E"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: weak could be 5H and 5 minor"]
+[Play "S"]
+S3 SA S2 S6 
+S7 S5 SQ S8 
+D2 D7 D6 DA 
+H7 HT HQ H5 
+CQ CA C6 SJ 
+C5 C4 C2 H3 
+H8 H2 HA H9 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "6"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ942.AQ.6.T9632 J86.J96543.AQ43. T73.87.T952.KQ85 A5.KT2.KJ87.AJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "383383833865aa575aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  3
+N  C  8
+S NT  3
+S  S  8
+S  H  3
+S  D  3
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D 10
+E  C  5
+W NT  7
+W  S  5
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,651,61,196,267,35,40,42,35,35,45,78,58,69,37,99,41,13,31,136,41,20,13,330,273,33,97,150,44,156,36,16,167,14,20,13,31,19,62,479,37,41,23,113,29,10,52,77,18,18,9,66,19,12,10,31,13,17,11,10,13,7,4
+[Auction "E"]
+2H =1= Pass 4H 4S 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+H3 H7 HK HA 
+S6 S3 SA SK 
+H4 H8 HT HQ 
+D3 CK CA C6 
+S8 C5 C4 C3 
+DA D2 D7 D6 
+D4 DT DK S2 
+SJ C8 C7 C2 
+DQ D5 D8 S4 
+H5 S7 S5 SQ 
+H6 CQ CJ C9 
+H9 D9 DJ S9 
+HJ ST H2 CT 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "7"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J.Q6432.854.K963 AKQT643..AJT76.5 9852.T7.K932.AT7 7.AKJ985.Q.QJ842"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "31425314159b8989b898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  4
+N  D  2
+N  C  5
+S NT  3
+S  S  1
+S  H  4
+S  D  1
+S  C  5
+E NT  9
+E  S 11
+E  H  8
+E  D  9
+E  C  8
+W NT  9
+W  S 11
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 28,0,3,59,42,69,73,30,189,27,164,88,15,51,52,86,37,25,106,72,16,55,173,26,22,11,247,66,766,25,36,43,18,31,18,29,16,17,35,27,16,17,82,31,55,62,31,16,20,9,22,11,23,29,20,11,30,10,28,16,18,45,7,20,6,23
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3H Pass 6S 
+Pass Pass Pass 
+[Play "S"]
+CA C2 C3 C5 
+C7 CQ CK S3 
+D2 DQ D5 DA 
+D3 S7 D4 DJ 
+H7 HA H3 D6 
+HT HK H2 D7 
+CT CJ C6 DT 
+D9 H5 H4 ST 
+S2 C4 SJ SA 
+S5 H8 H6 SK 
+S8 H9 HQ SQ 
+S9 C8 D8 S6 
+DK HJ C9 S4 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "7"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J.Q6432.854.K963 AKQT643..AJT76.5 9852.T7.K932.AT7 7.AKJ985.Q.QJ842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "31425314159b8989b898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  4
+N  D  2
+N  C  5
+S NT  3
+S  S  1
+S  H  4
+S  D  1
+S  C  5
+E NT  9
+E  S 11
+E  H  8
+E  D  9
+E  C  8
+W NT  9
+W  S 11
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,50,66,52,33,45,34,39,58,62,168,44,29,50,44,40,28,53,37,31,1243,164,622,653,27,22,87,30,25,17,131,189,718,55,80,37,16,20,20,20,91,16,412,991,33,19,278,101,31,24,19,34,7,23,46,16,109,21,31,23,18,33,112,394,18,16,15,28,8,8,10,11,7,4
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2C Pass 2D 
+Pass 3C Pass 3D 
+Pass 3H Pass 3S 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+SJ SA S2 S7 
+C3 C5 CA C2 
+D8 S3 S5 H8 
+H4 D6 H7 HA 
+H2 S4 HT HK 
+HQ D7 S8 H9 
+D5 DA D2 DQ 
+H3 SK S9 C4 
+D4 DT DK H5 
+H6 S6 D3 HJ 
+C6 ST C7 CJ 
+CK SQ CT CQ 
+C9 DJ D9 C8 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "8"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:96.9653.AT75.J52 A4.AKQT8.J943.A9 QJT8.742.Q82.863 K7532.J.K6.KQT74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5NT"]
+[Result "13"]
+[Score "NS -520"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1213112131cacaccacac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  3
+N  C  1
+S NT  1
+S  S  2
+S  H  1
+S  D  3
+S  C  1
+E NT 12
+E  S 10
+E  H 12
+E  D 10
+E  C 12
+W NT 12
+W  S 10
+W  H 12
+W  D 10
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 24,0,3,64,47,115,65,30,36,86,48,12,28,599,180,512,21,156,76,100,19,10,32,10,17,10,23,10,23,23,20,7,35,12,43,7,51,16,14,8,41,9,25,10,12,8,16,7,10,9,20,7,37,10,36,9,10,12,25,21,14,11,15,5,11,7,9,6,4
+[Auction "W"]
+1S Pass 2H Pass 
+2S Pass 3D Pass 
+3NT Pass 5NT =1= Pass 
+Pass Pass 
+[Note "1: invitational "]
+[Play "N"]
+C2 C9 C6 C4 
+C5 CA C3 C7 
+H5 H8 H2 HJ 
+CJ D3 C8 CK 
+H3 D4 S8 CQ 
+H6 D9 H4 CT 
+S6 SA ST S3 
+H9 HA H7 D6 
+D5 HK D2 S2 
+S9 HQ D8 S5 
+D7 HT SJ DK 
+DT S4 SQ SK 
+DA DJ DQ S7 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "8"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:96.9653.AT75.J52 A4.AKQT8.J943.A9 QJT8.742.Q82.863 K7532.J.K6.KQT74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1213112131cacaccacac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  3
+N  C  1
+S NT  1
+S  S  2
+S  H  1
+S  D  3
+S  C  1
+E NT 12
+E  S 10
+E  H 12
+E  D 10
+E  C 12
+W NT 12
+W  S 10
+W  H 12
+W  D 10
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 19,2,1,100,39,64,28,121,43,135,42,35,37,265,32,151,53,731,191,53,44,73,32,17,15,51,33,9,16,236,23,18,47,21,20,10,9,22,62,11,11,21,263,15,9,15,22,9,15,12,10,5,11,12,19,3,194,8,11,3,25,3,13,3,9,14,12,3,8
+[Auction "W"]
+1S Pass 2H Pass 
+2S Pass 3D Pass 
+3NT Pass 4NT Pass 
+Pass Pass 
+[Play "N"]
+C2 C9 C8 C4 
+H3 H8 H7 HJ 
+C5 CA C3 C7 
+H6 HA H2 S2 
+H5 HK H4 S3 
+H9 HQ C6 D6 
+D5 HT D2 S5 
+S6 SA S8 S7 
+S9 S4 ST SK 
+CJ D3 D8 CK 
+D7 D4 DQ CQ 
+DT D9 SJ CT 
+DA DJ SQ DK 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "9"]
+[West "Ivan Leung#524083"]
+[North "Sam Akayan#537537"]
+[East "Naomi Gibbs#430704"]
+[South "Cecilia Birdsall#524046"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:94.AQ9.KT943.K95 Q87.8753.Q52.873 KJT65.J642.J.QJ4 A32.KT.A876.AT62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9aa889aa884334443345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  8
+N  C  8
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  8
+E NT  4
+E  S  3
+E  H  3
+E  D  4
+E  C  4
+W NT  4
+W  S  3
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 4,0,3,58,49,88,28,124,46,363,42,66,93,193,42,98,20,20,13,40,20,35,13,228,26,18,21,148,28,13,246,24,24,12,19,66,44,36,26,29,13,7,26,109,9,13,40,36,23,6,21,15,21,9,36,10,14,16,8,5,8,15,4
+[Auction "N"]
+1D Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1: 12 - 14"]
+[Play "E"]
+H7 H2 HT HQ 
+S8 S5 S3 S9 
+S7 ST S2 S4 
+H3 H4 HK HA 
+H5 H6 D6 H9 
+C8 CQ CA C5 
+C3 CJ C2 C9 
+H8 HJ D7 D3 
+DQ DJ D8 D4 
+C7 C4 C6 CK 
+D2 S6 DA DK 
+SQ SJ SA D9 
+D5 SK CT DT 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "9"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sonia Zakrzewski#106926"]
+[South "Nigel Rawlins#118311"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:94.AQ9.KT943.K95 Q87.8753.Q52.873 KJT65.J642.J.QJ4 A32.KT.A876.AT62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9aa889aa884334443345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  8
+N  C  8
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  8
+E NT  4
+E  S  3
+E  H  3
+E  D  4
+E  C  4
+W NT  4
+W  S  3
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 8,2,1,140,60,261,48,171,47,150,80,154,37,144,173,45,34,180,34,33,19,77,21,36,67,100,24,27,19,53,36,29,20,598,21,15,47,34,81,23,251,62,31,172,17,229,104,29,16,21,20,15,17,25,13,19,10,24,14,8,10,8,7,7,10
+[Auction "N"]
+1NT Pass 2C Pass 
+2D Pass 2S Pass 
+Pass Pass 
+[Play "W"]
+C6 C5 C7 CQ 
+HT HQ H3 H2 
+S2 S9 S7 S6 
+SA S4 S8 ST 
+HK HA H5 H4 
+DA D3 D2 DJ 
+D8 DK D5 C4 
+D6 DT DQ CJ 
+S3 H9 H8 H6 
+CA C9 C8 S5 
+C2 D4 SQ SK 
+CT CK C3 SJ 
+D7 D9 H7 HJ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "10"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q92.T863.76.A642 AT85.AJ4.952.875 7643.752.A4.KQJ9 KJ.KQ9.KQJT83.T3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5452654526888a7888a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  2
+N  C  6
+S NT  5
+S  S  4
+S  H  5
+S  D  2
+S  C  6
+E NT  8
+E  S  8
+E  H  8
+E  D 10
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,4,7,94,251,70,99,55,48,117,32,114,43,58,42,21,33,106,292,27,28,104,50,29,26,20,25,20,12,40,13,33,15,49,16,247,16,25,18,4,22
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H3 H4 H7 HK 
+D7 D2 DA DK 
+C4 C5 CK CT 
+C2 C7 CQ C3 
+C6 C8 CJ D3 
+CA S5 C9 D8 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "10"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q92.T863.76.A642 AT85.AJ4.952.875 7643.752.A4.KQJ9 KJ.KQ9.KQJT83.T3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5452654526888a7888a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  2
+N  C  6
+S NT  5
+S  S  4
+S  H  5
+S  D  2
+S  C  6
+E NT  8
+E  S  8
+E  H  8
+E  D 10
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,6,5,239,145,363,54,36,24,257,986,29,31,24,46,15,241,85,16,18,19,337,23,17,78,489,30,233,33,11,7,7,37,9,20,173
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+CJ C3 C2 C7 
+CK CT C4 C5 
+CQ D3 C6 C8 
+DA D8 D7 D2 
+C9 DT CA S5 
+-  -  D6 -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "11"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ9.8.QJ63.KQT83 AT.976543.AK9.65 Q8654.AQT2.74.74 732.KJ.T852.AJ92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "79578795786486464865"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  7
+N  C  8
+S NT  7
+S  S  9
+S  H  5
+S  D  7
+S  C  8
+E NT  6
+E  S  4
+E  H  8
+E  D  6
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,4,7,77,51,231,201,554,128,118,40,166,33,87,481,31,24,83,37,34,21,231,38,33,13,45,568,45,14,24,39,12,25,23,25,37,27,85,20,55,41,134,36,15,15,276,35,69,29,26,33,25,39,72,20,22,13,22
+[Auction "S"]
+Pass Pass 1C 2H 
+2S 3H 3S Pass 
+Pass Pass 
+[Play "W"]
+HK H8 H3 HA 
+C2 CK C5 C4 
+S7 SK SA S4 
+S2 SJ ST S5 
+D2 DQ DK D4 
+CA C3 C6 C7 
+S3 S9 H7 S6 
+C9 CQ H4 H2 
+CJ C8 H5 S8 
+D8 DJ DA D7 
+HJ D3 H6 HT 
+DT -  -  -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "11"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ9.8.QJ63.KQT83 AT.976543.AK9.65 Q8654.AQT2.74.74 732.KJ.T852.AJ92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "79578795786486464865"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  7
+N  C  8
+S NT  7
+S  S  9
+S  H  5
+S  D  7
+S  C  8
+E NT  6
+E  S  4
+E  H  8
+E  D  6
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,6,5,40,243,54,33,43,243,406,33,53,95,32,56,121,22,19,330,24,24,207,28,36,8,294,19,13,7,104,67,16,14,32,112,9,11,144,17,31,32,111,21,9,20,11,11,7,10,5
+[Auction "S"]
+Pass Pass 1C 1H 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "W"]
+HK H8 H7 HA 
+CA C3 C6 C4 
+D2 DQ DK D4 
+D5 D3 DA D7 
+DT DJ D9 H2 
+S2 SK SA S4 
+C2 C8 C5 C7 
+S3 S9 ST SQ 
+S7 SJ H3 S5 
+-  CK -  -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "12"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:84.J73.J9742.Q94 KJT3.T42.8.KJ763 Q97652.K6.KQ.A52 A.AQ985.AT653.T8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "342523435299a8b99a8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  4
+S  H  3
+S  D  5
+S  C  2
+E NT  9
+E  S  9
+E  H 10
+E  D  8
+E  C 11
+W NT  9
+W  S  9
+W  H 10
+W  D  8
+W  C 11
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,6,5,84,28,117,36,276,67,68,28,21,37,92,352,9,20,223,30,16,142,119,61,13,15,348,16,18,18,89,28,15,8,79,26,26,10,93,8,33,17
+[Auction "W"]
+1H Pass 2H 2S 
+3D Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+S8 S3 S7 SA 
+C4 C3 CA CT 
+S4 ST S6 D3 
+H7 H2 H6 HQ 
+H3 H4 HK HA 
+C9 CJ C2 C8 
+CQ CK C5 D5 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "12"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:84.J73.J9742.Q94 KJT3.T42.8.KJ763 Q97652.K6.KQ.A52 A.AQ985.AT653.T8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "342523435299a8b99a8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  4
+S  H  3
+S  D  5
+S  C  2
+E NT  9
+E  S  9
+E  H 10
+E  D  8
+E  C 11
+W NT  9
+W  S  9
+W  H 10
+W  D  8
+W  C 11
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,4,7,101,48,88,61,346,73,81,41,504,50,34,31,171,143,61,30,360,35,46,29,464,38,26,15,77,30,32,32,162,48,25,12,223,28,16,37,52,19,62,24,382,29,55,47,21,212,34,48,12,128,21,23,21,29,32,15,16,13,12,8,10,3,25,9
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+C4 C3 CA C8 
+S4 S3 S2 SA 
+D2 D8 DQ DA 
+D4 H2 DK D5 
+S8 SK S5 D3 
+C9 CK C2 CT 
+CQ C6 C5 H5 
+D7 HT HK D6 
+HJ ST S6 H8 
+D9 H4 H6 DT 
+DJ SJ SQ H9 
+H3 C7 S7 HA 
+H7 CJ S9 HQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "13"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ643.74.T7.KJT7 8.J82.A8532.A985 JT75.AQT95.KJ4.Q K92.K63.Q96.6432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "8a977aa9773336633366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C  7
+S NT 10
+S  S 10
+S  H  9
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  3
+E  D  6
+E  C  6
+W NT  3
+W  S  3
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,6,5,113,57,40,64,55,70,29,72,200,22,21,31,101,1004,29,14,12,24,44,26,316,177,28,10,347,27,35,49,31,31,12,10,12,30,8,9,30,35,45,12,78,19,14,24,82,17,39,34,20,28,9,9,7,9,19,45,14,13,10,5,9,9,18,7
+[Auction "N"]
+Pass Pass 1H Pass 
+1S X 2S Pass 
+4S Pass Pass Pass 
+[Play "E"]
+H2 HA H3 H7 
+CA CQ C4 C7 
+H8 HQ HK H4 
+C5 D4 C2 CK 
+C8 DJ C3 CJ 
+C9 DK C6 CT 
+D2 S5 D6 D7 
+S8 SJ S2 S4 
+D3 S7 S9 SQ 
+D5 ST D9 DT 
+HJ HT H6 S3 
+D8 H5 SK SA 
+DA H9 DQ S6 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "13"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ643.74.T7.KJT7 8.J82.A8532.A985 JT75.AQT95.KJ4.Q K92.K63.Q96.6432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "8a977aa9773336633366"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C  7
+S NT 10
+S  S 10
+S  H  9
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  3
+E  D  6
+E  C  6
+W NT  3
+W  S  3
+W  H  3
+W  D  6
+W  C  6
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,4,7,104,95,55,39,39,267,267,99,761,45,53,31,22,28,17,692,31,20,110,36,35,9,21,42,13,14,28,36,14,12,436,132,24,47,106,20,536,34,68,36,5,16,14,24,4,8,53,19,9,8,20,22,11,19,14,14,17,19,12,16,4,17,15,4,18,4
+[Auction "N"]
+Pass Pass 1H Pass 
+1S 1NT =1= 2S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 5+D and 4+C"]
+[Play "E"]
+H2 HQ HK H4 
+CA CQ C6 C7 
+DA D4 D6 D7 
+D2 DK D9 DT 
+S8 SJ S2 S3 
+D3 S5 S9 SA 
+C5 DJ C4 CK 
+C8 H5 C2 CJ 
+C9 H9 C3 CT 
+H8 HA H3 H7 
+HJ HT H6 S4 
+D5 S7 SK SQ 
+D8 ST DQ S6 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "14"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT8.5.AKQ4.J9842 652.AQ97432.98.Q AK74.8.JT7.AKT53 J93.KJT6.6532.76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6c6cc6c6cc0070000700"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  6
+N  D 12
+N  C 12
+S NT  6
+S  S 12
+S  H  6
+S  D 12
+S  C 12
+E NT  0
+E  S  0
+E  H  7
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  7
+W  D  0
+W  C  0
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 20,6,5,75,26,118,150,31,245,42,37,28,141,26,109,13,130,20,38,8,11,23,14,11
+[Auction "E"]
+3H X 4H X 
+Pass 5C Pass Pass 
+Pass 
+[Play "W"]
+HK H5 H2 H8 
+D2 DA D9 D7 
+C6 C2 CQ CA 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "14"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT8.5.AKQ4.J9842 652.AQ97432.98.Q AK74.8.JT7.AKT53 J93.KJT6.6532.76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6c6cc6c6cc0070000700"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  6
+N  D 12
+N  C 12
+S NT  6
+S  S 12
+S  H  6
+S  D 12
+S  C 12
+E NT  0
+E  S  0
+E  H  7
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  7
+W  D  0
+W  C  0
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 20,4,7,128,236,152,1115,44,124,43,48,130,47,16,155,35,188,26,15,31,61,14,36,21,15,22,83,21,10,18
+[Auction "E"]
+3H X 4H 5C 
+Pass Pass Pass 
+[Play "E"]
+HA H8 H6 H5 
+S6 S4 SJ SQ 
+CQ CA C6 C2 
+H7 CK C7 C4 
+S2 S7 S3 ST 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "15"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T6.9763.9732.742 AJ98.AQ2.854.K85 KQ753.K4.KJT6.QJ 42.JT85.AQ.AT963"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2425224252b9a7bb9a7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  2
+N  D  5
+N  C  2
+S NT  2
+S  S  4
+S  H  2
+S  D  5
+S  C  2
+E NT 11
+E  S  9
+E  H 10
+E  D  7
+E  C 11
+W NT 11
+W  S  9
+W  H 10
+W  D  7
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,6,5,68,71,53,163,22,300,66,362,26,27,64,186,19,14,53,16,161,42,21,56,17,13,10,52,12,22,32,9,23,10,7,16,257,18,10,53,16,6,22,33,25,17,12,10,19,21,23,23,22,8,9,8,15,12,22,6,13,14,18,8,12,4,8,8,12,6,6
+[Auction "S"]
+1S Pass Pass 1NT 
+Pass 2C Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S3 S4 ST SJ 
+CJ C3 C7 CK 
+CQ CA C2 C8 
+S5 CT C4 C5 
+D6 C9 S6 D4 
+S7 C6 D7 D5 
+HK HJ H3 H2 
+SK S2 D2 SA 
+H4 H5 H6 HA 
+DT H8 H7 HQ 
+DJ DA D3 D8 
+SQ HT H9 S8 
+DK DQ D9 S9 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "15"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T6.9763.9732.742 AJ98.AQ2.854.K85 KQ753.K4.KJT6.QJ 42.JT85.AQ.AT963"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2425224252b9a7bb9a7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  2
+N  D  5
+N  C  2
+S NT  2
+S  S  4
+S  H  2
+S  D  5
+S  C  2
+E NT 11
+E  S  9
+E  H 10
+E  D  7
+E  C 11
+W NT 11
+W  S  9
+W  H 10
+W  D  7
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,4,7,223,107,49,115,78,319,45,106,40,21,33,245,179,27,53,239,34,80,18,364,33,78,40,416,45,33,8,36,60,28,60,24,58,57,13,81,23,25,61,137,320,19,32,312,26,21,15,36,30,29,21,18,13,18,22,17,20,15,10,15,4,19,12
+[Auction "S"]
+1S 2C Pass 2S =1= 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1: value "]
+[Play "S"]
+SK S2 ST SA 
+CQ CA C2 C8 
+CJ C3 C4 CK 
+S5 CT C7 C5 
+D6 C9 H6 D5 
+S3 C6 D7 D4 
+HK H5 H3 HQ 
+DT DQ D2 D8 
+DK DA D3 S8 
+H4 H8 H7 HA 
+S7 HT H9 H2 
+DJ HJ D9 S9 
+SQ S4 S6 SJ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "16"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT7.KJT7.A876.96 J653.AQ6.T532.J4 K42.83.QJ9.AKQ32 A98.9542.K4.T875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "97899978994544445444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,6,5,76,42,70,29,48,124,46,59,52,118,95,28,35,288,94,96,18,376,186,35,27,112,26,20,16,10,19,17,249,65,470,22,16,212,19,8,17,16,15,46,7,140,16,190,14,103,23,30,12,37,37,10,13,8,11,19,6,10,14,9,5,8,10,4,7
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1H Pass 1NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 15-16"]
+[Play "W"]
+H5 HT HQ H3 
+DK DA D5 DJ 
+C5 C6 C4 CA 
+H2 HJ HA H8 
+D4 D6 D2 D9 
+CT C9 CJ CK 
+C7 S7 H6 CQ 
+C8 H7 S5 C2 
+H4 HK S3 S2 
+SA ST SJ SK 
+H9 D7 S6 S4 
+S8 SQ D3 C3 
+S9 D8 DT DQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "16"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT7.KJT7.A876.96 J653.AQ6.T532.J4 K42.83.QJ9.AKQ32 A98.9542.K4.T875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "97899978994544445444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,4,7,59,84,51,103,40,199,51,96,35,46,26,45,30,241,554,33,27,22,356,21,39,163,51,41,14,333,25,16,20,588,30,13,18,50,25,20,34,651,26,29,29,321,39,37,19,21,18,118,25,15,50,273,29,25,19,15,37,17,18,15,16,9,15,13,11
+[Auction "W"]
+Pass Pass Pass 1NT =1= 
+Pass 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "W"]
+H5 HJ HQ H3 
+C5 C6 CJ CA 
+DK DA D2 DJ 
+D4 D6 D3 D9 
+C7 C9 C4 CK 
+C8 S7 H6 CQ 
+CT H7 S6 C3 
+H2 HT HA H8 
+H4 D7 D5 DQ 
+H9 D8 DT C2 
+S8 ST SJ S2 
+SA SQ S3 S4 
+S9 HK S5 SK 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "17"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:832.Q854.Q9.6432 AKQ94.K3.54.KQT7 JT76.J6.J7632.AJ 5.AT972.AKT8.985"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2223122231bbbacbbbac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  3
+N  C  1
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  1
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C 12
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,6,5,967,31,23,56,50,60,22,59,71,101,16,184,246,10,35,413,31,14,18,26,94,12,12,17,44,15,16,55,29,62,11
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+DQ D4 D3 DK 
+C2 C7 CJ C9 
+D9 D5 D2 DA 
+C4 CT CA C5 
+C3 S4 DJ D8 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "17"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:832.Q854.Q9.6432 AKQ94.K3.54.KQT7 JT76.J6.J7632.AJ 5.AT972.AKT8.985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2223122231bbbacbbbac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  3
+N  C  1
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  1
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C 12
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,4,7,52,75,116,111,54,171,57,410,98,596,34,54,141,64,27,23,38,24,21,47,25,65,32,71,149,62,210,110,33,33,19,41,28,34,76,64,38,18,6,30,45,21,7
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 2NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-19"]
+[Play "S"]
+D3 DA D9 D4 
+H6 H2 H4 HK 
+HJ HA H5 H3 
+D2 HT HQ S4 
+CA C5 C4 CK 
+CJ C8 C2 CQ 
+S6 C9 C3 CT 
+D6 D8 C6 C7 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "18"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Ivan Leung#524083"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KT642.76.AQ87.A3 AQ3.Q954.J943.95 J87.KJ32.K6.K864 95.AT8.T52.QJT72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7a6867a6865365653656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S 10
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  3
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  3
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,6,5,32,20,120,48,91,179,83,83,29,93,43,113,26,18,26,40,463,45,43,178,17,33,132,28,120,22,60,592,38,18,16,630,18,16,29,53,23,13,13,16,13,14,76,87,13,20,22,5,115,17,16,13,60,35,19,19,25,47,7,19,21,15,7,8,9,6,8
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2D 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+C9 CK C7 C3 
+SQ S7 S9 ST 
+C5 C4 CJ CA 
+D3 DK D2 D7 
+D4 D6 D5 DA 
+D9 H2 DT DQ 
+DJ S8 H8 D8 
+SA SJ S5 S2 
+H4 HJ HA H6 
+H5 C6 CT S6 
+S3 C8 C2 SK 
+H9 HK HT H7 
+HQ H3 CQ S4 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "18"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Naomi Gibbs#430704"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KT642.76.AQ87.A3 AQ3.Q954.J943.95 J87.KJ32.K6.K864 95.AT8.T52.QJT72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7a6867a6865365653656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S 10
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  3
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  3
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,4,7,65,210,122,77,35,295,373,402,49,120,40,491,44,53,37,77,22,20,398,29,22,25,25,21,17,15,14,17,16,14,18,28,11,449,31,15,40,21,46,20,23,276,28,35,28,33,58,45,14,61,36,59,11,14,25,10,9,19,17,4,17,6,21,4,9,3,16,5,10
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 2C =1= X 2D 
+Pass 2NT Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 3 card raise"]
+[Play "E"]
+C9 C4 C2 CA 
+D3 DK D5 D7 
+D4 D6 D2 DA 
+D9 S7 DT D8 
+SQ SJ S5 S2 
+C5 CK C7 C3 
+SA S8 S9 ST 
+H5 HJ HA H6 
+H4 C6 CQ S4 
+S3 C8 CT SK 
+DJ H2 CJ DQ 
+H9 H3 H8 S6 
+HQ HK HT H7 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "19"]
+[West "Nigel Rawlins#118311"]
+[North "Cecilia Birdsall#524046"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7642.92.Q3.QT43 K953.K543.A4.K86 AT.Q8.KJ652.J952 J8.AJT76.T987.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "453674536798a7698a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  7
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  7
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  6
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 7,4,9,3346,64,30,59,47,301,34,25,37,90,22,139,54,73,17,12,48,13,45,559,80,19,9,15,194,20,32,36,23,8,14,14,22,12,13,26,26,5,20,9,18,7,5,8,24,7,13,7,15,13,25,20,14,29,7,13,13,7,27,19,7,20,9
+[Auction "S"]
+Pass Pass Pass 1NT =1= 
+Pass 2D =2= Pass 2H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: hearts or other sequences"]
+[Play "S"]
+D5 D7 DQ DA 
+DJ D8 D3 D4 
+C2 CA C3 C6 
+D2 D9 H2 H3 
+H8 H6 H9 HK 
+HQ HA S2 H4 
+D6 DT S4 H5 
+C5 C7 C4 CK 
+C9 H7 CT C8 
+SA S8 S6 SK 
+DK HT S7 S3 
+ST SJ SQ S5 
+CJ HJ CQ S9 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "19"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Sam Akayan#537537"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7642.92.Q3.QT43 K953.K543.A4.K86 AT.Q8.KJ652.J952 J8.AJT76.T987.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "453674536798a7698a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  7
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  7
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  6
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 12,8,5,161,213,459,245,1777,105,163,47,26,129,87,262,478,23,19,581,30,18,24,32,347,14,45,190,271,72,16,12,21,12,12,30,20,16,21,49,86,8,33,29,20,29,113,18,34,16,30
+[Auction "S"]
+1D 1H 1S 2D =1= 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: support 10+"]
+[Play "N"]
+DQ DA D2 D7 
+H2 H3 H8 HA 
+D3 D4 DJ DT 
+CT CK C5 C7 
+H9 HK HQ H6 
+C3 C6 C2 CA 
+S4 H4 D5 D8 
+C4 C8 C9 HT 
+S2 SK SA S8 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "20"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT975.43.Q8742.J .Q875.AKT63.Q875 AJ43.AK96.95.T63 Q862.JT2.J.AK942"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "58462584626587a6587a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  6
+N  C  2
+S NT  5
+S  S  8
+S  H  4
+S  D  6
+S  C  2
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C 10
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,11,9,681,171,39,40,66,50,25,43,18,49,651,78,40,63,152,30,27,12,54,28,7,60,29,50,17,22,43,19,24,27,11,42,9,15,10,86,11,17,11,40,16,56,11,19,11,22,16,14,191,51,62,11,26,10,21,14,8,6,14,6,5,7
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+D9 DJ DQ D3 
+D5 S2 D4 DK 
+C3 C2 CJ CQ 
+S3 H2 D2 DA 
+C6 CK H4 C7 
+CT CA H3 C8 
+H6 C9 S5 C5 
+H9 C4 D7 D6 
+HA HT D8 H5 
+S4 S6 S7 DT 
+SA S8 S9 H7 
+HK HJ ST H8 
+SJ SQ SK HQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "20"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT975.43.Q8742.J .Q875.AKT63.Q875 AJ43.AK96.95.T63 Q862.JT2.J.AK942"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "58462584626587a6587a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  6
+N  C  2
+S NT  5
+S  S  8
+S  H  4
+S  D  6
+S  C  2
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C 10
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 15,8,10,83,261,180,193,100,180,506,114,103,416,403,71,58,55,49,41,79,139,244,153,34,12,227,30,19,22,187,76,13,21,54,29,13,14,158,30,25,43,371,134,14,219,33,123,345,25,43,19
+[Auction "W"]
+1C 1S X =1= 2C =2= 
+Pass 2S X Pass 
+3C Pass Pass 3S 
+Pass Pass 4C Pass 
+Pass Pass 
+[Note "1: 4 hearts"]
+[Note "2: value"]
+[Play "N"]
+S9 C5 S3 S2 
+H3 H5 HK H2 
+CJ CQ C6 C2 
+H4 H7 H6 HJ 
+S5 C7 S4 S6 
+S7 H8 HA HT 
+ST HQ H9 S8 
+-  C8 C3 -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "21"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ8765.A654.T.T4 42.J832.Q65.AKJ9 JT3.QT9.AJ82.Q75 A9.K7.K9743.8632"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "69855698555458854588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA -2,11,9,176,29,48,123
+[Auction "N"]
+Pass Pass Pass Pass 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "21"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ8765.A654.T.T4 42.J832.Q65.AKJ9 JT3.QT9.AJ82.Q75 A9.K7.K9743.8632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "69855698555458854588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  5
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,8,10,728,75,154,63,54,34,42,26,41,48,28,23,652,20,11,10,108,23,81,37,493,27,24,17,16,16,12,15,94,18,30,23,371,82,25,40,45,41,16,10,89,33,16,11,30,16,59,3,35,9,21,31
+[Auction "N"]
+2S =1= Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: Weak 6-10, 6+S or 5S/5m"]
+[Play "E"]
+CK C5 C6 CT 
+CA C7 C2 C4 
+H2 H9 HK HA 
+D5 DA D3 DT 
+S2 SJ S9 S7 
+S4 S3 SA S6 
+D6 D2 DK S8 
+H3 ST D4 SK 
+H8 HT H7 H4 
+HJ HQ C3 H5 
+C9 CQ C8 H6 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "22"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T94.J32.95.KT642 AJ875.QT97.742.3 K.A8654.AK83.QJ7 Q632.K.QJT6.A985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "53758537588958589585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  5
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  5
+S  C  8
+E NT  8
+E  S  9
+E  H  5
+E  D  8
+E  C  5
+W NT  8
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,11,9,72,40,78,128,28,142,46,36,176,38,20,53,40,31,30,8,249,19,20,11,27,10,48,9,61,18,16,8,32,10,31,23,32,17,8,15
+[Auction "E"]
+Pass 1H X 2H 
+2S 3H 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+DK D6 D9 D4 
+DA DT D5 D7 
+D8 DJ S4 D2 
+HA HK H2 H7 
+D3 DQ ST SJ 
+SK S2 S9 SA 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "22"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T94.J32.95.KT642 AJ875.QT97.742.3 K.A8654.AK83.QJ7 Q632.K.QJT6.A985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "53758537588958589585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  5
+N  C  8
+S NT  5
+S  S  3
+S  H  7
+S  D  5
+S  C  8
+E NT  8
+E  S  9
+E  H  5
+E  D  8
+E  C  5
+W NT  8
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,8,10,80,53,27,211,611,98,67,88,460,282,18,15,165,20,9,5,84,42,271,36,77,38,33,17,30,18,10,56,140,22,10,9,27,23,3,12,22,27,8,10,13,30,8,14,8,9,24,16,10,20,12,22,4,10,6,18,4,15,3,7
+[Auction "E"]
+Pass 1H X Pass 
+2S Pass Pass Pass 
+[Play "S"]
+DA D6 D5 D2 
+DK DT D9 D4 
+D3 DJ ST D7 
+HA HK H3 H7 
+D8 DQ S9 SJ 
+SK S2 S4 SA 
+H4 C5 H2 HQ 
+H5 S3 HJ H9 
+C7 CA C6 C3 
+CJ C8 CK S5 
+H6 S6 C2 HT 
+CQ C9 C4 S7 
+H8 SQ CT S8 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "23"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K543.KJT53.K.K76 96.862.732.AQJ52 AJ872.9.A94.T843 QT.AQ74.QJT865.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "89867898674357543575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  6
+N  C  7
+S NT  8
+S  S  9
+S  H  8
+S  D  6
+S  C  7
+E NT  4
+E  S  3
+E  H  5
+E  D  7
+E  C  5
+W NT  4
+W  S  3
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,11,9,92,46,98,26,42,44,48,26,207,47,27,21,51,201,23,43,34,33,53,18,1443,29,19,22,51,40,16,8,118,287,8,22,22,20,18,7,109,15,32,14,46,7,15,20,27,27,13,7,32,9,21,9,44,15
+[Auction "S"]
+Pass 1D 1H Pass 
+1S Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+C9 C6 CJ CT 
+D6 DK D3 D4 
+ST S3 S6 SA 
+HA H3 H8 H9 
+DT C7 D7 DA 
+SQ SK S9 S2 
+H4 HK H6 C4 
+H7 H5 H2 S7 
+DJ S4 D2 D9 
+HQ HT C2 S8 
+D5 -  -  C3 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "23"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K543.KJT53.K.K76 96.862.732.AQJ52 AJ872.9.A94.T843 QT.AQ74.QJT865.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "89867898674357543575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  6
+N  C  7
+S NT  8
+S  S  9
+S  H  8
+S  D  6
+S  C  7
+E NT  4
+E  S  3
+E  H  5
+E  D  7
+E  C  5
+W NT  4
+W  S  3
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,8,10,78,54,131,131,86,79,274,83,196,286,28,21,154,21,55,20,26,17,39,25,89,23,20,38,54,26,21,22,131,85,25,14,31,64,21,28,26
+[Auction "S"]
+Pass 1D X Pass 
+2S Pass Pass Pass 
+[Play "W"]
+C9 C6 CJ C4 
+D8 C7 CA C3 
+ST CK C2 C8 
+D5 DK D2 D4 
+SQ S3 S6 SA 
+D6 S4 S9 SJ 
+HA H3 H2 H9 
+DT -  -  -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "24"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T52.JT6543.J9.83 KQ.872.AKQ5.A654 A9863.K9.T.KJ972 J74.AQ.876432.QT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "2662426624b77b8b77b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  6
+S  H  6
+S  D  2
+S  C  4
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  8
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 7,11,9,96,154,74,137,39,45,192,21,12,16,48,30,12,58,13,7,15,56,29,16,31,9,32,9,18,29,19,78,38,161,16,97,30,24,22,7,11,24,45,49,11,33,18,400,20,11,25,12,6,10,15,4,8,11,10,8,5
+[Auction "W"]
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+DA DT D4 D9 
+H2 H9 HQ H3 
+H7 HK HA H4 
+DQ C2 D6 DJ 
+DK S3 D3 H5 
+H8 S6 D2 HJ 
+C4 CJ CQ C8 
+D5 S8 D8 H6 
+C5 CK CT C3 
+CA C9 D7 S2 
+SK SA S4 S5 
+C6 C7 S7 ST 
+SQ S9 SJ HT 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "24"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T52.JT6543.J9.83 KQ.872.AKQ5.A654 A9863.K9.T.KJ972 J74.AQ.876432.QT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "2662426624b77b8b77b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  2
+N  C  4
+S NT  2
+S  S  6
+S  H  6
+S  D  2
+S  C  4
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  8
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,8,10,100,52,150,380,574,361,129,59,43,50,126,528,40,29,16,19,20,31,10,55,4,11,14,22,5,121,33,51,3,31,11,30,8,21,34,61,21,21,19,63,10,20,70,19,10,17,19,19,7,27,27,23,48,4,35,13,6,10,15,4,10,4
+[Auction "W"]
+Pass Pass 1D 2D =1= 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: Cs and Ss"]
+[Play "S"]
+C2 CQ C8 C4 
+DT D2 D9 DA 
+S3 D3 DJ DK 
+S6 D4 HJ DQ 
+C7 D8 C3 D5 
+S8 D7 H4 C5 
+C9 D6 S5 H2 
+CJ CT H3 CA 
+H9 HA H5 H7 
+SA S4 S2 SK 
+CK S7 H6 C6 
+HK HQ HT H8 
+S9 SJ ST SQ 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "25"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:84.K864.AQ654.A8 Q7632.75.2.KJT52 K95.Q92.K987.764 AJT.AJT3.JT3.Q93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "53783537836a65a6a65a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  8
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S 10
+E  H  6
+E  D  5
+E  C 10
+W NT  6
+W  S 10
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 10,11,9,76,52,127,42,160,132,72,195,71,31,65,69,44,87,10,171,28,49,10,15,29,8,40,59,39,10,33,10,25,14,19,22,17,13,16,71,245,25,8,10,22,8,52,54,60,7,20,11,29,8,21,7,21,4,12,12,20,9,14,8,6,9,14
+[Auction "N"]
+1D Pass 1NT Pass 
+Pass 2C 2D 3C 
+Pass Pass Pass 
+[Play "S"]
+D7 DJ DA D2 
+D8 D3 D4 C2 
+S5 ST S4 S2 
+C4 C3 C8 CT 
+S9 SJ S8 S3 
+C6 C9 CA C5 
+DK DT D5 CJ 
+SK SA H4 S6 
+C7 CQ H6 CK 
+D9 H3 D6 SQ 
+H2 HT DQ S7 
+H9 HA H8 H5 
+HQ HJ HK H7 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "25"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:84.K864.AQ654.A8 Q7632.75.2.KJT52 K95.Q92.K987.764 AJT.AJT3.JT3.Q93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "53783537836a65a6a65a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  8
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S 10
+E  H  6
+E  D  5
+E  C 10
+W NT  6
+W  S 10
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,8,10,158,214,109,159,786,30,42,28,465,48,11,773,53,55,25,28,22,26,20,301,36,44,27,31,20,17,14,136,53,65,19,23,22,10,19,32,29,33,3,18,23,3,10,11,32,3,11,4,18,3,22,4,17,13,25,2,6,7,14
+[Auction "N"]
+1D 1S 3D 4S 
+Pass Pass Pass 
+[Play "S"]
+D7 D3 DA D2 
+D8 DT D4 S2 
+S5 ST S4 S3 
+C7 C3 C8 CK 
+S9 SJ S8 S6 
+SK SA D5 S7 
+C4 CQ CA C2 
+DK DJ D6 SQ 
+C6 C9 H4 CJ 
+D9 H3 H6 CT 
+H2 HT DQ C5 
+H9 HA H8 H5 
+HQ HJ HK H7 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "26"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT98764.A7.5.AQ2 KJ52.T95.A876.85 A3.QJ862.KQT2.T6 .K43.J943.KJ9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "9a9769a9764336643467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  7
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  6
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,11,9,34,83,58,28,23,168,46,70,20,52,29,26,15,33,17,27,19,217,33,19,260,20,45,34,55,24,14,19,27,19,32,15,18,18,27,10,122,40,27,25,19,18,22,13,45,65,22,14,10,15,20,5,11
+[Auction "E"]
+Pass 1H 2C 2S 
+Pass 3D Pass 3S 
+Pass 4S Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+C8 CT CK CA 
+S2 SA C3 S6 
+C5 C6 C4 CQ 
+S5 H2 C7 C2 
+DA D2 D3 D5 
+HT HQ HK HA 
+H5 HJ H3 H7 
+SJ S3 H4 S7 
+SK DT D4 S4 
+H9 -  -  -  
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "26"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT98764.A7.5.AQ2 KJ52.T95.A876.85 A3.QJ862.KQT2.T6 .K43.J943.KJ9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "9a9769a9764336643467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  7
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  6
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 23,8,10,65,94,139,332,47,137,24,153,52,292,44,207,36,73,37,21,121,132,35,619,78,16,15,11,32,59,32,175,33,23,42,29,12,21,29,20,10,11,21,39,37,26,26,20,24,105,14,13,33,10,8
+[Auction "E"]
+Pass 1H 3C 3S 
+Pass 4S Pass 4NT 
+Pass 5D =1= Pass 5S 
+Pass Pass Pass 
+[Note "1: 1 or 4"]
+[Play "E"]
+C8 C6 C9 CQ 
+DA D2 D9 D5 
+C5 CT CJ CA 
+S2 SA C3 S6 
+D6 DK D3 C2 
+D7 DQ D4 H7 
+SJ S3 H3 S8 
+H5 H2 HK HA 
+SK H6 C4 ST 
+*
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "27"]
+[West "Nigel Rawlins#118311"]
+[North "Sam Akayan#537537"]
+[East "Ivan Leung#524083"]
+[South "Sonia Zakrzewski#106926"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:4.QT9873.642.J76 AK952.K5.AKJ9.A3 QJT86.42.Q3.QT98 73.AJ6.T875.K542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "2341323413ba9caaa9ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  1
+N  C  3
+S NT  2
+S  S  3
+S  H  4
+S  D  1
+S  C  3
+E NT 11
+E  S 10
+E  H  9
+E  D 12
+E  C 10
+W NT 10
+W  S 10
+W  H  9
+W  D 12
+W  C 10
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 13,11,9,380,55,60,49,77,780,44,45,48,59,45,73,54,153,15,13,34,7,25,11,19,7,26,30,21,10,15,58,30,9,16,9,16,12,22,315,19,53,10,11,18,7,43,39,11,89,8,9,32,8,23,17,7,9,7,6,15,6,4,16,3,4,9
+[Auction "S"]
+Pass Pass 2H X 
+Pass 2NT =1= Pass 3S 
+Pass Pass Pass 
+[Note "1: lebensohl"]
+[Play "S"]
+H4 H6 H7 HK 
+S6 S3 S4 SA 
+S8 S7 H3 SK 
+D3 D5 D4 DK 
+C8 CK C6 C3 
+DQ DT D2 D9 
+H2 HA HT H5 
+ST D7 D6 DJ 
+C9 C2 CJ CA 
+SJ D8 H8 DA 
+CQ C4 C7 S2 
+SQ C5 H9 S5 
+CT HJ HQ S9 
+
+[Event "01 July Birdsall vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.07.01"]
+[Board "27"]
+[West "Gareth Birdsall#108547"]
+[North "Mike Rawlins#94613"]
+[East "Cecilia Birdsall#524046"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:4.QT9873.642.J76 AK952.K5.AKJ9.A3 QJT86.42.Q3.QT98 73.AJ6.T875.K542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Birdsall team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "2341323413ba9caaa9ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  1
+N  C  3
+S NT  2
+S  S  3
+S  H  4
+S  D  1
+S  C  3
+E NT 11
+E  S 10
+E  H  9
+E  D 12
+E  C 10
+W NT 10
+W  S 10
+W  H  9
+W  D 12
+W  C 10
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,8,10,78,45,606,116,101,66,64,254,67,19,22,55,311,17,15,32,22,17,12,78,24,9,30,14,50,19,24,35,30,15,7,15,45,4,8,23,82,4,20,27,18,3,9,22,26,5,11,11,46,14,16,14,10,12,42,19,16,8,3,15,3,9,6
+[Auction "S"]
+Pass Pass 2H =1= X 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak to int,6+H or 5H/5m"]
+[Play "S"]
+SQ S3 S4 SA 
+D3 D5 D6 DA 
+C8 CK C7 C3 
+DQ DT D2 D9 
+SJ S7 H3 SK 
+H4 D7 D4 DK 
+H2 D8 H7 DJ 
+C9 C2 C6 CA 
+S6 H6 H8 HK 
+S8 HA H9 H5 
+CQ C4 CJ S2 
+CT C5 HT S5 
+ST HJ HQ S9 

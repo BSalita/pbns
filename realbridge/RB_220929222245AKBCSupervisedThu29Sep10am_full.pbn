@@ -1,0 +1,4651 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "1"]
+[West "John Burns#49653"]
+[North "Brenda Mauger#3396"]
+[East "John Mansfield#20208"]
+[South "Di Hurdley#2552"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J875.AKJT5.9.653 T9.Q72.K8543.AQ9 Q6.3.AJT2.KJT874 AK432.9864.Q76.2"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "7666a7666a6557355573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C 10
+E NT  6
+E  S  5
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Pairs"]
+% RBDATA -2,9,7,628,58,61,989
+[Auction "N"]
+Pass Pass Pass Pass 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "1"]
+[West "Mary Robinson#51582"]
+[North "🏀Anne Renwick#51622"]
+[East "Linda Farley#51583"]
+[South "Lucian Gabriel#53801"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J875.AKJT5.9.653 T9.Q72.K8543.AQ9 Q6.3.AJT2.KJT874 AK432.9864.Q76.2"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS -150"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "7666a7666a6557355573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C 10
+E NT  6
+E  S  5
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Pairs"]
+% RBDATA 9,1,5,631,35,242,293,181,81,209,41,31,50,114,86,7,27,50,39,14,22,76,52,10,131,167,90,113,40,49,41,59,29,50,25,48,37,36,21,27,31,29,109,32,127,70,27,43,32,20,25,30,35,9,28,23,33,14,25,40,30,9,22,14,15
+[Auction "N"]
+1H Pass 2C 2S 
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "W"]
+SA S5 S9 S6 
+SK S7 ST SQ 
+DQ D9 D3 D2 
+D6 C3 D4 DT 
+H4 HA H2 H3 
+H6 HK H7 DJ 
+H8 HJ HQ C4 
+D7 C5 D8 DA 
+C2 C6 CQ CT 
+S2 H5 DK C7 
+S3 S8 D5 C8 
+S4 HT CA CJ 
+H9 SJ C9 CK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "1"]
+[West "Paula McTaggart#52641"]
+[North "Jan Ashwell*#43323"]
+[East "Alan Brame#52604"]
+[South "Dawn Dowling#52614"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J875.AKJT5.9.653 T9.Q72.K8543.AQ9 Q6.3.AJT2.KJT874 AK432.9864.Q76.2"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "7666a7666a6557355573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C 10
+E NT  6
+E  S  5
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Pairs"]
+% RBDATA 7,8,6,520,87,173,449,315,42,128,134,52,56,131,137,76,156,82,56,42,31,23,55,57,52,60,40,53,165,19,47,142,83,58,39,103,70,88,7,44,49,7,36,238,57,44,90,23,72,9,41,59,47,19,53,39,30,40,7,49,24,27,6,35,17,18,5
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2D Pass 
+2H Pass Pass Pass 
+[Play "E"]
+ST S6 SK S5 
+S9 SQ SA S7 
+CA C4 C2 C3 
+D5 DA D6 D9 
+D3 D2 D7 H5 
+H7 C7 S2 SJ 
+CQ CK H4 C5 
+HQ DT S4 S8 
+C9 CJ H6 C6 
+D4 DJ S3 HT 
+H2 H3 H8 HA 
+D8 C8 H9 HK 
+DK CT DQ HJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "1"]
+[West "⛵ Pip Duncan#47856"]
+[North "Graham Mellsop#1004"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Colleen Mellsop#1002"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J875.AKJT5.9.653 T9.Q72.K8543.AQ9 Q6.3.AJT2.KJT874 AK432.9864.Q76.2"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "7666a7666a6557355573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C 10
+E NT  6
+E  S  5
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Pairs"]
+% RBDATA 9,3,0,374,151,52,151,49,488,44,478,31,172,124,25,60,188,30,44,15,285,78,31,23,33,146,57,145,105,30,116,131,116,29,15,18,134,36,20,38,59,32,58,22,22,33,90,222,52,40,29,20,14,20,29,47,55,28,12,17,18,20,16,17
+[Auction "N"]
+Pass Pass 1C 1S 
+2H 2NT Pass Pass 
+Pass 
+[Play "S"]
+C8 C2 C3 C9 
+D2 DQ D9 D3 
+H3 H4 HA H2 
+CK H6 C5 CQ 
+DT D6 H5 DK 
+C4 S2 C6 CA 
+S6 S3 SJ ST 
+DJ H8 HK H7 
+SQ H9 HT HQ 
+C7 SA S5 S9 
+CT SK S7 D4 
+DA D7 S8 D5 
+CJ S4 HJ D8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "1"]
+[West "Brenda Hughes#36847"]
+[North "Rosheen Gray#52697"]
+[East "Jackie Humphrey#44754"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J875.AKJT5.9.653 T9.Q72.K8543.AQ9 Q6.3.AJT2.KJT874 AK432.9864.Q76.2"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS 150"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "7666a7666a6557355573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C 10
+S NT  7
+S  S  6
+S  H  6
+S  D  6
+S  C 10
+E NT  6
+E  S  5
+E  H  5
+E  D  7
+E  C  3
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Pairs"]
+% RBDATA 13,4,2,482,103,84,283,51,238,142,222,258,25,36,87,135,17,46,70,142,45,33,138,61,141,30,74,28,26,13,210,33,126,53,55,91,31,101,91,148,22,30,99,174,49,34,58,101,28,35,110,37,64,37,61,24,43,11,65,26,47,12,19,26,19,21
+[Auction "N"]
+Pass Pass 1C 1S 
+2H 2NT 3C 3S 
+Pass Pass Pass 
+[Play "N"]
+HA H2 H3 H4 
+C3 CA C4 C2 
+S5 S9 S6 SK 
+S7 ST SQ SA 
+D9 DK DA D6 
+S8 D3 D2 DQ 
+SJ D4 C7 S2 
+C5 C9 CT S3 
+HK H7 C8 H6 
+H5 HQ CJ H8 
+C6 CQ CK S4 
+HT D5 DT D7 
+HJ D8 DJ H9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "2"]
+[West "John Burns#49653"]
+[North "Brenda Mauger#3396"]
+[East "John Mansfield#20208"]
+[South "Di Hurdley#2552"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.A42.98732.J5 T96.J6.QJ4.QT986 753.KQ973.AT.K74 K842.T85.K65.A32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "5"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "a9ba7a9ba73423534235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  7
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  7
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+% RBDATA 17,9,7,151,82,189,206,96,50,50,65,41,56,134,36,17,219,76,18,109,105,35,27,25,31,19,27,24,79,21,18,43,170,32,36,21,91,24,14,21,128,16,20,49,206,36,10,34,203,32,9,26,75,27,20,29,55,21,20,14,49,15,24,10
+[Auction "E"]
+Pass 1H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+CA C5 C6 C4 
+D5 D2 DJ DA 
+H5 HA H6 H3 
+H8 H2 HJ HQ 
+HT H4 C8 HK 
+S2 SQ S6 S3 
+S4 SA S9 S5 
+SK SJ ST S7 
+DK D3 D4 DT 
+C2 CJ CQ CK 
+C3 D7 C9 H7 
+D6 D8 CT H9 
+S8 D9 DQ C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "2"]
+[West "Mary Robinson#51582"]
+[North "🏀Anne Renwick#51622"]
+[East "Linda Farley#51583"]
+[South "Lucian Gabriel#53801"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.A42.98732.J5 T96.J6.QJ4.QT986 753.KQ973.AT.K74 K842.T85.K65.A32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScorePercentage "NS 37.50 EW 62.50"]
+[DoubleDummyTricks "a9ba7a9ba73423534235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  7
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  7
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+% RBDATA 12,1,5,91,108,67,367,30,210,57,75,40,145,52,10,23,46,73,21,24,55,47,23,19,48,38,21,16,85,39,36,7,100,30,49,39,26,27,24,30,75,93,25,10,61,16,28,40,56,31,12,19,45,39,52,16,36,38,9,16,19,29,25,4
+[Auction "E"]
+Pass 1NT Pass 2NT 
+Pass 3H Pass Pass 
+Pass 
+[Play "W"]
+CA C5 C6 C4 
+DK D2 D4 DA 
+H5 H2 H6 HK 
+H8 H4 HJ HQ 
+HT HA S6 H3 
+C2 CJ CQ C7 
+C3 D3 CT CK 
+S2 SJ S9 S3 
+SK SQ ST S5 
+D5 D7 DJ DT 
+S4 D8 C9 H7 
+S8 D9 C8 H9 
+D6 SA DQ S7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "2"]
+[West "⛵ Pip Duncan#47856"]
+[North "Graham Mellsop#1004"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Colleen Mellsop#1002"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.A42.98732.J5 T96.J6.QJ4.QT986 753.KQ973.AT.K74 K842.T85.K65.A32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScorePercentage "NS 37.50 EW 62.50"]
+[DoubleDummyTricks "a9ba7a9ba73423534235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  7
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  7
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+% RBDATA 7,3,0,97,84,50,125,88,69,37,44,115,48,164,61,32,182,33,22,11,31,28,31,15,53,23,21,118,63,28,22,12,112,55,31,26,53,68,28,10,22,35,11,19,65,39,11,28,99,36,26,23,41,35,34,21,34,35,9,28,21,27,18,15
+[Auction "E"]
+Pass 1H Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "W"]
+S2 SJ S6 S3 
+H5 HA H6 H3 
+H8 H2 HJ HK 
+HT H4 C6 HQ 
+S4 SA S9 S5 
+D5 D2 DJ DA 
+DK D3 D4 DT 
+SK SQ ST S7 
+D6 D7 DQ H7 
+C2 CJ CQ C4 
+CA C5 C8 C7 
+S8 D8 C9 H9 
+C3 D9 CT CK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "2"]
+[West "Paula McTaggart#52641"]
+[North "Jan Ashwell*#43323"]
+[East "Alan Brame#52604"]
+[South "Dawn Dowling#52614"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.A42.98732.J5 T96.J6.QJ4.QT986 753.KQ973.AT.K74 K842.T85.K65.A32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "4"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "a9ba7a9ba73423534235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  7
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  7
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+% RBDATA 17,8,6,145,30,169,167,105,47,102,207,73,42,20,394,142,32,8,120,28,26,14,28,14,7,26,52,19,7,45,65,41,7,14,69,23,17,18,34,37,21,7,158,40,11,7,81,30,13,22,111,20,7,20,33,28,8,7,22,12,7,14,13,7,12,13
+[Auction "E"]
+Pass 1H Pass 2NT 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S2 SA ST S3 
+H5 H2 H6 HQ 
+H8 H4 HJ HK 
+HT HA C6 H3 
+D5 D2 D4 DA 
+CA C5 C8 C4 
+DK D3 DJ DT 
+SK SJ S6 S5 
+C3 CJ CQ CK 
+S4 SQ S9 S7 
+D6 D7 DQ H7 
+C2 D8 CT H9 
+S8 D9 C9 C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "2"]
+[West "Brenda Hughes#36847"]
+[North "Rosheen Gray#52697"]
+[East "Jackie Humphrey#44754"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.A42.98732.J5 T96.J6.QJ4.QT986 753.KQ973.AT.K74 K842.T85.K65.A32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "3"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "a9ba7a9ba73423534235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  7
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  7
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+% RBDATA 17,4,2,118,105,70,83,68,52,42,51,85,16,40,95,173,26,31,83,26,37,40,48,38,17,10,149,22,18,44,101,56,52,40,44,141,25,9,81,17,20,35,146,62,10,53,44,24,27,31,38,32,21,9,23,74,16,31,26,32,20,6,21,21,13,8
+[Auction "E"]
+Pass 1H Pass 2D 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S2 SA S6 S3 
+H5 H2 H6 HQ 
+H8 HA HJ H3 
+SK SJ S9 S5 
+C2 C5 CQ CK 
+S4 SQ ST S7 
+CA CJ C6 C4 
+S8 H4 C8 C7 
+D5 D2 DQ DA 
+HT D3 C9 HK 
+D6 D7 CT H9 
+C3 D8 D4 H7 
+DK D9 DJ DT 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "3"]
+[West "John Burns#49653"]
+[North "Brenda Mauger#3396"]
+[East "John Mansfield#20208"]
+[South "Di Hurdley#2552"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T53.K9.A85.K7654 AKJ76.83.K6.AT92 Q92.AJ76542.43.J 84.QT.QJT972.Q83"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "95834858344849848498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  8
+N  D  3
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 18,9,7,152,925,91,62,82,84,153,41,40,214,51,22,22,173,146,26,15,27,21,29,10,54,182,15,30,86,31,16,52,15,26,50,46,12,26,11,16,50,25,96,12,155,30,20,26,49,41,12,14,99,24,9,9,44,23,9,10,18,8,10,13,7,8,19,10
+[Auction "S"]
+Pass Pass Pass 1S 
+2H 3D Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+H6 HQ HK H3 
+HA HT H9 H8 
+D3 DQ DA DK 
+D4 DJ D5 D6 
+S2 S4 S3 SA 
+S9 S8 S5 SK 
+SQ D2 ST S6 
+CJ CQ CK CA 
+H2 C3 C4 CT 
+H4 D7 D8 SJ 
+H5 C8 C5 C2 
+H7 D9 C6 C9 
+HJ DT C7 S7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "3"]
+[West "Mary Robinson#51582"]
+[North "🏀Anne Renwick#51622"]
+[East "Linda Farley#51583"]
+[South "Lucian Gabriel#53801"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T53.K9.A85.K7654 AKJ76.83.K6.AT92 Q92.AJ76542.43.J 84.QT.QJT972.Q83"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "95834858344849848498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  8
+N  D  3
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 13,1,5,241,279,63,308,147,25,39,200,56,42,10,100,26,50,12,174,35,25,11,17,33,9,9,12,18,14,13,148,27,23,36,41,51,34,15,25,27,13,35,163,40,38,16,12,19,9,10,10,9,9,10,8,11,8,5,10,6,10,15
+[Auction "S"]
+2H Pass 3H 3S 
+Pass Pass Pass 
+[Play "S"]
+HA HT H9 H3 
+H7 HQ HK H8 
+CJ C3 CK CA 
+S2 S4 S3 SA 
+S9 S8 S5 SK 
+SQ C8 ST S7 
+HJ D2 C4 S6 
+D3 D7 DA DK 
+D4 CQ C5 C2 
+H2 DQ D5 D6 
+H4 DJ D8 C9 
+H5 DT C6 CT 
+H6 D9 C7 SJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "3"]
+[West "⛵ Pip Duncan#47856"]
+[North "Graham Mellsop#1004"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Colleen Mellsop#1002"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T53.K9.A85.K7654 AKJ76.83.K6.AT92 Q92.AJ76542.43.J 84.QT.QJT972.Q83"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "95834858344849848498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  8
+N  D  3
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 12,3,0,259,89,29,113,96,124,34,23,87,34,26,23,25,27,30,26,50,74,14,18,82,31,29,15,74,19,20,12,133,29,89,33,18,31,15,19,42,59,25,18,24,37,21,14,22,24,16,15,33,47,19,8,15,19,15,11
+[Auction "S"]
+3H Pass Pass Pass 
+[Play "W"]
+S8 S3 SA S2 
+S4 S5 SK S9 
+HT ST S6 SQ 
+DQ DA D6 D3 
+HQ HK H3 H2 
+D2 H9 H8 HA 
+C3 CK CA CJ 
+D7 D5 DK D4 
+D9 C4 SJ H4 
+DT C5 S7 H5 
+C8 C6 C2 H6 
+DJ C7 C9 H7 
+CQ D8 CT HJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "3"]
+[West "Brenda Hughes#36847"]
+[North "Rosheen Gray#52697"]
+[East "Jackie Humphrey#44754"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T53.K9.A85.K7654 AKJ76.83.K6.AT92 Q92.AJ76542.43.J 84.QT.QJT972.Q83"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "3"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "95834858344849848498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  8
+N  D  3
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 12,4,2,399,98,108,140,73,186,17,22,160,22,42,31,77,16,38,27,176,63,45,32,59,40,33,20,47,16,35,15,218,43,98,21,40,74,12,10,16,32,16,13,19,69,12,24,19,50,11,22,30,45,17,9,26,32,9,9
+[Auction "S"]
+3H Pass Pass Pass 
+[Play "W"]
+DQ DA D6 D3 
+HT HK H3 H2 
+HQ H9 H8 HA 
+D9 D5 DK D4 
+S8 S3 SA S2 
+S4 S5 SK S9 
+D2 ST S6 SQ 
+D7 C4 C2 HJ 
+C3 C5 C9 H7 
+DT C6 CT H6 
+C8 D8 S7 H5 
+CQ C7 SJ H4 
+DJ CK CA CJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "3"]
+[West "Paula McTaggart#52641"]
+[North "Jan Ashwell*#43323"]
+[East "Alan Brame#52604"]
+[South "Dawn Dowling#52614"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T53.K9.A85.K7654 AKJ76.83.K6.AT92 Q92.AJ76542.43.J 84.QT.QJT972.Q83"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "95834858344849848498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  8
+N  D  3
+N  C  4
+S NT  8
+S  S  5
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 13,8,6,481,86,59,887,49,20,46,178,89,218,61,202,33,35,51,154,188,52,35,114,37,49,15,86,16,25,14,194,152,52,47,163,69,14,22,88,42,54,26,28,33,13,18,37,27,31,15,24,20,12,22,11,9,12,25,23,7,12,19
+[Auction "S"]
+3H Pass Pass 3S 
+Pass Pass Pass 
+[Play "S"]
+D4 D2 D8 DK 
+CJ CQ CK C2 
+SQ S4 S3 SJ 
+H6 HT HK H3 
+HA HQ H9 H8 
+H2 S8 ST SK 
+S2 C3 C4 CA 
+H5 C8 S5 S6 
+S9 D7 C5 SA 
+D3 D9 C6 CT 
+H4 DT C7 C9 
+H7 DJ D5 S7 
+HJ DQ DA D6 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "4"]
+[West "Dawn Dowling#52614"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jan Ashwell*#43323"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T52.AJ65.Q85.Q93 8.9432.K73.AK852 KQ9764.Q7.J642.6 AJ3.KT8.AT9.JT74"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "3736237462a697aa697b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  2
+E NT 10
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT 10
+W  S  6
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Pairs"]
+% RBDATA 4,0,8,229,78,99,130,74,189,24,22,170,65,13,36,89,29,27,12,96,235,13,26,26,51,16,44,75,38,21,21,23,19,7,17,53,27,7,9,116,24,18,16,21,28,9,7,18,15,31,7,16,41,13,14,16,7,14,9
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+H5 H2 HQ HK 
+C3 C2 C6 CT 
+C9 CK S4 C4 
+CQ CA S6 C7 
+S2 C5 S7 CJ 
+D5 DK D2 D9 
+D8 D3 D4 DA 
+S5 S8 S9 SA 
+DQ D7 D6 DT 
+HA H3 H7 H8 
+HJ H4 SQ HT 
+ST H9 SK SJ 
+H6 C8 DJ S3 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "4"]
+[West "Paula McTaggart#52641"]
+[North "Brenda Mauger#3396"]
+[East "Alan Brame#52604"]
+[South "Di Hurdley#2552"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T52.AJ65.Q85.Q93 8.9432.K73.AK852 KQ9764.Q7.J642.6 AJ3.KT8.AT9.JT74"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "3736237462a697aa697b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  2
+E NT 10
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT 10
+W  S  6
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Pairs"]
+% RBDATA 6,9,6,265,31,143,42,200,45,178,38,175,49,29,93,22,22,21,7,157,28,7,36,63,35,6,24,9,73,6,24,109,23,36,11,17,103,16,28,57,29,35,22,65,25,20,12,83,57,16,16,110,37,11,39,9,18,6,8,7,16,11,10
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass Pass Pass 
+[Play "N"]
+HA H2 H7 H8 
+H5 H3 HQ HK 
+S2 S8 S4 SA 
+C3 CK C6 C4 
+C9 CA D4 C7 
+S5 D3 SK S3 
+HJ H4 S6 HT 
+CQ C2 DJ CT 
+ST D7 SQ SJ 
+D5 DK D2 D9 
+H6 H9 D6 DT 
+D8 C5 S7 DA 
+DQ C8 S9 CJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "4"]
+[West "John Burns#49653"]
+[North "Graham Mellsop#1004"]
+[East "John Mansfield#20208"]
+[South "Colleen Mellsop#1002"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T52.AJ65.Q85.Q93 8.9432.K73.AK852 KQ9764.Q7.J642.6 AJ3.KT8.AT9.JT74"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "3"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "3736237462a697aa697b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  2
+E NT 10
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT 10
+W  S  6
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Pairs"]
+% RBDATA 10,3,7,173,44,77,149,85,59,184,72,63,39,234,147,129,40,139,31,18,20,45,53,16,21,119,25,29,27,22,30,18,23,30,33,39,23,94,20,16,36,112,31,22,27,21,21,25,17,73,23,17,40,36,26,14,17,66,25,15,18,25,16,14,11
+[Auction "W"]
+1C Pass 1H 1S 
+2H 2S 3C Pass 
+Pass Pass 
+[Play "N"]
+S2 S8 SQ SA 
+C3 CK C6 C4 
+C9 CA D2 C7 
+D5 DK D4 D9 
+D8 D3 D6 DA 
+S5 C2 S4 S3 
+DQ D7 DJ DT 
+H5 H2 HQ HK 
+ST C5 S6 SJ 
+HJ H3 H7 H8 
+HA H4 S7 HT 
+CQ C8 S9 CT 
+H6 H9 SK CJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "4"]
+[West "Brenda Hughes#36847"]
+[North "🏀Anne Renwick#51622"]
+[East "Jackie Humphrey#44754"]
+[South "Lucian Gabriel#53801"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T52.AJ65.Q85.Q93 8.9432.K73.AK852 KQ9764.Q7.J642.6 AJ3.KT8.AT9.JT74"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "3736237462a697aa697b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  2
+E NT 10
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT 10
+W  S  6
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Pairs"]
+% RBDATA 8,1,2,223,97,221,57,61,158,17,181,194,57,24,187,59,62,31,156,44,24,10,146,88,85,41,48,56,27,9,55,37,26,9,127,47,92,41,130,39,40,10,129,17,40,29,104,13,39,31,71,16,23,45,24,23,9,24,34,20,10,8
+[Auction "W"]
+1NT Pass Pass 2S 
+Pass Pass Pass 
+[Play "W"]
+CJ C3 CA C6 
+C4 C9 CK S4 
+SA S2 S8 SK 
+D9 D5 D7 DJ 
+S3 S5 H2 SQ 
+SJ ST C2 S6 
+H8 H5 H3 HQ 
+HT HJ H4 H7 
+HK HA H9 D2 
+C7 H6 C5 D4 
+CT CQ C8 D6 
+DT D8 DK S7 
+DA DQ D3 S9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "4"]
+[West "Mary Robinson#51582"]
+[North "Rosheen Gray#52697"]
+[East "Linda Farley#51583"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T52.AJ65.Q85.Q93 8.9432.K73.AK852 KQ9764.Q7.J642.6 AJ3.KT8.AT9.JT74"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS 200"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "3736237462a697aa697b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  2
+E NT 10
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT 10
+W  S  6
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Pairs"]
+% RBDATA 15,4,5,266,83,370,376,181,68,115,48,183,266,21,52,96,29,58,31,79,37,47,35,77,58,47,25,69,35,35,19,191,56,39,39,38,32,36,20,131,45,65,50,144,50,38,41,134,51,11,32,79,70,53,35,59,16,36,13,17,38,9,35
+[Auction "W"]
+1C Pass 3C Pass 
+4C Pass Pass Pass 
+[Play "N"]
+D5 DK D2 D9 
+C3 CA C6 C4 
+C9 CK S4 C7 
+S2 S8 SQ SA 
+S5 C2 S6 S3 
+D8 D3 D6 DA 
+ST C5 S7 SJ 
+HA H2 H7 HK 
+CQ C8 D4 CT 
+H5 H3 HQ H8 
+H6 D7 SK CJ 
+DQ H4 DJ DT 
+HJ H9 S9 HT 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "5"]
+[West "Paula McTaggart#52641"]
+[North "Brenda Mauger#3396"]
+[East "Alan Brame#52604"]
+[South "Di Hurdley#2552"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.Q752.KQ8.KT6 K9.KT6.A975.Q753 QT852.J3.J32.A92 643.A984.T64.J84"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "5"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "89777897775466654666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 4,9,6,222,173,112,121,199,134,67,41,141,36,22,8,35,31,21,8,59,43,8,42,166,43,26,44,40,43,26,13,197,18,18,20,27,24,17,20,20,24,12,76,44,29,13,9,25,14,10,11,22,27,7,21,20,17,7,10
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+C3 C2 CJ CK 
+S9 S2 S3 SA 
+SK S5 S4 SJ 
+C5 C9 C4 C6 
+D5 D2 D6 DQ 
+D9 DJ D4 D8 
+H6 SQ S6 S7 
+D7 ST H4 H2 
+HT S8 C8 H5 
+C7 CA H8 CT 
+DA D3 DT DK 
+CQ H3 H9 H7 
+HK HJ HA HQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "5"]
+[West "Dawn Dowling#52614"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jan Ashwell*#43323"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.Q752.KQ8.KT6 K9.KT6.A975.Q753 QT852.J3.J32.A92 643.A984.T64.J84"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "89777897775466654666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 4,0,8,220,100,28,19,231,61,271,55,73,268,35,46,213,92,25,9,50,48,43,54,116,102,15,37,50,54,16,7,17,78,31,6,18,85,13,46,17,49,24,99,131,71,14,56,80,64,24,28,77,23,12,11,30,18,8,11,24,16,6,13
+[Auction "N"]
+1C Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+D5 D2 DT DQ 
+C3 CA C4 C6 
+SK S2 S4 SJ 
+D7 D3 D4 D8 
+S9 S5 S3 SA 
+H6 SQ S6 S7 
+C5 ST H4 H2 
+D9 S8 D6 H5 
+C7 C2 CJ CK 
+HK H3 H8 H7 
+DA DJ C8 DK 
+CQ C9 H9 CT 
+HT HJ HA HQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "5"]
+[West "John Burns#49653"]
+[North "Graham Mellsop#1004"]
+[East "John Mansfield#20208"]
+[South "Colleen Mellsop#1002"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.Q752.KQ8.KT6 K9.KT6.A975.Q753 QT852.J3.J32.A92 643.A984.T64.J84"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "3"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "89777897775466654666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 8,3,7,223,200,137,29,187,49,127,137,36,17,75,47,19,16,113,26,29,37,28,35,17,22,214,57,40,28,67,33,23,12,93,26,35,14,161,153,103,27,229,29,21,29,29,28,16,14,69,82,32,26,12,74,15,19,23,14,19,9
+[Auction "N"]
+1H 2C 2S Pass 
+Pass Pass 
+[Play "W"]
+CJ CK C3 C2 
+C4 C6 C5 CA 
+D4 DK DA D2 
+C8 CT CQ C9 
+DT DQ D5 D3 
+S3 SA S9 S2 
+S4 S7 SK S5 
+D6 H2 C7 SQ 
+S6 SJ H6 S8 
+H4 D8 D9 DJ 
+H8 HQ HK H3 
+H9 H5 D7 ST 
+HA H7 HT HJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "5"]
+[West "Brenda Hughes#36847"]
+[North "🏀Anne Renwick#51622"]
+[East "Jackie Humphrey#44754"]
+[South "Lucian Gabriel#53801"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.Q752.KQ8.KT6 K9.KT6.A975.Q753 QT852.J3.J32.A92 643.A984.T64.J84"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "89777897775466654666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 9,1,2,398,123,66,82,153,49,325,103,161,22,191,129,64,43,62,80,48,33,199,60,39,29,44,32,31,17,18,106,78,12,81,84,26,24,39,25,25,30,178,55,27,35,42,30,103,35,29,34,32,20,85,31,23,41,16,39,29,12,14,27,21,24
+[Auction "N"]
+1H X 1S Pass 
+1NT Pass 2NT Pass 
+Pass Pass 
+[Play "E"]
+C3 C2 CJ CK 
+C7 CA C4 C6 
+SK S2 S3 SJ 
+CQ C9 C8 CT 
+C5 D2 D6 H2 
+D5 DJ D4 D8 
+DA D3 DT DQ 
+D9 S5 H4 DK 
+S9 SQ S4 S7 
+H6 S8 S6 SA 
+HK H3 H8 H5 
+D7 HJ H9 H7 
+HT ST HA HQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "5"]
+[West "Mary Robinson#51582"]
+[North "Rosheen Gray#52697"]
+[East "Linda Farley#51583"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.Q752.KQ8.KT6 K9.KT6.A975.Q753 QT852.J3.J32.A92 643.A984.T64.J84"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "89777897775466654666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 4,4,5,218,146,170,55,479,23,70,38,32,147,80,54,139,61,29,42,13,177,48,15,153,46,10,13,99,38,11,9,72,61,32,37,107,89,88,16,19,48,62,15,161,71,18,14,42,55,14,9,13,22,69,8,15,23,27,8,9,15,20,9
+[Auction "N"]
+1H Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+C3 C2 CJ CK 
+SK S2 S3 S7 
+C5 CA C4 C6 
+S9 SQ S4 SJ 
+D5 S5 S6 SA 
+D9 DJ D4 D8 
+D7 ST H4 H2 
+H6 S8 C8 H5 
+HT H3 HA H7 
+DA D2 DT DQ 
+HK HJ H8 HQ 
+CQ C9 D6 CT 
+C7 D3 H9 DK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "6"]
+[West "Paula McTaggart#52641"]
+[North "Brenda Mauger#3396"]
+[East "Alan Brame#52604"]
+[South "Di Hurdley#2552"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT32.AQ8532..T84 A7654.J76.J972.9 KQ.KT.AKQ4.AQ753 98.94.T8653.KJ62"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "cac8acac9a1314313143"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D  8
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D  9
+S  C 10
+E NT  1
+E  S  3
+E  H  1
+E  D  4
+E  C  3
+W NT  1
+W  S  3
+W  H  1
+W  D  4
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 10,9,6,94,128,60,53,50,58,44,329,116,39,31,143,77,59,44,66,33,30,21,149,38,27,11,232,92,25,35,103,28,21,12,82,65,20,18,158,58,59,28,40,49,27,15,49,26,19,12,41,14,45,24,30,20,38,18,37,37,14,18,19,7,16,8
+[Auction "E"]
+Pass 1C Pass 1H 
+Pass 2D Pass 3C 
+Pass Pass Pass 
+[Play "W"]
+S9 S2 SA SQ 
+S8 S3 S7 SK 
+CJ C4 C9 C3 
+D8 ST D2 DA 
+C2 C8 S6 CA 
+CK CT S5 CQ 
+D6 H2 D9 DK 
+D3 H3 D7 DQ 
+H4 H5 H6 HK 
+H9 HQ H7 HT 
+C6 HA HJ D4 
+DT H8 DJ C5 
+D5 SJ S4 C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "6"]
+[West "Dawn Dowling#52614"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jan Ashwell*#43323"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT32.AQ8532..T84 A7654.J76.J972.9 KQ.KT.AKQ4.AQ753 98.94.T8653.KJ62"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "cac8acac9a1314313143"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D  8
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D  9
+S  C 10
+E NT  1
+E  S  3
+E  H  1
+E  D  4
+E  C  3
+W NT  1
+W  S  3
+W  H  1
+W  D  4
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 15,0,8,118,62,86,299,31,85,16,198,33,199,70,133,32,33,20,83,169,73,64,173,35,16,13,149,42,24,29,10,66,32,36,217,43,72,40,30,35,8,13,32,16,9,21,47,28,38,29,18,42,14,26,137,36,17,14,25,24,15,43,25,22,20,17,32,8,10,39
+[Auction "E"]
+Pass 2C Pass 2D 
+Pass 3C Pass 3H 
+Pass 3NT Pass 4C 
+Pass Pass Pass 
+[Play "W"]
+S8 S2 SA SQ 
+S9 S3 S7 SK 
+H4 HA H6 HK 
+CK C4 C9 CQ 
+CJ C8 S6 CA 
+D3 H2 D2 DA 
+D5 H3 D7 DK 
+DT CT D9 D4 
+C6 ST S4 C3 
+D8 H5 DJ DQ 
+H9 HQ H7 HT 
+C2 H8 HJ C5 
+D6 SJ S5 C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "6"]
+[West "John Burns#49653"]
+[North "Graham Mellsop#1004"]
+[East "John Mansfield#20208"]
+[South "Colleen Mellsop#1002"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT32.AQ8532..T84 A7654.J76.J972.9 KQ.KT.AKQ4.AQ753 98.94.T8653.KJ62"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "cac8acac9a1314313143"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D  8
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D  9
+S  C 10
+E NT  1
+E  S  3
+E  H  1
+E  D  4
+E  C  3
+W NT  1
+W  S  3
+W  H  1
+W  D  4
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 17,3,7,95,198,112,49,30,263,89,34,23,88,358,22,25,136,32,39,15,133,27,61,56,37,18,21,13,33,29,26,40,45,28,36,11,89,14,25,93,29,111,27,17,56,27,14,28,95,38,29,9,28,34,31,15,20,17,14,10,28,11,117,11
+[Auction "E"]
+Pass 2C Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+C9 CA C2 C4 
+H6 HK H4 H2 
+D2 DA D3 C8 
+D7 DK D5 CT 
+D9 D4 D6 H3 
+H7 HT H9 HA 
+HJ C3 S9 HQ 
+SA SK S8 S2 
+DJ DQ D8 S3 
+S4 SQ DT ST 
+S5 C5 CJ H5 
+S6 C7 C6 SJ 
+S7 CQ CK H8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "6"]
+[West "Mary Robinson#51582"]
+[North "Rosheen Gray#52697"]
+[East "Linda Farley#51583"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT32.AQ8532..T84 A7654.J76.J972.9 KQ.KT.AKQ4.AQ753 98.94.T8653.KJ62"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "4"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "cac8acac9a1314313143"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D  8
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D  9
+S  C 10
+E NT  1
+E  S  3
+E  H  1
+E  D  4
+E  C  3
+W NT  1
+W  S  3
+W  H  1
+W  D  4
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 17,4,5,101,609,113,182,94,45,24,29,229,45,12,166,54,81,34,39,30,12,30,251,59,13,5,50,40,16,11,138,81,24,29,14,74,36,16,9,52,35,29,56,35,29,4,95,46,25,4,61,10,16,19,21,9,13,59,20,10,9,17
+[Auction "E"]
+Pass 2NT Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+C9 CA C2 C4 
+H6 HT H4 HQ 
+H7 HK H9 H2 
+D2 DA D3 C8 
+D7 DK D5 CT 
+HJ C3 CJ H3 
+SA SQ S8 S2 
+D9 DQ D6 S3 
+S4 SK S9 ST 
+DJ D4 D8 H5 
+S5 C5 C6 H8 
+S6 C7 CK HA 
+S7 CQ DT SJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "6"]
+[West "Brenda Hughes#36847"]
+[North "🏀Anne Renwick#51622"]
+[East "Jackie Humphrey#44754"]
+[South "Lucian Gabriel#53801"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT32.AQ8532..T84 A7654.J76.J972.9 KQ.KT.AKQ4.AQ753 98.94.T8653.KJ62"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "cac8acac9a1314313143"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D  8
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D  9
+S  C 10
+E NT  1
+E  S  3
+E  H  1
+E  D  4
+E  C  3
+W NT  1
+W  S  3
+W  H  1
+W  D  4
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 14,1,2,113,252,138,231,82,172,131,191,31,130,142,36,61,267,57,50,23,220,20,90,37,140,98,22,56,58,39,25,10,233,68,16,25,63,32,20,32,148,84,31,32,111,37,17,8,78,32,28,10,55,43,26,11,47,42,55,40,23,21,16,13
+[Auction "E"]
+Pass 2C Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+D5 C4 DJ DA 
+H4 HA H6 HT 
+CK CT C9 CQ 
+D3 S2 D9 DQ 
+H9 H2 H7 HK 
+CJ C8 S4 C3 
+S8 S3 SA SQ 
+D6 H3 D7 DK 
+S9 ST S5 SK 
+C2 H5 S6 CA 
+C6 H8 S7 C7 
+D8 HQ D2 C5 
+DT SJ HJ D4 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "7"]
+[West "Lucian Gabriel#53801"]
+[North "John Mansfield#20208"]
+[East "🏀Anne Renwick#51622"]
+[South "John Burns#49653"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ.QT7.AJ93.J842 K987643.K.K.QT96 52.A9543.854.K73 JT.J862.QT762.A5"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[ScorePercentage "NS 62.50 EW 37.50"]
+[DoubleDummyTricks "84877648775956559565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  9
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,7,1,90,118,50,211,49,109,34,88,104,51,52,71,30,30,15,108,42,60,16,56,38,16,22,72,47,26,29,110,49,35,23,26,64,29,16,159,45,23,155,37,20,33,48,51,26,17,14,33,27,10,9,17,18,8,8,16,19,9,8
+[Auction "S"]
+Pass Pass 1NT 2S 
+Pass Pass Pass 
+[Play "S"]
+C3 C5 CJ CQ 
+C7 CA C2 C6 
+S2 ST SA S3 
+S5 SJ SQ S4 
+CK D2 C4 C9 
+D8 D6 DA DK 
+D4 H2 C8 CT 
+D5 H6 D3 S6 
+H3 D7 H7 S7 
+HA H8 HT HK 
+H4 HJ HQ S8 
+H5 DT D9 S9 
+H9 DQ DJ SK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "7"]
+[West "Brenda Hughes#36847"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jackie Humphrey#44754"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ.QT7.AJ93.J842 K987643.K.K.QT96 52.A9543.854.K73 JT.J862.QT762.A5"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "84877648775956559565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  9
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,0,2,183,72,105,240,100,137,40,80,142,79,47,361,37,10,36,51,33,17,24,187,35,37,25,102,62,13,22,80,35,47,21,137,77,18,11,87,33,12,16,131,120,63,24,14,23,12,13,15,16,12,18,20,21,11,35,27,10,9,14
+[Auction "S"]
+Pass Pass 1NT 2S 
+Pass Pass Pass 
+[Play "S"]
+C3 C5 C8 C9 
+C7 CA C2 C6 
+D4 D2 D3 DK 
+CK ST C4 CQ 
+D5 D6 DJ S3 
+H3 H2 CJ CT 
+D8 D7 DA S6 
+S2 SJ SQ S4 
+S5 DT D9 HK 
+HA H6 H7 S7 
+H4 H8 SA SK 
+H5 HJ HQ S9 
+H9 DQ HT S8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "7"]
+[West "Colleen Mellsop#1002"]
+[North "Jan Ashwell*#43323"]
+[East "Graham Mellsop#1004"]
+[South "Dawn Dowling#52614"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ.QT7.AJ93.J842 K987643.K.K.QT96 52.A9543.854.K73 JT.J862.QT762.A5"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "3"]
+[ScorePercentage "NS 62.50 EW 37.50"]
+[DoubleDummyTricks "84877648775956559565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  9
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,8,3,210,44,96,83,328,27,61,234,130,46,39,239,50,33,23,169,26,32,37,59,38,18,36,132,27,30,24,23,44,25,26,38,23,15,13,338,52,22,26,27,14,16,69,28,14,32,117,31,18,19,78,18,16,16,20,18,7,58,14
+[Auction "S"]
+Pass Pass 1NT 2S 
+Pass Pass Pass 
+[Play "S"]
+C7 CA C2 C6 
+S2 ST SQ SK 
+S5 SJ SA S3 
+CK C5 C4 CQ 
+HA H2 H7 HK 
+C3 D2 CJ C9 
+D4 D6 C8 CT 
+D5 H6 D3 S9 
+D8 D7 D9 S6 
+H3 DT DJ S8 
+H4 DQ HT S4 
+H5 H8 HQ S7 
+H9 HJ DA DK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "7"]
+[West "Paula McTaggart#52641"]
+[North "Linda Farley#51583"]
+[East "Alan Brame#52604"]
+[South "Mary Robinson#51582"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ.QT7.AJ93.J842 K987643.K.K.QT96 52.A9543.854.K73 JT.J862.QT762.A5"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "84877648775956559565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  9
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 8,5,6,240,231,33,232,50,843,16,108,88,43,46,170,43,17,24,71,35,72,25,39,59,22,8,111,27,14,28,117,27,12,39,69,51,12,13,116,31,30,17,76,23,19,34,10,26,51,15,22,40,11,11,19,46,17,10,11,18,8,6
+[Auction "S"]
+Pass Pass 1NT 2S 
+Pass Pass Pass 
+[Play "S"]
+H9 H2 H7 HK 
+D4 D2 DA DK 
+H3 H6 HQ S3 
+C7 CA C2 C6 
+D5 DQ D3 C9 
+H4 H8 HT S4 
+CK C5 C4 CQ 
+C3 ST CJ CT 
+S2 SJ SA S6 
+H5 D6 C8 S7 
+S5 D7 SQ SK 
+D8 DT D9 S9 
+HA HJ DJ S8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "7"]
+[West "Di Hurdley#2552"]
+[North "Rosheen Gray#52697"]
+[East "Brenda Mauger#3396"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ.QT7.AJ93.J842 K987643.K.K.QT96 52.A9543.854.K73 JT.J862.QT762.A5"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "84877648775956559565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  4
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  9
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  9
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 18,4,9,173,30,83,71,679,65,340,872,47,24,23,162,118,26,29,304,62,18,36,99,34,53,38,93,44,22,29,212,39,47,27,47,23,39,11,94,17,20,12,151,25,31,24,202,23,26,10,175,24,40,15,16,22,14,35,12,15,8,23,8,19,7,7
+[Auction "S"]
+Pass Pass 1NT 2S 
+3H Pass 4H 4S 
+Pass Pass Pass 
+[Play "S"]
+H3 H2 HQ HK 
+D4 D2 DA DK 
+H4 H6 H7 S3 
+S2 ST SQ S4 
+D5 DQ D3 C6 
+C3 CA C2 C9 
+S5 SJ SA S6 
+CK C5 C4 CQ 
+C7 H8 CJ CT 
+D8 D6 C8 SK 
+H5 HJ D9 S9 
+H9 D7 HT S8 
+HA DT DJ S7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "8"]
+[West "Lucian Gabriel#53801"]
+[North "John Mansfield#20208"]
+[East "🏀Anne Renwick#51622"]
+[South "John Burns#49653"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ.KT873.QJ.KJ96 AT97.A.KT953.AT7 854.Q9654.A42.84 K632.J2.876.Q532"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "63935639356a4986a4a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  5
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  5
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  8
+W NT  6
+W  S 10
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 7,7,1,95,45,333,39,67,58,129,345,200,36,45,107,49,23,13,111,27,20,37,182,83,60,37,40,64,17,86,169,36,50,28,22,55,19,33,173,27,35,8,85,76,41,42,28,30,7,29,23,58,8,16,9,14,8,15,14,18,8,20
+[Auction "W"]
+Pass 1H 2D 2H 
+Pass Pass Pass 
+[Play "E"]
+D3 D2 D8 DJ 
+HA H4 H2 H3 
+CT C4 C2 CJ 
+D5 HQ HJ H7 
+S7 S4 S2 SJ 
+D9 H9 D6 H8 
+SA S5 S3 SQ 
+CA C8 C3 C6 
+S9 S8 SK HT 
+C7 D4 C5 CK 
+ST H5 CQ C9 
+DT DA D7 DQ 
+DK H6 S6 HK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "8"]
+[West "Colleen Mellsop#1002"]
+[North "Jan Ashwell*#43323"]
+[East "Graham Mellsop#1004"]
+[South "Dawn Dowling#52614"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ.KT873.QJ.KJ96 AT97.A.KT953.AT7 854.Q9654.A42.84 K632.J2.876.Q532"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "3"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "63935639356a4986a4a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  5
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  5
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  8
+W NT  6
+W  S 10
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 7,8,3,100,161,142,34,125,48,98,238,139,21,54,161,44,19,12,47,42,43,47,151,39,45,23,89,160,36,48,54,81,36,21,38,26,20,20,132,41,37,23,72,20,35,15,26,60,25,31,29,37,20,14,32,32,32,20,27,17,35,14
+[Auction "W"]
+Pass 1H X 2H 
+Pass Pass Pass 
+[Play "E"]
+SA S4 S2 SQ 
+CA C4 C2 C6 
+D3 D2 D8 DJ 
+HA H4 H2 H3 
+D5 D4 D6 DQ 
+D9 HQ HJ H7 
+DT DA D7 SJ 
+C7 C8 C3 CK 
+CT H5 C5 C9 
+S7 S5 S3 H8 
+S9 H6 CQ CJ 
+ST S8 S6 HT 
+DK H9 SK HK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "8"]
+[West "Paula McTaggart#52641"]
+[North "Linda Farley#51583"]
+[East "Alan Brame#52604"]
+[South "Mary Robinson#51582"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ.KT873.QJ.KJ96 AT97.A.KT953.AT7 854.Q9654.A42.84 K632.J2.876.Q532"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "63935639356a4986a4a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  5
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  5
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  8
+W NT  6
+W  S 10
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 13,5,6,172,77,156,72,61,185,111,53,24,27,97,104,63,10,57,17,9,9,111,114,39,16,189,45,12,10,103,42,9,22,53,30,15,9,135,50,10,19,15,18,39,7,57,216,39,19,185,50,25,27,51,34,211,26,48,15,7,40,17,9,6,21
+[Auction "W"]
+Pass 1H X 2H 
+2S 3H 3S Pass 
+Pass Pass 
+[Play "N"]
+DQ DK DA D6 
+DJ D3 D2 D7 
+C6 CT C4 C2 
+SQ SA S4 S2 
+H3 HA H4 H2 
+C9 CA C8 C3 
+SJ D9 D4 D8 
+CK C7 H5 C5 
+H7 S9 H6 HJ 
+H8 ST S5 S3 
+HT S7 S8 SK 
+CJ D5 H9 CQ 
+HK DT HQ S6 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "8"]
+[West "Brenda Hughes#36847"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jackie Humphrey#44754"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ.KT873.QJ.KJ96 AT97.A.KT953.AT7 854.Q9654.A42.84 K632.J2.876.Q532"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "63935639356a4986a4a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  5
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  5
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  8
+W NT  6
+W  S 10
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 17,0,2,129,179,292,58,69,380,80,102,60,35,267,36,43,95,59,167,61,30,153,29,21,41,103,34,30,11,15,23,23,30,75,64,19,40,73,17,19,49,19,81,37,31,212,37,33,24,18,24,15,11,60,30,20,31,13,22,24,17,21,25,10,9,33,17,10,10
+[Auction "W"]
+Pass 1H 2D 2H 
+Pass 3H Pass 4H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+DT D2 D7 DJ 
+HA H4 H2 HT 
+CA C4 C2 C6 
+C7 C8 CQ CK 
+D3 H5 HJ HK 
+CT S4 C3 CJ 
+D5 S5 C5 C9 
+D9 DA D6 DQ 
+DK D4 D8 H3 
+SA S8 S2 SJ 
+ST H6 S3 SQ 
+S7 H9 S6 H7 
+S9 HQ SK H8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "8"]
+[West "Di Hurdley#2552"]
+[North "Rosheen Gray#52697"]
+[East "Brenda Mauger#3396"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ.KT873.QJ.KJ96 AT97.A.KT953.AT7 854.Q9654.A42.84 K632.J2.876.Q532"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "4"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "63935639356a4986a4a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  5
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  5
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  8
+W NT  6
+W  S 10
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Pairs"]
+% RBDATA 12,4,9,78,126,301,45,80,441,43,30,22,135,205,36,29,103,86,18,29,74,18,14,16,144,25,29,29,20,62,13,13,20,51,26,45,157,55,11,31,90,22,21,24,39,34,11,15,55,52,13,16,14,44,15,16,14,36,6,9,14,15,7,9
+[Auction "W"]
+Pass 1H 2D 2H 
+Pass 3H Pass Pass 
+Pass 
+[Play "E"]
+D3 D2 D8 DJ 
+DK DA D6 DQ 
+D5 D4 D7 H3 
+HA H4 H2 H7 
+CA C4 C2 C6 
+C7 C8 CQ CK 
+S7 H5 HJ HK 
+CT S4 C3 CJ 
+S9 S5 C5 C9 
+SA S8 S2 SJ 
+ST H6 SK SQ 
+D9 H9 S3 H8 
+DT HQ S6 HT 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "9"]
+[West "Lucian Gabriel#53801"]
+[North "John Mansfield#20208"]
+[East "🏀Anne Renwick#51622"]
+[South "John Burns#49653"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T76.T.K.AK987653 J83.K642.JT762.4 AKQ954.J987.Q8.T 2.AQ53.A9543.QJ2"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "8a54a8a54a4389343893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  4
+N  C 10
+S NT  8
+S  S 10
+S  H  5
+S  D  4
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  9
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 20,7,1,578,264,345,72,29,24,191,184,30,22,219,26,29,10,101,74,49,21,19,67,13,34,14,36,10,31,83,117,10,21
+[Auction "N"]
+4C Pass 5C Pass 
+Pass Pass 
+[Play "E"]
+DJ D8 DA DK 
+H2 H7 HA HT 
+D2 DQ D3 S6 
+C4 CT C2 CA 
+D6 H8 CJ CK 
+D7 H9 CQ C9 
+*
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "9"]
+[West "Paula McTaggart#52641"]
+[North "Linda Farley#51583"]
+[East "Alan Brame#52604"]
+[South "Mary Robinson#51582"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T76.T.K.AK987653 J83.K642.JT762.4 AKQ954.J987.Q8.T 2.AQ53.A9543.QJ2"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "5"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "8a54a8a54a4389343893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  4
+N  C 10
+S NT  8
+S  S 10
+S  H  5
+S  D  4
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  9
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 10,5,6,516,89,79,189,124,134,18,21,80,92,20,11,26,33,15,11,41,39,18,17,49,74,13,12,185,12,24,8,320,37,26,9,9,21,7,12,10,10,10,10,16,14,10,10,7,19,4,23,43,44,7,14,10,9,5,6
+[Auction "N"]
+3C Pass Pass Pass 
+[Play "E"]
+H4 HJ HQ HT 
+H2 H7 HA C6 
+C4 CT C2 CA 
+D7 H8 CJ CK 
+S8 H9 CQ C9 
+D2 D8 DA DK 
+D6 DQ D3 S6 
+S3 SA S2 S7 
+SJ SK D4 ST 
+DT SQ D5 C3 
+H6 S4 H3 C8 
+DJ S5 D9 C5 
+HK S9 H5 C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "9"]
+[West "Colleen Mellsop#1002"]
+[North "Jan Ashwell*#43323"]
+[East "Graham Mellsop#1004"]
+[South "Dawn Dowling#52614"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T76.T.K.AK987653 J83.K642.JT762.4 AKQ954.J987.Q8.T 2.AQ53.A9543.QJ2"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "3"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "8a54a8a54a4389343893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  4
+N  C 10
+S NT  8
+S  S 10
+S  H  5
+S  D  4
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  9
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 18,8,3,320,146,99,250,147,33,53,31,77,21,18,26,129,216,16,11,149,34,9,50,20,55,7,28,122,56,41,33,93,101,10,38,81,101,45,8,116,29,55,20,94,26,22,19,66,27,33,12,99,72,12,19,40,44,9,21,23,35,9,15,15,19,10,16
+[Auction "N"]
+1C Pass 1S 2D 
+3C Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+D4 DK D2 D8 
+S2 S6 S3 SQ 
+D3 S7 S8 SK 
+C2 C5 C4 CT 
+D5 ST SJ S4 
+HQ HT H2 H7 
+H3 C3 HK H8 
+HA C6 H4 HJ 
+D9 C7 DT DQ 
+H5 C8 H6 S5 
+CJ C9 D6 S9 
+CQ CK D7 H9 
+DA CA DJ SA 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "9"]
+[West "Brenda Hughes#36847"]
+[North "👸 Elizabeth Gollan#51587"]
+[East "Jackie Humphrey#44754"]
+[South "⛵ Pip Duncan#47856"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T76.T.K.AK987653 J83.K642.JT762.4 AKQ954.J987.Q8.T 2.AQ53.A9543.QJ2"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "8a54a8a54a4389343893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  4
+N  C 10
+S NT  8
+S  S 10
+S  H  5
+S  D  4
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  9
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 20,0,2,353,24,65,96,284,86,27,41,215,127,49,13,142,42,31,23,87,38,30,35,46,23,23,30,72,41,79,42,94,69,52,26,150,47,10,16,82,90,14,30,10,29,10,9,14,24,15,10
+[Auction "N"]
+1C Pass 1S Pass 
+5C Pass Pass Pass 
+[Play "E"]
+DJ D8 DA DK 
+HK H7 H3 HT 
+H2 H8 HQ C3 
+C4 CT C2 CA 
+D2 H9 CJ CK 
+H4 S4 CQ C9 
+H6 HJ H5 C5 
+S8 SA S2 S6 
+S3 SK D3 S7 
+SJ SQ D4 ST 
+*
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "9"]
+[West "Di Hurdley#2552"]
+[North "Rosheen Gray#52697"]
+[East "Brenda Mauger#3396"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T76.T.K.AK987653 J83.K642.JT762.4 AKQ954.J987.Q8.T 2.AQ53.A9543.QJ2"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "4"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "8a54a8a54a4389343893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  4
+N  C 10
+S NT  8
+S  S 10
+S  H  5
+S  D  4
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  9
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 15,4,9,394,95,719,83,150,177,64,54,291,64,31,15,168,28,18,18,85,28,45,25,175,22,32,13,98,40,14,13,23,32,16,23,37,26,14,17,42,75,20,10,36,30,6,20,38,19,6,31,7,26,7,13,9,9,14,7
+[Auction "N"]
+4C Pass Pass Pass 
+[Play "E"]
+H2 H7 HQ HT 
+H4 H8 HA C3 
+C4 CT C2 CA 
+D2 H9 CJ CK 
+S3 SA S2 S6 
+H6 HJ H3 C5 
+S8 SK CQ S7 
+D6 D8 DA DK 
+D7 DQ D3 ST 
+SJ SQ D4 C6 
+DT S4 D5 C9 
+DJ S5 D9 C8 
+HK S9 H5 C7 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "10"]
+[West "Di Hurdley#2552"]
+[North "Jan Ashwell*#43323"]
+[East "Brenda Mauger#3396"]
+[South "Dawn Dowling#52614"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K765.Q73.K.87532 QT8.982.Q7543.64 932.AKT64.J862.9 AJ4.J5.AT9.AKQJT"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "7"]
+[Score "NS -70"]
+[Table "5"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "55854558548758987589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 0,8,9,85,43,47,55,99,26,111,144,46,87,84,36,23,9,45,21,22,7,139,28,29,6,149,71,38,6,152,30,14,25,90,21,23,14,121,69,6,31,40,28,40,5,32,36,6,25,15,34,13,15,17,33,13,19,24,15,18,13
+[Auction "E"]
+Pass Pass 1C Pass 
+Pass Pass 
+[Play "N"]
+S5 S8 S9 SJ 
+C2 C4 C9 CA 
+C3 C6 S2 CK 
+C5 D3 S3 CQ 
+SK ST D2 S4 
+S6 SQ D6 SA 
+DK D4 D8 D9 
+S7 D5 H4 CT 
+C7 D7 DJ DA 
+H3 H2 HK H5 
+H7 H8 HA HJ 
+HQ H9 HT CJ 
+C8 DQ H6 DT 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "10"]
+[West "⛵ Pip Duncan#47856"]
+[North "🏀Anne Renwick#51622"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Lucian Gabriel#53801"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K765.Q73.K.87532 QT8.982.Q7543.64 932.AKT64.J862.9 AJ4.J5.AT9.AKQJT"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "12"]
+[Score "NS -170"]
+[Table "1"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "55854558548758987589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 0,1,0,196,31,245,122,270,88,169,93,14,25,52,44,25,19,12,29,14,27,67,63,41,39,140,40,17,22,23,28,10,34,15,38,18,8,30,85,17,28,68,50,11,12,76,27,8,11,14,13,14,12,15,36,18,13,12,18,10,8
+[Auction "E"]
+Pass Pass 1C Pass 
+Pass Pass 
+[Play "N"]
+DK D3 D2 DA 
+C2 C4 C9 CA 
+C3 C6 S2 CK 
+C5 D4 D6 D9 
+SK S8 S3 SA 
+C7 H2 S9 CQ 
+C8 H8 D8 CJ 
+S5 H9 DJ CT 
+H3 D5 H4 DT 
+S6 ST H6 SJ 
+S7 SQ HT S4 
+H7 DQ HK H5 
+HQ D7 HA HJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "10"]
+[West "Colleen Mellsop#1002"]
+[North "Linda Farley#51583"]
+[East "Graham Mellsop#1004"]
+[South "Mary Robinson#51582"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K765.Q73.K.87532 QT8.982.Q7543.64 932.AKT64.J862.9 AJ4.J5.AT9.AKQJT"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "3"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "55854558548758987589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 9,5,3,114,87,130,90,18,26,115,125,43,39,135,43,31,39,19,41,249,31,86,30,28,23,25,14,50,47,30,21,27,59,56,43,20,28,23,23,35,25,60,42,46,20,67,14,21,63,9,47,49,19,44,22,8,20,29,16,8,16
+[Auction "E"]
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+C2 C4 C9 CT 
+DK D3 D2 D9 
+C7 C6 S2 CJ 
+C3 H2 S3 CA 
+C5 S8 S9 CK 
+C8 D4 H4 CQ 
+S5 D5 D6 DA 
+S6 DQ D8 DT 
+S7 ST H6 SA 
+SK SQ HT S4 
+H3 H8 HK H5 
+H7 H9 HA HJ 
+HQ D7 DJ SJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "10"]
+[West "John Burns#49653"]
+[North "Jackie Humphrey#44754"]
+[East "John Mansfield#20208"]
+[South "Brenda Hughes#36847"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K765.Q73.K.87532 QT8.982.Q7543.64 932.AKT64.J862.9 AJ4.J5.AT9.AKQJT"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "55854558548758987589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 14,2,7,106,51,255,88,49,71,500,85,26,28,99,217,55,23,1115,45,23,41,11,128,35,23,32,31,16,11,64,27,85,19,114,13,17,99,54,12,55,42,157,27,14,30,41,22,15,38,24,106,14,26,16,14,14,18,24,15,11,11,21,17,11,14
+[Auction "E"]
+Pass Pass 2C =1= Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+C8 C4 C9 CT 
+SK S8 S3 S4 
+S5 SQ S9 SJ 
+DK DQ D2 D9 
+C2 C6 H4 CJ 
+C3 H2 S2 CA 
+C5 D3 H6 CK 
+S6 ST HT SA 
+C7 D4 D6 CQ 
+S7 D5 D8 DA 
+H3 D7 DJ DT 
+H7 H8 HK H5 
+HQ H9 HA HJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "10"]
+[West "Paula McTaggart#52641"]
+[North "Rosheen Gray#52697"]
+[East "Alan Brame#52604"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K765.Q73.K.87532 QT8.982.Q7543.64 932.AKT64.J862.9 AJ4.J5.AT9.AKQJT"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "55854558548758987589"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  5
+S  H  8
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  5
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 9,4,6,147,87,285,178,1544,45,73,69,13,16,1067,46,9,32,216,28,20,22,89,35,28,14,33,22,32,7,35,43,14,12,36,43,19,40,157,27,13,71,18,23,7,21,19,23,9,21,10,18,14,19,14,18,6,9,13,10,7,9
+[Auction "E"]
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+C2 C4 C9 CJ 
+C3 C6 D2 CQ 
+DK D3 D6 D9 
+H3 H2 HK H5 
+H7 H8 HA HJ 
+HQ H9 HT S4 
+S5 SQ S2 SJ 
+C5 DQ D8 DT 
+C7 D4 DJ DA 
+S6 S8 S3 SA 
+C8 ST S9 CA 
+S7 D5 H4 CK 
+SK D7 H6 CT 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "11"]
+[West "Colleen Mellsop#1002"]
+[North "Linda Farley#51583"]
+[East "Graham Mellsop#1004"]
+[South "Mary Robinson#51582"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8652.765.73.T763 AT974.A4.T85.J92 KQJ3.K.AQJ64.Q85 .QJT9832.K92.AK4"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "13"]
+[Score "NS -260"]
+[Table "3"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "2525525255b7b87b7b87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  2
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT 11
+E  S  7
+E  H 11
+E  D  8
+E  C  7
+W NT 11
+W  S  7
+W  H 11
+W  D  8
+W  C  7
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 12,5,3,219,75,20,101,64,142,39,24,35,72,73,71,27,111,29,27,39,60,60,41,7,33,30,61,22,35,23,26,31,43,20,20,22,21,15,20,64,84,51,19,10,42,43,26,4,52,31,36,33,60,12,27,33,43,13,35,23,39,14,20,20
+[Auction "S"]
+1D 1H Pass Pass 
+2S 3H Pass Pass 
+Pass 
+[Play "N"]
+D3 D5 DJ DK 
+H5 HA HK H2 
+H6 H4 C5 HQ 
+H7 S4 C8 HJ 
+C3 C2 CQ CA 
+C6 C9 D4 CK 
+C7 CJ D6 C4 
+S2 SA S3 D2 
+S5 S7 SK H3 
+S6 S9 SJ H8 
+S8 D8 DQ H9 
+D7 DT DA HT 
+CT ST SQ D9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "11"]
+[West "Di Hurdley#2552"]
+[North "Jan Ashwell*#43323"]
+[East "Brenda Mauger#3396"]
+[South "Dawn Dowling#52614"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8652.765.73.T763 AT974.A4.T85.J92 KQJ3.K.AQJ64.Q85 .QJT9832.K92.AK4"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "5"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "2525525255b7b87b7b87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  2
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT 11
+E  S  7
+E  H 11
+E  D  8
+E  C  7
+W NT 11
+W  S  7
+W  H 11
+W  D  8
+W  C  7
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 12,8,9,246,47,22,531,33,166,25,27,59,54,92,19,21,113,47,23,21,74,33,36,9,32,38,97,32,141,98,72,32,54,59,20,15,142,49,19,18,24,30,29,6,83,27,17,43,54,34,14,7,21,18,13,6,25,14,12,7,14,16,10,5
+[Auction "S"]
+1D 1H Pass 2H 
+2NT 3H Pass Pass 
+Pass 
+[Play "N"]
+D7 D5 DA D2 
+D3 D8 DJ DK 
+H5 H4 HK HQ 
+C6 DT DQ D9 
+S2 SA SJ C4 
+H6 HA C5 H2 
+C3 C2 CQ CK 
+H7 S4 C8 HJ 
+C7 C9 S3 CA 
+S8 S7 D4 HT 
+S6 S9 D6 H9 
+S5 ST SQ H8 
+CT CJ SK H3 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "11"]
+[West "⛵ Pip Duncan#47856"]
+[North "🏀Anne Renwick#51622"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Lucian Gabriel#53801"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8652.765.73.T763 AT974.A4.T85.J92 KQJ3.K.AQJ64.Q85 .QJT9832.K92.AK4"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "2525525255b7b87b7b87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  2
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT 11
+E  S  7
+E  H 11
+E  D  8
+E  C  7
+W NT 11
+W  S  7
+W  H 11
+W  D  8
+W  C  7
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 12,1,0,210,190,88,80,78,40,48,139,28,262,39,244,137,23,17,72,49,31,10,41,40,25,34,132,88,14,12,16,37,31,112,135,24,24,26,55,27,21,22,26,23,12,20,23,73,43,28,110,32,12,13,71,34,12,40,29,13,37,13,16,9,24,9
+[Auction "S"]
+1D 1H Pass Pass 
+1S 2H Pass 3H 
+Pass Pass Pass 
+[Play "N"]
+S2 SA S3 C4 
+S5 S4 SK H2 
+H5 H4 HK H8 
+S6 S7 SQ H9 
+H6 HA D4 H3 
+S8 S9 SJ HT 
+C3 C2 C5 CA 
+C6 C9 C8 CK 
+D3 DT DJ D2 
+C7 CJ CQ HJ 
+D7 D5 DQ D9 
+CT D8 DA DK 
+H7 ST D6 HQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "11"]
+[West "Paula McTaggart#52641"]
+[North "Rosheen Gray#52697"]
+[East "Alan Brame#52604"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8652.765.73.T763 AT974.A4.T85.J92 KQJ3.K.AQJ64.Q85 .QJT9832.K92.AK4"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "4"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "2525525255b7b87b7b87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  2
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT 11
+E  S  7
+E  H 11
+E  D  8
+E  C  7
+W NT 11
+W  S  7
+W  H 11
+W  D  8
+W  C  7
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 7,4,6,339,176,167,356,49,99,90,41,34,31,18,21,8,28,41,18,13,15,38,7,23,32,26,5,15,39,32,6,8,8,16,7,9,62,71,8,28,73,35,38,6,12,29,6,14,179,16,5,11,5,25,5,10,5,8,8,8
+[Auction "S"]
+1D 2H Pass Pass 
+Pass 
+[Play "N"]
+D3 D5 DA D2 
+D7 D8 D4 DK 
+H5 HA HK H2 
+H6 H4 C5 HQ 
+H7 S4 S3 HJ 
+C3 C2 C8 CA 
+C6 C9 CQ CK 
+S2 DT DJ D9 
+S5 S7 DQ H3 
+C7 CJ D6 C4 
+S6 SA SJ H8 
+S8 S9 SQ HT 
+CT ST SK H9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "11"]
+[West "John Burns#49653"]
+[North "Jackie Humphrey#44754"]
+[East "John Mansfield#20208"]
+[South "Brenda Hughes#36847"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8652.765.73.T763 AT974.A4.T85.J92 KQJ3.K.AQJ64.Q85 .QJT9832.K92.AK4"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "2525525255b7b87b7b87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  2
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT 11
+E  S  7
+E  H 11
+E  D  8
+E  C  7
+W NT 11
+W  S  7
+W  H 11
+W  D  8
+W  C  7
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 17,2,7,195,220,33,55,125,122,86,38,38,33,186,46,27,125,101,22,20,106,26,14,27,87,30,119,20,55,115,22,20,323,32,19,59,87,34,15,25,31,31,21,16,14,22,14,56
+[Auction "S"]
+1D 1H Pass 1S 
+2D 4H Pass Pass 
+Pass 
+[Play "N"]
+D7 D5 DA D2 
+D3 D8 DJ DK 
+H5 H4 HK HQ 
+C3 DT DQ D9 
+C6 C2 C5 CK 
+H6 HA D4 H2 
+S6 SA S3 C4 
+S2 S4 SJ HJ 
+H7 S7 D6 HT 
+*
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "12"]
+[West "Di Hurdley#2552"]
+[North "Jan Ashwell*#43323"]
+[East "Brenda Mauger#3396"]
+[South "Dawn Dowling#52614"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T9854.KT5.J5.632 KJ6.J.9642.K9874 Q.Q74.AKT73.AQJT A732.A98632.Q8.5"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "S"]
+[Contract "1D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "5"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "87688876884674546745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 1,8,9,122,80,125,235,65,650,53,190,294,29,47,217,32,12,38,69,35,39,9,27,28,15,9,37,56,16,15,28,87,8,29,47,31,18,8,35,22,20,22,28,30,7,17,22,26,7,24,10,15,9,14,13,12,11,12,8,17,5,8
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass Pass Pass 
+[Play "W"]
+H3 H5 HJ HQ 
+C5 C2 CK CT 
+SA S4 S6 SQ 
+S2 S5 SK H4 
+S3 S8 SJ D3 
+DQ C3 C4 CJ 
+HA HT C7 H7 
+S7 S9 D2 D7 
+D8 DJ D4 DT 
+H2 D5 D6 DK 
+H6 C6 C8 CQ 
+H8 HK C9 CA 
+H9 ST D9 DA 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "12"]
+[West "Colleen Mellsop#1002"]
+[North "Linda Farley#51583"]
+[East "Graham Mellsop#1004"]
+[South "Mary Robinson#51582"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T9854.KT5.J5.632 KJ6.J.9642.K9874 Q.Q74.AKT73.AQJT A732.A98632.Q8.5"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -100"]
+[Table "3"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "87688876884674546745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 6,5,3,272,31,278,68,184,78,43,134,167,33,65,67,128,57,52,95,77,23,38,176,98,37,27,35,43,21,51,43,80,62,81,59,30,38,14,56,39,40,20,34,50,33,42,38,56,22,32,43,32,32,21,36,24,38,21,37,18,28,11
+[Auction "W"]
+1H Pass 1NT 2D 
+Pass Pass Pass 
+[Play "W"]
+HA H5 HJ H4 
+H9 HT D2 H7 
+C5 C2 C4 CA 
+DQ D5 D4 D3 
+SA S4 S6 SQ 
+S7 ST SK D7 
+D8 DJ D6 DT 
+H2 HK D9 HQ 
+S2 C3 CK CT 
+H3 C6 C9 CQ 
+H6 S5 C7 DA 
+S3 S8 C8 DK 
+H8 S9 SJ CJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "12"]
+[West "⛵ Pip Duncan#47856"]
+[North "🏀Anne Renwick#51622"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "Lucian Gabriel#53801"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T9854.KT5.J5.632 KJ6.J.9642.K9874 Q.Q74.AKT73.AQJT A732.A98632.Q8.5"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "87688876884674546745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 5,1,0,246,65,92,41,62,186,37,60,252,267,46,169,104,21,15,185,61,36,56,92,61,53,24,25,39,34,12,37,108,33,80,96,29,18,29,115,116,16,20,71,49,18,10,42,21,20,9,29,17,25,16,99,60,17,11,59,32,63,22,18,23,11,12
+[Auction "W"]
+Pass Pass Pass 1D 
+1H Pass Pass 2C 
+Pass Pass Pass 
+[Play "W"]
+HA H5 HJ H4 
+H3 HT C7 H7 
+SA S4 S6 SQ 
+H2 HK C8 HQ 
+S3 S5 SK CT 
+C5 C2 CK CJ 
+S2 S8 SJ CQ 
+H6 C3 C4 CA 
+D8 D5 D2 DA 
+DQ DJ D4 DK 
+H8 S9 D6 DT 
+H9 ST D9 D7 
+S7 C6 C9 D3 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "12"]
+[West "Paula McTaggart#52641"]
+[North "Rosheen Gray#52697"]
+[East "Alan Brame#52604"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T9854.KT5.J5.632 KJ6.J.9642.K9874 Q.Q74.AKT73.AQJT A732.A98632.Q8.5"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "5"]
+[Score "NS 150"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "87688876884674546745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 7,4,6,247,82,58,82,79,65,205,54,150,81,38,30,55,68,138,27,75,48,49,18,35,22,12,5,109,20,21,23,83,31,25,7,136,76,36,11,75,52,71,19,52,25,59,5,78,61,80,37,58,41,17,14,32,20,11,14,9,14,7,13,8,9,7,12
+[Auction "W"]
+Pass Pass Pass 1D 
+1H Pass 2C 2D 
+2H Pass Pass Pass 
+[Play "N"]
+DJ D2 D3 DQ 
+S4 SJ SQ S2 
+D5 D4 DA D8 
+C2 C4 CA C5 
+H5 D6 DT H2 
+S5 SK H7 S3 
+HT D9 D7 S7 
+S8 S6 HQ SA 
+HK C7 DK H3 
+S9 HJ CT H6 
+C3 CK CJ H8 
+C6 C8 H4 HA 
+ST C9 CQ H9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "12"]
+[West "John Burns#49653"]
+[North "Jackie Humphrey#44754"]
+[East "John Mansfield#20208"]
+[South "Brenda Hughes#36847"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T9854.KT5.J5.632 KJ6.J.9642.K9874 Q.Q74.AKT73.AQJT A732.A98632.Q8.5"]
+[Scoring "MP;MP1"]
+[Round "4"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "87688876884674546745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  8
+S  C  8
+E NT  4
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+% RBDATA 7,2,7,190,22,806,60,70,46,39,72,45,110,40,45,79,74,17,51,38,32,10,14,108,34,17,38,110,51,20,11,127,43,15,34,97,35,84,85,165,29,28,19,374,49,13,35,48,27,56,30,124,55,15,16,30,26,12,24,14,13,11,16
+[Auction "W"]
+1H Pass 1NT 2D 
+2H Pass Pass Pass 
+[Play "N"]
+DJ D2 D3 DQ 
+ST SJ SQ S2 
+D5 D4 DK D8 
+C6 CK CT C5 
+C2 C4 CJ H2 
+S8 SK H4 S3 
+HT D6 DA H3 
+C3 C7 CA H6 
+HK HJ H7 H8 
+S9 S6 HQ S7 
+S4 D9 DT H9 
+H5 C8 D7 HA 
+S5 C9 CQ SA 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "13"]
+[West "Lucian Gabriel#53801"]
+[North "Brenda Mauger#3396"]
+[East "🏀Anne Renwick#51622"]
+[South "Di Hurdley#2552"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:73.976.74.KT8765 JT52.T43.AK3.432 KQ8.AQJ85.Q65.A9 A964.K2.JT982.QJ"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "85959859594848448484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  5
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  8
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 2,9,1,237,86,40,130,37,31,264,108,35,25,48,32,14,18,115,47,63,20,90,55,34,21,49,49,20,9,81,68,29,9,52,55,26,15,80,26,19,15,40,28,35,7,37,13,27,8,64,18,45,10,72,18,20,7,29,27,18,17
+[Auction "N"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "W"]
+D8 D4 DK D5 
+D2 D7 DA D6 
+SA S3 ST SQ 
+DJ C5 D3 DQ 
+H2 H6 H3 HQ 
+HK H7 H4 HA 
+D9 H9 HT HJ 
+S4 S7 S2 SK 
+CJ C6 C2 CA 
+CQ CK C3 C9 
+S6 C7 C4 H5 
+S9 C8 S5 H8 
+DT CT SJ S8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "13"]
+[West "Paula McTaggart#52641"]
+[North "Graham Mellsop#1004"]
+[East "Alan Brame#52604"]
+[South "Colleen Mellsop#1002"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:73.976.74.KT8765 JT52.T43.AK3.432 KQ8.AQJ85.Q65.A9 A964.K2.JT982.QJ"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "85959859594848448484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  5
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  8
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 2,3,6,178,72,69,309,21,47,300,96,15,24,67,9,24,10,96,34,38,36,148,44,27,27,15,35,8,20,74,69,50,27,145,59,27,39,61,37,20,12,48,16,27,10,111,22,22,10,86,19,24,9,25,67,28,11,22,6,21,8
+[Auction "N"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "W"]
+CQ C5 C4 CA 
+CJ CK C2 C9 
+HK H6 H3 HJ 
+DJ D4 DA D5 
+D2 D7 DK D6 
+SA S3 ST SQ 
+H2 H7 HT HA 
+S4 H9 H4 HQ 
+D8 C6 D3 DQ 
+S6 S7 S2 SK 
+D9 C7 C3 H8 
+S9 C8 S5 H5 
+DT CT SJ S8 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "13"]
+[West "Brenda Hughes#36847"]
+[North "Linda Farley#51583"]
+[East "Jackie Humphrey#44754"]
+[South "Mary Robinson#51582"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:73.976.74.KT8765 JT52.T43.AK3.432 KQ8.AQJ85.Q65.A9 A964.K2.JT982.QJ"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "3"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "85959859594848448484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  5
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  8
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 2,5,2,111,47,47,139,23,132,117,199,113,52,102,37,27,29,77,61,30,39,45,47,8,46,90,52,38,10,104,81,11,102,90,36,33,6,109,80,65,17,106,20,39,28,37,41,31,7,74,57,30,9,50,25,26,9,43,7,32,27
+[Auction "N"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "W"]
+D8 D4 DA D5 
+D2 D7 DK D6 
+SA S3 SJ SQ 
+S4 S7 ST SK 
+HK H6 H3 HJ 
+D9 C5 D3 DQ 
+H2 H7 H4 HQ 
+S6 H9 S5 S8 
+CJ C6 C2 CA 
+S9 C7 HT HA 
+CQ C8 S2 H8 
+DT CK C3 C9 
+DJ CT C4 H5 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "13"]
+[West "Dawn Dowling#52614"]
+[North "Rosheen Gray#52697"]
+[East "Jan Ashwell*#43323"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:73.976.74.KT8765 JT52.T43.AK3.432 KQ8.AQJ85.Q65.A9 A964.K2.JT982.QJ"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "85959859594848448484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  5
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  8
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 11,4,8,183,50,82,194,100,81,69,22,33,69,77,121,30,107,151,33,44,61,54,13,7,55,38,29,16,117,31,35,28,36,40,8,16,84,44,6,12,94,40,6,16,143,23,25,12,153,19,25,28,42,36,54,9,56,32,28,24,39,29,25,10,20,11,23,8
+[Auction "N"]
+Pass Pass 1H 2D 
+Pass Pass 2H Pass 
+Pass 3D Pass Pass 
+Pass 
+[Play "N"]
+H9 H3 HA H2 
+C5 C2 CA CJ 
+CK C3 C9 CQ 
+C6 C4 D5 D8 
+D4 DK D6 D9 
+D7 DA DQ D2 
+H6 H4 HJ HK 
+S3 S2 S8 SA 
+S7 SJ SQ S4 
+C7 S5 SK S6 
+H7 HT HQ DT 
+C8 ST H5 S9 
+CT D3 H8 DJ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "13"]
+[West "⛵ Pip Duncan#47856"]
+[North "John Mansfield#20208"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "John Burns#49653"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:73.976.74.KT8765 JT52.T43.AK3.432 KQ8.AQJ85.Q65.A9 A964.K2.JT982.QJ"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "85959859594848448484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  5
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  8
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 2,7,0,182,38,220,136,35,111,44,366,36,30,19,43,17,35,95,25,26,33,23,32,15,13,174,162,36,15,37,25,20,32,370,29,14,10,195,39,33,24,135,67,33,24,45,31,16,11,19,35,17,16,18,24,14,12,12,17,10,10
+[Auction "N"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "W"]
+CQ CK C4 C9 
+HK H6 H3 HJ 
+DJ D4 DA D5 
+D8 D7 DK D6 
+SA S3 S2 SQ 
+S6 S7 ST SK 
+CJ C5 C2 CA 
+S4 H7 S5 S8 
+H2 H9 HT HQ 
+D2 C6 H4 HA 
+D9 C7 C3 H8 
+DT C8 D3 H5 
+S9 CT SJ DQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "14"]
+[West "Lucian Gabriel#53801"]
+[North "Brenda Mauger#3396"]
+[East "🏀Anne Renwick#51622"]
+[South "Di Hurdley#2552"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.T763.K8632.832 72.A954.A54.A964 AT9865.2.J.KJT75 KJ43.KQJ8.QT97.Q"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "3524635246a7b96a7b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  4
+S  C  6
+E NT 10
+E  S  7
+E  H 11
+E  D  9
+E  C  6
+W NT 10
+W  S  7
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 9,9,1,208,46,133,28,228,33,40,164,34,30,91,49,32,24,107,26,27,12,34,19,32,17,32,23,44,16,23,18,39,19,132,33,23,12,90,18,30,13,26,27,48,16,26,24,61,18,34,26,10,14,21,23,11,22,44,10,26,12
+[Auction "E"]
+1NT Pass 2NT Pass 
+Pass Pass 
+[Play "S"]
+S8 SJ SQ S2 
+DJ DQ D3 D4 
+H2 HK H3 H4 
+C5 HQ H6 H5 
+S5 HJ H7 H9 
+CK H8 HT HA 
+C7 CQ C2 C4 
+S6 D7 D2 DA 
+CT D9 C3 CA 
+CJ S3 C8 C9 
+SA S4 D6 S7 
+S9 SK D8 D5 
+ST DT DK C6 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "14"]
+[West "Dawn Dowling#52614"]
+[North "Rosheen Gray#52697"]
+[East "Jan Ashwell*#43323"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.T763.K8632.832 72.A954.A54.A964 AT9865.2.J.KJT75 KJ43.KQJ8.QT97.Q"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "11"]
+[Score "NS -210"]
+[Table "5"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "3524635246a7b96a7b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  4
+S  C  6
+E NT 10
+E  S  7
+E  H 11
+E  D  9
+E  C  6
+W NT 10
+W  S  7
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 9,4,8,124,108,339,102,41,31,173,234,18,77,125,61,27,42,327,22,54,19,36,53,35,54,252,22,35,15,30,21,43,17,31,13,33,16,22,11,49,14,40,42,44,17,82,52,17,60,33,44,15,8,22,28,14,13,30,6,24,10
+[Auction "E"]
+1NT Pass 2NT Pass 
+Pass Pass 
+[Play "S"]
+SA S3 SQ S2 
+CJ CQ C2 C4 
+DJ D7 D2 DA 
+C5 D9 D3 D4 
+H2 H8 H3 HA 
+S5 HJ H6 H4 
+C7 HQ H7 H5 
+S6 HK HT H9 
+S8 DT DK D5 
+CT S4 C8 CA 
+S9 SK D6 S7 
+ST SJ D8 C6 
+CK DQ C3 C9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "14"]
+[West "Brenda Hughes#36847"]
+[North "Linda Farley#51583"]
+[East "Jackie Humphrey#44754"]
+[South "Mary Robinson#51582"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.T763.K8632.832 72.A954.A54.A964 AT9865.2.J.KJT75 KJ43.KQJ8.QT97.Q"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "3"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "3524635246a7b96a7b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  4
+S  C  6
+E NT 10
+E  S  7
+E  H 11
+E  D  9
+E  C  6
+W NT 10
+W  S  7
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 9,5,2,285,101,480,20,43,105,221,78,56,20,320,43,26,43,222,62,14,13,104,213,72,10,56,58,14,11,128,42,11,8,22,38,9,5,24,35,8,8,9,7,10,26,10,6,11,35,111,8,11,57,33,21,11,9,30,16,6,10
+[Auction "E"]
+1NT 2S 2NT Pass 
+Pass Pass 
+[Play "S"]
+CT CQ C2 C4 
+DJ D9 D2 D4 
+S9 SJ SQ S2 
+C7 S3 C3 C6 
+CK D7 C8 CA 
+H2 DT D3 DA 
+S5 H8 H3 HA 
+S6 HK H6 H4 
+S8 HQ H7 H5 
+C5 HJ HT H9 
+ST S4 D6 S7 
+SA SK D8 D5 
+CJ DQ DK C9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "14"]
+[West "⛵ Pip Duncan#47856"]
+[North "John Mansfield#20208"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "John Burns#49653"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.T763.K8632.832 72.A954.A54.A964 AT9865.2.J.KJT75 KJ43.KQJ8.QT97.Q"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "3524635246a7b96a7b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  4
+S  C  6
+E NT 10
+E  S  7
+E  H 11
+E  D  9
+E  C  6
+W NT 10
+W  S  7
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 17,7,0,290,98,276,123,156,33,114,29,24,24,39,100,21,13,77,125,31,26,45,59,18,18,29,18,27,13,39,80,132,15,86,15,22,118,148,24,79,31,164,67,14,73,132,120,18,12,49,19,26,12,193,47,55,12,46,17,27,8,19,9,16,15
+[Auction "E"]
+1NT 2S X Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+SA S3 SQ S2 
+S5 SK HT S7 
+DJ D7 D2 DA 
+H2 H8 H3 HA 
+S9 HJ H6 H4 
+CJ HK H7 H5 
+CK CQ C2 C4 
+S6 SJ D3 D4 
+S8 S4 C3 H9 
+C5 D9 C8 CA 
+C7 DT D6 C9 
+CT HQ D8 C6 
+ST DQ DK D5 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "14"]
+[West "Paula McTaggart#52641"]
+[North "Graham Mellsop#1004"]
+[East "Alan Brame#52604"]
+[South "Colleen Mellsop#1002"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.T763.K8632.832 72.A954.A54.A964 AT9865.2.J.KJT75 KJ43.KQJ8.QT97.Q"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "4"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "3524635246a7b96a7b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  4
+S  C  6
+E NT 10
+E  S  7
+E  H 11
+E  D  9
+E  C  6
+W NT 10
+W  S  7
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 14,3,6,117,216,1376,90,51,27,98,140,16,51,83,40,23,28,44,19,14,76,88,39,34,32,37,22,23,28,18,88,31,25,53,34,18,41,98,67,55,44,95,40,14,111,35,27,49,27,65,49,26,141,22,28,21,12,16,24,15,10
+[Auction "E"]
+1NT 2S 3NT Pass 
+Pass Pass 
+[Play "S"]
+C7 CQ C2 C4 
+H2 HK H3 H4 
+S5 HQ H6 H5 
+C5 HJ H7 H9 
+S6 H8 HT HA 
+S8 SJ SQ S2 
+DJ DQ D2 D4 
+CT DT D3 D5 
+S9 D7 D6 DA 
+CJ D9 C3 CA 
+SA S3 D8 S7 
+CK S4 C8 C6 
+ST SK DK C9 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "15"]
+[West "Lucian Gabriel#53801"]
+[North "Brenda Mauger#3396"]
+[East "🏀Anne Renwick#51622"]
+[South "Di Hurdley#2552"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ3.AKT872.JT 963.K862.J6.KQ98 7.T975.Q43.A7642 QJT8542.A4.95.53"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[ScorePercentage "NS 12.50 EW 87.50"]
+[DoubleDummyTricks "959a7959a74843548435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 13,9,1,154,275,227,131,29,33,179,99,114,29,27,13,37,15,23,65,128,30,40,41,44,23,13,29,85,23,24,107,57,28,24,14,39,15,65,48,27,26,49,149,90,21,57,146,25,24,26,24,20,22,26,26,18,17,20,30,12,15,8
+[Auction "S"]
+Pass 2S 3D 3S 
+Pass Pass Pass 
+[Play "N"]
+DA D6 D3 D5 
+DK DJ D4 D9 
+H3 H2 H9 HA 
+SK S3 S7 SQ 
+HJ HK H5 H4 
+SA S6 C2 SJ 
+HQ H6 H7 S2 
+CT CQ C7 C3 
+D2 S9 C4 S4 
+D7 H8 HT S5 
+CJ CK CA C5 
+D8 C8 C6 S8 
+DT C9 DQ ST 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "15"]
+[West "Brenda Hughes#36847"]
+[North "Linda Farley#51583"]
+[East "Jackie Humphrey#44754"]
+[South "Mary Robinson#51582"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ3.AKT872.JT 963.K862.J6.KQ98 7.T975.Q43.A7642 QJT8542.A4.95.53"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "3"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "959a7959a74843548435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 11,5,2,138,225,105,35,77,29,111,76,89,16,25,43,14,49,11,30,15,9,117,25,15,30,32,34,88,27,12,26,27,26,34,21,20,8,140,30,20,14,199,34,11,9
+[Auction "S"]
+Pass 2S 3D Pass 
+Pass Pass 
+[Play "E"]
+S9 S7 S2 SK 
+D6 DQ D5 D2 
+DJ D3 D9 DK 
+S3 H5 S4 SA 
+C9 CA C5 CT 
+HK H7 H4 HJ 
+CK C2 C3 CJ 
+H8 H9 HA H3 
+S6 D4 S8 HQ 
+*
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "15"]
+[West "Dawn Dowling#52614"]
+[North "Rosheen Gray#52697"]
+[East "Jan Ashwell*#43323"]
+[South "Sallyann Fitzgerald#13447"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ3.AKT872.JT 963.K862.J6.KQ98 7.T975.Q43.A7642 QJT8542.A4.95.53"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "959a7959a74843548435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 18,4,8,162,305,306,119,63,23,67,163,149,15,9,11,35,28,7,15,50,12,7,12,27,15,7,44,22,15,43,83,42,7,14,8,17,17,13,54,24,19,17,79,77,8,14,40,16,32,34,32,14,10,6,17,14,7,10,8,11,8,10
+[Auction "S"]
+Pass 3S X 4S 
+Pass Pass Pass 
+[Play "N"]
+SA S3 S7 S2 
+SK S6 H5 S4 
+DA D6 D3 D5 
+DK DJ D4 D9 
+D2 S9 DQ C3 
+H3 H2 H9 HA 
+HJ HK H7 H4 
+HQ H6 HT S8 
+CT H8 C2 S5 
+CJ CQ CA C5 
+D7 C8 C4 ST 
+D8 C9 C6 SJ 
+DT CK C7 SQ 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "15"]
+[West "⛵ Pip Duncan#47856"]
+[North "John Mansfield#20208"]
+[East "👸 Elizabeth Gollan#51587"]
+[South "John Burns#49653"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ3.AKT872.JT 963.K862.J6.KQ98 7.T975.Q43.A7642 QJT8542.A4.95.53"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[ScorePercentage "NS 87.50 EW 12.50"]
+[DoubleDummyTricks "959a7959a74843548435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 16,7,0,65,274,319,167,212,29,141,244,27,51,42,32,8,10,50,14,31,9,76,76,14,20,151,99,16,18,65,20,101,23,35,17,34,9,109,45,17,43,43,69,15,8,18,14,7,19,10,14,7,15,9,41,8,8,10,16,9,8
+[Auction "S"]
+Pass 3S 4D Pass 
+Pass Pass 
+[Play "E"]
+S3 S7 ST SA 
+D6 D3 D5 DA 
+DJ D4 D9 DK 
+HK H5 H4 HQ 
+CQ CA C5 CJ 
+H2 H7 HA HJ 
+CK C2 C3 CT 
+C9 C4 S4 D2 
+S6 DQ S2 DT 
+H6 HT S5 H3 
+H8 H9 S8 D7 
+S9 C6 SJ D8 
+C8 C7 SQ SK 
+
+[Event "AKBC - Supervised - Thu 29 Sep - 10am"]
+[Site "RealBridge"]
+[Date "2022.09.29"]
+[Board "15"]
+[West "Paula McTaggart#52641"]
+[North "Graham Mellsop#1004"]
+[East "Alan Brame#52604"]
+[South "Colleen Mellsop#1002"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ3.AKT872.JT 963.K862.J6.KQ98 7.T975.Q43.A7642 QJT8542.A4.95.53"]
+[Scoring "MP;MP1"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "4"]
+[ScorePercentage "NS 12.50 EW 87.50"]
+[DoubleDummyTricks "959a7959a74843548435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  9
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  4
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Pairs"]
+% RBDATA 13,3,6,88,350,367,724,22,84,62,36,7,22,17,33,7,22,63,22,10,190,49,30,6,435,32,8,26,85,32,47,27,133,31,14,18,50,86,24,27,103,33,6,18,61,45,19,8,101,28,7,31,8,18,7,33,10,17,6,14
+[Auction "S"]
+Pass 3S Pass Pass 
+Pass 
+[Play "N"]
+DA D6 D3 D5 
+DK DJ D4 D9 
+CT CQ CA C3 
+H3 H2 HT HA 
+HJ HK H5 H4 
+HQ H6 H7 S2 
+SK S3 S7 S4 
+D2 H8 DQ S5 
+SA S9 C2 S8 
+CJ CK C4 C5 
+D7 S6 C6 ST 
+D8 C8 C7 SJ 
+DT C9 H9 SQ 

@@ -1,0 +1,4073 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "1"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.J9742.Q82.Q984 J9.A86.AT97.AK76 KQ7543.QT.K43.53 AT86.K53.J65.JT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "3443324423a98aaa98aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  3
+N  C  3
+S NT  2
+S  S  4
+S  H  4
+S  D  2
+S  C  3
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C 10
+W NT 10
+W  S  9
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,512,87,442,127,136,30,107,145,883,36,15,37,304,29,843,14,40,131,22,44,36,18,14,150,15,18,12,73,27,60,19
+[Auction "N"]
+Pass 1NT =1= 2D =2= 3NT 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 6 major"]
+[Play "S"]
+SQ SA S2 S9 
+SK S6 H7 SJ 
+D3 D5 DQ DA 
+D4 DJ D2 D7 
+DK D6 D8 D9 
+C5 CJ CQ CA 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "1"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.J9742.Q82.Q984 J9.A86.AT97.AK76 KQ7543.QT.K43.53 AT86.K53.J65.JT2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "3443324423a98aaa98aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  3
+N  C  3
+S NT  2
+S  S  4
+S  H  4
+S  D  2
+S  C  3
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C 10
+W NT 10
+W  S  9
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,453,89,66,86,54,165,16,60,48,15,18,382,774,15,26,32,34,133,39,25,77,334,26,110,172,49,4,236,66,168,22,690,16,14,51,310,40,7,40,38,21,20,29,472
+[Auction "N"]
+Pass 1C 1S 1NT 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H4 H6 HQ H5 
+H2 HA HT H3 
+S2 SJ SQ SA 
+CQ CK C5 CT 
+H7 S9 S3 S6 
+DQ D7 D3 DJ 
+H9 H8 S7 HK 
+D2 D9 DK D5 
+-  -  SK -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "2"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT742.AJ.4.AQJ43 AJ6.6542.K9.K876 K9853.QT73.A852. .K98.QJT763.T952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "9c8679c8774155441554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 12
+N  H  8
+N  D  6
+N  C  7
+S NT  9
+S  S 12
+S  H  8
+S  D  7
+S  C  7
+E NT  4
+E  S  1
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  1
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 23,0,3,78,36,78,275,32,262,58,107,19,814,40,1208,28,30,26,49,253,42,38,88,35,48,294,82,65,56,42,157,19,37,54,49,178,32,9,35,32,27,15,27,19,14,32,31,22,15,21,31,22,86,35,46,15,24,19,20,11
+[Auction "E"]
+Pass Pass 3D 3S 
+Pass 4D =1= Pass 4S 
+Pass 5C =2= Pass 5S 
+Pass Pass Pass 
+[Note "1: spade raise"]
+[Note "2: cue"]
+[Play "E"]
+DK DA D7 D4 
+SA S3 D3 SQ 
+D9 D2 DQ S2 
+S6 S9 D6 S4 
+SJ SK C5 S7 
+H5 H3 H8 HJ 
+H2 H7 H9 HA 
+C8 D5 C2 CA 
+C6 D8 C9 CQ 
+C7 S5 CT C3 
+-  HQ HK -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "2"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT742.AJ.4.AQJ43 AJ6.6542.K9.K876 K9853.QT73.A852. .K98.QJT763.T952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "9c8679c8774155441554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 12
+N  H  8
+N  D  6
+N  C  7
+S NT  9
+S  S 12
+S  H  8
+S  D  7
+S  C  7
+E NT  4
+E  S  1
+E  H  5
+E  D  5
+E  C  4
+W NT  4
+W  S  1
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 28,2,1,153,71,245,1036,67,172,140,329,32,178,57,318,25,33,38,159,737,14,31,469,52,18,15,124,135,69,34,127,53,32,19,76,1278,40,36,60,16,30,64,41,75,36,7,126,23,14,12,34,10,19,28,23,7,33,38,10,6
+[Auction "E"]
+1C =1= 1S 2C =2= 4D =3= 
+Pass 4H =4= Pass 4NT 
+Pass 5H =5= Pass 6S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: shows diamonds"]
+[Note "3: spade raise, probably diamond shortage"]
+[Note "4:  * last train [0:08]"]
+[Note "5:  * 2 without [0:09]"]
+[Play "W"]
+DQ D4 D9 DA 
+D6 S2 DK D2 
+C5 C3 CK S3 
+D3 SQ SA S5 
+C9 CJ C6 H3 
+D7 S4 S6 S8 
+C2 S7 SJ SK 
+DT ST H2 D5 
+CT CA C7 HQ 
+H8 CQ C8 H7 
+-  C4 H4 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "3"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T8.KQ5.J964.KT92 AKQ5.A74.K.AQ754 J964.32.AQT72.83 732.JT986.853.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75485643856795867958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  4
+N  D  8
+N  C  5
+S NT  6
+S  S  4
+S  H  3
+S  D  8
+S  C  5
+E NT  6
+E  S  7
+E  H  9
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 9,0,3,48,51,100,218,26,378,70,69,369,38,41,59,18,17,49,346,23,46,12,1135,38,7,11,57,24,738,152,36,262,8,35,85,21,9,17,40,15,8,29,14,7,24,24,24,9,12,30,113
+[Auction "S"]
+Pass Pass Pass 2NT =1= 
+Pass Pass Pass 
+[Note "1:  * 20-22 [0:05]"]
+[Play "S"]
+S4 S2 ST SK 
+C3 CJ CK C5 
+DA D3 D6 DK 
+DQ D5 D4 H4 
+D2 D8 D9 H7 
+DT H6 DJ S5 
+S6 S3 S8 SA 
+C8 C6 C2 CA 
+H2 H8 C9 CQ 
+H3 H9 CT C7 
+-  -  HK -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "3"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T8.KQ5.J964.KT92 AKQ5.A74.K.AQ754 J964.32.AQT72.83 732.JT986.853.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75485643856795867958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  4
+N  D  8
+N  C  5
+S NT  6
+S  S  4
+S  H  3
+S  D  8
+S  C  5
+E NT  6
+E  S  7
+E  H  9
+E  D  5
+E  C  8
+W NT  6
+W  S  7
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,358,137,124,119,59,43,547,119,76,62,25,28,91,99,191,21,31,54,67,28,35,604,206,95,53,156,15,55,29,92,428,14,35,14,29,1523,43,40,9,66,31,35,20,50,37,14,15,96,75,46,16,399,33,14,21,42,170,18,61,14,42,20,20,15,25,17,22,12,9,8,29,8,9,8,20
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+1D Pass 2C =2= X 
+2D Pass Pass X 
+3D Pass Pass X 
+Pass 3H Pass 3S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: good raise"]
+[Play "S"]
+DA D3 D6 DK 
+D7 D5 DJ S5 
+C3 CJ CK C4 
+DT D8 D4 H4 
+H3 H8 HQ HA 
+C8 C6 C2 CA 
+H2 S2 C9 C5 
+S4 S3 S8 SA 
+S9 H6 CT CQ 
+DQ S7 D9 H7 
+D2 H9 HK SQ 
+S6 HT ST SK 
+SJ HJ H5 C7 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "4"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK82.85.K874.KQ2 T97.T943.AQJ.A63 Q63.KQ62.9.J9854 J54.AJ7.T6532.T7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6876a6976a4467344673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  6
+N  C 10
+S NT  6
+S  S  9
+S  H  7
+S  D  6
+S  C 10
+E NT  4
+E  S  4
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,246,66,27,123,39,276,92,399,487,61,27,55,26,30,35,288,52,379,33,18,32,13,57,828,50,23,23,57,32,49,135,86,17,17,32,77,36,16,32
+[Auction "W"]
+Pass 1S Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+ST SQ S4 S2 
+CA C4 C7 CK 
+H3 HK HA H5 
+H4 HQ HJ H8 
+DA D9 D2 DK 
+S7 S3 S5 S8 
+S9 S6 SJ SA 
+C3 C5 CT CQ 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "4"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK82.85.K874.KQ2 T97.T943.AQJ.A63 Q63.KQ62.9.J9854 J54.AJ7.T6532.T7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6876a6976a4467344673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  6
+N  C 10
+S NT  6
+S  S  9
+S  H  7
+S  D  6
+S  C 10
+E NT  4
+E  S  4
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  4
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,59,146,26,393,59,56,46,85,51,57,988,43,14,21,501,31,18,25,359,36,21,16,26,16,16,27,17,50,20,188,20,15,53,38,21,25,103,17,9,21,8,18,83,18,13,31,26,20,12,5,15,10,11
+[Auction "W"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "E"]
+ST S3 S4 SA 
+CA C4 C7 CK 
+S7 SQ S5 S2 
+S9 S6 SJ SK 
+C3 C5 CT CQ 
+C6 CJ DT C2 
+HT C8 D5 D4 
+H3 C9 D2 D7 
+H4 HK HA H5 
+DA D9 D6 DK 
+DQ H2 D3 D8 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "5"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A863.532.AKT.Q54 KQJ5.T74.J4.AK87 T92.AKJ8.6.JT632 74.Q96.Q987532.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "87859878595648456484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  9
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  4
+E  D  8
+E  C  4
+W NT  5
+W  S  6
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,148,62,68,432,81,403,41,34,73,47,35,46,397,99,27,268,395,48,50,24,15,26,42,22,321,32,48,17,32,31,16,16,31,108,24,32,217,28,35,14,284
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+SQ S2 S7 SA 
+C8 CJ C9 C4 
+CK C2 D5 CQ 
+H4 HJ HQ H2 
+SJ S9 S4 S6 
+H7 HA H6 H5 
+D4 D6 D7 DA 
+CA C3 D2 C5 
+SK ST D3 S3 
+DJ -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "5"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A863.532.AKT.Q54 KQJ5.T74.J4.AK87 T92.AKJ8.6.JT632 74.Q96.Q987532.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "87859878595648456484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  9
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  4
+E  D  8
+E  C  4
+W NT  5
+W  S  6
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,2,1,126,88,160,177,344,33,212,102,291,35,148,52,149,845,35,18,23,117,31,29,160,75,26,25,650,85,58,20,24,26,34,18,171,157,49,25,2113,54,37,38,265,104,36,20,17,42,20,20,60,20,10,7,14,21,22,9,12,77,22,28,10,7,12,7
+[Auction "N"]
+1C =1= X XX =2= 2D 
+Pass Pass 2H =3= Pass 
+2NT Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * 9+ [0:17]"]
+[Note "3: x would be \"t/o\" but not shortage"]
+[Play "E"]
+SQ S2 S7 SA 
+C7 CT C9 C4 
+CK C2 D5 CQ 
+H7 HJ HQ H3 
+SJ S9 S4 S3 
+HT HA H6 H2 
+SK ST D3 S6 
+H4 HK H9 H5 
+D4 D6 D9 DA 
+S5 C3 D2 S8 
+CA C6 D7 C5 
+DJ H8 D8 DK 
+C8 CJ DQ DT 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "6"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ86.AQ976.QT.Q2 4.KT8.AJ965.AJT5 JT3.543.8743.K87 A9752.J2.K2.9643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "4572245722986ab986ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  2
+N  C  2
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  2
+E NT  9
+E  S  8
+E  H  6
+E  D 10
+E  C 11
+W NT  9
+W  S  8
+W  H  6
+W  D 10
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 10,0,3,178,26,56,152,49,55,121,42,239,28,60,40,117,233,43,10,85,66,11,12,377,30,15,12,68,15,18,5,109,15,17,21,46,17,16,37,112,404,40,23,235,34,17,16,27,18,9,5,11,16
+[Auction "E"]
+1D Pass 1S 2H 
+Pass Pass X Pass 
+3C Pass Pass Pass 
+[Play "S"]
+H4 H2 HA H8 
+H5 HJ H7 HK 
+D3 DK DT D6 
+D4 D2 DQ DA 
+H3 C3 H9 HT 
+CK C4 C2 CJ 
+D7 S2 CQ D5 
+SJ SA SK S4 
+C7 C9 H6 C5 
+-  C6 S6 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "6"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ86.AQ976.QT.Q2 4.KT8.AJ965.AJT5 JT3.543.8743.K87 A9752.J2.K2.9643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "4572245722986ab986ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  2
+N  C  2
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  2
+E NT  9
+E  S  8
+E  H  6
+E  D 10
+E  C 11
+W NT  9
+W  S  8
+W  H  6
+W  D 10
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 10,2,1,71,84,38,217,36,114,237,36,45,37,17,57,30,113,217,25,55,83,168,18,172,55,22,22,46,17,16,12,36,22,21,8,40,21,14
+[Auction "E"]
+1D Pass 1S 2H 
+Pass Pass X Pass 
+3C Pass Pass Pass 
+[Play "S"]
+H3 H2 HA H8 
+CK C3 C2 C5 
+D8 D2 DQ DA 
+D3 DK DT D5 
+C7 C4 CQ CA 
+C8 C6 -  CJ 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "7"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT5.KJ8.T6.A532 A963.A9643.74.T9 72.Q752.A9532.KQ J84.T.KQJ8.J8764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "87887878874545646456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,117,56,102,277,58,38,100,215,163,74,59,20,540,214,21,20,21,48,15,18,20,212,35,46,1017,32,12,127,156,23,15,23,246,259,25,266,19,98,48,12,264,217,20,34,183,33,20,13,20,22,44,6,35,11,19,4,13
+[Auction "S"]
+Pass Pass 1C Pass 
+1D Pass Pass 1H 
+1NT Pass Pass Pass 
+[Play "W"]
+C6 C2 C9 CK 
+S4 SQ S3 S2 
+HT HK H3 H2 
+DJ DT D7 D2 
+C4 C3 CT CQ 
+C8 HJ HA H5 
+D8 D6 D4 DA 
+C7 H8 H4 HQ 
+CJ C5 H9 H7 
+S8 S5 H6 D3 
+SJ ST SA S7 
+-  -  S6 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "7"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT5.KJ8.T6.A532 A963.A9643.74.T9 72.Q752.A9532.KQ J84.T.KQJ8.J8764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "87887878874545646456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  4
+E  D  5
+E  C  6
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,105,79,129,36,349,84,323,40,215,62,77,32,148,248,20,21,12,35,30,258,52,800,19,28,30,26,56,19,38,74,9,18,96,165,11,24,32,17,7,38,18,57,11,14,10,25,20,70,11,17,32,10
+[Auction "S"]
+Pass Pass 1C =1= 1H 
+X =2= Pass 1S Pass 
+1NT Pass Pass Pass 
+[Note "1:  * 2+ [0:29]"]
+[Note "2:  * not 4 good spades [0:14]"]
+[Play "W"]
+DQ D6 D7 DA 
+HT HK H3 H2 
+C8 H8 HA H5 
+DJ DT D4 D2 
+C4 C2 C9 CQ 
+S4 HJ H4 H7 
+C6 C3 CT CK 
+S8 C5 H6 HQ 
+SJ SK SA S2 
+C7 S5 H9 D3 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "8"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QT5.AKJT42.98.93 9762.87.JT42.842 84.Q953.A65.AKT6 AKJ3.6.KQ73.QJ75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96a6896a683737537375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  6
+N  C  8
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C  8
+E NT  3
+E  S  7
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  7
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,192,319,64,786,117,213,31,98,30,31,24,94,155,78,83,199,35,18,20,48,13,23,162,50,38,13,7
+[Auction "W"]
+1C 2H =1= Pass 2NT =2= 
+Pass 3NT =3= Pass 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Note "2: strong enquiry"]
+[Note "3: maximum, no shortage"]
+[Play "E"]
+C4 CA C7 C9 
+H7 H3 H6 HA 
+H8 HQ D3 H4 
+C8 CK C5 C3 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "8"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QT5.AKJT42.98.93 9762.87.JT42.842 84.Q953.A65.AKT6 AKJ3.6.KQ73.QJ75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96a6896a683737537375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  6
+N  C  8
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C  8
+E NT  3
+E  S  7
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  7
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,296,55,70,138,196,172,34,85,49,47,18,28,199,32,13,19,21,15,12,82,11,16,63,17,56,25,11,30,24,22,15,41,99,20,10,13,10,11,39,10,66
+[Auction "W"]
+1D 1H Pass 2D =1= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1:  * good raise [0:08]"]
+[Play "E"]
+DJ DA D3 D8 
+H7 H3 H6 HA 
+H8 HQ S3 HT 
+S7 S4 SK S5 
+D2 D5 DK D9 
+D4 D6 DQ H2 
+C2 CA C5 C3 
+-  S8 SA -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "9"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q753.J9865.K9.AT T82.Q74.T5432.Q2 KJ4.K2.AQ76.8654 A96.AT3.J8.KJ973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "77876778766445664456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  7
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D  7
+S  C  6
+E NT  6
+E  S  4
+E  H  4
+E  D  5
+E  C  6
+W NT  6
+W  S  4
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,244,42,76,135,147,27,144,81,100,38,204,438,47,15,33,15,88,24,34,22,29,59,216,72,11,10,51,29,12,11,41,19,59,16,57,36,79,11,63,12,79,13
+[Auction "N"]
+Pass Pass 1D =1= X 
+1H Pass 1NT Pass 
+Pass Pass 
+[Note "1:  * 4+ but not 4 low [0:40]"]
+[Play "W"]
+C7 CT CQ C4 
+C9 CA C2 C5 
+S6 S3 S2 SK 
+S9 S5 ST SJ 
+SA S7 S8 S4 
+CK H5 D5 C6 
+CJ H6 D4 C8 
+C3 H8 H4 D6 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "9"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q753.J9865.K9.AT T82.Q74.T5432.Q2 KJ4.K2.AQ76.8654 A96.AT3.J8.KJ973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "77876778766445664456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  7
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D  7
+S  C  6
+E NT  6
+E  S  4
+E  H  4
+E  D  5
+E  C  6
+W NT  6
+W  S  4
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,119,30,222,40,122,45,69,306,446,101,195,363,41,47,19,32,102,40,158,35,41,271,42,42,57,1536,37,21,178,14,21,33,181,80,8,75,44,27,22,10,201,211,24,16,57,33,12,8,395,27,27,8,213,49,9,20,102,45,12,24,25,26,15,12,27,15,12,11,18,13,11,11
+[Auction "N"]
+Pass Pass 1C Pass 
+1H Pass Pass 1NT 
+X =1= XX =2= Pass 2C =3= 
+Pass 2D Pass Pass 
+X =4= Pass Pass Pass 
+[Note "1: penalties"]
+[Note "2:  * Intended to show 1 suit [0:09]"]
+[Note "3: requested"]
+[Note "4: take-out"]
+[Play "S"]
+HK HA H9 H7 
+C8 C3 CT CQ 
+C6 CK CA C2 
+SJ SA S3 S8 
+C5 C7 D9 DT 
+DQ D8 DK D2 
+SK S6 S5 ST 
+S4 S9 SQ S2 
+H2 HT H6 H4 
+DA DJ H5 D3 
+D6 H3 H8 D4 
+D7 C9 HJ D5 
+C4 CJ S7 HQ 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "10"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT6.QJ765.K6.A72 K87532.K.AJ72.Q3 A94.94.9843.JT98 J.AT832.QT5.K654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "55545545457889878898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C  5
+E NT  7
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,83,24,54,94,126,77,300,57,168,23,476,57,19,51,66,100,1382,25,29,27,26,48,23,23,23,29,19,26,22,11,70,28,24,18,45,29,18,23,15,71,21,32,21,21,72,13,21,119,20,12,45,16,13,14,14,20,22,15,15
+[Auction "E"]
+1S Pass 1NT Pass 
+2C =1= Pass 2NT Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: ♢"]
+[Play "S"]
+CJ C4 CA C3 
+H9 H2 H6 HK 
+C8 CK C2 CQ 
+D3 DQ DK DA 
+D4 DT D6 D2 
+H4 HA H5 D7 
+SA SJ SQ SK 
+D9 D5 S6 DJ 
+S9 H3 HQ S5 
+CT C5 C7 S2 
+S4 H8 ST S8 
+-  -  HJ -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "10"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT6.QJ765.K6.A72 K87532.K.AJ72.Q3 A94.94.9843.JT98 J.AT832.QT5.K654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "55545545457889878898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  4
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C  5
+E NT  7
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,80,54,56,71,40,17,33,43,359,376,29,49,605,17,23,9,50,23,33,51,175,31,21,32,20,38,16,10,29,21,267,26,239,31,22,37,46,161,16,23,5,35,70,27,28,123,10,16,11,10,15,9,15,10,14,10,12,4,12,14
+[Auction "E"]
+1S Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "S"]
+CJ C4 C7 CQ 
+H9 H2 H5 HK 
+D3 DQ DK D7 
+D4 DT D6 D2 
+H4 HA H6 C3 
+SA SJ SQ SK 
+D9 D5 S6 DA 
+S9 H3 HQ S5 
+D8 C5 ST DJ 
+C8 H8 HJ S7 
+S4 C6 H7 S8 
+C9 HT C2 S3 
+CT CK CA S2 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "11"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T97.53.T752.KT87 63.A98764.A964.6 J842.J2.QJ8.QJ52 AKQ5.KQT.K3.A943"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0102401024dcdb9dcdb9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  0
+N  D  2
+N  C  4
+S NT  0
+S  S  1
+S  H  0
+S  D  2
+S  C  4
+E NT 13
+E  S 12
+E  H 13
+E  D 11
+E  C  9
+W NT 13
+W  S 12
+W  H 13
+W  D 11
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 27,2,1,479,176,110,392,40,221,42,531,50,569,37,63,23,32,50,57,519,20,44,46,28,13,6,90,20,8,11
+[Auction "S"]
+Pass 2NT =1= Pass 3D =2= 
+Pass 4H Pass 4NT =3= 
+Pass 5C =4= Pass 6H 
+Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2: ♡"]
+[Note "3: kc"]
+[Note "4: 0/3"]
+[Play "N"]
+ST S3 S4 SA 
+H3 H4 H2 HK 
+H5 H6 HJ HQ 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "11"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T97.53.T752.KT87 63.A98764.A964.6 J842.J2.QJ8.QJ52 AKQ5.KQT.K3.A943"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0102401024dcdb9dcdb9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  0
+N  D  2
+N  C  4
+S NT  0
+S  S  1
+S  H  0
+S  D  2
+S  C  4
+E NT 13
+E  S 12
+E  H 13
+E  D 11
+E  C  9
+W NT 13
+W  S 12
+W  H 13
+W  D 11
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 27,0,3,74,156,62,537,23,47,44,37,42,516,50,50,37,1588,56,78,130,35,37,13,14,148,261,11,15,40,27,18,4,430,21,13,4
+[Auction "S"]
+Pass 2NT =1= Pass 3D =2= 
+Pass 3H Pass 4D 
+Pass 4S =3= Pass 5C =4= 
+Pass 6C =5= Pass 6D 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: 20-22 BALANCED"]
+[Note "2:  * ♡ [0:04]"]
+[Note "3: Cue"]
+[Note "4:  * Cue, don't know trumps yet [0:09]"]
+[Note "5: cue; grand interest"]
+[Play "N"]
+ST S3 S2 SA 
+H3 H4 H2 HK 
+H5 H6 HJ HQ 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "12"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J63.AKJ652.AQ63. 87.Q974.872.T875 AQ9542.3.T4.AQJ6 KT.T8.KJ95.K9432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "acaa8ac9a82133521335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S 12
+S  H  9
+S  D 10
+S  C  8
+E NT  2
+E  S  1
+E  H  3
+E  D  3
+E  C  5
+W NT  2
+W  S  1
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,295,50,30,51,143,192,26,729,74,377,23,92,370,38,21,29,59,18,12,60,113,21,31,115,34,9,15
+[Auction "W"]
+Pass 1H Pass 1S 
+X 2D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C3 D3 CT CQ 
+SK S3 S7 S2 
+C2 H2 C7 CJ 
+D5 DQ D2 D4 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "12"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J63.AKJ652.AQ63. 87.Q974.872.T875 AQ9542.3.T4.AQJ6 KT.T8.KJ95.K9432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "acaa8ac9a82133521335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S 12
+S  H  9
+S  D 10
+S  C  8
+E NT  2
+E  S  1
+E  H  3
+E  D  3
+E  C  5
+W NT  2
+W  S  1
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 18,0,3,386,87,37,43,241,345,59,204,41,901,43,38,48,183,524,42,25,195,43,15,31,10,54,11,44,85,364,41,31,91,25,9,58,230,39,12,26,13,31,10,49
+[Auction "W"]
+Pass 1H Pass 1S 
+X 3H Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+C3 D3 CT CQ 
+HT HK H4 H3 
+SK SJ S8 S2 
+DJ DA D2 D4 
+ST S3 S7 SQ 
+C2 S6 C5 C6 
+H8 HA H7 DT 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "13"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q7.J8642.QT32.63 J65..AJ7654.KQ75 T9.K975.K9.T9842 AK8432.AQT3.8.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS -2210"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1052210522cd8bbcd8bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  2
+N  C  2
+S NT  1
+S  S  0
+S  H  5
+S  D  2
+S  C  2
+E NT 12
+E  S 13
+E  H  8
+E  D 11
+E  C 11
+W NT 12
+W  S 13
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 33,2,1,289,43,23,122,128,97,16,325,32,100,43,861,60,140,30,636,59,419,51,22,33,43,406,48,45,134,58,12,10,37,27,13,17,97,34,17,16,10,16,9,15
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 2S Pass 4NT =1= 
+Pass 5D =2= Pass 5NT 
+Pass 6C =3= Pass 6H 
+Pass 7S Pass Pass 
+Pass 
+[Note "1: RKCB"]
+[Note "2: 1 or 4"]
+[Note "3: ♣K or other 2"]
+[Play "N"]
+H2 D4 H9 HT 
+S7 S5 S9 SA 
+SQ S6 ST SK 
+C3 C5 C2 CA 
+C6 C7 C4 CJ 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "13"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q7.J8642.QT32.63 J65..AJ7654.KQ75 T9.K975.K9.T9842 AK8432.AQT3.8.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1052210522cd8bbcd8bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  2
+N  C  2
+S NT  1
+S  S  0
+S  H  5
+S  D  2
+S  C  2
+E NT 12
+E  S 13
+E  H  8
+E  D 11
+E  C 11
+W NT 12
+W  S 13
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 28,0,3,54,46,43,62,41,561,33,547,46,67,19,724,49,50,27,217,45,85,38,434,33,127,39,169,43,50,28,46,36,19,12,228,178,7,35,226,21,13,4,46,20,29,6
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 2S Pass 2NT =1= 
+Pass 3C =2= Pass 3H =3= 
+Pass 3S Pass 4C =4= 
+Pass 4D Pass 4NT =5= 
+Pass 5D =6= Pass 5H =7= 
+Pass 5S =8= Pass 6S 
+Pass Pass Pass 
+[Note "1: art enquiry"]
+[Note "2:  * Natural, only 3S [0:07]"]
+[Note "3: murky"]
+[Note "4: cue"]
+[Note "5: rkcb for S"]
+[Note "6:  * 1 or 4 keys inc. SK [0:18]"]
+[Note "7: SQ ask"]
+[Note "8:  * denies SQ [0:07]"]
+[Play "N"]
+H4 D4 HK HA 
+S7 S5 S9 SA 
+SQ S6 ST SK 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "14"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q72.T96542.984.5 T.83.AKT73.KT842 AJ98643.J.652.63 K5.AKQ7.QJ.AQJ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -990"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "0740007400c69ccc69cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  4
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  4
+S  D  0
+S  C  0
+E NT 12
+E  S  6
+E  H  9
+E  D 12
+E  C 12
+W NT 12
+W  S  6
+W  H  9
+W  D 12
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 29,2,1,58,254,292,771,61,44,634,218,23,39,312,163,125,36
+[Auction "E"]
+1D 3S X 4S 
+5C Pass 6NT Pass 
+Pass Pass 
+[Play "N"]
+S2 ST SA S5 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "14"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q72.T96542.984.5 T.83.AKT73.KT842 AJ98643.J.652.63 K5.AKQ7.QJ.AQJ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "13"]
+[Score "NS -520"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "0740007400c69ccc69cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  4
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  4
+S  D  0
+S  C  0
+E NT 12
+E  S  6
+E  H  9
+E  D 12
+E  C 12
+W NT 12
+W  S  6
+W  H  9
+W  D 12
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 19,0,3,95,63,281,131,55,34,481,44,686,49,214,80,142
+[Auction "E"]
+1D 3S X Pass 
+4C Pass 4NT =1= Pass 
+Pass Pass 
+[Note "1: rkcb for C"]
+[Play "N"]
+SQ ST SJ -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "15"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T984.AK98.Q.K873 KJ5.Q63.T987.AQ9 A3.752.AJ65.J642 Q762.JT4.K432.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76769767686767467674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  7
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,2,1,231,74,171,37,184,77,57,25,170,73,64,43,176,398,48,20,15,32,22,30,334,59,99,25,166,31,36,19,42,20,20,28,22,20,12,17,17,37,14,21,63,24,22,25,43,250,62,37,1141,38,23,38,88,45,18,19,16
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1D Pass 1H Pass 
+3C Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+S5 SA S2 S4 
+SJ S3 S6 ST 
+DT D5 DK DQ 
+H3 H2 H4 HA 
+SK C2 S7 S8 
+D9 DA D2 H8 
+D8 DJ D3 H9 
+H6 H5 HT HK 
+HQ C4 SQ S9 
+CA C6 C5 CK 
+CQ CJ CT C3 
+C9 -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "15"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T984.AK98.Q.K873 KJ5.Q63.T987.AQ9 A3.752.AJ65.J642 Q762.JT4.K432.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76769767686767467674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  7
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,78,108,161,50,207,39,38,29,68,69,134,82,134,542,90,17,501,35,20,44,196,164,18,28,75,27,23,28,52,25,26,46,28,20,23,11,445,40,37,33,1047,30,18,27,42,15,25,33,30,17,17,12,33,93,33,16,25
+[Auction "S"]
+Pass Pass 1C Pass 
+1D Pass 1H Pass 
+3C Pass Pass Pass 
+[Play "E"]
+DT D5 DK DQ 
+H3 H2 HJ HA 
+HQ H5 H4 HK 
+S5 SA S7 S8 
+D9 DA D2 H8 
+D8 DJ D3 H9 
+SJ S3 S2 ST 
+H6 H7 HT C3 
+SK C2 S6 S4 
+D7 D6 D4 C7 
+CQ C4 SQ S9 
+C9 -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "16"]
+[West "Anne Rosen#96384"]
+[North "Paul Barden#420164"]
+[East "Gerald Tredinnick#89225"]
+[South "Jon Cooke#32763"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQJ2.K7.K865.Q74 6543.QJ.A2.K9865 A87.A85432.3.JT2 T9.T96.QJT974.A3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "78857788575447654476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  5
+N  C  7
+S NT  7
+S  S  8
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  4
+E  H  4
+E  D  7
+E  C  6
+W NT  5
+W  S  4
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 17,2,1,195,197,30,47,79,186,35,429,81,96,37,35,94,111,35,328,44,52,17,211,314,37,19,524,40,46,18,17,30,35,15,421,20,50,11
+[Auction "W"]
+Pass 1C =1= Pass 1H 
+Pass 1NT Pass 2C =2= 
+Pass 2D =3= Pass 2H =4= 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * inv or ♢ sign off [0:14]"]
+[Note "3:  * almost forced [0:09]"]
+[Note "4:  * INV [0:13]"]
+[Play "W"]
+DQ D5 D2 D3 
+CA C4 C5 CJ 
+C3 C7 CK C2 
+H6 CQ C6 CT 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "16"]
+[West "Jonathan Mestel#56114"]
+[North "Mike Hampton#429305"]
+[East "Julian Wightwick#39885"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQJ2.K7.K865.Q74 6543.QJ.A2.K9865 A87.A85432.3.JT2 T9.T96.QJT974.A3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "3"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "78857788575447654476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  5
+N  C  7
+S NT  7
+S  S  8
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  4
+E  H  4
+E  D  7
+E  C  6
+W NT  5
+W  S  4
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,0,3,167,56,35,92,36,638,82,289,37,59,315,34,19,19,24,133,29,32,42,44,68,416,51,24,123,66,23,35,15,483,42,15,15,284,520,22,13,16,32,42,10,16,18,27,19,22,31,24,15,14,14,12,11
+[Auction "W"]
+2D =1= Pass Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: Weak in Ds"]
+[Play "E"]
+C6 CJ CA C7 
+CK C2 C3 C4 
+C5 CT DQ CQ 
+HJ H2 HT HK 
+HQ HA H6 H7 
+S6 H8 H9 D5 
+DA D3 DJ DK 
+C8 H3 S9 S2 
+C9 S7 ST SJ 
+D2 H4 D9 D6 
+S3 H5 DT D8 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "17"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q73.KT93.KJ53.65 54.Q72.A762.AK32 KJT986.AJ.T4.T74 A2.8654.Q98.QJ98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "59655596656466864668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  9
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  8
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,3,1,202,115,234,139,281,28,100,51,305,286,52,13,96,37,9,19,612,53,20,51,60,37,18,25,38,35,54,8,28,11,21,22,37,28
+[Auction "N"]
+Pass 1C =1= 2S X 
+3S Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+CQ C5 C3 C7 
+CJ C6 C2 CT 
+H6 HT HQ HA 
+H4 H3 H2 HJ 
+C8 S7 CK C4 
+H5 HK H7 D4 
+-  H9 S4 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "17"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q73.KT93.KJ53.65 54.Q72.A762.AK32 KJT986.AJ.T4.T74 A2.8654.Q98.QJ98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "59655596656466864668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  9
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  8
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,2,135,208,164,115,178,644,45,18,16,212,239,12,764,13,103,5,361,12,899,18,467,27,6,20,6,21,7,19,8,19,74,13,5,20,5,54,8,24,30,25
+[Auction "N"]
+Pass 1C =1= 2S =2= X 
+3S Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: weak"]
+[Play "W"]
+CQ C5 C3 C7 
+CJ C6 C2 CT 
+D8 D3 D2 DT 
+H4 H3 H2 HA 
+H5 HK H7 HJ 
+H6 H9 HQ S8 
+C8 S3 CK C4 
+H8 HT S4 S6 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "18"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:97643.53.J6.7432 J2.AKT876.74.AKQ AQ8.J42.A9852.95 KT5.Q9.KQT3.JT86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2423224232b9baab9baa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  2
+N  D  3
+N  C  2
+S NT  2
+S  S  4
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S  9
+E  H 11
+E  D 10
+E  C 10
+W NT 11
+W  S  9
+W  H 11
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 17,3,1,114,59,276,45,113,328,156,79,51,54,32,82,31,43,179,179,48,22,66,51,22,24,15,20,19,12,21,23,65,43,31,31,10,7,23,35,8,9,15,46,17,8,12
+[Auction "E"]
+1H Pass 1NT =1= Pass 
+2D =2= X 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: wide ranging"]
+[Note "2: transfer"]
+[Play "S"]
+C9 C6 C4 CK 
+H4 HQ H3 H6 
+H2 H9 H5 HA 
+HJ S5 S7 HK 
+C5 C8 C2 CA 
+D2 CT C3 CQ 
+DA D3 D6 D4 
+SA -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "18"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:97643.53.J6.7432 J2.AKT876.74.AKQ AQ8.J42.A9852.95 KT5.Q9.KQT3.JT86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2423224232b9baab9baa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  2
+N  D  3
+N  C  2
+S NT  2
+S  S  4
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S  9
+E  H 11
+E  D 10
+E  C 10
+W NT 11
+W  S  9
+W  H 11
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,2,88,29,43,64,192,39,90,43,17,16,255,167,14,19,176,20,27,21,154,35,20,14,17,4,14,22,7,4,12,27,13,17,16,18,16,20,9,3,10,21,7,4,11,19,8
+[Auction "E"]
+1H Pass 1NT =1= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * <12 [0:08]"]
+[Play "N"]
+S7 S2 SA S5 
+S4 SJ SQ SK 
+C4 CQ C9 C6 
+C3 CK C5 C8 
+C2 CA D2 CT 
+H3 H6 H2 HQ 
+C7 D4 D5 CJ 
+S3 D7 S8 ST 
+H5 HK -  H9 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "19"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q72.73.AKQT2.865 AKJT84.A94.8.742 53.KT865.763.AK3 96.QJ2.J954.QJT9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "84786647855954759547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  7
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  8
+S  C  5
+E NT  5
+E  S  9
+E  H  5
+E  D  4
+E  C  7
+W NT  5
+W  S  9
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,0,2,63,30,53,75,100,30,125,127,34,36,45,60,217,24,19,105,36,100,20,54,31,8,19,1415,23,28,11,32,11,24,13,74,50,16,16,23,18,32,30,90,40,16,18,47,145,52,9,29,44,12,10,10
+[Auction "S"]
+Pass Pass 1D 1S 
+2H Pass Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+CA C9 C5 C2 
+D6 D4 DT D8 
+D7 D5 DK S4 
+S5 S6 S2 SA 
+S3 S9 S7 SK 
+CK CT C6 C4 
+D3 D9 DQ S8 
+C3 CJ C8 C7 
+H5 CQ SQ H4 
+HK H2 H7 H9 
+H6 -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "19"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q72.73.AKQT2.865 AKJT84.A94.8.742 53.KT865.763.AK3 96.QJ2.J954.QJT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "84786647855954759547"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  7
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  8
+S  C  5
+E NT  5
+E  S  9
+E  H  5
+E  D  4
+E  C  7
+W NT  5
+W  S  9
+W  H  5
+W  D  4
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,3,1,121,42,105,41,157,82,140,67,86,76,266,41,52,38,75,127,253,22,868,55,18,29,245,32,13,20,127,23,14,19,63,43,31,11,598,59,27,34,31,38,26,21,46,41,133,24,124,16,32,35,152,19,28,18,40,16,9,10,17,10,16,14,11,11,8,10
+[Auction "S"]
+Pass Pass 1D 1S 
+2H Pass Pass 2S 
+X Pass 3D Pass 
+Pass Pass 
+[Play "E"]
+SK S3 S9 S7 
+C7 CA CQ C5 
+D8 D3 D5 DA 
+S4 D6 D4 DK 
+HA H5 H2 H7 
+C4 CK CJ C6 
+S8 D7 D9 DT 
+H9 H6 DJ DQ 
+H4 HK HJ H3 
+ST HT HQ D2 
+C2 C3 C9 C8 
+SJ S5 CT S2 
+SA H8 S6 SQ 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "20"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.J64.AK94.AQ9874 K63.T985.J63.532 T975.AK73.85.KT6 AQJ842.Q2.QT72.J"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "13"]
+[Score "NS 640"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76b8d76b8d2714027140"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 11
+N  D  8
+N  C 13
+S NT  7
+S  S  6
+S  H 11
+S  D  8
+S  C 13
+E NT  2
+E  S  7
+E  H  1
+E  D  4
+E  C  0
+W NT  2
+W  S  7
+W  H  1
+W  D  4
+W  C  0
+[OptimumScore "NS +1700"]
+[Competition "Teams"]
+% RBDATA 20,0,2,71,62,42,183,168,388,46,231,54,132,28,157,448,105,18,645,53,18,32,106,31,19,10,403,27,18,10,31,18,45,20,27,18,29,13,29,26,16,26,14,83,20,6,26,28,13,36,27,22,15,7,17,20,12,15,8,20,9,8,15,5,14,14
+[Auction "W"]
+1S 2C Pass 2S =1= 
+Pass 3D Pass 5C 
+Pass Pass Pass 
+[Note "1: club raise"]
+[Play "E"]
+SK S5 SA C4 
+D3 D5 D2 DA 
+C3 C6 CJ CA 
+H5 HA H2 H4 
+D6 D8 D7 DK 
+DJ CT DQ D4 
+S3 S7 S8 C7 
+S6 CK DT D9 
+H8 S9 SQ C8 
+C2 H3 S2 CQ 
+C5 ST S4 C9 
+H9 HK HQ H6 
+HT H7 SJ HJ 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "20"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.J64.AK94.AQ9874 K63.T985.J63.532 T975.AK73.85.KT6 AQJ842.Q2.QT72.J"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "13"]
+[Score "NS 640"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76b8d76b8d2714027140"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H 11
+N  D  8
+N  C 13
+S NT  7
+S  S  6
+S  H 11
+S  D  8
+S  C 13
+E NT  2
+E  S  7
+E  H  1
+E  D  4
+E  C  0
+W NT  2
+W  S  7
+W  H  1
+W  D  4
+W  C  0
+[OptimumScore "NS +1700"]
+[Competition "Teams"]
+% RBDATA 20,3,1,176,135,50,476,161,376,46,170,74,60,24,221,233,159,65,411,20,31,36,168,17,28,28,51,18,30,24,72,33,30,38,36,25,44,25,38,33,27,13,462,41,20,30,21,18,12,34,16,17,8,23,24,19,10,8,8,14,7,10,25,11,7,9
+[Auction "W"]
+1S 2C 2S X 
+3S X Pass 5C 
+Pass Pass Pass 
+[Play "E"]
+SK S5 S2 C4 
+D3 D5 D7 DA 
+D6 D8 D2 DK 
+DJ CT DT D4 
+S3 S7 S8 C7 
+S6 C6 DQ D9 
+C2 CK CJ C8 
+H5 ST SQ CQ 
+C3 H3 S4 CA 
+H8 HA H2 H4 
+H9 HK HQ H6 
+HT H7 SJ HJ 
+C5 S9 SA C9 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "21"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT653.Q8.AQ7.Q65 AJ.KT93.KJ4.K873 72.J764.9852.AJ9 K984.A52.T63.T42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "56665566657777877778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  6
+S  H  6
+S  D  6
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 6,0,2,127,74,1051,130,90,56,286,153,151,508,45,18,43,36,723,38,9,205,14,25,54,113,28,9,16,83,86,15,35,100,385,69,19,73,36,8,16,18,50,11,27,17,25,13,6,391,72,21,7,29,11,24,13,8
+[Auction "N"]
+1NT =1= X 2C X =2= 
+Pass Pass 2D =3= Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2:  * defensive takeout [0:15]"]
+[Note "3: diamonds + major (not clubs now)"]
+[Play "W"]
+D6 D7 DJ D2 
+CT CQ C3 C9 
+C4 C6 C7 CJ 
+SK S3 SJ S2 
+D3 DA D4 D5 
+C2 C5 C8 CA 
+S9 ST SA S7 
+DT DQ DK D8 
+S4 S5 CK H4 
+HA H8 H3 H6 
+H5 -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "21"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT653.Q8.AQ7.Q65 AJ.KT93.KJ4.K873 72.J764.9852.AJ9 K984.A52.T63.T42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "56665566657777877778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  6
+S  H  6
+S  D  6
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 6,3,1,134,87,678,263,112,128,439,246,30,39,37,36,16,29,66,51,21,42,1416,74,40,35,39,94,94,22,55,44,55,40,124,31,13,14,163,43,19,13,756,46,29,66,33,170,38,18,15,54,11,18,9,25,11,18,16,7,21,13
+[Auction "N"]
+1NT X 2D =1= Pass 
+Pass Pass 
+[Note "1: 4D and at least one 4card M"]
+[Play "W"]
+S4 S3 SJ S7 
+S8 S5 SA S2 
+CT CQ C3 C9 
+S9 S6 C7 D2 
+H2 HQ HK H4 
+C4 C5 C8 CJ 
+C2 C6 CK CA 
+HA H8 H3 HJ 
+D6 DA D4 D9 
+SK ST DJ H6 
+D3 D7 DK D5 
+H5 DQ H9 H7 
+DT SQ HT D8 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "22"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQ97.AJ2.K65.Q43 T4.T875.4.JT9852 K86532.KQ9.AQ3.A J.643.JT9872.K76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS 1510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ddb97ddb970013600136"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H 11
+N  D  9
+N  C  7
+S NT 13
+S  S 13
+S  H 11
+S  D  9
+S  C  7
+E NT  0
+E  S  0
+E  H  1
+E  D  3
+E  C  6
+W NT  0
+W  S  0
+W  H  1
+W  D  3
+W  C  6
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 33,0,2,86,61,74,138,112,917,44,216,33,500,39,162,129,138,53,154,51,169,48,92,34,30,68,23
+[Auction "E"]
+Pass 1S Pass 2NT =1= 
+Pass 3D =2= Pass 3H =3= 
+Pass 4C =4= Pass 4D =5= 
+Pass 4NT =6= Pass 5S =7= 
+Pass 7S Pass Pass 
+Pass 
+[Note "1: GF 4+♠"]
+[Note "2: 15+ no shortage"]
+[Note "3: range enquiry"]
+[Note "4: cue, 19+"]
+[Note "5: cue"]
+[Note "6: RKCB"]
+[Note "7: 2+Q"]
+[Play "W"]
+DJ D5 D4 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "22"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQ97.AJ2.K65.Q43 T4.T875.4.JT9852 K86532.KQ9.AQ3.A J.643.JT9872.K76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result "13"]
+[Score "NS 1520"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ddb97ddb970013600136"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H 11
+N  D  9
+N  C  7
+S NT 13
+S  S 13
+S  H 11
+S  D  9
+S  C  7
+E NT  0
+E  S  0
+E  H  1
+E  D  3
+E  C  6
+W NT  0
+W  S  0
+W  H  1
+W  D  3
+W  C  6
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 34,3,1,67,72,76,126,41,1922,81,303,55,481,81,301,36,479,75,161,23,298,95,43,21,42
+[Auction "E"]
+Pass 1S Pass 2NT =1= 
+Pass 3H =2= Pass 3S 
+Pass 4NT =3= Pass 5S =4= 
+Pass 5NT =5= Pass 6D =6= 
+Pass 7NT Pass Pass 
+Pass 
+[Note "1:  * GF 4+S [0:07]"]
+[Note "2: extras with short C"]
+[Note "3: rkcb"]
+[Note "4:  * 2 with SQ [0:07]"]
+[Note "5: all KC asks for more"]
+[Note "6:  * DK [0:12]"]
+[Play "E"]
+CJ -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "23"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:8765.QJ8.K.AQ632 QT2.653.J532.J75 KJ4.KT942.AT98.T A93.A7.Q764.K984"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "99a7899a784325543355"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT  9
+S  S  9
+S  H 10
+S  D  7
+S  C  8
+E NT  4
+E  S  3
+E  H  2
+E  D  5
+E  C  5
+W NT  4
+W  S  3
+W  H  3
+W  D  5
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 12,0,2,82,94,271,47,54,54,123,38,84,50,378,841,44,22,10,24,6,13,7,22,8,17,10,16,2,33,8,16,6,20,10,18,38,28,11,17,25,24,81,42,9,39,562,16,29,6,11,14,61,22,8,18,5,18,9,13,5,10,5,12,3,14
+[Auction "S"]
+1H X 2C Pass 
+2D Pass 3H =1= Pass 
+Pass Pass 
+[Note "1: invite"]
+[Play "W"]
+C9 CA C7 CT 
+D4 DK D2 D8 
+C4 C2 C5 H2 
+D6 S5 D5 DA 
+D7 H8 D3 D9 
+C8 C3 CJ H4 
+DQ HJ DJ DT 
+SA S6 ST SJ 
+HA HQ H6 HT 
+CK C6 S2 H9 
+H7 CQ H3 HK 
+S3 S7 SQ SK 
+S9 S8 H5 S4 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "23"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:8765.QJ8.K.AQ632 QT2.653.J532.J75 KJ4.KT942.AT98.T A93.A7.Q764.K984"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "99a7899a784325543355"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  7
+N  C  8
+S NT  9
+S  S  9
+S  H 10
+S  D  7
+S  C  8
+E NT  4
+E  S  3
+E  H  2
+E  D  5
+E  C  5
+W NT  4
+W  S  3
+W  H  3
+W  D  5
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,3,1,120,144,238,36,71,59,78,35,54,45,599,1230,21,24,23,22,14,19,49,19,19,43,36,33,22,18,117,25,25,17,52,17,33,23,53,25,27,17,592,30,14,56,73,33,15,23,52,43,14,37,30,19,21,6,23,14,17,7,16,28,15,7
+[Auction "S"]
+1H Pass 2C Pass 
+2D Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+C4 CA C5 CT 
+D6 DK D2 D8 
+C9 C2 C7 H2 
+D4 S5 D3 DA 
+D7 H8 D5 D9 
+C8 C3 CJ H4 
+DQ HJ DJ DT 
+SA S6 S2 SJ 
+HA HQ H3 H9 
+CK C6 ST HT 
+H7 S7 H5 HK 
+S3 S8 SQ SK 
+S9 CQ H6 S4 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "24"]
+[West "Jon Cooke#32763"]
+[North "Mike Hampton#429305"]
+[East "Paul Barden#420164"]
+[South "Michael Prior#110955"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A2.J6532.Q763.72 75.AQ.8542.KQJ63 KJ84.T8.JT9.T984 QT963.K974.AK.A5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2354223542aa89aaa89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  5
+N  D  4
+N  C  2
+S NT  2
+S  S  3
+S  H  5
+S  D  4
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D  9
+E  C 10
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 19,0,2,88,32,132,32,21,45,183,41,225,38,46,39,399,173,7,13,125,22,23,6,37,8,26,36,51,99,6,17,18,28,7,4,40,26,19,56,11,26,10,43
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2H Pass 3D =2= Pass 
+4NT =3= Pass Pass Pass 
+[Note "1: nat fg"]
+[Note "2: do something"]
+[Note "3:  * non f extras [0:12]"]
+[Play "N"]
+D3 D2 D9 DK 
+H6 HA H8 H4 
+SA S5 S4 ST 
+D6 D4 DT DA 
+H3 HQ HT H7 
+C2 C3 C8 CA 
+H2 D5 C4 HK 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "24"]
+[West "Anne Rosen#96384"]
+[North "Julian Wightwick#39885"]
+[East "Gerald Tredinnick#89225"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A2.J6532.Q763.72 75.AQ.8542.KQJ63 KJ84.T8.JT9.T984 QT963.K974.AK.A5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2354223542aa89aaa89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  5
+N  D  4
+N  C  2
+S NT  2
+S  S  3
+S  H  5
+S  D  4
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D  9
+E  C 10
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,3,1,415,36,146,62,110,40,49,121,216,38,28,81,432,197,25,25,66,20,20,27,18,10,18,49,19,40,32,35,23,26,23,267,39,35,17,24,18,40,11,6,18,19,16,8,23,21,12,10,8,15,10,20
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: gf ♣ or bal"]
+[Play "S"]
+DJ DA D3 D2 
+C4 CA C7 C3 
+CT C5 C2 CK 
+C8 S3 H6 CQ 
+C9 S6 D6 CJ 
+S4 S9 S2 C6 
+H8 H4 H5 HA 
+HT H7 H2 HQ 
+D9 DK DQ D4 
+S8 HK H3 S5 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "25"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T32.A952.J943.Q6 QJ94.T3.A8.KJ872 A65.KJ864.Q.A543 K87.Q7.KT7652.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "75965759656847868478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  5
+S NT  7
+S  S  5
+S  H  9
+S  D  6
+S  C  5
+E NT  6
+E  S  8
+E  H  4
+E  D  7
+E  C  8
+W NT  6
+W  S  8
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,2,224,104,53,96,279,119,267,67,34,38,30,172,39,30,50,107,19,37,31,194,18,11,615,37,18,9,52,21,10,20,13,17,37,14,415,24,16,11,86,17,12,17,12,14,12,13
+[Auction "N"]
+Pass 1C =1= 1H X =2= 
+3C =3= X 4H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * maybe 4 bad spades usually <4♠ [0:26]"]
+[Note "3: mixed raise"]
+[Play "W"]
+CT CQ CK CA 
+D7 D3 DA DQ 
+S7 S2 SQ S5 
+S8 S3 S4 SA 
+SK ST S9 S6 
+C9 C6 CJ C3 
+D2 D4 D8 H4 
+H7 HA H3 H6 
+HQ H2 HT HK 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "25"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T32.A952.J943.Q6 QJ94.T3.A8.KJ872 A65.KJ864.Q.A543 K87.Q7.KT7652.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "75965759656847868478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  6
+N  C  5
+S NT  7
+S  S  5
+S  H  9
+S  D  6
+S  C  5
+E NT  6
+E  S  8
+E  H  4
+E  D  7
+E  C  8
+W NT  6
+W  S  8
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,3,0,83,66,111,117,265,29,208,25,78,486,29,27,106,21,27,160,42,262,29,15,928,35,23,25,31,165,181,31,28,24,20,20,177,16,14,4,23,27
+[Auction "N"]
+Pass 1C 1H Pass 
+3H =1= Pass Pass Pass 
+[Note "1:  * Weak, 3D would be mixed [0:08]"]
+[Play "W"]
+CT CQ CK CA 
+C9 C6 CJ C3 
+S8 S2 SJ S5 
+S7 S3 S4 SA 
+HQ HA C2 C4 
+H7 H2 H3 HK 
+D5 H5 HT HJ 
+D2 -  -  C5 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "26"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K98.972.98654.98 T4.QT63.AK7.KQT2 AQJ7.AKJ54.2.J54 6532.8.QJT3.A763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57854578546647945479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  7
+S  H  8
+S  D  5
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  9
+W NT  4
+W  S  5
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,2,175,50,105,75,30,223,20,81,127,74,68,25,327,27,25,26,16,31,41,30,33,34,19,63,32,56,40,18,104,24,31,24,607
+[Auction "E"]
+1C =1= 1H X =2= Pass 
+1NT Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * as before [0:09]"]
+[Play "S"]
+HA H8 H9 H3 
+SA S2 S8 S4 
+SQ S3 S9 ST 
+S7 S5 SK D7 
+HJ C3 H7 HT 
+SJ S6 D9 DK 
+HK -  -  -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "26"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K98.972.98654.98 T4.QT63.AK7.KQT2 AQJ7.AKJ54.2.J54 6532.8.QJT3.A763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57854578546647945479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  8
+N  D  5
+N  C  4
+S NT  5
+S  S  7
+S  H  8
+S  D  5
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  9
+W NT  4
+W  S  5
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,3,0,254,156,276,296,32,230,42,110,25,281,685,12,62,28,41,25,16,13,47,22,307,131,23,18,29,20,144,16,19,164,11,18,8,257,14,17,18,166,67,21
+[Auction "E"]
+1NT =1= X Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "W"]
+S5 S8 ST SA 
+C7 C8 CT C4 
+H8 H2 H3 HA 
+C3 C9 CQ CJ 
+S2 H7 H6 HK 
+C6 H9 C2 C5 
+DQ D4 DK D2 
+S3 -  S4 S7 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "27"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K652.KJ6543.Q53. QJT3.Q2.AKT86.T4 874.T8.J72.A8762 A9.A97.94.KQJ953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2363323633a869aaa7aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  6
+N  D  3
+N  C  3
+S NT  2
+S  S  3
+S  H  6
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  6
+E  D  9
+E  C 10
+W NT 10
+W  S 10
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,1,2,78,110,499,210,276,55,116,65,41,28,41,226,834,20,10,13,24,24,79,143,36,16,30,56,25,32,17,64,20,7,72,130,21,19,53
+[Auction "S"]
+Pass 1NT 2D =1= X =2= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: S+ another"]
+[Note "2: Values"]
+[Play "N"]
+D3 DA D2 D4 
+H3 CT C8 C3 
+S6 C4 CA C5 
+HK H2 HT H7 
+H4 HQ H8 H9 
+SK SQ S4 S9 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "27"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K652.KJ6543.Q53. QJT3.Q2.AKT86.T4 874.T8.J72.A8762 A9.A97.94.KQJ953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2363323633a869aaa7aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  6
+N  D  3
+N  C  3
+S NT  2
+S  S  3
+S  H  6
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  6
+E  D  9
+E  C 10
+W NT 10
+W  S 10
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,3,0,72,49,285,103,57,112,45,99,44,259,222,45,23,126,54,23,256,123,32,135,38,81,38,28,25,37,444,33,17,43,21,16,39,45,61,26,16,89,72,19,18,28,17,19,16,42,26,16,18,23,19,17,17
+[Auction "S"]
+Pass 1C 2H X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H5 HQ HT H7 
+S6 CT CA C3 
+HK H2 H8 HA 
+S2 C4 C8 CK 
+D3 D6 C2 CQ 
+D5 S3 C6 CJ 
+H3 ST C7 C9 
+H4 SJ S4 C5 
+DQ DA D2 D4 
+S5 SQ S7 SA 
+H6 DK D7 D9 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "28"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.42.K965.T32 T8742.J85.A74.96 9.AK96..AKQJ8754 AJ5.QT73.QJT832."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 1370"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "9475c9475c3758137581"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  7
+N  D  5
+N  C 12
+S NT  9
+S  S  4
+S  H  7
+S  D  5
+S  C 12
+E NT  3
+E  S  7
+E  H  5
+E  D  8
+E  C  1
+W NT  3
+W  S  7
+W  H  5
+W  D  8
+W  C  1
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 25,1,2,201,176,29,340,50,121,33,84,105,443,52,342,41,235,20,320,39,44,47,16,139,45,17,103,500,24,59
+[Auction "W"]
+1D Pass 1S 2C 
+X =1= 3C Pass 3H 
+Pass 3NT Pass 4D =2= 
+Pass 5C Pass 6C 
+Pass Pass Pass 
+[Note "1:  * 3♠ [0:06]"]
+[Note "2: cue"]
+[Play "W"]
+DQ D5 D4 C4 
+SA S3 S7 S9 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "28"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ63.42.K965.T32 T8742.J85.A74.96 9.AK96..AKQJ8754 AJ5.QT73.QJT832."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "9475c9475c3758137581"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  7
+N  D  5
+N  C 12
+S NT  9
+S  S  4
+S  H  7
+S  D  5
+S  C 12
+E NT  3
+E  S  7
+E  H  5
+E  D  8
+E  C  1
+W NT  3
+W  S  7
+W  H  5
+W  D  8
+W  C  1
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 20,3,0,91,27,21,352,47,69,23,195,48,132,24,91,227,34,125,35,109,30,6,50,66,17,5,31,47
+[Auction "W"]
+1D Pass 1S X 
+2S Pass Pass 5C 
+Pass Pass Pass 
+[Play "W"]
+DQ D5 D4 CA 
+D3 C2 C6 CK 
+D8 C3 C9 CQ 
+SA -  -  S9 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "29"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ5.Q85.A854.J98 AT32.AJT.Q972.76 84.7643.K3.AK542 J976.K92.JT6.QT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65758657586768567685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  8
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 9,3,0,337,60,87,35,113,26,112,32,187,27,145,35,55,115,33,24,448,13,17,33,38,24,13,12,215,17,9,20,40,82,57,11,394,67,17,12,15,22,14,15,37,488,17,10,18,12,18,7,7,16,11,16,17
+[Auction "N"]
+Pass Pass 1C Pass 
+1D Pass 1H Pass 
+2NT Pass Pass Pass 
+[Play "E"]
+S2 S4 SJ SK 
+C7 CA C3 C9 
+C6 CK CT C8 
+D2 C2 CQ CJ 
+ST S8 S6 S5 
+SA H3 S9 SQ 
+S3 H4 S7 D4 
+HT H6 H2 H8 
+HA H7 H9 H5 
+HJ C4 HK HQ 
+-  -  D6 -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "29"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ5.Q85.A854.J98 AT32.AJT.Q972.76 84.7643.K3.AK542 J976.K92.JT6.QT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65758657586768567685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  5
+N  C  8
+S NT  6
+S  S  5
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  7
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  7
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 9,1,2,268,54,50,99,65,154,143,69,234,92,470,1232,102,23,52,27,26,42,157,74,6,99,214,28,21,22,88,33,30,54,93,37,9,33,188,77,8,43,15,121,19,12,15,17,16,9,49,39,11,11
+[Auction "N"]
+1C =1= Pass 1H Pass 
+1NT Pass 2NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+D2 DK DJ D5 
+SA S4 S6 SK 
+D7 D3 DT DA 
+C6 C2 CQ CJ 
+D9 H3 D6 D4 
+DQ H4 H2 D8 
+HT H6 HK H5 
+HA H7 H9 HQ 
+HJ C4 C3 H8 
+C7 CA CT C8 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "30"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T752.QT.9743.AJ5 J6.J9764.Q6.T982 A93.A5.KJT52.763 KQ84.K832.A8.KQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76485884854584645846"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  8
+N  C  5
+S NT  8
+S  S  8
+S  H  4
+S  D  8
+S  C  5
+E NT  4
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  8
+W  D  4
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,1,2,61,27,78,145,114,116,189,126,27,30,117,150,116,40,1042,45,20,28,27,98,24,15,99,79,22,24,32,21,17,8,98,37,21,24,20,20,14,19,29,76,19,11,18,18,11,8,11,16,9,22
+[Auction "E"]
+Pass 1D X 1S 
+2H X =1= 4H Pass 
+Pass Pass 
+[Note "1: 3♠"]
+[Play "S"]
+S3 S4 ST SJ 
+HA H2 HT H4 
+C6 CK CA C2 
+DK DA D7 DQ 
+H5 HK HQ H6 
+SA SK S2 S6 
+DJ D8 D4 D6 
+C3 CQ C5 C8 
+S9 SQ S5 C9 
+D2 S8 S7 CT 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "30"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T752.QT.9743.AJ5 J6.J9764.Q6.T982 A93.A5.KJT52.763 KQ84.K832.A8.KQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76485884854584645846"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  8
+N  C  5
+S NT  8
+S  S  8
+S  H  4
+S  D  8
+S  C  5
+E NT  4
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  8
+W  D  4
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,3,0,59,137,130,120,243,101,37,493,275,221,66,10,158,12,37,564,22,49,4,896,32,17,4,56,185,307,31,8,16,19,10,44,13,21,7,30,9,15,50,17,83,28,10,27,21,56,14
+[Auction "E"]
+Pass 1NT =1= X =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: pen"]
+[Play "S"]
+C6 CQ CA C2 
+DK DA D7 DQ 
+S3 SQ S5 S6 
+SA S4 S2 SJ 
+C7 CK C5 C8 
+S9 SK S7 D6 
+D5 D8 D3 H4 
+H5 HK HT H6 
+HA H2 HQ H7 
+C3 C4 CJ -  
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "31"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK9762.43.Q542.9 .KT875.AKT97.AK8 T.AQJ962.J3.JT75 QJ8543..86.Q6432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65633656437869978699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  6
+S  S  5
+S  H  6
+S  D  4
+S  C  3
+E NT  7
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  7
+W  S  8
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,1,2,229,55,249,88,48,61,88,83,41,177,48,53,386,38,27,30,33,14,22,16,20,15,25,19,27,32,100,1009,546,52,29,209,90,23,33,40,36,13,8,20,75,10,12,12,44,18,12,10,57,11,14,22,37,14,12,14,31,8,12,7,16,8,19
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak in a major"]
+[Note "2: p/c"]
+[Play "S"]
+CJ C2 C9 CA 
+D3 D6 D2 DA 
+DJ D8 D4 DK 
+H2 S3 DQ DT 
+HA S4 H4 HK 
+C5 C3 S2 CK 
+H6 S5 D5 D9 
+H9 S8 S6 D7 
+CT CQ S7 C8 
+C7 C4 S9 H5 
+HQ C6 H3 H7 
+HJ SJ SK H8 
+ST SQ SA HT 
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "31"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK9762.43.Q542.9 .KT875.AKT97.AK8 T.AQJ962.J3.JT75 QJ8543..86.Q6432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65633656437869978699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  6
+S  S  5
+S  H  6
+S  D  4
+S  C  3
+E NT  7
+E  S  8
+E  H  6
+E  D  9
+E  C  9
+W NT  7
+W  S  8
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,3,0,245,53,573,201,90,47,158,60,1179,32,156,337,17,59,10,23,14,75,64,17,48,6,9,12,98,20,7,25,43,6,8,8,26,6,11,271,37,8,19,9,89,7,42,408,25,10,10,21,30,6,26
+[Auction "S"]
+2H =1= Pass 2S =2= 3D 
+Pass Pass Pass 
+[Note "1: Weak"]
+[Note "2:  * Constructive NF [0:11]"]
+[Play "S"]
+ST SJ SK H5 
+DJ D6 D4 D7 
+D3 D8 D2 D9 
+H2 S3 D5 DA 
+H6 S4 DQ DK 
+C5 C2 C9 CA 
+C7 C3 S2 CK 
+CT CQ S6 C8 
+CJ C6 S7 H7 
+HA S5 H4 H8 
+HQ S8 H3 HK 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "32"]
+[West "Jon Cooke#32763"]
+[North "Anne Rosen#96384"]
+[East "Paul Barden#420164"]
+[South "Gerald Tredinnick#89225"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:83.AQ873.AJ7.T87 T97654.2.K95.K96 AK2.T54.862.QJ43 QJ.KJ96.QT43.A52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75867758676857568575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  8
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,1,2,417,74,37,216,69,313,238,41,114,140,373,17,79,125,19,24,13,550,38,12,53,48,43,43,267,70,12,95,38,5,58,10,9,406,44,45,15,62,20,122,10,145,72,22,10,20,30,8,8,14,13,7,21
+[Auction "W"]
+1C =1= 1H 1S =2= 2C =3= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1:  * 2+ [0:09]"]
+[Note "2:  * better than 4 weak [0:18]"]
+[Note "3: Alerted"]
+[Play "E"]
+ST SK SQ S8 
+H2 H4 H6 HQ 
+S6 H5 HK HA 
+C9 CJ C5 C7 
+CK C3 C2 CT 
+C6 C4 CA C8 
+S7 HT HJ H3 
+D5 D2 H9 H7 
+D9 D6 D3 DA 
+S4 SA SJ S3 
+S5 CQ D4 D7 
+*
+
+[Event "26 Apr Crockfords Draper vs Wightwick"]
+[Site "RealBridge"]
+[Date "2024.04.26"]
+[Board "32"]
+[West "Mike Hampton#429305"]
+[North "Julian Wightwick#39885"]
+[East "Michael Prior#110955"]
+[South "Jonathan Mestel#56114"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:83.AQ873.AJ7.T87 T97654.2.K95.K96 AK2.T54.862.QJ43 QJ.KJ96.QT43.A52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "6"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wightwick team"]
+[VisitTeam "Draper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75867758676857568575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  8
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 10,3,0,236,58,78,86,119,208,14,832,38,76,50,137,798,16,26,86,23,27,25,701,38,14,19,52,180,48,9,381,16,27,66,77,64,14,31,136,89,20,22,4,337,221,131,12,37,100,148,7,33,122,53,14,21,12,25,15
+[Auction "W"]
+1NT =1= Pass 2H =2= Pass 
+2S =3= X Pass 3C 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: spades"]
+[Note "3: <4♠"]
+[Play "W"]
+SQ S3 S4 SA 
+H6 HQ H2 H4 
+SJ S8 ST SK 
+D3 C7 S9 S2 
+CA C8 C6 CQ 
+HK HA C9 H5 
+C5 CT CK C3 
+D4 H3 S5 HT 
+DT D7 S6 D2 
+DQ H7 S7 D6 
+C2 DJ D5 D8 
+HJ -  -  -  
+*

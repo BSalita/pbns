@@ -1,0 +1,2054 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "1"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:82..AKQT964.AJ82 AK97.QT76.J75.Q7 QJT63.AK2.32.T95 54.J98543.8.K643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a94a8a94a83482433935"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  4
+N  D 10
+N  C  8
+S NT 10
+S  S  9
+S  H  4
+S  D 10
+S  C  8
+E NT  3
+E  S  4
+E  H  8
+E  D  2
+E  C  4
+W NT  3
+W  S  3
+W  H  9
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,0,3,130,177,240,86,270,73,166,44,80,28,124,347,43,26,21,26,9,10,17,11,5,22,8,28,14,12,5,22,12,10,8,90,17,20,5,12,11,24,5,23,11,50,8,39,8,26,28,14,44,8,10
+[Auction "N"]
+1D X 1S 2H 
+3H =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * forcing [0:05]"]
+[Play "W"]
+H5 S2 HQ HA 
+D8 DA D5 D3 
+C3 DK D7 D2 
+S4 DQ DJ H2 
+S5 DT S7 S3 
+H3 D9 H6 S6 
+H4 D6 S9 C9 
+H8 D4 H7 CT 
+C4 S8 SK ST 
+C6 C2 SA SJ 
+-  -  HT -  
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "1"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:82..AKQT964.AJ82 AK97.QT76.J75.Q7 QJT63.AK2.32.T95 54.J98543.8.K643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a94a8a94a83482433935"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  4
+N  D 10
+N  C  8
+S NT 10
+S  S  9
+S  H  4
+S  D 10
+S  C  8
+E NT  3
+E  S  4
+E  H  8
+E  D  2
+E  C  4
+W NT  3
+W  S  3
+W  H  9
+W  D  3
+W  C  5
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 21,2,1,360,96,396,33,63,123,31,12,1313,41,13,13,59,79,28,39,69,20,26,13,50,12,26,19,49,8,17,17,28,18,19,13,39
+[Auction "N"]
+5D Pass Pass Pass 
+[Play "E"]
+SK S3 S5 S8 
+SA S6 S4 S2 
+C7 CT CK CA 
+D5 D2 D8 DA 
+D7 D3 C6 DK 
+DJ H2 C4 DQ 
+CQ C5 C3 C2 
+H6 -  -  -  
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "2"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ9.84.Q985.KQJT 632.AKT2.AT42.64 J54.J653.J6.A952 AT87.Q97.K73.873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55558555587887577875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  8
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  8
+E NT  7
+E  S  8
+E  H  8
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,248,27,68,28,46,29,71,23,393,293,173,30,218,12,24,20,39,11,35,26,28,586,60,21,55,21,15,15,23,5,23,6,31,24,22,4,29,46,58,4
+[Auction "E"]
+1C =1= Pass 1S Pass 
+1NT Pass Pass Pass 
+[Note "1: may be 2"]
+[Play "S"]
+DJ DK D5 D2 
+H5 H7 H4 HA 
+H3 HQ H8 H2 
+H6 H9 D9 HK 
+S5 SA S9 S2 
+D6 D3 D8 DT 
+C2 D7 DQ DA 
+C5 C3 CK D4 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "2"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ9.84.Q985.KQJT 632.AKT2.AT42.64 J54.J653.J6.A952 AT87.Q97.K73.873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55558555587887577875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  8
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  8
+E NT  7
+E  S  8
+E  H  8
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,354,57,40,300,167,130,45,20,45,29,17,21,17,28,191,19,16,49,18,32,140,34,31,15,205,136,75,302,28,32,16,15
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 10-12"]
+[Play "S"]
+C2 C3 CT C6 
+C5 C7 CK C4 
+CA C8 CQ S2 
+C9 D3 CJ S3 
+S5 S7 SK S6 
+SJ SA S9 D2 
+S4 S8 SQ D4 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "3"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ6.Q93.73.QJ762 743.T64.QT85.853 9.AKJ85.KJ964.A9 KJT852.72.A2.KT4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "b7cbbb7cbb2612226122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 12
+N  D 11
+N  C 11
+S NT 11
+S  S  7
+S  H 12
+S  D 11
+S  C 11
+E NT  2
+E  S  6
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  6
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,0,3,112,69,293,84,95,37,19,36,137,24,49,7,65,15,62,23,46,18,16,26,164,33,24,8,52,45,7,18,11,57,29,23,9,34,19,7
+[Auction "S"]
+1H 1S 2D =1= Pass 
+4H Pass Pass Pass 
+[Note "1: good 3(4) card raise to 2♡"]
+[Play "W"]
+DA D3 D5 D4 
+D2 D7 DQ DK 
+ST SQ S3 S9 
+S5 SA S4 C9 
+C4 C2 C8 CA 
+S2 H9 D8 D6 
+H2 HQ H4 H5 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "3"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ6.Q93.73.QJ762 743.T64.QT85.853 9.AKJ85.KJ964.A9 KJT852.72.A2.KT4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "b7cbbb7cbb2612226122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 12
+N  D 11
+N  C 11
+S NT 11
+S  S  7
+S  H 12
+S  D 11
+S  C 11
+E NT  2
+E  S  6
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  6
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,2,1,216,406,108,46,326,45,91,47,51,25,124,142,43,16,74,22,11,44,241,31,20,437,91,21,13,15,69,23,22,41,50,583,66,39,150,54,15,27,42,20,14,15,24,29,14,9,21,21,8,14,17,19,17,8,16,21,8,30,9,13,6,13
+[Auction "S"]
+1H 1S 2H Pass 
+3D Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+DA D3 D5 D4 
+D2 D7 DQ DK 
+H2 H3 H4 HA 
+H7 H9 H6 HK 
+S5 HQ HT H5 
+CK CQ C3 C9 
+SJ SA S3 S9 
+C4 C2 C5 CA 
+S2 C6 D8 DJ 
+S8 C7 DT D9 
+ST S6 S4 H8 
+CT CJ S7 D6 
+SK SQ C8 HJ 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "4"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J65.J742.J74.652 AK932.A.T5.AKJT3 Q4.KT853.K62.Q94 T87.Q96.AQ983.87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3142231422ac9bbac9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  4
+N  D  2
+N  C  2
+S NT  3
+S  S  1
+S  H  4
+S  D  2
+S  C  2
+E NT 10
+E  S 12
+E  H  9
+E  D 11
+E  C 11
+W NT 10
+W  S 12
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 18,0,3,78,48,59,38,198,44,402,46,184,34,205,22,452,31,23,27,21,653,19,56,345,6,65,19,498,66,4,38,155,28,24,5,49,14,41,5,29,8,24,3,66,16,22,10,118,15,26,13
+[Auction "W"]
+Pass Pass 1S Pass 
+2C =1= Pass 3C Pass 
+3S Pass 4C Pass 
+4S Pass Pass Pass 
+[Note "1: drury 3|+cd♠"]
+[Play "S"]
+S4 S7 S6 S2 
+CQ C7 C6 CT 
+SQ S8 S5 SK 
+H3 ST SJ SA 
+C4 C8 C5 CA 
+C9 H6 C2 CK 
+H5 H9 H4 CJ 
+D2 DQ D4 DT 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "4"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J65.J742.J74.652 AK932.A.T5.AKJT3 Q4.KT853.K62.Q94 T87.Q96.AQ983.87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3142231422ac9bbac9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  4
+N  D  2
+N  C  2
+S NT  3
+S  S  1
+S  H  4
+S  D  2
+S  C  2
+E NT 10
+E  S 12
+E  H  9
+E  D 11
+E  C 11
+W NT 10
+W  S 12
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 18,2,1,398,67,137,98,393,95,82,32,148,31,66,54,33,35,134,32,80,27,12,56,293,75,39,14,22,25,13,16,15,14,15,12,18,15,16,9,14,24,12,10,85,19,24,11,14,21,19,20,10
+[Auction "W"]
+Pass Pass 2C =1= Pass 
+2D =2= Pass 2S Pass 
+3S Pass 4C =3= Pass 
+4D Pass 4H =4= Pass 
+4S Pass Pass Pass 
+[Note "1:  * 23+ or game [0:45]"]
+[Note "2: Neg"]
+[Note "3:  * cue [0:08]"]
+[Note "4: Alerted"]
+[Play "S"]
+S4 S7 SJ SK 
+C4 C7 C5 CA 
+C9 C8 C2 CK 
+CQ S8 C6 CJ 
+SQ ST S5 S2 
+D2 DQ D7 D5 
+H3 H6 H2 HA 
+-  -  -  SA 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "5"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:43.KQ8652.AT87.2 72.J73.J543.Q953 AKT98.AT4.K.AJT6 QJ65.9.Q962.K874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "bad88bbd882204422044"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 13
+N  D  8
+N  C  8
+S NT 11
+S  S 11
+S  H 13
+S  D  8
+S  C  8
+E NT  2
+E  S  2
+E  H  0
+E  D  4
+E  C  4
+W NT  2
+W  S  2
+W  H  0
+W  D  4
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 27,0,3,141,76,133,49,168,46,235,56,929,76,540,41,24,35,111,132,32,21,334,53,8,31,4,60,20,14,14,30,5,25,8,13,7,33,10,32,13,9,7,19,6,15,22,11,60,17,5,30,4,144,18,30,4,8,25,26,6,15,4,11,8,11,3,7,5,11
+[Auction "N"]
+2H =1= Pass 2NT =2= Pass 
+3C =3= Pass 4C =4= Pass 
+5C =5= Pass 6H Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: relay"]
+[Note "3: non-min with a shortage somewhere"]
+[Note "4: Relay"]
+[Note "5: 2 with ♡Q"]
+[Play "E"]
+C3 CA C4 C2 
+D3 DK D2 D7 
+C5 C6 CK H2 
+D4 H4 D6 D8 
+C9 CT C7 H5 
+D5 HT D9 DT 
+H3 HA H9 H6 
+CQ CJ C8 HK 
+H7 S8 DQ HQ 
+DJ S9 S5 DA 
+S2 SA S6 S3 
+S7 SK SJ S4 
+HJ ST SQ H8 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "5"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:43.KQ8652.AT87.2 72.J73.J543.Q953 AKT98.AT4.K.AJT6 QJ65.9.Q962.K874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "bad88bbd882204422044"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 13
+N  D  8
+N  C  8
+S NT 11
+S  S 11
+S  H 13
+S  D  8
+S  C  8
+E NT  2
+E  S  2
+E  H  0
+E  D  4
+E  C  4
+W NT  2
+W  S  2
+W  H  0
+W  D  4
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 17,2,1,277,47,325,97,43,15,37,146,33,14,73,29,43,9,488,23,23,32,114,24,27,13,49,24,12,14,30,20,37,13,25,17,25,17,25,17,19,12,58,18,20,34,76,11,27,20,18,12,15,10,19,16,10,9,18,6,12,9
+[Auction "N"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+S7 SA S6 S4 
+H3 H4 H9 HK 
+H7 HA D6 H2 
+D5 DK D2 D7 
+C3 CA C8 C2 
+C5 C6 C7 H5 
+D3 HT D9 D8 
+C9 CT C4 H6 
+HJ S8 S5 HQ 
+S2 SK SJ S3 
+CQ CJ CK H8 
+D4 S9 DQ DA 
+DJ ST SQ DT 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "6"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.T7.K9643.98752 AQT42.J532.8.KQ4 J53.KQ94.AJ72.A3 K986.A86.QT5.JT6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "54697546978974689746"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  9
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  9
+S  C  7
+E NT  8
+E  S  9
+E  H  7
+E  D  4
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  4
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,0,3,123,109,300,133,51,64,150,91,41,36,42,45,21,31,9,42,11,17,15,55,41,4,8,5,11,4,23,60,9,15,10,390,25,10,16,7,19,7,73,15,27,8,19,29,21,45,10,128,14,56,11,7,40,5,12,4,16,4,11,4,15,4,10
+[Auction "E"]
+1S 1NT 2S 2NT =1= 
+Pass 3C =2= Pass 3D 
+Pass Pass Pass 
+[Note "1: puppet to 3♣"]
+[Note "2: forced"]
+[Play "E"]
+SA S3 S6 S7 
+S2 S5 SK D3 
+C4 CA C6 C2 
+CQ C3 CT C5 
+SQ SJ S8 D4 
+D8 DA D5 D6 
+S4 D2 DT DK 
+H2 HK HA H7 
+ST D7 DQ D9 
+HJ HQ H6 HT 
+H3 DJ S9 C7 
+H5 H9 H8 C8 
+CK H4 CJ C9 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "6"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.T7.K9643.98752 AQT42.J532.8.KQ4 J53.KQ94.AJ72.A3 K986.A86.QT5.JT6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "54697546978974689746"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  9
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  9
+S  C  7
+E NT  8
+E  S  9
+E  H  7
+E  D  4
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  4
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,80,257,760,313,38,58,52,88,82,80,61,15,245,16,41,10,62,25,12,10,32,16,9,18,18,97,9,17,11,47,17,11,15,22,17,22,53,13,30,14
+[Auction "E"]
+1S 1NT 2H =1= Pass 
+2S Pass Pass Pass 
+[Note "1: Sound ♠ raise"]
+[Play "S"]
+CA C6 C8 C4 
+C3 CT C2 CK 
+S3 S6 S7 SA 
+S5 SK D3 S4 
+SJ S8 C5 SQ 
+HQ HA H7 H3 
+H4 H6 HT H2 
+DA D5 D4 D8 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "7"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K82.Q8642.T975.8 Q654.KT.4.KT7532 AT73.75.KJ832.94 J9.AJ93.AQ6.AQJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2447224472b886bb886b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  4
+N  D  7
+N  C  2
+S NT  2
+S  S  4
+S  H  4
+S  D  7
+S  C  2
+E NT 11
+E  S  8
+E  H  8
+E  D  6
+E  C 11
+W NT 11
+W  S  8
+W  H  8
+W  D  6
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,41,153,27,280,45,331,31,25,28,28,213,20,22,208,21,7,14,37,21,15,10,130,35,8,6,27,8,10,6,11,6,8,7,14,38,7,6,23,12,7,6,15,9,11
+[Auction "S"]
+Pass 1C =1= Pass 2D =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2+cd"]
+[Note "2: invite"]
+[Play "N"]
+H2 HT H5 H3 
+H6 HK H7 H9 
+D5 D4 D2 DQ 
+D7 S4 D3 DA 
+C8 C2 C4 CA 
+S2 C3 C9 CQ 
+H4 C5 S3 CJ 
+H8 S5 S7 HA 
+D9 CK -  C6 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "7"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K82.Q8642.T975.8 Q654.KT.4.KT7532 AT73.75.KJ832.94 J9.AJ93.AQ6.AQJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2447224472b886bb886b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  4
+N  D  7
+N  C  2
+S NT  2
+S  S  4
+S  H  4
+S  D  7
+S  C  2
+E NT 11
+E  S  8
+E  H  8
+E  D  6
+E  C 11
+W NT 11
+W  S  8
+W  H  8
+W  D  6
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 20,2,1,109,240,282,149,159,186,84,118,87,117,43,20,49,673,91,24,53,36,54,19,58,49,32,396,47,189,63,19,80,53,154,180,28,20,33,11,13,95
+[Auction "S"]
+Pass 1C =1= Pass 1H =2= 
+Pass 1NT =3= Pass 2D =4= 
+Pass 2H =5= Pass 3C 
+Pass 3D =6= Pass 3NT 
+Pass 4C Pass 4D 
+Pass 4H Pass 4NT 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: 2+, can have 5♢"]
+[Note "2: 4+ spades"]
+[Note "3: 18-19"]
+[Note "4: gf relay"]
+[Note "5: 4♡"]
+[Note "6: Not sure. Waiting bid"]
+[Play "N"]
+DT D4 D2 DQ 
+C8 C2 C4 CA 
+-  -  -  CQ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "8"]
+[West "Steve Bunker#83362"]
+[North "Giles Ip#415797"]
+[East "Allan Sanis#11898"]
+[South "Andy Cope#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT96.K983.9843.A Q8.J7.AKJT765.K3 J32.Q6542.Q2.Q92 K754.AT..JT87654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "4773347733764a9765a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  7
+N  D  3
+N  C  3
+S NT  4
+S  S  7
+S  H  7
+S  D  3
+S  C  3
+E NT  7
+E  S  6
+E  H  4
+E  D 10
+E  C  9
+W NT  7
+W  S  6
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 21,0,3,141,18,485,65,141,248,40,356,17,28,20,9,25,37,51,33,19,11,17,57,13,51,82,13,26,4,22,6,32,3,151,32,21,3
+[Auction "W"]
+3C X 5D Pass 
+Pass Pass 
+[Play "S"]
+H2 HA H3 HJ 
+C2 C4 CA C3 
+H4 HT HK H7 
+H5 S4 H9 D5 
+D2 C5 D3 DA 
+DQ C6 D4 DK 
+H6 S5 D9 DJ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "8"]
+[West "Stephen Green#85164"]
+[North "Roger Schofield#33011"]
+[East "Martin Jones#"]
+[South "Judith SANIS#222203"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT96.K983.9843.A Q8.J7.AKJT765.K3 J32.Q6542.Q2.Q92 K754.AT..JT87654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "4773347733764a9765a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  7
+N  D  3
+N  C  3
+S NT  4
+S  S  7
+S  H  7
+S  D  3
+S  C  3
+E NT  7
+E  S  6
+E  H  4
+E  D 10
+E  C  9
+W NT  7
+W  S  6
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,1,118,146,60,114,700,68,30,46,87,70,28,94,48,27,276,210,47,12,64,22,13,26,38,14,16,11,31,57,83,12,30,22,13,44,23,20,227,17,42,29,32,15,19,36,19,11,83,20,18,12
+[Auction "W"]
+Pass 1C =1= 1NT Pass 
+2C =2= Pass 2D Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: 1+♣"]
+[Note "2: Stayman"]
+[Play "S"]
+H4 HA H3 H7 
+C2 C4 CA C3 
+H2 HT HK HJ 
+H5 S4 H9 S8 
+HQ C5 H8 D5 
+H6 C6 D9 D6 
+S2 S5 SA SQ 
+DQ C7 D3 DJ 
+S3 SK S6 D7 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "9"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ85.J4.A5.A8753 QT2.8752.QJ84.K4 97643.K6.K97.Q62 A.AQT93.T632.JT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "6833868438759a5759a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D  3
+N  C  8
+S NT  6
+S  S  8
+S  H  4
+S  D  3
+S  C  8
+E NT  7
+E  S  5
+E  H  9
+E  D 10
+E  C  5
+W NT  7
+W  S  5
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 8,2,0,250,32,532,29,391,94,164,188,41,98,26,41,118,352,17,32,29,20,29,17,18,13,23,8,482,25,15,38,22,16,15,22,93,14,22,19,83,28,14,41,158,19,18,6,4,41,5,23,5
+[Auction "N"]
+1C =1= Pass 1H =2= X 
+2S =3= Pass Pass Pass 
+[Note "1: 1+♣"]
+[Note "2: ♠"]
+[Note "3: 4♠"]
+[Play "E"]
+H5 H6 HQ H4 
+C4 C2 CJ CA 
+DJ DK D2 D5 
+S2 S3 SA S5 
+D4 D7 D3 DA 
+ST S4 H3 SK 
+CK C6 C9 C3 
+DQ D9 D6 S8 
+SQ CQ CT C5 
+H7 HK HA HJ 
+-  -  DT -  
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "9"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ85.J4.A5.A8753 QT2.8752.QJ84.K4 97643.K6.K97.Q62 A.AQT93.T632.JT9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "6833868438759a5759a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  3
+N  D  3
+N  C  8
+S NT  6
+S  S  8
+S  H  4
+S  D  3
+S  C  8
+E NT  7
+E  S  5
+E  H  9
+E  D 10
+E  C  5
+W NT  7
+W  S  5
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,4,3,1022,72,100,112,80,281,95,33,39,28,537,34,29,104,44,39,32,86,26,28,22,428,24,29,7,9,29,35,7,1339,39,31,9,34,29,21,10,112,25,6,16,10,17,12,21,21
+[Auction "N"]
+1D =1= Pass 1S 2H 
+2S 4H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "N"]
+S5 ST S3 SA 
+C3 CK C2 CJ 
+HJ H2 H6 HT 
+DA D4 D9 D6 
+D5 DJ DK D3 
+C5 C4 CQ C9 
+H4 D8 D7 D2 
+C7 H7 C6 CT 
+C8 H5 HK HA 
+-  -  -  HQ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "10"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K985.K85.KJ94.A2 Q3.AQJ.Q873.KJ64 AJT.T9763.2.T853 7642.42.AT65.Q97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67856677567657776577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  6
+E  H  5
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,89,50,11,69,79,48,50,23,105,34,6,40,16,9,22,10,168,31,12,31,25,23,70,10,16,30,7,21,6,167,17,16,15,92,128,22,9,22,21,27,17,12,105,8,17,6,225,7,14,6,12,4,10,5,30,4
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 14 16"]
+[Play "S"]
+H6 H2 HK HA 
+C3 C7 CA CJ 
+H3 H4 H8 HQ 
+D2 D5 DK DQ 
+HT S2 H5 HJ 
+C5 CQ C2 C4 
+C8 C9 S5 CK 
+ST DA D4 D8 
+SJ S4 S8 S3 
+H9 D6 D9 D3 
+H7 DT DJ D7 
+SA S6 S9 SQ 
+CT S7 SK C6 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "10"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K985.K85.KJ94.A2 Q3.AQJ.Q873.KJ64 AJT.T9763.2.T853 7642.42.AT65.Q97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67856677567657776577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  6
+E  H  5
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,4,3,416,55,47,51,50,199,17,64,270,23,27,35,52,88,76,39,303,28,25,17,30,44,23,8,158,24,30,32,175,26,24,27,40,24,22,34,22,34,36,24
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+HT H2 HK HA 
+C5 CQ CA C4 
+H3 H4 H8 HQ 
+C3 C7 C2 CK 
+CT C9 H5 CJ 
+H6 D5 D4 HJ 
+D2 DA D9 D3 
+ST D6 DK D7 
+SJ S2 S5 S3 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "11"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:9854.84.K8765.J4 AKQ2.KQJ962.9.K8 J3.T.AJT43.97652 T76.A753.Q2.AQT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "00073000738bc5a8bc5a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  7
+N  C  3
+S NT  0
+S  S  0
+S  H  0
+S  D  7
+S  C  3
+E NT  8
+E  S 11
+E  H 12
+E  D  5
+E  C 10
+W NT  8
+W  S 11
+W  H 12
+W  D  5
+W  C 10
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,2,0,74,20,228,659,131,38,365,223,41,19,50,62,46,83,40,52,56,10,52,54,38,68
+[Auction "S"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2H Pass 2NT =3= 
+Pass 3C =4= Pass 4S =5= 
+Pass 5D =6= Pass 6H 
+Pass Pass Pass 
+[Note "1: 2+, may have longer ♢"]
+[Note "2: 4+♡"]
+[Note "3: Relay"]
+[Note "4: cue"]
+[Note "5: RKCB"]
+[Note "6: 2 without Q"]
+[Play "N"]
+S9 SA S3 -  
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "11"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:9854.84.K8765.J4 AKQ2.KQJ962.9.K8 J3.T.AJT43.97652 T76.A753.Q2.AQT3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "00073000738bc5a8bc5a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  7
+N  C  3
+S NT  0
+S  S  0
+S  H  0
+S  D  7
+S  C  3
+E NT  8
+E  S 11
+E  H 12
+E  D  5
+E  C 10
+W NT  8
+W  S 11
+W  H 12
+W  D  5
+W  C 10
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,4,3,126,86,91,52,43,34,34,496,81,326,150,98,92,15,44,206,91,13,16,56,52,9,24,109,34,20,6,75,16,18,9
+[Auction "S"]
+Pass 1C =1= Pass 1H 
+Pass 2H Pass 4S =2= 
+Pass 5D =3= X 6H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: r k c"]
+[Note "3: 2 K|Cs in ♡, no Q"]
+[Play "S"]
+DA D2 D8 D9 
+D3 DQ DK H2 
+HT H3 H4 HK 
+D4 H5 H8 HQ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "12"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:943.KJT8.64.KT97 KQ65.A6.AKT.AQ42 AT2.93.J952.J853 J87.Q7542.Q873.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "43335423359a9a89aaa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  3
+N  C  5
+S NT  4
+S  S  2
+S  H  3
+S  D  3
+S  C  5
+E NT  9
+E  S 10
+E  H  9
+E  D 10
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,0,336,98,117,57,291,54,10,52,9,29,355,68,41,244,231,27,16,21,38,19,23,15,22,11,26,51,51,51,11,12,19,101,10,157,18,20,6,11,9,15,5,12,6,12,11,38,10,45,7,9,8,21,6,10,20,40,11,5,8,10,3,18
+[Auction "W"]
+2D =1= Pass 2NT =2= Pass 
+3S =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: weak in either major, can be very weak at this vul"]
+[Note "2: relay"]
+[Note "3: 5-7 with ♡"]
+[Play "S"]
+S2 S7 S9 SK 
+H3 HQ HK H6 
+SA S8 S4 S5 
+ST SJ S3 S6 
+H9 H2 HT HA 
+D5 H4 C7 SQ 
+D2 D3 D4 DA 
+D9 D7 D6 DK 
+DJ DQ H8 DT 
+C3 D8 C9 C2 
+C5 H5 HJ C4 
+C8 C6 CT CQ 
+CJ H7 CK CA 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "12"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:943.KJT8.64.KT97 KQ65.A6.AKT.AQ42 AT2.93.J952.J853 J87.Q7542.Q873.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "43335423359a9a89aaa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  3
+N  C  5
+S NT  4
+S  S  2
+S  H  3
+S  D  3
+S  C  5
+E NT  9
+E  S 10
+E  H  9
+E  D 10
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,4,3,112,51,400,85,147,52,39,27,123,55,29,41,43,40,29,34,93,327,21,51,118,368,38,7,65,52,34,67,81,22,21,10,212,732,44,32,77,31,30,26,87,159,64,137,34,26,12,8,13,12,18,29,27,95,22,12,22,24,54,13,10,25,12,23,27,9,19,7
+[Auction "W"]
+Pass Pass 2C =1= Pass 
+2D =2= Pass 2NT Pass 
+3D =3= Pass 3H Pass 
+3NT Pass Pass Pass 
+[Note "1: GF or strong bal"]
+[Note "2: GF relay"]
+[Note "3: ♡"]
+[Play "S"]
+D2 D3 D6 DT 
+S2 S7 S3 SK 
+ST S8 S4 SQ 
+SA SJ S9 S5 
+H9 H2 H8 H6 
+H3 H4 HT HA 
+C5 D7 HJ S6 
+D5 D8 D4 DA 
+D9 DQ C7 DK 
+C8 C6 C9 C2 
+DJ H5 HK C4 
+C3 H7 CT CQ 
+CJ HQ CK CA 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "13"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:98.3.QT843.AJ754 AK72.QJT84.A62.T T4.AK762.KJ5.Q62 QJ653.95.97.K983"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NTX"]
+[Result "6"]
+[Score "NS -1700"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -18 EW 18"]
+[DoubleDummyTricks "74598745986974469744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  5
+N  D  9
+N  C  8
+S NT  7
+S  S  4
+S  H  5
+S  D  9
+S  C  8
+E NT  6
+E  S  9
+E  H  7
+E  D  4
+E  C  4
+W NT  6
+W  S  9
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 29,2,0,491,330,831,332,78,16,35,36,644,15,11,9,18,17,12,6,50,16,45,11,31,5,16,10,27,9,12,9,33,7,42,19,11,10,9,39,6,17,19,12,22,10,61,28,14,31,7,26,6,45,7,21,8,10,4,38,8,13,5
+[Auction "N"]
+2NT =1= 3C =2= 6NT X 
+Pass Pass Pass 
+[Note "1: 5+♢%+♣ weak"]
+[Note "2: takeout with ♡ pref"]
+[Play "E"]
+SA S4 S3 S9 
+SK ST S5 S8 
+S7 H2 SJ C4 
+S2 H6 SQ C5 
+H4 H7 S6 C7 
+H8 HK H9 H3 
+D2 DK D7 D3 
+DA DJ D9 D4 
+D6 D5 C3 D8 
+HT C2 H5 DQ 
+HJ C6 C8 DT 
+CT CQ C9 CA 
+HQ HA CK CJ 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "13"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:98.3.QT843.AJ754 AK72.QJT84.A62.T T4.AK762.KJ5.Q62 QJ653.95.97.K983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 18 EW -18"]
+[DoubleDummyTricks "74598745986974469744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  5
+N  D  9
+N  C  8
+S NT  7
+S  S  4
+S  H  5
+S  D  9
+S  C  8
+E NT  6
+E  S  9
+E  H  7
+E  D  4
+E  C  4
+W NT  6
+W  S  9
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,4,3,117,115,46,44,384,45,64,38,28,26,20,56,398,30,18,91,38,23,12,617,18,40,13,170,27,676,38,28,20,28,10,23,14,14,22
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+D4 DA D5 D9 
+H3 HQ HK H5 
+D3 D2 DK D7 
+S8 H4 HA H9 
+CA CT C2 C3 
+DQ D6 DJ S3 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "14"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QJ96.972.J86.KJ5 AK74.AJ.KQT73.Q3 T832.T43.94.9842 5.KQ865.A52.AT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7D"]
+[Result "13"]
+[Score "NS -1440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "0300103001daddcdaddc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  1
+S NT  0
+S  S  3
+S  H  0
+S  D  0
+S  C  1
+E NT 13
+E  S 10
+E  H 13
+E  D 13
+E  C 12
+W NT 13
+W  S 10
+W  H 13
+W  D 13
+W  C 12
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 31,2,0,114,43,16,48,169,39,334,67,333,41,501,48,97,51,37,55,156,51,769,67,216,44,18,21,83,95,68,29,29,27,6,10,9,24,16,14,9,21,8,11,11,22,7,12,9,168,13,10,12,36,7,32,46,16,9,12
+[Auction "E"]
+1D Pass 1H Pass 
+2C =1= Pass 3C =2= Pass 
+3S =3= Pass 4D Pass 
+4H =4= Pass 5C =5= Pass 
+5H =6= Pass 5NT =7= Pass 
+7D Pass Pass Pass 
+[Note "1: min w ♢ or various 16+ hands"]
+[Note "2:  * 3+♣ [0:14]"]
+[Note "3: nat 16+"]
+[Note "4: RKCB"]
+[Note "5: 2 without Q"]
+[Note "6: asking"]
+[Note "7: ♡K or black kings"]
+[Play "S"]
+D9 D2 D6 DT 
+S2 S5 S6 SA 
+S3 D5 S9 S4 
+D4 DA D8 D3 
+H3 H5 H7 HA 
+H4 C6 DJ DK 
+S8 C7 C5 DQ 
+HT H6 H2 HJ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "14"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QJ96.972.J86.KJ5 AK74.AJ.KQT73.Q3 T832.T43.94.9842 5.KQ865.A52.AT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS -440"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "0300103001daddcdaddc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  3
+N  H  0
+N  D  0
+N  C  1
+S NT  0
+S  S  3
+S  H  0
+S  D  0
+S  C  1
+E NT 13
+E  S 10
+E  H 13
+E  D 13
+E  C 12
+W NT 13
+W  S 10
+W  H 13
+W  D 13
+W  C 12
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 21,4,3,145,77,92,64,61,36,147,56,226,58,267,78,37,35,377,44,18,34,108,229,35,11,632,52,15,32,22,30,20,10,26,23,46,8,69,15,20,22,39,61,24,13,37,11,17,27,13,179,12,17,12,31,33,31
+[Auction "E"]
+1D Pass 1H Pass 
+1S Pass 2C =1= Pass 
+3D Pass 4D =2= Pass 
+4H Pass 5D Pass 
+Pass Pass 
+[Note "1: 4th suit GF"]
+[Note "2: KC in ♢"]
+[Play "S"]
+C8 CA C5 C3 
+H3 H5 H2 HA 
+H4 H6 H7 HJ 
+D4 D2 D6 DK 
+D9 D5 D8 DQ 
+HT DA DJ D3 
+C2 HK H9 CQ 
+C4 HQ CK S4 
+C9 H8 S6 S7 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "15"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ.AT94.A9854.73 KT93..T762.KQJT8 A4.K8632.QJ.A964 87652.QJ75.K3.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "95b9895b983824538245"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 11
+N  D  9
+N  C  8
+S NT  9
+S  S  5
+S  H 11
+S  D  9
+S  C  8
+E NT  3
+E  S  8
+E  H  2
+E  D  4
+E  C  5
+W NT  3
+W  S  8
+W  H  2
+W  D  4
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,2,0,174,22,430,115,256,547,44,14,32,104,25,41,252,11,23,18,294,25,23,12,149,19,21,27,73,17,14,4,38,24,11,10,59,10,14,23,14,82,852,53,6,19,26,53,30,9,29,4,36,5,36,37,4,52,6,13,8,6,9,4
+[Auction "S"]
+1H Pass 3D =1= 4C 
+4H Pass Pass Pass 
+[Note "1: 4♡ 10-12"]
+[Play "W"]
+C5 C3 CT CA 
+H5 HA C8 H2 
+S8 SQ SK SA 
+DK DA D2 DQ 
+S7 SJ S3 S4 
+D3 D4 D6 DJ 
+C2 C7 CJ C4 
+H7 D5 D7 H3 
+HQ H4 CQ HK 
+S2 H9 CK C6 
+HJ D8 DT H6 
+S6 D9 S9 H8 
+S5 HT ST C9 
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "15"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ.AT94.A9854.73 KT93..T762.KQJT8 A4.K8632.QJ.A964 87652.QJ75.K3.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "95b9895b983824538245"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 11
+N  D  9
+N  C  8
+S NT  9
+S  S  5
+S  H 11
+S  D  9
+S  C  8
+E NT  3
+E  S  8
+E  H  2
+E  D  4
+E  C  5
+W NT  3
+W  S  8
+W  H  2
+W  D  4
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,4,3,116,24,146,141,48,41,434,162,50,46,486,17,14,71,498,77,17,18,34,23,24,15,301,46,11,19,38,26,11,35,124,33,15,8,65,38,52,23,308,33,165,76,85,61,30,8,22,57,13,12
+[Auction "S"]
+1H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+S8 SQ SK SA 
+H5 HA CK H2 
+C2 C3 CT CA 
+DK DA D2 DQ 
+C5 C7 CJ C4 
+S5 SJ S3 S4 
+D3 D4 D6 DJ 
+S2 H4 C8 C6 
+HJ D9 DT H8 
+S6 H9 S9 C9 
+H7 HT D7 HK 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "16"]
+[West "Giles Ip#415797"]
+[North "Roger Schofield#33011"]
+[East "Andy Cope#"]
+[South "Judith SANIS#222203"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT4.T.Q62.T65432 762.KQ763.K854.K J985.85.J973.AQ9 KQ3.AJ942.AT.J87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "563575635787a6587a65"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  3
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H 10
+E  D  6
+E  C  5
+W NT  8
+W  S  7
+W  H 10
+W  D  6
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,2,0,47,108,35,65,161,58,53,50,6,28,18,31,8,98,94,73,22,25,49,87,11,11,39,30,6,34,29,12,20,5,336,13,42,7,7,36,7,35
+[Auction "W"]
+1NT =1= Pass 2D =2= Pass 
+2NT =3= Pass 3D =4= Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Note "2: ♡"]
+[Note "3: 4-5♡, non-min"]
+[Note "4: retransfer"]
+[Play "N"]
+HT H3 H5 HA 
+S4 HK H8 H4 
+C2 CK CA C7 
+SA S2 S5 SK 
+ST S6 S8 SQ 
+C3 S7 CQ CJ 
+*
+
+[Event "11 Mar Ip vs Sanis"]
+[Site "RealBridge"]
+[Date "2025.03.11"]
+[Board "16"]
+[West "Steve Bunker#83362"]
+[North "Roger Bryant#73720"]
+[East "Allan Sanis#11898"]
+[South "Gareth Roberts#64240"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT4.T.Q62.T65432 762.KQ763.K854.K J985.85.J973.AQ9 KQ3.AJ942.AT.J87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sanis team"]
+[VisitTeam "Ip team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "563575635787a6587a65"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  3
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  3
+S  D  5
+S  C  7
+E NT  8
+E  S  7
+E  H 10
+E  D  6
+E  C  5
+W NT  8
+W  S  7
+W  H 10
+W  D  6
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,4,3,186,184,411,42,678,64,202,34,35,22,43,122,47,12,672,18,36,9,16,17,20,19,40,50,14,9,55,15,8,6,125,13,37,12,95,16,8,11,11,11,9,28,8,20,7,9,84,20
+[Auction "W"]
+1NT =1= Pass 2D Pass 
+3H =2= Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 4+cd ♡, min"]
+[Play "N"]
+C4 CK CA C8 
+SA S2 S5 SK 
+S4 S6 SJ SQ 
+HT H3 H5 HA 
+C6 HK H8 H2 
+C2 H6 S8 H9 
+D2 D4 D7 DA 
+D6 DK D3 DT 
+DQ D5 D9 H4 
+ST -  -  S3 
+*

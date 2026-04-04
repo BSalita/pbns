@@ -1,0 +1,2351 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "1"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K765.7.AQT965.97 82.KJ8.J4.AJT863 AQT94.AT9542.K.Q J3.Q63.8732.K542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7cac57cac51020610206"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 12
+N  H 10
+N  D 12
+N  C  5
+S NT  7
+S  S 12
+S  H 10
+S  D 12
+S  C  5
+E NT  1
+E  S  0
+E  H  2
+E  D  0
+E  C  6
+W NT  1
+W  S  0
+W  H  2
+W  D  0
+W  C  6
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 28,0,3,141,79,298,209,127,119,311,46,43,90,28,27,18,184,89,14,127,6,225,23,25,15,29,25,6,17,9,21,7,21,51,21,7,11,9,16,7,18,5,21,5
+[Auction "N"]
+1D 2C 2H =1= 3C 
+4S Pass 4NT =2= Pass 
+5H =3= Pass 6S Pass 
+Pass Pass 
+[Note "1: 5+♠"]
+[Note "2: rckb"]
+[Note "3:  * 2 without Q [0:08]"]
+[Play "E"]
+CA CQ C2 C7 
+S8 ST SJ SK 
+S2 SA S3 S5 
+D4 DK D2 D5 
+H8 HA H3 H7 
+HJ H2 H6 S6 
+DJ H4 -  DA 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "1"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K765.7.AQT965.97 82.KJ8.J4.AJT863 AQT94.AT9542.K.Q J3.Q63.8732.K542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7cac57cac51020610206"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 12
+N  H 10
+N  D 12
+N  C  5
+S NT  7
+S  S 12
+S  H 10
+S  D 12
+S  C  5
+E NT  1
+E  S  0
+E  H  2
+E  D  0
+E  C  6
+W NT  1
+W  S  0
+W  H  2
+W  D  0
+W  C  6
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 28,2,1,126,98,564,84,38,76,280,45,47,39,1240,36,169,48,223,23,33,21,107,288,47,11,323,154,29,12,16,25,10,20,41,24,55,27,49,71,14,16,43,35,10,14,18,19,12,17,9,14
+[Auction "N"]
+1D 2C 2H 3C 
+Pass Pass 3S Pass 
+4S Pass 4NT Pass 
+5H =1= Pass 6S Pass 
+Pass Pass 
+[Note "1: 2 aces withoutnspade queen"]
+[Play "W"]
+C4 C7 CA CQ 
+C5 C9 CJ ST 
+S3 S5 S2 SA 
+SJ S6 S8 SQ 
+D7 D5 D4 DK 
+H3 H7 H8 HA 
+H6 S7 HJ HT 
+-  DA DJ -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "2"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT4.9743.KT6.QT5 K.Q65.AJ872.9742 AJ7652.AJ8.53.J6 983.KT2.Q94.AK83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "6753367533667aa667aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  3
+N  C  3
+S NT  6
+S  S  7
+S  H  5
+S  D  3
+S  C  3
+E NT  6
+E  S  6
+E  H  7
+E  D 10
+E  C 10
+W NT  6
+W  S  6
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 16,0,3,117,36,187,45,78,61,114,110,28,23,79,370,19,24,224,13,25,18,36,17,14,10,79,11,19,16,92,9,24,34,15,23,16,14,22,17,22,14,135,19,13,26,18,47,11,25,26,12,17,11,9,34,7,15,10,6,6,5,8,7,6,6
+[Auction "E"]
+Pass 1S Pass 2S 
+3D 3S 4D Pass 
+Pass Pass 
+[Play "S"]
+CJ CK C5 C4 
+D3 D4 D6 DJ 
+D5 D9 DT DA 
+C6 CA CT C2 
+S2 C3 CQ C9 
+S5 DQ DK D2 
+SA S3 SQ SK 
+S6 S8 ST D7 
+S7 C8 S4 C7 
+HA H2 H4 HQ 
+H8 HT H3 H5 
+HJ HK H7 H6 
+SJ S9 H9 D8 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "2"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT4.9743.KT6.QT5 K.Q65.AJ872.9742 AJ7652.AJ8.53.J6 983.KT2.Q94.AK83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "6753367533667aa667aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  3
+N  C  3
+S NT  6
+S  S  7
+S  H  5
+S  D  3
+S  C  3
+E NT  6
+E  S  6
+E  H  7
+E  D 10
+E  C 10
+W NT  6
+W  S  6
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,2,1,205,159,177,288,201,52,309,239,90,309,55,52,140,174,24,11,168,26,26,11,125,12,22,9,62,19,140,12,53,8,17,37,10,25,102,13,1710,44,10,25,229,67,35,6,332,25,16,6,10,17,5,43,11,8,13,6,15,5,11,16
+[Auction "E"]
+1NT =1= 2D =2= X =3= 2H =4= 
+3D Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: 6cM"]
+[Note "3: values"]
+[Note "4: p or correct"]
+[Play "S"]
+D5 D4 DT DJ 
+C6 CA C5 C4 
+D3 D9 D6 D2 
+S5 DQ DK DA 
+CJ CK CQ C7 
+S2 C3 CT C2 
+SA S3 SQ SK 
+S7 S8 ST D8 
+S6 C8 H3 C9 
+HA H2 H4 HQ 
+SJ S9 S4 D7 
+H8 HT H7 H5 
+HJ HK H9 H6 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "3"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K72.AQ7.QT8.KJ72 AQJ8.65.963.AQ54 9654.T943.AK5.96 T3.KJ82.J742.T83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67767677666666666676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 6,0,3,39,117,52,34,291,127,65,41,129,50,188,650,151,41,160,67,10,32,41,110,19,6,29,5,20,6,32,7,51,9,42,12,68,18,298,25,6,29,8,20,10,20,58,29,43,15,163,25,6,24,8,39,7,12,8,16,5,17,17,3,20,6
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman"]
+[Note "3: no 4cM"]
+[Play "E"]
+H6 H3 HK HA 
+C4 C9 CT C2 
+SA S4 ST SK 
+SQ S5 S3 S2 
+SJ S6 C3 S7 
+S8 S9 D2 D8 
+D3 DA D4 DT 
+CQ C6 C8 CJ 
+D6 D5 DJ DQ 
+CA DK H2 CK 
+H5 HT H8 H7 
+D9 H4 HJ HQ 
+C5 H9 D7 C7 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "3"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K72.AQ7.QT8.KJ72 AQJ8.65.963.AQ54 9654.T943.AK5.96 T3.KJ82.J742.T83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67767677666666666676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 6,2,1,131,49,104,69,634,56,149,31,29,86,165,187,225,28,264,71,10,15,65,28,76,18,16,31,10,33,9,47,13,37,514,20,18,21,103,37,9,1505,37,32,71,12,10,22,55,23,35,13,7,7,87,51,13,22
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2C Pass 2D =2= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: no 4 cM"]
+[Play "E"]
+H6 H9 HK HA 
+SJ S4 S3 S2 
+H5 H3 H8 HQ 
+D6 DA D2 D8 
+CQ C6 C3 CJ 
+S8 S5 ST SK 
+SQ S6 D4 S7 
+C4 H4 HJ H7 
+D3 HT H2 C2 
+CA C9 C8 C7 
+D9 D5 DJ DQ 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "4"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T532.Q98.K6.AT74 AKJ8.KJ6.987.KJ6 9764.532.T5432.5 Q.AT74.AQJ.Q9832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1114111141bbb9ccbb9c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  1
+E NT 11
+E  S 11
+E  H 11
+E  D  9
+E  C 12
+W NT 12
+W  S 11
+W  H 11
+W  D  9
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,182,60,41,30,88,29,155,19,90,20,40,197,7,34,278,21,13,6,49,19,17,6,243,12,111,11,15,13,22,21,170,12,16,27,61,23,4,49
+[Auction "W"]
+1C Pass 1S Pass 
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-16"]
+[Play "N"]
+H8 H6 H2 HT 
+S2 S8 S6 SQ 
+C4 CJ C5 C2 
+H9 HJ H5 HA 
+C7 CK D5 C3 
+DK D7 D2 DJ 
+HQ HK H3 H4 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "4"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T532.Q98.K6.AT74 AKJ8.KJ6.987.KJ6 9764.532.T5432.5 Q.AT74.AQJ.Q9832"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1114111141bbb9ccbb9c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  1
+E NT 11
+E  S 11
+E  H 11
+E  D  9
+E  C 12
+W NT 12
+W  S 11
+W  H 11
+W  D  9
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,432,30,160,40,436,62,307,39,137,33,330,47,162,35,1123,162,38,24,42,21,48,16,15,12,19,56,40,69,25,33,311,29,16,58,156,24,15,19,105,22,15,8,29,10,25,9,56,18,25,7,27,10,16,6,23,11,38,8,161,15,20
+[Auction "W"]
+1D =1= Pass 1H =2= Pass 
+2D =3= Pass 2H =4= Pass 
+2S =5= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: Any 10+, asking"]
+[Note "3: GF, will have ♠ or 3suiter"]
+[Note "4: Asking for shape"]
+[Note "5: 3suiter"]
+[Play "S"]
+D3 DJ DK D7 
+D2 DQ D6 D8 
+C5 C2 C4 CK 
+S4 C3 C7 CJ 
+H2 H4 HQ HJ 
+S6 SQ S5 S8 
+D5 DA H8 D9 
+H3 H7 H9 HK 
+S7 C8 S2 SA 
+S9 C9 S3 SK 
+D4 CQ ST SJ 
+H5 HA -  H6 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "5"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T54.Q96.A983.865 72.AJ73.75.A9732 AQJ63.KT85.T64.K K98.42.KQJ2.QJT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "47653476538577a8577a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  7
+S  H  6
+S  D  5
+S  C  3
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C 10
+W NT  8
+W  S  5
+W  H  7
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 15,0,3,43,30,29,62,49,72,31,242,29,34,14,27,107,299,24,34,9,22,11,76,28,15,18,81,18,88,5,156,22,16,46,462,90,18,17,5,19,31,10,14,134,12,27,44,29,10,5,15,10,7,6,8,8,8,17
+[Auction "N"]
+Pass Pass 1S Pass 
+2S 3C 3S 4C 
+Pass Pass Pass 
+[Play "S"]
+DT DJ D3 D5 
+CK CQ C5 C2 
+H5 H2 HQ HA 
+S3 C4 C6 CA 
+D6 DQ DA D7 
+HT H4 H9 H3 
+SA S8 S4 S2 
+D4 D2 D8 C3 
+S6 CT C8 C7 
+SJ SK S5 S7 
+H8 DK D9 H7 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "5"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T54.Q96.A983.865 72.AJ73.75.A9732 AQJ63.KT85.T64.K K98.42.KQJ2.QJT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "47653476538577a8577a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  7
+S  H  6
+S  D  5
+S  C  3
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C 10
+W NT  8
+W  S  5
+W  H  7
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 15,2,1,47,32,120,50,251,38,178,316,89,44,46,52,50,82,39,24,69,528,76,56,56,69,243,23,17,255,23,13,9,11,25,9,27,78,31,7,24,23,15,15,16,16,21,7,69
+[Auction "N"]
+Pass Pass 1S Pass 
+2S =1= Pass Pass 2NT =2= 
+Pass 3C 3H Pass 
+3S 4C Pass Pass 
+Pass 
+[Note "1: 6-7 3cs"]
+[Note "2: two suits"]
+[Play "S"]
+D4 DK DA D5 
+H5 H2 H6 HA 
+SA S8 S4 S7 
+HK H4 H9 H7 
+SQ SK S5 S2 
+CK CQ C5 C2 
+SJ S9 ST C3 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "6"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT72.KQT.A32.532 Q94.53.KT85.AKT6 A8.AJ984.J6.J874 K653.762.Q974.Q9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76846768466758667586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H  8
+S  D  4
+S  C  6
+E NT  6
+E  S  7
+E  H  5
+E  D  8
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,0,3,147,127,65,333,51,50,33,38,100,150,25,74,146,21,18,119,37,10,22,395,15,34,5,11,27,18,11,27,187,16,13,5,37,6,22,40,8,19,7,5,22,4,17,93,13,13,11,7,14,8,24,72,22,17
+[Auction "E"]
+1NT =1= 2H =2= Pass 2NT =3= 
+Pass 3C Pass 3H =4= 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: ♡+minor"]
+[Note "3: ask"]
+[Note "4:  * invite [0:09]"]
+[Play "W"]
+S3 ST SQ SA 
+SK S2 S4 S8 
+D4 DA D5 D6 
+S5 SJ S9 DJ 
+S6 S7 H3 H4 
+C9 C2 C6 C4 
+D7 D2 DK H8 
+CQ C3 CT C7 
+H2 HT H5 H9 
+D9 C5 CK C8 
+DQ -  D8 HA 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "6"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT72.KQT.A32.532 Q94.53.KT85.AKT6 A8.AJ984.J6.J874 K653.762.Q974.Q9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76846768466758667586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  4
+N  C  6
+S NT  7
+S  S  6
+S  H  8
+S  D  4
+S  C  6
+E NT  6
+E  S  7
+E  H  5
+E  D  8
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,2,1,259,49,187,410,103,65,47,211,31,92,37,124,283,50,12,465,48,17,21,49,19,8,10,23,134,62,10,18,11,19,10,36,19,31,31,16,20,9,13,7,16,4,37,28,24,15
+[Auction "E"]
+1D =1= 1H Pass 2C =2= 
+Pass 3C Pass 3H 
+Pass Pass Pass 
+[Note "1: 2+♢, 11-15"]
+[Note "2: good raise in hearts"]
+[Play "W"]
+D4 DA D8 D6 
+C9 C2 CK C4 
+CQ C3 CA C8 
+H7 C5 C6 C7 
+D7 D2 DK DJ 
+H2 HT CT CJ 
+H6 HK H3 H4 
+S5 HQ H5 H9 
+-  SJ S4 SA 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "7"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ987643.AJ4.T.Q T2.QT863.A6.KJ64 5.752.K973.T7532 AK.K9.QJ8542.A98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2722327223b6aaab6aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  2
+N  C  3
+S NT  2
+S  S  7
+S  H  2
+S  D  2
+S  C  3
+E NT 11
+E  S  6
+E  H 10
+E  D 10
+E  C 10
+W NT 11
+W  S  6
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,31,95,180,170,26,35,40,110,14,22,209,7,26,45,11,22,6,24,5,46,10,1918,19,23,20,121,11,25,11,11,22,43,19,268,12,24,8,229,7,19,13
+[Auction "S"]
+Pass 1D 3S X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+SQ S2 S5 SA 
+DT DA D3 D2 
+S3 D6 D7 DJ 
+CQ CK C2 C9 
+HA H3 H2 HK 
+SJ ST C3 SK 
+H4 HT H5 H9 
+HJ H6 H7 D4 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "7"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ987643.AJ4.T.Q T2.QT863.A6.KJ64 5.752.K973.T7532 AK.K9.QJ8542.A98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2722327223b6aaab6aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  2
+N  C  3
+S NT  2
+S  S  7
+S  H  2
+S  D  2
+S  C  3
+E NT 11
+E  S  6
+E  H 10
+E  D 10
+E  C 10
+W NT 11
+W  S  6
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 20,2,1,62,331,79,1354,40,235,58,24,48,88,1082,25,21,559,28,25,12,396,25,433,57,14,17,20,17,1985,38,12,256,39,43,11,8,15,20,189,13,15,16,22,18,11,21,15,8,16,54,13,26,10,18,16,10,18,8,9,6,8,10,7,12
+[Auction "S"]
+Pass 1C =1= 4S 4NT =2= 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: any 16ish +"]
+[Note "2: 2 places"]
+[Play "N"]
+SQ S2 S5 SA 
+CQ C4 C2 CA 
+DT DA D7 DJ 
+S8 D6 DK D2 
+S3 C6 C3 C9 
+HA H3 H2 HK 
+SJ ST C5 SK 
+S4 CJ C7 C8 
+H4 HQ H5 H9 
+HJ HT H7 D4 
+S6 CK D3 D5 
+S7 H8 CT D8 
+S9 H6 D9 DQ 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "8"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q62.AKT9.JT.QJT5 T87.87532.A753.7 J9543.6.96.98432 AK.QJ4.KQ842.AK6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "4642646426969a5969a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  2
+N  C  6
+S NT  4
+S  S  6
+S  H  4
+S  D  2
+S  C  6
+E NT  9
+E  S  6
+E  H  9
+E  D 10
+E  C  5
+W NT  9
+W  S  6
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 17,0,3,592,32,160,21,199,193,20,33,26,306,17,18,27,26,18,6,25,5,23,25,142,58,5,18,28,12,20,5,24,27,65,17,9,19,27,11,15,16,12,15,7,23,5,16,9,72,6,22
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+4H Pass Pass Pass 
+[Note "1: hearts"]
+[Play "N"]
+CQ C7 C9 CA 
+C5 H2 C2 C6 
+HK H3 H6 HJ 
+CJ S7 C3 CK 
+DT DA D9 D2 
+HA H5 C4 HQ 
+HT H7 S5 H4 
+H9 H8 C8 D4 
+CT D3 D6 D8 
+DJ D5 S3 DQ 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "8"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q62.AKT9.JT.QJT5 T87.87532.A753.7 J9543.6.96.98432 AK.QJ4.KQ842.AK6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "4642646426969a5969a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  2
+N  C  6
+S NT  4
+S  S  6
+S  H  4
+S  D  2
+S  C  6
+E NT  9
+E  S  6
+E  H  9
+E  D 10
+E  C  5
+W NT  9
+W  S  6
+W  H  9
+W  D 10
+W  C  5
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,347,45,103,43,185,71,99,181,266,70,421,42,217,58,46,102,24,344,26,131,32,27,9,13,76,14,21,11,117,35,19,28,46,266,11,35,20,21,15,7
+[Auction "W"]
+1C =1= Pass 1D =2= Pass 
+1H =3= Pass 1S =4= Pass 
+2NT =5= Pass 3C =6= Pass 
+3NT =7= Pass Pass Pass 
+[Note "1: any 16ish +"]
+[Note "2: Neg, 0-8"]
+[Note "3: art, just shows extras"]
+[Note "4: Any 0-5"]
+[Note "5: nat, 23-24"]
+[Note "6: 5cd Stay"]
+[Note "7: no 4 or 5 cd Maj"]
+[Play "N"]
+CQ C7 C2 CA 
+DT D3 D6 DK 
+DJ DA D9 D2 
+HK H2 H6 HQ 
+CJ H3 C3 CK 
+S2 S7 S3 SA 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "9"]
+[West "Roger Harris#447742"]
+[North "Giles Ip#415797"]
+[East "Alan Patel#94985"]
+[South "Andy Cope#487695"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.87.AKJ765.94 A4.AKQ5.QT942.72 JT9832.J943..KQT 76.T62.83.AJ8653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "69664696646477964779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  4
+E  H  7
+E  D  7
+E  C  9
+W NT  6
+W  S  4
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,123,72,237,140,37,72,109,329,188,18,11,28,5,87,27,19,7,16,52,28,19,4,88,16,21,6,656,13,30,15,11,25,6,56,5,24,5,20,6,17,5,25,6,10,5
+[Auction "N"]
+1NT =1= X 4S Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+D8 D5 D4 S2 
+S6 S5 S4 SJ 
+S7 SQ SA S3 
+HT H7 HA HJ 
+CA C4 C7 CQ 
+CJ C9 C2 CK 
+C3 H8 H5 CT 
+H2 SK HQ H3 
+D3 DA D2 H4 
+-  DK D9 H9 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "9"]
+[West "Roger Bryant#73720"]
+[North "Peter Heatherington#41265"]
+[East "Steve Green#85164"]
+[South "Dominic Connolly#116170"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.87.AKJ765.94 A4.AKQ5.QT942.72 JT9832.J943..KQT 76.T62.83.AJ8653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "69664696646477964779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  4
+E  H  7
+E  D  7
+E  C  9
+W NT  6
+W  S  4
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,227,250,339,290,93,126,40,27,21,42,170,36,135,413,21,13,135,28,18,140,549,177,35,19,27,26,10,8,294,32,15,9,29,122,8,12
+[Auction "N"]
+1D 1NT 2S 2NT =1= 
+Pass 3C =2= Pass Pass 
+3S Pass Pass Pass 
+[Note "1: Leb, forces 3♣"]
+[Note "2: Leb"]
+[Play "W"]
+D8 DA D2 H4 
+CA C4 C7 CK 
+S6 S5 SA S3 
+H2 H7 HK H3 
+H6 H8 HQ H9 
+S7 SK S4 S2 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "10"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:86.AQ9872.KQ3.K5 KQ72.T6.974.QJ84 T43.KJ54.T85.A97 AJ95.3.AJ62.T632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "85a6585a655736857368"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  6
+N  C  5
+S NT  8
+S  S  5
+S  H 10
+S  D  6
+S  C  5
+E NT  5
+E  S  7
+E  H  3
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  3
+W  D  6
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 12,1,3,65,54,78,113,38,360,324,134,79,55,95,52,154,56,182,31,23,46,17,34,18,141,30,29,25,22,27,9,16,14,43,13,15,19,33,13,16,9,93,17,20,12,73,22,19,9,15,16,14
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 2H X Pass 
+2S 3H Pass Pass 
+Pass 
+[Play "E"]
+SK S3 S5 S6 
+S2 S4 SA S8 
+S7 ST SJ H7 
+H6 HK H3 H2 
+HT H4 S9 HA 
+C4 CA C3 C5 
+D4 D5 D2 DQ 
+SQ HJ C2 H8 
+D7 D8 DA D3 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "10"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:86.AQ9872.KQ3.K5 KQ72.T6.974.QJ84 T43.KJ54.T85.A97 AJ95.3.AJ62.T632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "85a6585a655736857368"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  6
+N  C  5
+S NT  8
+S  S  5
+S  H 10
+S  D  6
+S  C  5
+E NT  5
+E  S  7
+E  H  3
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  3
+W  D  6
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 13,2,0,30,22,94,119,28,976,51,118,109,40,29,85,10,7,39,8,9,58,30,28,13,57,12,15,29,6,1229,14,108,8,35,17,16,6,14,17,5,7,39,24,5,7,47,17,5,34,14,16,36,14,88,13,7,5,5,14,6,10,3,11,4,5
+[Auction "E"]
+Pass Pass 1D =1= 1H 
+X 3H =2= 3S Pass 
+Pass Pass 
+[Note "1: unbal"]
+[Note "2: not invit"]
+[Play "N"]
+HA H6 H4 H3 
+H2 HT HK S5 
+CK C4 C7 C2 
+C5 C8 CA CT 
+S6 CJ C9 C3 
+S8 S2 S3 SA 
+H7 S7 S4 SJ 
+H8 SQ ST S9 
+H9 CQ HJ C6 
+DQ D9 DT DJ 
+HQ SK H5 D2 
+D3 D4 D5 DA 
+DK D7 D8 D6 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "11"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A.J85.QJT4.AJT98 KT65.K3.K9632.52 Q97.AQ.A5.KQ7643 J8432.T97642.87."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS 940"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "c679dc67ad0763007630"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  6
+N  H  7
+N  D  9
+N  C 13
+S NT 12
+S  S  6
+S  H  7
+S  D 10
+S  C 13
+E NT  0
+E  S  7
+E  H  6
+E  D  3
+E  C  0
+W NT  0
+W  S  7
+W  H  6
+W  D  3
+W  C  0
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 25,1,3,196,80,218,91,286,99,169,44,217,34,123,54,250,33,91,132,570,111,239,79,558,45,49,44,59,297,68,32,146,49,179,16,85,15,17,12,18,16,56,19,34,29,16,7,25,46,23,25
+[Auction "S"]
+1C =1= Pass 2C =2= Pass 
+2D =3= Pass 2H =4= Pass 
+2S =5= Pass 2NT =6= Pass 
+3C =7= Pass 3D =8= Pass 
+3H =9= Pass 4C =10= Pass 
+6C Pass Pass Pass 
+[Note "1: any 16ish +"]
+[Note "2: GF, 5+♣, no major"]
+[Note "3: art,asking for shape"]
+[Note "4: 4♢"]
+[Note "5: another art ask"]
+[Note "6: 0-1♠"]
+[Note "7: another art ask"]
+[Note "8: 1345"]
+[Note "9: asking about AKs"]
+[Note "10: 4 controls (A==2, K=1)"]
+[Play "W"]
+HT H5 H3 HQ 
+H6 CA C2 C3 
+H2 CJ C5 C4 
+H4 H8 HK HA 
+S2 SA S5 S7 
+H7 HJ D2 D5 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "11"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A.J85.QJT4.AJT98 KT65.K3.K9632.52 Q97.AQ.A5.KQ7643 J8432.T97642.87."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6SX"]
+[Result "7"]
+[Score "NS 1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "c679dc67ad0763007630"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  6
+N  H  7
+N  D  9
+N  C 13
+S NT 12
+S  S  6
+S  H  7
+S  D 10
+S  C 13
+E NT  0
+E  S  7
+E  H  6
+E  D  3
+E  C  0
+W NT  0
+W  S  7
+W  H  6
+W  D  3
+W  C  0
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 28,2,0,336,58,161,484,288,17,216,31,38,212,36,15,20,18,162,26,190,18,670,39,20,24,34,16,5,14,124,14,119,13,18,41,10,91,123,27,40,15,423,55,75,15,72,27,37,65,16,17,35,15,16,51,5,11,9
+[Auction "S"]
+1NT =1= 2C =2= 3S =3= 4S 
+5C Pass 6C Pass 
+Pass 6S X Pass 
+Pass Pass 
+[Note "1: 1517"]
+[Note "2: majors"]
+[Note "3: splinter"]
+[Play "S"]
+DA D7 DQ D2 
+D5 D8 DT DK 
+S7 S2 SA SK 
+C6 S3 CJ C2 
+HA H2 H5 HK 
+SQ S4 C9 S5 
+S9 S8 C8 ST 
+C3 H4 DJ D6 
+C4 SJ CT C5 
+HQ HT HJ H3 
+CK -  -  -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "12"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:54.KQ876.QT987.4 K9.JT9.AK3.A9653 T876.54.642.T872 AQJ32.A32.J5.KQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -520"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "0035000350dda7ddda7d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  5
+N  C  0
+S NT  0
+S  S  0
+S  H  3
+S  D  5
+S  C  0
+E NT 13
+E  S 13
+E  H 10
+E  D  7
+E  C 13
+W NT 13
+W  S 13
+W  H 10
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 14,1,3,254,80,36,51,119,46,204,45,22,22,162,301,62,16,51,25,14,6,20,31,17,59,114,96,21,77,33,31,15,18,60,16,48,16,35,21,20,32,39,16,13,47,16,10,18,27,18,19,13,24,17,21,16,46,17,27,14,8,16,15,12,5
+[Auction "W"]
+1S Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HQ H9 H5 HA 
+C4 C3 C2 CK 
+D7 C5 C8 CQ 
+DT C6 C7 CJ 
+S5 SK S8 S2 
+H8 CA CT D5 
+H6 C9 H4 H2 
+D9 DA D2 DJ 
+DQ DK D4 H3 
+S4 S9 S6 SA 
+H7 D3 S7 SQ 
+D8 HT ST SJ 
+HK HJ D6 S3 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "12"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:54.KQ876.QT987.4 K9.JT9.AK3.A9653 T876.54.642.T872 AQJ32.A32.J5.KQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3HXX"]
+[Result "9"]
+[Score "NS -760"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "0035000350dda7ddda7d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  3
+N  D  5
+N  C  0
+S NT  0
+S  S  0
+S  H  3
+S  D  5
+S  C  0
+E NT 13
+E  S 13
+E  H 10
+E  D  7
+E  C 13
+W NT 13
+W  S 13
+W  H 10
+W  D  7
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 12,2,0,78,75,25,71,152,80,475,237,15,163,89,85,152,15,63,33,5,7,7,22,4,5,32,13,55,5,65,38,10,4,27,24,3,32,6,9,5,23,38,76,7,65,57,90,7,6,53,17,6,7,37,9,11,5,7,9,4,5,9,3,4,8
+[Auction "W"]
+1S Pass 2C =1= Pass 
+3H =2= X XX Pass 
+Pass Pass 
+[Note "1: Art GF various hands"]
+[Note "2: 17-19 bal"]
+[Play "N"]
+C4 C3 C2 CK 
+H6 H9 H4 HA 
+HQ HT H5 H3 
+HK HJ D2 H2 
+D9 DA D4 D5 
+S4 SK S7 S2 
+S5 S9 S6 SA 
+H8 C5 S8 SQ 
+D7 D3 D6 DJ 
+D8 C6 ST SJ 
+H7 C9 C7 S3 
+DT DK C8 CJ 
+DQ CA CT CQ 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "13"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K83.98652.QT.KJ8 AQ5.AK74.J5.QT74 96.QJ3.K9643.A92 JT742.T.A872.653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "64765546646967869678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  6
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  9
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  9
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,42,54,120,35,30,13,41,35,214,15,169,11,11,9,29,6,9,15,33,8,64,18,46,19,13,14,33,43,11,48,19,9,7,7,23,11,9
+[Auction "N"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: ♠"]
+[Play "S"]
+HQ HT H2 HA 
+H3 C3 H5 HK 
+D3 D7 DT D5 
+D4 DA DQ DJ 
+D6 D2 SK SA 
+HJ S2 H6 H4 
+DK D8 S8 SQ 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "13"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K83.98652.QT.KJ8 AQ5.AK74.J5.QT74 96.QJ3.K9643.A92 JT742.T.A872.653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "64765546646967869678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  6
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  4
+E NT  6
+E  S  9
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  9
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,65,33,67,71,30,186,51,183,36,192,166,37,19,64,22,55,20,722,35,17,20,15,14,18,31,30,402,28,35,207,29,147,20,820,73,23,22,284,15,17,16,15,44,23,25,17,15,24,23,39,20,22,24,10,13,12,8,8,15,9,6
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1:  * 15-16 [0:08]"]
+[Play "S"]
+D4 D2 DQ D5 
+DK DA DT DJ 
+S9 S2 S3 SQ 
+S6 S4 S8 SA 
+D6 ST SK S5 
+HJ HT H5 H4 
+HQ C3 H2 HK 
+H3 C5 H6 HA 
+D3 S7 H8 H7 
+C2 C6 H9 C4 
+CA SJ C8 CT 
+D9 D7 CJ C7 
+C9 D8 CK CQ 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "14"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:842.JT85.Q762.87 A9765.762.3.AQ63 QJT3.AKQ9.AKJT8. K.43.954.KJT9542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "46bb246bb24522a4522a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H 11
+N  D 11
+N  C  2
+S NT  4
+S  S  6
+S  H 11
+S  D 11
+S  C  2
+E NT  4
+E  S  5
+E  H  2
+E  D  2
+E  C 10
+W NT  4
+W  S  5
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 21,2,0,36,95,70,95,36,226,26,99,82,783,42,87,127,38,13,13,38,16,75,42,98,11,39,11,13,18,12,9,8,9,12,19,9,8,6,12,39,10,36
+[Auction "E"]
+1S X Pass 2H 
+Pass 2S =1= 3C Pass 
+4C 4D 5C 5D 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+SK S2 S5 S3 
+CT C7 CA D8 
+D4 D2 D3 DA 
+D5 D6 C3 DK 
+D9 D7 S6 DJ 
+C2 S4 SA SQ 
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "14"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:842.JT85.Q762.87 A9765.762.3.AQ63 QJT3.AKQ9.AKJT8. K.43.954.KJT9542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "46bb246bb24522a4522a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H 11
+N  D 11
+N  C  2
+S NT  4
+S  S  6
+S  H 11
+S  D 11
+S  C  2
+E NT  4
+E  S  5
+E  H  2
+E  D  2
+E  C 10
+W NT  4
+W  S  5
+W  H  2
+W  D  2
+W  C 10
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 22,1,3,106,97,94,56,232,161,79,74,37,985,59,62,46,22,35,67,177,72,27,25,25,17,14,21,19,16,11,722,163,19,10,88,25,20,28,111,24,17,42,38,60,14,16,33,20,12,9,46,25,21,11,38,24,17,31,14,18,20,20,10,22,14,18,11,12,15,14
+[Auction "E"]
+Pass 1C =1= 3C Pass 
+4C X =2= Pass 4H 
+Pass 5C =3= Pass 5H 
+Pass Pass Pass 
+[Note "1: any 16ish +"]
+[Note "2: t/o"]
+[Note "3: agrees ♡, cue"]
+[Play "E"]
+D3 DA D5 D6 
+H2 HA H3 H5 
+H7 HK H4 H8 
+H6 HQ C5 HT 
+C3 DK D4 D2 
+S5 D8 D9 DQ 
+S6 DT C2 D7 
+C6 DJ C4 C7 
+S7 SQ SK S2 
+CQ H9 CJ C8 
+SA SJ C9 S4 
+CA S3 CT HJ 
+S9 ST CK S8 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "15"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:843.6543.T73.AT9 97.AJT982.864.K3 AQ652.KQ7.A.Q864 KJT..KQJ952.J752"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "5853758537748a6748a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  3
+N  C  7
+S NT  5
+S  S  8
+S  H  5
+S  D  3
+S  C  7
+E NT  7
+E  S  4
+E  H  8
+E  D 10
+E  C  6
+W NT  7
+W  S  4
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,2,0,142,42,427,32,136,28,23,16,38,13,41,22,26,108,11,12,14,21,18,8,128,13,6,53,28,12,146,1218,20,42,185,20,22,6,28,10,16,8,61,73
+[Auction "S"]
+1S 2D Pass 2H 
+Pass 3C Pass 3D 
+Pass Pass Pass 
+[Play "N"]
+S3 S7 SA ST 
+D3 D4 DA D2 
+S8 S9 S5 SK 
+C9 C3 CQ CJ 
+S4 D6 SQ SJ 
+H3 HA H7 C2 
+CA CK C4 C5 
+DT -  -  -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "15"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:843.6543.T73.AT9 97.AJT982.864.K3 AQ652.KQ7.A.Q864 KJT..KQJ952.J752"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "5"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "5853758537748a6748a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  3
+N  C  7
+S NT  5
+S  S  8
+S  H  5
+S  D  3
+S  C  7
+E NT  7
+E  S  4
+E  H  8
+E  D 10
+E  C  6
+W NT  7
+W  S  4
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,1,3,176,107,166,65,373,44,56,25,27,38,85,258,24,34,118,29,20,34,150,138,29,18,128,30,18,19,38,23,17,16,107,34,15,14,56,21,16,16,14,25,30,23,427,32,15,11,72,22,16,26,20
+[Auction "S"]
+1C =1= 3D Pass Pass 
+X Pass 3H Pass 
+Pass Pass 
+[Note "1: any 16ish +"]
+[Play "E"]
+D6 DA DQ D3 
+CK C4 C2 CT 
+S9 SQ SK S3 
+D8 H7 DK D7 
+C3 C6 C5 C9 
+H2 C8 C7 CA 
+HA HQ D2 H3 
+H8 HK D5 H4 
+S7 SA ST S4 
+D4 S2 SJ S8 
+-  -  DJ -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "16"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A7.KQT854.85.KQ3 QT2.A963.T3.JT65 KJ4.J.A642.A9842 98653.72.KQJ97.7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "b6b7bb6b7b1615216152"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H 11
+N  D  7
+N  C 11
+S NT 11
+S  S  6
+S  H 11
+S  D  7
+S  C 11
+E NT  1
+E  S  6
+E  H  1
+E  D  5
+E  C  2
+W NT  1
+W  S  6
+W  H  1
+W  D  5
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 25,2,0,43,94,70,389,44,55,22,197,60,102,14,277,39,548,202,72,17,25,1052,17,23,462,23,11,11,9,6,11,10,14,8,12,11,1730,26,27,35,185,94,19,712,11,9,10,10,173,11,8,5,28,6,11,5,23,4,14,6,23,5,27,11,14,9,8,4,8,5,11,5
+[Auction "W"]
+Pass 1H Pass 2C =1= 
+2D 2H Pass 3D =2= 
+Pass 4C Pass 5C 
+Pass 6C Pass Pass 
+Pass 
+[Note "1: GF"]
+[Note "2: Alerted"]
+[Play "W"]
+DK D5 DT DA 
+S5 SA S2 S4 
+S3 S7 ST SJ 
+S6 D8 SQ SK 
+H7 H4 HA HJ 
+D7 C3 D3 D4 
+C7 CK C5 C2 
+D9 CQ C6 C4 
+H2 HK H3 D2 
+S8 HQ H6 D6 
+S9 HT H9 C8 
+DJ H5 CT CA 
+DQ H8 CJ C9 
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "16"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A7.KQT854.85.KQ3 QT2.A963.T3.JT65 KJ4.J.A642.A9842 98653.72.KQJ97.7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "b6b7bb6b7b1615216152"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H 11
+N  D  7
+N  C 11
+S NT 11
+S  S  6
+S  H 11
+S  D  7
+S  C 11
+E NT  1
+E  S  6
+E  H  1
+E  D  5
+E  C  2
+W NT  1
+W  S  6
+W  H  1
+W  D  5
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,92,42,35,250,103,1538,108,864,56,111,27,21,246,175,65,32,22,10,325,27,37,24,50,64,26,19,27,24,19,12,21,349,175,15,24,148,25,49,12,100,21,9,47,329,48,20,15,17
+[Auction "W"]
+Pass 1H Pass 1S =1= 
+2D 2NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: art, asking for suits"]
+[Note "2: 0-2♠, <4 in both minors"]
+[Play "E"]
+DT D2 DJ D5 
+D3 D4 DK D8 
+H6 DA DQ H4 
+C5 C2 C7 CK 
+C6 C4 H2 CQ 
+H3 HJ H7 H5 
+CT CA S3 C3 
+CJ C8 D7 H8 
+HA D6 S5 HT 
+H9 -  -  -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "17"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9763.AJT7.A532.T J8.K.Q976.QJ9762 KT4.652.KJT8.K54 AQ52.Q9843.4.A83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "76673767735565a5565a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  7
+N  C  3
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  3
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C 10
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,2,0,118,19,178,21,241,307,57,78,102,27,48,18,28,1193,18,32,185,12,9,7,8,10,11,15,158,197,22,104,19,24,18,9,155,70,17,11,42,16,24,8,5,18,5,9,13,11,5,10,6
+[Auction "N"]
+Pass Pass 1D 1H 
+X 1NT =1= Pass Pass 
+3D Pass Pass Pass 
+[Note "1: 5+♣"]
+[Play "W"]
+H4 HA HK H5 
+D4 DA D6 D8 
+S2 D3 D9 DJ 
+HQ H7 C6 H6 
+H9 HT D7 H2 
+SQ S3 S8 ST 
+CA CT CQ C5 
+SA S6 SJ S4 
+S5 S7 DQ SK 
+-  -  CJ -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "17"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9763.AJT7.A532.T J8.K.Q976.QJ9762 KT4.652.KJT8.K54 AQ52.Q9843.4.A83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "76673767735565a5565a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  7
+N  C  3
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  3
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C 10
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 4,1,3,88,51,59,64,55,102,63,82,46,179,103,219,33,116,79,18,17,182,16,146,26,15,32,8,74,54,82,19,10,17,117,17,40,36,14,25,23,16,51,21,108,60,52,19,12,12,22,9,10,15,17,11,17,18,14
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 1NT Pass Pass 
+Pass 
+[Play "S"]
+DJ D4 D5 DQ 
+C5 C3 CT CQ 
+C4 C8 S6 C2 
+CK CA S3 C6 
+H2 H3 H7 HK 
+H6 H4 D3 CJ 
+H5 H8 HT C9 
+D8 S2 S9 C7 
+SK SA S7 SJ 
+S4 SQ D2 S8 
+ST S5 HJ D6 
+DT H9 -  -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "18"]
+[West "Andy Cope#487695"]
+[North "Peter Heatherington#41265"]
+[East "Giles Ip#415797"]
+[South "Dominic Connolly#116170"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9743.A754.KJ8.QT KJT.Q.QT93.AK754 A652.J96.A765.J2 Q8.KT832.42.9863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "46564465548787987879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  6
+S  H  5
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,0,102,233,57,46,45,92,20,23,77,31,209,29,1016,529,30,22,23,38,15,8,69,11,5,8,1413,42,27,10,235,20,11,22,150,31,25,23,14,100,39,47,30,12,22,5,22,7,10,13,22
+[Auction "E"]
+1C =1= Pass 1D =2= Pass 
+2C Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+, may have 5♢"]
+[Note "2: 4+♡"]
+[Play "S"]
+HJ H2 H5 HQ 
+C2 C8 CT CK 
+CJ C3 CQ CA 
+S5 SQ S7 ST 
+H6 HK H7 D3 
+SA S8 S3 SK 
+H9 HT HA C4 
+DA D2 DJ DQ 
+D7 D4 DK DT 
+-  -  D8 -  
+*
+
+[Event "Ip vs Connolly Monday"]
+[Site "RealBridge"]
+[Date "2023.04.24"]
+[Board "18"]
+[West "Roger Harris#447742"]
+[North "Steve Green#85164"]
+[East "Alan Patel#94985"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9743.A754.KJ8.QT KJT.Q.QT93.AK754 A652.J96.A765.J2 Q8.KT832.42.9863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Connolly"]
+[VisitTeam "Ip"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "46564465548787987879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  6
+N  C  4
+S NT  4
+S  S  6
+S  H  5
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,1,3,145,48,61,37,115,90,59,45,123,191,902,146,19,15,127,35,17,34,75,37,18,34,64,21,14,21,492,32,22,27,31,34,9,18,46,38,15,15,33,35,14,15,12,20,9,35,10,18,11,12,20,23,46,11,24,14,7,11,7,9,12,6
+[Auction "E"]
+1C Pass 1H Pass 
+1NT =1= Pass 2C Pass 
+Pass Pass 
+[Note "1:  * 15-16 [0:09]"]
+[Play "S"]
+C2 C3 CQ CK 
+H6 H2 H7 HQ 
+S6 SQ S7 ST 
+SA S8 S3 SK 
+D5 D2 DK D3 
+CJ C6 CT CA 
+S5 D4 S4 SJ 
+D7 C8 D8 D9 
+H9 H3 H4 C4 
+D6 C9 DJ DT 
+HJ H8 H5 C5 
+S2 HT HA C7 
+DA HK S9 DQ 

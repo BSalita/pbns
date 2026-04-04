@@ -1,0 +1,4034 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "1"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:64.A2.64.AKQ9874 K97.KQJ974.K8.62 Q2.T83.Q9752.JT5 AJT853.65.AJT3.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "42258422585bb855bb85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  5
+N  C  8
+S NT  4
+S  S  2
+S  H  2
+S  D  5
+S  C  8
+E NT  5
+E  S 11
+E  H 11
+E  D  8
+E  C  5
+W NT  5
+W  S 11
+W  H 11
+W  D  8
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 23,2,1,367,270,69,137,107,95,215,22,146,37,32,199,31,18,23,221,115,25,11,94,45,19,17,21,19,38,20,158,19,14,14,22,25,15,15,22
+[Auction "N"]
+1C =1= 1H Pass 2S 
+3C 3S 4C 4S 
+5C Pass Pass 5S 
+Pass Pass Pass 
+[Play "N"]
+CA C2 C5 C3 
+CK C6 CT S3 
+S4 SK S2 SJ 
+S6 S9 SQ SA 
+HA H4 H3 H5 
+D6 -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "1"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:64.A2.64.AKQ9874 K97.KQJ974.K8.62 Q2.T83.Q9752.JT5 AJT853.65.AJT3.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "42258422585bb855bb85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  5
+N  C  8
+S NT  4
+S  S  2
+S  H  2
+S  D  5
+S  C  8
+E NT  5
+E  S 11
+E  H 11
+E  D  8
+E  C  5
+W NT  5
+W  S 11
+W  H 11
+W  D  8
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 20,0,3,767,42,104,65,222,34,91,31,19,33,18,251,25,8,16,17,245,25,82,340,35,19,25,65,22,23,8,369,25,78,9,486,28,14,18,14,61,31,9
+[Auction "N"]
+1C 1H 2C 2S 
+3C 4S Pass Pass 
+5C Pass Pass X 
+Pass Pass Pass 
+[Play "E"]
+HK H3 H6 HA 
+DK D2 D3 D4 
+HQ H8 H5 H2 
+S7 S2 SA S6 
+SK SQ S8 S4 
+D8 DQ DA D6 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "2"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ8543.987.3.QJ3 KQT7.52.QJT75.A2 92.KT43.9642.KT4 6.AQJ6.AK8.98765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2531325413a89c9a89c9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  4
+S  D  1
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 12
+E  C  9
+W NT 10
+W  S  8
+W  H  9
+W  D 12
+W  C  9
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,2,1,208,31,46,36,118,67,37,31,137,29,18,21,20,24,39,290,228,57,186,24,32,21,205,24,16,21,26,30,34,27,75,31,25,25,34,35,24,18,47,55,24,16,35,17,88,16,52,55,29,63,22,24,64,32,30,20,52,9,15,27,11,11,9,9,20,14
+[Auction "E"]
+1D Pass 1H 1S 
+Pass Pass 2S =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+S9 S6 S3 ST 
+H3 HQ H7 H5 
+D2 DA D3 D5 
+D4 DK S5 D7 
+D6 D8 S4 DQ 
+S2 C5 SA SK 
+C4 C6 CQ CA 
+D9 H6 H8 DJ 
+H4 C7 C3 DT 
+HT C8 S8 SQ 
+HK HA H9 H2 
+CT HJ SJ C2 
+CK C9 CJ S7 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "2"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ8543.987.3.QJ3 KQT7.52.QJT75.A2 92.KT43.9642.KT4 6.AQJ6.AK8.98765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1SX"]
+[Result "5"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2531325413a89c9a89c9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  4
+S  D  1
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 12
+E  C  9
+W NT 10
+W  S  8
+W  H  9
+W  D 12
+W  C  9
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 3,0,3,131,51,88,66,26,29,37,33,345,75,13,79,27,17,138,37,26,25,78,10,20,22,66,38,48,22,15,27,63,22,46,46,40,9,275,23,28,11,84,37,78,12,80,22,19,8,33,36,30,8,18,23,7,21,19,9,8,17,8,4,11,7
+[Auction "E"]
+1D Pass 1H 1S 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+DQ D2 D8 D3 
+D5 D6 DA S3 
+CA C4 C5 C3 
+C2 CK C9 CQ 
+ST S9 S6 S4 
+H5 H3 HJ H9 
+S7 CT C8 CJ 
+H2 H4 HQ H7 
+D7 HT HA H8 
+SK HK H6 S8 
+DT D4 DK S5 
+SQ S2 C6 SA 
+DJ D9 C7 SJ 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "3"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T542.J87.Q82.K98 J98.AT9.A95.Q642 K63.KQ6542.K43.3 AQ7.3.JT76.AJT75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "4573245632886ab886ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  3
+N  C  2
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  2
+E NT  8
+E  S  8
+E  H  6
+E  D 10
+E  C 11
+W NT  8
+W  S  8
+W  H  6
+W  D 10
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 10,2,1,181,42,109,247,415,37,33,182,23,47,205,52,18,22,18,21,28,51,21,20,19,34,17,6,37,191,26,14,37,236,36,9,10,26,20,11,31,15,14,183,27,28,28,8,10,62,17,10,11,19,10,7,20,9,11
+[Auction "S"]
+1H X 2H X 
+Pass 3C Pass Pass 
+Pass 
+[Play "N"]
+H7 HA H6 H3 
+CK CQ C3 C7 
+H8 H9 HQ CT 
+C8 C2 H2 CA 
+D2 D5 DK DJ 
+HJ HT HK C5 
+C9 C4 H4 CJ 
+D8 D9 D3 D6 
+DQ DA D4 D7 
+S2 S8 S3 SQ 
+S4 S9 S6 DT 
+S5 -  -  SA 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "3"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T542.J87.Q82.K98 J98.AT9.A95.Q642 K63.KQ6542.K43.3 AQ7.3.JT76.AJT75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "4573245632886ab886ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  7
+N  D  3
+N  C  2
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  2
+E NT  8
+E  S  8
+E  H  6
+E  D 10
+E  C 11
+W NT  8
+W  S  8
+W  H  6
+W  D 10
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 12,0,3,97,81,97,174,104,40,33,61,65,28,21,153,75,125,41,36,89,23,22,65,144,34,20,4,100,68,31,17,258,32,4,16,16,26,32,25,34,21,6,11,18,20,10,10,38,27,30,13,18
+[Auction "S"]
+1H X 2H X 
+Pass 3C Pass Pass 
+3H Pass Pass Pass 
+[Play "W"]
+DJ D2 D5 DK 
+H3 H7 H9 HK 
+CA C8 C6 C3 
+DT D8 D9 D3 
+D7 DQ DA D4 
+SQ S2 S9 S3 
+SA S4 S8 S6 
+S7 S5 SJ SK 
+C5 HJ HA H2 
+-  -  HT -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "4"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:43.AKT93.K.JT975 965.Q7.QT93.KQ82 AT72.862.AJ2.A64 KQJ8.J54.87654.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98a7a98a7a4526345263"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  7
+N  C 10
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  5
+E  H  2
+E  D  6
+E  C  3
+W NT  4
+W  S  5
+W  H  2
+W  D  6
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,61,107,15,50,39,22,15,349,106,25,19,16,251,34,21,39,15,16,9,97,24,10,10,56,17,10,18,25,27,11,4,98,18,20,5,16,13,27,34,65,31,25,70,171,26,10,212,19,30,19,27,21,11,14,297,18,27,10,8,12,7,10,8
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 2C Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+DT D2 D4 DK 
+H7 H2 H5 HA 
+HQ H6 H4 HK 
+S5 SA S8 S3 
+D3 DA D8 S4 
+C2 CA C3 C5 
+CQ C4 D7 C9 
+DQ DJ D6 H3 
+CK C6 SK CJ 
+S9 S2 SJ H9 
+C8 S7 HJ CT 
+S6 ST SQ HT 
+D9 H8 D5 C7 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "4"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:43.AKT93.K.JT975 965.Q7.QT93.KQ82 AT72.862.AJ2.A64 KQJ8.J54.87654.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98a7a98a7a4526345263"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  7
+N  C 10
+S NT  9
+S  S  8
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  5
+E  H  2
+E  D  6
+E  C  3
+W NT  4
+W  S  5
+W  H  2
+W  D  6
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,2,1,49,43,38,271,30,67,77,38,29,185,157,89,26,14,26,107,910,32,21,25,24,19,32,21,26,29,7,39,35,34,9,39,23,18,7,32,9,16,22,37,25,67,45,11,21,48,12,18,23,13,12,68,16,6,18,13,22,17,7
+[Auction "W"]
+Pass 1H Pass 2C =1= 
+Pass 3C Pass 3H 
+Pass 4D Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+S6 SA S8 S3 
+H7 H2 H4 HA 
+HQ H6 H5 HK 
+D3 D2 D4 DK 
+C2 CA C3 C5 
+D9 DA D5 S4 
+C8 C4 HJ C7 
+S5 S2 SK H3 
+CQ C6 D6 C9 
+DQ DJ D7 HT 
+CK H8 D8 CJ 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "5"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ73.AKJT2.5.973 Q5.Q64.AJ863.Q86 98.853.T72.AK542 AT642.97.KQ94.JT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56959569597648476484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  9
+N  D  5
+N  C  9
+S NT  5
+S  S  6
+S  H  9
+S  D  5
+S  C  9
+E NT  7
+E  S  6
+E  H  4
+E  D  8
+E  C  4
+W NT  7
+W  S  6
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,96,24,49,61,49,13,29,187,27,14,100,156,253,16,26,69,127,30,21,58,26,36,10,111,24,44,28,250,25,111,20,243,34,22,23,34,23,16,15,23,45,17,37,77,30,28,13,9
+[Auction "N"]
+1H Pass 1NT Pass 
+2H Pass Pass 2S 
+Pass Pass Pass 
+[Play "N"]
+HA H4 H3 H7 
+D5 D3 DT DK 
+S3 SQ S8 S2 
+S7 S5 S9 SA 
+SJ C6 H8 S4 
+C7 C8 CK CJ 
+C3 CQ CA CT 
+C9 D6 C5 S6 
+SK D8 D2 D4 
+HK -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "5"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ73.AKJT2.5.973 Q5.Q64.AJ863.Q86 98.853.T72.AK542 AT642.97.KQ94.JT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56959569597648476484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  9
+N  D  5
+N  C  9
+S NT  5
+S  S  6
+S  H  9
+S  D  5
+S  C  9
+E NT  7
+E  S  6
+E  H  4
+E  D  8
+E  C  4
+W NT  7
+W  S  6
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,175,69,181,65,56,96,646,44,87,23,7,319,33,39,6,248,35,19,19,50,16,23,7,150,40,15,27,536,20,9,15,6,27,15,14,24,29,17,35,22,16,10,10,10,17,8,10,30,15,12,11,37,15,9,10,15,7,13,6
+[Auction "N"]
+1H Pass 2H 2S 
+Pass Pass Pass 
+[Play "N"]
+HA H4 H3 H9 
+C7 C6 CK CJ 
+HK H6 H5 H7 
+C9 C8 CA CT 
+C3 CQ C4 D4 
+D5 D3 D2 DK 
+SK S5 S8 S2 
+H2 HQ H8 D9 
+S3 SQ S9 S4 
+HT D6 D7 DQ 
+S7 D8 C2 SA 
+SJ DJ C5 ST 
+HJ DA DT S6 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "6"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT75.KQT5.7.Q93 A963.63.QT85.J75 42.A2.J9632.KT62 J8.J9874.AK4.A84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "88778887785566555665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,49,38,199,136,34,24,57,119,327,31,18,450,47,19,11,45,15,22,23,20,17,22,10,139,32,45,34,145,26,83,14,239,21,16,41,104,25,32,13,71,22,10,6,17,23,215,17,114,21,21,9,7,21,12,15,10,8,15,8
+[Auction "E"]
+Pass Pass 1NT 2S 
+Pass Pass Pass 
+[Play "E"]
+D5 D2 DK D7 
+S3 S2 S8 SK 
+H6 HA H4 H5 
+SA S4 SJ SQ 
+D8 D9 DA S5 
+S6 C2 H7 ST 
+C5 CK CA C3 
+DT D3 D4 S7 
+H3 H2 H8 HK 
+S9 D6 H9 HQ 
+DQ DJ C4 HT 
+C7 C6 C8 C9 
+CJ CT HJ CQ 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "6"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT75.KQT5.7.Q93 A963.63.QT85.J75 42.A2.J9632.KT62 J8.J9874.AK4.A84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "88778887785566555665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,2,1,164,33,375,52,83,183,64,36,33,80,38,105,198,39,16,280,666,44,21,19,21,21,80,319,34,68,19,16,27,22,15,1285,243,50,21,26,42,7,24,655,40,14,8,21,25,13,35
+[Auction "E"]
+Pass Pass 1NT 2C 
+Pass 2D =1= Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+D5 D2 DK D7 
+H6 HA H9 H5 
+SA S2 S8 SK 
+C7 C2 CA C3 
+H3 H2 H8 HK 
+S6 D3 H7 HT 
+D8 D9 DA S5 
+S3 S4 SJ SQ 
+S9 D6 H4 ST 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "7"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K3.AJ87.83.AJT74 A954.K9.Q.KQ9532 Q87.Q43.AKJT75.6 JT62.T652.9642.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7ab796ab73622636226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D 11
+N  C  7
+S NT  9
+S  S  6
+S  H 10
+S  D 11
+S  C  7
+E NT  3
+E  S  6
+E  H  2
+E  D  2
+E  C  6
+W NT  3
+W  S  6
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,252,49,61,53,38,39,127,101,15,38,24,540,38,10,39,8,29,14,138,29,17,18,239,29,12,68,211,24,18,16,44,13,172,11,24,12,11,13,29,15,15,15,16,17,14,19,21,14,21,6,17,10,11,8,36
+[Auction "S"]
+1D Pass 1H X 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+CK C6 C8 CA 
+DQ DA D2 D3 
+HK H3 H2 HJ 
+C3 S7 S2 C4 
+C2 DK D4 D8 
+S4 DJ D6 S3 
+C5 DT D9 C7 
+S5 D7 S6 CT 
+S9 D5 ST CJ 
+H9 HQ H5 H7 
+C9 H4 H6 HA 
+-  -  -  SK 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "7"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K3.AJ87.83.AJT74 A954.K9.Q.KQ9532 Q87.Q43.AKJT75.6 JT62.T652.9642.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7ab796ab73622636226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D 11
+N  C  7
+S NT  9
+S  S  6
+S  H 10
+S  D 11
+S  C  7
+E NT  3
+E  S  6
+E  H  2
+E  D  2
+E  C  6
+W NT  3
+W  S  6
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,172,44,46,106,42,23,38,35,205,36,38,43,83,14,20,25,278,332,34,29,531,35,23,41,114,20,11,18,32,9,79,16,28,11,47,28,47,20,55,23,52,8,87,22,248,21,18,22,22,21,7,14,34,24,20,9,14,6,67,40,23,28,12,6,9,17,5,13
+[Auction "S"]
+1D Pass 2C Pass 
+2D Pass 2H Pass 
+2S =1= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S4 S7 ST SK 
+DQ DA D6 D3 
+C3 DK D4 D8 
+C2 DJ D2 C4 
+S5 DT D9 C7 
+C5 D7 S6 CJ 
+S9 D5 S2 CT 
+HK H3 H2 HJ 
+CK C6 C8 CA 
+H9 HQ H5 H7 
+C9 H4 H6 HA 
+SA S8 SJ S3 
+CQ SQ HT H8 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "8"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A.973.KT5.J87653 K84.JT2.AQJ9.KT9 QT932.8654.62.A2 J765.AKQ.8743.Q4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3433534335a99a8a99a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  3
+N  C  5
+S NT  3
+S  S  4
+S  H  3
+S  D  3
+S  C  5
+E NT 10
+E  S  9
+E  H  9
+E  D 10
+E  C  8
+W NT 10
+W  S  9
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,96,173,76,100,41,38,26,544,43,30,31,34,20,37,378,37,12,30,36,27,30,14,38,24,34,12,36,13,34,16,47,65,17,11,21,20,39,37
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+C6 C9 CA C4 
+SA S4 ST S5 
+C3 CT C2 CQ 
+D5 DQ D2 D3 
+H3 H2 H4 HA 
+DT DJ D6 D7 
+DK DA H6 D4 
+C5 D9 H5 D8 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "8"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A.973.KT5.J87653 K84.JT2.AQJ9.KT9 QT932.8654.62.A2 J765.AKQ.8743.Q4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3433534335a99a8a99a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  3
+N  C  5
+S NT  3
+S  S  4
+S  H  3
+S  D  3
+S  C  5
+E NT 10
+E  S  9
+E  H  9
+E  D 10
+E  C  8
+W NT 10
+W  S  9
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,128,36,144,93,8,16,37,192,47,26,17,22,27,18,21,16,9,12,20,18,9,18,11,14,13,14,577,42,7,9,28,40,12,21,37,88,14,8,9,11,6,11,7,10,8,10,7,19,12,12,8,6,12,6,7,8,16,6
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+C6 C9 CA C4 
+C8 CT C2 CQ 
+D5 DJ D2 D3 
+H3 H2 H4 HA 
+DT DQ D6 D4 
+DK DA S3 D7 
+C7 D9 S2 D8 
+C3 CK H5 S5 
+H7 HT H6 HQ 
+H9 HJ H8 HK 
+SA S4 S9 S6 
+CJ S8 ST S7 
+C5 SK SQ SJ 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "9"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:.AQ72.KQ92.KQ763 AKT74.3.73.AJT54 QJ2.KJT85.J86.98 98653.964.AT54.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "73a8773a774a3464a346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H 10
+N  D  8
+N  C  7
+S NT  7
+S  S  3
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S 10
+E  H  3
+E  D  4
+E  C  6
+W NT  4
+W  S 10
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 23,0,3,183,61,245,44,114,53,251,32,16,17,43,215,27,15,71,34,21,102,384,32,61,11,11,51,9,36,37,29,22,25,219,32,68,37,13,34,8,22,194,20,24,16,210,279,41,10,14
+[Auction "N"]
+1C 1S 2H 4S 
+5H 5S X Pass 
+Pass Pass 
+[Play "S"]
+C9 C2 CQ CA 
+S2 S3 H2 SA 
+C8 S5 C3 C4 
+H8 H4 HA H3 
+H5 H6 HQ S4 
+D6 DA D2 D3 
+D8 D4 DQ D7 
+HT H9 H7 S7 
+SJ D5 C6 C5 
+DJ -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "9"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:.AQ72.KQ92.KQ763 AKT74.3.73.AJT54 QJ2.KJT85.J86.98 98653.964.AT54.2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "73a8773a774a3464a346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H 10
+N  D  8
+N  C  7
+S NT  7
+S  S  3
+S  H 10
+S  D  7
+S  C  7
+E NT  4
+E  S 10
+E  H  3
+E  D  4
+E  C  6
+W NT  4
+W  S 10
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,154,246,80,103,141,232,49,519,35,64,19,163,159,348,12,34,900,140,15,15,220,31,19,58,18,22,16,12,11,17,20,18,682,39,13,6,165,17,19,10
+[Auction "N"]
+1C 1S X 2S 
+3S =1= Pass 3NT Pass 
+4H Pass Pass Pass 
+[Play "E"]
+SA S2 S9 H2 
+CA C8 C2 CK 
+CJ C9 H4 C3 
+D7 D6 DA D2 
+D3 D8 D4 DK 
+H3 H5 H6 HA 
+S7 HJ H9 H7 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "10"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K873.K2.832.AQ64 J62.QT974.765.J2 AT9.AJ83.T9.K983 Q54.65.AKQJ4.T75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a97a8a97a4345343453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C 10
+S NT  8
+S  S 10
+S  H  9
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,182,56,49,47,20,36,41,49,91,21,37,66,94,8,16,66,25,7,17,45,24,3,27,81,29,34,97,54,63,7,33,124,43,13,28,45,18,15,10,59,6,25,14
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+DA D2 D5 D9 
+DK D3 D6 DT 
+DQ D8 D7 H3 
+DJ S3 H4 S9 
+D4 S7 H7 C3 
+S4 S8 SJ SA 
+C5 CA C2 C8 
+C7 C4 CJ CK 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "10"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K873.K2.832.AQ64 J62.QT974.765.J2 AT9.AJ83.T9.K983 Q54.65.AKQJ4.T75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a97a8a97a4345343453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  7
+N  C 10
+S NT  8
+S  S 10
+S  H  9
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 20,2,1,102,116,166,47,39,82,35,63,50,496,36,1431,109,1118,38,23,163,42,30,35,23,16,15,113,27,16,125,1178,34,22,31,92,17,28,10,454,31,52,14,367,15,19,31,270,29,17,12,115,83,16,40,30,28,15,10
+[Auction "E"]
+Pass 1C =1= 1D 1S 
+Pass 2S Pass 2NT =2= 
+Pass 3H Pass 5C 
+Pass Pass Pass 
+[Play "W"]
+DK D2 D5 D9 
+DQ D3 D6 DT 
+DJ D8 D7 C3 
+C5 CQ C2 C8 
+C7 C4 CJ CK 
+S4 SK S2 S9 
+S5 S3 S6 SA 
+SQ S7 SJ ST 
+H6 H2 HQ HA 
+CT CA H4 C9 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "11"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ9.AJ42.984.754 K32.98765.AQJ.T9 JT5.3.7632.K8632 8764.KQT.KT5.AQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "443564435698a8798a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  5
+N  C  6
+S NT  4
+S  S  4
+S  H  3
+S  D  5
+S  C  6
+E NT  9
+E  S  8
+E  H 10
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,65,141,64,302,166,51,26,20,39,249,95,11,28,204,212,50,29,162,59,17,9,72,28,25,26,84,24,19,42,41,39,14,28,12,59,16,36,48,33,9,22,15,28,13,25,12,19,16,14,24,21,8,12,19,8,16,13,14,47,15,8,9,10,6,14
+[Auction "S"]
+Pass 1S X XX 
+2C Pass Pass 2S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+C7 C9 CK CA 
+HA H5 H3 HK 
+C5 CT C2 CQ 
+H2 H6 D3 HQ 
+HJ H7 D6 HT 
+C4 S2 C8 CJ 
+D4 DJ D2 D5 
+H4 H8 D7 S4 
+D8 H9 C3 S6 
+D9 DA C6 DT 
+S9 DQ S5 DK 
+SA S3 ST S7 
+SQ SK SJ S8 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "11"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ9.AJ42.984.754 K32.98765.AQJ.T9 JT5.3.7632.K8632 8764.KQT.KT5.AQJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "443564435698a8798a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  5
+N  C  6
+S NT  4
+S  S  4
+S  H  3
+S  D  5
+S  C  6
+E NT  9
+E  S  8
+E  H 10
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,96,147,31,124,44,21,28,60,39,59,87,48,26,12,23,43,711,16,22,42,25,33,32,101,22,19,19,76,20,45,22,16,20,17,13,13,12,14,16,133,19,12,22,18,26,24,89,26,39,16,23,376,25,18,15,17,11,25,59,11,22,22,15,17,22,11,7
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 1NT Pass 2C =1= 
+Pass 3H =2= Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+SJ S4 SA S2 
+S5 S6 S9 SK 
+C2 CJ C4 CT 
+D2 D5 D4 DQ 
+C3 CQ C5 C9 
+C6 CA C7 S3 
+D3 DT D8 DJ 
+H3 HK HA H5 
+ST S7 SQ H6 
+C8 HQ H2 H7 
+D6 HT HJ H8 
+D7 DK D9 DA 
+CK S8 H4 H9 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "12"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T.KJT83.A.QJ8754 9862.94.Q97653.A 743.A752.J82.K92 AKQJ5.Q6.KT4.T63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "63a3b63a3b692a2692a2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 10
+N  D  3
+N  C 11
+S NT  6
+S  S  3
+S  H 10
+S  D  3
+S  C 11
+E NT  6
+E  S  9
+E  H  2
+E  D 10
+E  C  2
+W NT  6
+W  S  9
+W  H  2
+W  D 10
+W  C  2
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 22,0,3,115,107,285,325,34,35,15,56,128,12,23,275,58,8,19,33,18,25,19,31,17,30,4,31,11,26,11,6,29,12,10
+[Auction "W"]
+1S 2S =1= 4S 5H 
+Pass Pass Pass 
+[Play "W"]
+SA ST S6 S7 
+SK H3 S2 S4 
+H6 H8 H4 HA 
+HQ HK H9 H2 
+C3 C4 CA C2 
+D4 DA D3 D2 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "12"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T.KJT83.A.QJ8754 9862.94.Q97653.A 743.A752.J82.K92 AKQJ5.Q6.KT4.T63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "63a3b63a3b692a2692a2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H 10
+N  D  3
+N  C 11
+S NT  6
+S  S  3
+S  H 10
+S  D  3
+S  C 11
+E NT  6
+E  S  9
+E  H  2
+E  D 10
+E  C  2
+W NT  6
+W  S  9
+W  H  2
+W  D 10
+W  C  2
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,111,68,131,104,31,35,72,118,31,38,159,19,132,23,118,27,18,13,29,9,120,13,413,26,18,12,33,31,48,15,41,20,21,22,29,35,13,40,12,15
+[Auction "W"]
+1S 2S =1= 4S Pass 
+Pass Pass 
+[Play "N"]
+CQ CA C9 C3 
+DA D3 D2 DK 
+HK H4 H7 H6 
+HJ H9 HA HQ 
+ST S2 S3 SA 
+H3 S6 S4 SK 
+C4 S8 S7 SQ 
+H8 DQ D8 DT 
+-  D9 DJ -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "13"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK96.J983.K64.92 854.AT65.Q82.QJ3 .K2.AJ9753.T8765 QJT732.Q74.T.AK4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "846a8856a84863548625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  6
+N  D 10
+N  C  8
+S NT  8
+S  S  5
+S  H  6
+S  D 10
+S  C  8
+E NT  4
+E  S  8
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 16,0,3,469,14,60,135,196,11,57,29,72,19,143,65,272,28,34,38,90,510,21,13,40,20,15,57,47,20,24,72,450,78,43,12,150,41,10,6,241,35,6,48,306,25,12,5,263,18,27,32,22,42,21,23,12,23,40,39,4,22,18,8,23,64,11,5,16,9,10,4
+[Auction "N"]
+Pass Pass Pass 2S 
+Pass Pass 3D Pass 
+Pass 3S 4C Pass 
+4D Pass Pass Pass 
+[Play "W"]
+SQ SA S8 C5 
+S2 SK S5 C6 
+C4 C2 CJ C7 
+ST S6 S4 D3 
+CK C9 C3 C8 
+SJ S9 CQ D5 
+DT D4 D2 DA 
+S3 DK D8 D7 
+H4 H3 HA H2 
+S7 D6 DQ D9 
+H7 H8 H5 HK 
+HQ H9 H6 DJ 
+CA HJ HT CT 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "13"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK96.J983.K64.92 854.AT65.Q82.QJ3 .K2.AJ9753.T8765 QJT732.Q74.T.AK4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "846a8856a84863548625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  6
+N  D 10
+N  C  8
+S NT  8
+S  S  5
+S  H  6
+S  D 10
+S  C  8
+E NT  4
+E  S  8
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  8
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,2,1,852,57,153,62,125,35,880,43,88,53,39,42,92,111,38,24,38,288,20,17,24,41,16,8,40,101,23,23,394,62,26,22,170,15,33,14,53,27,20,8,27,14,49,13,22,28,13,10
+[Auction "N"]
+1C Pass 1D 2S 
+Pass Pass 3C Pass 
+3D Pass Pass Pass 
+[Play "W"]
+CK C2 C3 C6 
+SQ SA S4 H2 
+S2 SK S5 HK 
+C4 C9 CJ C5 
+ST S6 S8 D3 
+CA D4 CQ C7 
+DT DK D2 D5 
+S3 D6 D8 D9 
+S7 H3 DQ DA 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "14"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:752.A65.KT.AT975 Q94.KJ97.AJ7.K64 A63.T82.853.QJ83 KJT8.Q43.Q9642.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "433364333679aa779aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  3
+N  C  6
+S NT  4
+S  S  3
+S  H  3
+S  D  3
+S  C  6
+E NT  7
+E  S  9
+E  H 10
+E  D 10
+E  C  7
+W NT  7
+W  S  9
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,0,3,136,53,77,171,144,31,62,276,89,265,9,9,568,21,17,8,9,8,29,15,96,27,8,23,68,28,21,10,106,17,11,20,22,22,5,9,150,40,11,14
+[Auction "E"]
+1NT Pass 2C =1= X 
+2H =2= Pass Pass Pass 
+[Play "S"]
+CQ C2 CA C6 
+H2 H3 HA H7 
+HT HQ H5 H9 
+D3 D2 DT DJ 
+S3 SK S2 S4 
+D5 D9 DK DA 
+H8 H4 H6 HK 
+S6 S8 S5 S9 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "14"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:752.A65.KT.AT975 Q94.KJ97.AJ7.K64 A63.T82.853.QJ83 KJT8.Q43.Q9642.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "433364333679aa779aa7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  3
+N  C  6
+S NT  4
+S  S  3
+S  H  3
+S  D  3
+S  C  6
+E NT  7
+E  S  9
+E  H 10
+E  D 10
+E  C  7
+W NT  7
+W  S  9
+W  H 10
+W  D 10
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 4,2,1,256,45,81,66,66,361,17,30,27,17,91,60,57,20,19,19,31,52,25,10,15,249,14,48,38,83,12,23,154,221,18,16,26,147,38,12,117,62,26,38,71,27,11,9,15,13,24,28
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+C3 C2 CA C4 
+C8 H3 C7 CK 
+S3 S8 S7 S9 
+SA ST S5 SQ 
+CQ D2 CT C6 
+CJ D4 C9 D7 
+H8 HQ HA H7 
+S6 D6 C5 H9 
+H2 H4 H6 HK 
+D3 SK S2 S4 
+D5 SJ H5 DJ 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "15"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J7.96.KJT98.KQ85 Q9.QJT32.Q632.42 KT643.854.75.JT9 A852.AK7.A4.A763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "452654526598a7798a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  5
+S NT  4
+S  S  5
+S  H  2
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  7
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,0,3,58,46,79,24,23,35,27,25,28,276,85,38,182,26,31,100,30,55,34,81,12,14,7,854,24,16,47,361,47,5,20,61,11,16,9,22,27,132,12,18,58,18,17,29,64,16,17,20,97,13,21
+[Auction "S"]
+Pass 1S 2D Pass 
+Pass X Pass 2H 
+Pass Pass Pass 
+[Play "S"]
+D7 DA DJ D2 
+ST S2 S7 S9 
+D5 D4 DK D3 
+C9 CA CK C2 
+CT C3 CQ C4 
+CJ C6 C5 H2 
+S3 SA SJ SQ 
+S4 S5 H6 HT 
+H8 HK D8 D6 
+S6 S8 D9 H3 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "15"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J7.96.KJT98.KQ85 Q9.QJT32.Q632.42 KT643.854.75.JT9 A852.AK7.A4.A763"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "452654526598a7798a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  5
+S NT  4
+S  S  5
+S  H  2
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  7
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,60,35,93,67,40,29,27,29,30,20,17,30,17,97,288,33,154,34,52,17,17,158,31,18,16,159,24,11,13,35,17,15,17,11,285,24,14,271,652,22,18,43,39,17,34,48,28,17,9,30,20,16,23,25,19,14,288,24,21,8,12,12,12,8,8
+[Auction "S"]
+Pass 2NT Pass 3D =1= 
+Pass 3H Pass 3NT 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+CK C2 CJ CA 
+DK D2 D7 D4 
+D8 D3 D5 DA 
+H6 H2 H4 HA 
+H9 HQ H5 H7 
+D9 D6 S3 HK 
+CQ C4 C9 C3 
+DT DQ H8 S2 
+C5 H3 CT C6 
+DJ HT S4 S5 
+S7 HJ S6 S8 
+SJ S9 ST SA 
+C8 SQ SK C7 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "16"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQT73.J73.Q6.652 J2.K865.AK95.AKJ A5.AQT942.T82.43 9864..J743.QT987"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "4683346833554aa254aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  8
+N  D  3
+N  C  3
+S NT  4
+S  S  6
+S  H  8
+S  D  3
+S  C  3
+E NT  5
+E  S  5
+E  H  4
+E  D 10
+E  C 10
+W NT  2
+W  S  5
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 5,0,3,57,81,107,57,43,96,20,39,32,23,9,285,129,98,31,19,18,24,10,23,132,62,30,16,57,28,9,25,17,17,12,10,186,39,8,21,8,37,17,28,51,21,12,11,26,18,13,21,53,24,8,11,13,24,14,7,13,23,15,9,10,12,7,10
+[Auction "W"]
+Pass Pass 1H Pass 
+Pass 1S X Pass 
+2C Pass Pass Pass 
+[Play "N"]
+SK S2 SA S4 
+SQ SJ S5 S6 
+HJ HK HA C7 
+D6 DA D2 D3 
+DQ DK D8 D4 
+H3 H5 H2 C8 
+S3 CK DT S8 
+H7 H6 H4 C9 
+ST CA H9 S9 
+C2 CJ C3 CQ 
+C5 H8 C4 CT 
+C6 D5 HT D7 
+S7 D9 HQ DJ 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "16"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQT73.J73.Q6.652 J2.K865.AK95.AKJ A5.AQT942.T82.43 9864..J743.QT987"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "4683346833554aa254aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  8
+N  D  3
+N  C  3
+S NT  4
+S  S  6
+S  H  8
+S  D  3
+S  C  3
+E NT  5
+E  S  5
+E  H  4
+E  D 10
+E  C 10
+W NT  2
+W  S  5
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 9,2,1,179,50,74,124,50,32,134,397,24,39,59,39,20,12,21,17,20,12,31,114,56,15,35,72,30,210,41,50,25,19,99,18,23,20,185,27,17,7,30,23,12,8,13,15,11,8
+[Auction "W"]
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "S"]
+H9 D3 HJ HK 
+C4 C7 C2 CA 
+C3 C8 C6 CK 
+D2 CQ C5 CJ 
+S5 CT S7 H6 
+D8 C9 H7 H8 
+DT D4 D6 DA 
+H2 DJ DQ DK 
+H4 D7 S3 D9 
+HT S4 ST D5 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "17"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:72.AK63.AKT5.AQ2 K5.QT742.93.J543 J863..QJ876.T876 AQT94.J985.42.K9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "876b9876b94572445724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D 11
+N  C  9
+S NT  8
+S  S  7
+S  H  6
+S  D 11
+S  C  9
+E NT  4
+E  S  5
+E  H  7
+E  D  2
+E  C  4
+W NT  4
+W  S  5
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,199,106,344,51,43,18,95,36,23,13,46,40,336,194,35,22,83,10,11,12,16,7,12,22,26,29,101,70,176,72,13,17,11,74,11,41,46,45,32,11,125,15,14,35,16,43,12,19,72,18,28,44,45,19,5,13,15,19
+[Auction "N"]
+2NT Pass 3C =1= Pass 
+3D =2= Pass 3H =3= Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+C3 CT CK CA 
+D3 D6 D2 DA 
+D9 D7 D4 DK 
+C4 DQ C9 DT 
+H4 DJ S4 D5 
+H2 D8 S9 S2 
+C5 C8 ST CQ 
+H7 C6 H5 HA 
+HT C7 H8 HK 
+S5 S3 SQ S7 
+SK S6 SA C2 
+-  -  H9 H3 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "17"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:72.AK63.AKT5.AQ2 K5.QT742.93.J543 J863..QJ876.T876 AQT94.J985.42.K9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "876b9876b94572445724"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D 11
+N  C  9
+S NT  8
+S  S  7
+S  H  6
+S  D 11
+S  C  9
+E NT  4
+E  S  5
+E  H  7
+E  D  2
+E  C  4
+W NT  4
+W  S  5
+W  H  7
+W  D  2
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,126,101,197,60,66,37,31,36,15,21,72,229,67,28,130,34,13,11,34,17,11,10,30,367,26,38,28,53,12,590,30,28,54,13,319,35,18,22,70,26,176,19,9,115,31,12,10,16,27,26,18,27,26,8,12,20,13,6,11,26,9,4
+[Auction "N"]
+2NT Pass 3C =1= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+C3 C6 CK CA 
+D9 D6 D2 DA 
+D3 D7 D4 DK 
+H7 DQ S9 DT 
+H2 DJ S4 D5 
+SK D8 C9 H3 
+S5 S3 ST S2 
+C4 S6 SA S7 
+C5 S8 SQ H6 
+H4 C7 H9 HA 
+HT SJ H5 HK 
+CJ C8 H8 CQ 
+HQ CT HJ C2 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "18"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A76.J95.Q94.KQ76 T3.A32.7652.JT85 KQJ95.86.T3.A932 842.KQT74.AKJ8.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "69548695485489554895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  4
+N  C  8
+S NT  6
+S  S  9
+S  H  5
+S  D  4
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  9
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,113,76,44,35,137,35,172,152,52,22,26,422,123,43,30,275,422,75,19,47,20,40,18,32,18,19,13,73,102,25,15,36,26,18,14,8,20,60,21,14,20,25,19
+[Auction "E"]
+Pass Pass 1H Pass 
+2H 2S 4H 4S 
+Pass Pass Pass 
+[Play "W"]
+DA D4 D7 D3 
+C4 CK C5 C3 
+S2 S6 S3 SJ 
+S4 SA ST S5 
+S8 S7 H3 SK 
+DK D9 D2 DT 
+HK H5 H2 H6 
+H7 H9 HA H8 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "18"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A76.J95.Q94.KQ76 T3.A32.7652.JT85 KQJ95.86.T3.A932 842.KQT74.AKJ8.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "69548695485489554895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  4
+N  C  8
+S NT  6
+S  S  9
+S  H  5
+S  D  4
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  9
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,78,83,106,195,50,53,35,281,86,12,36,520,99,8,14,1241,28,11,12,328,26,8,23,262,27,21,24,84,27,7,25,28,21,12,5,16,6,24,13,46,22,14,3
+[Auction "E"]
+Pass 1S 2H X 
+3H Pass Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+DA D4 D2 DT 
+HK H5 H2 H8 
+H7 H9 HA H6 
+DK D9 D5 D3 
+C4 C6 CT CA 
+S2 SA S3 S5 
+S4 S6 ST SK 
+S8 S7 D6 SQ 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "19"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7.QJT98.7.AQJ98 JT8542.64.AT8.K5 A9.75.J965432.64 K63.AK32.KQ.T732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "22767337678a6658a665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  6
+N  C  7
+S NT  3
+S  S  3
+S  H  7
+S  D  6
+S  C  7
+E NT  8
+E  S 10
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S 10
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,305,193,342,110,109,26,22,126,744,31,31,27,18,31,50,44,38,20,19,30,16,29,20,184,72,23,60,61,47,13,9,20,18,26,28
+[Auction "S"]
+2D 2NT Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+H7 HA HQ H4 
+SA SK S7 S2 
+H5 HK H8 H6 
+S9 S3 SQ S4 
+D2 H2 H9 S5 
+D5 DQ D7 D8 
+C6 C2 CA C5 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "19"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q7.QJT98.7.AQJ98 JT8542.64.AT8.K5 A9.75.J965432.64 K63.AK32.KQ.T732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "22767337678a6658a665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  6
+N  C  7
+S NT  3
+S  S  3
+S  H  7
+S  D  6
+S  C  7
+E NT  8
+E  S 10
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S 10
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,280,78,127,76,31,71,90,12,21,40,71,257,16,375,72,17,31,697,30,11,11,16,29,9,10,9,38,23,32,37,26,11,22,11,15,22,14,23,24,12,15,26
+[Auction "S"]
+Pass 1H 2C 2S 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+C6 C2 CA C5 
+D2 DQ D7 D8 
+H5 HA H8 H4 
+H7 HK HJ H6 
+S9 H2 HQ S2 
+D3 DK S7 DT 
+C4 C3 C8 CK 
+SA S3 SQ SJ 
+DJ -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "20"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT96.J5.A9842 984.K.Q943.KJT65 AT65.542.KT876.7 KQJ73.J873.A2.Q3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -16 EW 16"]
+[DoubleDummyTricks "76987769875644656446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  8
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  6
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,78,93,282,161,32,25,12,61,379,15,17,125,24,11,5,22,30,29,18,156,39,13,21,23,21,23,92,651,61,11,30,26,4,28,24,97,49,35,5,37,6,23,46,106,43,11,31,16,36,32,10,4,28,16,11,4,17,13,27
+[Auction "W"]
+1S 2S =1= 3S 4H 
+Pass Pass Pass 
+[Play "W"]
+SK S2 S4 SA 
+C3 CA C5 C7 
+CQ C2 CK H2 
+S7 H6 S8 S5 
+DA DJ D3 D6 
+S3 H9 S9 ST 
+D2 D5 D4 DT 
+H3 HT D9 DK 
+H7 C4 C6 H5 
+H8 HQ HK H4 
+SJ C8 CT D7 
+SQ C9 CJ S6 
+HJ HA DQ D8 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "20"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.AQT96.J5.A9842 984.K.Q943.KJT65 AT65.542.KT876.7 KQJ73.J873.A2.Q3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "6"]
+[Score "NS 1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 16 EW -16"]
+[DoubleDummyTricks "76987769875644656446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  8
+N  C  7
+S NT  7
+S  S  6
+S  H  9
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  6
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,79,182,108,115,180,25,46,34,52,53,20,161,111,41,19,26,29,11,20,377,21,51,13,248,24,70,17,80,28,10,17,13,20,19,37,607,66,24,10,436,37,15,12,132,110,53,14,288,30,21,13,23,16,6,12,11,14,10,5,16,6,10,5
+[Auction "W"]
+1S 2S =1= 3S Pass 
+4S Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+DJ DQ DK DA 
+HA HK H2 H3 
+D5 D3 D7 D2 
+C8 D4 D6 S7 
+H6 S4 H5 H7 
+CA C5 C7 CQ 
+C2 CK S5 C3 
+S2 S8 SA SJ 
+C4 S9 S6 S3 
+C9 CJ ST SQ 
+H9 C6 H4 H8 
+HQ CT D8 HJ 
+HT D9 DT SK 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "21"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT2.A953.AQ7.A94 953.Q74.JT65.QJ8 AJ4.KT82.K93.765 Q876.J6.842.KT32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a9a99a9a993434434344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D  9
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D  9
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,0,3,140,28,120,103,26,19,25,35,21,562,25,39,46,23,15,9,63,12,49,24,189,109,17,12,206,22,20,10,31,17,9,85,26,21,9,3,18,16,11,11,16,21,9,11
+[Auction "N"]
+1H Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+DJ D3 D2 DA 
+H4 H2 H6 HA 
+H7 HT HJ H3 
+CJ C5 C2 C9 
+C8 C6 CK CA 
+HQ HK S6 H5 
+D5 D9 D4 DQ 
+D6 DK D8 D7 
+CQ C7 C3 C4 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "21"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT2.A953.AQ7.A94 953.Q74.JT65.QJ8 AJ4.KT82.K93.765 Q876.J6.842.KT32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a9a99a9a993434434344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D  9
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D  9
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,2,1,101,79,68,42,41,25,111,85,13,24,90,384,9,19,212,19,10,20,41,41,24,12,18,8,20,23,46,41,19,6,19,18,14,26,20,17,14,6,66,43,13,9,50,17,20,11,38
+[Auction "N"]
+1NT Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+CQ C5 C2 C4 
+C8 C6 CK CA 
+H4 HK H6 H3 
+H7 H2 HJ HA 
+D5 DK D2 D7 
+D6 D3 D4 DA 
+DT D9 D8 DQ 
+CJ C7 C3 C9 
+HQ H8 CT H5 
+S5 -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "22"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT84.QJ842.A.853 K53.AT9.KT95.KT9 AQ962.K653.Q2.62 7.7.J87643.AQJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "69a2269a22633ba633ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  2
+N  C  2
+S NT  6
+S  S  9
+S  H 10
+S  D  2
+S  C  2
+E NT  6
+E  S  3
+E  H  3
+E  D 11
+E  C 10
+W NT  6
+W  S  3
+W  H  3
+W  D 11
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,214,292,360,346,98,109,262,73,221,20,20,36,56,15,15,95,21,22,11,21,109,12,20,24,47,16,9,35,18,27,7,83,22,28,8,73,15,18,17,18,24,9,21,13,15,25,38,19,25,11,7,12,11,13,12,5,13,11,8
+[Auction "E"]
+1NT 2C =1= 3C =2= 4H 
+Pass Pass Pass 
+[Play "E"]
+DT D2 D3 DA 
+H9 H3 H7 HJ 
+HA H5 D4 H2 
+HT H6 C4 HQ 
+S3 S2 S7 SJ 
+S5 S6 D6 S8 
+SK SA C7 S4 
+D5 SQ D7 ST 
+C9 S9 D8 C3 
+D9 DQ DJ H4 
+CT C2 CJ C8 
+CK C6 CA C5 
+DK HK CQ H8 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "22"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT84.QJ842.A.853 K53.AT9.KT95.KT9 AQ962.K653.Q2.62 7.7.J87643.AQJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "69a2269a22633ba633ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  2
+N  C  2
+S NT  6
+S  S  9
+S  H 10
+S  D  2
+S  C  2
+E NT  6
+E  S  3
+E  H  3
+E  D 11
+E  C 10
+W NT  6
+W  S  3
+W  H  3
+W  D 11
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,87,157,599,259,32,42,555,43,180,37,60,190,20,30,166,30,286,188,16,25,34,31,26,17,43,44,52,33,1202,37,36,17,1030,36,24,10,167,28,11,12,14,8,12,29,12,9,17,15,44,29,28,10,85,18
+[Auction "E"]
+1NT 2D =1= X =2= 2H 
+Pass Pass 3D 3H 
+4D Pass Pass 4H 
+X Pass Pass Pass 
+[Play "E"]
+DT D2 D3 DA 
+H9 HK H7 H2 
+HA H3 C7 HQ 
+CT C2 CA C3 
+C9 C6 CQ C8 
+D5 DQ D7 H4 
+HT H5 D6 HJ 
+S3 S2 S7 SJ 
+S5 S6 D4 ST 
+SK -  -  S4 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "23"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J3.K83.KJ3.AQT95 K965.AJT5.Q95.J6 QT82.Q94.T762.K2 A74.762.A84.8743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77788767776665566655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  5
+E  C  5
+W NT  6
+W  S  6
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,80,109,38,46,122,45,39,149,37,22,646,36,21,9,52,22,17,32,103,30,30,26,198,21,14,36,38,14,5,19,19,35,247,62,86,23,13,20,56,23,31,11,12,16,17,11
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+HJ H4 H6 HK 
+C6 CK C3 C5 
+SK S2 S4 SJ 
+H5 H9 H7 H3 
+CJ C2 C4 CT 
+HA HQ H2 H8 
+HT D2 S7 D3 
+S6 SQ SA S3 
+D9 D6 DA DJ 
+D5 D7 D4 DK 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "23"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J3.K83.KJ3.AQT95 K965.AJT5.Q95.J6 QT82.Q94.T762.K2 A74.762.A84.8743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77788767776665566655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  5
+E  C  5
+W NT  6
+W  S  6
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,68,31,101,20,40,41,383,262,54,33,35,11,11,36,18,25,13,12,55,10,32,24,90,55,26,18,23,18,17,16,70,22,26,21,93,23,21,13,909,205,22,24,85,82,9,19,8,20,31,10,8,17,8,9,6,18,7,12
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+S5 S2 S7 SJ 
+C6 CK C3 C5 
+CJ C2 C4 CA 
+S9 D2 C7 CQ 
+D5 D6 C8 CT 
+H5 D7 H2 C9 
+HJ HQ H7 H3 
+DQ DT D4 D3 
+S6 ST SA S3 
+HT H4 H6 H8 
+HA H9 S4 HK 
+SK S8 D8 DJ 
+D9 SQ DA DK 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "24"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ98.T32.K5.AQ82 K7652.K8.74.T743 JT4.A754.Q863.96 3.QJ96.AJT92.KJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78766787666466664666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  6
+N  C  6
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,106,46,249,150,47,76,22,43,884,147,39,25,33,26,10,138,920,30,29,55,26,34,12,15,39,21,63,22,139,34,24,12,75,21,12,8,23,20,25,13,43,22,31,9,188,20,21,7,8,15,11,9,10,12,6,12,7,13,5,10
+[Auction "W"]
+1D X 1S Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+C2 C3 C9 CJ 
+D5 D4 DQ D9 
+S9 SK SJ S3 
+H2 HK HA H6 
+S8 S2 ST H9 
+CQ C4 C6 C5 
+SA S5 S4 D2 
+SQ S6 H4 DT 
+CA C7 H5 CK 
+H3 H8 H7 HQ 
+HT D7 D3 HJ 
+DK S7 D6 DA 
+C8 CT D8 DJ 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "24"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ98.T32.K5.AQ82 K7652.K8.74.T743 JT4.A754.Q863.96 3.QJ96.AJT92.KJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78766787666466664666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  6
+N  C  6
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,88,94,27,82,50,47,12,29,76,175,59,26,23,103,24,18,14,19,8,17,74,18,24,35,295,19,24,24,67,30,54,22,20,22,14,12,246,21,28,19,12
+[Auction "W"]
+1D X 1S Pass 
+2D Pass Pass Pass 
+[Play "N"]
+H3 H8 HA H6 
+CQ C3 C9 CJ 
+CA C4 C6 C5 
+C2 C7 D3 CK 
+H2 HK H7 H9 
+DK D4 D6 DJ 
+SA S2 S4 S3 
+D5 D7 DQ DA 
+-  -  -  DT 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "25"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ76.Q54.K43.KJ2 93.73.JT9752.843 K852.KJT6.Q.T765 QT4.A982.A86.AQ9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "9a9689a9684337343474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  6
+N  C  8
+S NT  9
+S  S 10
+S  H  9
+S  D  6
+S  C  8
+E NT  4
+E  S  3
+E  H  3
+E  D  7
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 6,0,3,345,49,45,36,35,23,213,26,23,53,376,36,13,73,30,10,8,136,26,7,17,40,59,8,20,87,45,14,59,149,26,60,7,10,63,35,30,351,32,8,35,38,28,34,13,20,28,18,14,221,52,8,78
+[Auction "N"]
+1NT Pass Pass X 
+Pass 2D Pass Pass 
+Pass 
+[Play "S"]
+HJ H2 H4 H7 
+H6 HA HQ H3 
+DQ DA D3 D2 
+C5 D6 D4 DT 
+SK S4 SA S9 
+S2 D8 DK D5 
+HT H8 H5 D7 
+C6 CQ CK C3 
+CT CA C2 C4 
+HK H9 S6 D9 
+C7 C9 CJ DJ 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "25"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ76.Q54.K43.KJ2 93.73.JT9752.843 K852.KJT6.Q.T765 QT4.A982.A86.AQ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "9a9689a9684337343474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  6
+N  C  8
+S NT  9
+S  S 10
+S  H  9
+S  D  6
+S  C  8
+E NT  4
+E  S  3
+E  H  3
+E  D  7
+E  C  3
+W NT  4
+W  S  3
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 4,2,1,1041,56,56,85,26,29,83,72,50,115,33,21,9,20,62,32,148,44,6,15,26,55,19,16,65,26,23,20,516,27,18,14,33,366,35,15,93,36,26,16,50,11,18,22,380,20,18,18,16,32
+[Auction "N"]
+1C Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+DJ DQ DA D3 
+D9 C5 D8 D4 
+DT S2 D6 DK 
+H7 HJ H2 H4 
+H3 H6 H8 HQ 
+D5 HT HA H5 
+C3 C6 C9 CK 
+S3 SK S4 S6 
+D2 HK H9 CJ 
+S9 S5 ST SA 
+D7 -  -  SJ 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "26"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T975.J87543.J.J2 K3.96.Q84.A98763 82.KT2.KT7532.T4 AQJ64.AQ.A96.KQ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Score "NS -1470"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0053000530dd8addd79d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  5
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  5
+S  D  3
+S  C  0
+E NT 13
+E  S 13
+E  H  8
+E  D 10
+E  C 13
+W NT 13
+W  S 13
+W  H  7
+W  D  9
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 29,2,1,111,19,111,102,80,50,25,37,1007,94,9,13,38,162,39,19,17,22,9,10,13,13,13,12,96,33,40,79
+[Auction "E"]
+Pass Pass 2C =1= Pass 
+2D =2= Pass 2NT Pass 
+6NT Pass Pass Pass 
+[Play "N"]
+H5 H6 HK HA 
+C2 C3 C4 CK 
+CJ C6 CT CQ 
+H8 CA D2 C5 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "26"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T975.J87543.J.J2 K3.96.Q84.A98763 82.KT2.KT7532.T4 AQJ64.AQ.A96.KQ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Score "NS -1470"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0053000530dd8addd79d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  5
+N  D  3
+N  C  0
+S NT  0
+S  S  0
+S  H  5
+S  D  3
+S  C  0
+E NT 13
+E  S 13
+E  H  8
+E  D 10
+E  C 13
+W NT 13
+W  S 13
+W  H  7
+W  D  9
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 29,0,3,131,78,319,108,1289,61,79,749,213,48,93,29,56,29,174,27,128,28,455,59,99,44,1370,42,16,28,933,193,37,24,54,29,13,21,26,14,17,12,24,155,14,25,38,39,16,14,36,27,9,12
+[Auction "E"]
+Pass 2C =1= X =2= Pass 
+Pass 2D X Pass 
+3C Pass 3S Pass 
+4S Pass 4NT =3= Pass 
+5H =4= Pass 5NT =5= Pass 
+6S Pass 6NT Pass 
+Pass Pass 
+[Play "N"]
+DJ D4 D7 DA 
+C2 C3 C4 CK 
+CJ C6 CT CQ 
+H5 CA S8 C5 
+H3 C9 D2 D6 
+S5 SK S2 S4 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "27"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:65432.6.JT5.A943 K8.KJ73.Q843.JT8 AJT.AT985.92.K76 Q97.Q42.AK76.Q52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "58647586478577665775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D  4
+N  C  7
+S NT  5
+S  S  8
+S  H  6
+S  D  4
+S  C  7
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,152,52,23,38,91,31,33,21,57,558,34,14,30,37,16,31,31,31,29,15,41,53,13,11,14,21,21,13,66,24,25,33,58,32,7,14,17,6,16,12,35,17,6,40,356,35,10,10,12
+[Auction "S"]
+1H Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "E"]
+CJ CK C5 C3 
+D3 D9 DK D5 
+C8 C6 C2 CA 
+D4 D2 DA DJ 
+CT C7 CQ C4 
+DQ ST D6 DT 
+S8 SA S7 S2 
+SK SJ SQ S3 
+D8 H5 D7 S4 
+H3 H8 S9 S5 
+-  -  H2 -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "27"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:65432.6.JT5.A943 K8.KJ73.Q843.JT8 AJT.AT985.92.K76 Q97.Q42.AK76.Q52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "58647586478577665775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  6
+N  D  4
+N  C  7
+S NT  5
+S  S  8
+S  H  6
+S  D  4
+S  C  7
+E NT  8
+E  S  5
+E  H  7
+E  D  7
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,0,3,121,43,63,40,39,53,21,70,48,224,425,14,76,24,4,15,63,26,4,30,268,22,10,8,19,22,11,4,21,16,18,18,27,22,24,5,94,14,11,14,38,6,16,23,242,31,5,27,26,193,23,4,94,23,4,21,16,10,4,14
+[Auction "S"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "W"]
+DA D5 D8 D2 
+DK DT D3 D9 
+D7 DJ DQ ST 
+H2 H6 H7 HA 
+H4 S2 H3 H5 
+C2 C3 C8 CK 
+HQ S3 HK H8 
+C5 CA CT C6 
+CQ C4 CJ C7 
+S7 S4 SK SA 
+S9 C9 HJ HT 
+SQ S5 S8 SJ 
+D6 S6 D4 H9 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "28"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A987.QJ65.T863.J JT52.84.KQ742.Q7 KQ.T92.J.K986542 643.AK73.A95.AT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44537445379989699796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  3
+N  C  7
+S NT  4
+S  S  4
+S  H  5
+S  D  3
+S  C  7
+E NT  9
+E  S  9
+E  H  8
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 4,2,1,100,23,56,38,21,26,240,30,55,168,24,40,181,17,17,169,46,15,39,35,21,39,14,7,93,23,23,110,467,28,19,15,92,18,7,23,58,21,7,12,9,28,5,34,16,9,12,8,14,20,8,8
+[Auction "W"]
+1H Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+D8 D2 DJ DA 
+D3 D4 C5 D9 
+D6 D7 C2 D5 
+DT DQ C4 H3 
+S7 DK C6 H7 
+CJ C7 C8 CA 
+H5 H4 H2 HA 
+H6 H8 H9 HK 
+S8 CQ CK C3 
+S9 S2 SK S3 
+SA S5 SQ S4 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "28"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A987.QJ65.T863.J JT52.84.KQ742.Q7 KQ.T92.J.K986542 643.AK73.A95.AT3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44537445379989699796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  3
+N  C  7
+S NT  4
+S  S  4
+S  H  5
+S  D  3
+S  C  7
+E NT  9
+E  S  9
+E  H  8
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,0,3,84,47,22,42,26,25,72,65,40,28,46,90,18,17,212,249,45,39,127,42,9,19,39,25,17,15,139,12,22,19,108,23,17,26,40,9,74,27,114,11,26,9,20,27,36,15
+[Auction "W"]
+1H Pass 1S Pass 
+1NT Pass 2C =1= Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+C6 C3 CJ CQ 
+SQ S3 S7 S2 
+C5 CT S8 C7 
+DJ DA D3 D2 
+SK S4 S9 SJ 
+C2 CA SA S5 
+C4 D5 D6 DK 
+C8 S6 D8 ST 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "29"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J.K5.KQT9.AQ9542 KQ97653.762..863 AT.JT9.J8765.KJ7 842.AQ843.A432.T"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "733ba733b92a9222a922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D 11
+N  C 10
+S NT  7
+S  S  3
+S  H  3
+S  D 11
+S  C  9
+E NT  2
+E  S 10
+E  H  9
+E  D  2
+E  C  2
+W NT  2
+W  S 10
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 25,2,1,245,106,26,102,183,45,125,31,875,99,1554,42,68,54,98,44,81,45,375,127,9,16,32,17,159,28,88,20,78,14,196,28,15,9,38,15,7,19,22,9,28,20
+[Auction "N"]
+1C Pass 1D 1H 
+2H =1= Pass 3C Pass 
+4S Pass 4NT Pass 
+5S X 6C Pass 
+Pass Pass 
+[Play "E"]
+H2 H9 HA H5 
+H6 D5 DA D9 
+C3 D6 D2 DK 
+SK SA S2 SJ 
+C6 CK CT C2 
+C8 CJ H3 C4 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "29"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J.K5.KQT9.AQ9542 KQ97653.762..863 AT.JT9.J8765.KJ7 842.AQ843.A432.T"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "733ba733b92a9222a922"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D 11
+N  C 10
+S NT  7
+S  S  3
+S  H  3
+S  D 11
+S  C  9
+E NT  2
+E  S 10
+E  H  9
+E  D  2
+E  C  2
+W NT  2
+W  S 10
+W  H  9
+W  D  2
+W  C  2
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 20,0,3,151,110,742,44,70,14,19,223,27,65,14,50,198,47,29,349,22,11,7,87,72,198,10,33,8,14,78,17,71,15,6,1238,36,13,9,19,16,14,14,92,19,58,11,28,27,34,9,1610,22,13,23,23,27,8,10,10,23,6,10,13,9,8,8
+[Auction "N"]
+1C 3S 4C 4S 
+5C Pass Pass X 
+Pass Pass Pass 
+[Play "E"]
+S3 SA S4 SJ 
+C3 CJ CT C2 
+C6 C7 S8 CQ 
+C8 CK H3 C4 
+H2 D5 D2 DK 
+S5 D6 D3 DQ 
+S6 D7 D4 DT 
+S7 H9 H4 CA 
+H7 ST H8 C9 
+H6 HT HA HK 
+S9 HJ HQ H5 
+SQ D8 DA D9 
+SK DJ S2 C5 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "30"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J932.J84.Q93.976 Q.AKQ976.754.J52 AT65.32.A82.AQT4 K874.T5.KJT6.K83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "58457584578598685976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  8
+S  H  4
+S  D  5
+S  C  7
+E NT  8
+E  S  5
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  5
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,567,49,48,62,75,33,66,39,132,33,10,11,68,133,38,21,33,40,59,14,376,27,48,16,561,42,17,9,18,16,9,16,9,23,8,17,16,66,14,29,40,12,20,56,23,14,10,38,19,12,17,46,24,18,17,17,17,67,10,12,14,6,11,8
+[Auction "E"]
+1H X XX 1S 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S3 SQ SA S4 
+S9 C2 S5 S8 
+D3 D4 DA D6 
+S2 D5 S6 SK 
+H4 HA H2 HT 
+H8 HK H3 H5 
+HJ HQ D2 DJ 
+C6 H9 D8 S7 
+C7 H6 C4 C3 
+C9 H7 CT C8 
+D9 D7 CQ DK 
+DQ C5 CA CK 
+SJ CJ ST DT 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "30"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J932.J84.Q93.976 Q.AKQ976.754.J52 AT65.32.A82.AQT4 K874.T5.KJT6.K83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "58457584578598685976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  8
+S  H  4
+S  D  5
+S  C  7
+E NT  8
+E  S  5
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  5
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,60,58,40,116,62,56,31,74,222,94,10,6,27,184,16,10,110,32,8,25,30,12,11,4,282,29,25,13,26,47,14,5,20,28,7,13,4,26,10,9
+[Auction "E"]
+1H X 1S Pass 
+2H Pass Pass Pass 
+[Play "S"]
+DA D6 D9 D7 
+D8 DK D3 D5 
+SA S4 S3 SQ 
+D2 DT DQ D4 
+CA C3 C7 C2 
+C4 CK C6 C5 
+S5 SK S2 CJ 
+H2 HT HJ HA 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "31"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:862.AJT97.92.AJ8 A954.642.AKT6.93 7.Q53.J875.Q7652 KQJT3.K8.Q43.KT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44958449586947499474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  9
+N  D  5
+N  C  8
+S NT  4
+S  S  4
+S  H  9
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  4
+E  D  7
+E  C  4
+W NT  9
+W  S  9
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,2,1,60,246,44,190,89,37,41,125,92,12,20,351,292,50,17,26,17,14,15,37,18,10,32,263,24,9,58,25,37,14,14,58,26,16,47,19,16,22,21,852,48,98,19,12,16,7,31,16,18,9,17,14,9,12,7,16
+[Auction "S"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+D9 DA D7 D3 
+S6 S4 S7 SK 
+S2 S5 C2 SQ 
+S8 S9 C5 S3 
+D2 D6 D8 DQ 
+HJ DK D5 D4 
+CJ C3 C6 CT 
+C8 C9 CQ CK 
+CA SA C7 C4 
+HA H2 HQ HK 
+HT H4 H3 H8 
+H9 -  -  -  
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "31"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:862.AJT97.92.AJ8 A954.642.AKT6.93 7.Q53.J875.Q7652 KQJT3.K8.Q43.KT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44958449586947499474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  9
+N  D  5
+N  C  8
+S NT  4
+S  S  4
+S  H  9
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  4
+E  D  7
+E  C  4
+W NT  9
+W  S  9
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,0,3,59,102,48,72,46,176,88,12,22,37,1970,22,22,83,28,16,13,96,22,52,17,214,41,32,13,95,29,21,9,64,52,37,23,114,25,427,24,56,36,12,33
+[Auction "S"]
+Pass 1S 2H 3H =1= 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+D9 DA D5 D3 
+S2 S4 S7 SK 
+S6 SA C2 SQ 
+S8 S5 C5 SJ 
+D2 D6 D7 DQ 
+H7 DK D8 D4 
+CA C3 C6 CK 
+HJ H2 H5 HK 
+*
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "32"]
+[West "Andy Fenn#116045"]
+[North "Ian Draper#91338"]
+[East "David Arrighi#020214"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AKT74.A7.52.T752 Q85.J93.K843.Q64 J2.KQT642.Q97.K9 963.85.AJT6.AJ83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67845678455558655586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  4
+S  C  5
+E NT  5
+E  S  5
+E  H  5
+E  D  8
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,246,225,56,323,45,302,89,114,169,27,60,53,20,12,19,15,31,26,18,15,14,23,17,22,13,20,25,17,44,38,21,26,55,38,22,34,22,18,40,19,18,11,20,79,16,32,11,19,20,13,16,38,25,6,14,10,15,5,11
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass Pass Pass 
+[Play "W"]
+DJ D2 D8 DQ 
+H5 HA H3 H4 
+H8 H7 H9 HK 
+S6 C2 HJ HQ 
+S3 C5 D3 HT 
+C3 C7 C4 H6 
+C8 D5 C6 H2 
+S9 SA S5 SJ 
+CJ SK S8 S2 
+CA CT CQ C9 
+D6 S4 DK D7 
+DT S7 SQ D9 
+DA ST D4 CK 
+
+[Event "26 Jan Crockfords Hudson vs Draper"]
+[Site "RealBridge"]
+[Date "2024.01.26"]
+[Board "32"]
+[West "Mike Hampton#429305"]
+[North "Alan Hudson#43858"]
+[East "Michael Prior#110955"]
+[South "Michael Levy#405927"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AKT74.A7.52.T752 Q85.J93.K843.Q64 J2.KQT642.Q97.K9 963.85.AJT6.AJ83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Draper team"]
+[VisitTeam "Hudson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67845678455558655586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  4
+S  C  5
+E NT  5
+E  S  5
+E  H  5
+E  D  8
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,0,3,58,109,30,44,38,47,12,115,36,30,47,182,682,49,30,205,30,25,18,741,39,21,11,64,6,18,13,27,4,22,9,53,6,83,157,99,25,11,10,171,26,5,25,21,30,11,19,24,26,8,35,53,82,13,7,10,22,17,8,18,15,8,4
+[Auction "W"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3H 
+Pass Pass Pass 
+[Play "W"]
+H5 H7 HJ HK 
+S3 S4 SQ SJ 
+H8 HA H3 H2 
+S6 SA S8 S2 
+S9 SK S5 D7 
+D6 ST H9 HT 
+DT D2 D8 D9 
+DA D5 D3 DQ 
+DJ C2 DK H4 
+C3 C5 C4 H6 
+C8 C7 CQ C9 
+CJ CT D4 HQ 
+CA S7 C6 CK 

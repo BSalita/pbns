@@ -1,0 +1,3719 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "1"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ762.A.KJ5.J975 Q543.T98642.Q6.K A.75.A9872.AQ632 T98.KQJ3.T43.T84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "dc7dddc7dd0160001600"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 12
+N  H  7
+N  D 13
+N  C 13
+S NT 13
+S  S 12
+S  H  7
+S  D 13
+S  C 13
+E NT  0
+E  S  1
+E  H  6
+E  D  0
+E  C  0
+W NT  0
+W  S  1
+W  H  6
+W  D  0
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+[Auction "N"]
+1S Pass 2D Pass 
+2S Pass 3C Pass 
+4C Pass 5C Pass 
+Pass Pass 
+[Play "W"]
+HK HA H2 H5 
+C4 C5 CK CA 
+S8 S2 S3 SA 
+C8 C7 H4 CQ 
+CT CJ H6 C2 
+S9 SK S4 D2 
+D3 DK D6 D7 
+D4 DJ DQ DA 
+DT D5 H8 D9 
+HQ C9 H9 H7 
+ST S6 S5 C6 
+H3 S7 SQ C3 
+HJ SJ HT D8 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "1"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ762.A.KJ5.J975 Q543.T98642.Q6.K A.75.A9872.AQ632 T98.KQJ3.T43.T84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "dc7dddc7dd0160001600"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 12
+N  H  7
+N  D 13
+N  C 13
+S NT 13
+S  S 12
+S  H  7
+S  D 13
+S  C 13
+E NT  0
+E  S  1
+E  H  6
+E  D  0
+E  C  0
+W NT  0
+W  S  1
+W  H  6
+W  D  0
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+[Auction "N"]
+1S Pass 2D Pass 
+2S Pass 3C Pass 
+5C Pass Pass Pass 
+[Play "W"]
+HK HA H2 H5 
+S8 S2 S3 SA 
+H3 C5 H4 H7 
+C4 C7 CK CA 
+C8 CJ H6 C2 
+CT C9 H8 CQ 
+D3 D5 D6 DA 
+D4 DJ DQ D2 
+HJ S6 HT C3 
+DT DK S4 D7 
+S9 SK S5 D8 
+ST SJ SQ C6 
+HQ S7 H9 D9 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "2"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT763.J9.854.82 Q94.A764.QJ9.KT3 52.KQ3.T632.J976 J8.T852.AK7.AQ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "56455564558798887988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  8
+E  S  7
+E  H  9
+E  D  8
+E  C  8
+W NT  8
+W  S  7
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C7 C4 C8 CT 
+C6 CA C2 C3 
+H3 H2 H9 HA 
+C9 C5 S3 CK 
+HQ H5 HJ H4 
+S2 S8 SA S4 
+S5 SJ SK S9 
+CJ H8 S6 SQ 
+D2 D7 D5 DQ 
+D3 DK D4 D9 
+D6 DA D8 DJ 
+DT CQ S7 H6 
+HK HT ST H7 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "2"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT763.J9.854.82 Q94.A764.QJ9.KT3 52.KQ3.T632.J976 J8.T852.AK7.AQ54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "56455564558798887988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  5
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  5
+E NT  8
+E  S  7
+E  H  9
+E  D  8
+E  C  8
+W NT  8
+W  S  7
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+1NT Pass 2C 2S 
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "N"]
+SA S4 S2 S8 
+C8 C3 C9 CA 
+H9 HA H3 H8 
+HJ H4 HQ H2 
+C2 CT C6 C4 
+S6 H6 HK H5 
+SK S9 S5 SJ 
+D5 -  -  -  
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "3"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.9.QJT5.QT982 QT732.AK7.K863.6 K64.84.A742.AJ53 A8.QJT6532.9.K74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "333783337898a5498a54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  8
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  8
+E NT  9
+E  S  8
+E  H 10
+E  D  5
+E  C  4
+W NT  9
+W  S  8
+W  H 10
+W  D  5
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+1NT 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DQ DK DA D9 
+C9 C6 CA C4 
+D5 D3 D4 HQ 
+H9 HA H4 H2 
+C2 H7 H8 HJ 
+C8 HK C3 C7 
+DT D6 D2 H3 
+S9 D8 S4 HT 
+DJ S2 D7 H6 
+S5 S3 C5 H5 
+SJ S7 S6 SA 
+CT ST CJ CK 
+CQ SQ SK S8 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "3"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J95.9.QJT5.QT982 QT732.AK7.K863.6 K64.84.A742.AJ53 A8.QJT6532.9.K74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "333783337898a5498a54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  8
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  8
+E NT  9
+E  S  8
+E  H 10
+E  D  5
+E  C  4
+W NT  9
+W  S  8
+W  H 10
+W  D  5
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+1NT 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DQ DK DA D9 
+D5 D3 D2 H2 
+C8 C6 C3 C4 
+DJ D6 D4 H3 
+C2 H7 C5 C7 
+S5 S2 S4 SA 
+C9 HK CJ CK 
+H9 HA H4 H5 
+DT D8 D7 HT 
+CT S3 H8 HQ 
+S9 S7 S6 HJ 
+SJ ST SK H6 
+CQ SQ CA S8 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "4"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:976.Q842.AK642.9 J32.A753.73.AJ84 Q8.T6.JT85.KT753 AKT54.KJ9.Q9.Q62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "43485434858a9588a958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  8
+N  C  5
+S NT  4
+S  S  3
+S  H  4
+S  D  8
+S  C  5
+E NT  8
+E  S 10
+E  H  9
+E  D  5
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+C3 C2 C9 CJ 
+SQ SA S6 SJ 
+S8 SK S7 S2 
+C5 ST S9 S3 
+C7 S5 D2 D3 
+H6 S4 H2 D7 
+HT HK H4 H3 
+D8 HJ HQ HA 
+CT C6 H8 CA 
+CK CQ D4 C4 
+DJ D9 D6 H5 
+D5 DQ DK H7 
+DT H9 DA C8 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "4"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:976.Q842.AK642.9 J32.A753.73.AJ84 Q8.T6.JT85.KT753 AKT54.KJ9.Q9.Q62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "43485434858a9588a958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  8
+N  C  5
+S NT  4
+S  S  3
+S  H  4
+S  D  8
+S  C  5
+E NT  8
+E  S 10
+E  H  9
+E  D  5
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+DA D3 D8 D9 
+DK D7 D5 DQ 
+D2 H3 DT C2 
+D4 S2 DJ H9 
+HQ HA HT HJ 
+S6 S3 S8 SA 
+C9 CJ CK C6 
+H2 H5 H6 HK 
+H4 CA C3 CQ 
+S7 SJ SQ SK 
+S9 H7 C5 ST 
+D6 C4 C7 S5 
+H8 C8 CT S4 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "5"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:73.AQJT653.J8.J8 T6.72.K93.QT7642 KQJ85.94.AT6.953 A942.K8.Q7542.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "97955979553637836378"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  9
+S  S  7
+S  H  9
+S  D  5
+S  C  5
+E NT  3
+E  S  6
+E  H  3
+E  D  7
+E  C  8
+W NT  3
+W  S  6
+W  H  3
+W  D  7
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "N"]
+3H Pass Pass X 
+Pass 4C Pass Pass 
+Pass 
+[Play "S"]
+H4 H8 HT H2 
+H9 HK HA H7 
+C5 CA C8 C2 
+C3 CK CJ C4 
+DA D2 D8 DK 
+SK SA S3 S6 
+SQ S2 S7 ST 
+SJ S4 H3 C6 
+C9 S9 H5 CQ 
+D6 DQ DJ D9 
+DT D4 H6 D3 
+S8 D5 HJ C7 
+S5 D7 HQ CT 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "5"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:73.AQJT653.J8.J8 T6.72.K93.QT7642 KQJ85.94.AT6.953 A942.K8.Q7542.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "97955979553637836378"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  9
+S  S  7
+S  H  9
+S  D  5
+S  C  5
+E NT  3
+E  S  6
+E  H  3
+E  D  7
+E  C  8
+W NT  3
+W  S  6
+W  H  3
+W  D  7
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "N"]
+3H Pass Pass X 
+Pass 4C Pass Pass 
+Pass 
+[Play "S"]
+H9 HK HA H2 
+H4 H8 HQ H7 
+C9 CK HJ C6 
+C3 CA C8 C2 
+DA D2 D8 DK 
+SK SA S3 S6 
+SJ S2 S7 ST 
+SQ S4 CJ CQ 
+C5 D4 H3 CT 
+D6 D5 DJ D9 
+-  -  HT -  
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "6"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:975.A87.AQT97.J2 8.KT65.863.T8764 AQT64.Q942.4.KQ3 KJ32.J3.KJ52.A95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "99987999874444544455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D  8
+N  C  7
+S NT  9
+S  S  9
+S  H  9
+S  D  8
+S  C  7
+E NT  4
+E  S  4
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 2D 
+Pass 2H Pass 2S 
+Pass Pass Pass 
+[Play "W"]
+CA C2 C4 CQ 
+C5 CJ C6 C3 
+SK S5 S8 SQ 
+HJ H7 HK H2 
+C9 D7 CT CK 
+D2 DQ D3 D4 
+SJ S9 C7 S4 
+D5 DA D6 H4 
+S2 S7 C8 SA 
+S3 D9 D8 ST 
+H3 HA H5 H9 
+DJ H8 H6 HQ 
+DK DT HT S6 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "6"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:975.A87.AQT97.J2 8.KT65.863.T8764 AQT64.Q942.4.KQ3 KJ32.J3.KJ52.A95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "99987999874444544455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D  8
+N  C  7
+S NT  9
+S  S  9
+S  H  9
+S  D  8
+S  C  7
+E NT  4
+E  S  4
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+HJ H7 HK H2 
+CA C2 C6 C3 
+C9 CJ C4 CQ 
+D5 DQ D6 D4 
+SK S5 S8 SQ 
+H3 H8 HT HQ 
+S2 S7 H5 SA 
+C5 D7 C7 CK 
+SJ S9 H6 S4 
+S3 D9 C8 S6 
+D2 DT D3 ST 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "7"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A976.QJT864.4.K3 KQT.K73.A97632.9 J.2.Q85.AJT87642 85432.A95.KJT.Q5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "54739547394859248592"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  3
+N  C  9
+S NT  5
+S  S  4
+S  H  7
+S  D  3
+S  C  9
+E NT  4
+E  S  8
+E  H  5
+E  D  9
+E  C  2
+W NT  4
+W  S  8
+W  H  5
+W  D  9
+W  C  2
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "S"]
+4C Pass Pass 4D 
+Pass Pass 5C Pass 
+Pass Pass 
+[Play "W"]
+DK D4 D7 D5 
+S8 SA ST SJ 
+S2 S6 SQ C2 
+DT C3 D2 D8 
+S3 S7 SK CT 
+DJ CK D3 DQ 
+S4 S9 C9 CJ 
+C5 H4 D6 CA 
+CQ H6 H7 C8 
+S5 H8 D9 C4 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "7"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A976.QJT864.4.K3 KQT.K73.A97632.9 J.2.Q85.AJT87642 85432.A95.KJT.Q5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "54739547394859248592"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  3
+N  C  9
+S NT  5
+S  S  4
+S  H  7
+S  D  3
+S  C  9
+E NT  4
+E  S  8
+E  H  5
+E  D  9
+E  C  2
+W NT  4
+W  S  8
+W  H  5
+W  D  9
+W  C  2
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+[Auction "S"]
+3C Pass Pass Pass 
+[Play "W"]
+HA H4 H3 H2 
+S4 SA ST SJ 
+C5 CK C9 C2 
+DT D4 DA D5 
+S3 S6 SK C4 
+DJ C3 D2 D8 
+H5 HQ HK C6 
+CQ S7 H7 CA 
+H9 H6 D3 CJ 
+S5 S9 SQ CT 
+S2 H8 D6 C8 
+S8 HT D7 C7 
+DK HJ D9 DQ 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "8"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT653.874.Q96.J5 J.QJT92.85.KT982 87.K653.AKJ7.AQ4 AQ942.A.T432.763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "89885898854453844538"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H  8
+S  D  8
+S  C  5
+E NT  4
+E  S  4
+E  H  5
+E  D  3
+E  C  8
+W NT  4
+W  S  4
+W  H  5
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 2H =1= X 
+3C =2= 3S Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+HA H4 H2 H3 
+C6 C5 CT CQ 
+S2 ST SJ S7 
+C7 CJ CK C4 
+C3 S3 C9 CA 
+D2 DQ D5 D7 
+S4 H7 H9 H5 
+S9 S5 C8 S8 
+SQ H8 C2 H6 
+D3 D6 HQ HK 
+D4 -  -  DA 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "8"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT653.874.Q96.J5 J.QJT92.85.KT982 87.K653.AKJ7.AQ4 AQ942.A.T432.763"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 150"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "89885898854453844538"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H  8
+S  D  8
+S  C  5
+E NT  4
+E  S  4
+E  H  5
+E  D  3
+E  C  8
+W NT  4
+W  S  4
+W  H  5
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "W"]
+2S =1= Pass Pass X 
+Pass Pass 3C =2= Pass 
+3D Pass Pass Pass 
+[Play "N"]
+D6 D5 DA D2 
+S3 SJ S8 SA 
+H7 H2 H3 HA 
+S5 D8 S7 S2 
+H8 HQ HK D3 
+CJ CK CA C6 
+H4 H9 H6 C3 
+D9 HT H5 C7 
+C5 C9 CQ D4 
+ST C2 C4 S9 
+DQ HJ D7 DT 
+S6 C8 DJ S4 
+SK CT DK SQ 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "9"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A73.KT973.Q6.AT7 J654.854.KT2.QJ6 KQ92.2.A8743.985 T8.AQJ6.J95.K432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78786787866464665646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  6
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  6
+E NT  6
+E  S  4
+E  H  6
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "N"]
+1H Pass 1S Pass 
+2H Pass Pass Pass 
+[Play "E"]
+S4 S2 S8 SA 
+S5 SK ST S7 
+S6 SQ HJ S3 
+C6 C5 CK CA 
+CJ C8 C2 CT 
+CQ C9 C3 C7 
+SJ S9 C4 H3 
+D2 DA D5 D6 
+H5 H2 H6 H9 
+H8 D3 HQ HT 
+H4 D4 HA H7 
+DK D7 D9 DQ 
+DT D8 DJ HK 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "9"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A73.KT973.Q6.AT7 J654.854.KT2.QJ6 KQ92.2.A8743.985 T8.AQJ6.J95.K432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78786787866464665646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  8
+N  C  6
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  6
+E NT  6
+E  S  4
+E  H  6
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "N"]
+1H Pass 1S Pass 
+2H Pass Pass Pass 
+[Play "E"]
+CQ C5 C2 CA 
+S4 S2 S8 SA 
+S5 SQ ST S7 
+DK D3 D9 DQ 
+C6 C8 CK C7 
+CJ C9 C4 CT 
+D2 DA D5 D6 
+H4 H2 HJ HK 
+S6 SK H6 S3 
+DT D4 DJ H3 
+H5 D7 HQ HT 
+H8 D8 HA H7 
+SJ S9 C3 H9 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "10"]
+[West "Dianne Benvie#23123"]
+[North "Judith Chandler#9758"]
+[East "Marie Ewbank#6081"]
+[South "nola clark#4103"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:9.A8752.AT53.QT8 AK54.KQ64.Q862.6 QJT87.T.J9.AJ973 632.J93.K74.K542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67659676597577475774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  9
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  9
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+H5 H4 HT HJ 
+HA H6 C3 H9 
+CQ C6 C7 C2 
+CT S4 CA C4 
+C8 S5 CJ CK 
+D3 DQ D9 D4 
+H2 HQ S7 H3 
+H7 HK S8 C5 
+S9 SA ST S2 
+D5 SK SJ S3 
+DA D2 DJ DK 
+DT D6 C9 D7 
+H8 D8 SQ S6 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "10"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Juliet Rowe*#32087"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:9.A8752.AT53.QT8 AK54.KQ64.Q862.6 QJT87.T.J9.AJ973 632.J93.K74.K542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "5"]
+[Score "NS -300"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67659676597577475774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  9
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  9
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1NT 2H 
+Pass Pass Pass 
+[Play "E"]
+C6 C3 CK C8 
+H4 C7 C2 CQ 
+D2 D9 DK DA 
+DQ DJ D7 D3 
+SK S8 S6 S9 
+D8 HT D4 D5 
+SA SQ S2 DT 
+D6 C9 H9 HA 
+HQ S7 H3 H8 
+S4 SJ S3 CT 
+H6 CA C4 H2 
+HK CJ HJ H5 
+S5 ST C5 H7 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "11"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK7654.K52.J986. QJ.QJ8.AK754.854 T9832.973.32.KT2 .AT64.QT.AQJ9763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "291313913174b9c74bac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  9
+N  H  1
+N  D  3
+N  C  1
+S NT  3
+S  S  9
+S  H  1
+S  D  3
+S  C  1
+E NT  7
+E  S  4
+E  H 11
+E  D  9
+E  C 12
+W NT  7
+W  S  4
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C 2S 3D 
+4S 5C 5S X 
+Pass Pass Pass 
+[Play "E"]
+DA D2 DT D8 
+DK D3 DQ D6 
+C8 CT CJ S6 
+SJ S2 H4 SA 
+SQ S3 C3 SK 
+D4 H3 C6 DJ 
+D5 H7 C7 D9 
+C4 S8 C9 S4 
+H8 H9 HA H2 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "11"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK7654.K52.J986. QJ.QJ8.AK754.854 T9832.973.32.KT2 .AT64.QT.AQJ9763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "291313913174b9c74bac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  9
+N  H  1
+N  D  3
+N  C  1
+S NT  3
+S  S  9
+S  H  1
+S  D  3
+S  C  1
+E NT  7
+E  S  4
+E  H 11
+E  D  9
+E  C 12
+W NT  7
+W  S  4
+W  H 11
+W  D 10
+W  C 12
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1C 1S 2D 
+2S 5C X Pass 
+5S Pass Pass Pass 
+[Play "E"]
+DA D3 DT D6 
+DK D2 DQ D8 
+C8 CT CJ S4 
+D4 S8 H4 D9 
+H8 H7 HA H2 
+HJ H3 HT HK 
+D5 S9 C3 DJ 
+HQ H9 H6 H5 
+C5 C2 CQ S5 
+SQ S3 C6 SA 
+SJ ST C7 SK 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "12"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT.A7.QJ43.QT875 AJ9862.T3.52.KJ3 54.QJ9.AT876.A62 K73.K86542.K9.94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "54499544997994479944"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  9
+N  C  9
+S NT  5
+S  S  4
+S  H  4
+S  D  9
+S  C  9
+E NT  7
+E  S  9
+E  H  9
+E  D  4
+E  C  4
+W NT  7
+W  S  9
+W  H  9
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C 2S 3D 
+3S 4D Pass Pass 
+Pass 
+[Play "W"]
+S3 ST SA S4 
+SK SQ S2 S5 
+C9 CT CJ CA 
+HK HA H3 HQ 
+DK D3 D2 DT 
+C4 CQ CK C2 
+H2 H7 HT HJ 
+D9 DQ D5 D6 
+H4 C8 C3 C6 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "12"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT.A7.QJ43.QT875 AJ9862.T3.52.KJ3 54.QJ9.AT876.A62 K73.K86542.K9.94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "54499544997994479944"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  9
+N  C  9
+S NT  5
+S  S  4
+S  H  4
+S  D  9
+S  C  9
+E NT  7
+E  S  9
+E  H  9
+E  D  4
+E  C  4
+W NT  7
+W  S  9
+W  H  9
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+2D =1= Pass 2H =2= Pass 
+Pass Pass 
+[Play "S"]
+DA D9 D3 D2 
+D6 DK D4 D5 
+HJ H2 H7 HT 
+CA C4 C8 C3 
+D8 S3 DJ H3 
+S4 SK ST S2 
+H9 H4 HA S6 
+S5 S7 SQ SA 
+C2 H8 C5 S8 
+HQ HK C7 CJ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "13"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J9652.J4.Q83.Q98 A43.T987.A9642.6 QT8.AQ.KJ.AJT753 K7.K6532.T75.K42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "57447574477699576995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  6
+E  H  9
+E  D  9
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1C Pass 
+1S Pass 3C Pass 
+Pass Pass 
+[Play "W"]
+D7 D3 DA DJ 
+HK H4 HT HQ 
+H2 HJ H7 HA 
+C2 C8 C6 CA 
+C4 C9 D2 C3 
+D5 D8 D4 DK 
+SK S2 S3 ST 
+CK CQ D6 C5 
+H6 S5 H8 C7 
+S7 S6 D9 CT 
+H3 SJ SA S8 
+-  -  H9 -  
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "13"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J9652.J4.Q83.Q98 A43.T987.A9642.6 QT8.AQ.KJ.AJT753 K7.K6532.T75.K42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -300"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "57447574477699576995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  6
+E  H  9
+E  D  9
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1C 1H 
+1S 2H 4S Pass 
+Pass Pass 
+[Play "E"]
+C6 CA C2 C9 
+SA ST S7 S2 
+H7 HQ HK H4 
+D2 C3 CK CQ 
+DA DJ D7 D8 
+D4 DK D5 D3 
+S3 SQ SK S5 
+S4 CJ C4 C8 
+D6 C5 DT DQ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "14"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K43.J94.K32.QJT3 T95.QT3.QT5.8642 AQJ876.A8.J6.A75 2.K7652.A9874.K9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a44a9a44a3289332893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  4
+N  D  4
+N  C 10
+S NT  9
+S  S 10
+S  H  4
+S  D  4
+S  C 10
+E NT  3
+E  S  2
+E  H  8
+E  D  9
+E  C  3
+W NT  3
+W  S  2
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 2C 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+H2 H4 HT HA 
+S2 S3 S5 SA 
+D4 SK S9 S6 
+CK CQ C2 C5 
+HK H9 H3 H8 
+DA D2 DT D6 
+H7 HJ HQ S8 
+H5 S4 ST SQ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "14"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K43.J94.K32.QJT3 T95.QT3.QT5.8642 AQJ876.A8.J6.A75 2.K7652.A9874.K9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a44a9a44a3289332893"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  4
+N  D  4
+N  C 10
+S NT  9
+S  S 10
+S  H  4
+S  D  4
+S  C 10
+E NT  3
+E  S  2
+E  H  8
+E  D  9
+E  C  3
+W NT  3
+W  S  2
+W  H  8
+W  D  9
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S 2S =1= 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+DA D2 D5 D6 
+D9 DK DT DJ 
+S2 S3 S5 SA 
+H2 S4 S9 SQ 
+H5 SK ST S6 
+CK CQ C2 C5 
+D8 D3 DQ S7 
+C9 C3 C4 CA 
+D4 CT C6 C7 
+H6 CJ C8 H8 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "15"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ86.J98632.Q2.3 K92.T5.T984.Q872 4.AKQ7.AJ53.AKT4 JT753.4.K76.J965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 710"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "c8db8b8da81401414024"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  8
+N  H 13
+N  D 11
+N  C  8
+S NT 11
+S  S  8
+S  H 13
+S  D 10
+S  C  8
+E NT  1
+E  S  4
+E  H  0
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  0
+W  D  2
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+[Auction "S"]
+1D Pass 1H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+HT HA H4 H2 
+H5 HK D6 H3 
+C2 CA C5 C3 
+C7 CK C6 D2 
+C8 C4 C9 H9 
+D4 DA D7 DQ 
+D8 D3 DK H8 
+S2 S4 S3 SA 
+S9 H7 S5 S6 
+D9 DJ S7 S8 
+DT D5 ST H6 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "15"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ86.J98632.Q2.3 K92.T5.T984.Q872 4.AKQ7.AJ53.AKT4 JT753.4.K76.J965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "c8db8b8da81401414024"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  8
+N  H 13
+N  D 11
+N  C  8
+S NT 11
+S  S  8
+S  H 13
+S  D 10
+S  C  8
+E NT  1
+E  S  4
+E  H  0
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  0
+W  D  2
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+[Auction "S"]
+1C Pass 1H Pass 
+4NT Pass 5D Pass 
+6H Pass Pass Pass 
+[Play "E"]
+DT DA D6 D2 
+H5 HA H4 H2 
+C2 CA C5 C3 
+C7 CK C6 DQ 
+HT HK S5 H3 
+SK S4 ST SQ 
+D9 D3 D7 H6 
+S2 C4 S3 SA 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "16"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T97.QT94.72.QJ52 AJ52.J3.864.T963 KQ843.K62.KQ9.84 6.A875.AJT53.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "57544575458669886798"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  7
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  8
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+H9 HJ HK H5 
+HT H3 H2 H7 
+HQ D4 H6 HA 
+H4 S2 S3 H8 
+C2 C3 C4 CA 
+C5 C6 C8 CK 
+CQ C9 S4 C7 
+CJ CT D9 D3 
+S9 SA S8 S6 
+D2 D6 DQ DA 
+D7 D8 DK DJ 
+S7 S5 SK D5 
+ST SJ SQ DT 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "16"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T97.QT94.72.QJ52 AJ52.J3.864.T963 KQ843.K62.KQ9.84 6.A875.AJT53.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "57544575458669886798"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  7
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  8
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+CQ C3 C4 CA 
+C2 C6 C8 CK 
+CJ C9 S3 C7 
+ST SA S4 S6 
+C5 CT S8 H5 
+D2 D4 DQ DA 
+D7 D6 DK DJ 
+S7 S2 SK H7 
+S9 S5 SQ H8 
+H4 D8 D9 DT 
+H9 H3 H2 D5 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "17"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K543.T6.KT94.A52 87.9832.Q873.T87 AT9.AJ5.A652.KQ4 QJ62.KQ74.J.J963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "aa8a9aa9a93343433434"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 10
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D 10
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1D Pass 
+1S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H4 H6 H8 HJ 
+DJ DK D3 D2 
+C6 DT D7 DA 
+S2 S3 S7 SA 
+SJ SK S8 ST 
+SQ S4 H2 S9 
+S6 S5 H3 D5 
+HK HT H9 HA 
+C3 CA C7 C4 
+C9 C2 C8 CQ 
+CJ C5 CT CK 
+H7 D4 D8 H5 
+HQ D9 DQ D6 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "17"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K543.T6.KT94.A52 87.9832.Q873.T87 AT9.AJ5.A652.KQ4 QJ62.KQ74.J.J963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "aa8a9aa9a93343433434"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 10
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D 10
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1D X 
+XX 1H 3NT Pass 
+Pass Pass 
+[Play "W"]
+HK H6 H3 HA 
+DJ D4 D3 DA 
+S6 DK D7 D2 
+H4 D9 DQ D5 
+HQ HT H2 H5 
+H7 S3 H9 HJ 
+C3 C2 C7 CK 
+C6 CA C8 C4 
+C9 C5 CT CQ 
+S2 DT D8 D6 
+SJ S4 S8 SA 
+SQ SK S7 ST 
+CJ S5 H8 S9 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "18"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J83.4.AKQT.AJ843 QT964.62.J9643.2 7.AJT985.875.QT5 AK52.KQ73.2.K976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "74979749794944369443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  9
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  9
+E  H  4
+E  D  4
+E  C  3
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 2D =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+C2 CQ CK CA 
+H2 H8 HQ H4 
+H6 C5 C6 C3 
+D4 D5 D2 DT 
+D3 D7 H3 DA 
+S4 S7 SA S3 
+S6 CT C7 C4 
+S9 HA H7 S8 
+D6 HJ HK SJ 
+ST D8 C9 CJ 
+D9 H9 S2 DK 
+DJ HT S5 C8 
+SQ H5 SK DQ 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "18"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J83.4.AKQT.AJ843 QT964.62.J9643.2 7.AJT985.875.QT5 AK52.KQ73.2.K976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "74979749794944369443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  9
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  9
+E  H  4
+E  D  4
+E  C  3
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 2D =1= X Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+D8 D2 DK D3 
+HA H3 H4 H2 
+HJ HQ S3 H6 
+C5 C6 CA C2 
+CT CK C4 D4 
+S7 SA S8 S4 
+H5 S2 SJ SQ 
+D5 S5 DT D6 
+H8 HK C3 D9 
+CQ C7 C8 ST 
+D7 SK DQ DJ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "19"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J765.T83.KT5.J98 AK932.K64.72.T75 84.72.AQJ983.AK6 QT.AQJ95.64.Q432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33385333855995859958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  8
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  8
+S  C  5
+E NT  5
+E  S  9
+E  H  9
+E  D  5
+E  C  8
+W NT  5
+W  S  9
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+1D Pass Pass 1S 
+2D 2S Pass Pass 
+Pass 
+[Play "S"]
+CA C2 C9 C5 
+H7 H5 H3 HK 
+S4 SQ S5 S2 
+S8 ST S6 SA 
+D3 D4 S7 SK 
+D8 D6 SJ S3 
+DA C3 DK D2 
+DQ C4 DT D7 
+CK CQ C8 C7 
+DJ H9 D5 S9 
+H2 HJ H8 H4 
+C6 HQ HT H6 
+D9 HA CJ CT 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "19"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J765.T83.KT5.J98 AK932.K64.72.T75 84.72.AQJ983.AK6 QT.AQJ95.64.Q432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4DX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33385333855995859958"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  8
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  8
+S  C  5
+E NT  5
+E  S  9
+E  H  9
+E  D  5
+E  C  8
+W NT  5
+W  S  9
+W  H  9
+W  D  5
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+1D 1H Pass 2H 
+3D Pass Pass 3H 
+Pass Pass 4D Pass 
+Pass X Pass Pass 
+Pass 
+[Play "W"]
+D6 D5 D2 D8 
+D4 DK D7 D3 
+H9 H3 H6 H7 
+HA H8 H4 H2 
+HQ HT HK D9 
+SQ S5 S2 S8 
+ST S6 S3 S4 
+C2 CJ C7 C6 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "20"]
+[West "Juliet Rowe*#32087"]
+[North "Judith Chandler#9758"]
+[East "Dianne Benvie#23123"]
+[South "Trudy Lange#10107"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A75.7642.AQ732.J JT842.KT.KJ4.AQ3 KQ63.AJ93.865.K4 9.Q85.T9.T987652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "67894678945644956449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  9
+N  C  4
+S NT  6
+S  S  7
+S  H  8
+S  D  9
+S  C  4
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1NT X 
+XX =1= 2S Pass Pass 
+Pass 
+[Play "E"]
+D4 D5 D9 DQ 
+HT HJ HQ H2 
+DJ D6 DT DA 
+HK HA H5 H4 
+S2 SK S9 S5 
+S4 SQ C8 S7 
+DK D8 C2 D2 
+CA C4 C5 CJ 
+C3 CK C6 H6 
+S8 H9 H8 H7 
+SJ S3 C7 SA 
+ST H3 C9 D7 
+CQ S6 CT D3 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "20"]
+[West "Pauline Andrews#1608"]
+[North "Janet Barnard*#1997"]
+[East "nola clark#4103"]
+[South "Marie Ewbank#6081"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A75.7642.AQ732.J JT842.KT.KJ4.AQ3 KQ63.AJ93.865.K4 9.Q85.T9.T987652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "67894678945644956449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  9
+N  C  4
+S NT  6
+S  S  7
+S  H  8
+S  D  9
+S  C  4
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1S X 
+Pass 2H Pass Pass 
+Pass 
+[Play "E"]
+SJ S3 S9 SA 
+HT HJ HQ H4 
+D4 D5 DT DA 
+HK HA H5 H2 
+S2 H9 H8 H6 
+S4 SK C7 S5 
+S8 SQ C6 S7 
+DK D6 D9 DQ 
+ST S6 C5 H7 
+DJ D8 C2 D3 
+CA C4 C8 CJ 
+C3 CK C9 D2 
+CQ H3 CT D7 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "21"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J643.J63.K76.T54 5.KQT8.AJ3.KQ983 AT9872.5.Q985.A6 KQ.A9742.T42.J72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "382623826275a7a75a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  6
+N  C  2
+S NT  3
+S  S  8
+S  H  2
+S  D  6
+S  C  2
+E NT  7
+E  S  5
+E  H 10
+E  D  7
+E  C 10
+W NT  7
+W  S  5
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1C 1S 2H 
+2S 4H Pass Pass 
+Pass 
+[Play "N"]
+SJ S5 SA SQ 
+HJ HK H5 H2 
+H3 H8 S2 HA 
+S4 D3 S7 SK 
+C4 CK CA C2 
+DK DA D5 D2 
+C5 C3 C6 CJ 
+CT CQ D8 C7 
+H6 C8 D9 D4 
+D6 DJ DQ DT 
+S3 C9 ST H4 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "21"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J643.J63.K76.T54 5.KQT8.AJ3.KQ983 AT9872.5.Q985.A6 KQ.A9742.T42.J72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "382623826275a7a75a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  6
+N  C  2
+S NT  3
+S  S  8
+S  H  2
+S  D  6
+S  C  2
+E NT  7
+E  S  5
+E  H 10
+E  D  7
+E  C 10
+W NT  7
+W  S  5
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1C =1= 1S 2H 
+2S 4H 4S 5H 
+Pass Pass Pass 
+[Play "N"]
+SJ S5 SA SQ 
+H3 H8 H5 H2 
+H6 HK S2 H4 
+HJ HQ S7 H7 
+C5 C3 CA C2 
+DK DA D5 D2 
+C4 C8 C6 CJ 
+CT CK D8 C7 
+S6 CQ S8 D4 
+S4 C9 D9 DT 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "22"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT9854.7.K95.Q84 KJ.J843.QT32.T52 62.T62.J874.AJ97 A73.AKQ95.A6.K63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "2623426234a7b88a7b88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  3
+N  C  4
+S NT  2
+S  S  6
+S  H  2
+S  D  3
+S  C  4
+E NT 10
+E  S  7
+E  H 11
+E  D  8
+E  C  8
+W NT 10
+W  S  7
+W  H 11
+W  D  8
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 2D =1= Pass 
+2H Pass 2NT Pass 
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "S"]
+H6 H5 H7 H8 
+HT HA S8 H3 
+H2 H9 S4 HJ 
+D4 DA D5 D2 
+D7 D6 DK D3 
+DJ HQ D9 DT 
+S2 S3 ST SK 
+D8 C3 S5 DQ 
+S6 S7 SQ SJ 
+C7 SA S9 C2 
+C9 C6 CQ C5 
+CA CK C4 CT 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "22"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT9854.7.K95.Q84 KJ.J843.QT32.T52 62.T62.J874.AJ97 A73.AKQ95.A6.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "2623426234a7b88a7b88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  3
+N  C  4
+S NT  2
+S  S  6
+S  H  2
+S  D  3
+S  C  4
+E NT 10
+E  S  7
+E  H 11
+E  D  8
+E  C  8
+W NT 10
+W  S  7
+W  H 11
+W  D  8
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 2D =1= 2S 
+Pass Pass 3H Pass 
+Pass 3S Pass Pass 
+4H Pass Pass 4S 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+H3 H2 HA H7 
+SJ S2 SA S4 
+SK S6 S3 S9 
+H4 H6 HK S5 
+D2 D4 S7 SQ 
+C2 CJ CK C4 
+H8 HT HQ S8 
+C5 C7 C3 CQ 
+CT CA C6 C8 
+HJ C9 H5 D5 
+D3 D7 DA D9 
+DT D8 H9 ST 
+DQ DJ D6 DK 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "23"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J74.AJ.KQT84.Q63 AQT9.KQ65.95.542 K6.T97432.3.T987 8532.8.AJ762.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "44766447668967799677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  7
+S  D  6
+S  C  6
+E NT  8
+E  S  9
+E  H  6
+E  D  7
+E  C  7
+W NT  9
+W  S  9
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1D 1NT X 
+2D =1= Pass 2H X 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+DK D5 D3 DA 
+HA H5 H7 H8 
+HJ HK H2 CJ 
+C3 C2 C7 CA 
+S7 SQ SK S2 
+S4 H6 H4 D2 
+DQ D9 H3 D6 
+D8 S9 H9 D7 
+SJ SA S6 S3 
+C6 C4 C8 CK 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "23"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J74.AJ.KQT84.Q63 AQT9.KQ65.95.542 K6.T97432.3.T987 8532.8.AJ762.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "44766447668967799677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  7
+S  D  6
+S  C  6
+E NT  8
+E  S  9
+E  H  6
+E  D  7
+E  C  7
+W NT  9
+W  S  9
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+DK D5 D3 DA 
+HA H5 H7 H8 
+DQ D9 C7 D2 
+C3 C2 C8 CJ 
+S4 SQ SK S2 
+HJ HQ HT D6 
+C6 C4 C9 CA 
+S7 SA S6 S3 
+SJ HK H2 D7 
+CQ C5 CT CK 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "24"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A63.JT876.T62.86 K2.A94.KJ.QJT752 T98.K2.A8743.A94 QJ754.Q53.Q95.K3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44674446748976989769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  7
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  7
+S  C  4
+E NT  8
+E  S  9
+E  H  7
+E  D  6
+E  C  9
+W NT  8
+W  S  9
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2C Pass 
+Pass Pass 
+[Play "S"]
+ST S4 SA S2 
+S8 S5 S6 SK 
+C4 CK C6 C2 
+S9 SQ S3 H4 
+D7 SJ C8 H9 
+DA D5 D6 DK 
+D3 D9 DT DJ 
+CA C3 H6 CQ 
+C9 H3 D2 CT 
+D4 S7 H7 CJ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "24"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A63.JT876.T62.86 K2.A94.KJ.QJT752 T98.K2.A8743.A94 QJ754.Q53.Q95.K3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44674446748976989769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  7
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  7
+S  C  4
+E NT  8
+E  S  9
+E  H  7
+E  D  6
+E  C  9
+W NT  8
+W  S  9
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1C =1= 1D 
+1S Pass 2C Pass 
+Pass Pass 
+[Play "S"]
+DA D5 D6 DJ 
+D8 D9 DT DK 
+C4 CK C6 C2 
+CA C3 C8 CQ 
+D3 DQ D2 H4 
+S8 S4 S3 SK 
+C9 S5 H6 CJ 
+HK H3 H7 H9 
+D7 S7 H8 C5 
+H2 H5 HT HA 
+S9 SJ SA S2 
+-  -  HJ -  
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "25"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.AKT52.KQ6.A982 KQ874.Q9743.J.75 62.J6.T9753.K643 AJT95.8.A842.QJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "73798737986a5436a543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  7
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  6
+E  S 10
+E  H  5
+E  D  4
+E  C  3
+W NT  6
+W  S 10
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "N"]
+1H Pass Pass 1S 
+2C 4S Pass Pass 
+Pass 
+[Play "N"]
+HA H3 H6 H8 
+HK H4 HJ S5 
+S3 SK S2 S9 
+H2 H7 C3 ST 
+D6 DJ D3 DA 
+DK S4 D5 D2 
+H5 H9 C4 SJ 
+DQ S7 D7 D4 
+HT HQ S6 SA 
+CA C5 C6 CQ 
+C2 C7 CK CT 
+C8 S8 D9 D8 
+C9 SQ DT CJ 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "25"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.AKT52.KQ6.A982 KQ874.Q9743.J.75 62.J6.T9753.K643 AJT95.8.A842.QJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "73798737986a5436a543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  7
+N  D  9
+N  C  8
+S NT  7
+S  S  3
+S  H  7
+S  D  9
+S  C  8
+E NT  6
+E  S 10
+E  H  5
+E  D  4
+E  C  3
+W NT  6
+W  S 10
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+[Auction "N"]
+1H Pass Pass 1S 
+2C 2S Pass Pass 
+Pass 
+[Play "N"]
+HA H3 H6 H8 
+H2 H7 HJ S5 
+S3 S4 S2 SA 
+H5 S7 S6 SJ 
+D6 DJ D3 DA 
+DQ S8 D5 D2 
+CA C5 C3 CT 
+C9 C7 CK CJ 
+DK SQ DT D4 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "26"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T842.82.KT7.JT98 AQ.JT3.AQJ52.A65 J53.AQ964.9643.7 K976.K75.8.KQ432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2343222422ba9abaa9ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  3
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 10
+E  C 11
+W NT 10
+W  S 10
+W  H  9
+W  D 10
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 1S Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H6 H5 H2 HT 
+C7 CK C8 C5 
+D3 D8 DT DJ 
+D4 S6 D7 DA 
+D6 C2 DK D2 
+HA H7 H8 H3 
+H4 HK S4 HJ 
+S3 S7 S2 SA 
+S5 S9 S8 SQ 
+D9 C3 C9 DQ 
+SJ C4 CT CA 
+H9 CQ CJ C6 
+HQ SK ST D5 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "26"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T842.82.KT7.JT98 AQ.JT3.AQJ52.A65 J53.AQ964.9643.7 K976.K75.8.KQ432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2343222422ba9abaa9ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  3
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 10
+E  C 11
+W NT 10
+W  S 10
+W  H  9
+W  D 10
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+[Auction "E"]
+1D 1H X Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H8 H3 H6 H5 
+H2 HT HA H7 
+S2 HJ HQ HK 
+S4 SA S3 S6 
+S8 SQ S5 S7 
+C8 C5 C7 CK 
+C9 CA H4 C2 
+CT C6 H9 CQ 
+ST D2 SJ SK 
+DT D5 D4 S9 
+D7 DA D3 D8 
+DK DQ D6 C3 
+CJ DJ D9 C4 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "27"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT95..J42.AJ872 A8.AJT43.Q53.T53 J7643.965.AKT.96 2.KQ872.9876.KQ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "6b5686b5686286362863"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  5
+N  D  6
+N  C  8
+S NT  6
+S  S 11
+S  H  5
+S  D  6
+S  C  8
+E NT  6
+E  S  2
+E  H  8
+E  D  6
+E  C  3
+W NT  6
+W  S  2
+W  H  8
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2H =1= 2S 4H 
+4S 5H 5S Pass 
+Pass Pass 
+[Play "E"]
+HA H5 H2 S5 
+S8 S3 S2 SQ 
+SA S4 H7 S9 
+H4 H6 HQ ST 
+D3 DT D6 DJ 
+D5 DK D7 D2 
+DQ DA D8 D4 
+C3 C6 CQ CA 
+C5 C9 CK CJ 
+H3 H9 HK SK 
+CT S6 C4 C2 
+HT SJ D9 C7 
+HJ S7 H8 C8 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "27"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT95..J42.AJ872 A8.AJT43.Q53.T53 J7643.965.AKT.96 2.KQ872.9876.KQ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "6b5686b5686286362863"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  5
+N  D  6
+N  C  8
+S NT  6
+S  S 11
+S  H  5
+S  D  6
+S  C  8
+E NT  6
+E  S  2
+E  H  8
+E  D  6
+E  C  3
+W NT  6
+W  S  2
+W  H  8
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 2H =1= 2S 3H 
+4S Pass Pass Pass 
+[Play "E"]
+HA H5 H2 ST 
+S8 S3 S2 SQ 
+SA S4 H7 S9 
+HJ H6 H8 SK 
+D3 DK D6 D2 
+C3 C6 CQ CA 
+CT C9 C4 C2 
+HT H9 HQ D4 
+C5 S6 CK C7 
+D5 DA D7 DJ 
+DQ DT D8 S5 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "28"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT984.KQ96.AT7.6 A53.8542.953.974 KJ62.T.KQJ8.KQ53 7.AJ73.642.AJT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "7a7977a7974354643546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  7
+N  D  9
+N  C  7
+S NT  7
+S  S 10
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  3
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  3
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 2H Pass 5S 
+Pass Pass Pass 
+[Play "E"]
+C7 CQ CA C6 
+H5 HT HA H6 
+C4 CK CJ H9 
+SA SK S7 S4 
+C9 C3 C2 S8 
+S3 S2 C8 SQ 
+S5 S6 D6 ST 
+D3 DK D2 D7 
+H2 C5 CT S9 
+D5 DQ D4 DT 
+H4 SJ H3 HQ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "28"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QT984.KQ96.AT7.6 A53.8542.953.974 KJ62.T.KQJ8.KQ53 7.AJ73.642.AJT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "7a7977a7974354643546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  7
+N  D  9
+N  C  7
+S NT  7
+S  S 10
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  3
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  3
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 2NT =1= 
+Pass 3C Pass 3H 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+H5 HT HA H6 
+D9 D8 D4 DA 
+S3 S2 S7 S9 
+SA S6 C2 S4 
+C7 CQ CA C6 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "29"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K92.AKJ43.KQ2.A4 AJT64.975.74.875 Q8.Q86.AT983.QT2 753.T2.J65.KJ963"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "b7cc7c7cc71611616116"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 12
+N  D 12
+N  C  7
+S NT 12
+S  S  7
+S  H 12
+S  D 12
+S  C  7
+E NT  1
+E  S  6
+E  H  1
+E  D  1
+E  C  6
+W NT  1
+W  S  6
+W  H  1
+W  D  1
+W  C  6
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S4 SQ S5 S2 
+H5 H6 H2 HA 
+H7 HQ HT H3 
+H9 H8 C3 HK 
+C5 S8 S3 HJ 
+D4 C2 C6 H4 
+D7 D3 D5 DK 
+C7 D8 D6 DQ 
+C8 DA DJ D2 
+S6 D9 S7 S9 
+ST DT C9 SK 
+SJ CQ CK CA 
+SA CT CJ C4 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "29"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K92.AKJ43.KQ2.A4 AJT64.975.74.875 Q8.Q86.AT983.QT2 753.T2.J65.KJ963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "b7cc7c7cc71611616116"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 12
+N  D 12
+N  C  7
+S NT 12
+S  S  7
+S  H 12
+S  D 12
+S  C  7
+E NT  1
+E  S  6
+E  H  1
+E  D  1
+E  C  6
+W NT  1
+W  S  6
+W  H  1
+W  D  1
+W  C  6
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass 3C =3= Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+HT HJ H5 H6 
+H2 HA H7 H8 
+C3 H3 H9 HQ 
+D5 DK D4 D3 
+D6 DQ D7 D8 
+DJ D2 S4 DA 
+C6 S2 C7 DT 
+C9 C4 S6 D9 
+CJ CA C5 C2 
+S7 SK SA S8 
+S3 S9 SJ SQ 
+*
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "30"]
+[West "nola clark#4103"]
+[North "Janet Barnard*#1997"]
+[East "Trudy Lange#10107"]
+[South "Dianne Benvie#23123"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J.KQT97542.9.JT5 Q843.J83.Q.AQ862 AK952..KJT4.K973 T76.A6.A876532.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "1"]
+[HomeTeam "Team One"]
+[VisitTeam "Team Two"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "87857878575637555374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  6
+E  H  3
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 3H 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+DA D9 DQ D4 
+D2 H2 S3 DT 
+C4 C5 CA C3 
+S6 CT C2 CK 
+D8 SJ SQ DJ 
+S7 CJ CQ C7 
+HA H4 H3 S2 
+ST H5 S4 SA 
+H6 H7 S8 SK 
+D3 H9 C6 S9 
+D5 HT H8 S5 
+D6 HQ HJ DK 
+D7 HK C8 C9 
+
+[Event "AKBC - Social Teams - Thu 31st Mar"]
+[Site "RealBridge"]
+[Date "2022.03.31"]
+[Board "30"]
+[West "Marie Ewbank#6081"]
+[North "Judith Chandler#9758"]
+[East "Juliet Rowe*#32087"]
+[South "Pauline Andrews#1608"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J.KQT97542.9.JT5 Q843.J83.Q.AQ862 AK952..KJT4.K973 T76.A6.A876532.4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2DX"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "Team Two"]
+[VisitTeam "Team One"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "87857878575637555374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  7
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  6
+E  H  3
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S 2D X 
+Pass Pass Pass 
+[Play "N"]
+SJ SQ SK S7 
+CT S3 SA S6 
+D9 S4 S9 ST 
+HK H3 C3 HA 
+C5 CA C7 C4 
+H2 DQ DK DA 
+H4 C2 DT D8 
+CJ C6 CK D2 
+H5 C8 DJ D7 
+H7 H8 D4 D5 
+H9 HJ C9 D6 
+HT S8 S2 D3 
+HQ CQ S5 H6 
+

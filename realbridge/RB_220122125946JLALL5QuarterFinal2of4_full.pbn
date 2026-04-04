@@ -1,0 +1,6904 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 3C =1= Pass 5C 
+Pass Pass Pass 
+[Note "1: hearts+clubs limited"]
+[Play "N"]
+S9 SA S2 ST 
+H5 H4 H3 HK 
+H7 C4 HT H2 
+D5 DA D9 D4 
+D6 D2 DK C3 
+S6 C5 H9 H6 
+D7 D3 S7 C8 
+DT CQ HJ H8 
+DQ D8 S5 C9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S =1= Pass 2NT =2= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * hand a minor [0:12]"]
+[Note "2: values"]
+[Play "S"]
+H3 HK H7 H4 
+C6 C3 CT CQ 
+S7 C8 CJ C5 
+SJ ST S9 S4 
+D9 D4 DQ DA 
+HJ CA C2 C4 
+HT CK C7 D2 
+H9 C9 H5 D3 
+-  H8 -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S Pass 2NT =1= 
+Pass 3H =2= Pass 3S 
+Pass 4C Pass 4D =3= 
+Pass 4H Pass 4S =4= 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: ask for minor with values"]
+[Note "2: better hand with clubs(I think)"]
+[Note "3: cuebid"]
+[Note "4:  * cuebid [0:05]"]
+[Play "N"]
+S9 SA S7 ST 
+H5 H4 H3 HK 
+H7 C4 H9 H2 
+D7 DA D9 D4 
+D5 D2 DK C3 
+C7 CQ HJ H6 
+D6 D3 S5 C8 
+S6 SK S2 S3 
+DT D8 SQ C9 
+CT S4 HT H8 
+DQ DJ SJ CK 
+CJ S8 HA HQ 
+C2 C5 C6 CA 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S =1= Pass 2NT 
+Pass 3C Pass Pass 
+Pass 
+[Note "1:  * michaels [0:10]"]
+[Play "N"]
+S9 SA S5 S3 
+H5 H4 HA H2 
+CJ CQ C6 C8 
+C2 C4 S2 CA 
+H7 S4 H3 HK 
+S6 C5 H9 H6 
+D5 DA D9 D4 
+D6 D2 DK C3 
+C7 D3 HT HQ 
+CT D8 S7 CK 
+D7 DJ -  C9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 100"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S Pass 2NT =1= 
+Pass 3C Pass 4C 
+Pass 5C X Pass 
+Pass Pass 
+[Note "1: asking"]
+[Play "N"]
+S9 SK S2 S3 
+H5 H4 HA H2 
+CT CQ C6 C8 
+D5 DA D9 D4 
+D6 D2 DK C3 
+H7 S4 HJ HK 
+C7 D3 H3 HQ 
+S6 SA S5 ST 
+D7 D8 S7 C9 
+CJ S8 H9 H6 
+C2 C4 SQ CA 
+DT C5 HT H8 
+DQ DJ SJ CK 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S Pass 2NT =1= 
+Pass 3H =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: ask about minor"]
+[Note "2: h+C, accept invite"]
+[Play "S"]
+HT HK H5 H4 
+D9 D4 D6 D8 
+DK H2 D5 DA 
+C6 CA C2 C4 
+H3 C3 C7 CQ 
+S2 C8 D7 D2 
+SJ ST S9 S4 
+S5 S3 S6 S8 
+S7 H6 DT SA 
+SQ H8 H7 SK 
+H9 HQ DQ D3 
+HJ CK CJ C5 
+HA C9 CT DJ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 100"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S =1= Pass 2NT =2= 
+Pass 3C Pass 5C 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: michaels"]
+[Note "2: inv+, asks minor + strength"]
+[Play "N"]
+S9 SA S7 ST 
+H5 H4 HA H6 
+S6 SK SQ S3 
+D5 DA D9 D4 
+D6 D2 DK C3 
+H7 S4 H3 HK 
+C7 CQ HJ HQ 
+D7 D3 S2 C8 
+CT S8 H9 H2 
+DT DJ C6 C9 
+C2 C4 S5 CA 
+CJ D8 HT H8 
+DQ C5 SJ CK 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "15"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:96.75.QT765.JT72 AK84.4.AJ832.Q54 QJ752.AJT93.K9.6 T3.KQ862.4.AK983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44442444429999b9899b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  2
+E NT  9
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+[Auction "S"]
+1S 2S =1= Pass 2NT =2= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: mike"]
+[Note "2: game interest, asking"]
+[Play "S"]
+HJ HK H5 H4 
+DK D4 D7 DJ 
+SQ S3 S9 SA 
+C6 C3 C2 CQ 
+H3 C8 CT C5 
+SJ ST S6 S4 
+HA H2 H7 D2 
+HT HQ D5 D3 
+S2 CA C7 C4 
+S5 CK CJ D8 
+H9 H8 D6 S8 
+D9 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT =1= Pass 3D =2= Pass 
+3H Pass Pass Pass 
+[Note "1: 20-21"]
+[Note "2: usually h's"]
+[Play "N"]
+CA C6 C5 C7 
+ST S2 S6 SK 
+H2 H3 H5 HK 
+H6 H4 HQ HA 
+S7 S4 S5 SA 
+H9 H7 D5 HJ 
+C2 S9 SJ SQ 
+C3 D2 CQ S8 
+D3 CT D8 S3 
+CK H8 C4 C9 
+DA D4 DT DK 
+DJ -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+4H Pass Pass Pass 
+[Note "1:  * H [0:19]"]
+[Play "N"]
+CA C6 CQ C9 
+C2 CT CJ C7 
+DA D2 DT DK 
+D3 D4 DQ D9 
+DJ D6 D8 D7 
+H2 H7 H5 HJ 
+H6 H3 HQ HK 
+H9 H4 -  HA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS 200"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT Pass Pass Pass 
+[Play "N"]
+C3 C6 CJ C7 
+CK CT C4 C9 
+CA S2 CQ HJ 
+C2 S4 C5 S3 
+DJ D2 D8 D9 
+C8 H3 S6 S8 
+DA D4 D5 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+3H Pass Pass Pass 
+[Note "1: hearts"]
+[Play "N"]
+CA C6 CQ C9 
+C2 CT CJ C7 
+DA D2 D8 DK 
+H2 H3 HQ HA 
+H6 H4 H5 HK 
+S7 S2 S6 SA 
+ST S4 S5 SK 
+-  -  -  HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+3H Pass Pass Pass 
+[Note "1: h"]
+[Play "N"]
+CK C6 CQ C7 
+C2 CT CJ C9 
+DJ D2 D5 D9 
+DA D4 D8 D7 
+D3 D6 DT DK 
+H2 H3 H5 HA 
+H6 H4 HQ HK 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "4"]
+[Score "NS 400"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+1C =1= Pass 1D =2= Pass 
+1S =3= Pass 1NT =4= Pass 
+2NT Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 0-8"]
+[Note "3: 4+S, F1, may be canape"]
+[Note "4: 0-5hcp, waiting for further description"]
+[Play "S"]
+C4 C7 CK C6 
+C5 C9 CA CT 
+CJ D7 C2 H3 
+CQ HJ C3 H4 
+DQ DK DA D4 
+D5 D9 DJ D2 
+H5 S3 C8 H7 
+D8 S8 D3 D6 
+DT SQ H9 H8 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+1C =1= 2C Pass =2= 3C 
+X Pass 3H Pass 
+3S Pass Pass Pass 
+[Note "1: str art"]
+[Note "2: 0-5 or trap"]
+[Play "N"]
+CA C6 CQ C7 
+C2 CT CJ C9 
+DJ D2 D5 D9 
+DA D4 D8 D7 
+D3 D6 DT DK 
+S7 S2 S6 SK 
+ST S4 S5 SA 
+C3 S9 SJ SQ 
+C8 H3 C4 S8 
+H2 H4 C5 S3 
+H6 H7 H5 HA 
+H9 H8 HQ HK 
+CK HT DQ HJ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "16"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T7.962.AJ3.AK832 942.T8743.642.T6 J65.Q5.QT85.QJ54 AKQ83.AKJ.K97.97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "55389553894784347843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  8
+N  C  9
+S NT  5
+S  S  5
+S  H  3
+S  D  8
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  4
+E  C  3
+W NT  4
+W  S  7
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+3H Pass Pass Pass 
+[Note "1: hearts or minor slam try"]
+[Play "N"]
+CA C6 C4 C7 
+CK CT C5 C9 
+C2 D2 CJ HJ 
+H2 H3 H5 HA 
+H6 H4 HQ HK 
+D3 D4 D8 D7 
+C3 H7 CQ D9 
+H9 HT S6 S3 
+C8 H8 D5 DK 
+S7 S2 S5 SA 
+ST S4 SJ SK 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= 1S Pass 
+1NT Pass 6S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+HQ H2 H7 HA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: Semiforcing"]
+[Play "W"]
+HK H2 H7 HA 
+S4 SA ST S6 
+S3 S9 C2 SK 
+C7 C3 C9 SQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS 510"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1C =1= Pass 
+1D =2= 2C 4S Pass 
+Pass Pass 
+[Note "1:  * 16+ [0:04]"]
+[Note "2: Art, 0/7"]
+[Play "W"]
+HK H2 H7 HA 
+S4 SA ST S2 
+S3 S9 C2 SK 
+CT C3 CK SQ 
+C4 H4 H5 SJ 
+C5 H8 CQ S8 
+H6 H9 CJ S7 
+D5 D2 H3 S6 
+C7 C6 C9 CA 
+D9 D4 D6 S5 
+DT D7 D8 DA 
+HJ DK DJ D3 
+HQ C8 DQ HT 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2NT =1= Pass 3S Pass 
+3NT Pass 6NT Pass 
+Pass Pass 
+[Note "1:  * 3 controls [0:10] * A+K or 3K [0:28]"]
+[Play "E"]
+CQ -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2D =1= Pass 2S Pass 
+3S Pass 4C Pass 
+4D Pass 4NT Pass 
+5D =2= X 5NT Pass 
+6D Pass 6S Pass 
+Pass Pass 
+[Note "1:  * waiting [1:07]"]
+[Note "2:  * 1 [0:08]"]
+[Play "W"]
+HK H2 H3 HA 
+S4 SA ST S5 
+S3 S9 C2 SK 
+H6 C3 H7 SQ 
+C4 H4 H5 SJ 
+C5 C6 C9 S8 
+HJ D2 CJ S7 
+C7 H8 CK S6 
+DT H9 CQ S2 
+D5 D4 D6 DA 
+D9 DK DQ D3 
+CT C8 D8 CA 
+HQ D7 DJ HT 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2S =1= Pass 3S Pass 
+4S Pass 4NT Pass 
+5C =2= Pass 5H =3= X 
+Pass Pass XX Pass 
+5S Pass 5NT Pass 
+6D Pass 6H Pass 
+6S Pass 6NT Pass 
+Pass Pass 
+[Note "1: art. one ACE and one KING"]
+[Note "2: 1"]
+[Note "3: asking k"]
+[Play "W"]
+HK H2 H7 HA 
+S4 SA ST S5 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2D =1= Pass 2S Pass 
+2NT Pass 3S Pass 
+4D Pass 4NT Pass 
+5C =2= X 5NT Pass 
+6D Pass 6H Pass 
+6S Pass Pass Pass 
+[Note "1: gf"]
+[Note "2: 1 or 4"]
+[Play "W"]
+HK H2 H3 HA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "17"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:A9.9842.K742.863 T.753.QJ86.KQJ92 KQJ87652.AT.A3.A 43.KQJ6.T95.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "cc775cc7751165811658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  7
+N  D  7
+N  C  5
+S NT 12
+S  S 12
+S  H  7
+S  D  7
+S  C  5
+E NT  1
+E  S  1
+E  H  6
+E  D  5
+E  C  8
+W NT  1
+W  S  1
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2D Pass 2S Pass 
+2NT Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+HK H2 H3 HA 
+S4 SA ST S2 
+S3 S9 H7 SK 
+C4 H4 C9 SQ 
+H6 C3 C2 SJ 
+C5 H8 H5 S8 
+C7 D2 CQ S7 
+CT H9 D8 S6 
+D5 C6 CJ S5 
+DT C8 CK CA 
+D9 D4 D6 DA 
+HJ DK DJ D3 
+HQ D7 DQ HT 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+1D =1= Pass 1H 1NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+D4 D5 DT DK 
+C5 CQ C4 C2 
+H7 H2 H3 HJ 
+C8 CK CA C7 
+D8 D3 DJ D7 
+DA S3 D6 D9 
+DQ C6 S9 S6 
+D2 H8 S2 C3 
+H6 HT HQ HA 
+H5 CT H4 HK 
+S5 S4 SJ SA 
+ST SQ CJ S8 
+SK S7 H9 C9 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1:  * 14+-17 [0:11]"]
+[Play "E"]
+D4 D3 DJ DK 
+C5 CK CA C2 
+D2 D5 DT D7 
+DA S3 D6 D9 
+DQ H2 S9 C7 
+D8 H8 S2 S8 
+H5 HT HQ HA 
+C8 C6 CJ C9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1: 15/17"]
+[Play "E"]
+D4 D5 DT DK 
+C5 CK C4 C2 
+H7 H2 H3 HA 
+C8 CQ CA C3 
+D8 D3 DJ D7 
+DA S3 D6 D9 
+DQ C6 SJ C7 
+D2 CT S9 C9 
+H6 H8 H9 HJ 
+S5 SQ S2 S6 
+H5 HT H4 HK 
+ST -  -  SA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+D4 D3 DT DK 
+C8 CK C4 C3 
+H7 H2 H3 HK 
+C5 C6 CJ C7 
+D8 D5 DJ D7 
+DQ S3 D6 D9 
+DA H8 S9 S6 
+D2 CT S2 S8 
+S5 S4 SJ SA 
+H6 CQ CA C2 
+H5 HT H9 HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1:  * 15-17 [0:08]"]
+[Play "E"]
+D4 D3 DT DK 
+C5 CK C4 C7 
+H5 H2 H3 HK 
+C8 CT CJ C3 
+D8 D5 DJ D7 
+DQ H8 D6 D9 
+DA S3 S9 S6 
+D2 HT S2 S8 
+S5 S4 SJ SA 
+H7 C6 CA C9 
+H6 -  H4 HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 100"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+2D =1= Pass 3D Pass 
+Pass Pass 
+[Note "1: 5-6D, any quality, 3-9hcp"]
+[Play "S"]
+CK CA C7 C8 
+D5 DJ D7 D4 
+D3 DT DK DA 
+H8 D6 D9 DQ 
+CQ C4 C2 C5 
+S3 S2 SA ST 
+HT H3 HK H6 
+S4 S9 S8 SK 
+H2 H9 HJ H7 
+SQ SJ S6 S5 
+S7 H4 C3 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1D =1= 1NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+D2 D3 DT DK 
+C5 CK C4 C3 
+H7 H2 H3 HK 
+C8 CT CJ C9 
+D8 D5 DJ D7 
+DQ S3 D6 D9 
+DA C6 S9 S6 
+D4 H8 S2 S8 
+S5 S7 SJ SA 
+ST CQ CA C2 
+H5 -  H4 HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "18"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A86.AKJ.K97.9732 KT5.765.AQ842.85 Q743.T82.53.KQT6 J92.Q943.JT6.AJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67668576587577575775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1H 1NT 
+X XX 2H Pass 
+Pass Pass 
+[Play "N"]
+HA H5 H2 H3 
+C7 C5 CQ C4 
+SA S5 S3 S2 
+S8 SK S7 SJ 
+C2 C8 C6 CJ 
+DK DA D3 DJ 
+D7 D2 D5 DT 
+C3 ST CT CA 
+S6 H6 S4 S9 
+D9 DQ H8 D6 
+HK H7 HT HQ 
+HJ D4 -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 2NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 23-24"]
+[Play "S"]
+HT H7 H5 HA 
+CA C4 C7 CK 
+H6 HQ H4 H3 
+SK S8 S4 SQ 
+H8 HK S2 HJ 
+S5 S9 S3 SA 
+C5 S6 S7 SJ 
+CT C6 C2 CJ 
+H2 CQ C9 C3 
+H9 C8 D4 D5 
+DQ D2 D7 DJ 
+D6 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1S X 
+XX 2C Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+HT HK H5 H3 
+SK S6 S2 SQ 
+S5 S8 S7 SJ 
+C5 C4 C2 CK 
+CT C6 C7 CJ 
+CA C8 C9 C3 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 1S X 
+Pass 2C Pass 2S 
+X Pass Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+HT H7 H5 HA 
+C5 C4 C9 CK 
+CT C6 C7 CJ 
+CA C8 C2 C3 
+H2 HQ H4 H3 
+D6 CQ D7 D5 
+SK S6 S7 SJ 
+H8 HK D4 HJ 
+S5 S8 S2 SA 
+H6 S9 S3 SQ 
+D8 D2 DT DA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 2C 
+Pass 2D Pass 2H =1= 
+Pass 2S Pass 2NT 
+Pass 4NT Pass Pass 
+Pass 
+[Note "1: kok"]
+[Play "S"]
+HT H7 H5 HA 
+CA C4 C7 CK 
+H6 HK H4 H3 
+SK S6 S2 SQ 
+H8 HQ S4 HJ 
+S5 S8 S3 SA 
+C5 S9 S7 SJ 
+CT C6 C2 CJ 
+D6 D2 D4 DA 
+H2 CQ C9 C3 
+H9 C8 ST D5 
+DQ D3 D7 DJ 
+D8 D9 DT DK 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 2D =1= X 
+2S Pass Pass 3NT 
+Pass Pass Pass 
+[Note "1: multi * if ♠ a bad weak 2, can be 5 [0:16]"]
+[Play "S"]
+SK S6 S3 SA 
+CA C4 C7 CK 
+S5 S8 S4 SQ 
+C5 C6 C2 CJ 
+H2 HK H4 H3 
+DQ D2 D7 DJ 
+HT H7 H5 HA 
+D6 D3 D4 DA 
+H6 S9 ST SJ 
+H8 HQ DT HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 2H =3= 
+Pass 2S =4= Pass 2NT =5= 
+Pass 3C =6= Pass 3NT =7= 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 0 - 8-"]
+[Note "3: strong artificial"]
+[Note "4: forced"]
+[Note "5: 23-24 nt"]
+[Note "6: puppet"]
+[Note "7: no 4/5 cd majors"]
+[Play "S"]
+H9 H7 H4 HA 
+CA C4 C7 CK 
+H6 HQ H5 H3 
+SK S6 S4 SQ 
+H2 HK S3 HJ 
+C5 C6 C2 CJ 
+D8 D2 D7 DA 
+S5 S8 S2 SA 
+CT S9 S7 SJ 
+H8 CQ C9 C3 
+HT C8 ST D5 
+DQ D3 D4 DJ 
+D6 D9 DT DK 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: strong"]
+[Note "2:  * 0-7 [0:04]"]
+[Play "S"]
+HT HK H5 H3 
+SK S6 S4 SQ 
+H8 H7 H4 HA 
+CA C4 C7 CJ 
+C5 C6 C9 CK 
+CT CQ C2 C3 
+H2 C8 S2 D5 
+DQ D2 D7 DJ 
+H6 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "19"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T7432.54.T74.972 AQJ.AJ3.AKJ5.KJ3 K5.T9862.Q86.AT5 986.KQ7.932.Q864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3543335433a89aaa89aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  4
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  4
+S  D  3
+S  C  3
+E NT 10
+E  S  8
+E  H  9
+E  D 10
+E  C 10
+W NT 10
+W  S  8
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 2H =3= 
+Pass 2S =4= Pass 2NT =5= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 16+"]
+[Note "2: 0-7"]
+[Note "3: artif, very strong"]
+[Note "4: forced"]
+[Note "5: 22-24"]
+[Play "S"]
+HT HK H4 H3 
+SK S6 S2 SJ 
+H9 H7 H5 HA 
+CA C4 C2 CK 
+H6 HQ C7 HJ 
+C5 C6 C9 CJ 
+D6 D2 D4 DA 
+S5 S8 S3 SA 
+CT S9 S4 SQ 
+H2 CQ S7 C3 
+H8 C8 ST D5 
+DQ D3 D7 DJ 
+D8 D9 DT DK 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 2C Pass 
+2D =1= Pass 3D Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Note "1: artif, min"]
+[Play "S"]
+H2 HQ H4 HT 
+C4 CT C7 CK 
+D4 DT DJ D2 
+H6 H3 H5 HA 
+C3 C6 C5 CA 
+C8 S2 CJ CQ 
+SJ S5 S3 C9 
+HK D6 S7 C2 
+D9 DQ S8 D3 
+D7 DA ST D5 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 2C Pass 
+2D Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+H5 HT HK H3 
+HJ HA H2 HQ 
+DJ D2 D4 DT 
+H7 S4 H8 S2 
+S3 S6 SA S5 
+H9 D3 H6 D6 
+H4 C2 C3 D8 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H5 HT HK H3 
+HJ HA H2 HQ 
+DJ D2 D4 DT 
+H7 S4 H8 S2 
+S3 S6 SA S5 
+H9 D3 H6 D6 
+H4 C2 C4 D8 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 2C Pass 
+2D =1= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 5+♢ could have 4M"]
+[Play "S"]
+H2 H3 HJ HA 
+D4 DT DJ D2 
+HK HQ H7 HT 
+H6 D6 H4 D3 
+SA S2 S8 S4 
+H8 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H5 HT HK H3 
+H7 HA H2 HQ 
+DJ D2 D4 DT 
+HJ S4 H8 S2 
+H9 S6 H6 D6 
+H4 S9 D9 D8 
+S8 C2 SA -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 13-15"]
+[Play "N"]
+H5 HT HK H3 
+HJ HA H2 HQ 
+DJ D2 D4 DT 
+H7 S4 H8 S2 
+S8 S6 SA S5 
+H9 D3 H6 CT 
+H4 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D Pass 2C =1= Pass 
+2D Pass 3D Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Note "1: gf"]
+[Play "S"]
+H2 HQ H9 HT 
+C3 CT C7 CK 
+C4 C6 C5 CA 
+C8 S2 CJ CQ 
+SJ SQ S3 S4 
+SA S5 S7 S6 
+D4 DT DJ D2 
+H6 H3 H4 HA 
+D7 D6 S8 C9 
+H8 D8 ST C2 
+D9 DA -  D3 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "20"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T873.J9754.J.J75 964.AT.532.AKQ92 AJ.K862.K974.843 KQ52.Q3.AQT86.T6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1261112621ca7bcba6bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  6
+N  D  1
+N  C  1
+S NT  1
+S  S  2
+S  H  6
+S  D  2
+S  C  1
+E NT 12
+E  S 10
+E  H  7
+E  D 11
+E  C 12
+W NT 11
+W  S 10
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+[Auction "W"]
+1D =1= Pass 2C =2= Pass 
+2D Pass 3D Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: nat GF"]
+[Play "S"]
+H2 HQ H4 HT 
+C4 CT C5 CK 
+D4 DT DJ D5 
+H6 H3 H5 HA 
+D7 DQ C7 D3 
+D9 DA CJ D2 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+HJ H2 H3 HA 
+C4 CJ C3 C5 
+C7 CA C8 C6 
+CT C2 S5 C9 
+D4 DA D2 D5 
+HK H4 H8 HQ 
+CK H5 S4 CQ 
+D3 DJ DK D6 
+H9 H7 HT H6 
+DQ S3 DT D9 
+D8 S7 D7 S6 
+S2 S8 SA ST 
+SQ SK S9 SJ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C =1= Pass 1NT Pass 
+Pass Pass 
+[Note "1:  * 2 if 4432 [0:10]"]
+[Play "W"]
+HK H2 H3 HA 
+C4 CJ C3 C5 
+SQ S3 S5 ST 
+D3 DJ DK D5 
+D4 DA D2 D6 
+S2 S7 SA S6 
+H9 H4 H8 HQ 
+C7 S8 S4 SJ 
+CT CA C8 C6 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 1D Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+S4 SJ SQ SK 
+C8 C5 CK CJ 
+DK D5 D3 DJ 
+D2 D6 D8 DA 
+S5 ST S2 S7 
+C3 C6 C7 CA 
+H3 CQ C4 C2 
+D7 D9 DQ H4 
+H8 C9 CT H5 
+DT S6 D4 H2 
+SA H6 H9 S3 
+S9 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1D =1= Pass 1NT Pass 
+Pass Pass 
+[Note "1: 2+Ds"]
+[Play "W"]
+C4 C2 C8 C9 
+SQ SK SA SJ 
+DQ DA D2 D6 
+S2 S3 S4 S6 
+C7 CJ C3 C5 
+D3 S7 S5 ST 
+CT CA HT C6 
+H9 H2 H8 HA 
+D4 DJ DK D5 
+D8 H4 DT D9 
+-  -  D7 CQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+D3 DJ DK D5 
+D4 DA D2 D6 
+SQ S3 S5 SJ 
+DQ H2 D7 D9 
+D8 H4 DT C5 
+H9 H5 HT HA 
+S2 S7 SA ST 
+HJ H7 H8 H6 
+HK C2 H3 HQ 
+C4 CA C8 C6 
+CK CJ C3 C9 
+CT -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+HJ H2 H8 HQ 
+C4 CJ C3 C5 
+C7 CA C8 C6 
+CT C2 S4 C9 
+D3 DA D7 D5 
+H9 H4 H3 HA 
+SQ SK SA ST 
+DQ DJ D2 D6 
+HK H5 HT H6 
+CK H7 S5 CQ 
+D8 S3 DK D9 
+D4 S7 DT S6 
+S2 S8 S9 SJ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C =1= Pass 1NT =2= Pass 
+Pass Pass 
+[Note "1: 2+, BAL or ♣"]
+[Note "2: 9-11"]
+[Play "W"]
+D3 DJ DK D6 
+D4 DA D2 D5 
+SQ S3 S4 SJ 
+DQ H2 D7 D9 
+D8 H4 DT H6 
+HK H5 H3 HQ 
+HJ H7 H8 HA 
+C4 CJ C3 C5 
+S2 S7 S5 ST 
+CK CA C8 CQ 
+-  S8 -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "21"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K873.7542.AJ.AJ2 A954.T83.KT72.83 JT6.AQ6.965.Q965 Q2.KJ9.Q843.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67757677576668666686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+1C Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 9-11"]
+[Play "W"]
+D3 DJ DK D5 
+D4 DA D2 D6 
+HK H2 H8 HQ 
+DQ S3 D7 D9 
+D8 C2 DT S6 
+H9 H4 H3 HA 
+C4 CJ C3 C5 
+C7 CA C8 C6 
+HJ H7 HT H6 
+SQ SK SA ST 
+S2 S7 S4 SJ 
+CT H5 S5 C9 
+CK S8 S9 CQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1S 2H 
+X =1= 3H 4S 5H 
+Pass Pass 5S Pass 
+Pass Pass 
+[Note "1: 3s"]
+[Play "N"]
+HA H7 H3 H4 
+HQ HJ H6 S3 
+CT CA C4 C6 
+S4 S5 S2 SK 
+H5 C9 CJ C3 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1NT Pass 2H 3H 
+Pass 4H 4S 5H 
+Pass Pass 5S Pass 
+Pass Pass 
+[Play "N"]
+CT CA C7 C3 
+DQ CQ CK C6 
+H9 H7 HK H4 
+H5 C2 C4 SA 
+S4 S5 S2 SJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1S 2H 
+X =1= 3H 4S 5H 
+Pass Pass 5S Pass 
+Pass Pass 
+[Note "1: support"]
+[Play "N"]
+DQ D8 D7 DK 
+S4 S5 S2 SA 
+H2 S7 S8 ST 
+CT CQ CK C3 
+HA H7 HK H4 
+HQ HJ HT S3 
+H5 CA C4 C6 
+-  C9 C7 D2 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1S 2H 
+3C 3H 4S 5H 
+5S Pass Pass 6H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+DA D6 D2 D3 
+D8 D7 DK D9 
+S5 S2 SK S4 
+SQ S8 SA H9 
+H7 HK H4 H5 
+HJ H3 C6 HA 
+CA -  -  CT 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 100"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+2C =1= Pass 3S =2= 4H 
+4S 5H Pass Pass 
+5S Pass Pass Pass 
+[Note "1: 10-15hcp, 6+C, may have 4M"]
+[Note "2: 6+S, GF"]
+[Play "N"]
+DQ DA D7 D2 
+DJ D8 D6 DK 
+D9 S7 S8 D4 
+HQ H7 H3 H4 
+HA HJ H6 S3 
+DT SQ HT D5 
+S4 S5 S2 SA 
+H2 C2 S9 SK 
+CT CQ CK C3 
+-  -  HK -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS 200"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1NT =1= Pass 2H =2= X 
+XX =3= 3H 4H 5H 
+Pass Pass 5S 6H 
+Pass Pass 6S Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Note "2: transfer"]
+[Note "3: 3 spades, no heart stopper"]
+[Play "N"]
+HA H7 H3 H4 
+HQ HJ H6 S3 
+CT CQ CK C3 
+S4 C2 C7 C6 
+DQ D8 D6 DK 
+H2 S5 S2 SK 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+2C =1= Pass 2D =2= 2H 
+Pass 3H 4S 5H 
+6S Pass Pass Pass 
+[Note "1: 6+♣, 10-15"]
+[Note "2: GF relay"]
+[Play "N"]
+DQ D8 D6 DK 
+S4 S5 S2 SK 
+H2 S7 S8 SJ 
+CT CQ CK C6 
+HQ H7 H3 H4 
+HA HJ H6 S3 
+H5 CA C4 C3 
+-  C2 C7 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "22"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.AQ9852.QJT93.T Q75.J7.A8.AQ9852 982.KT63.76.KJ74 AKJT63.4.K542.63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "42963429637b46a7b46a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  9
+N  D  6
+N  C  3
+S NT  4
+S  S  2
+S  H  9
+S  D  6
+S  C  3
+E NT  7
+E  S 11
+E  H  4
+E  D  6
+E  C 10
+W NT  7
+W  S 11
+W  H  4
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1S 2C =1= 
+X =2= 3H 4S 5H 
+Pass Pass 5S Pass 
+Pass Pass 
+[Note "1:  * ♡♢ [0:07]"]
+[Note "2: support i think"]
+[Play "N"]
+HA H7 H3 H4 
+DQ D8 D6 DK 
+S4 S5 S2 SA 
+H2 S7 S8 SJ 
+CT CQ CK C3 
+H5 SQ S9 S3 
+D3 CA C4 C6 
+H8 C9 CJ S6 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1S =1= 
+Pass 2D =2= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: like a forcing nt, never a gf hand , may or may not have spades"]
+[Note "2: 6+hearts"]
+[Play "N"]
+DK D2 D8 H5 
+S5 SQ SK S4 
+H2 H4 H6 HA 
+S7 SA S8 S3 
+C2 C3 CK C4 
+H7 C5 C9 CQ 
+HQ H8 H9 HK 
+D3 D4 D5 HJ 
+D9 C6 S6 HT 
+DQ DT D7 H3 
+S9 DJ D6 SJ 
+DA CA C7 CT 
+ST C8 CJ S2 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H X XX 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DK D2 D5 H3 
+S5 SQ SK S4 
+HQ H4 H6 HJ 
+H2 H8 H9 HA 
+H7 C3 D6 HK 
+D9 D4 S8 HT 
+ST SA S6 S3 
+C2 C5 CK CT 
+DQ C6 C7 CQ 
+D3 DT D7 H5 
+S7 DJ D8 SJ 
+-  -  -  C4 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1NT =1= 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: semi"]
+[Play "N"]
+DK D2 D5 H3 
+S5 SQ SK S2 
+H2 H4 H6 HA 
+S7 SA S6 S3 
+C2 C3 CK C4 
+H7 H8 H9 HK 
+HQ C5 D6 HJ 
+DA D4 D7 H5 
+D3 DT D8 HT 
+S9 DJ S8 SJ 
+D9 C6 C7 CQ 
+DQ CA C9 CT 
+ST C8 CJ S4 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1NT 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+DA D2 D6 H3 
+S5 SQ SK S4 
+HQ H4 H6 HJ 
+H7 H8 H9 HA 
+H2 C3 D5 HK 
+S7 SA S8 S3 
+C2 C5 CK C4 
+D9 C6 C7 CQ 
+D3 D4 D7 HT 
+DQ DT D8 H5 
+S9 DJ S6 SJ 
+DK CA C9 CT 
+ST C8 CJ S2 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H X 1NT 
+2C 2H Pass Pass 
+Pass 
+[Play "N"]
+DQ D2 D8 H3 
+H7 H4 H6 HA 
+H2 H8 H9 HK 
+C2 CA C7 C4 
+D3 C3 CK CT 
+D9 D4 D7 H5 
+HQ C5 C9 CQ 
+DK DT D6 HT 
+S5 SQ SK S2 
+DA DJ D5 HJ 
+S7 SA S6 S3 
+ST C6 CJ S4 
+S9 C8 S8 SJ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: semi"]
+[Play "N"]
+DA D2 D8 H3 
+S5 SQ SK S2 
+D9 D4 D5 H5 
+S7 SA S6 S3 
+C2 C3 CK C4 
+DQ DT D7 HT 
+S9 H8 S8 S4 
+H2 H4 H6 HA 
+H7 C5 H9 HK 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DA D2 D8 H3 
+S5 SQ SK S4 
+H7 H4 H6 HA 
+ST SA S6 S3 
+D9 D4 D5 H5 
+S7 DT S8 SJ 
+S9 H8 H9 S2 
+DK DJ D7 HT 
+H2 C3 C7 HK 
+C2 CA C9 C4 
+D3 C5 CK CT 
+DQ C6 D6 HJ 
+HQ C8 CJ CQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "23"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T975.Q72.AKQ93.2 AQ.84.JT42.A8653 K86.96.8765.KJ97 J432.AKJT53..QT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55374553747896977968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  7
+E  S  8
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "S"]
+Pass 1H Pass 1NT 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+DK D2 D5 H3 
+S5 SQ SK S4 
+H7 H4 H6 HA 
+S7 SA S6 S3 
+C2 C3 CK C4 
+H2 C5 C7 CQ 
+HQ H8 H9 HK 
+D3 C6 D6 HJ 
+DA D4 D7 HT 
+D9 DT D8 H5 
+ST DJ S8 SJ 
+DQ CA CJ CT 
+S9 C8 C9 S2 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C 1S 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+SQ S3 S4 SA 
+C7 CJ C2 C3 
+D7 DJ D6 D4 
+C4 D8 D5 DT 
+C6 D9 D2 DA 
+C9 C5 C8 CK 
+H2 CA D3 CQ 
+S7 CT H4 H5 
+HK H3 H9 HT 
+SK S5 S2 S8 
+S6 S9 DK SJ 
+HQ H8 H6 HA 
+ST DQ HJ H7 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 2D =1= 2S Pass 
+Pass Pass 
+[Note "1:  * 18 19 bal [0:12]"]
+[Play "S"]
+DQ D2 D4 D7 
+S5 S2 SA S7 
+S3 S4 S8 SK 
+H8 H4 H5 HQ 
+S9 C2 SJ SQ 
+H3 H6 H7 HK 
+C5 C8 CQ C9 
+D8 H9 HA H2 
+DJ D3 DA S6 
+CT D5 C3 C7 
+CA D6 CK C4 
+CJ -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C 1S 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+S7 S9 S2 S8 
+D7 DQ D5 D4 
+C7 DJ D3 DT 
+HQ H3 H4 H7 
+SK S3 S4 SJ 
+SQ S5 D2 SA 
+C4 C5 C2 CK 
+C6 CT C8 C3 
+C9 D8 D6 DA 
+S6 CA HJ CQ 
+ST CJ H9 H5 
+-  H8 H6 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C =1= 1S X =2= 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 16+, artificial"]
+[Note "2: gf bal or semi bal usually * without stopper [0:08]"]
+[Play "E"]
+SQ S3 S4 S8 
+HK H3 H4 H5 
+HQ H8 H6 HA 
+C4 C5 C2 CK 
+C7 CA C8 CQ 
+D7 DQ D2 D4 
+S7 D8 D3 DT 
+C6 D9 D5 DA 
+C9 CT H9 C3 
+H2 CJ S2 H7 
+S6 S5 D6 SA 
+-  -  -  SJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+2D =1= 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 3-9, 5-6D, could be any suit quality and side shape"]
+[Play "E"]
+SK S3 S4 S8 
+D7 DQ D5 D4 
+S7 DJ D3 DT 
+HQ H3 H6 H7 
+C7 C5 C8 CK 
+C4 CT C2 CQ 
+C6 D8 D6 DA 
+C9 CJ D2 C3 
+S6 CA S2 H5 
+HK H8 H9 HA 
+ST S5 H4 SA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C 1S 2C 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+SQ S3 S2 SA 
+C7 CJ C2 C3 
+D7 DQ D2 D4 
+C4 D8 D6 DT 
+C6 C5 C8 CK 
+C9 D9 D3 DA 
+S6 CA D5 CQ 
+S7 CT S4 H5 
+HQ H3 H6 H7 
+HK H8 H4 HA 
+H2 -  -  HT 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C 1S 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+SK S3 S2 SA 
+C4 CJ C2 C3 
+D7 DQ D6 D4 
+C6 DJ D2 DT 
+C7 C5 C8 CK 
+C9 CA D3 CQ 
+S7 CT H6 H5 
+S6 D8 D5 DA 
+HQ H3 H4 HA 
+H2 H8 H9 H7 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "24"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ8.AT75.AT4.KQ3 KQT76.KQ2.7.9764 953.83.QJ98.AJT5 42.J964.K6532.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98899978894544445544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C =1= 1S 2C =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * 2+, BAL or ♣ [0:08]"]
+[Note "2: minnors"]
+[Play "E"]
+SK S3 S2 S8 
+HK H3 H4 H5 
+HQ H8 H6 H7 
+H2 S5 HJ HA 
+C4 CJ C2 C3 
+D7 DQ D2 D4 
+S6 D8 D3 DT 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2S =2= Pass 3C =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: 14+-17"]
+[Note "2: clubs/size ask"]
+[Note "3: max"]
+[Play "W"]
+D6 D3 D5 DT 
+S8 SQ SK S7 
+CK C3 C6 C5 
+C7 C4 CJ CA 
+H8 HA H4 H2 
+S2 S3 S5 SA 
+D2 HQ H7 H3 
+D4 H6 HT HJ 
+D8 C9 H9 HK 
+S4 D7 C2 H5 
+DK DJ C8 DA 
+DQ S6 CQ D9 
+S9 ST SJ CT 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2C X 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+CK C3 C8 C5 
+C7 C4 CQ CA 
+H8 HQ H7 H5 
+DQ D3 D5 DT 
+S4 ST SJ SA 
+D6 H6 H4 HK 
+D4 HA HT H3 
+D2 DJ H9 DA 
+-  -  -  HJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2S =2= Pass 3C =3= Pass 
+3NT Pass Pass Pass 
+[Note "1:  * 14-16 [0:06]"]
+[Note "2: range ask or clubs"]
+[Note "3:  * accept [0:05]"]
+[Play "W"]
+D6 D3 D5 DT 
+S2 S3 S5 SA 
+S4 SQ SK S7 
+CK C3 C2 C5 
+C7 C4 CJ CT 
+D2 C9 C8 CA 
+H8 HQ H7 H3 
+D4 HA H4 H2 
+S8 H6 HT HK 
+D8 D7 H9 HJ 
+S9 DJ C6 H5 
+DQ S6 CQ DA 
+DK ST SJ D9 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+2S =1= Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: Range ask or clubs"]
+[Play "W"]
+D6 D3 D5 DT 
+S2 S3 S5 SA 
+S4 SQ SK S7 
+CK C3 C6 C5 
+S9 S6 SJ D9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2C Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+D4 D3 D5 DT 
+S2 SQ SK S7 
+CK C3 C6 C5 
+C7 C4 CJ CT 
+D8 C9 C8 CA 
+H8 HA H4 H2 
+S4 S3 S5 SA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+3C =1= X 3H =2= Pass 
+4H Pass Pass Pass 
+[Note "1: puppet"]
+[Note "2:  * five [0:12]"]
+[Play "W"]
+CK C3 C8 C5 
+C7 C4 CJ CA 
+H8 H6 H7 HJ 
+D8 HQ H4 H3 
+DQ DJ D5 D9 
+D2 D3 H9 DT 
+D4 C9 CQ CT 
+S2 HA HT H2 
+S4 SQ SK SA 
+D6 D7 C2 HK 
+DK S3 S5 H5 
+S8 -  -  DA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2S =2= Pass 3C =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: size ask or clubs"]
+[Note "3: max"]
+[Play "W"]
+DQ D3 D5 DA 
+DK D7 C2 DT 
+CK C3 C6 CA 
+H8 HA H4 H2 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "25"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT63.AQ6.J73.943 KJ5.T974.5.QJ862 A7.KJ532.AT9.AT5 9842.8.KQ8642.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96967969674647546475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  9
+S  S  6
+S  H  9
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1H Pass 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+D6 D3 D5 DT 
+H8 HA H7 H2 
+S2 S3 S5 SA 
+S4 ST SJ S7 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7D"]
+[Result "13"]
+[Score "NS -2140"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 2D =1= Pass 
+2H =2= Pass 2S =3= Pass 
+3S =4= Pass 4H =5= Pass 
+5C =6= Pass 5H Pass 
+5S =7= Pass 6C Pass 
+7D Pass Pass Pass 
+[Note "1: limit+"]
+[Note "2: weak splinter somewhere or 4x1 extras"]
+[Note "3: ask"]
+[Note "4: 4x1 short hearts"]
+[Note "5: rkc"]
+[Note "6:  * 2 no q [0:06]"]
+[Note "7: spade k"]
+[Play "S"]
+D3 D5 D9 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "7C"]
+[Result "13"]
+[Score "NS -2140"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass 2C Pass 
+3C Pass 3D Pass 
+4C Pass 4NT Pass 
+5S =1= Pass 5NT Pass 
+7C Pass Pass Pass 
+[Note "1: 2 with QC"]
+[Play "N"]
+HQ HK H4 H3 
+C4 CQ C3 C2 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "13"]
+[Score "NS -1470"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1NT Pass 6NT Pass 
+Pass Pass 
+[Play "S"]
+S6 SJ SQ SA 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -1390"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1NT Pass 3C =1= Pass 
+4D =2= Pass 4H =3= Pass 
+4S =4= Pass 4NT Pass 
+6C Pass Pass Pass 
+[Note "1:  * both minors fg better or longer clubs [0:19]"]
+[Note "2: DKC for D"]
+[Note "3:  * not sure what this is  [0:25]"]
+[Note "4: asks Qs"]
+[Play "N"]
+HQ HK H4 H3 
+-  CQ -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Score "NS -1470"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1C =1= Pass 1H =2= 3H 
+3S Pass 4NT Pass 
+5C =3= Pass 5D Pass 
+5H =4= Pass 6NT Pass 
+Pass Pass 
+[Note "1: 16+"]
+[Note "2: GF, 4+S or 4+C, unbal"]
+[Note "3:  * 0314 [0:50]"]
+[Note "4:  * no Q [0:10]"]
+[Play "N"]
+HJ HK H6 H3 
+D7 D2 D8 DK 
+D9 D4 D3 DQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7C"]
+[Result "13"]
+[Score "NS -2140"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1C =1= Pass 2C =2= Pass 
+3C Pass 4D =3= Pass 
+5C =4= Pass 5D =5= Pass 
+5S =6= Pass 7C Pass 
+Pass Pass 
+[Note "1:  * strong [0:06]"]
+[Note "2: 5+C, 12+ points"]
+[Note "3: kickback"]
+[Note "4: 2 with Q"]
+[Note "5: general king ask"]
+[Note "6: Heart K, no D King"]
+[Play "S"]
+C3 C2 C6 -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "13"]
+[Score "NS -2220"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1C =1= Pass 1NT =2= Pass 
+2C =3= Pass 2D =4= Pass 
+2H =5= Pass 3C =6= Pass 
+3D =7= Pass 4D =8= Pass 
+4NT =9= Pass 5C =10= Pass 
+5D =11= Pass 5S =12= Pass 
+7NT Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: C GF"]
+[Note "3: artif ask"]
+[Note "4: D"]
+[Note "5: ask"]
+[Note "6: 2=2=4=5"]
+[Note "7: ask # of controls"]
+[Note "8: 6 controls"]
+[Note "9: ask about queens"]
+[Note "10: no QC"]
+[Note "11: ♢Q?"]
+[Note "12: QD no QS"]
+[Play "N"]
+HJ HK H6 H3 
+D7 D2 D3 DK 
+D9 -  -  DQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "26"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q7.QJT8752.97.64 AKT3.K.AT42.QJ85 86542.964.J83.93 J9.A3.KQ65.AKT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result "13"]
+[Score "NS -2220"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0150001500dc8dddc8dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  1
+S  H  5
+S  D  0
+S  C  0
+E NT 13
+E  S 12
+E  H  8
+E  D 13
+E  C 13
+W NT 13
+W  S 12
+W  H  8
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+[Auction "E"]
+1NT =1= Pass 3D =2= Pass 
+3H =3= Pass 4C Pass 
+4D Pass 4H Pass 
+4NT Pass 5D =4= Pass 
+5H =5= Pass 6C =6= Pass 
+7NT Pass Pass Pass 
+[Note "1: (14)15-17"]
+[Note "2: 5/5 minors GF"]
+[Note "3: something in hearts"]
+[Note "4: 3/0"]
+[Note "5: ask for DQ"]
+[Note "6: DQ and CK"]
+[Play "S"]
+D3 -  -  -  
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 3S 3NT Pass 
+Pass Pass 
+[Play "E"]
+ST S7 SQ SA 
+D3 DK D7 D2 
+D9 D4 DA D5 
+CJ C5 C4 C6 
+DT DQ S9 D8 
+CK CT S2 C9 
+C3 C7 S3 CA 
+C2 H4 S4 CQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 3S 3NT Pass 
+Pass Pass 
+[Play "E"]
+C3 C7 C4 C6 
+D3 D4 D7 DJ 
+D9 DK DA D2 
+HK HA H5 H7 
+H2 H4 HQ HJ 
+ST SK S8 S5 
+-  S7 S9 SJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 3S 3NT Pass 
+Pass Pass 
+[Play "E"]
+ST S7 S6 SJ 
+H2 H9 HQ H7 
+CJ C5 C4 C6 
+D3 D4 D7 D8 
+D9 DK DA D2 
+C3 SK SQ S5 
+CK CT S3 C9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D =1= 3S 3NT Pass 
+Pass Pass 
+[Note "1:  * 2+ [0:04]"]
+[Play "E"]
+ST S7 S6 SJ 
+D3 DK D7 D2 
+CJ CT C4 C6 
+DT D4 DA D5 
+H3 SK S9 S5 
+CK C5 S2 C9 
+D9 D6 S3 DJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 3S 3NT Pass 
+Pass Pass 
+[Play "E"]
+ST S7 S6 SJ 
+DT DK DA D5 
+CJ C5 C4 C6 
+C3 CT S4 C9 
+D3 D4 D7 DJ 
+H3 HT HQ H7 
+C2 SK S3 S5 
+D9 DQ S2 D2 
+H6 D6 S8 D8 
+H2 H4 S9 SA 
+C8 C7 SQ CA 
+HK HA H5 HJ 
+CK H9 H8 CQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 3S 3NT Pass 
+Pass Pass 
+[Play "E"]
+C2 C7 C4 C6 
+D3 D4 D7 DJ 
+D9 DK DA D5 
+ST S7 S8 SJ 
+H2 H4 HQ HJ 
+C3 SK S4 S5 
+C8 CT S2 CA 
+DT DQ S3 D2 
+H3 D6 S6 D8 
+CJ C5 S9 SA 
+H6 H9 H8 H7 
+HK HA H5 C9 
+CK HT SQ CQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1D 2S 3NT Pass 
+Pass Pass 
+[Play "E"]
+ST S7 SQ SA 
+H2 H9 HQ H7 
+D3 SK S9 S5 
+D9 DK D7 D2 
+DT D4 DA D5 
+CJ C5 C4 C6 
+H3 H4 H8 HJ 
+C2 C7 S2 SJ 
+C3 D6 S6 DJ 
+C8 DQ S3 D8 
+H6 HA H5 C9 
+CK CT S4 CA 
+HK HT S8 CQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "27"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ5.J7.J852.AQ96 T.K632.T93.KJ832 K7.AT94.KQ64.T75 Q986432.Q85.A7.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a7898a78983643536435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  7
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+[Auction "S"]
+1C 1S 3NT Pass 
+Pass Pass 
+[Play "E"]
+C3 C5 C4 C6 
+D3 DK DA D5 
+ST S7 S4 SJ 
+H2 H4 HQ HJ 
+C2 SK S2 S5 
+D9 D4 D7 DJ 
+H6 H9 H5 H7 
+H3 HA H8 C9 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Brad Moss#USAR173862"]
+[North "Brent Xiao#USA2672111"]
+[East "Joe Grue#USAQ542341"]
+[South "Cornelius Duffie#USA2650177"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "3"]
+[HomeTeam "[2] Rosenberg (wins tie)"]
+[VisitTeam "[7] Donner"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1D =1= 1H X Pass 
+1S Pass Pass 2D 
+2S Pass Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+HA H3 H6 H5 
+DJ D4 D2 DK 
+HJ H9 H8 H2 
+D7 D5 DA D9 
+C6 DT DQ D6 
+CQ CA CT CJ 
+SA S3 S2 SK 
+H4 S8 D3 HT 
+C5 CK C2 C7 
+H7 C3 C9 SQ 
+S5 S9 S7 S6 
+ST SJ D8 S4 
+HK C4 C8 HQ 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Zia Mahmood#USAO426271"]
+[North "Mike Passell#USAJ622382"]
+[East "Zach Grossack#USA2250896"]
+[South "Mark Lair#USAN830400"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[HomeTeam "[8] Levine"]
+[VisitTeam "[1] Naren Gupta Team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+X =1= Pass 2C =2= 2D 
+Pass 2H 2S 2NT 
+Pass Pass Pass 
+[Note "1:  * meckwell [0:12]"]
+[Note "2:  * p/c [0:05]"]
+[Play "E"]
+CA C2 C7 C6 
+S3 S2 SQ S5 
+SJ S7 S4 ST 
+S9 D2 S6 SA 
+D4 D3 D6 DJ 
+CK C8 CJ CQ 
+S8 D8 SK H4 
+H9 H6 H5 HA 
+C3 C9 D9 C5 
+D5 DA DK D7 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Eddie Wold#USAL443949"]
+[North "Michael Rosenberg#USAN318637"]
+[East "Mike Levine#USAM393252"]
+[South "Vinita Gupta#USAM420152"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "[1] Naren Gupta Team"]
+[VisitTeam "[8] Levine"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1:  * 14+-17 [0:11]"]
+[Play "E"]
+S3 S2 SQ SA 
+D5 D2 D6 DJ 
+CK C2 C7 CQ 
+D4 DA D9 D7 
+H3 H8 H2 HJ 
+H9 H6 H5 HA 
+C3 D3 HT HK 
+CA C8 CJ C5 
+DT DQ DK C6 
+S8 S7 SK S5 
+C4 C9 HQ H4 
+SJ -  S4 ST 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Finn Kolesnik#USA7333986"]
+[North "Gary Donner#USA1449699"]
+[East "Kevin Rosenberg#USAN969441"]
+[South "Sandra Rimstedt#USA8931372"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS -80"]
+[Table "4"]
+[HomeTeam "[7] Donner"]
+[VisitTeam "[2] Rosenberg (wins tie)"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1D 1H X Pass 
+1S Pass Pass Pass 
+[Play "N"]
+HK H3 H6 H5 
+DJ D4 D2 DK 
+HJ H9 H8 H2 
+D7 D5 DQ D6 
+C6 DT DA D9 
+CQ CA C8 CJ 
+SA S3 S2 SK 
+H4 C3 S7 HT 
+C5 -  CT C7 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Maxim Silin#USA1818937"]
+[North "Drew Casen#USAO841171"]
+[East "Carrie Liu#USA1818945"]
+[South "Jim Krekorian#USAO739385"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "8"]
+[HomeTeam "[5] Lall"]
+[VisitTeam "[4] Rasmussen"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1NT =1= X =2= Pass =3= Pass 
+XX =4= Pass 2C =5= 2D 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: penalty"]
+[Note "3: denies a 5cd suit, forces xx"]
+[Note "4: forced, no 5+ suit"]
+[Note "5: first 4card suit"]
+[Play "W"]
+CJ CQ CK C2 
+C7 C5 CA C9 
+D6 C6 C4 CT 
+SK SA S3 S7 
+D9 D7 D4 DA 
+H2 HJ H9 H6 
+H5 HA H3 H8 
+HT HK DT S2 
+S4 S5 S8 D2 
+DK DJ D5 D3 
+SQ ST S9 D8 
+HQ H4 C3 DQ 
+S6 H7 SJ C8 
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Dana Berkowitz#USA4037049"]
+[North "Chip Martel#USAM174844"]
+[East "Eldad Ginossar#USA3858529"]
+[South "Mark Feldman#USAM234774"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "5"]
+[HomeTeam "[3] Bramley"]
+[VisitTeam "[6] Rosenthal"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1D 1H X Pass 
+1S X 2S Pass 
+Pass Pass 
+[Play "N"]
+HK H3 H8 H2 
+HA H9 H6 H5 
+H4 S8 CT HT 
+SA S3 S2 SK 
+H7 S9 D2 HQ 
+S5 SJ S7 S4 
+D7 D4 D3 DK 
+ST D5 -  SQ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "Kit Woolsey#USAK842084"]
+[North "Debbie Rosenberg#USAQ459274"]
+[East "Bart Bramley#USAJ201743"]
+[South "Andrew Rosenthal#USAJ653539"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "6"]
+[HomeTeam "[6] Rosenthal"]
+[VisitTeam "[3] Bramley"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1NT =1= X Pass =2= Pass 
+XX =3= Pass 2C Pass 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 10-12"]
+[Note "2: NF"]
+[Note "3: 2 places"]
+[Play "E"]
+CK C2 C7 C5 
+CA C8 CJ CQ 
+C4 C9 H2 C6 
+H3 H6 H5 HJ 
+H9 H8 HQ HA 
+C3 D2 HT HK 
+DT D3 -  DJ 
+*
+
+[Event "JLALL5 QuarterFinal - 2 of 4"]
+[Site "RealBridge"]
+[Date "2022.01.22"]
+[Board "28"]
+[West "John Diamond#USAR188363"]
+[North "Anton Tsypkin#USA8384673"]
+[East "Brian Platnick#USAN755387"]
+[South "Jim Rasmussen#USAP777531"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT5.AKJ74.J7.Q65 J983.93.T54.AK43 72.86.AQ832.T982 KQ64.QT52.K96.J7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "7"]
+[HomeTeam "[4] Rasmussen"]
+[VisitTeam "[5] Lall"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "75888758886754567545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  5
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "W"]
+1D =1= 1H X Pass 
+1S =2= Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 3S.  Can be 4S and bad hand."]
+[Play "N"]
+HA H3 H8 H5 
+C5 CA CT C7 
+HJ H9 H6 H2 
+HK S8 D2 HT 
+D7 D4 DA D6 
+DJ D5 D3 DK 
+H7 DT S2 HQ 
+CQ CK C9 CJ 
+C6 C3 C2 S6 
+-  -  -  D9 
+*

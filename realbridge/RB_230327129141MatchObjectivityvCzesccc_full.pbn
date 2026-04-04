@@ -1,0 +1,2067 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "1"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q8.Q872.A9.AKT76 KT542.94.QT43.42 A976.KT653.J2.J3 J3.AJ.K8765.Q985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "87a5987a594627346283"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  5
+N  C  9
+S NT  8
+S  S  7
+S  H 10
+S  D  5
+S  C  9
+E NT  4
+E  S  6
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  2
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,3,8,3551,42,423,81,78,69,81,48,135,19,57,137,27,29,111,53,13,34,104,24,26,37,185,12,13,18,31,23,16,10,52,26,7,12,84,18,12,34
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+3H =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♡"]
+[Note "3:  * min, 4+ hearts [0:13]"]
+[Play "E"]
+C2 C3 CQ CA 
+H4 HK HA H2 
+D3 D2 D6 DA 
+C4 CJ C5 C6 
+H9 H3 HJ HQ 
+S5 DJ C8 CK 
+S2 SA SJ S8 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "1"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q8.Q872.A9.AKT76 KT542.94.QT43.42 A976.KT653.J2.J3 J3.AJ.K8765.Q985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "87a5987a594627346283"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  5
+N  C  9
+S NT  8
+S  S  7
+S  H 10
+S  D  5
+S  C  9
+E NT  4
+E  S  6
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  2
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,4,7,3474,468,548,179,323,392,123,27,43,280,533,44,392,32,31,37,145,170,34,94,19,21,17,12,29,53,47,19
+[Auction "N"]
+1D =1= Pass 2D =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4♠, 5+♡, <12pts"]
+[Play "E"]
+H4 H3 HJ HQ 
+H9 HT HA H2 
+C4 CJ C5 C6 
+C2 C3 C8 CT 
+D4 D2 C9 CA 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "2"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT.Q964.8653.AJ4 AQ6532.JT.KJ7.72 K9.K72.A9.T98653 874.A853.QT42.KQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64759647596967469674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  9
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  9
+E NT  6
+E  S  9
+E  H  6
+E  D  7
+E  C  4
+W NT  6
+W  S  9
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,3,8,81,29,207,72,739,57,30,14,14,39,63,98,68,13,91,15,12,53,1125,30,13,21,174,31,25,32,38,17,24,10,21,129,12,23,13,18,9,8
+[Auction "E"]
+1S Pass 2H =1= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 9-11, 3♠"]
+[Play "S"]
+CT CK C4 C7 
+SK S4 ST SQ 
+C6 CQ CA C2 
+HK HA H4 HJ 
+S9 S7 SJ SA 
+DA D2 D6 DJ 
+H7 H3 HQ HT 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "2"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT.Q964.8653.AJ4 AQ6532.JT.KJ7.72 K9.K72.A9.T98653 874.A853.QT42.KQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64759647596967469674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  9
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  9
+E NT  6
+E  S  9
+E  H  6
+E  D  7
+E  C  4
+W NT  6
+W  S  9
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,4,7,115,51,151,70,41,36,115,39,52,33,18,33,43,138,200,28,71,29,42,36,64,21,21,28,143,26,16,20,400,34,16,18
+[Auction "E"]
+1S Pass 2D Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+CT CQ CA C2 
+HK HA H4 HT 
+SK S4 ST SQ 
+H7 H3 HQ HJ 
+S9 S7 SJ SA 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "3"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T5.9765.865.AK64 J87.J84.AQT4.J87 AK963.K32.K9.T92 Q42.AQT.J732.Q53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS 80"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "67767677676667566675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 3,4,7,186,142,157,58,157,302,34,17,120,35,19,32,104,29,55,19,29,25,37,28,150,30,11,17,57,23,48,24,18,30,22,14,27,21,11,39,13,20,15,10,16,10,27,58,24,20,11,28,27,18,12,8,14,16,4,14
+[Auction "S"]
+1S Pass Pass Pass 
+[Play "W"]
+D2 D5 DA D9 
+D3 D6 DQ DK 
+C3 CA C7 C2 
+S2 ST SJ SA 
+S4 S5 S7 SK 
+C5 C4 CJ CT 
+HT H5 H4 H2 
+DJ D8 D4 S3 
+CQ CK C8 C9 
+SQ C6 S8 S9 
+D7 H6 DT S6 
+HA H7 H8 HK 
+HQ H9 HJ H3 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "3"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T5.9765.865.AK64 J87.J84.AQT4.J87 AK963.K32.K9.T92 Q42.AQT.J732.Q53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "67767677676667566675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 8,3,8,72,36,109,79,288,52,248,53,60,38,166,128,269,38,266,42,17,16,163,30,10,25,24,29,9,12,197,20,51,11,111,30,34,9,24,34,10,19,16,30,46,22,18,194,21,10,13,12,10,9,29
+[Auction "S"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2S =3= Pass 
+Pass Pass 
+[Note "1: up to a poor 12"]
+[Note "2: nat or any 16+"]
+[Note "3: <8 points, 2 spades"]
+[Play "W"]
+D2 D5 DQ DK 
+S4 S5 S7 SA 
+S2 ST S8 SK 
+SQ D6 SJ S3 
+D3 D8 DA D9 
+HT H5 H8 H2 
+DJ H6 D4 S6 
+C5 C4 CJ CT 
+HQ H7 HJ H3 
+HA H9 H4 HK 
+C3 -  -  -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "4"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A985.65.J7.KQT65 T732.QT.KT6.9872 QJ6.A7.9842.AJ43 K4.KJ98432.AQ53."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "9836a9836a44a7344a73"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  3
+N  D  6
+N  C 10
+S NT  9
+S  S  8
+S  H  3
+S  D  6
+S  C 10
+E NT  4
+E  S  4
+E  H 10
+E  D  7
+E  C  3
+W NT  4
+W  S  4
+W  H 10
+W  D  7
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 17,4,7,137,40,60,52,33,36,39,32,45,40,35,20,128,706,19,26,101,34,15,18,25,28,22,41,29,107,17,18,24,24,73,23,607,25,50,30,23,38,19,30,18,29,19,21,63,18,21,9
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+CK C2 C3 H2 
+D7 D6 D4 DA 
+DJ DK D2 D3 
+H5 HT HA H3 
+H6 DT D8 D5 
+C6 C7 CJ H4 
+C5 HQ H7 H8 
+SA S2 SJ SK 
+CQ C8 C4 H9 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "4"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A985.65.J7.KQT65 T732.QT.KT6.9872 QJ6.A7.9842.AJ43 K4.KJ98432.AQ53."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "9836a9836a44a7344a73"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  3
+N  D  6
+N  C 10
+S NT  9
+S  S  8
+S  H  3
+S  D  6
+S  C 10
+E NT  4
+E  S  4
+E  H 10
+E  D  7
+E  C  3
+W NT  4
+W  S  4
+W  H 10
+W  D  7
+W  C  3
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 17,3,8,390,47,55,535,49,79,29,36,59,100,404,191,36,209,37,520,496,35,59,21,24,1202,18,87,41,24,150,23,19,16,239,21,25,29,85,13,22,8,20,20,27,8,37,22
+[Auction "W"]
+1H =1= Pass Pass X 
+2H 3C Pass Pass 
+3D 3S 4H Pass 
+Pass Pass 
+[Note "1: 10-15, 5+♡, any suit can be longer"]
+[Play "N"]
+CK C2 CA H2 
+H5 HT HA H3 
+SA S2 SQ SK 
+S9 S3 S6 S4 
+C5 C7 CJ H4 
+H6 HQ H7 H8 
+S5 S7 SJ H9 
+C6 -  -  HK 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "5"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q4.Q63.KJ3.KJ832 K76.9874.T76.AT5 J982.T.Q9854.964 AT53.AKJ52.A2.Q7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "543665436689a6789a77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  3
+N  D  6
+N  C  6
+S NT  5
+S  S  4
+S  H  3
+S  D  6
+S  C  6
+E NT  8
+E  S  9
+E  H 10
+E  D  6
+E  C  7
+W NT  8
+W  S  9
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,4,7,422,119,597,65,247,106,54,612,57,92,34,109,310,49,23,31,38,10,31,61,21,9,55,92,21,26,175,44,105,22,23,58,182,19,48,28,15,56,27,135,17,248,26,21,15,21,87,19,38,10,11,24,13,9,13,18,35,12,12,16,14,10,11
+[Auction "N"]
+1D =1= Pass 1S =2= 2H 
+Pass =3= 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: Nat, but less than 12pts"]
+[Note "3: denies 3♠"]
+[Play "N"]
+C3 C5 C9 CQ 
+H6 H4 HT HA 
+H3 H7 D4 HK 
+HQ H8 D5 H2 
+CJ CA C6 C7 
+D3 H9 S8 HJ 
+S4 S6 D8 H5 
+SQ SK S2 S3 
+C2 S7 S9 ST 
+C8 D6 SJ SA 
+DJ D7 D9 DA 
+DK CT C4 S5 
+CK DT DQ D2 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "5"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q4.Q63.KJ3.KJ832 K76.9874.T76.AT5 J982.T.Q9854.964 AT53.AKJ52.A2.Q7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "543665436689a6789a77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  3
+N  D  6
+N  C  6
+S NT  5
+S  S  4
+S  H  3
+S  D  6
+S  C  6
+E NT  8
+E  S  9
+E  H 10
+E  D  6
+E  C  7
+W NT  8
+W  S  9
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,3,8,176,36,86,36,57,46,107,337,106,34,128,78,283,20,90,111,25,13,9,11,16,11,41,12,18,21,43
+[Auction "N"]
+1C =1= Pass Pass X 
+Pass 1H X 2H 
+Pass Pass Pass 
+[Note "1: 2+ C"]
+[Play "S"]
+C4 C7 CJ CA 
+HT HA H3 H4 
+D5 HK H6 H7 
+C6 CQ CK C5 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "6"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J94.A642.76.J742 875.K85.54.AT853 KQ32.QT7.AJ8.Q96 AT6.J93.KQT932.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "57646676476578665786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  5
+E  H  7
+E  D  8
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 6,4,7,137,212,87,455,84,173,56,102,37,42,211,610,27,36,49,60,14,59,94,41,51,29,1606,32,23,72,130,22,11,52,169,40,21,26,106,21,706,26,53,36,22,12,47,82,10,26,11,59,11,24,16,21,20,15,28,14,12,9,19,11,11,10
+[Auction "E"]
+Pass 1D =1= Pass 1NT =2= 
+Pass Pass 2D Pass 
+Pass Pass 
+[Note "1: 2+♢, 11-15"]
+[Note "2: nf, will have 4/5♡, denies 4♠"]
+[Play "N"]
+C2 C3 C9 CK 
+D6 D4 DA DK 
+S9 S5 S2 S6 
+S4 S7 SQ SA 
+SJ S8 S3 ST 
+C4 CA C6 H3 
+D7 D5 D8 D9 
+H2 C5 DJ DQ 
+C7 H5 H7 DT 
+H4 C8 SK D3 
+H6 HK HT H9 
+CJ CT CQ HJ 
+HA H8 HQ D2 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "6"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J94.A642.76.J742 875.K85.54.AT853 KQ32.QT7.AJ8.Q96 AT6.J93.KQT932.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NTX"]
+[Result "5"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "57646676476578665786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  5
+E  H  7
+E  D  8
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 14,3,8,63,123,58,192,23,44,338,213,91,36,48,640,95,143,53,37,655,36,38,21,45,518,14,238,68,540,44,20,12,935,71,45,25,20,10,34,420,31,21,27,23,93,259,94,13,30,14,31,72,36,45,13,27,43,11,40,28,99,12,25,53,23,9,52,37,18,54,10,22,10,8,10
+[Auction "E"]
+Pass 1C =1= 1D 1H 
+Pass 1NT 2D Pass 
+Pass 2H Pass 3C 
+Pass 3NT Pass Pass 
+X Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+DK D6 D4 D8 
+H3 H4 HK H7 
+DT D7 D5 DA 
+H9 H2 H5 HQ 
+HJ HA H8 HT 
+S6 H6 C3 DJ 
+SA S4 S8 SK 
+DQ C2 C5 C6 
+D9 S9 S7 S2 
+D2 SJ S5 S3 
+D3 C4 C8 C9 
+CK C7 CT CQ 
+ST CJ CA SQ 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "7"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9.KQJT.J9432.J53 JT5.96542.K6.AK7 Q62.83.AQ8.T9842 AK8743.A7.T75.Q6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "3257632576aa8678a756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  7
+N  C  6
+S NT  3
+S  S  2
+S  H  5
+S  D  7
+S  C  6
+E NT 10
+E  S 10
+E  H  8
+E  D  6
+E  C  7
+W NT  8
+W  S 10
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 18,4,7,80,28,49,1974,51,147,52,24,36,24,27,29,234,24,22,72,55,11,12,13,17,12,22,10,20,9,60,20,20,9,19,12,33,22,30,22,192,95,20,47,25,36,29,17,17,131
+[Auction "S"]
+Pass 1S Pass 2H 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HK H2 H8 HA 
+C3 C7 C2 CQ 
+C5 CK C4 C6 
+CJ CA C8 H7 
+S9 S5 S2 SA 
+D2 DK DA D5 
+HT ST S6 S3 
+D4 D6 DQ D7 
+HJ -  SQ SK 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "7"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9.KQJT.J9432.J53 JT5.96542.K6.AK7 Q62.83.AQ8.T9842 AK8743.A7.T75.Q6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "3257632576aa8678a756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  7
+N  C  6
+S NT  3
+S  S  2
+S  H  5
+S  D  7
+S  C  6
+E NT 10
+E  S 10
+E  H  8
+E  D  6
+E  C  7
+W NT  8
+W  S 10
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,3,8,72,438,28,464,41,157,24,886,28,45,159,15,25,445,22,19,12,326,46,24,40,32,49,17,22,28,24,28,20,506,42,12,19,61,37,23,12,41,66,18,16,21,31,7,23,10,30,8,36
+[Auction "S"]
+Pass 1S =1= Pass 2H =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 10-15, 5+♠, <5♡, ♢ and ♣ can be longer"]
+[Note "2: 9-13, 3S"]
+[Play "N"]
+HK H2 H8 HA 
+S9 S5 S2 SA 
+D2 ST S6 SK 
+D4 SJ SQ S3 
+HT H4 H3 H7 
+HQ H5 CT D5 
+HJ H6 C8 D7 
+D3 DK DA DT 
+D9 D6 DQ S4 
+DJ C7 D8 S7 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "8"]
+[West "Steve Allen#33714"]
+[North "Roger Bryant#73720"]
+[East "David Eddleston#102318"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q82.AJ8.T8762.42 AJ93.6.KQ943.987 T.K9543.A5.KQT53 K7654.QT72.J.AJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "53857538576a4758a475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  3
+S  H  8
+S  D  5
+S  C  7
+E NT  6
+E  S 10
+E  H  4
+E  D  7
+E  C  5
+W NT  8
+W  S 10
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,4,7,90,34,243,244,276,61,30,35,22,25,20,531,21,25,111,15,11,20,37,13,32,22,25,38,12,36,21,23,11,37,62,48,16,23,19,75,31,14,116,187,17,42,451,58,22,28,40,19,21,7,64,13,10,13,29,10,11,13,18,8,10,8
+[Auction "W"]
+1S Pass 2NT =1= 3C 
+3H Pass 4S Pass 
+Pass Pass 
+[Note "1: raise to 3 or better * good raise to 3 or better [0:28]"]
+[Play "N"]
+C4 C7 CQ CA 
+S2 S3 ST SK 
+S8 SJ H4 S4 
+SQ SA C5 S5 
+D2 D3 D5 DJ 
+HJ H6 H5 HT 
+C2 C8 CK C6 
+H8 D4 H3 H7 
+HA S9 H9 H2 
+D6 DK DA S6 
+D7 C9 C3 CJ 
+D8 D9 CT S7 
+DT DQ HK HQ 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "8"]
+[West "Rob Helle#108672"]
+[North "Tom Dessain#404528"]
+[East "Ed Hoogenkamp#411941"]
+[South "Tugrul Kaban#117537"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q82.AJ8.T8762.42 AJ93.6.KQ943.987 T.K9543.A5.KQT53 K7654.QT72.J.AJ6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "7"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "53857538576a4758a475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  5
+N  C  7
+S NT  5
+S  S  3
+S  H  8
+S  D  5
+S  C  7
+E NT  6
+E  S 10
+E  H  4
+E  D  7
+E  C  5
+W NT  8
+W  S 10
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 22,3,8,298,157,213,718,34,199,87,31,36,42,24,29,40,190,26,25,370,46,30,23,192,32,11,19,22,34,18,264,50,29,13,13,595,27,18,11,29,16,11,9,13,20,21,12,11,19,12,15,19,12,14,51,12,19,8,27,12,32,11,7,12,15,9,10
+[Auction "W"]
+1S =1= Pass 4S X 
+Pass 5D X 5H 
+X Pass Pass Pass 
+[Note "1: same as before"]
+[Play "W"]
+S5 S2 SJ ST 
+S4 S8 S9 H3 
+H2 HJ H6 H4 
+CA C2 C9 CK 
+S6 SQ SA D5 
+DJ D2 DK DA 
+C6 C4 C8 CQ 
+CJ H8 C7 C3 
+H7 HA D3 H5 
+HT D6 D9 H9 
+SK D7 S3 HK 
+HQ D8 D4 CT 
+S7 DT DQ C5 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "9"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ982.63..QJT654 KT3.AT85.K74.A32 J5.K972.AJT93.98 764.QJ4.Q8652.K7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "68559685597577474874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  9
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  9
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  7
+W  S  4
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,8,7,704,77,204,129,322,135,251,160,58,42,64,326,55,39,16,492,247,37,24,40,55,16,23,205,24,26,25,12,20,20,45,64,29,11,35,335,47,30,20,94,16,14,28,542,26,13,15,61,26,28,77,172,20,12,9,13,12,8,23,15,10,7,7
+[Auction "N"]
+1S 1NT =1= X Pass 
+3C Pass 4S X 
+Pass Pass Pass 
+[Note "1:  * 15+ to 18- [0:15]"]
+[Play "E"]
+HA H2 H4 H6 
+D4 D9 DQ S2 
+C2 C8 CK C4 
+H5 HK HQ H3 
+CA C9 C7 C5 
+H8 H9 HJ S8 
+S3 SJ S4 S9 
+ST S5 S6 SA 
+C3 D3 S7 CT 
+D7 DT D6 C6 
+DK DA D2 CJ 
+SK DJ D5 CQ 
+HT H7 D8 SQ 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "9"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ982.63..QJT654 KT3.AT85.K74.A32 J5.K972.AJT93.98 764.QJ4.Q8652.K7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "68559685597577474874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  9
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  9
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  7
+W  S  4
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,3,4,281,47,556,90,516,149,215,35,409,52,125,52,35,27,248,89,106,9,419,26,19,10,102,27,20,81,17,56,31,27,79,19,7,38,316,163,67,30,332,28,24,15,498,31,33,45,125,18,396,62,107,24,220,34,11,13,40,11,11,21,7,10,6,8,7,14
+[Auction "N"]
+1S X 2C =1= Pass 
+3C Pass 3D Pass 
+4C Pass 4S Pass 
+Pass Pass 
+[Note "1: ♢"]
+[Play "E"]
+HA H2 HQ H3 
+H5 HK H4 H6 
+CA C9 C7 C4 
+H8 H9 HJ S2 
+C3 C8 CK C5 
+DK DA D5 C6 
+D7 DJ D6 CT 
+D4 DT DQ S8 
+C2 SJ D8 CJ 
+S3 D9 D2 CQ 
+HT H7 S4 S9 
+ST S5 S6 SA 
+SK D3 S7 SQ 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "10"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T.KJ43.Q7542.J83 53.AT62.T93.T542 KQJ982.97.J.AKQ9 A764.Q85.AK86.76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7a6587a6584367443674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  6
+N  D  5
+N  C  8
+S NT  7
+S  S 10
+S  H  6
+S  D  5
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  7
+E  C  4
+W NT  4
+W  S  3
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,8,7,84,169,192,146,41,317,58,645,1655,196,61,787,37,59,142,25,13,259,80,26,38,38,26,48,10,29,73,15,16,28,51,21,19,69,16,14,34,50,18,14,26,26,20,12,21,15
+[Auction "E"]
+Pass 1C =1= Pass 1D =2= 
+Pass 3S =3= Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: any (15)16+"]
+[Note "2: 0-8"]
+[Note "3: 16-18, 6+♠"]
+[Play "W"]
+DK D2 D3 DJ 
+C7 C3 C5 CK 
+S4 ST S3 SQ 
+SA D4 S5 SJ 
+C6 C8 CT CA 
+S6 H3 DT SK 
+S7 D5 C2 S9 
+H5 HJ HA H7 
+-  -  C4 -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "10"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T.KJ43.Q7542.J83 53.AT62.T93.T542 KQJ982.97.J.AKQ9 A764.Q85.AK86.76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7a6587a6584367443674"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  6
+N  D  5
+N  C  8
+S NT  7
+S  S 10
+S  H  6
+S  D  5
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  7
+E  C  4
+W NT  4
+W  S  3
+W  H  6
+W  D  7
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,3,4,60,21,28,92,67,137,39,465,78,66,40,100,33,45,141,112,79,1773,28,69,185,22,31,10,30,8,20,126,26,43,32,11,105,247,32,72,14,108,33,28,85
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2C =2= Pass 3C =3= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: Up to a poor 12"]
+[Note "2: nat or any 16+"]
+[Note "3: natural, <8 points"]
+[Play "W"]
+DK D2 D3 DJ 
+S4 ST S3 S2 
+C7 C3 C5 CA 
+S6 D4 S5 SK 
+SA D5 DT SQ 
+S7 H3 H6 SJ 
+H5 HJ HA H7 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "11"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A7.Q9874.KJ83.54 T95.AJT62.Q6.J62 KJ84..AT9542.AQ7 Q632.K53.7.KT983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 920"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "976c7986c74471644616"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 12
+N  C  7
+S NT  9
+S  S  8
+S  H  6
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  7
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  6
+W  D  1
+W  C  6
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 26,8,7,632,51,229,57,175,59,297,47,994,59,803,28,60,34,89,29,469,548,61,32,87,30,16,19,52,28,141,30,353,50,12,37,42,30,32,18,63,19,13,21,30,24,17,9,14,22,17,17,139,20,28,18,74,21,19,33,18,18,12,11
+[Auction "S"]
+1D =1= Pass 1H =2= Pass 
+1S =3= Pass 3D Pass 
+3S =4= Pass 4D Pass 
+6D Pass Pass Pass 
+[Note "1: 13-15 BAL 2-5♢ OR 11-15 (3)4+♢ UNBAL"]
+[Note "2: nat but limited to bad 12"]
+[Note "3: 4♠, UNBAL"]
+[Note "4: Cue, slam try in ♢"]
+[Play "W"]
+H5 H7 HA D2 
+S2 SA S5 S4 
+CK C4 C2 CQ 
+CT C5 C6 CA 
+C8 D8 CJ C7 
+H3 H4 H2 D4 
+S3 S7 ST SK 
+S6 D3 S9 S8 
+HK H8 H6 D5 
+D7 DJ D6 DA 
+C3 DK DQ D9 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "11"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A7.Q9874.KJ83.54 T95.AJT62.Q6.J62 KJ84..AT9542.AQ7 Q632.K53.7.KT983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "976c7986c74471644616"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 12
+N  C  7
+S NT  9
+S  S  8
+S  H  6
+S  D 12
+S  C  7
+E NT  4
+E  S  4
+E  H  7
+E  D  1
+E  C  6
+W NT  4
+W  S  4
+W  H  6
+W  D  1
+W  C  6
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 26,3,4,86,91,43,51,85,37,340,34,352,44,544,55,281,38,311,44,333,29,24,26,53,160,124,47,196,29,18,12,21,54,16,32,1421,24,8,35,29,21,16,7,17,28,26,20,14,21,18,12,55,10,20,36,17,21,17,37,48,30,15,10,14,12,39,21
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass 3D Pass 
+4C Pass 4S =1= Pass 
+4NT Pass 5H =2= X 
+6D Pass Pass Pass 
+[Note "1: cue"]
+[Note "2: 2 key cards w/out QD"]
+[Play "W"]
+H3 H4 HA D4 
+S2 SA S5 S4 
+CK C4 C2 CQ 
+C8 C5 CJ CA 
+C3 D3 C6 C7 
+S3 S7 ST SK 
+S6 D8 S9 S8 
+H5 H7 H2 D2 
+SQ DJ DQ SJ 
+D7 DK D6 D5 
+HK H8 H6 D9 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "12"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:97543.Q9.5.KQ743 KJ2.AKT85.QJ2.T6 Q6.J7.K8643.A852 AT8.6432.AT97.J9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "151381513888b9588b95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  1
+N  D  3
+N  C  8
+S NT  1
+S  S  5
+S  H  1
+S  D  3
+S  C  8
+E NT  8
+E  S  8
+E  H 11
+E  D  9
+E  C  5
+W NT  8
+W  S  8
+W  H 11
+W  D  9
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,3,4,194,58,232,88,155,30,61,39,21,13,27,161,177,84,24,212,19,15,23,15,22,8,54,878,23,16,61,13,15,10,20,22,18,8,92,20,20,37,19
+[Auction "W"]
+1NT =1= Pass 2D =2= Pass 
+3H =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 10-12"]
+[Note "2: xfer♡"]
+[Note "3: Min with 4♡"]
+[Play "N"]
+D5 DQ D3 D7 
+H9 HA H7 H2 
+HQ HK HJ H3 
+C3 DJ DK DA 
+C4 D2 D4 DT 
+S3 C6 D6 D9 
+CQ CT C2 CJ 
+S4 -  -  -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "12"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:97543.Q9.5.KQ743 KJ2.AKT85.QJ2.T6 Q6.J7.K8643.A852 AT8.6432.AT97.J9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "151381513888b9588b95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  1
+N  D  3
+N  C  8
+S NT  1
+S  S  5
+S  H  1
+S  D  3
+S  C  8
+E NT  8
+E  S  8
+E  H 11
+E  D  9
+E  C  5
+W NT  8
+W  S  8
+W  H 11
+W  D  9
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,8,7,656,339,42,55,172,70,38,49,108,135,737,207,24,18,68,21,15,21,17,28,35,27,21,34,22,113,27,20,15,53,22,22,20,21,15,16,10,14,11,12,9,8
+[Auction "W"]
+Pass Pass 1H Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * Raise to 3H or better [0:10]"]
+[Play "N"]
+CQ C6 C2 C9 
+C7 CT CA CJ 
+C3 S2 C8 H2 
+CK D2 C5 H3 
+C4 H5 D3 D7 
+D5 DJ DK DA 
+H9 HA H7 H4 
+HQ HK HJ H6 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "13"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ42.98.QT73.Q62 6.AJ6543.652.T84 A98.T2.AKJ4.K953 KT753.KQ7.98.AJ7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "57387573877695576955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  8
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  8
+S  C  7
+E NT  7
+E  S  6
+E  H  9
+E  D  5
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,8,7,83,516,98,65,156,32,30,95,110,42,28,102,33,75,14,66,196,25,21,628,34,395,48,38,12,20,20,49,26,45,13,36,21,67,20,41,24,15,28,18,15,33,15,19,9,11,42,11,9,10,31
+[Auction "N"]
+Pass 2H =1= X 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+DA D8 D3 D2 
+DK D9 DT D5 
+S9 ST SJ S6 
+CK CA C6 C4 
+S8 S3 S2 H3 
+D4 H7 D7 D6 
+SA S5 S4 HJ 
+H2 HQ H8 H4 
+HT HK H9 H5 
+C3 SK SQ C8 
+C5 S7 C2 CT 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "13"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ42.98.QT73.Q62 6.AJ6543.652.T84 A98.T2.AKJ4.K953 KT753.KQ7.98.AJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "57387573877695576955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  8
+N  C  7
+S NT  5
+S  S  7
+S  H  3
+S  D  8
+S  C  7
+E NT  7
+E  S  6
+E  H  9
+E  D  5
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,3,4,128,159,64,501,83,201,63,51,58,33,34,29,76,49,148,15,596,39,475,25,90,26,14,15,34,16,30,12,340,28,43,18,564,26,21,60,15,8,28,74,46,26,11,9,29,17,8,8,130,126,9,8
+[Auction "N"]
+Pass 2H =1= X 2NT =2= 
+Pass 3C =3= Pass 3H 
+3S Pass Pass Pass 
+[Note "1: weak"]
+[Note "2: Blue Club Enquiry"]
+[Note "3: min, not good suit"]
+[Play "E"]
+HA H2 H7 H8 
+C8 C3 C7 CQ 
+S6 SA S3 S2 
+H4 S8 S5 SQ 
+D2 DA D8 D3 
+D5 D4 D9 DQ 
+D6 DJ S7 D7 
+H6 S9 SK S4 
+H3 HT HK H9 
+H5 C5 HQ C2 
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "14"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQ82.KT7642.KJ.A A6.AQ985.8.QJ753 43..AQ9532.K8642 JT975.J3.T764.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "887a8877a85563555635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D 10
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D 10
+S  C  8
+E NT  5
+E  S  5
+E  H  6
+E  D  3
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,8,7,78,134,78,642,58,153,63,195,199,35,17,206,33,49,46,16,31,12,16,30,23,15,15,20,24,199,28,31,45,24,88,321,43,12,59,84,32,17,15,138,52,11,14,19
+[Auction "E"]
+1H 2NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: minors"]
+[Play "W"]
+SJ SK SA S4 
+S9 SQ S6 S3 
+C9 CA C3 C2 
+D4 DK D8 D2 
+D6 DJ H5 D3 
+H3 H2 HQ C4 
+HJ HK H8 C6 
+CT H6 H9 C8 
+S5 H4 HA D5 
+-  -  CQ -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "14"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KQ82.KT7642.KJ.A A6.AQ985.8.QJ753 43..AQ9532.K8642 JT975.J3.T764.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "887a8877a85563555635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D 10
+N  C  8
+S NT  8
+S  S  7
+S  H  7
+S  D 10
+S  C  8
+E NT  5
+E  S  5
+E  H  6
+E  D  3
+E  C  5
+W NT  5
+W  S  5
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 9,3,4,94,158,52,538,77,702,129,114,15,123,27,30,15,14,22,9,69,13,91,19,46,9,282,528,22,17,21,11,256,18,18,17,31,77,110,40,11,66,14,18,11,12,36,42,29,21,7,20,14,10,27,14,7,13,15,8,9
+[Auction "E"]
+1H 2NT =1= Pass Pass 
+Pass 
+[Note "1: minors"]
+[Play "W"]
+SJ SK SA S3 
+S9 SQ S6 S4 
+C9 CA C3 C2 
+D7 DK D8 D2 
+D4 DJ C7 DA 
+D6 H2 C5 DQ 
+DT H4 H5 D9 
+HJ HK HA C4 
+H3 H6 HQ C6 
+CT HT H9 C8 
+S5 H7 H8 D3 
+S7 S2 CJ CK 
+ST S8 CQ D5 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "15"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A642.JT65.Q62.65 Q7.2.KJT83.JT973 KT5.A43.A7.AKQ42 J983.KQ987.954.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "88878888785556555565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  8
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,3,4,284,48,108,66,91,23,261,37,390,81,303,43,254,61,36,35,1175,404,90,23,41,44,10,103,356,48,22,90,396,26,33,114,147,72,23,18,31,766,49,13,23,34,15,10,15,23,32,102,16,30,224,46,12
+[Auction "S"]
+2D =1= Pass 2S =2= Pass 
+2NT Pass 3C =3= Pass 
+3D =4= Pass 3H =5= Pass 
+3NT Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct"]
+[Note "3: 5 card puppet stayman"]
+[Note "4: at least onw M or 3-spades"]
+[Note "5: 4 spades"]
+[Play "W"]
+D5 D2 DT DA 
+C8 C5 CT CK 
+H7 C6 C3 CQ 
+S3 S2 S7 S5 
+HQ H5 H2 H3 
+D9 DQ DK D7 
+D4 D6 DJ C2 
+H8 H6 D8 C4 
+S8 S4 D3 H4 
+-  -  SQ -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "15"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A642.JT65.Q62.65 Q7.2.KJT83.JT973 KT5.A43.A7.AKQ42 J983.KQ987.954.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "88878888785556555565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  8
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,8,7,335,158,267,105,985,108,1067,56,216,42,106,35,55,1021,39,54,25,31,14,13,30,59,20,14,387,37,21,596,39,64,16,27,2133,32,171,13,74,24,20,17,75,150,32,14,30,24,20,22,109,17,18,14,18,19,22,17,10,15,15,35,13,15,13,8
+[Auction "S"]
+1C =1= 1H =2= Pass =3= 1S =4= 
+Pass =5= Pass X =6= Pass 
+3NT Pass Pass Pass 
+[Note "1: any (15)16+"]
+[Note "2: Hearts and spades"]
+[Note "3: any 6-8"]
+[Note "4:  * preference [0:12]"]
+[Note "5: 19+"]
+[Note "6: 4+H"]
+[Play "W"]
+S3 S2 SQ SK 
+C8 C5 C3 CA 
+H9 C6 C7 CK 
+HQ H5 H2 H4 
+SJ SA S7 S5 
+S8 S4 D3 ST 
+H7 H6 D8 HA 
+H8 S6 C9 CQ 
+D4 HT CT C2 
+D5 HJ CJ C4 
+D9 DQ DT D7 
+S9 D2 DJ DA 
+HK D6 DK H3 
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "16"]
+[West "Steve Green#85164"]
+[North "Tom Dessain#404528"]
+[East "Roger Bryant#73720"]
+[South "Tugrul Kaban#117537"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J3.AQ4.943.AKQ83 9754.KJ985.A6.97 T862.763.K7.JT62 AKQ.T2.QJT852.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65448654486899468994"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  5
+S  H  4
+S  D  4
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  9
+E  C  4
+W NT  6
+W  S  8
+W  H  9
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 15,3,4,164,87,104,214,85,218,25,23,56,75,63,74,9,166,31,18,17,119,56,52,14,100,232,31,8,124,15,17,21,12,24,7,15,21,15,7,12,31,18,5,13,125,16
+[Auction "W"]
+1D =1= 2C X 3C 
+3D 4C Pass Pass 
+Pass 
+[Note "1: 2+♢, 11-15"]
+[Play "E"]
+DA D7 DT D3 
+S7 S2 SQ S3 
+S4 S6 SK SJ 
+HK H3 HT HQ 
+H8 H6 H2 HA 
+C7 C2 C4 CA 
+C9 C6 C5 CK 
+D6 DK D2 D4 
+-  S8 SA -  
+*
+
+[Event "Match Objectivity v Czesccc"]
+[Site "RealBridge"]
+[Date "2023.03.27"]
+[Board "16"]
+[West "Steve Allen#33714"]
+[North "Ed Hoogenkamp#411941"]
+[East "David Eddleston#102318"]
+[South "Rob Helle#108672"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J3.AQ4.943.AKQ83 9754.KJ985.A6.97 T862.763.K7.JT62 AKQ.T2.QJT852.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Czesccc"]
+[VisitTeam "Objectivity"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65448654486899468994"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  5
+S  H  4
+S  D  4
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  9
+E  C  4
+W NT  6
+W  S  8
+W  H  9
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 15,8,7,357,131,53,142,232,433,157,366,48,33,59,24,69,30,37,67,21,8,32,18,21,33,31,13,184,19,8,54,28,8,9,55,16,12,11,150,18,12,29,22
+[Auction "W"]
+1D 2C X 3C 
+3D X =1= Pass 4C 
+Pass Pass Pass 
+[Note "1: points"]
+[Play "E"]
+DA D7 DQ D4 
+S7 S2 SQ S3 
+S5 S6 SK SJ 
+S4 S8 SA CQ 
+C7 C2 C4 CA 
+C9 CT C5 C3 
+HK H3 H2 HQ 
+D6 -  -  -  
+*

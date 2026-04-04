@@ -1,0 +1,4089 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "1"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K852.K.QJ54.T743 AJT.Q986532.862. Q9.4.AKT97.KJ965 7643.AJT7.3.AQ82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "442884428888b4588b45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  2
+N  D  8
+N  C  8
+S NT  4
+S  S  4
+S  H  2
+S  D  8
+S  C  8
+E NT  8
+E  S  8
+E  H 11
+E  D  4
+E  C  5
+W NT  8
+W  S  8
+W  H 11
+W  D  4
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 27,0,3,337,88,1799,77,239,42,111,61,31,46,35,41,284,50,32,35,21,129,62,19,17,273,40,16,25,72,20,13,8,29,14,10,11
+[Auction "N"]
+Pass Pass 1D X 
+1S 4H 5C Pass 
+5D 5H Pass Pass 
+6D 6H Pass Pass 
+Pass 
+[Play "S"]
+DA D3 D5 D2 
+CJ CQ C7 ST 
+H4 HA HK H2 
+C5 CA C3 SJ 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "1"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K852.K.QJ54.T743 AJT.Q986532.862. Q9.4.AKT97.KJ965 7643.AJT7.3.AQ82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "442884428888b4588b45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  2
+N  D  8
+N  C  8
+S NT  4
+S  S  4
+S  H  2
+S  D  8
+S  C  8
+E NT  8
+E  S  8
+E  H 11
+E  D  4
+E  C  5
+W NT  8
+W  S  8
+W  H 11
+W  D  4
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 20,2,1,310,217,801,48,80,122,169,339,689,36,35,96,35,28,274,62,942,49,248,44,6,48,83,15,47,15,12,181,12,37,49,53,21,6
+[Auction "N"]
+Pass 3H X 4H 
+4S Pass 5C Pass 
+Pass Pass 
+[Play "W"]
+HA HK H9 H4 
+S6 S2 SA S9 
+D3 DQ D8 D7 
+CQ C3 H5 C9 
+HJ C4 H2 SQ 
+C2 CT D2 C5 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "2"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:73.K862.7652.Q95 J95.J73.J3.86432 Q8642.AQ9.AQ8.T7 AKT.T54.KT94.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "66665777766556765567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  7
+S  S  7
+S  H  7
+S  D  7
+S  C  6
+E NT  6
+E  S  5
+E  H  5
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,48,64,177,39,19,30,26,148,25,638,108,22,11,11,127,20,24,11,18,34,8,18,56,11,12,64,25,45,26,24,35,18,33,9,26,13,51,44,17,16,26,8
+[Auction "E"]
+Pass 1S 1NT Pass 
+Pass Pass 
+[Play "N"]
+S7 S9 S2 ST 
+C5 C2 C7 CA 
+D5 DJ DQ D4 
+S3 S5 S4 SA 
+D2 D3 DA DK 
+H2 SJ SQ SK 
+D6 C3 D8 DT 
+D7 C4 H9 D9 
+C9 C6 CT CK 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "2"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:73.K862.7652.Q95 J95.J73.J3.86432 Q8642.AQ9.AQ8.T7 AKT.T54.KT94.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "66665777766556765567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  7
+S  S  7
+S  H  7
+S  D  7
+S  C  6
+E NT  6
+E  S  5
+E  H  5
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,202,210,73,89,34,61,136,106,521,16,14,70,6,15,72,47,7,11,13,37,8,33,81,32,40,8,46,16,25,8,32,28,6,57,6,158,6,41,7,32,6,24,7,20,6,17,8,18,6,11,6,23,7,9,10,23,6,10
+[Auction "E"]
+Pass 1S 1NT Pass 
+Pass Pass 
+[Play "N"]
+S7 S9 SQ SA 
+C5 C2 C7 CA 
+C9 C3 CT CK 
+CQ C4 S4 CJ 
+D7 D3 DA DT 
+D2 DJ DQ DK 
+S3 SJ S2 ST 
+H8 C6 S6 H4 
+H2 C8 S8 H5 
+D5 S5 H9 SK 
+D6 H3 D8 D9 
+H6 H7 HQ D4 
+HK HJ HA HT 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "3"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A95.5.KT3.AT7642 742.AJT8.9642.Q8 T8.642.AQJ7.J953 KQJ63.KQ973.85.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "6449a6449a6793267932"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  9
+N  C 10
+S NT  6
+S  S  4
+S  H  4
+S  D  9
+S  C 10
+E NT  6
+E  S  7
+E  H  9
+E  D  3
+E  C  2
+W NT  6
+W  S  7
+W  H  9
+W  D  3
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,0,3,169,140,76,61,686,145,176,67,58,53,24,25,481,55,83,32,10,99,26,9,22,213,33,35,18,16,36,9,42,36,13,26,14,97,19,12,10,71,22,10,9,23,27,17,13
+[Auction "S"]
+Pass 1S 2C X 
+2S =1= 3H 4C Pass 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: good raise in Cs"]
+[Play "N"]
+CA C8 C5 CK 
+D3 D2 DA D5 
+DT D4 D7 D8 
+DK D6 DJ H3 
+H5 HJ H2 H7 
+C2 HT H4 H9 
+C4 HA H6 HQ 
+S5 S2 S8 SK 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "3"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A95.5.KT3.AT7642 742.AJT8.9642.Q8 T8.642.AQJ7.J953 KQJ63.KQ973.85.K"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "6449a6449a6793267932"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  9
+N  C 10
+S NT  6
+S  S  4
+S  H  4
+S  D  9
+S  C 10
+E NT  6
+E  S  7
+E  H  9
+E  D  3
+E  C  2
+W NT  6
+W  S  7
+W  H  9
+W  D  3
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 15,2,1,73,18,85,68,153,240,243,88,302,19,123,145,6,38,40,19,21,5,40,81,16,5,22,13,16,4,34,11,18,16,28,7,13,11
+[Auction "S"]
+Pass 1S 2C 2S 
+3C 3S 4C Pass 
+Pass Pass 
+[Play "E"]
+S2 S8 SJ SA 
+C8 C3 CK CA 
+D4 D7 D8 DT 
+D2 DJ D5 D3 
+D6 DA H7 DK 
+D9 DQ S3 H5 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "4"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A3.J863.8653.872 QJ7642.Q5.JT7.AT KT985.AK72.AQ2.K .T94.K94.QJ96543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67983679836635966359"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  8
+N  C  3
+S NT  6
+S  S  7
+S  H  9
+S  D  8
+S  C  3
+E NT  6
+E  S  6
+E  H  3
+E  D  5
+E  C  9
+W NT  6
+W  S  6
+W  H  3
+W  D  5
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,70,91,200,173,23,82,36,42,20,45,60,18,388,12,42,420,49,9,25,46,16,18,12,100,91,51,104,570,28,99,29,22,14,18,12,37,8,22,11,298,21,25,14,423,514,21,55,80,10,16,11
+[Auction "W"]
+3C Pass Pass X 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+CA CK CQ C2 
+CT H2 C3 C7 
+H5 HA H4 H3 
+S7 S5 H9 S3 
+S2 H7 CJ C8 
+HQ HK HT H6 
+S4 S8 C4 SA 
+D7 DQ DK D5 
+DT DA D4 D3 
+S6 SK C5 D6 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "4"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A3.J863.8653.872 QJ7642.Q5.JT7.AT KT985.AK72.AQ2.K .T94.K94.QJ96543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67983679836635966359"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  8
+N  C  3
+S NT  6
+S  S  7
+S  H  9
+S  D  8
+S  C  3
+E NT  6
+E  S  6
+E  H  3
+E  D  5
+E  C  9
+W NT  6
+W  S  6
+W  H  3
+W  D  5
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,181,93,98,197,59,153,53,85,78,214,76,69,11,47,142,42,19,339,425,24,23,565,51,15,36,31,83,11,11,713,14,19,49,18,35,17,18,538,35,17,32,67,25,12,18,29,22,18,11,18,27,11,14,21,23,14,18,14,10,9,11
+[Auction "W"]
+3C Pass 3S X 
+4C 4H Pass Pass 
+Pass 
+[Play "E"]
+CA CK C9 C7 
+S6 S8 H4 S3 
+H5 HK HT H3 
+HQ HA H9 H6 
+S2 S5 C6 SA 
+CT H2 C5 C2 
+S4 S9 C3 H8 
+D7 DQ DK D3 
+DT DA D4 D5 
+S7 SK C4 D6 
+SJ ST CJ HJ 
+SQ H7 CQ C8 
+DJ D2 D9 D8 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "5"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A762.A432.Q.QT82 KQ84..A8743.KJ73 J953.Q95.KJ92.64 T.KJT876.T65.A95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67445674447689876898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,191,58,387,74,85,62,133,56,34,78,397,55,32,74,32,31,153,14,126,22,32,28,15,340,34,10,25,46,22,13,8,61,22,17,7,24,13,11,10,20,8,15,19,22,179,21,7,17,23,56,11,22,28,10,5
+[Auction "N"]
+Pass 1D Pass 1H 
+X 2C Pass 2H 
+Pass Pass 2S 3D 
+Pass Pass Pass 
+[Play "S"]
+S3 ST SA S4 
+D2 D5 DQ D3 
+C6 C5 CT CJ 
+S5 C9 S2 SK 
+S9 D6 S6 S8 
+C4 CA C2 C3 
+H5 H6 H3 D4 
+DJ H7 C8 C7 
+DK DT H2 DA 
+D9 H8 H4 D8 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "5"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A762.A432.Q.QT82 KQ84..A8743.KJ73 J953.Q95.KJ92.64 T.KJT876.T65.A95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67445674447689876898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H  8
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,2,1,187,85,109,21,53,30,135,15,15,75,26,15,274,695,19,24,30,20,22,160,108,30,7,63,176,16,17,16,492,25,13,808,30,265,26,30,260,56,8,129,737,32,38,6,13,24,7,16,98,22,9,30,33,13,14,13,18,7,8,9
+[Auction "N"]
+1H Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "W"]
+D6 DQ DA D2 
+D5 H2 D7 DK 
+C5 CT CJ C4 
+DT H3 D4 DJ 
+H8 HA S4 H5 
+ST H4 D3 D9 
+H6 C2 S8 H9 
+H7 SA SK S3 
+HT S2 SQ S5 
+CA C8 C7 C6 
+C9 CQ CK S9 
+HK S6 C3 HQ 
+HJ S7 D8 SJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "6"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q964.J4.AT52.KQ9 AKJT.953.KJ6.765 7.KQ872.973.AT84 8532.AT6.Q84.J32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "76979669794744447444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  7
+N  C  9
+S NT  6
+S  S  6
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,219,41,40,106,33,154,45,40,46,38,51,36,86,63,9,144,29,303,22,11,26,34,20,201,38,29,48,23,39,99,17,85,45,22,19,12,25,65,17,15,18,11,20,10,12,23,17,22,21,13,11,12,59,8,29,13,11,8,13,8,10,15,8
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass 2D =2= Pass 2H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: transfer to H"]
+[Play "E"]
+SK S7 S2 S6 
+H5 H2 HA H4 
+H3 H7 H6 HJ 
+SJ H8 S5 S4 
+H9 HQ HT S9 
+DJ D3 D8 DT 
+C7 C4 C3 C9 
+C5 C8 C2 CK 
+C6 CT CJ CQ 
+SA HK S3 SQ 
+ST CA S8 D2 
+D6 D7 D4 DA 
+DK D9 DQ D5 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "6"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q964.J4.AT52.KQ9 AKJT.953.KJ6.765 7.KQ872.973.AT84 8532.AT6.Q84.J32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "76979669794744447444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  7
+N  C  9
+S NT  6
+S  S  6
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,173,117,172,147,79,150,15,77,30,60,25,17,64,16,74,10,13,50,9,26,21,229,8,61,67,15,9,90,29,13,7,50,40,15,23,5,24,13,18,5,19,8,357,9,15,184,631,34,30,144,4,19,6,18,4,15,7,14,6,10
+[Auction "E"]
+1C =1= 1H 1S 1NT 
+2S Pass Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+HJ H3 H2 H6 
+H4 H5 HQ HA 
+S4 ST S7 S2 
+S6 SA D3 S3 
+D5 DJ D7 D4 
+DA DK D9 D8 
+CK C5 C8 C3 
+C9 C6 CA C2 
+D2 H9 HK HT 
+S9 SJ H8 S5 
+SQ SK H7 S8 
+DT D6 C4 DQ 
+CQ C7 CT CJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "7"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q.KJ64.K654.AKT8 K632.Q72.JT2.J43 AJ984.3.Q73.Q962 T75.AT985.A98.75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "9979a998ab4353244532"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  9
+N  C 10
+S NT  9
+S  S  9
+S  H  8
+S  D 10
+S  C 11
+E NT  4
+E  S  3
+E  H  5
+E  D  3
+E  C  2
+W NT  4
+W  S  4
+W  H  5
+W  D  3
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,136,56,57,40,52,59,108,36,95,44,199,126,366,61,25,26,18,253,53,18,26,43,16,24,414,47,14,79,16,10,14,16,18,11,17,189,161,30,10,11,542,41,10,99,236,21,184,14,44,19,11,27,18
+[Auction "S"]
+Pass Pass 1H Pass 
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: asking "]
+[Note "3: minimum not five hearts or three spades"]
+[Play "E"]
+DJ D3 D9 DK 
+S2 S4 S7 SQ 
+C4 C2 C5 CA 
+C3 C6 C7 CK 
+CJ CQ HT CT 
+S3 SA S5 D4 
+SK SJ ST H4 
+H7 H3 HA H6 
+H2 D7 H9 HK 
+-  -  -  C8 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "7"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q.KJ64.K654.AKT8 K632.Q72.JT2.J43 AJ984.3.Q73.Q962 T75.AT985.A98.75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "9979a998ab4353244532"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  9
+N  C 10
+S NT  9
+S  S  9
+S  H  8
+S  D 10
+S  C 11
+E NT  4
+E  S  3
+E  H  5
+E  D  3
+E  C  2
+W NT  4
+W  S  4
+W  H  5
+W  D  3
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,225,26,62,58,151,21,156,67,205,24,164,92,305,20,62,27,50,22,58,195,17,31,23,36,22,9,636,48,28,16,61,34,23,19,18,28,6,13,175,39,15,42,250,79,24,6,173,20,19,4,39,19,31,46,48,78,18,85,19,15,17,12,10,20,12,15,5,19,10,28
+[Auction "S"]
+Pass Pass 1H Pass 
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: cb"]
+[Note "3: no 3S"]
+[Play "E"]
+DJ D3 D8 DK 
+S2 S4 S7 SQ 
+D2 DQ DA D4 
+HQ H3 HT HJ 
+DT D7 D9 D5 
+C3 C2 C7 CT 
+H7 S8 H8 D6 
+C4 C6 C5 CA 
+CJ CQ H5 C8 
+H2 C9 S5 CK 
+S3 S9 H9 H4 
+S6 SJ HA H6 
+SK SA ST HK 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "8"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T974.T93.Q96.532 A2.86.AJ8753.QT4 KJ53.KJ4.K2.KJ76 Q86.AQ752.T4.A98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "253242532498ab9989a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  2
+N  C  4
+S NT  2
+S  S  5
+S  H  3
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,252,39,38,41,29,19,22,126,25,26,10,26,19,46,607,147,41,9,448,41,10,51,36,17,24,12,50,165,34,11,23,65,17,13,27,43,38,11,38,27,149,10,38,24,37,8,39,17,10,7,20,12,11,8,10,12,9,10
+[Auction "W"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12 14"]
+[Play "N"]
+S9 S2 SK S6 
+ST SA S3 S8 
+D6 D3 DK D4 
+S4 H6 SJ SQ 
+D9 DJ D2 DT 
+DQ DA C6 H2 
+H9 D7 S5 H5 
+H3 D8 H4 H7 
+C2 D5 C7 C8 
+C3 CQ CK CA 
+HT H8 HJ HA 
+C5 C4 CJ C9 
+S7 CT HK HQ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "8"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T974.T93.Q96.532 A2.86.AJ8753.QT4 KJ53.KJ4.K2.KJ76 Q86.AQ752.T4.A98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "253242532498ab9989a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  2
+N  C  4
+S NT  2
+S  S  5
+S  H  3
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,57,45,227,459,164,108,117,41,21,53,29,36,15,24,29,47,196,16,101,19,27,11,269,77,25,29,68,30,54,10,38,29,650,17,18,449,10,22,10,74,10,18,13,102,6,13,10,105,39,16,15,41,9,15,15,15,11,30,32,17,32,6,24,6,17,4
+[Auction "W"]
+1H Pass 2D =1= X 
+Pass 2S Pass Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: gf"]
+[Play "N"]
+ST S2 SK S6 
+S7 SA S3 S8 
+DQ D3 D2 DT 
+S9 H6 S5 SQ 
+D6 DA DK D4 
+D9 DJ C7 H2 
+C2 D8 C6 H5 
+C3 D7 H4 H7 
+S4 D5 HJ HQ 
+C5 CQ CK CA 
+H3 C4 CJ C9 
+H9 H8 SJ C8 
+HT CT HK HA 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "9"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQJ652.8.Q942.A6 KT3.32.AJ653.JT7 874.KQ75.87.5432 9.AJT964.KT.KQ98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "473435634376a9a76a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  4
+N  C  3
+S NT  5
+S  S  6
+S  H  3
+S  D  4
+S  C  3
+E NT  7
+E  S  6
+E  H 10
+E  D  9
+E  C 10
+W NT  7
+W  S  6
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,131,33,60,103,45,96,33,43,39,119,45,11,411,25,9,13,23,29,204,14,102,19,38,16,168,21,14,21,18,26,13,26,27,54,13,38,17,29,7,10,12,75,7,15,14,12,35,8,10,19,11,28
+[Auction "N"]
+1S Pass 2S 3H 
+4S Pass Pass Pass 
+[Play "E"]
+H2 HK HA H8 
+D6 D7 DK D4 
+DJ D8 DT D2 
+D5 C2 S9 D9 
+CJ C3 CK CA 
+S3 S4 H4 SA 
+DA S7 H6 DQ 
+H3 HQ H9 C6 
+SK S8 C8 SJ 
+D3 C4 HT S2 
+ST C5 HJ SQ 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "9"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQJ652.8.Q942.A6 KT3.32.AJ653.JT7 874.KQ75.87.5432 9.AJT964.KT.KQ98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "6"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "473435634376a9a76a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  4
+N  C  3
+S NT  5
+S  S  6
+S  H  3
+S  D  4
+S  C  3
+E NT  7
+E  S  6
+E  H 10
+E  D  9
+E  C 10
+W NT  7
+W  S  6
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,268,205,83,20,119,119,57,15,53,28,158,19,17,141,43,58,17,26,108,21,7,14,22,11,15,12,41,16,19,46,93,25,6,9,34,111,32,16,46,17,12,29,118,86,17,29,21,6,14,28,10,16,4,27,11,16,4,11,23,5,20
+[Auction "N"]
+1S Pass 2S 3H 
+4S X Pass Pass 
+Pass 
+[Play "E"]
+H3 HK HA H8 
+C7 C2 CK CA 
+D3 D7 DT D4 
+CT C3 CQ C6 
+CJ C4 C8 S6 
+D5 D8 DK D2 
+H2 C5 C9 SQ 
+DJ S4 S9 D9 
+S3 H5 H6 DQ 
+DA H7 H4 S2 
+ST S7 H9 SA 
+SK S8 HT S5 
+D6 HQ HJ SJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "10"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:.AT3.98432.AK853 AQJ954.KQ854.K.4 KT6.J976.AQ5.J92 8732.2.JT76.QT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "748aa747995953359533"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D 10
+N  C 10
+S NT  7
+S  S  4
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  9
+E  H  5
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  5
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 18,0,3,78,39,58,113,39,532,35,36,56,150,22,21,536,14,31,25,488,34,19,17,34,29,22,16,100,92,29,21,22,17,10,6,53,22,54,7,28,28,10,7,26,16,11,13,11,20,12,6,22,8,10,16,17,18,41,9,12,13,8,7
+[Auction "E"]
+1S Pass 2S 2NT =1= 
+4S Pass Pass Pass 
+[Note "1: unt"]
+[Play "S"]
+C2 CT CK C4 
+DA D7 D8 DK 
+CJ C6 C3 S4 
+H7 H2 HA HK 
+D5 D6 D2 S5 
+S6 S3 C5 SA 
+H6 C7 H3 HQ 
+H9 S2 HT H4 
+C9 CQ CA S9 
+HJ S7 C8 H5 
+DQ DT D3 SJ 
+ST DJ D4 H8 
+SK S8 D9 SQ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "10"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:.AT3.98432.AK853 AQJ954.KQ854.K.4 KT6.J976.AQ5.J92 8732.2.JT76.QT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "748aa747995953359533"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D 10
+N  C 10
+S NT  7
+S  S  4
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  9
+E  H  5
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  5
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 18,2,1,211,36,109,179,127,249,17,60,25,88,59,406,26,63,34,34,12,925,673,32,32,20,36,181,394,249,102,34,155,494,30,22,36,22,25,53,136,122
+[Auction "E"]
+1S Pass 3S =1= X 
+4S X Pass Pass 
+Pass 
+[Note "1: pre-empt"]
+[Play "S"]
+H6 H2 HA H5 
+DA D7 D8 DK 
+HJ S2 H3 H4 
+SK S3 C8 SQ 
+ST S7 D2 SJ 
+H9 S8 HT H8 
+DQ DJ D3 C4 
+S6 -  -  -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "11"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A98.A8.T863.T973 JT52.K653.KJ4.K8 KQ3.J94.AQ972.AQ 764.QT72.5.J6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b98c9b98c92451413514"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H  8
+N  D 12
+N  C  9
+S NT 11
+S  S  9
+S  H  8
+S  D 12
+S  C  9
+E NT  2
+E  S  4
+E  H  5
+E  D  1
+E  C  4
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  4
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,0,3,97,60,108,35,220,40,33,46,32,36,228,258,11,22,232,36,9,8,105,43,10,19,40,32,39,119,17,74,27,10,124,116,10,10,17,114,13,8,27,25,30,14,19,51,17,17,23,36,17,26,11,15,7,22,8,12,9,9,8,20,7,5
+[Auction "S"]
+1D Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+C4 C3 CK CA 
+D5 D3 D4 DA 
+S7 SA S2 S3 
+S6 D6 DK D7 
+C2 C7 C8 CQ 
+C5 D8 DJ DQ 
+C6 DT H3 D2 
+CJ C9 H6 H4 
+H2 HA H5 H9 
+S4 CT HK HJ 
+H7 S8 ST SK 
+HT S9 S5 SQ 
+HQ H8 SJ D9 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "11"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A98.A8.T863.T973 JT52.K653.KJ4.K8 KQ3.J94.AQ972.AQ 764.QT72.5.J6542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b98c9b98c92451413514"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H  8
+N  D 12
+N  C  9
+S NT 11
+S  S  9
+S  H  8
+S  D 12
+S  C  9
+E NT  2
+E  S  4
+E  H  5
+E  D  1
+E  C  4
+W NT  1
+W  S  3
+W  H  5
+W  D  1
+W  C  4
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,2,1,231,18,129,36,330,21,51,39,35,282,17,68,39,23,26,9,66,9,21,10,126,9,42,16,12,48,14,238,19,25,25,20,50,45,26,5,40,9,39,12,28,54,113,12,29,49,17,34,27,7,16,14,10,28,8,17,21,7,13,10
+[Auction "S"]
+1D Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S2 S3 S4 S9 
+D4 DQ D5 D8 
+DJ DA C2 D6 
+DK D7 S6 DT 
+H3 H4 HT H8 
+H5 H9 H2 HA 
+S5 D9 C4 D3 
+ST D2 S7 C3 
+SJ SK H7 SA 
+H6 SQ HQ S8 
+HK HJ C5 C7 
+C8 CQ C6 C9 
+CK CA CJ CT 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "12"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A7.J94.QT97654.4 QJ65.AKQT2.AJ.J5 T432.8753.K82.AK K98.6.3.QT987632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "44493444936994a6994a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  9
+N  C  3
+S NT  4
+S  S  4
+S  H  4
+S  D  9
+S  C  3
+E NT  6
+E  S  9
+E  H  9
+E  D  4
+E  C 10
+W NT  6
+W  S  9
+W  H  9
+W  D  4
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 20,0,3,285,144,293,144,42,35,97,90,99,11,37,34,20,42,89,22,10,11,22,20,17,9,29,83,26,8
+[Auction "W"]
+4C Pass 5C Pass 
+Pass Pass 
+[Play "N"]
+SA S5 S3 S9 
+S7 S6 ST SK 
+H4 HK H5 H6 
+H9 HA H3 S8 
+C4 C5 CK C2 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "12"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A7.J94.QT97654.4 QJ65.AKQT2.AJ.J5 T432.8753.K82.AK K98.6.3.QT987632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "44493444936994a6994a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  9
+N  C  3
+S NT  4
+S  S  4
+S  H  4
+S  D  9
+S  C  3
+E NT  6
+E  S  9
+E  H  9
+E  D  4
+E  C 10
+W NT  6
+W  S  9
+W  H  9
+W  D  4
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 21,2,1,202,143,310,743,17,64,71,151,17,43,27,203,6,43,99,26,231,72,42,22,65,25,60,28,130,31,15,13,15,5,16,20,14,9,47,12,40,25,165,28,6
+[Auction "W"]
+4C Pass 5C X 
+Pass 5D X Pass 
+Pass Pass 
+[Play "E"]
+HK H3 H6 H9 
+HQ H5 CQ H4 
+HA H7 C9 HJ 
+S5 S2 SK SA 
+C5 CK CT C4 
+CJ CA C8 S7 
+DA D2 D3 DQ 
+HT H8 C2 -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "13"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ5.94.T632.KT97 J.Q5.A9875.A8432 A74.AKJ87.QJ4.J5 T98632.T632.K.Q6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "a7987a79873544535445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D  8
+N  C  7
+S NT 10
+S  S  7
+S  H  9
+S  D  8
+S  C  7
+E NT  3
+E  S  5
+E  H  4
+E  D  4
+E  C  5
+W NT  3
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,78,82,407,74,106,44,36,48,107,415,13,13,1096,36,20,41,95,412,19,28,69,128,13,25,33,12,21,90,174,641,34,113,346,80,18,19,25,20,30,10,49,30,12,10,31,27,8,14,8,19,8,27,9
+[Auction "N"]
+Pass 1D 1NT =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: 16-18 pts"]
+[Play "W"]
+ST SK SJ S4 
+DK D2 D7 DQ 
+S9 S5 C4 SA 
+C6 C7 C2 CJ 
+CQ CK CA C5 
+H2 H4 H5 HJ 
+S2 D3 DA DJ 
+H3 H9 HQ HA 
+H6 D6 C3 HK 
+S3 SQ C8 S7 
+S6 CT D5 D4 
+-  C9 -  -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "13"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ5.94.T632.KT97 J.Q5.A9875.A8432 A74.AKJ87.QJ4.J5 T98632.T632.K.Q6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "a7987a79873544535445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D  8
+N  C  7
+S NT 10
+S  S  7
+S  H  9
+S  D  8
+S  C  7
+E NT  3
+E  S  5
+E  H  4
+E  D  4
+E  C  5
+W NT  3
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 5,2,1,542,71,458,35,95,37,52,123,52,92,141,59,21,124,21,30,10,593,75,51,35,53,27,12,16,13,110,109,18,22,17,15,23,51,13,10,30,20,95,20,38,20,640,25,18,27,18,570,31,27,24,23,10
+[Auction "N"]
+Pass 1D 1H 1S 
+Pass 2C Pass Pass 
+Pass 
+[Play "S"]
+HK H2 H9 H5 
+HA H3 H4 HQ 
+C5 CQ CK CA 
+D4 DK D2 D5 
+H7 H6 S5 C2 
+DJ S2 D3 DA 
+DQ C6 D6 D7 
+H8 HT SQ C3 
+S4 S3 DT D8 
+S7 S6 SK SJ 
+CJ S8 C7 C8 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "14"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT97.KQ.AK52.J98 KJ4.97652.94.762 Q8653.AJ83.T6.K4 2.T4.QJ873.AQT53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a8768a8773346533465"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  6
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  4
+E  D  6
+E  C  5
+W NT  3
+W  S  3
+W  H  4
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,47,47,55,48,31,264,292,50,103,225,34,22,79,26,59,47,8,61,19,11,15,279,23,34,12,82,24,24,17,98,15,15,34,15,25,732,24,22,24,17,107,15,19,23,9,17,12,17,44,15,19,7,14
+[Auction "E"]
+Pass Pass 1D 1NT 
+Pass 2H =1= 3C 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: transfer to S"]
+[Play "E"]
+C7 C4 CQ C9 
+C2 CK CA C8 
+D4 D6 DQ DA 
+C6 DT C3 CJ 
+D9 S3 D3 D2 
+S4 S5 S2 SA 
+SK S6 C5 S9 
+H7 H3 HT HK 
+SJ SQ CT S7 
+H2 H8 H4 HQ 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "14"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT97.KQ.AK52.J98 KJ4.97652.94.762 Q8653.AJ83.T6.K4 2.T4.QJ873.AQT53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a8768a8773346533465"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  6
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  4
+E  D  6
+E  C  5
+W NT  3
+W  S  3
+W  H  4
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,57,63,33,175,77,359,21,64,33,51,15,65,18,107,427,19,20,220,93,13,33,528,33,19,6,20,124,24,16,285,40,7,19,9,17,10
+[Auction "E"]
+Pass Pass 1D 1NT =1= 
+Pass 2C =2= X 2S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 15-18"]
+[Note "2: stay"]
+[Play "E"]
+C6 C4 CQ C9 
+D9 D6 DQ DA 
+S4 S3 S2 SA 
+SK S5 D3 S9 
+C7 CK CA C8 
+D4 -  DJ DK 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "15"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K7543.2.A8732.42 QJ2.K73.QJ9.9876 AT86.AQJT6.T64.5 9.9854.K5.AKQJT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "597a4597947353873538"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  7
+N  D 10
+N  C  4
+S NT  5
+S  S  9
+S  H  7
+S  D  9
+S  C  4
+E NT  7
+E  S  3
+E  H  5
+E  D  3
+E  C  8
+W NT  7
+W  S  3
+W  H  5
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 20,0,3,88,119,86,42,107,74,29,50,30,40,138,28,33,33,33,88,28,27,228,35,14,24,73,36,10,48,24,17,19,8,76,14,11,48,20,18,18,43,101,26,12,9
+[Auction "S"]
+1H 2C X 3C 
+3S Pass 4S Pass 
+Pass 5C X Pass 
+Pass Pass 
+[Play "N"]
+H2 H3 HT H5 
+DA D9 D4 D5 
+D8 DJ D6 DK 
+C2 C6 C5 CA 
+C4 C7 S8 C3 
+D2 DQ DT S9 
+D3 H7 HJ H4 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "15"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K7543.2.A8732.42 QJ2.K73.QJ9.9876 AT86.AQJT6.T64.5 9.9854.K5.AKQJT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "597a4597947353873538"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  7
+N  D 10
+N  C  4
+S NT  5
+S  S  9
+S  H  7
+S  D  9
+S  C  4
+E NT  7
+E  S  3
+E  H  5
+E  D  3
+E  C  8
+W NT  7
+W  S  3
+W  H  5
+W  D  3
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 10,2,1,110,39,126,556,57,60,62,29,58,56,8,602,23,94,17,27,17,37,6,16,43,7,12,17,28,7,196,7,22,5,14
+[Auction "S"]
+1H 2C Pass 3C 
+Pass Pass Pass 
+[Play "N"]
+H2 H3 HT H8 
+DA D9 D6 D5 
+D3 DJ DT DK 
+C2 C6 C5 CA 
+C4 C7 S6 C3 
+D2 DQ D4 S9 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "16"]
+[West "Ian Johns#406067"]
+[North "Colin Wilson#93813"]
+[East "David Waxman#20349"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:4.93.KJT4.KQT654 AQT.AQ64.Q53.J32 KJ732.K8.A72.A87 9865.JT752.986.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "b86bbb86bb2462224622"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H  6
+N  D 11
+N  C 11
+S NT 11
+S  S  8
+S  H  6
+S  D 11
+S  C 11
+E NT  2
+E  S  4
+E  H  6
+E  D  2
+E  C  2
+W NT  2
+W  S  4
+W  H  6
+W  D  2
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 18,0,3,65,70,137,91,386,161,48,134,35,27,38,195,209,18,18,118,32,46,11,45,40,9,16,12,18,19,16,11,28,28,29,14,41,27,12,645,482,23,10,63,26,86,31,48,12,12,48,66,48,10,20,16,40,9,8,20,23,9,5,16,9,8,14
+[Auction "W"]
+Pass Pass 1H 1S 
+3H 4C Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+HJ H3 HA H8 
+H2 H9 H4 HK 
+C9 CK C3 C7 
+S5 S4 SA S2 
+H5 C4 HQ S3 
+S6 D4 ST SK 
+S8 C5 C2 CA 
+D8 DT D5 D2 
+S9 CQ CJ C8 
+HT C6 H6 S7 
+D6 DJ D3 DA 
+D9 DK DQ D7 
+H7 CT SQ SJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "16"]
+[West "Jeremy Willans#43358"]
+[North "Dennis Haines#510544"]
+[East "Kay Preddy#032117"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:4.93.KJT4.KQT654 AQT.AQ64.Q53.J32 KJ732.K8.A72.A87 9865.JT752.986.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "b86bbb86bb2462224622"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H  6
+N  D 11
+N  C 11
+S NT 11
+S  S  8
+S  H  6
+S  D 11
+S  C 11
+E NT  2
+E  S  4
+E  H  6
+E  D  2
+E  C  2
+W NT  2
+W  S  4
+W  H  6
+W  D  2
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 10,2,1,40,173,121,117,90,177,43,557,43,53,43,21,171,170,36,132,20,21,11,121,97,29,11,83,39,15,34,128,49,15,3,23,12,72,6,131,18,22,4,50,21,4,13,78
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+2C =2= X =3= 2H 3C 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman"]
+[Note "3: lead"]
+[Play "W"]
+HJ H3 H4 HK 
+C9 CK C2 C7 
+H7 C4 C3 CA 
+S5 CQ CJ C8 
+D6 DK D3 D2 
+D8 DJ D5 D7 
+S6 S4 SA S2 
+H2 H9 HA H8 
+-  -  HQ -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "17"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT72.5.AT964.742 K4.AT.KQJ872.J98 Q5.J864.3.KQT653 J9863.KQ9732.5.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "643586435869a7569a75"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  3
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H 10
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H 10
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 21,1,3,423,47,137,158,225,32,28,118,46,130,21,104,558,39,76,70,15,115,27,10,8,16,34,11,17,37,58,16,8,143,25,8,22,152,20,19,13,51,11,13,20,8,31,139,25,16,10,22,25,66,23,10,10,15,6,10,10,21,6,9,11,9,14,7,9
+[Auction "N"]
+Pass 1D 3C X 
+4C 4D Pass 4H 
+Pass 5D Pass Pass 
+Pass 
+[Play "S"]
+CK CA C2 C8 
+H8 H2 H5 HA 
+CT D5 C4 C9 
+S5 S3 SA S4 
+SQ S6 S2 SK 
+H4 HK D4 HT 
+CQ H3 C7 CJ 
+C6 H7 D6 D7 
+D3 S8 DA DJ 
+H6 S9 S7 DQ 
+HJ H9 D9 DK 
+C3 HQ DT D8 
+C5 SJ ST D2 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "17"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT72.5.AT964.742 K4.AT.KQJ872.J98 Q5.J864.3.KQT653 J9863.KQ9732.5.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "643586435869a7569a75"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  3
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H 10
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H 10
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,2,0,588,26,412,54,66,22,45,217,55,28,44,154,70,15,11,120,37,10,18,151,21,9,68,28,34,26,9,208,21,9,10,13,66,10,22,22,779,34,26,20,42,7,15,19,28,11,15,13,21,8,9,20,15,14,11,16,15,8,14,8,19,8,13
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2D Pass 2H 
+Pass Pass Pass 
+[Play "N"]
+SA S4 S5 S3 
+S2 SK SQ S6 
+DA DK D3 D5 
+C7 C8 CT CA 
+H5 HT H4 HK 
+C4 HA H6 H2 
+D4 DQ H8 H9 
+D6 D2 HJ HQ 
+S7 D7 C5 SJ 
+ST D8 C3 S8 
+C2 C9 CQ H3 
+D9 CJ C6 S9 
+DT DJ CK H7 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "18"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:85.K932.T9765.86 K973.J87.AK3.QJ9 Q62.AQ5.J82.7543 AJT4.T64.Q4.AKT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "22462224629a87a9a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  6
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  6
+S  C  2
+E NT  9
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,195,21,166,107,30,18,55,41,21,16,19,103,46,28,82,9,21,22,31,14,16,11,12,18,9,94,13,46,11,5,15,6,14,10
+[Auction "E"]
+1NT Pass 2C =1= Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: statman"]
+[Play "S"]
+C5 C2 C8 CQ 
+S2 SA S5 S3 
+S6 S4 S8 SK 
+D2 DQ D5 D3 
+D8 D4 D9 DK 
+DJ H4 D6 DA 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "18"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:85.K932.T9765.86 K973.J87.AK3.QJ9 Q62.AQ5.J82.7543 AJT4.T64.Q4.AKT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "22462224629a87a9a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  6
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  6
+S  C  2
+E NT  9
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,179,51,100,66,19,36,22,46,11,41,101,212,45,24,166,33,8,26,9,22,7,42,11,17,14,32,137,28,59,39,129,37,20,20,17,18,16,15,24,26,8,16,8,22,11,86,13,24,8,13,14,15,10,23,16,10,20,12,15,14,13,7
+[Auction "E"]
+1NT =1= Pass 2C =2= Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: stayman "]
+[Play "S"]
+C5 C2 C8 CJ 
+D2 DQ D5 D3 
+D8 D4 D6 DK 
+DJ H4 DT DA 
+S2 SJ S5 S3 
+S6 S4 S8 SK 
+SQ SA D7 S7 
+C4 CT C6 CQ 
+C3 CK H9 C9 
+C7 CA D9 H7 
+H5 H6 HK H8 
+HQ HT H2 HJ 
+HA ST H3 S9 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "19"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:654.Q3.QJT82.J65 KJ73.62.AK976.74 Q2.KT985.53.K983 AT98.AJ74.4.AQT2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "3133431334ac9a9acaa9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  1
+S  H  3
+S  D  3
+S  C  4
+E NT 10
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 10
+W  S 12
+W  H 10
+W  D 10
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,1,3,43,244,42,49,32,55,63,29,19,41,59,67,214,15,50,311,46,14,6,46,17,17,18,95,88,8,23,31,16,14,22
+[Auction "S"]
+Pass 1H Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+S5 S3 SQ SA 
+S6 SJ S2 S8 
+CJ C4 C3 CT 
+S4 SK H5 S9 
+C6 C7 C9 CQ 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "19"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:654.Q3.QJT82.J65 KJ73.62.AK976.74 Q2.KT985.53.K983 AT98.AJ74.4.AQT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "3133431334ac9a9acaa9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  1
+S  H  3
+S  D  3
+S  C  4
+E NT 10
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 10
+W  S 12
+W  H 10
+W  D 10
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 18,2,0,122,35,80,32,41,51,46,22,25,16,38,264,104,41,40,163,43,21,49,49,27,8,21,16,15,16,21,53,18,15,15,32,29,17,31,16,32,32,23,26,177,17,38,36,39,175,19,17,65,17,27
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+D5 D4 DT DA 
+C3 CQ C5 C7 
+C8 CA C6 C4 
+C9 C2 CJ S3 
+D3 H4 D2 DK 
+H5 HA H3 H2 
+CK CT D8 S7 
+H8 H7 HQ H6 
+SQ SA S4 SJ 
+H9 HJ DJ SK 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "20"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK42.8.AK943.943 95.A976.QJ6.8765 Q3.KQT542.T.AKJT JT876.J3.8752.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "babbcbabbc2322123221"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 11
+N  C 12
+S NT 11
+S  S 10
+S  H 11
+S  D 11
+S  C 12
+E NT  2
+E  S  3
+E  H  2
+E  D  2
+E  C  1
+W NT  2
+W  S  3
+W  H  2
+W  D  2
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,1,3,97,59,29,30,42,43,29,127,48,42,53,30,50,37,32,169,136,15,8,89,40,7,11,20,24,44,7,19,28,12,26,63,90,133,18,113,20,7,40,6,58,8,9,24,49,18,44,258,35,8,11,9,12,10,13,35,9,9,31,27,11,6,34,9,14,9,3
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C =1= 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 4sf"]
+[Play "W"]
+SJ S2 S5 SQ 
+H3 H8 HA HQ 
+ST SA S9 S3 
+CQ C3 C5 CJ 
+S8 SK C8 H2 
+C2 C4 C6 CA 
+S6 C9 C7 CK 
+D2 D3 DQ CT 
+D5 DA D6 DT 
+D7 DK DJ H4 
+D8 D9 H6 H5 
+S7 S4 H7 HT 
+HJ D4 H9 HK 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "20"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK42.8.AK943.943 95.A976.QJ6.8765 Q3.KQT542.T.AKJT JT876.J3.8752.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "babbcbabbc2322123221"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 11
+N  C 12
+S NT 11
+S  S 10
+S  H 11
+S  D 11
+S  C 12
+E NT  2
+E  S  3
+E  H  2
+E  D  2
+E  C  1
+W NT  2
+W  S  3
+W  H  2
+W  D  2
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,2,0,91,81,24,163,24,50,27,440,56,77,32,413,31,54,13,38,1049,31,33,167,18,21,27,706,37,14,8,79,31,12,8,31,24,24,12,484,57,19,26,91,19,23,9,49,23,19,8,39,10,13,68,19,105,24,8,23,17,19,7,16,16,37,13,9,15,6,10
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SJ SA S5 S3 
+H3 H8 H6 HK 
+S6 S2 S9 SQ 
+C2 C3 C6 CK 
+CQ C4 C5 CJ 
+D7 DA D6 DT 
+D2 DK DQ H2 
+S7 SK H7 H4 
+D5 C9 C8 CA 
+D8 S4 C7 CT 
+HJ D3 H9 H5 
+ST D4 DJ HT 
+S8 D9 HA HQ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "21"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K954.T94.KJ63.J3 Q7.KJ63.8.AT8542 T62.A75.9742.K96 AJ83.Q82.AQT5.Q7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "353633536398a7a98a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  6
+N  C  3
+S NT  3
+S  S  5
+S  H  3
+S  D  6
+S  C  3
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C 10
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,1,3,270,63,23,54,43,31,22,53,50,39,1207,77,49,142,158,15,18,18,155,34,6,886,54,7,69,43,20,35,8,39,34,26,10,326,37,527,75,25,58,14,26,38,35,36,7,13,113,16,16,11,32,6,11,58
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HT H3 H5 HQ 
+SK S7 S6 S3 
+D3 D8 D9 DT 
+S4 SQ S2 S8 
+C3 C2 C6 CQ 
+CJ C4 CK C7 
+D6 H6 D2 DA 
+H4 HJ HA H2 
+DJ C5 D4 D5 
+DK C8 D7 DQ 
+S5 -  -  -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "21"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K954.T94.KJ63.J3 Q7.KJ63.8.AT8542 T62.A75.9742.K96 AJ83.Q82.AQT5.Q7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "353633536398a7a98a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  6
+N  C  3
+S NT  3
+S  S  5
+S  H  3
+S  D  6
+S  C  3
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C 10
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,0,79,23,47,66,53,58,76,149,51,21,37,13,58,25,930,20,21,56,93,19,47,28,503,46,11,34,56,15,13,188,26,11,34,452,85,27,17,29,45,23,16,107,17,29,29,78,30,11,20,61,20,9,192,34,13,16,8,13,14,7,18,7,22,9,13
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: forcing 15-19 pts"]
+[Play "N"]
+HT H3 H5 HQ 
+H4 HK HA H2 
+DK D8 D9 DQ 
+H9 HJ H7 H8 
+C3 C2 C6 CQ 
+SK S7 S2 S3 
+S4 SQ S6 S8 
+D3 H6 D4 D5 
+CJ CA C9 C7 
+D6 C4 CK DT 
+DJ C5 D7 DA 
+S5 C8 ST SA 
+S9 CT D2 SJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "22"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:987.832.J.QT8753 AQT5.T94.KQ976.2 K643.AK75.A542.K J2.QJ6.T83.AJ964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2CXX"]
+[Result "9"]
+[Score "NS 760"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "56649566498669486694"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  4
+N  C  9
+S NT  5
+S  S  6
+S  H  6
+S  D  4
+S  C  9
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  4
+W NT  8
+W  S  6
+W  H  6
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 5,1,3,114,56,157,125,176,21,150,60,104,50,125,380,55,48,59,51,29,248,35,16,29,16,15,10,12,37,32,11,33,18,14,14,49,60,14,18,20,12,19,32,12,163,15,14,11,162,103,19,152,21,14,11,11,94,47,14,24,12,42,9,12,10,10,10,9
+[Auction "E"]
+1D 1NT X 2C 
+Pass Pass X Pass 
+Pass XX =1= Pass Pass 
+Pass 
+[Note "1:  * rescue [0:07]"]
+[Play "E"]
+HT HK H6 H3 
+D7 DA D8 DJ 
+D6 D2 D3 C3 
+H4 HA HJ H8 
+D9 D4 DT C5 
+SA S3 S2 S8 
+C2 CK CA C7 
+H9 H5 HQ H2 
+S5 S4 C4 C8 
+ST SK SJ S7 
+DK H7 C6 CT 
+DQ D5 C9 CQ 
+SQ S6 CJ S9 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "22"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:987.832.J.QT8753 AQT5.T94.KQ976.2 K643.AK75.A542.K J2.QJ6.T83.AJ964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "56649566498669486694"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  4
+N  C  9
+S NT  5
+S  S  6
+S  H  6
+S  D  4
+S  C  9
+E NT  8
+E  S  6
+E  H  6
+E  D  9
+E  C  4
+W NT  8
+W  S  6
+W  H  6
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 5,2,0,84,182,138,163,34,563,34,39,514,29,130,73,70,21,39,40,21,25,9,30,12,15,26,53,25,16,25,29,67,21,17,38,23,22,8,61,19,15,14,27,31,8,23,36,298,17,25,24,25,34,9,44,19,15,13,9,20,7,15
+[Auction "E"]
+1D X 1NT 2C 
+Pass Pass Pass 
+[Play "E"]
+DK DA D3 DJ 
+D9 D2 D8 C3 
+H4 HA H6 H3 
+DQ D4 DT C5 
+H9 HK HJ H2 
+D6 D5 S2 C7 
+SA S3 SJ S8 
+SQ SK C4 S7 
+C2 CK CA C8 
+S5 S4 C6 CT 
+D7 H5 C9 CQ 
+ST S6 HQ S9 
+HT H7 CJ H8 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "23"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT874.73.KT76.J9 AK93.Q98.85.KT84 J2.AJT42.AQ4.Q65 65.K65.J932.A732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77664776756666856668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  4
+S NT  7
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,1,3,99,46,42,47,43,35,506,37,185,63,31,28,29,41,7,31,144,21,145,13,12,10,14,9,90,42,26,6,15,27,17,27,265,23,58,7,181,17,32,17,9,27,5,10
+[Auction "S"]
+1H Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1:  * 12-14 [0:10]"]
+[Play "W"]
+D2 D7 D8 DQ 
+S5 S4 SK SJ 
+CA C9 C4 C5 
+C2 CJ CK C6 
+D3 D6 D5 DA 
+S6 SQ SA S2 
+HK H3 H8 HJ 
+H6 H7 HQ HA 
+H5 S7 H9 HT 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "23"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT874.73.KT76.J9 AK93.Q98.85.KT84 J2.AJT42.AQ4.Q65 65.K65.J932.A732"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77664776756666856668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  4
+S NT  7
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 6,2,0,274,48,103,28,113,24,199,21,348,23,85,180,35,34,113,21,26,7,52,20,22,11,31,7,30,88,14,14,25,16,129,47,13,14,19,21,15,10,233,39,14,18,13,22,78,22,373,51,10,28,27,10,16,19,32,19,69,10,26,7,15,9
+[Auction "S"]
+1H Pass 1S Pass 
+1NT Pass 2D Pass 
+Pass Pass 
+[Play "E"]
+D8 D4 D2 DT 
+S3 SJ S6 S4 
+D5 DA D3 D6 
+C4 DQ D9 D7 
+SK S2 S5 SQ 
+HQ HA H5 H3 
+H8 HJ HK H7 
+CK C5 C2 C9 
+CT C6 CA CJ 
+C8 CQ C3 S7 
+H9 HT H6 S8 
+S9 H4 C7 ST 
+SA H2 DJ DK 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "24"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q.KQJ86.A.AQ6532 A965.7543.QJ.K87 7.9.KT876542.T94 KJT8432.AT2.93.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "448aa4489a8952389523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D 10
+N  C 10
+S NT  4
+S  S  4
+S  H  8
+S  D  9
+S  C 10
+E NT  8
+E  S  9
+E  H  5
+E  D  2
+E  C  3
+W NT  8
+W  S  9
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,206,528,76,331,47,316,20,209,6,45,156,13,31,5,132,19,16,68,94,26,6,14,169,30,4,66,138,54,5,19
+[Auction "W"]
+3S 4C =1= 4S Pass 
+Pass Pass 
+[Note "1: C+H I think"]
+[Play "N"]
+HK H3 H9 HA 
+SQ SA S7 S2 
+CQ C7 C4 CJ 
+HQ H4 D2 H2 
+HJ H5 D4 HT 
+H8 H7 D5 S3 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "24"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q.KQJ86.A.AQ6532 A965.7543.QJ.K87 7.9.KT876542.T94 KJT8432.AT2.93.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "448aa4489a8952389523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  8
+N  D 10
+N  C 10
+S NT  4
+S  S  4
+S  H  8
+S  D  9
+S  C 10
+E NT  8
+E  S  9
+E  H  5
+E  D  2
+E  C  3
+W NT  8
+W  S  9
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,342,140,36,170,26,115,20,1488,39,50,279,17,26,237,50,13,11,129,45,10,226,21,34,16,14,37,15,42,17,185,27,13,8,28,21,42,8,29,71,42,18,43,40,10,70,20,36,9,24
+[Auction "W"]
+1S 2S =1= 3S Pass 
+4S X Pass Pass 
+Pass 
+[Note "1: H/C"]
+[Play "N"]
+HK H3 H9 HA 
+SQ SA S7 SJ 
+C6 S5 D6 SK 
+CA C7 C4 CJ 
+HQ H4 D4 H2 
+DA DJ D5 D9 
+HJ H5 D2 HT 
+H8 H7 D7 S4 
+C2 S9 D8 S3 
+C3 CK C9 D3 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "25"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJT92.A83.A54.Q4 Q643.KJ6.72.A982 75.974.QJT983.T7 A8.QT52.K6.KJ653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "36373363736693977a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  6
+S  H  3
+S  D  7
+S  C  3
+E NT  6
+E  S  6
+E  H  9
+E  D  3
+E  C  9
+W NT  7
+W  S  7
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 4,1,3,177,49,53,254,212,42,79,41,17,16,18,9,84,6,25,50,10,40,92,27,10,6,36,24,21,19,44,14,9,24,78,45,7,8,10,381,8,10,7,46,8,12,8,55,14,9,13,20,10,6,25,14,8,5,8,13,4,10
+[Auction "N"]
+1S Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * wide ranging [0:07]"]
+[Play "W"]
+C5 CQ CA C7 
+CJ C4 C2 CT 
+CK S2 C9 D8 
+C6 H3 C8 S5 
+DK DA D7 DQ 
+D6 D4 D2 DJ 
+H2 D5 S3 DT 
+H5 S9 H6 D9 
+S8 H8 S4 D3 
+SA ST S6 S7 
+C3 SJ SQ H4 
+HT HA HJ H7 
+HQ SK HK H9 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "25"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJT92.A83.A54.Q4 Q643.KJ6.72.A982 75.974.QJT983.T7 A8.QT52.K6.KJ653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "36373363736693977a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  6
+S  H  3
+S  D  7
+S  C  3
+E NT  6
+E  S  6
+E  H  9
+E  D  3
+E  C  9
+W NT  7
+W  S  7
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 6,2,0,129,37,75,395,97,22,312,57,64,33,72,98,75,21,147,34,11,412,23,36,9,38,76,19,16,17,50,21,8,14,143,33,8,16,8,24,9,17,54,27,33,23
+[Auction "N"]
+1S Pass Pass 1NT =1= 
+Pass Pass 2D Pass 
+Pass Pass 
+[Note "1: 11-14 pts"]
+[Play "W"]
+C5 C4 CA C7 
+H5 H3 HK H4 
+H2 HA HJ H7 
+HT H8 H6 H9 
+CK CQ C2 CT 
+SA S2 S6 S5 
+S8 SK S3 S7 
+DK S9 S4 D8 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "26"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKJ8.K876.K852.Q Q974.Q43.T7.A982 32.A5.J9.JT76543 T65.JT92.AQ643.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "67779677797666476664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  7
+N  C  9
+S NT  6
+S  S  7
+S  H  7
+S  D  7
+S  C  9
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  4
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,1,3,52,16,320,118,69,110,44,42,112,44,47,37,22,189,49,39,119,251,89,24,7,12,33,9,21,121,19,14,6,19,16,37,26,66,75,25,15,163,18,108,10,245,14,43,27,16,54,6,10,9,45,6,24
+[Auction "E"]
+Pass Pass 1D 1NT 
+X 2C Pass Pass 
+X =1= Pass 2D Pass 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: pens"]
+[Play "W"]
+HJ H6 H4 HA 
+CK CQ C2 C3 
+H2 HK H3 H5 
+H9 H7 HQ C7 
+D3 D2 CA CJ 
+DA D5 DT DJ 
+HT H8 S4 C4 
+D4 S8 C8 CT 
+S6 D8 C9 C5 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "26"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKJ8.K876.K852.Q Q974.Q43.T7.A982 32.A5.J9.JT76543 T65.JT92.AQ643.K"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "67779677797666476664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  7
+N  C  9
+S NT  6
+S  S  7
+S  H  7
+S  D  7
+S  C  9
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  4
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,0,134,97,114,114,27,139,32,181,40,229,17,24,163,63,69,33,185,33,22,50,29,35,30,131,33,32,15,659,125,18,20,27,23,15,10,30,32,16,8,14,63,27,42,201,38,7,35,59,25,17,7,127,25,15,8,25,28,13,8,8,21,8,9
+[Auction "E"]
+Pass Pass 1D Pass 
+1S 2C Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+DT DJ DA D2 
+H3 H5 HJ H6 
+HQ HA H2 H7 
+C8 C3 CK CQ 
+S7 S2 S5 SA 
+H4 C4 H9 HK 
+C2 C5 HT H8 
+S9 S3 S6 S8 
+D7 D9 DQ DK 
+S4 C6 ST SK 
+C9 C7 D3 D8 
+CA CT D6 D5 
+SQ CJ D4 SJ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "27"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKT753.A.T8.Q974 J.Q852.KQJ63.632 Q42.JT976.A95.KT 986.K43.742.AJ85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8b7688b7683256332663"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D  6
+S  C  8
+E NT  3
+E  S  2
+E  H  5
+E  D  6
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,1,3,51,43,59,101,138,81,51,501,20,42,20,207,67,16,46,22,14,13,271,31,20,33,65,384,31,13,22,26,9,21,12,27,12,11,32,38,13,11,14,54,10,67,12,14,13,14,15,36,10,20,12,102
+[Auction "S"]
+Pass Pass 1S 2D 
+3D =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: HCR in S * 3 card [0:13]"]
+[Play "E"]
+DK DA D4 D8 
+SJ S2 S6 SA 
+C6 CK CA C4 
+D3 S4 S8 SK 
+C2 SQ S9 S3 
+C3 CT C5 C7 
+H2 H6 H4 HA 
+H8 H7 H3 ST 
+D6 D5 D2 S7 
+DQ D9 D7 S5 
+H5 -  -  CQ 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "27"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKT753.A.T8.Q974 J.Q852.KQJ63.632 Q42.JT976.A95.KT 986.K43.742.AJ85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8b7688b7683256332663"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D  6
+S  C  8
+E NT  3
+E  S  2
+E  H  5
+E  D  6
+E  C  3
+W NT  3
+W  S  2
+W  H  6
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 28,2,0,70,29,133,22,397,33,147,34,661,46,197,23,289,35,168,30,115,20,20,699,66,17,19,21,17,12,706,116,15,26,42,23,16,10,28,25,17,9,26,11,22,26,44,118,38,10,69,14,25,9,60,20,25,14,18
+[Auction "S"]
+Pass Pass 1S Pass 
+2C =1= Pass 3C Pass 
+3S Pass 4NT Pass 
+5C =2= Pass 6S Pass 
+Pass Pass 
+[Note "1: rev drury"]
+[Note "2: 1/4"]
+[Play "E"]
+DK DA D2 D8 
+C2 CK CA C4 
+SJ S2 S8 SA 
+H5 H6 H3 HA 
+C3 CT C5 CQ 
+C6 S4 C8 C7 
+H2 HJ HK S3 
+D3 SQ CJ C9 
+HQ HT H4 DT 
+DQ -  -  -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "28"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8732.A9.Q92.Q865 A954.JT65.K54.K4 KQT.Q432.JT.JT92 J6.K87.A8763.A73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4543645436979a7979a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  4
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  9
+E  S  7
+E  H  9
+E  D 10
+E  C  7
+W NT  9
+W  S  7
+W  H  9
+W  D 10
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 9,1,3,204,104,53,25,38,37,58,20,79,36,106,94,21,26,134,430,15,26,295,43,94,18,342,57,13,20,55,26,12,41,76,19,23,14,186,15,116,37,101,149,12,15
+[Auction "W"]
+1NT =1= Pass 2C Pass 
+2D Pass 2NT Pass 
+Pass Pass 
+[Note "1: 12 14"]
+[Play "N"]
+S7 S4 SQ S6 
+C8 C4 CJ C3 
+HA H5 H2 H7 
+S2 S5 SK SJ 
+C5 CK C2 C7 
+H9 HJ H3 H8 
+D2 D4 DJ D3 
+D9 D5 DT DA 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "28"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8732.A9.Q92.Q865 A954.JT65.K54.K4 KQT.Q432.JT.JT92 J6.K87.A8763.A73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4543645436979a7979a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  4
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  9
+E  S  7
+E  H  9
+E  D 10
+E  C  7
+W NT  9
+W  S  7
+W  H  9
+W  D 10
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 9,2,0,152,41,94,68,136,173,24,33,22,174,112,113,25,21,165,391,44,13,85,26,23,9,16,19,18,72,50,29,21,11,41,22,13,11,95,16,14,31,62,20,110,302,26,211,712,83,215,20,96,35,75,83,30,17,14,23,55,10,16,14,13,8
+[Auction "W"]
+1NT =1= Pass 2C =2= Pass 
+2D =3= Pass 2NT Pass 
+Pass Pass 
+[Note "1: 12-14 pts"]
+[Note "2: stayman"]
+[Note "3: No 4 card major"]
+[Play "N"]
+S8 S4 SQ S6 
+C6 C4 CJ C3 
+C5 CK C2 C7 
+D2 D4 DT D3 
+C8 H5 CT CA 
+D9 DK DJ D6 
+DQ D5 H3 DA 
+S2 H6 H2 D8 
+H9 HT C9 D7 
+S3 SA ST SJ 
+HA HJ HQ HK 
+CQ S5 H4 H7 
+S7 S9 SK H8 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "29"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT2.T7.AJ8732.43 Q75.A2.65.KJT752 K983.K64.KQ9.AQ9 J64.QJ9853.T4.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "cb8c8cb8c81251512515"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H  8
+N  D 12
+N  C  8
+S NT 12
+S  S 11
+S  H  8
+S  D 12
+S  C  8
+E NT  1
+E  S  2
+E  H  5
+E  D  1
+E  C  5
+W NT  1
+W  S  2
+W  H  5
+W  D  1
+W  C  5
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,1,3,114,41,53,64,70,34,20,46,233,60,12,18,11,11,83,7,18,28,7,9,6,17,7,20,10,75,11,14,22,19,7,79,17,10,85,13,15,21,96,104,65,22,18,28,10,21,11,10,28,10,35,63,18,19,6,9,5,24,8,8
+[Auction "N"]
+Pass Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+HQ H7 HA H4 
+H5 HT H2 HK 
+D4 D2 D5 DQ 
+DT D3 D6 DK 
+H3 DA C2 D9 
+H8 DJ C5 C9 
+C6 D7 C7 S3 
+C8 D8 CJ S8 
+S4 S2 S7 SK 
+S6 SA S5 S9 
+SJ C3 CT CQ 
+H9 C4 CK CA 
+HJ ST SQ H6 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "29"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT2.T7.AJ8732.43 Q75.A2.65.KJT752 K983.K64.KQ9.AQ9 J64.QJ9853.T4.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "cb8c8cb8c81251512515"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H  8
+N  D 12
+N  C  8
+S NT 12
+S  S 11
+S  H  8
+S  D 12
+S  C  8
+E NT  1
+E  S  2
+E  H  5
+E  D  1
+E  C  5
+W NT  1
+W  S  2
+W  H  5
+W  D  1
+W  C  5
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 6,2,0,91,26,153,40,288,104,106,83,177,32,83,56,75,388,34,48,14,38,12,24,25,19,16,8,108,21,45,8,29,14,23,7,72,25,18,20,287,21,16,8,28,19,19,14,31,18,16,11,25,9,17,36,32,17,15,9,25,7,16,12,21,9,21,7
+[Auction "N"]
+Pass Pass 1S Pass 
+Pass =1= 2C Pass Pass 
+2D Pass Pass Pass 
+[Note "1: 9-11 3+S"]
+[Play "E"]
+HA H4 H9 H7 
+H2 HK H3 HT 
+D5 DK D4 D2 
+D6 DQ DT DA 
+C7 CQ C8 C4 
+C2 H6 HQ D7 
+CT CA C6 C3 
+CJ D9 H5 DJ 
+C5 S3 H8 D8 
+S5 C9 HJ D3 
+S7 SK S4 S2 
+SQ S8 S6 SA 
+CK S9 SJ ST 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "30"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT976.J875.A8.T4 AKJ85.94.T654.K8 4.AK62.J93.AQJ95 32.QT3.KQ72.7632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "87b6987b694627346273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 11
+N  D  6
+N  C  9
+S NT  8
+S  S  7
+S  H 11
+S  D  6
+S  C  9
+E NT  4
+E  S  6
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,69,34,251,216,27,32,39,32,21,17,90,40,11,39,46,19,38,1714,45,14,29,115,12,12,24,18,25,16,10,17,18,12,10,54,15,15,10,28,17,14,27,12,83
+[Auction "E"]
+1S X 1NT 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+SK S4 S2 S7 
+D4 D3 DQ DA 
+C8 C5 C2 CT 
+CK CA C3 C4 
+H4 HA H3 H5 
+H9 HK HT H7 
+D6 CQ C6 D8 
+S5 CJ C7 S6 
+-  C9 S3 -  
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "30"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT976.J875.A8.T4 AKJ85.94.T654.K8 4.AK62.J93.AQJ95 32.QT3.KQ72.7632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "87b6987b694627346273"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 11
+N  D  6
+N  C  9
+S NT  8
+S  S  7
+S  H 11
+S  D  6
+S  C  9
+E NT  4
+E  S  6
+E  H  2
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  2
+W  D  7
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,0,83,148,71,168,21,230,36,69,13,20,75,15,20,588,50,24,20,834,36,20,17,123,27,9,18,17,22,14,8,29,8,15,10,26,7,19,13,34,13,15,16,29,23,23,9,21,46,21,9,16,15,15,84,26,16,27,8,21,7,21,9
+[Auction "E"]
+1S X 1NT 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+SK S4 S3 S7 
+H4 HA H3 H5 
+CK C5 C6 CT 
+D6 D3 DQ DA 
+H9 HK HT H7 
+C8 CA C2 C4 
+S5 CQ C3 D8 
+S8 CJ C7 S6 
+D4 C9 D2 S9 
+D5 D9 D7 H8 
+SJ H2 S2 ST 
+DT DJ DK HJ 
+SA H6 HQ SQ 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "31"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.Q74.AT87.J84 A873.865.QJ43.K7 Q965.A32.K962.AT T4.KJT9.5.Q96532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "99696996964464744647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D  9
+N  C  6
+S NT  9
+S  S  9
+S  H  6
+S  D  9
+S  C  6
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  7
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,1,3,106,52,151,51,41,44,32,140,75,166,37,164,254,30,28,89,24,31,31,32,93,27,21,10,385,47,18,12,264,25,9,74,238,24,14,33,34,16,13,28,39,23,36,14,215,37,14,12,85,14,9,36,16,12,12,12,11,13,10,7
+[Auction "S"]
+1C =1= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: maybe 2"]
+[Play "E"]
+D3 D2 D5 D8 
+DJ DK C2 D7 
+SA S5 S4 SK 
+CK CA C3 C4 
+S3 S6 ST SJ 
+C7 CT CQ C8 
+S7 D6 C5 CJ 
+S8 SQ H9 S2 
+H6 S9 HT H4 
+D4 D9 C6 DA 
+H5 HA HJ H7 
+H8 H2 HK HQ 
+DQ H3 C9 DT 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "31"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ2.Q74.AT87.J84 A873.865.QJ43.K7 Q965.A32.K962.AT T4.KJT9.5.Q96532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "99696996964464744647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D  9
+N  C  6
+S NT  9
+S  S  9
+S  H  6
+S  D  9
+S  C  6
+E NT  4
+E  S  4
+E  H  6
+E  D  4
+E  C  7
+W NT  4
+W  S  4
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,2,0,149,39,76,18,51,21,182,261,9,26,880,49,29,9,281,18,26,9,10,25,83,16,141,25,8,181,762,48,8,17,86,27,16,42,38,40,144,8,35,29,21,16,33,19,17,8,21,13,21,11,15,13,11,6,14,9,9,7
+[Auction "S"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+C5 C4 CK CA 
+HJ HQ H5 H2 
+S4 SJ SA S5 
+CQ C8 C7 CT 
+HK H4 H6 H3 
+ST SK S3 S6 
+C6 S2 S7 SQ 
+C2 H7 S8 S9 
+D5 DA D3 D2 
+C3 CJ D4 D6 
+C9 D7 DJ DK 
+H9 D8 H8 HA 
+HT DT DQ D9 
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "32"]
+[West "Ian Johns#406067"]
+[North "Kay Preddy#032117"]
+[East "David Waxman#20349"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:86.6542.9542.874 K97.AQJ7.7.KQJ96 AT532.9.QT3.T532 QJ4.KT83.AKJ86.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1311013110cacbccacbc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  1
+N  C  0
+S NT  1
+S  S  3
+S  H  1
+S  D  1
+S  C  0
+E NT 12
+E  S 10
+E  H 12
+E  D 11
+E  C 12
+W NT 12
+W  S 10
+W  H 12
+W  D 11
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 27,1,3,132,39,53,35,142,35,183,28,245,42,60,17,34,30,62,106,28,40,209,40,42,17,54,12,15,11
+[Auction "W"]
+1D Pass 2C Pass 
+2H Pass 4NT =1= Pass 
+5D =2= Pass 6H Pass 
+Pass Pass 
+[Note "1: RKCB"]
+[Note "2: 0 or 3 KC"]
+[Play "N"]
+S8 S7 SA S4 
+C4 C6 C2 CA 
+H2 HA H9 H3 
+*
+
+[Event "Match Soper vs Haines"]
+[Site "RealBridge"]
+[Date "2023.11.25"]
+[Board "32"]
+[West "Gerald Soper#32094"]
+[North "Dennis Haines#510544"]
+[East "Colin Wilson#93813"]
+[South "Ian Cook#0092002"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:86.6542.9542.874 K97.AQJ7.7.KQJ96 AT532.9.QT3.T532 QJ4.KT83.AKJ86.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Haines team"]
+[VisitTeam "Soper team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1311013110cacbccacbc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  1
+N  C  0
+S NT  1
+S  S  3
+S  H  1
+S  D  1
+S  C  0
+E NT 12
+E  S 10
+E  H 12
+E  D 11
+E  C 12
+W NT 12
+W  S 10
+W  H 12
+W  D 11
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 27,2,0,105,34,27,72,181,69,23,80,371,62,68,28,762,56,39,46,22,44,13,37,656,34,78,14,319,16,34,8,21,26,14,22,93,23,9,20,18,27,8,35,15,29,7,42,8,200,10,17,18,32,9,13,9,25,9,18,26,24,10,8
+[Auction "W"]
+1D Pass 2C Pass 
+2NT =1= Pass 3H Pass 
+4D =2= Pass 4S Pass 
+5C =3= Pass 6C Pass 
+6H Pass Pass Pass 
+[Note "1: forcing 15-19"]
+[Note "2: cue & max"]
+[Note "3: cue"]
+[Play "S"]
+SA S4 S8 S7 
+C2 CA C4 C6 
+H9 H3 H2 HJ 
+C3 HT C7 C9 
+S3 HK H4 H7 
+S2 H8 H5 HQ 
+C5 D6 H6 HA 
+CT D8 C8 CK 
+S5 DJ D2 CQ 
+ST SJ S6 SK 
+*

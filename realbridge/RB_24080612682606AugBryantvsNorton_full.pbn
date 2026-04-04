@@ -1,0 +1,3118 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "1"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ6.QT8.843.T754 72.AJ.JT5.AQJ862 Q53.9753.AKQ62.9 AT984.K642.97.K3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "34673346628865a8865a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  7
+N  C  3
+S NT  3
+S  S  4
+S  H  6
+S  D  6
+S  C  2
+E NT  8
+E  S  8
+E  H  6
+E  D  5
+E  C 10
+W NT  8
+W  S  8
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,92,28,456,90,351,97,51,221,43,60,38,64,34,95,40,43,27,73,53,61,24,69,11,14,9,36,8,8,7,48
+[Auction "N"]
+Pass 1C 2D X 
+Pass 3C Pass 3D 
+Pass 3H Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+DK D7 D3 D5 
+DA D9 D4 DJ 
+DQ S4 D8 DT 
+D6 -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "1"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KJ6.QT8.843.T754 72.AJ.JT5.AQJ862 Q53.9753.AKQ62.9 AT984.K642.97.K3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "34673346628865a8865a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  7
+N  C  3
+S NT  3
+S  S  4
+S  H  6
+S  D  6
+S  C  2
+E NT  8
+E  S  8
+E  H  6
+E  D  5
+E  C 10
+W NT  8
+W  S  8
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,2,1,112,553,161,314,250,124,39,280,29,65,609,23,72,88,11,15,28,24,16,13,14,44,23,14,50,25,12,9,15,26,11,15,18,28,13,13,93,31,12,9,128
+[Auction "N"]
+Pass 2C =1= 2D X =2= 
+3D Pass Pass Pass 
+[Note "1: 11-15, 6+C"]
+[Note "2: Relay, INV+"]
+[Play "W"]
+CK C4 C2 C9 
+H2 HT HJ H5 
+H4 H8 HA H7 
+C3 C5 CA D2 
+D7 D3 D5 DA 
+D9 D4 DT DK 
+S4 D8 DJ DQ 
+HK HQ C6 H3 
+ST -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "2"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q85.AK95.K762.Q5 KJT7432.87.43.82 A9.J32.AJ.AJT764 6.QT64.QT985.K93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "5"]
+[Score "NS 250"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "c7b9cc7b9c1624116241"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  7
+N  H 11
+N  D  9
+N  C 12
+S NT 12
+S  S  7
+S  H 11
+S  D  9
+S  C 12
+E NT  1
+E  S  6
+E  H  2
+E  D  4
+E  C  1
+W NT  1
+W  S  6
+W  H  2
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 18,2,1,165,98,44,48,206,205,51,18,300,34,18,8,19,27,14,13,149,12,11,23,115,33,15,7,37,23,25,8,94,16,11,9,23,68,16,11,137,39,10,17,19,13,12,14
+[Auction "E"]
+4S Pass Pass Pass 
+[Play "S"]
+DA D5 D2 D4 
+CA C3 C5 C8 
+C7 CK CQ C2 
+SA S6 S5 SK 
+DJ DQ DK D3 
+HJ H4 HK H7 
+H3 H6 HA H8 
+S9 D8 D6 S7 
+H2 HT H5 S2 
+C4 D9 SQ SJ 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "2"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q85.AK95.K762.Q5 KJT7432.87.43.82 A9.J32.AJ.AJT764 6.QT64.QT985.K93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "c7b9cc7b9c1624116241"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  7
+N  H 11
+N  D  9
+N  C 12
+S NT 12
+S  S  7
+S  H 11
+S  D  9
+S  C 12
+E NT  1
+E  S  6
+E  H  2
+E  D  4
+E  C  1
+W NT  1
+W  S  6
+W  H  2
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 25,0,3,158,166,29,492,119,327,24,587,30,152,23,41,15,23,658,110,31,53,20,19,12,51,11,22,21,197,25,7,31,174,30,23,11,724,19,27,9,766,24,468,16,192,19,30,72,231,15,26,17,167,17,592,22,17,10,12,18
+[Auction "E"]
+3S 3NT Pass 4NT 
+Pass 5C Pass 5D 
+Pass 6C Pass Pass 
+Pass 
+[Play "W"]
+S6 S5 ST SA 
+H4 HA H7 H3 
+CK CQ C2 C4 
+C3 C5 C8 CJ 
+C9 S8 S7 CA 
+D5 SQ S2 CT 
+D8 D2 S3 C7 
+HQ HK H8 HJ 
+D9 D6 D3 DA 
+H6 D7 S4 C6 
+HT H5 SK H2 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "3"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:42.AQJ3.J92.T976 87.T4.AQT853.AJ4 KQT653.986.K4.K3 AJ9.K752.76.Q852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "58756587567468774687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  7
+N  D  5
+N  C  6
+S NT  5
+S  S  8
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  4
+E  H  6
+E  D  8
+E  C  7
+W NT  7
+W  S  4
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,151,41,120,103,50,103,55,560,33,24,41,89,344,19,46,35,20,24,29,168,35,24,27,112,443,25,20,91,38,40,26,15,12,13,15,26,9,35,14,85,13,30,20,35,11,47,42,21,24,66,14,30,37,13,13,16,18,14,8,13,16,13,7
+[Auction "S"]
+1S Pass 1NT =1= 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: semi f"]
+[Play "N"]
+HQ H4 H9 HK 
+D2 DT DK D6 
+HJ HT H8 H2 
+CT CJ CK C5 
+C7 CA C3 C2 
+D9 DA D4 D7 
+DJ DQ S3 H5 
+S4 D8 S5 SJ 
+H3 D5 SK H7 
+S2 D3 S6 C8 
+C6 C4 H6 CQ 
+C9 S7 ST SA 
+HA S8 SQ S9 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "3"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:42.AQJ3.J92.T976 87.T4.AQT853.AJ4 KQT653.986.K4.K3 AJ9.K752.76.Q852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "58756587567468774687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  7
+N  D  5
+N  C  6
+S NT  5
+S  S  8
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  4
+E  H  6
+E  D  8
+E  C  7
+W NT  7
+W  S  4
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,81,40,190,36,124,114,57,21,36,14,48,42,200,19,15,117,20,14,67,28,18,11,7,25,26,17,57,45,26,16,7,107,25,8,8,63,28,8,11,465,28,69,16,21,95,7,25,39,15,11,20
+[Auction "S"]
+1S Pass Pass 2D 
+2S X Pass 3D 
+Pass Pass Pass 
+[Play "S"]
+SK SA S4 S7 
+DK D6 D9 DT 
+SQ S9 S2 S8 
+S5 SJ DJ DQ 
+D4 D7 D2 DA 
+C3 C2 C7 CA 
+CK C5 C6 CJ 
+H9 HK HJ H4 
+S6 CQ CT C4 
+S3 C8 C9 D3 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "4"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK64.A6.AK7.T532 Q5.Q52.8542.AQ97 JT98.K83.Q96.864 732.JT974.JT3.KJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a7899a7894365443654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  3
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  3
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 13,2,1,125,67,35,145,45,180,64,177,39,290,50,146,130,26,11,27,30,11,25,157,28,11,28,10,28,15,13,216,19,26,13,26,17,24,12,31,44
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 3D =1= Pass 3S 
+Pass Pass Pass 
+[Note "1: 18/19 bal 4♠"]
+[Play "W"]
+HJ HA H5 H3 
+S2 SA S5 S8 
+H4 H6 H2 HK 
+S3 S4 SQ SJ 
+CJ C2 C7 C4 
+CK C3 C9 C6 
+S7 SK -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "4"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK64.A6.AK7.T532 Q5.Q52.8542.AQ97 JT98.K83.Q96.864 732.JT974.JT3.KJ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a7899a7894365443654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  3
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  3
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 4,0,3,53,255,38,103,51,142,26,165,27,20,242,44,36,22,26,14,13,606
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1NT =3= Pass Pass 
+Pass 
+[Note "1: any 16ish +"]
+[Note "2: neg"]
+[Note "3: 16-18"]
+[Play "E"]
+D5 DQ D3 D7 
+SQ SJ S7 S4 
+D2 -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "5"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T643.QJ986.A5.Q4 98.A74.J76.AJ532 AJ72.KT53.Q84.T7 KQ5.2.KT932.K986"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "3772237722766bb766bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  7
+N  D  2
+N  C  2
+S NT  3
+S  S  7
+S  H  7
+S  D  2
+S  C  2
+E NT  7
+E  S  6
+E  H  6
+E  D 11
+E  C 11
+W NT  7
+W  S  6
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 4,2,1,57,130,132,50,210,114,251,25,18,35,20,42,159,22,34,15,193,348,20,37,56,18,144,15,103,15,255,15,58,379,34,11,34,10,34,10,27,36,22,15,10,33,11,17,11,22,37,9,12,10,15,13,13,11,10,9,12
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 10-12"]
+[Play "S"]
+H3 H2 HJ H4 
+H5 D2 H8 H7 
+HK C6 H6 HA 
+D4 DT DA D6 
+HT C8 HQ C2 
+S2 S5 H9 C3 
+SA SQ S3 S8 
+S7 SK S4 S9 
+C7 CK C4 C5 
+CT C9 CQ CA 
+SJ D3 S6 CJ 
+D8 D9 D5 D7 
+DQ DK ST DJ 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "5"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T643.QJ986.A5.Q4 98.A74.J76.AJ532 AJ72.KT53.Q84.T7 KQ5.2.KT932.K986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "3772237722766bb766bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  7
+N  D  2
+N  C  2
+S NT  3
+S  S  7
+S  H  7
+S  D  2
+S  C  2
+E NT  7
+E  S  6
+E  H  6
+E  D 11
+E  C 11
+W NT  7
+W  S  6
+W  H  6
+W  D 11
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 10,0,3,71,89,171,111,75,35,39,22,44,62,54,22,39,12,26,59,391,24,9,11,63,14,31,40,33,16,9,23,30,10,17,38,13,14,13,55,26,228,41
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1NT Pass 2C 
+Pass 2H =1= Pass 3C 
+Pass Pass Pass 
+[Note "1: good raise"]
+[Play "N"]
+HQ HA H5 H2 
+S6 S8 SA S5 
+H9 H4 HK C6 
+C4 C2 C7 CK 
+CQ CA CT C9 
+DA DJ D4 D2 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "6"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ76.KQT6.Q63.75 84.J8542.AK942.8 T52.73.JT85.JT32 AK93.A9.7.AKQ964"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3223232232a9baaaabaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  2
+N  D  3
+N  C  2
+S NT  3
+S  S  2
+S  H  2
+S  D  3
+S  C  2
+E NT 10
+E  S  9
+E  H 11
+E  D 10
+E  C 10
+W NT 10
+W  S 10
+W  H 11
+W  D 10
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,2,1,85,74,149,199,54,56,296,41,184,62,121,31,134,51,192,156,262,108,295,40,36,30,116,171,13,19,36,35,13,9,44,16,17,8,21,47,41,11,35,16,23,37,321,32,22,19,22,55,20,12,49
+[Auction "E"]
+Pass Pass 1C =1= Pass 
+1H Pass 1S =2= Pass 
+2D =3= Pass 2H =4= Pass 
+2S =5= Pass 2NT =6= Pass 
+3H =7= Pass 3NT Pass 
+Pass Pass 
+[Note "1: any (15)16+"]
+[Note "2: Relay"]
+[Note "3: 5+H, 4+D"]
+[Note "4: Relay"]
+[Note "5: 5+H,5+D"]
+[Note "6: Relay"]
+[Note "7: 2551"]
+[Play "N"]
+HK H2 H3 HA 
+C5 C8 C2 CA 
+C7 D2 C3 CK 
+D3 D4 CT CQ 
+D6 H4 CJ C4 
+S6 S4 ST SA 
+HQ H5 H7 H9 
+SQ -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "6"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ76.KQT6.Q63.75 84.J8542.AK942.8 T52.73.JT85.JT32 AK93.A9.7.AKQ964"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3223232232a9baaaabaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  2
+N  D  3
+N  C  2
+S NT  3
+S  S  2
+S  H  2
+S  D  3
+S  C  2
+E NT 10
+E  S  9
+E  H 11
+E  D 10
+E  C 10
+W NT 10
+W  S 10
+W  H 11
+W  D 10
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,132,57,257,74,111,38,83,30,12,24,35,182,37,15,28,50,9,29,12,45,14,23,13,196,11,13,13,152,37,21,23,55,49,9,23,504,11,72,12,184,36,160,36,37,10
+[Auction "E"]
+2H =1= Pass 2NT =2= Pass 
+3D =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: ♡ + m"]
+[Note "2:  * asking [0:04]"]
+[Note "3: min wit ♢ "]
+[Play "N"]
+SQ S4 S5 SA 
+C5 C8 C3 CA 
+C7 H2 C2 CK 
+H6 D2 CT CQ 
+HT D4 CJ C9 
+S6 S8 ST SK 
+S7 H4 D5 C4 
+D3 D9 S2 C6 
+SJ H5 -  S3 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "7"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:982.875.853.Q764 A5.Q42.KT76.T532 J643.T3.A942.K98 KQT7.AKJ96.QJ.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1111311113aabaabbbba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  1
+N  C  3
+S NT  1
+S  S  1
+S  H  1
+S  D  1
+S  C  3
+E NT 10
+E  S 10
+E  H 11
+E  D 10
+E  C 10
+W NT 11
+W  S 11
+W  H 11
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,80,90,46,27,30,12,209,191
+[Auction "S"]
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H7 -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "7"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:982.875.853.Q764 A5.Q42.KT76.T532 J643.T3.A942.K98 KQT7.AKJ96.QJ.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1111311113aabaabbbba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  1
+N  C  3
+S NT  1
+S  S  1
+S  H  1
+S  D  1
+S  C  3
+E NT 10
+E  S 10
+E  H 11
+E  D 10
+E  C 10
+W NT 11
+W  S 11
+W  H 11
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 17,2,1,67,141,65,128,70,109,26,217,135,120,56,133,89,700,89,791,43,116,176,242,38,88,32,15,9,26,13,14,22,22,61,13,19,38,26,17,25,210,33,43,11,34,16,15,28,34,21,12,13,18,16,20,14,23,14,16,8,23,26,29,9,26,23,11,8,10,17,14,8
+[Auction "S"]
+Pass 1C =1= Pass 2D =2= 
+Pass 2H =3= Pass 2NT =4= 
+Pass 3C =5= Pass 3S =6= 
+Pass 4H =7= Pass Pass 
+Pass 
+[Note "1: any (15)16+"]
+[Note "2: 9-11, bal"]
+[Note "3: Relay"]
+[Note "4: 44 same rank CD or HS"]
+[Note "5: Relay"]
+[Note "6: dblton spade * so 2344 [0:16]"]
+[Note "7: Mild slam try"]
+[Play "N"]
+D3 D6 D9 DQ 
+H5 H2 H3 HA 
+H7 HQ HT H6 
+H8 H4 S6 HK 
+D5 D7 D2 DJ 
+D8 C2 D4 HJ 
+C4 C3 C8 H9 
+S2 SA S3 S7 
+S9 S5 S4 SK 
+S8 DT SJ SQ 
+C6 DK DA ST 
+C7 C5 C9 CA 
+CQ CT CK CJ 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "8"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJT.KJ76.A982.J8 AK9632.432.76.Q2 854.AQ98.QJ.K753 7.T5.KT543.AT964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "86866868665746657467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  6
+N  C  6
+S NT  8
+S  S  6
+S  H  8
+S  D  6
+S  C  6
+E NT  5
+E  S  7
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 12,0,3,37,323,55,263,58,239,21,137,40,42,19,48,15,27,13,29,174,17,26,354,21,10,21,104,25,23,14,63,378,12,26,293,202,41,15,285,16,20,16,16,19,12,13,124,44,19,178,48,19,15,11
+[Auction "W"]
+Pass 1NT =1= 2S X 
+Pass 2NT =2= Pass 3C 
+Pass 3D Pass 3H 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: 2 places"]
+[Play "W"]
+S7 ST SK S4 
+D3 SJ SA S5 
+H5 SQ S3 S8 
+HT H6 H2 HQ 
+DK DA D6 DJ 
+CA C8 C2 CK 
+C4 CJ CQ C3 
+C6 H7 H3 H9 
+D4 D2 D7 DQ 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "8"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJT.KJ76.A982.J8 AK9632.432.76.Q2 854.AQ98.QJ.K753 7.T5.KT543.AT964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "86866868665746657467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  6
+N  C  6
+S NT  8
+S  S  6
+S  H  8
+S  D  6
+S  C  6
+E NT  5
+E  S  7
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 17,2,1,130,80,68,82,40,46,27,219,33,21,49,217,59,27,15,25,18,74,14,107,19,16,17,30,20,10,11,24,22,13,18,29,18,32,16,16,18,23,30,264,21,13,14,17,19,13,27,12,18,11,26,13,41,20,15,17,14
+[Auction "W"]
+Pass 1D 2S X 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+SK S4 S7 SJ 
+SA S5 C9 SQ 
+S6 S8 HT ST 
+C2 C3 CA C8 
+D6 DJ DT D2 
+H2 H8 H5 HK 
+H3 HQ D3 H6 
+CQ CK C4 CJ 
+D7 C5 C6 HJ 
+H4 HA D4 H7 
+S2 H9 D5 D8 
+-  DQ DK -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "9"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.743.A9.AJT83 Q6.AQ82.KQ75.K97 KJ9.KJT9.T82.Q52 75432.65.J643.64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "8795a8795a5536355363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  5
+N  C 10
+S NT  8
+S  S  7
+S  H  9
+S  D  5
+S  C 10
+E NT  5
+E  S  5
+E  H  3
+E  D  6
+E  C  3
+W NT  5
+W  S  5
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 6,0,3,228,88,326,130,296,42,97,59,203,12,323,139,335,71,11,107,25,129,25,52,57,19,9,54,30,10,31,31,72,66,9,59,54,15,19,389,43,7,14,67,20,15,9
+[Auction "N"]
+1D =1= 1NT X XX =2= 
+Pass 2C =3= Pass 2D =4= 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: clubs, or two suits without clubs"]
+[Note "3:  * forced [0:17]"]
+[Note "4: diamonds and a major"]
+[Play "N"]
+H4 H2 HT H5 
+DA D7 D8 D3 
+D9 DK D2 D4 
+S8 SQ SK S2 
+C3 D5 DT DJ 
+CT CK C2 C4 
+H7 HA HJ H6 
+H3 H8 H9 D6 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "9"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.743.A9.AJT83 Q6.AQ82.KQ75.K97 KJ9.KJT9.T82.Q52 75432.65.J643.64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "8795a8795a5536355363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  5
+N  C 10
+S NT  8
+S  S  7
+S  H  9
+S  D  5
+S  C 10
+E NT  5
+E  S  5
+E  H  3
+E  D  6
+E  C  3
+W NT  5
+W  S  5
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,105,58,76,30,91,24,337,96,143,20,22,22,288,18,25,61,33,27,23,27,13,35,13,16,26,10,20,61,27,25,40,122,29,33,19,59,20,9,13,11,24,15,28,74,12,14,15,15,19,9,15,10,15,13,7,8,12,11,11
+[Auction "N"]
+1C 1NT X 2S 
+Pass Pass Pass 
+[Play "N"]
+H3 HQ HK H5 
+H4 HA HJ H6 
+D9 DK D8 D6 
+DA D5 D2 DJ 
+H7 H2 H9 S2 
+S8 SQ SK S3 
+ST H8 HT S7 
+CA C7 C2 C4 
+C3 CK C5 C6 
+SA DQ DT D3 
+CJ C9 CQ S4 
+C8 D7 S9 D4 
+CT S6 SJ S5 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "10"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:54.KQT73.954.A73 JT93.A864.87.T85 8762.J95.Q32.K96 AKQ.2.AKJT6.QJ42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "32622326229b7ba9b7ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  6
+N  D  2
+N  C  2
+S NT  3
+S  S  2
+S  H  6
+S  D  2
+S  C  2
+E NT  9
+E  S 11
+E  H  7
+E  D 11
+E  C 10
+W NT  9
+W  S 11
+W  H  7
+W  D 11
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,166,31,37,111,52,100,132,58,26,45,30,28,18,26,18,20,66,396,14,186,11,30,16,91,13,14,9,17,14,48,31,16,53,197,11,29,57,27,16,27,12,226,17,10,12,13,14,10,19,12,6,18,11,13,9,14,27,18,19,7,12,5,11,3,12,3,9,12
+[Auction "E"]
+Pass Pass 1D 1H 
+X =1= Pass 2H Pass 
+3D Pass 3H Pass 
+3NT Pass Pass Pass 
+[Note "1: 4♠"]
+[Play "S"]
+H5 H2 HQ HA 
+D3 DJ D4 D8 
+D2 DA D5 D7 
+DQ DK D9 C5 
+C9 DT S4 C8 
+S6 D6 S5 S3 
+S2 SA C3 S9 
+S7 SQ C7 ST 
+S8 SK H3 SJ 
+C6 C2 CA CT 
+H9 C4 H7 H8 
+CK CJ HT H4 
+HJ CQ HK H6 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "10"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:54.KQT73.954.A73 JT93.A864.87.T85 8762.J95.Q32.K96 AKQ.2.AKJT6.QJ42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "32622326229b7ba9b7ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  6
+N  D  2
+N  C  2
+S NT  3
+S  S  2
+S  H  6
+S  D  2
+S  C  2
+E NT  9
+E  S 11
+E  H  7
+E  D 11
+E  C 10
+W NT  9
+W  S 11
+W  H  7
+W  D 11
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,120,34,65,90,130,168,236,102,358,27,51,23,18,23,70,222,11,54,1158,157,22,25,65,68,16,12,22,19,13,12,22,30,10,23,971,41,9,13,242,15,19,13,30,14,18,131,81,13,14,11,60,13,8,11,63,16,43,14,11,20,11,7,18,8,10,172
+[Auction "E"]
+Pass Pass 1C =1= 1D =2= 
+X =3= 2H X =4= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Note "2: h"]
+[Note "3: any 0-5"]
+[Note "4: T/O"]
+[Play "S"]
+H5 H2 HQ HA 
+CK C2 C7 CT 
+S2 SQ S4 S3 
+C6 CQ CA C5 
+S6 SK S5 S9 
+S7 SA H3 ST 
+C9 CJ C3 C8 
+H9 C4 D9 H4 
+D2 DA D5 D7 
+D3 DK D4 D8 
+DQ DT H7 H6 
+HJ D6 HK H8 
+S8 DJ HT SJ 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "11"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK843.Q72.K532.Q 2.K9853.J9764.A7 T9765.AJT6..8532 QJ.4.AQT8.KJT964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "6c8346c8344159941598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  8
+N  D  3
+N  C  4
+S NT  6
+S  S 12
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  1
+E  H  5
+E  D  9
+E  C  9
+W NT  4
+W  S  1
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 18,0,3,64,65,101,80,233,58,48,76,56,1084,16,14,28,11,22,11,22,47,15,8,35,30,25,8,29,9,27,18,21,9,22,10,45,89,17,12,23,34,15,7,223,37,8,21,33,10,16,7,15,8,10,4,11,8,11
+[Auction "S"]
+Pass 1C =1= 1S 2H =2= 
+4S Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: nf"]
+[Play "E"]
+D4 S5 D8 D5 
+S2 S6 SJ SK 
+H5 S9 SQ SA 
+HK HA H4 HQ 
+H3 HJ C4 H2 
+H9 HT C6 H7 
+H8 H6 C9 S3 
+CA C2 CT CQ 
+C7 C3 CJ S4 
+D6 S7 DT D2 
+D7 C5 CK S8 
+D9 ST -  D3 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "11"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK843.Q72.K532.Q 2.K9853.J9764.A7 T9765.AJT6..8532 QJ.4.AQT8.KJT964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "6c8346c8344159941598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  8
+N  D  3
+N  C  4
+S NT  6
+S  S 12
+S  H  8
+S  D  3
+S  C  4
+E NT  4
+E  S  1
+E  H  5
+E  D  9
+E  C  9
+W NT  4
+W  S  1
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 23,2,1,83,153,86,143,91,282,54,100,43,90,37,69,199,49,98,13,806,98,56,14,14,18,11,11,33,54,14,14,148,18,15,27,34,33,26,19,200,22,19,17
+[Auction "S"]
+Pass 2C =1= 2S X =2= 
+4S 4NT =3= Pass 5D 
+5S Pass Pass Pass 
+[Note "1: 6+♣, 11-15"]
+[Note "2:  * TO [0:09]"]
+[Note "3: 6♣, 4♢"]
+[Play "E"]
+CA C2 C9 CQ 
+C7 C3 CT S3 
+S2 S5 SJ SA 
+D6 ST SQ SK 
+D4 S6 D8 D2 
+H3 C5 C6 S4 
+H5 HA H4 H2 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "12"]
+[West "Ben Norton#460823"]
+[North "Roger Bryant#73720"]
+[East "Stefano Tommasini#492503"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T52.8.AT53.Q8762 J73.JT432.J62.JT AK8.AKQ7.7.K9543 Q964.965.KQ984.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 1370"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "a887c8887c3556135561"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  7
+N  C 12
+S NT  8
+S  S  8
+S  H  8
+S  D  7
+S  C 12
+E NT  3
+E  S  5
+E  H  5
+E  D  6
+E  C  1
+W NT  3
+W  S  5
+W  H  5
+W  D  6
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 25,0,3,54,42,82,363,67,933,38,946,71,515,31,100,17,32,62,18,313,41,31,85,24,19,11,287,26,23,23,19,15,22,6
+[Auction "W"]
+1D Pass 1H 2C 
+X =1= 3D =2= Pass 4NT =3= 
+Pass 5D =4= Pass 6C 
+Pass Pass Pass 
+[Note "1: 3H"]
+[Note "2: raise to 4♣, with something in♢ "]
+[Note "3: RKCB"]
+[Note "4: 1 of 5"]
+[Play "W"]
+DK DA D6 D7 
+CA C2 CT CK 
+D9 D3 D2 C4 
+D4 CQ CJ C5 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "12"]
+[West "Rob Helle#"]
+[North "João Paulo Campos#"]
+[East "Edward Hoogenkamp#411941"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T52.8.AT53.Q8762 J73.JT432.J62.JT AK8.AKQ7.7.K9543 Q964.965.KQ984.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "a887c8887c3556135561"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  7
+N  C 12
+S NT  8
+S  S  8
+S  H  8
+S  D  7
+S  C 12
+E NT  3
+E  S  5
+E  H  5
+E  D  6
+E  C  1
+W NT  3
+W  S  5
+W  H  5
+W  D  6
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 7,2,1,279,136,315,93,251,305,82,319,59,188,26,32,413,33,16,31,143,44,88,20,26,33,12,28,58,25,12,15,233,30,23,22,78,30,14,13,16,25,12,12,11
+[Auction "W"]
+1D =1= Pass 2D =2= X 
+2H =3= Pass Pass Pass 
+[Note "1: 12+-15 BAL 2-5♢ OR 11-15 (3)4+♢ UNBAL"]
+[Note "2: weak M or inv+mm"]
+[Note "3:  * P/C opposite weak 2 [0:42]"]
+[Play "N"]
+H8 H2 HQ H6 
+C6 H3 HK H5 
+DA D2 D7 D9 
+D3 D6 H7 D4 
+ST S3 SA S4 
+C2 CT C3 CA 
+D5 DJ HA D8 
+S2 S7 SK S6 
+-  -  CK -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "13"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ6.J42.J85.KT86 K9.QT9763.T.9432 JT542.K.Q7642.J5 873.A85.AK93.AQ7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3737437274a6a69a6a69"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  7
+N  C  4
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  4
+E NT 10
+E  S  6
+E  H 10
+E  D  6
+E  C  9
+W NT 10
+W  S  6
+W  H 10
+W  D  6
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 17,2,0,587,149,110,194,45,32,19,79,1129,39,18,172,25,11,22,1495,27,14,13,250,22,9,11,28,23,40,13,26,18,27,14,74,20,20,20,224,15,16,12,21,19,13,12,21,19,10,12,10,17,19,9,43
+[Auction "N"]
+Pass 2H =1= Pass 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+D2 DA D8 DT 
+HK HA H2 H3 
+D4 DK D5 S9 
+C5 CA C6 C2 
+S5 H5 H4 H9 
+S2 H8 HJ HQ 
+CJ CQ CK C3 
+S4 S3 SA SK 
+ST S7 SQ H6 
+D6 C7 CT C9 
+D7 D3 C8 C4 
+-  -  DJ -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "13"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ6.J42.J85.KT86 K9.QT9763.T.9432 JT542.K.Q7642.J5 873.A85.AK93.AQ7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3737437274a6a69a6a69"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  3
+N  D  7
+N  C  4
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  4
+E NT 10
+E  S  6
+E  H 10
+E  D  6
+E  C  9
+W NT 10
+W  S  6
+W  H 10
+W  D  6
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 17,1,3,222,140,81,180,148,27,33,15,17,39,950,43,8,20,21,9,30,1463,34,8,18,589,27,12,26,798,86,37,12,26,23,727,85,493,16,47,6,8,34,12,38,47,25,26,10,13,36,8
+[Auction "N"]
+Pass 2D =1= Pass 4D =2= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: multi"]
+[Note "2: bid your major"]
+[Play "S"]
+D4 DA D8 DT 
+D6 DK D5 S9 
+HK HA H2 H3 
+SJ S3 SA SK 
+S2 H5 H4 H9 
+C5 C7 C8 C2 
+S4 H8 HJ HQ 
+CJ CQ CK C3 
+D7 D3 DJ H6 
+D2 CA -  C4 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "14"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q873.T9.AQ8.QT85 T9542.Q42.J2.932 AK.AJ75.K9643.KJ J6.K863.T75.A764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b9abbb9abb1431114311"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D 11
+N  C 11
+S NT 11
+S  S  9
+S  H 10
+S  D 11
+S  C 11
+E NT  1
+E  S  4
+E  H  3
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  3
+W  D  1
+W  C  1
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,80,43,54,57,39,54,37,124,59,171,33,36,59,118,77,238,18,71,63,14,62,42,20,165,16,29,35,12,55,14,20,13,26,17,18,11,12
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 2H Pass 3D =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: forcing"]
+[Play "W"]
+SJ S3 S2 SA 
+CA C5 C3 CK 
+S6 S7 S5 SK 
+C4 C8 C9 CJ 
+D5 DQ D2 D3 
+D7 DA DJ D4 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "14"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q873.T9.AQ8.QT85 T9542.Q42.J2.932 AK.AJ75.K9643.KJ J6.K863.T75.A764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b9abbb9abb1431114311"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D 11
+N  C 11
+S NT 11
+S  S  9
+S  H 10
+S  D 11
+S  C 11
+E NT  1
+E  S  4
+E  H  3
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  3
+W  D  1
+W  C  1
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,93,253,27,199,60,280,22,40,30,24,125,23,133,28,557,32,66,50,47,6,11
+[Auction "E"]
+Pass 1C =1= Pass 2D =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: any (15)16+"]
+[Note "2: 9-11 bal"]
+[Play "W"]
+H3 H9 HQ HA 
+CA C5 C2 CK 
+HK HT H4 H5 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "15"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T8.QJT3.KJT86.T8 A754.A765..AQ543 KQJ32.K84.75.976 96.92.AQ9432.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "55553555538778987789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,1,3,92,34,54,58,56,112,25,43,33,60,36,39,37,88,40,44,31,13,24,372,389,39,29,13,31,9,71,12,74,18,20,748,33,15,11,15,23,24,13,19,257,10,16,9,65,11,18,9,36,43,225,33,25,8,19,28,17,13,60,46,18,8
+[Auction "S"]
+Pass 1D Pass 2C =1= 
+Pass 2D =2= Pass 2H =3= 
+Pass 2NT =4= Pass 3C =5= 
+Pass 3D =6= Pass 3NT 
+Pass Pass Pass 
+[Note "1: gf relay"]
+[Note "2: minimum, not 4H"]
+[Note "3: ask"]
+[Note "4: no second suit"]
+[Note "5: ask"]
+[Note "6: no shortage"]
+[Play "N"]
+HJ HA H4 H2 
+C8 C3 C6 CK 
+DK S4 D5 DQ 
+CT C4 C7 CJ 
+D6 S5 D7 DA 
+D8 CA C9 C2 
+S8 CQ S3 D2 
+H3 C5 S2 D3 
+HT H5 HK H9 
+ST SA SK S6 
+-  H6 H8 S9 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "15"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T8.QJT3.KJT86.T8 A754.A765..AQ543 KQJ32.K84.75.976 96.92.AQ9432.KJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "55553555538778987789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,0,61,306,63,264,61,213,103,755,33,465,150,338,32,43,32,32,253,16,26,323,58,10,602,390,34,15,31,85,29,83,32,33,24,16,16,18,12,34,12,17,19,20,13,32,18,22,11,15,23,11,21,12,17,9,29,22,13,10,10,9,14,10,7,12,16,10,9
+[Auction "S"]
+Pass 1D =1= Pass 1H =2= 
+1S X =3= Pass 1NT =4= 
+Pass 2S =5= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+♢, <16"]
+[Note "2: artificial, any 10pts +"]
+[Note "3: Any 11-13 unbalanced"]
+[Note "4: asking for suits"]
+[Note "5: 0-2♠, either 1 suited with ♢ or 3 suited"]
+[Play "S"]
+SQ S6 S8 S4 
+SK S9 ST SA 
+SJ D2 D6 S5 
+S3 D3 D8 S7 
+C7 CK C8 C3 
+C6 CJ CT C4 
+D5 DA DT H5 
+C9 C2 DJ CA 
+H4 H2 H3 CQ 
+D7 H9 DK C5 
+H8 D4 HQ HA 
+HK D9 HT H6 
+S2 DQ HJ H7 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "16"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:4.Q952.KQ862.876 KQJT96.J.T43.K43 A8752.876.AJ7.AT 3.AKT43.95.QJ952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75694756946764867648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  4
+S NT  7
+S  S  5
+S  H  6
+S  D  9
+S  C  4
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,1,3,125,43,49,167,46,52,74,100,17,85,56,30,22,25,29,23,9,22,297,51,22,50,135,13,26,9,24,21,14,47,39,45,17,11,72,18,26,18,18,26,6,10,21,31,6,31,18,16,21,8,9,21,5,10,7,21,4,8
+[Auction "W"]
+2H =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: 5H5m 7-11"]
+[Play "S"]
+S2 S3 S4 S6 
+H8 HA H2 HJ 
+H6 HK H5 D3 
+D7 D5 DQ DT 
+DA D9 D6 D4 
+DJ C2 DK S9 
+CA C5 C8 C3 
+H7 H4 H9 ST 
+CT C9 C7 CK 
+SA H3 D2 SJ 
+S5 HT D8 SQ 
+S7 CJ C6 SK 
+S8 CQ HQ C4 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "16"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:4.Q952.KQ862.876 KQJT96.J.T43.K43 A8752.876.AJ7.AT 3.AKT43.95.QJ952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75694756946764867648"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  4
+S NT  7
+S  S  5
+S  H  6
+S  D  9
+S  C  4
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  8
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,2,0,105,48,116,52,34,292,205,167,43,36,155,66,11,34,231,31,9,37,935,31,12,25,8,17,18,13,20,13,29,12,18,22,24,10,827,36,12,10,58,34,19,11,69,18,14,8,13,23,9,12,13,15,60,13,12,24,10,8,8,12,8,7
+[Auction "W"]
+1H Pass 1S =1= Pass 
+2C Pass 2S =2= Pass 
+Pass Pass 
+[Note "1: artificial, any 10pts +"]
+[Note "2: nat, not forcing"]
+[Play "S"]
+CA C2 C8 C4 
+S2 S3 S4 S6 
+H7 HA H2 HJ 
+H6 HK H5 D3 
+H8 H3 H9 S9 
+S5 D5 D2 SJ 
+CT C5 C6 CK 
+S7 CJ C7 C3 
+DA D9 DK D4 
+D7 C9 DQ DT 
+SA H4 HQ ST 
+DJ HT D6 SQ 
+S8 CQ D8 SK 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "17"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJT8.T76.542.543 K7652.J43.JT7.AJ Q4.AK982.AK93.98 93.Q5.Q86.KQT762"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67885678857645876458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  6
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,1,3,79,68,39,89,72,173,69,18,239,53,242,22,9,40,77,19,16,335,25,22,8,166,20,15,7,251,23,19,8,78,23,19,14,93
+[Auction "N"]
+Pass Pass 1C =1= 2C 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: Alerted"]
+[Play "N"]
+C3 CA C8 C6 
+H7 H3 HK H5 
+D5 D7 DA D6 
+D4 DT DK DQ 
+H6 H4 HA HQ 
+SA S2 S4 S9 
+HT -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "17"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJT8.T76.542.543 K7652.J43.JT7.AJ Q4.AK982.AK93.98 93.Q5.Q86.KQT762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67885678857645876458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  6
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,2,0,88,192,278,233,77,120,39,38,34,19,141,29,56,43,43,11,439,149,100,20,91,207,17,134,480,24,18,14,24,23,16,15,28,32,19,12,90,128,18,8,66,24,8,24,286,163,23,12,12
+[Auction "N"]
+Pass 1NT =1= X 3C =2= 
+Pass Pass X Pass 
+3S Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: To Play"]
+[Play "E"]
+CA C8 C2 C4 
+CJ C9 C6 C5 
+D7 DA D6 D5 
+H3 HA H5 H7 
+H4 HK HQ HT 
+DJ DK D8 D4 
+HJ H2 S9 H6 
+DT D3 DQ D2 
+S2 S4 S3 SA 
+-  -  -  C3 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "18"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T832.AQ82.A.AT75 J75.K.QJ863.9642 AK64.J654.K95.J8 Q9.T973.T742.KQ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "aba79aba793236332363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  7
+N  C  9
+S NT 10
+S  S 11
+S  H 10
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  2
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,1,3,217,167,26,154,51,119,20,189,55,137,20,254,41,178,28,1109,103,302,20,44,21,28,21,130,118,13,73,776,62,10,8,21,15,15,32,125,52,14,24,62,17,20,7,258,27,26,11,223,502,37,8,18,22,7,15
+[Auction "E"]
+Pass 1D =1= Pass 1NT =2= 
+Pass 2D =3= Pass 2H =4= 
+Pass 2NT =5= Pass 3C =6= 
+Pass 3NT =7= Pass 4D =8= 
+Pass 4H =9= Pass 4S 
+Pass Pass Pass 
+[Note "1: 12-14 BAL 2-5♢ OR 11-15 (3)4+♢ UNBAL"]
+[Note "2: GF R"]
+[Note "3: 12-14 BAL"]
+[Note "4: R"]
+[Note "5: 4432 MM or mm"]
+[Note "6: R"]
+[Note "7: 4432 (4-4M, 2♣)"]
+[Note "8: forces 4H"]
+[Note "9: mandatory"]
+[Play "E"]
+DQ D5 D2 DA 
+S5 SA S9 S2 
+HK H4 H3 HQ 
+D8 D9 DT S3 
+S7 SK SQ S8 
+C2 CJ CQ CA 
+SJ H5 H7 HA 
+D3 DK D7 H2 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "18"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T832.AQ82.A.AT75 J75.K.QJ863.9642 AK64.J654.K95.J8 Q9.T973.T742.KQ3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "aba79aba793236332363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  7
+N  C  9
+S NT 10
+S  S 11
+S  H 10
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  2
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 28,2,0,298,101,344,159,33,360,38,126,24,31,42,297,122,104,11,249,51,11,22,13,19,13,21,57,34,12,23,13,21,56,12,14,63,17,33,15,32,13,36,204,18,14,32,64,34,18,11
+[Auction "E"]
+3D X 4D X 
+Pass 4S Pass 6S 
+Pass Pass Pass 
+[Play "W"]
+D4 DA D3 D5 
+S9 S2 S5 SA 
+SQ S3 S7 SK 
+H3 HQ HK H4 
+D2 S8 SJ S4 
+D7 C5 DQ DK 
+H9 HA D6 H5 
+CK C7 C2 CJ 
+C3 CT C4 C8 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "19"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:.JT84.Q9543.T876 J765.AQ53.J.AJ54 Q94.K976.T76.K32 AKT832.2.AK82.Q9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS -2210"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1055220552bc78abc779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  5
+N  C  2
+S NT  2
+S  S  0
+S  H  5
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H  7
+E  D  8
+E  C 10
+W NT 11
+W  S 12
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 33,1,3,63,50,49,107,48,75,45,1061,58,220,83,75,31,100,33,40,31,1008,53,11,27,235,326,43,28,154,50,10,38,8,20,19,22,12,21,11,269,320,21,8,29,12,23,16,131,18,68,10,19,18,33,10,53,13,148,19,17,16,10,21,19,18,16,9,27
+[Auction "S"]
+Pass 1S Pass 2C =1= 
+Pass 2S =2= Pass 4D =3= 
+Pass 4NT Pass 5H =4= 
+Pass 5NT =5= Pass 6S 
+Pass 7S Pass Pass 
+Pass 
+[Note "1: gf realy"]
+[Note "2: 4+D, 15+"]
+[Note "3: splinter * shows 4♠ [0:31]"]
+[Note "4: 2 no q"]
+[Note "5: grand slam try"]
+[Play "N"]
+C8 CA C3 C9 
+D3 DJ D6 DA 
+D4 S5 D7 D2 
+C6 S6 S4 SA 
+D5 SJ DT D8 
+D9 S7 S9 ST 
+C7 C4 SQ SK 
+CT C5 C2 S8 
+DQ H3 H6 S3 
+H4 H5 H7 S2 
+H8 CJ CK DK 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "19"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:.JT84.Q9543.T876 J765.AQ53.J.AJ54 Q94.K976.T76.K32 AKT832.2.AK82.Q9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1055220552bc78abc779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  5
+N  D  5
+N  C  2
+S NT  2
+S  S  0
+S  H  5
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H  7
+E  D  8
+E  C 10
+W NT 11
+W  S 12
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 28,2,0,39,132,199,389,70,111,54,166,23,98,83,219,87,142,45,148,35,199,62,235,39,193,70,335,53,622,39,47,18,367,294,40,19,19,42,19,14,748,35,46,35,22,19,30,98,30,77,20,15,54,31,16,34,73,49,15,20,36,14,13,10,33,14,10,31
+[Auction "S"]
+Pass 1C =1= Pass 1H =2= 
+Pass 1S =3= Pass 1NT =4= 
+Pass 2C =5= Pass 2D =6= 
+Pass 2H =7= Pass 2S =8= 
+Pass 2NT =9= Pass 3C =10= 
+Pass 3D =11= Pass 3NT =12= 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: Strong ♣"]
+[Note "2: nat, GF"]
+[Note "3: relay for shape"]
+[Note "4: shows ♠"]
+[Note "5: and again"]
+[Note "6: 3suiter with both Majors"]
+[Note "7: and again"]
+[Note "8: short ♢"]
+[Note "9: one last time..."]
+[Note "10: 4414"]
+[Note "11: How many controls?"]
+[Note "12: AAor AKK"]
+[Play "N"]
+C7 CA C2 C9 
+D4 S5 S4 SA 
+H4 HA H6 H2 
+C6 S6 S9 ST 
+C8 S7 SQ SK 
+CT C4 CK CQ 
+D3 DJ D6 DA 
+D5 SJ D7 D2 
+D9 CJ C3 D8 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "20"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.765.AJT87.JT832 KT52.QJ92.KQ.A76 AJ73.A84.962.Q95 Q9864.KT3.543.K4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -790"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "63488634887a8447a944"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  8
+N  C  8
+S NT  6
+S  S  3
+S  H  4
+S  D  8
+S  C  8
+E NT  7
+E  S 10
+E  H  8
+E  D  4
+E  C  4
+W NT  7
+W  S 10
+W  H  9
+W  D  4
+W  C  4
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,3,39,96,102,36,24,86,15,30,45,95,176,63,130,78,13,34,12,78,27,52,13,31,1255,40,10,15,49,47,43,93,33,94,12,80,30,16,18,11,32,10,24,18,65,14,9,26,34,11,13
+[Auction "W"]
+Pass Pass 1NT Pass 
+2C Pass 2H Pass 
+2S =1= Pass 3S Pass 
+3NT Pass 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: 5S INV"]
+[Play "N"]
+CJ C6 C5 CK 
+D7 SK SA S9 
+C8 CA CQ C4 
+C3 ST SJ SQ 
+H7 HQ HA H3 
+C2 C7 C9 S4 
+DA DQ D9 D3 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "20"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.765.AJT87.JT832 KT52.QJ92.KQ.A76 AJ73.A84.962.Q95 Q9864.KT3.543.K4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "63488634887a8447a944"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  8
+N  C  8
+S NT  6
+S  S  3
+S  H  4
+S  D  8
+S  C  8
+E NT  7
+E  S 10
+E  H  8
+E  D  4
+E  C  4
+W NT  7
+W  S 10
+W  H  9
+W  D  4
+W  C  4
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 4,2,0,60,163,304,50,335,97,59,235,10,176,95,211,25,9,19,51,19,17,249,22,62,18,105,22,23,21,36,22,103,10,171,21,15,12,17,25,12,10,43,25,16,14,12,26,9,15,11,16,8,9,20,13,9,11,9,8,10,10
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 13-15"]
+[Play "S"]
+S3 S4 H7 S5 
+SJ SQ H6 ST 
+SA S6 C8 SK 
+D9 D3 DT DQ 
+S7 S8 H5 S2 
+H4 S9 C2 C6 
+C5 C4 CJ CA 
+C9 CK C3 C7 
+HA H3 D8 HQ 
+CQ D4 CT H2 
+D2 D5 DA DK 
+D6 HT DJ H9 
+H8 HK D7 HJ 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "21"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT7.Q.87.K97654 83.8752.AKJ632.2 Q62.AK63.Q95.T83 J954.JT94.T4.AQJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88669886694456244562"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  6
+N  C  9
+S NT  8
+S  S  8
+S  H  6
+S  D  6
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  6
+E  C  2
+W NT  4
+W  S  4
+W  H  5
+W  D  6
+W  C  2
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,1,3,239,171,101,179,113,15,45,111,294,203,35,23,30,9,285,16,18,9,51,11,13,9,27,14,15,12,26,10,13,5,81,19,17,58,36,148,14,8,92,11,13,8,35,22,4,13,9,16,13,18,10,19,5,11,7,16,4,9
+[Auction "N"]
+2C =1= 3D =2= 3NT Pass 
+Pass Pass 
+[Note "1: 11-15 6+C"]
+[Note "2: weak"]
+[Play "W"]
+DT D7 D2 DQ 
+H4 HQ H2 H6 
+S5 SA S3 S2 
+S4 S7 S8 SQ 
+H9 D8 H5 HA 
+HT C4 H8 HK 
+S9 ST D3 S6 
+SJ SK D6 D5 
+CA CK C2 C3 
+HJ C5 H7 H3 
+CQ C6 DA C8 
+CJ C7 DJ CT 
+D4 C9 DK D9 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "21"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT7.Q.87.K97654 83.8752.AKJ632.2 Q62.AK63.Q95.T83 J954.JT94.T4.AQJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88669886694456244562"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  6
+N  C  9
+S NT  8
+S  S  8
+S  H  6
+S  D  6
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  6
+E  C  2
+W NT  4
+W  S  4
+W  H  5
+W  D  6
+W  C  2
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,0,85,310,183,43,36,44,73,32,63,20,41,39,250,27,524,36,12,17,32,61,11,21,15,12,15,19,485,27,10,7,19,24,12,9,118,22,12,91,17,173,39,16,110,17,12,35,29,12,15,10,20,16,11,13,24,27,12,9,13,16,7,11
+[Auction "N"]
+1C 3D X Pass 
+3S Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+DT D7 D6 DQ 
+H4 HQ H7 H3 
+S4 SA S8 S2 
+S5 S7 S3 SQ 
+H9 C4 H2 HA 
+HT C5 H5 HK 
+S9 ST H8 S6 
+SJ SK C2 C3 
+CA CK D2 C8 
+CQ C6 D3 CT 
+CJ C7 DJ H6 
+HJ D8 DK D5 
+D4 C9 DA D9 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "22"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K8653.8.K963.A52 42.65.JT52.JT983 AQJT97.AQT.Q87.6 .KJ97432.A4.KQ74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "8c4948c5943184831838"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 12
+N  H  4
+N  D  9
+N  C  4
+S NT  8
+S  S 12
+S  H  5
+S  D  9
+S  C  4
+E NT  3
+E  S  1
+E  H  8
+E  D  4
+E  C  8
+W NT  3
+W  S  1
+W  H  8
+W  D  3
+W  C  8
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 28,1,3,156,286,81,437,20,281,25,55,13,16,883,35,23,60,34,40,25,144,38,16,56,203,18,22,6,74,44,16,9,32,22,24,5
+[Auction "E"]
+Pass 1S =1= 2H 4H =2= 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: 11-15, can have longer minor, max 4♡"]
+[Note "2: splinter"]
+[Play "W"]
+CK CA CJ C6 
+C7 C2 CT S9 
+H2 S3 S2 SQ 
+H3 SK S4 SJ 
+CQ C5 C9 SA 
+DA D3 D2 D7 
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "22"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K8653.8.K963.A52 42.65.JT52.JT983 AQJT97.AQT.Q87.6 .KJ97432.A4.KQ74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "8c4948c5943184831838"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 12
+N  H  4
+N  D  9
+N  C  4
+S NT  8
+S  S 12
+S  H  5
+S  D  9
+S  C  4
+E NT  3
+E  S  1
+E  H  8
+E  D  4
+E  C  8
+W NT  3
+W  S  1
+W  H  8
+W  D  3
+W  C  8
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,2,0,72,25,340,225,40,102,297,40,89,95,22,159,39,12,51,124,100,12,10,44,24,14,7,133,26,13,21,14,9,13,24,31
+[Auction "E"]
+Pass 1S 4H 4S 
+Pass Pass Pass 
+[Play "W"]
+CK CA CJ C6 
+C4 C2 C8 S9 
+H4 S3 S2 SQ 
+H7 S5 S4 SA 
+D4 DK D2 D7 
+DA D3 D5 D8 
+CQ -  -  -  
+*
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "23"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ765.K6.AT3.AJ2 A982.A852.KQJ9.8 T3.Q974.54.KT765 K4.JT3.8762.Q943"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67658676587578575785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 3,1,3,85,30,127,40,42,49,34,76,7,26,112,47,315,55,249,13,9,21,10,5,10,7,10,19,8,24,136,40,8,17,67,187,61,17,13,30,14,25,44,12,45,121,12,15,14,4,43,17,4,9,13,31,10,7,7,6,8,3
+[Auction "S"]
+Pass Pass 1S Pass 
+Pass Pass 
+[Play "E"]
+DK D5 D8 D3 
+C8 C6 C3 CJ 
+D9 D4 D2 DA 
+DQ S3 D6 DT 
+S2 ST SK S5 
+DJ H4 D7 S6 
+SA C5 S4 SQ 
+H2 H9 HJ HK 
+S8 H7 C4 SJ 
+S9 C7 C9 CA 
+HA HQ H3 H6 
+H5 CT HT S7 
+H8 CK CQ C2 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "23"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ765.K6.AT3.AJ2 A982.A852.KQJ9.8 T3.Q974.54.KT765 K4.JT3.8762.Q943"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67658676587578575785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  8
+E NT  7
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,0,42,48,38,71,55,55,154,50,34,14,161,18,23,66,275,23,27,14,98,41,25,33,21,24,12,31,16,100,15,54,27,51,16,29,19,32,15,8,64,17,262,12,589,32,25,13,18,20,29,12,15,20,12,14,9,15,8,10
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+DK D4 D7 D3 
+DJ D5 D2 DT 
+DQ S3 D6 DA 
+H5 HQ H3 H6 
+C8 C5 C3 CJ 
+S9 C6 C4 CA 
+H2 CK C9 C2 
+S2 ST SK S7 
+H8 C7 CQ S6 
+SA CT S4 SQ 
+HA H4 HJ HK 
+D9 H7 D8 S5 
+S8 H9 HT SJ 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "24"]
+[West "Ben Norton#460823"]
+[North "Edward Hoogenkamp#411941"]
+[East "Stefano Tommasini#492503"]
+[South "Rob Helle#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT93.Q632.K.KJ63 82.98.T98643.T84 QJ.AJ5.J72.A9752 A7654.KT74.AQ5.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "3"]
+[Score "NS 250"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "9694aa895a3548335483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  4
+N  C 10
+S NT 10
+S  S  8
+S  H  9
+S  D  5
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  8
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 8,1,3,56,40,161,40,86,28,56,40,11,63,136,85,35,10,31,42,18,8,53,22,30,12,187,25,8,14,201,11,45,11,60,47,9,29,24,22,185,8,15,14,15,26,11,10,19,9,49,22,22,8,24,19,33,8,14,8,14,10,13,3,12,4
+[Auction "W"]
+1S Pass 1NT Pass 
+2H =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: less than 16"]
+[Play "N"]
+C3 C4 CA CQ 
+S3 S2 SQ S4 
+S9 S8 SJ SA 
+DK D3 D7 DQ 
+CK C8 C7 S5 
+ST H8 D2 S7 
+SK H9 DJ S6 
+CJ CT C2 H4 
+C6 D4 C9 DA 
+H2 D6 C5 D5 
+HQ D8 H5 H7 
+H3 D9 HA HT 
+H6 DT HJ HK 
+
+[Event "06 Aug Bryant vs Norton"]
+[Site "RealBridge"]
+[Date "2024.08.06"]
+[Board "24"]
+[West "Steve Green#85164"]
+[North "João Paulo Campos#"]
+[East "Roger Bryant#73720"]
+[South "Adriano Rodrigues#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT93.Q632.K.KJ63 82.98.T98643.T84 QJ.AJ5.J72.A9752 A7654.KT74.AQ5.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "8"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norton team"]
+[VisitTeam "Bryant team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "9694aa895a3548335483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  4
+N  C 10
+S NT 10
+S  S  8
+S  H  9
+S  D  5
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  8
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 6,2,0,97,146,129,191,375,161,79,118,30,70,31,110,46,172,563,18,22,24,22,15,26,24,373,14,18,18,24,12,14,19,77,28,19,36,38,21,14,330,95,19,7,20,17,19,7,14,14,17,10,14,89,24,11,22,12,21,11,12,14,9,10,52,8,12,8
+[Auction "W"]
+1S Pass Pass 1NT =1= 
+X =2= XX 2D Pass 
+Pass X =3= Pass Pass 
+Pass 
+[Note "1: 11-16"]
+[Note "2: MAx with 4♡"]
+[Note "3: tko"]
+[Play "S"]
+SQ SA S3 S8 
+CA CQ C3 C4 
+D2 DQ DK D3 
+SJ S4 SK S2 
+DJ S5 S9 D8 
+H5 HK H2 H8 
+D7 DA H3 D4 
+C2 S6 ST D6 
+C5 D5 C6 C8 
+HJ S7 CK H9 
+HA H4 H6 D9 
+C7 H7 CJ CT 
+C9 HT HQ DT 

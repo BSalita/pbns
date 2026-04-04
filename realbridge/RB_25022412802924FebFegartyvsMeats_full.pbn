@@ -1,0 +1,3054 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "1"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ5.73.KJT9.K973 4.T842.Q83.JT652 98762.KQJ65.A75. AKT3.A9.642.AQ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "68774688746556865568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  7
+N  C  4
+S NT  6
+S  S  8
+S  H  8
+S  D  7
+S  C  4
+E NT  6
+E  S  5
+E  H  5
+E  D  6
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,2,1,241,30,539,250,491,25,74,123,354,16,25,98,55,10,15,62,170,13,54,22,56,19,27,329,26,14,47,40,17,24,17,42,14,24,10,43,48,22,56,250,38,82,23,135,87,16,47,54,15,10,42,32,12,23,9,12,12,9,9
+[Auction "N"]
+Pass Pass 2H =1= 2NT 
+Pass Pass Pass 
+[Note "1:  * Both Majors, weak [0:43]"]
+[Play "N"]
+SQ S4 S8 SA 
+C3 C2 S7 CA 
+C7 C5 S2 CQ 
+C9 CJ D7 C8 
+CK C6 S6 C4 
+H7 H2 HJ H9 
+H3 H4 HQ HA 
+D9 DQ DA D2 
+SJ H8 HK D4 
+S5 D3 S9 ST 
+DT D8 H5 SK 
+DJ CT H6 S3 
+DK HT D5 D6 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "1"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ5.73.KJT9.K973 4.T842.Q83.JT652 98762.KQJ65.A75. AKT3.A9.642.AQ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "68774688746556865568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  7
+N  C  4
+S NT  6
+S  S  8
+S  H  8
+S  D  7
+S  C  4
+E NT  6
+E  S  5
+E  H  5
+E  D  6
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,0,3,247,166,346,108,447,118,2170,2636,303,395,95,24,168,40,31,45,43,26,24,17,421,27,23,49,16,31,15,27,39,57,11,77,25,53,15,85,283,30,29,13
+[Auction "N"]
+Pass Pass 2H =1= X 
+2S =2= Pass Pass Pass 
+[Note "1:  * H & ano [7:24]"]
+[Note "2: pass or correct"]
+[Play "E"]
+CJ H5 CA C3 
+DQ DA D2 DJ 
+S4 S2 S3 SQ 
+C2 H6 C4 CK 
+H2 HJ HA H3 
+D3 D5 D4 DT 
+C5 S6 SA SJ 
+H4 S7 SK S5 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "2"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q.KQJ83.Q2.T9432 T8753.95.973.QJ5 J92.AT764.AJT4.A AK64.2.K865.K876"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75b7875b784824548245"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  7
+N  C  8
+S NT  7
+S  S  5
+S  H 11
+S  D  7
+S  C  8
+E NT  4
+E  S  8
+E  H  2
+E  D  4
+E  C  5
+W NT  4
+W  S  8
+W  H  2
+W  D  4
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,43,188,127,534,95,54,105,17,232,80,15,126,166,21,85,28,34,27,18,57,19,55,26
+[Auction "E"]
+Pass 1H X 4H 
+Pass Pass Pass 
+[Play "W"]
+SA SQ S7 S9 
+H2 H3 H9 HT 
+C6 HK H5 H4 
+DK DQ D3 D4 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "2"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q.KQJ83.Q2.T9432 T8753.95.973.QJ5 J92.AT764.AJT4.A AK64.2.K865.K876"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75b7875b784824548245"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  7
+N  C  8
+S NT  7
+S  S  5
+S  H 11
+S  D  7
+S  C  8
+E NT  4
+E  S  8
+E  H  2
+E  D  4
+E  C  5
+W NT  4
+W  S  8
+W  H  2
+W  D  4
+W  C  5
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,164,46,100,294,68,41,104,62,97,22,17,56,29,13,19,159,14,12,15,20,25,8,27,31,35,18,13,16,41,18,24,148,21,12,21,16,75,8,12
+[Auction "E"]
+Pass 1H X 4H 
+Pass Pass Pass 
+[Play "W"]
+SK SQ S3 S2 
+C6 C2 CJ CA 
+H2 HK H5 H4 
+S4 H3 H9 HA 
+S6 H8 S5 S9 
+DK DQ D3 D4 
+D5 D2 D9 DT 
+SA HJ S7 SJ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "3"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A.Q95432.KJ2.873 K.J8.T87.JT96542 QJ32.T7.AQ953.KQ T987654.AK6.64.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a59a5a59a53733837338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  9
+N  D 10
+N  C  5
+S NT 10
+S  S  5
+S  H  9
+S  D 10
+S  C  5
+E NT  3
+E  S  7
+E  H  3
+E  D  3
+E  C  8
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 21,2,1,196,82,229,24,306,23,327,35,52,684,50,19,29,30,178,42,32,121,38,11,40,206,39,5,35,518,30,7,73,89,15,19,14,43,16,18,8,103,11
+[Auction "S"]
+1D 1S 2H Pass 
+3D 3S 5D Pass 
+Pass X Pass Pass 
+Pass 
+[Play "W"]
+CA C3 C6 CQ 
+HK H2 HJ H7 
+HA H3 H8 HT 
+ST SA SK S2 
+D4 D2 D7 DA 
+D6 DK D8 D3 
+-  DJ DT -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "3"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A.Q95432.KJ2.873 K.J8.T87.JT96542 QJ32.T7.AQ953.KQ T987654.AK6.64.A"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a59a5a59a53733837338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  9
+N  D 10
+N  C  5
+S NT 10
+S  S  5
+S  H  9
+S  D 10
+S  C  5
+E NT  3
+E  S  7
+E  H  3
+E  D  3
+E  C  8
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,152,250,115,45,402,194,267,40,75,241,34,31,411,34,17,27,27,11,17,28,97,23,19,13,178,22,12,10,40,68,36,28,168,87,17,7,49,15,19,13,28,13,10,8,102,19,9,7,22,16,6,24,14,16,11,6,14,8,8,7
+[Auction "S"]
+1D 1S =1= 2H Pass 
+3NT Pass Pass Pass 
+[Note "1: ♠"]
+[Play "W"]
+ST SA SK S2 
+D6 DK D7 D3 
+D4 DJ D8 D5 
+CA C3 C2 CK 
+HK H2 H8 H7 
+S9 H3 DT SQ 
+H6 D2 C4 DA 
+S4 C7 C5 DQ 
+S5 H4 C6 D9 
+S6 C8 CJ CQ 
+S7 H5 HJ SJ 
+S8 H9 C9 S3 
+HA HQ CT HT 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "4"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKT872.KJ62..K97 43.T98.AQJ8.AJ54 Q6.754.KT9743.62 J95.AQ3.652.QT83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "78875788756446865568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  4
+E  H  4
+E  D  6
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 3,2,1,66,146,77,147,46,45,401,32,38,19,793,21,79,41,20,10,21,36,15,14,26,174,45,13,25,121,19,37,73,810,46,8,51,27,14,24,8,138,17,37,8,40,15,28,19,27,29,10,14,10,18,7,78,10,8,7,17
+[Auction "W"]
+Pass 1S Pass Pass 
+Pass 
+[Play "E"]
+HT H4 HA H2 
+S3 S6 S5 ST 
+H8 H5 H3 HK 
+H9 H7 HQ H6 
+S4 SQ S9 S2 
+CA C2 C8 CK 
+DA D3 D2 S7 
+D8 D4 SJ SA 
+DJ D7 D5 SK 
+DQ D9 D6 HJ 
+C4 C6 CT C7 
+C5 DT CQ C9 
+CJ DK C3 S8 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "4"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKT872.KJ62..K97 43.T98.AQJ8.AJ54 Q6.754.KT9743.62 J95.AQ3.652.QT83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "5"]
+[Score "NS 800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "78875788756446865568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  4
+E  H  4
+E  D  6
+E  C  8
+W NT  6
+W  S  5
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,178,44,169,110,115,53,42,30,203,70,28,54,21,82,40,30,9,55,13,24,15,43,32,547,20,20,52,23,26,16,40,30,12,27,32,15,19,43,21,20,19,40,13,25,56,39,26,63,11,15,104,13,11,18,16,11,7,14,9,10,6
+[Auction "W"]
+Pass 1S 2D Pass 
+Pass X Pass Pass 
+Pass 
+[Play "S"]
+SQ S5 S8 S3 
+H5 HQ HK H8 
+S6 S9 SK S4 
+DK SJ SA DJ 
+H7 HA H2 HT 
+C6 CQ CK CA 
+D3 D2 ST DA 
+C2 CT C7 C4 
+D4 C3 C9 CJ 
+DT D5 H6 DQ 
+D7 C8 S2 C5 
+D9 D6 S7 D8 
+H4 H3 HJ H9 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "5"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT2.T93.K72.T986 3.KJ84.AT96.J432 A9765.652.Q84.AK KQ84.AQ7.J53.Q75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "46444464449799997999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  4
+S  D  4
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  9
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 4,2,1,158,40,83,50,169,244,72,277,22,58,195,142,17,29,148,202,16,19,264,23,17,17,123,18,21,262,50,38,15,13,87,23,11,15,53,15,70,15,509,17,17,13,292,20,16,12,14,12,5,32,12,13,5,17,10,12,7,7
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 12-14 [0:10]"]
+[Play "W"]
+SQ S2 S3 SA 
+S4 ST C4 S5 
+S8 SJ H4 S6 
+D3 D2 D6 DQ 
+SK C6 C2 S9 
+DJ D7 D9 D4 
+D5 DK DA D8 
+C7 C8 DT H5 
+H7 H3 HK H6 
+HQ H9 H8 H2 
+HA HT HJ CK 
+C5 C9 CJ CA 
+CQ CT C3 S7 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "5"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT2.T93.K72.T986 3.KJ84.AT96.J432 A9765.652.Q84.AK KQ84.AQ7.J53.Q75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "46444464449799997999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  4
+S  D  4
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  9
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 9,0,3,65,55,51,133,91,46,68,296,52,21,38,19,101,36,129,125,30,26,49,291,29,25,69,54,59,57,27,39,22,88,41,147,17,16,20,49,17,22,8,61,20,51,13
+[Auction "N"]
+Pass Pass 1S Pass 
+Pass X Pass 2NT 
+Pass Pass Pass 
+[Play "N"]
+SJ S3 S5 SK 
+D7 D9 DQ D3 
+ST C2 S6 S8 
+S2 C3 SA S4 
+HT C4 S7 SQ 
+D2 D6 D4 DJ 
+DK DA D8 D5 
+CT DT H6 C5 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "6"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A6.9865.6542.QJ8 KQ85.AK.K7.K6542 JT9742.742.J3.AT 3.QJT3.AQT98.973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3633436334a7aa9a7999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  6
+S  H  3
+S  D  3
+S  C  4
+E NT 10
+E  S  7
+E  H 10
+E  D 10
+E  C  9
+W NT 10
+W  S  7
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,84,51,91,98,148,126,75,46,16,59,26,368,255,21,13,24,34,18,89,33,9,30,9,22,8,14,9,37,8,125,34,44,10,8,13,25
+[Auction "E"]
+1C =1= Pass 1H Pass 
+2NT =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 18-19"]
+[Play "S"]
+SJ S3 SA S5 
+S2 C3 S6 SK 
+H2 H3 H5 HA 
+H4 HT H6 HK 
+S4 C7 H9 SQ 
+D3 D8 D2 DK 
+DJ -  -  D7 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "6"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A6.9865.6542.QJ8 KQ85.AK.K7.K6542 JT9742.742.J3.AT 3.QJT3.AQT98.973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3633436334a7aa9a7999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  3
+N  C  4
+S NT  3
+S  S  6
+S  H  3
+S  D  3
+S  C  4
+E NT 10
+E  S  7
+E  H 10
+E  D 10
+E  C  9
+W NT 10
+W  S  7
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,389,151,453,62,150,38,401,31,25,19,41,82,32,39,27,20,49,16,58,30,19,24,43,18,11,12,44,25,15,48,27,24,11,10,13,15,19,11,19,24,10,9,11,38,8,25,15,12,8,8,9,10,8,9,9,12,8,14,9,9,17,9
+[Auction "E"]
+1C =1= 2S =2= X Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: ♣may be 2"]
+[Note "2: weak"]
+[Play "S"]
+SJ S3 SA S5 
+S2 C3 S6 SK 
+H2 H3 H5 HA 
+H4 HT H6 HK 
+S4 C7 H9 SQ 
+D3 D8 D2 DK 
+DJ DA D4 D7 
+H7 HQ H8 S8 
+CT HJ C8 C2 
+S7 DQ D5 C4 
+S9 DT D6 C5 
+ST D9 CJ C6 
+CA C9 CQ CK 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "7"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT9.QT8.KJ6.Q84 653.62.AQ7.KJT52 87.J973.T9842.63 KJ42.AK54.53.A97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "34462345629977a9987b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  6
+N  C  2
+S NT  3
+S  S  4
+S  H  5
+S  D  6
+S  C  2
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H  8
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,78,68,101,52,72,19,80,344,499,70,94,22,30,7,16,432,27,12,153,154,28,77,59,62,21,15,10,17,19,45,88,46,39,17,24,65,41,11,18,23,26,12,23,24,19,12,17,70,18,8,22,9,231,16,13,12,14,8,10
+[Auction "S"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+C4 C2 C3 C7 
+C8 C5 C6 CA 
+CQ CK D2 C9 
+SQ S3 S8 SJ 
+SA S5 S7 S2 
+ST S6 H7 SK 
+D6 DQ D4 D3 
+HT CJ H3 H4 
+H8 CT D8 D5 
+DK DA D9 S4 
+HQ H2 H9 HA 
+DJ H6 HJ HK 
+S9 D7 DT H5 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "7"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT9.QT8.KJ6.Q84 653.62.AQ7.KJT52 87.J973.T9842.63 KJ42.AK54.53.A97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "34462345629977a9987b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  6
+N  C  2
+S NT  3
+S  S  4
+S  H  5
+S  D  6
+S  C  2
+E NT  9
+E  S  9
+E  H  7
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H  8
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,87,201,72,116,52,187,41,38,35,21,47,223,127,48,84,54,31,25,16,49,13,56,24,56,44,22,8,109,89,112,35,23,26,17,23,80,24,25,26,39,37,17,17,31,23,24,16,17,20,33,25,21,21,121,17,14,43,7,28,12,10,11,11
+[Auction "S"]
+Pass 1C =1= Pass 1D 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: cd b 2"]
+[Play "N"]
+ST S3 S8 SJ 
+C8 C2 C3 CA 
+C4 C5 C6 C9 
+CQ CK D8 C7 
+HT CJ D4 H4 
+H8 CT H7 H5 
+HQ H2 H3 HA 
+S9 H6 H9 HK 
+D6 DA D2 D3 
+SA S5 S7 SK 
+SQ S6 HJ S2 
+DJ DQ D9 D5 
+DK D7 DT S4 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "8"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ.5.AQ98.KT9873 J975.AT42.J42.J2 863.QJ3.K7653.64 KT42.K9876.T.AQ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "755a9755a95872358824"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D 10
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D 10
+S  C  9
+E NT  5
+E  S  8
+E  H  7
+E  D  2
+E  C  3
+W NT  5
+W  S  8
+W  H  8
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,2,1,84,180,137,89,155,594,62,212,69,33,59,40,17,24,10,20,11,104,51,20,8,15,50,26,12,55,26,44,18,38,241
+[Auction "W"]
+1H 2C 3H =1= Pass 
+Pass Pass 
+[Note "1: preemptive"]
+[Play "N"]
+CT C2 C4 CQ 
+H5 HA H3 H6 
+C9 H2 HJ HK 
+C3 CJ C6 CA 
+C7 H4 S8 C5 
+SQ SJ S6 S2 
+DA -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "8"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQ.5.AQ98.KT9873 J975.AT42.J42.J2 863.QJ3.K7653.64 KT42.K9876.T.AQ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "755a9755a95872358824"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D 10
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D 10
+S  C  9
+E NT  5
+E  S  8
+E  H  7
+E  D  2
+E  C  3
+W NT  5
+W  S  8
+W  H  8
+W  D  2
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,0,3,211,58,609,77,353,318,89,216,357,48,34,98,73,38,33,61,195,42,29,117,32,27,12,58,21,37,16,124,22,36,17,21,29,65,265,172,28,21,25,36,19,10,9,13,18,21,23,159,36,20,11,22,18,8,16,21,26,10,32,21,15,10,41,9,17,14,10
+[Auction "W"]
+1H 2C 3H Pass 
+Pass 3NT =1= Pass Pass 
+4H Pass Pass X 
+Pass Pass Pass 
+[Note "1: 6+c and 4D"]
+[Play "N"]
+CT CJ C6 C5 
+H5 HA H3 H6 
+C3 H2 HJ HK 
+C7 C2 C4 CA 
+CK HT D3 CQ 
+SQ SJ S3 S2 
+DA D2 D5 DT 
+D8 D4 DK H7 
+SA S5 S6 S4 
+DQ DJ D6 H9 
+C8 S7 S8 SK 
+C9 S9 HQ ST 
+D9 H4 D7 H8 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "9"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:5.AQ9853.J632.32 QJT7642.2.Q97.Q7 A83.JT.T4.AKT854 K9.K764.AK85.J96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "64979649794936349363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  7
+N  C  9
+S NT  6
+S  S  4
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  9
+E  H  3
+E  D  6
+E  C  3
+W NT  4
+W  S  9
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,2,1,497,48,557,33,489,100,160,102,69,60,71,184,17,29,93,34,15,7,189,21,39,16,215,18,37,14,219,26,18,19,37,27,9,64,104,17,22,22,20,18,17,5,142,63,17,81,66
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+Pass =3= 2S 3H Pass 
+Pass Pass 
+[Note "1: Multi: weak 6-card Maj OR 20-21"]
+[Note "2: relay"]
+[Note "3: Alerted"]
+[Play "W"]
+SK S5 S7 SA 
+H4 H3 H2 HJ 
+H6 HQ S2 HT 
+H7 HA S4 S3 
+HK H5 S6 S8 
+S9 H8 ST C4 
+C6 C2 C7 CA 
+C9 C3 CQ CK 
+D8 D2 DQ DT 
+-  -  SQ -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "9"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:5.AQ9853.J632.32 QJT7642.2.Q97.Q7 A83.JT.T4.AKT854 K9.K764.AK85.J96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "64979649794936349363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  7
+N  C  9
+S NT  6
+S  S  4
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  9
+E  H  3
+E  D  6
+E  C  3
+W NT  4
+W  S  9
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,0,3,222,144,123,117,44,197,99,57,24,48,22,14,35,27,44,15,30,20,48,52,17,34,24,13,113,17,10,12,22,109,26,38,18,18,26,18,99,21,28,16,22,12,14,14,104,16,20,15,20,13,9,19,10,10,11,14
+[Auction "N"]
+3H Pass Pass Pass 
+[Play "E"]
+SQ SA SK S5 
+D7 D4 DK D3 
+S2 S3 S9 H3 
+DQ DT D5 D2 
+CQ CA C6 C2 
+C7 CK C9 C3 
+S4 S8 D8 H5 
+D9 HT DA D6 
+H2 HJ H4 HQ 
+S6 C4 H6 HA 
+S7 C5 H7 DJ 
+ST C8 HK H8 
+SJ CT CJ H9 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "10"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T54.QJ965.AK6.A2 97.A3.J932.KJT63 AQJ62.KT842.Q4.Q K83.7.T875.98754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "8ab658ab654327843278"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 11
+N  D  6
+N  C  5
+S NT  8
+S  S 10
+S  H 11
+S  D  6
+S  C  5
+E NT  4
+E  S  3
+E  H  2
+E  D  7
+E  C  8
+W NT  4
+W  S  3
+W  H  2
+W  D  7
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,41,53,42,223,30,158,45,281,17,19,435,35,221,121,39,62,13,195,115,29,124,14,18,16,25,9
+[Auction "E"]
+Pass 1S Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+CJ CQ C9 C2 
+HA H2 H7 HQ 
+H3 H4 C8 H5 
+S7 S2 SK ST 
+-  -  D8 -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "10"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T54.QJ965.AK6.A2 97.A3.J932.KJT63 AQJ62.KT842.Q4.Q K83.7.T875.98754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "8ab658ab654327843278"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 11
+N  D  6
+N  C  5
+S NT  8
+S  S 10
+S  H 11
+S  D  6
+S  C  5
+E NT  4
+E  S  3
+E  H  2
+E  D  7
+E  C  8
+W NT  4
+W  S  3
+W  H  2
+W  D  7
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 27,0,3,197,72,55,215,71,505,85,386,82,312,101,405,105,513,59,46,50,27,242,50,740,45,39,23,16,35,22,25,10,30,52,20,20,15,27,13,13,26,19,18,51,20,54,48,65,19,36,18,21,43
+[Auction "E"]
+Pass 1S Pass 2H 
+Pass 4C =1= Pass 4D =2= 
+Pass 4S =3= Pass 5H =4= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: splinter"]
+[Note "2: cue"]
+[Note "3: rkcb"]
+[Note "4: 2 keycards + Q trumps"]
+[Play "E"]
+CJ CQ C4 C2 
+D2 D4 D5 DA 
+C3 DQ C5 CA 
+D3 S2 D7 DK 
+D9 H8 D8 D6 
+HA H2 H7 HJ 
+H3 H4 C7 H9 
+S7 S6 SK ST 
+-  -  C8 -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "11"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J54.A92.AK98.QT4 KQ976.J87.Q753.3 A83.QT54.64.AJ82 T2.K63.JT2.K9765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98989979794544445454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  9
+S NT  9
+S  S  7
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,198,35,171,24,38,22,33,517,27,58,137,40,26,15,123,16,82,196,22,280,19,68,78,52,12,25,552,25,24,27,35,69,42,59,330
+[Auction "S"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Play "W"]
+C6 C4 C3 C8 
+H3 HA H8 H4 
+HK H9 H7 H5 
+ST SJ SQ S3 
+S2 S4 SK S8 
+C5 S5 S6 SA 
+CK CT D7 C2 
+H6 -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "11"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J54.A92.AK98.QT4 KQ976.J87.Q753.3 A83.QT54.64.AJ82 T2.K63.JT2.K9765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98989979794544445454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  9
+S NT  9
+S  S  7
+S  H  9
+S  D  7
+S  C  9
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,390,89,218,138,123,65,58,38,40,84,86,545,52,36,310,24,15,9,56,28,20,71,87,36,30,20,36,41,23,32,66,14,11,21,37,19,50,17,97,15,14,43,19,15,8,19,7,22,7,17,8,64,10,10
+[Auction "S"]
+1C =1= Pass 1S =2= Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: cd be 2, cd have 5d"]
+[Note "2: no major"]
+[Play "W"]
+H3 H2 HJ HQ 
+H6 H9 H7 H4 
+CK CQ C3 C2 
+D2 DA D5 D4 
+C5 CT H8 C8 
+C6 C4 S6 CA 
+C7 D8 D3 CJ 
+HK HA S7 H5 
+DJ DK D7 D6 
+S2 S4 S9 SA 
+ST D9 SQ HT 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "12"]
+[West "Liam Fegarty#469732"]
+[North "Alastair Spence#489102"]
+[East "Jamie Fegarty#169858"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQ653.AK7.J3 AQ932.84.QT942.4 K75.T97.853.QT92 JT8.J2.J6.AK8765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "94a5794a574837648376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H 10
+N  D  5
+N  C  7
+S NT  9
+S  S  4
+S  H 10
+S  D  5
+S  C  7
+E NT  4
+E  S  8
+E  H  3
+E  D  7
+E  C  6
+W NT  4
+W  S  8
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 7,2,1,355,106,70,227,50,81,74,92,297,23,205,26,37,403,177,40,21,105,18,24,7,292,27,16,13,39,72,32,34,18,55,20,50,133,19,11,23,26,15,81,12,32,22,21,14
+[Auction "W"]
+1C =1= 1H X =2= Pass 
+2C 2H Pass Pass 
+Pass 
+[Note "1: 2+♣"]
+[Note "2: 4+S"]
+[Play "E"]
+C4 C2 CK CJ 
+D2 D3 DJ DA 
+H4 H7 H2 HA 
+H8 H9 HJ HK 
+D4 C9 CA C3 
+D9 D5 D6 DK 
+S3 HT C5 H3 
+S2 CQ C6 D7 
+DT CT C7 S6 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "12"]
+[West "Pete van Praag#37299"]
+[North "Paul Fegarty#29653"]
+[East "Vic Holden#101442"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQ653.AK7.J3 AQ932.84.QT942.4 K75.T97.853.QT92 JT8.J2.J6.AK8765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "94a5794a574837648376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H 10
+N  D  5
+N  C  7
+S NT  9
+S  S  4
+S  H 10
+S  D  5
+S  C  7
+E NT  4
+E  S  8
+E  H  3
+E  D  7
+E  C  6
+W NT  4
+W  S  8
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,0,3,135,41,62,90,172,47,30,39,142,98,35,24,37,45,68,32,28,47,58,25,13,71,23,10,10,15,14,8,11,96,56,90,21,101,25,12,105,81,48,15,17,22,77,14,12,86,24,11,10,32,21,13,14,17,10,15,9,23,12,27,12,9,8,10,10
+[Auction "W"]
+Pass 1H 1S 2H 
+2S 4H Pass Pass 
+4S X Pass Pass 
+Pass 
+[Play "S"]
+HT HJ HQ H4 
+H9 H2 HA H8 
+D3 D6 DK D2 
+D5 DJ DA D4 
+SK S8 S4 S2 
+S5 SJ S6 S3 
+S7 ST H3 SA 
+H7 C5 H5 SQ 
+D8 C6 D7 DQ 
+C9 CA C3 C4 
+C2 CK CJ DT 
+CT C8 H6 S9 
+CQ C7 HK D9 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "13"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J9632.Q.AQ32.J97 KT87.A9853.9.852 AQ4.JT64.765.KQT 5.K72.KJT84.A643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "78666786666576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,1,3,227,526,182,214,217,57,31,51,186,32,32,93,24,18,111,28,13,8,9,41,20,18,11,24,130,15,24,128,27,17,117,103,30,11,22,24,17,26,10,67,18,15,26,23,19,16,24,14,16,12,11,11,18,8,11,14,10,9,6
+[Auction "N"]
+Pass 2D =1= Pass 2H 
+Pass Pass Pass 
+[Note "1: at least 5 cards in majors"]
+[Play "N"]
+C7 C2 CQ CA 
+S2 SK SA S5 
+C9 C5 CK C3 
+CJ C8 CT C4 
+HQ H3 H4 HK 
+D2 D9 H6 C6 
+S3 HA HJ H2 
+S6 S7 SQ H7 
+D3 H5 D5 D4 
+SJ ST S4 D8 
+S9 S8 D6 DT 
+DA H8 D7 DJ 
+DQ H9 HT DK 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "13"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J9632.Q.AQ32.J97 KT87.A9853.9.852 AQ4.JT64.765.KQT 5.K72.KJT84.A643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "78666786666576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,2,0,472,31,188,123,356,85,89,371,422,33,78,181,151,41,27,98,33,24,37,196,42,18,20,32,39,26,48,100,21,18,8,184,47,43,25,533,64,37,23,169,32,21,32,128,39,11,24,53,22,16,61,120,30,35,13,9,19,7,22,19,5,13,8
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2H =2= X 2S 3H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: trsf S"]
+[Play "N"]
+DA D9 D5 D4 
+C9 C2 CQ CA 
+D2 C5 D7 DK 
+S3 SK SA S5 
+C7 C8 CK C3 
+S2 S7 SQ H2 
+DQ H3 D6 DJ 
+S6 S8 S4 H7 
+HQ H5 H4 HK 
+D3 ST H6 DT 
+S9 HA HJ C4 
+CJ H8 HT C6 
+SJ H9 CT D8 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "14"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A.KT75.AQ873.K54 Q762.842.954.QT7 K543.AJ9.JT62.A8 JT98.Q63.K.J9632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 520"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "dadd9dadd90200302003"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 10
+N  H 13
+N  D 13
+N  C  9
+S NT 13
+S  S 10
+S  H 13
+S  D 13
+S  C  9
+E NT  0
+E  S  2
+E  H  0
+E  D  0
+E  C  3
+W NT  0
+W  S  2
+W  H  0
+W  D  0
+W  C  3
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 14,1,3,144,249,111,77,50,128,59,164,69,69,40,40,41,38,32,52,173,16,21,99,24,28,19,19,11,46,9,23,15,19,39,36,39,31,8
+[Auction "E"]
+Pass 1C =1= Pass 1D 
+Pass 1NT Pass 2D =2= 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+♣, may have 5♢"]
+[Note "2: GF checkback"]
+[Play "W"]
+SJ SA S2 S3 
+H3 H5 H2 HA 
+DK DA D4 DJ 
+C2 D3 D5 DT 
+HQ HK H4 HJ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "14"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A.KT75.AQ873.K54 Q762.842.954.QT7 K543.AJ9.JT62.A8 JT98.Q63.K.J9632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "dadd9dadd90200302003"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 10
+N  H 13
+N  D 13
+N  C  9
+S NT 13
+S  S 10
+S  H 13
+S  D 13
+S  C  9
+E NT  0
+E  S  2
+E  H  0
+E  D  0
+E  C  3
+W NT  0
+W  S  2
+W  H  0
+W  D  0
+W  C  3
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 14,2,0,113,212,65,277,27,176,44,92,31,66,15,57,357,16,22,19,22,30,12,225,26,57,31,195
+[Auction "E"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 11-14"]
+[Note "2: Stayman"]
+[Play "W"]
+C3 C4 CQ CA 
+DK DA D5 DJ 
+HQ H5 H2 H9 
+SJ -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "15"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:8762.J4.Q9632.T7 AT5.Q75.AT84.AK2 KJ943.6.K.Q98643 Q.AKT9832.J75.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "1713617136b5ca7b5ca6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  1
+N  D  3
+N  C  6
+S NT  1
+S  S  7
+S  H  1
+S  D  3
+S  C  6
+E NT 11
+E  S  5
+E  H 12
+E  D 10
+E  C  7
+W NT 11
+W  S  5
+W  H 12
+W  D 10
+W  C  6
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,1,3,98,170,2334,107,203,210,126,138,57,38,19,18,361,67,18,145,28,29,13,122,26,17,8,176,24,13,41,19,15,46,50,41,21,27,25,24,38,58,23,169,22,21,33,31,30,12,34,190,22,56,33,21,15,10,14,9,20,4,9,19,14,15,5
+[Auction "S"]
+Pass 1H Pass 2D 
+2H =1= 3H Pass 6H 
+Pass Pass Pass 
+[Note "1: ♠&♣"]
+[Play "N"]
+CT CA C9 C5 
+H4 H5 H6 HA 
+HJ H7 C3 HK 
+C7 CK C8 CJ 
+D2 C2 CQ H2 
+S2 SA S3 SQ 
+S6 S5 SJ H3 
+D3 DT DK D5 
+S7 ST SK H8 
+D9 DA S4 D7 
+DQ D4 C4 DJ 
+D6 D8 C6 H9 
+S8 HQ S9 HT 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "15"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:8762.J4.Q9632.T7 AT5.Q75.AT84.AK2 KJ943.6.K.Q98643 Q.AKT9832.J75.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "1713617136b5ca7b5ca6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  1
+N  D  3
+N  C  6
+S NT  1
+S  S  7
+S  H  1
+S  D  3
+S  C  6
+E NT 11
+E  S  5
+E  H 12
+E  D 10
+E  C  7
+W NT 11
+W  S  5
+W  H 12
+W  D 10
+W  C  6
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 27,2,0,383,165,362,200,73,416,53,250,68,94,53,14,352,381,1611,24,12,111,27,20,26,117,24,26,24,224,260,50,21,241,82,19,31,689,67,20,61,185,45,22,23,829,29,9,16,24,20,17,72,246,192,19,12
+[Auction "S"]
+2S =1= 4H Pass 4S =2= 
+Pass 5D =3= Pass 5S =4= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: 5♠ + 4+minor * weak [0:09]"]
+[Note "2: RKCB"]
+[Note "3: 2 w/out"]
+[Note "4: K ASK"]
+[Play "N"]
+CT CA C3 C5 
+H4 HQ H6 H2 
+HJ H5 C4 HA 
+S8 H7 S3 HK 
+S7 S5 S4 HT 
+D3 D4 DK D7 
+S6 SA SK SQ 
+C7 CK C6 CJ 
+D2 C2 CQ H3 
+DQ DA C8 DJ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "16"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T863.Q.KJT5.QJ97 K52.K982.6.A6542 Q74.J76543.984.3 AJ9.AT.AQ732.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3343233432a999baa99b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  2
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  2
+E NT 10
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT 10
+W  S 10
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,1,3,328,31,130,117,157,22,48,50,17,13,23,263,30,46,170,36,55,65,196,52,21,40,779,48,47,26,499,37,14,67,456,42,9,128,360,219,9,17,58,40,45,33,27,163,25,13,18,27,10,18
+[Auction "W"]
+1D Pass 1H Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+CQ C2 C3 CK 
+C9 CA D9 C8 
+DK D6 D8 DQ 
+S3 S2 SQ SA 
+CJ C4 H7 CT 
+DJ H2 D4 D2 
+HQ HK H3 HT 
+C7 C5 H4 D3 
+S6 SK S7 S9 
+D5 C6 H5 D7 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "16"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T863.Q.KJT5.QJ97 K52.K982.6.A6542 Q74.J76543.984.3 AJ9.AT.AQ732.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3343233432a999baa99b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  2
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  2
+E NT 10
+E  S  9
+E  H  9
+E  D  9
+E  C 11
+W NT 10
+W  S 10
+W  H  9
+W  D  9
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,264,180,129,96,241,119,1052,83,443,292,25,103,402,1192,71,21,640,22,47,27,134,27,40,189,65,53,12,25,18,45,20,13,88,32,24,26,27,20,20,22,151,26,16,24,13,23,20,27,20
+[Auction "W"]
+1C =1= Pass 1D =2= Pass 
+2NT =3= Pass 3S =4= Pass 
+3NT =5= Pass Pass Pass 
+[Note "1: 2+c, may have 5d"]
+[Note "2: hearts"]
+[Note "3: <3h, 18-19 bal"]
+[Note "4: asks about Clubs"]
+[Note "5: <4 C"]
+[Play "N"]
+CQ C2 C3 C8 
+C7 C4 H3 CT 
+C9 C5 D8 CK 
+S3 SK S7 S9 
+CJ CA D4 D2 
+S8 C6 H4 D3 
+S6 S2 S4 SJ 
+HQ HK H5 HT 
+DK D6 D9 DQ 
+DJ -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "17"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT.A843.KQ62.KT2 K9764.KT.JT53.86 3.QJ7652.98.A754 AJ852.9.A74.QJ93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "64a67649577837679376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H 10
+N  D  6
+N  C  7
+S NT  6
+S  S  4
+S  H  9
+S  D  5
+S  C  7
+E NT  7
+E  S  8
+E  H  3
+E  D  7
+E  C  6
+W NT  7
+W  S  9
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,88,201,175,168,116,36,237,40,19,15,172,21,14,256,29,24,23,147,73,14,21,10,67,16,18,175,26,37,8,99,10,20,8,62,15,22,8,63,16,14,18,17
+[Auction "N"]
+1C =1= Pass 2H =2= 2S 
+4H 4S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: weak jump shift"]
+[Play "N"]
+HA HT H2 H9 
+C2 C6 CA C9 
+CK C8 C5 CJ 
+DK D3 D9 DA 
+ST S4 S3 SA 
+SQ SK H5 S2 
+H3 HK H6 D4 
+DQ DJ D8 D7 
+D2 -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "17"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT.A843.KQ62.KT2 K9764.KT.JT53.86 3.QJ7652.98.A754 AJ852.9.A74.QJ93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "64a67649577837679376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H 10
+N  D  6
+N  C  7
+S NT  6
+S  S  4
+S  H  9
+S  D  5
+S  C  7
+E NT  7
+E  S  8
+E  H  3
+E  D  7
+E  C  6
+W NT  7
+W  S  9
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,2,0,394,36,471,96,343,34,44,45,32,205,36,279,19,42,14,21,23,25,575,51,33,49,21,36,331,54,33,14,18,95,12,24,302,28,28,35,732,30,78,27,44,23,87,24,72,21,42,15,27,23,27,15,91,27,26,11,21,7,34,12
+[Auction "N"]
+1NT =1= Pass 4C =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: transfer to ♡"]
+[Play "E"]
+DJ D8 D4 DK 
+C8 CA C9 C2 
+HK HQ H9 H3 
+D3 D9 DA D6 
+S7 S3 SA ST 
+C6 C4 CQ CK 
+HT H2 D7 HA 
+D5 C5 S5 DQ 
+DT HJ C3 D2 
+S4 H5 S2 H4 
+S6 H6 S8 H8 
+SK H7 SJ SQ 
+S9 C7 CJ CT 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "18"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9.T9.AKQ2.AJ8543 AK73.AJ43.98.Q62 QT42.KQ7.T6.KT97 J865.8652.J7543."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "a667ba767b3775236752"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  6
+N  D  7
+N  C 11
+S NT 10
+S  S  7
+S  H  6
+S  D  7
+S  C 11
+E NT  3
+E  S  7
+E  H  7
+E  D  5
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  5
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,1,3,229,74,137,90,65,180,153,57,81,78,93,15,26,15,26,11,8,10,16,12,34,23,99,29,41,72,60,13,18,85,25,49,15,1328,36,17,77,21,20,14,24,59
+[Auction "E"]
+1NT Pass 2C 3C 
+3H 3NT Pass Pass 
+Pass 
+[Play "W"]
+H6 H9 HA H7 
+S6 S9 SA S2 
+S5 C3 SK S4 
+S8 C4 S7 SQ 
+H2 C5 C6 CK 
+H5 CA C2 CT 
+H8 C8 CQ C7 
+SJ D2 S3 ST 
+D3 -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "18"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9.T9.AKQ2.AJ8543 AK73.AJ43.98.Q62 QT42.KQ7.T6.KT97 J865.8652.J7543."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1C"]
+[Result "3"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "a667ba767b3775236752"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  6
+N  D  7
+N  C 11
+S NT 10
+S  S  7
+S  H  6
+S  D  7
+S  C 11
+E NT  3
+E  S  7
+E  H  7
+E  D  5
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  5
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 0,2,0,212,127,271,1114,184,153,96,28,129,19,22,13,261,46,28,18,29,23,27,26,23,85,52,15,174,31,214,13,24,23,79,19,38,19,18,24,13,21,21,54,29,29,37,24
+[Auction "E"]
+1C =1= Pass Pass Pass 
+[Note "1: 2+ "]
+[Play "S"]
+DT DJ DQ D8 
+D6 D3 DA D9 
+S2 S5 S9 SA 
+S4 S6 C3 SK 
+HQ H2 HT HJ 
+SQ S8 D2 S3 
+ST SJ C4 S7 
+H7 H5 H9 HA 
+HK H6 DK H3 
+CT D4 C5 CQ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "19"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ54.9873.AQ92.A T986.T4.75.98765 K3.KQ5.KT643.QJ2 Q72.AJ62.J8.KT43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "baac8baac82331523315"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 10
+N  D 12
+N  C  8
+S NT 11
+S  S 10
+S  H 10
+S  D 12
+S  C  8
+E NT  2
+E  S  3
+E  H  3
+E  D  1
+E  C  5
+W NT  2
+W  S  3
+W  H  3
+W  D  1
+W  C  5
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,1,3,176,163,112,115,95,102,73,48,236,70,72,104,201,72,22,29,122,104,18,27,62,13,14,9,177,26,18,28,14,10,26,16,452,25,19,4,49,19,23,37,324,83,12,8,58,41,12,33
+[Auction "S"]
+1C =1= Pass 1D Pass 
+2D Pass 2S Pass 
+2NT Pass 3H Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+♣"]
+[Play "W"]
+H2 H3 HT HK 
+D8 DA D5 D3 
+S2 S4 S6 SK 
+S7 SJ S8 S3 
+C4 CA C5 C2 
+DJ D2 D7 DK 
+CK S5 C6 CQ 
+SQ SA S9 H5 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "19"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ54.9873.AQ92.A T986.T4.75.98765 K3.KQ5.KT643.QJ2 Q72.AJ62.J8.KT43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "baac8baac82331523315"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 10
+N  D 12
+N  C  8
+S NT 11
+S  S 10
+S  H 10
+S  D 12
+S  C  8
+E NT  2
+E  S  3
+E  H  3
+E  D  1
+E  C  5
+W NT  2
+W  S  3
+W  H  3
+W  D  1
+W  C  5
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 14,2,0,170,55,271,41,183,33,101,34,55,20,265,218,26,68,146,34,26,13,403,27,17,15,32,15,23,114,16,61,16,36,23,124,33,17,41,26,8,13,87,25,31,25,21,19,20,11,9,14,69,11,14,19,9
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Note "2: Stayman"]
+[Play "W"]
+H2 H3 HT HQ 
+D8 DA D5 D3 
+DJ DQ D7 D4 
+H6 D9 C9 DK 
+C3 D2 C7 DT 
+S2 S4 C5 D6 
+C4 CA C8 C2 
+S7 S5 S9 SK 
+SQ SA S6 S3 
+CT SJ S8 H5 
+-  H7 H4 HK 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "20"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T954.K982.86.964 A7.AJ74.KT52.AT2 Q.QT53.A974.Q853 KJ8632.6.QJ3.KJ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3252332523ab8b99b8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  2
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H  8
+E  D 11
+E  C  9
+W NT  9
+W  S 11
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,1,3,353,26,97,27,33,19,22,125,34,14,56,22,39,7,105,32,10,16,59,17,21,15,20,21,32,53,305,50,20,30,32,18,9,10,13,12,50,8,9
+[Auction "W"]
+2S =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak2 6-11"]
+[Play "N"]
+H8 HA H3 H6 
+S4 SA SQ S2 
+S5 S7 D4 SK 
+S9 H4 C5 SJ 
+D8 D2 DA DQ 
+C9 CT C3 C7 
+D6 D5 D7 DJ 
+ST DK D9 D3 
+HK -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "20"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T954.K982.86.964 A7.AJ74.KT52.AT2 Q.QT53.A974.Q853 KJ8632.6.QJ3.KJ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3252332523ab8b99b8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  2
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H  8
+E  D 11
+E  C  9
+W NT  9
+W  S 11
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,0,101,86,379,223,101,80,45,112,25,63,47,151,194,29,23,122,54,20,4,77,12,40,22,31,15,28,16,39,11,32,21
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2S =2= Pass 4S Pass 
+Pass Pass 
+[Note "1: NAT or Bal 11+ or INV+ 3 card S raise"]
+[Note "2: 6+s, weak"]
+[Play "N"]
+D8 D2 DA D3 
+S4 SA SQ S2 
+S5 S7 C8 SK 
+S9 H4 H3 SJ 
+D6 D5 D4 DJ 
+-  -  -  DQ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "21"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:984.Q973.A75.KQ2 AK72.82.T43.9765 53.KJ65.KQ9.AT83 QJT6.AT4.J862.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "86a7986a795735457354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  7
+N  C  9
+S NT  8
+S  S  6
+S  H 10
+S  D  7
+S  C  9
+E NT  5
+E  S  7
+E  H  3
+E  D  5
+E  C  4
+W NT  5
+W  S  7
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,1,3,42,117,79,180,259,50,331,66,97,59,31,28,60,137,11,9,35,18,12,8,19,16,34,8,24,100,10,14,61,21,11,21,16,27,11,11,23,11,13,14
+[Auction "N"]
+Pass Pass 1H Pass 
+2D =1= Pass 3C =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 8+ 4+H"]
+[Note "2: game try"]
+[Play "W"]
+SQ S4 S7 S3 
+SJ S8 SK S5 
+S6 S9 SA H6 
+HA H3 H2 HK 
+D6 D5 DT DK 
+H4 H7 H8 HJ 
+HT HQ S2 H5 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "21"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:984.Q973.A75.KQ2 AK72.82.T43.9765 53.KJ65.KQ9.AT83 QJT6.AT4.J862.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "86a7986a795735457354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  7
+N  C  9
+S NT  8
+S  S  6
+S  H 10
+S  D  7
+S  C  9
+E NT  5
+E  S  7
+E  H  3
+E  D  5
+E  C  4
+W NT  5
+W  S  7
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 4,2,0,192,39,162,46,322,30,54,247,17,16,34,16,20,39,405,24,84,44,100,165,39,29,21,31,50,45,54,63,12,90,22
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+SQ S4 S2 S3 
+S6 S8 SK S5 
+ST S9 SA H5 
+DJ DA D3 D9 
+HA H3 H8 HK 
+SJ H7 S7 C3 
+D2 -  -  -  
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "22"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.AQ863.KQT5.T9 AQ432.J9.96.J853 K5.T5.A732.A7642 JT86.K742.J84.KQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "869b9869b95742457424"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D 11
+N  C  9
+S NT  8
+S  S  6
+S  H  9
+S  D 11
+S  C  9
+E NT  5
+E  S  7
+E  H  4
+E  D  2
+E  C  4
+W NT  5
+W  S  7
+W  H  4
+W  D  2
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 13,1,3,134,100,95,29,50,117,183,466,60,28,28,41,21,23,127,26,26,11,185,24,30,30,21,23,54,13,141,23,19,17,64,180,99,24,18,19,8,39,33
+[Auction "E"]
+Pass 1C =1= Pass 1H 
+1S 2C 3S Pass 
+Pass Pass 
+[Note "1: 2+♣"]
+[Play "S"]
+HT H2 HQ H9 
+D7 D4 DK D6 
+CA CQ CT C3 
+H5 H4 HA HJ 
+D2 D8 DQ D9 
+SK H7 H3 SQ 
+DA DJ D5 S2 
+-  -  -  SA 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "22"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.AQ863.KQT5.T9 AQ432.J9.96.J853 K5.T5.A732.A7642 JT86.K742.J84.KQ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "869b9869b95742457424"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D 11
+N  C  9
+S NT  8
+S  S  6
+S  H  9
+S  D 11
+S  C  9
+E NT  5
+E  S  7
+E  H  4
+E  D  2
+E  C  4
+W NT  5
+W  S  7
+W  H  4
+W  D  2
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 12,2,0,77,51,99,230,82,95,66,69,39,390,43,39,31,22,225,38,17,32,26,24,14,80,57,26,10,63,30,46,392,95,19,26,38,187,21,11,14,24,29,26,25,114,21,26,13,16,19,33,15,41,15,25,38
+[Auction "E"]
+Pass Pass Pass 1H 
+1S 2C 2S Pass 
+Pass 3H Pass Pass 
+Pass 
+[Play "E"]
+C3 CA CQ C9 
+H9 H5 H2 HQ 
+SA S5 S8 S7 
+HJ HT H4 HA 
+S2 C2 H7 H3 
+C5 C4 CK CT 
+S3 SK SJ S9 
+D9 D2 D4 DK 
+D6 DA D8 D5 
+S4 D3 DJ DQ 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "23"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:JT432.K5.9.AQ532 96.A3.AKQ854.K87 K5.QJT9876.J6.J6 AQ87.42.T732.T94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "3673636736a75a6a75a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  3
+N  C  6
+S NT  3
+S  S  6
+S  H  7
+S  D  3
+S  C  6
+E NT 10
+E  S  7
+E  H  5
+E  D 10
+E  C  6
+W NT 10
+W  S  7
+W  H  5
+W  D 10
+W  C  6
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 17,1,3,187,56,227,45,69,15,140,123,21,115,194,29,12,14,15,26,30,8,9,20,13,8,16,21,20,15,328,25,16,21,41,107,25,13,24,15,9,4
+[Auction "S"]
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+H4 H5 H3 H6 
+D2 D9 DA DJ 
+H2 HK HA H7 
+D3 S2 DK D6 
+D7 S3 DQ H8 
+C4 C2 CK CJ 
+SQ S4 S9 S5 
+SA ST S6 SK 
+*
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "23"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:JT432.K5.9.AQ532 96.A3.AKQ854.K87 K5.QJT9876.J6.J6 AQ87.42.T732.T94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "3673636736a75a6a75a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  3
+N  C  6
+S NT  3
+S  S  6
+S  H  7
+S  D  3
+S  C  6
+E NT 10
+E  S  7
+E  H  5
+E  D 10
+E  C  6
+W NT 10
+W  S  7
+W  H  5
+W  D 10
+W  C  6
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,469,48,199,35,51,27,102,53,105,40,19,20,26,91,16,174,30,49,16,14,19,32,92,882,26,26,81,20,125,36,28,40,26,28,19,25,31,18,75,17,21,27,25,61,27,13,16,25,25,15,14,24,14,23,10,10,26,21,13
+[Auction "S"]
+3D =1= Pass 3H 3NT 
+Pass Pass Pass 
+[Note "1: ♡ pre-empt"]
+[Play "S"]
+HQ H2 HK H3 
+H6 H4 H5 HA 
+D6 D2 D9 DA 
+DJ D7 C2 DK 
+H7 DT S3 D4 
+H8 D3 S2 D8 
+H9 C4 C3 DQ 
+HT S7 C5 D5 
+S5 SQ S4 S6 
+SK SA ST S9 
+C6 C9 CA C7 
+HJ S8 SJ C8 
+CJ CT CQ CK 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "24"]
+[West "Pete van Praag#37299"]
+[North "Jamie Fegarty#169858"]
+[East "Vic Holden#101442"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:JT96.Q6.AJ97.J32 KQ852.9754.8.T76 A43.AJT3.Q43.KQ8 7.K82.KT652.A954"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2DX"]
+[Result "4"]
+[Score "NS 800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "a8898a88983534435344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  8
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 6,1,3,280,33,63,27,364,563,66,107,64,35,37,85,51,16,28,26,88,36,23,662,38,12,10,24,21,14,28,158,25,8,9,17,69,12,9,325,43,39,16,24,25,7,14,84,26,12,10,90,117,24,30,34,20,19,11,20,13,18,29,20,13,11,7,10,13,8,9
+[Auction "W"]
+Pass Pass Pass 1NT =1= 
+X =2= XX =3= 2C Pass 
+2D Pass Pass X =4= 
+Pass Pass Pass 
+[Note "1:  * 15-7 [0:06]"]
+[Note "2: demands 2C from partner"]
+[Note "3: values"]
+[Note "4: takeout"]
+[Play "N"]
+SJ SK SA S7 
+H6 H4 HA H2 
+HQ H5 HJ HK 
+C2 C6 C8 CA 
+CJ C7 CQ C4 
+D9 D8 D3 D2 
+C3 CT CK C5 
+S6 H7 HT H8 
+D7 H9 H3 D5 
+S9 SQ S4 C9 
+ST S2 S3 D6 
+DJ S5 D4 DT 
+DA S8 DQ DK 
+
+[Event "24 Feb Fegarty vs Meats"]
+[Site "RealBridge"]
+[Date "2025.02.24"]
+[Board "24"]
+[West "Catherine Curtis#113739"]
+[North "Alastair Spence#489102"]
+[East "Paul Fegarty#29653"]
+[South "Philip Meats#111448"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:JT96.Q6.AJ97.J32 KQ852.9754.8.T76 A43.AJT3.Q43.KQ8 7.K82.KT652.A954"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Meats team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "a8898a88983534435344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  9
+N  C  8
+S NT 10
+S  S  8
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,98,110,136,99,34,96,25,41,33,131,30,216,35,35,15,28,175,13,35,259,28,20,18,65,27,64,27,20,43,40,45,388,44,15,12,111,200,34,36,26,116,320,23,20,23,10,28,281,29,12,10,9
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1S Pass 1NT 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+D5 D7 D8 DQ 
+D2 D9 S2 D3 
+HK HQ H7 H3 
+S7 S9 SQ SA 
+C5 C2 C6 CQ 
+H2 ST SK S4 
+CA C3 CT C8 
+C4 CJ C7 CK 
+H8 H6 H4 HA 
+-  -  -  HT 
+*

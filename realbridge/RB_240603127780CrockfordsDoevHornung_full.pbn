@@ -1,0 +1,4126 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "1"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:7.AQJT87.T75.953 AJ65.6.AK98.JT62 T8.K542.Q632.AQ4 KQ9432.93.J4.K87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "52753527536b5796b579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  7
+N  D  5
+N  C  3
+S NT  5
+S  S  2
+S  H  7
+S  D  5
+S  C  3
+E NT  6
+E  S 11
+E  H  5
+E  D  7
+E  C  9
+W NT  6
+W  S 11
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,418,239,275,53,59,55,158,44,33,31,20,155,190,36,34,31,38,30,13,23,20,14,11,75,18,41,14,35,25,19,14,13,19,16,16,33,19,18,20
+[Auction "N"]
+2D =1= Pass 2S =2= Pass 
+3H X 4H 4S 
+Pass Pass Pass 
+[Note "1: Wk Maj, str min or str bal"]
+[Note "2: Pref bid willing to play in at least 3♡"]
+[Play "N"]
+HA H6 H5 H3 
+D7 DA D6 D4 
+S7 S5 S8 SK 
+H8 S6 ST SQ 
+HT SJ H2 H9 
+C3 CJ C4 C7 
+C5 C2 CA C8 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "1"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:7.AQJT87.T75.953 AJ65.6.AK98.JT62 T8.K542.Q632.AQ4 KQ9432.93.J4.K87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "52753527536b5796b579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  7
+N  D  5
+N  C  3
+S NT  5
+S  S  2
+S  H  7
+S  D  5
+S  C  3
+E NT  6
+E  S 11
+E  H  5
+E  D  7
+E  C  9
+W NT  6
+W  S 11
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,1012,121,246,83,134,72,550,142,156,32,53,25,23,87,241,56,48,117,32,23,33,36,28,25,34,48,28,32,16,30,17,29,12,27,42,25,27
+[Auction "N"]
+2D =1= Pass 2S =2= Pass 
+3C =3= Pass 3H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: Usually W2M, rare strong hands"]
+[Note "2: P/C (implies ♡ raise)"]
+[Note "3: W2♡"]
+[Play "N"]
+HA H6 H2 H3 
+C5 C2 CA C8 
+C3 C6 CQ CK 
+S7 S5 S8 SK 
+H7 SA ST S2 
+H8 S6 H4 S9 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "2"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT86.Q972.94.842 J742.4.AQ85.AQJ6 A95.A85.K7632.T9 K3.KJT63.JT.K753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "45553455539887a9787a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  4
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S  7
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,368,73,39,34,36,51,24,131,23,13,19,48,91,142,219,31,20,34,15,38,596,35,21,11,21,34,34,15,38,54,17,13,25
+[Auction "E"]
+1D =1= Pass 1H Pass 
+1S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: Unbal hand, 5+ diamonds unless 4441"]
+[Play "N"]
+S6 S2 S5 SK 
+D9 D5 DK DJ 
+HQ H4 H5 HJ 
+ST S4 S9 S3 
+S8 SJ SA H3 
+-  -  HA -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "2"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QT86.Q972.94.842 J742.4.AQ85.AQJ6 A95.A85.K7632.T9 K3.KJT63.JT.K753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "45553455539887a9787a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  4
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C 10
+W NT  9
+W  S  7
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,299,94,131,51,209,57,181,93,37,39,23,44,63,303,25,42,49,55,27,71,76,69,33,25,62,65,15,29,31,67,30,22,45,26,31,23,76,40,23,39
+[Auction "E"]
+1C =1= Pass 1D =2= Pass 
+1S =3= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: May be 1 May have 5d bal"]
+[Note "2: ♡"]
+[Note "3: Shows sp  and denies 3H"]
+[Play "N"]
+C4 C6 C9 CK 
+D4 D5 DK DJ 
+HQ H4 H5 HJ 
+H2 S2 HA H6 
+H7 S4 H8 HK 
+H9 S7 D2 HT 
+S6 SJ S5 H3 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "3"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT765.J.J7432.84 K4.T853.AKT6.J53 8.KQ94.985.AT976 QJ932.A762.Q.KQ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "44577445778886688866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  4
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  8
+W  S  8
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 17,2,1,84,28,32,91,54,27,39,96,86,22,35,43,158,19,8,439,30,25,8,17,20,116,12,42,14,16,8,19,27,12,14,24,79
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+HJ H3 H4 H2 
+SA S4 S8 S2 
+S6 SK H9 S3 
+C8 C3 CA C2 
+C4 C5 C6 CK 
+D4 -  -  HA 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "3"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT765.J.J7432.84 K4.T853.AKT6.J53 8.KQ94.985.AT976 QJ932.A762.Q.KQ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "44577445778886688866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  4
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  8
+W  S  8
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 17,0,3,81,94,33,127,58,47,28,152,29,65,31,18,19,79,84,459,43,162,36,63,12,80,32,25,12,16,37,10,28,15,30,13,21,13,17,18,15,31,62,22,24,184,29,13,34,53,41,30,11,69,26,17,20,43,25,16,21,40,13,19,13,22,16,17,9
+[Auction "S"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: Forcing"]
+[Play "N"]
+C8 C3 C7 CQ 
+D4 D6 D9 DQ 
+SA S4 S8 SJ 
+S5 SK H4 S2 
+C4 C5 CA CK 
+HJ CJ CT C2 
+S6 H8 H9 S3 
+D2 H3 HK HA 
+D3 HT HQ H2 
+D7 DT D5 S9 
+DJ DA D8 SQ 
+S7 H5 C6 H6 
+ST DK C9 H7 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "4"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT73.82.AQJ7.852 K54.QJ63.93.Q643 6.A54.8652.KJT97 QJ982.KT97.KT4.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "956ba856ba3771338713"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  6
+N  D 11
+N  C 10
+S NT  8
+S  S  5
+S  H  6
+S  D 11
+S  C 10
+E NT  3
+E  S  7
+E  H  7
+E  D  1
+E  C  3
+W NT  3
+W  S  8
+W  H  7
+W  D  1
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 18,2,1,63,34,176,50,287,43,377,87,30,21,87,71,33,22,33,18,28,17,15,24,19,21,45,26,37,15,17,40,11,11,428,25,52,11,15,45,16,18,10,26,12,12,8,38,20,15,21,11,19,19,15,19,15,13,13,18,10,9,23,7,17,9
+[Auction "W"]
+1S Pass 2S =1= Pass 
+3C =2= Pass 4S Pass 
+Pass Pass 
+[Note "1: Constructive 7-9pts"]
+[Note "2: short suit try"]
+[Play "N"]
+C5 C3 C9 CA 
+S3 SK S6 S9 
+DA D3 D5 DK 
+C8 C4 CT S2 
+DJ D9 D2 D4 
+SA S4 C7 S8 
+C2 CQ CK SJ 
+DQ S5 D6 DT 
+H8 H3 HA H7 
+H2 C6 CJ SQ 
+S7 H6 H4 H9 
+D7 HJ D8 HT 
+ST HQ H5 HK 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "4"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT73.82.AQJ7.852 K54.QJ63.93.Q643 6.A54.8652.KJT97 QJ982.KT97.KT4.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "956ba856ba3771338713"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  6
+N  D 11
+N  C 10
+S NT  8
+S  S  5
+S  H  6
+S  D 11
+S  C 10
+E NT  3
+E  S  7
+E  H  7
+E  D  1
+E  C  3
+W NT  3
+W  S  8
+W  H  7
+W  D  1
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 8,0,3,222,38,58,128,152,51,61,85,67,28,66,31,22,21,24,19,15,13,101,30,26,51,149,95,25,11,46,30,26,39,34,27,20,27,28,24,26,11,50,22,25,27,31,25,38,29,22,67,23,10,23,21,9,22,13,13,17,10
+[Auction "W"]
+1S Pass 2S =1= Pass 
+Pass Pass 
+[Note "1:  * 8-10 points 3 sp [0:13]"]
+[Play "N"]
+H8 H3 HA H9 
+DA D3 D6 DK 
+DJ D9 D2 D4 
+C5 C3 C9 CA 
+DQ S4 D5 DT 
+SA S5 S6 SQ 
+C8 C4 CT S2 
+S3 SK C7 S8 
+H2 H6 H4 HK 
+S7 C6 CJ SJ 
+ST HJ H5 H7 
+C2 CQ CK S9 
+D7 HQ D8 HT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "5"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:3.A985.KJ9865.64 JT962.J64.72.AQ9 Q874.K732.AT4.87 AK5.QT.Q3.KJT532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "45994459945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  9
+N  D  9
+N  C  4
+S NT  4
+S  S  5
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,55,192,37,88,45,83,32,19,25,25,24,102,54,62,14,39,18,23,9,96,30,18,16,25,59,25,14,29,34,10,23
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+Pass 2H =2= Pass 2S 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: ♠"]
+[Play "N"]
+D8 D2 DA D3 
+DK D7 DT DQ 
+C6 CA C8 C2 
+S3 SJ SQ SA 
+D9 S2 S4 SK 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "5"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:3.A985.KJ9865.64 JT962.J64.72.AQ9 Q874.K732.AT4.87 AK5.QT.Q3.KJT532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "45994459945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  9
+N  D  9
+N  C  4
+S NT  4
+S  S  5
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,0,3,84,32,58,58,379,278,105,62,51,24,35,44,17,65,20,23,12,119,17,11,10,67,17,9,15,103,26,12,19,32,13,11,19,15,17,17,18,107,15,18,16,26,40,12,12,152,26,10,42
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+2C =2= 2S Pass Pass 
+Pass 
+[Note "1:  * 15-17 [0:25]"]
+[Note "2: ♡ & another, if ♠, ♠ better"]
+[Play "S"]
+H2 HT HA H4 
+HK HQ H5 H6 
+DA D3 D5 D2 
+DT DQ DK D7 
+H3 C2 H9 HJ 
+S4 SA S3 S2 
+S7 SK D6 S6 
+SQ S5 D8 S9 
+H7 C3 H8 ST 
+S8 C5 D9 SJ 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "6"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT6.QJT63.543.64 92.K842.QJ.T9753 AJ54.75.KT97.AQ8 Q873.A9.A862.KJ2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66774667745666857668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  7
+N  C  4
+S NT  6
+S  S  6
+S  H  7
+S  D  7
+S  C  4
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,130,228,51,50,52,32,34,156,39,95,75,163,32,26,83,17,9,11,21,10,21,53,28,15,9,19,51,71,26,85,176,15,14,121,17,15,61,33,7,20,11,18,36,21,83,21,26,18,17,13,15,5,14,12,17,8,9,9,4,14,6
+[Auction "E"]
+Pass 1C =1= Pass 1H 
+Pass 1NT Pass Pass 
+Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Play "W"]
+S3 S6 S9 SJ 
+HA H3 H2 H7 
+S7 ST S2 S4 
+H9 HQ H4 H5 
+D8 HJ HK D7 
+C2 C4 CT CA 
+S8 SK C7 S5 
+D2 HT H8 D9 
+CJ H6 C3 C8 
+DA D3 DJ DK 
+CK C6 C5 CQ 
+SQ D4 C9 SA 
+D6 D5 DQ DT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "6"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT6.QJT63.543.64 92.K842.QJ.T9753 AJ54.75.KT97.AQ8 Q873.A9.A862.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66774667745666857668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  7
+N  C  4
+S NT  6
+S  S  6
+S  H  7
+S  D  7
+S  C  4
+E NT  5
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 10,0,3,95,176,68,75,39,109,49,39,123,38,107,43,38,100,89,251,52,17,24,36,52,15,226,19,24,12,21,26,28,17,226,33,28,10,35,20,27,24,53,59,65,19,36,69,30,32,28,55,49,20,24,22,18,11,16,24,12,21
+[Auction "E"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H =3= X Pass 
+2NT =4= Pass 3C =5= Pass 
+Pass Pass 
+[Note "1: 14-16, may have a singleton"]
+[Note "2: ♡"]
+[Note "3: <4♡"]
+[Note "4:  * lebensohl style [0:20]"]
+[Note "5: as requested"]
+[Play "N"]
+HQ HK H5 H9 
+D5 DQ DK DA 
+D3 DJ D7 D2 
+C4 C3 C8 CJ 
+H3 H2 H7 HA 
+D4 C5 D9 D6 
+H6 H4 S4 C2 
+HT C7 DT D8 
+HJ H8 S5 CK 
+S6 S2 SJ S3 
+C6 C9 CA S7 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "7"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:843.942.Q43.KJ86 KJ76.A76.AJ75.A7 T5.3.KT982.QT943 AQ92.KQJT85.6.52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS -2210"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1016610166cdc76cdc76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  1
+N  D  6
+N  C  6
+S NT  1
+S  S  0
+S  H  1
+S  D  6
+S  C  6
+E NT 12
+E  S 13
+E  H 12
+E  D  7
+E  C  6
+W NT 12
+W  S 13
+W  H 12
+W  D  7
+W  C  6
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 33,2,1,69,31,22,182,54,20,28,1315,95,37,38,262,46,53,43,186,38,255,117,20,17,222,592,30,7,13,17,7,17,7,14,11,17,9,18,35,17,56,18,7,79
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2S Pass 4C =1= 
+Pass 4D =2= Pass 4H =3= 
+Pass 4NT Pass 5C =4= 
+Pass 7S Pass Pass 
+Pass 
+[Note "1: Cue - 1st / 2nd"]
+[Note "2:  * 1st or 2nd [0:17]"]
+[Note "3: Cue"]
+[Note "4: 1 or 4"]
+[Play "S"]
+S5 SA S3 S6 
+D2 D6 D3 DA 
+D8 S2 D4 D5 
+ST SQ S4 S7 
+C3 S9 S8 SK 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "7"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:843.942.Q43.KJ86 KJ76.A76.AJ75.A7 T5.3.KT982.QT943 AQ92.KQJT85.6.52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1016610166cdc76cdc76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  1
+N  D  6
+N  C  6
+S NT  1
+S  S  0
+S  H  1
+S  D  6
+S  C  6
+E NT 12
+E  S 13
+E  H 12
+E  D  7
+E  C  6
+W NT 12
+W  S 13
+W  H 12
+W  D  7
+W  C  6
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 27,0,3,334,189,105,249,115,24,33,46,121,158,24,54,35,20,16,26,15,27,40
+[Auction "S"]
+2NT =1= 3H 4C 6H 
+Pass Pass Pass 
+[Note "1: 5-10, 5+♣ and 5+♢"]
+[Play "N"]
+D3 DA DT D6 
+H2 H6 H3 HK 
+H4 HA D2 H5 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "8"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J42.KJ654.74.AT3 T8.T9.A62.KQJ742 A96.32.QJ985.986 KQ753.AQ87.KT3.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3444234452998799988a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  3
+S  S  4
+S  H  4
+S  D  5
+S  C  2
+E NT  9
+E  S  9
+E  H  8
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,98,42,277,31,23,35,32,55,28,21,26,144,29,622,27,24,10,20,16,19,46,20,9,149,130,139,36,10,39,13,100,22,24,17,9,8,50,20,8,8,14,21,11,55,180,19,35,72,308,30,207,22,9,12,20,7,10,12,7
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: Wide ranging"]
+[Play "S"]
+DQ DK D7 D2 
+C6 C5 C3 CQ 
+C8 S3 CA CK 
+DJ D3 D4 D6 
+D9 DT S4 DA 
+C9 S5 CT CJ 
+S6 H7 H4 C7 
+S9 H8 H5 C4 
+H2 S7 S2 C2 
+H3 HQ HK HT 
+D5 HA H6 H9 
+-  SQ SJ S8 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "8"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J42.KJ654.74.AT3 T8.T9.A62.KQJ742 A96.32.QJ985.986 KQ753.AQ87.KT3.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3444234452998799988a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  4
+N  D  4
+N  C  2
+S NT  3
+S  S  4
+S  H  4
+S  D  5
+S  C  2
+E NT  9
+E  S  9
+E  H  8
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,283,45,95,52,28,31,22,24,106,36,47,25,23,19,315,160,32,9,23,33,11,42,32,23,13,18,22,37,22,17,30,16,31,16,29,23,20,13,24,30,13,38,38,17,13,12,54,16,13,24,16,27,17,12,21,14,11,12,13,138,45,9,10,27,8,7
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2H Pass 2NT Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Note "1: forcing"]
+[Play "S"]
+DQ DK D4 D2 
+C6 C5 C3 CK 
+C8 H7 CA CQ 
+DJ D3 D7 D6 
+D9 DT S4 DA 
+C9 H8 CT CJ 
+S9 S3 H6 C7 
+S6 S5 S2 C4 
+H2 HQ H4 C2 
+SA S7 SJ ST 
+D8 SQ H5 H9 
+D5 SK HJ HT 
+H3 HA HK S8 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "9"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ6.765.T8752.62 9843.Q43.63.KJ43 KQ.AKJ8.94.AQT85 T752.T92.AKQJ.97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "88999889994534345343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  9
+N  C  9
+S NT  8
+S  S  8
+S  H  9
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  3
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 0,2,1,80,471,203,34,69,189,40,190,27,13,46,26,5,15,64,320,25,21,11,23,13,19,9,12,9,10,19,20,19,15,40,23,15,7,23,50,19,17,231,29,53,14,9,30,9,13,14,17,9,6,13,16,11,5,14,12,6,7
+[Auction "N"]
+Pass Pass 1C =1= Pass 
+Pass Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Play "W"]
+DA D2 D6 D4 
+DK D5 D3 D9 
+S2 S6 S8 SK 
+S7 SA S3 SQ 
+S5 SJ S4 H8 
+C7 C2 C3 CQ 
+C9 C6 C4 CA 
+DJ H5 CJ CT 
+HT H6 CK C5 
+ST H7 S9 C8 
+H2 D7 H3 HA 
+H9 D8 H4 HK 
+DQ DT HQ HJ 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "9"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ6.765.T8752.62 9843.Q43.63.KJ43 KQ.AKJ8.94.AQT85 T752.T92.AKQJ.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "88999889994534345343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  9
+N  C  9
+S NT  8
+S  S  8
+S  H  9
+S  D  9
+S  C  9
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  3
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,0,3,589,105,457,26,87,90,76,25,22,59,12,18,44,28,15,12,22,28,20,10,71,14,14,39,180,53,14,30,31,85,12,46,87,20,18,19,50,26,14,8,12,17,12,9,17,17,11,11,17,29,16,9,34,7,44,16
+[Auction "N"]
+3D =1= Pass Pass Pass 
+[Note "1: 5+♢, 0+ HCP (may be normal p/e)"]
+[Play "E"]
+S9 SQ S2 S6 
+D3 D9 DJ D2 
+S4 SK S5 SJ 
+D6 D4 DQ D5 
+S3 C5 S7 SA 
+C4 C8 DK DT 
+S8 H8 ST D8 
+C3 CQ C7 C6 
+H4 HA H2 H5 
+H3 HK HT H6 
+CJ CA C9 C2 
+CK CT H9 D7 
+HQ HJ DA H7 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "10"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK87.KT4.T2.KQJT 2.QJ82.976.A8532 J9643.A75.A83.97 QT5.963.KQJ54.64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "8b7678b7672257422675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S 11
+S  H  7
+S  D  6
+S  C  7
+E NT  2
+E  S  2
+E  H  5
+E  D  7
+E  C  4
+W NT  2
+W  S  2
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,185,35,50,78,32,160,49,147,51,302,48,33,86,16,32,245,142,13,17,16,9,10,14,18,225,23,13,16,57,18,10,9,18,15,9,12,21,87,16,10
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass 2C =2= Pass 2D =3= 
+Pass 2H =4= Pass 4S 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 5 card Muppet Stayman"]
+[Note "3: at least 1 4 card major"]
+[Note "4: 4+ ♠"]
+[Play "E"]
+D7 DA D4 D2 
+S2 S3 S5 SA 
+C5 S4 ST SK 
+CA C7 C4 CK 
+D9 D3 DJ DT 
+C2 S6 SQ S7 
+-  -  DK -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "10"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK87.KT4.T2.KQJT 2.QJ82.976.A8532 J9643.A75.A83.97 QT5.963.KQJ54.64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "8b7678b7672257422675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S 11
+S  H  7
+S  D  6
+S  C  7
+E NT  2
+E  S  2
+E  H  5
+E  D  7
+E  C  4
+W NT  2
+W  S  2
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,141,34,56,181,65,174,41,326,53,554,54,59,41,28,23,32,19,62,139,24,16,49,25,15,17,15,14,11,32,43,36,11,24,99,22,25,14
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass 2H =2= Pass 2NT =3= 
+Pass 3H =4= Pass 3S =5= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 14-16 may have a stiff"]
+[Note "2: 5+♠"]
+[Note "3: 4+♠, unspecified weak doubleton"]
+[Note "4: Instruction to bid 3♠"]
+[Note "5: forced"]
+[Play "E"]
+HQ H5 H6 HK 
+S2 S3 S5 SA 
+C2 S4 ST SK 
+CA C7 C4 CK 
+H2 H7 H9 HT 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "11"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A97.K63.A986.K65 T85.AJ5.KQJ3.AQ2 KQ2.Q42.T542.T74 J643.T987.7.J983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "66566655657787777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  6
+S  C  5
+E NT  7
+E  S  7
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,85,42,162,130,34,213,44,52,28,16,43,141,16,144,54,129,13,197,34,20,22,62,21,25,26,27,26,12,14,14,25,96,23,13,28,13,24,74,20,15,23,20,13,19,12,15,11,19,14,21,13,28,10
+[Auction "S"]
+Pass Pass 1C =1= 1NT 
+Pass 2C =2= Pass 2D =3= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 2+; may have 5 ♢ in a balanced hand"]
+[Note "2: stayman"]
+[Note "3:  * No major [0:05]"]
+[Play "N"]
+DA D3 D5 D7 
+C5 C2 CT CJ 
+H3 H5 HQ HT 
+S7 S5 SK S3 
+S9 S8 SQ S4 
+SA ST S2 S6 
+C6 CQ C4 C3 
+D6 DJ D2 H7 
+H6 HJ H2 H8 
+HK HA H4 H9 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "11"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A97.K63.A986.K65 T85.AJ5.KQJ3.AQ2 KQ2.Q42.T542.T74 J643.T987.7.J983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "66566655657787777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  6
+S  C  5
+E NT  7
+E  S  7
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,69,42,61,78,159,122,237,82,372,33,199,35,328,176,47,28,69,28,16,27,39,51,27,31,34,52,31,36,82,86,19,14,73,25,12,10,25,19,11,45,18,13,11,50,177,22,15,13,17,19,20,11,13,12,16,19,12,13,17,10,9,12,16,12
+[Auction "S"]
+Pass Pass 1NT =1= X 
+XX 2C X =2= Pass 
+2D Pass Pass Pass 
+[Note "1: 14-16 may have a stiff"]
+[Note "2: Would sit for, but not make, a pen X of ♣"]
+[Play "W"]
+H8 H3 H5 HQ 
+D7 D8 DJ D2 
+S3 S7 S5 SK 
+H7 D9 DQ D4 
+S4 S9 ST SQ 
+S6 SA S8 S2 
+SJ DA D3 D5 
+C3 D6 DK DT 
+H9 H6 HA H2 
+HT HK HJ H4 
+C8 C5 CQ C4 
+C9 C6 CA C7 
+CJ CK C2 CT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "12"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J3.97532.762.AJ9 A986.J4.AT5.T743 K.AQT8.KQJ43.KQ6 QT7542.K6.98.852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "55aa655aa67833778337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H 10
+N  D 10
+N  C  6
+S NT  5
+S  S  5
+S  H 10
+S  D 10
+S  C  6
+E NT  7
+E  S  8
+E  H  3
+E  D  3
+E  C  7
+W NT  7
+W  S  8
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,185,110,81,39,28,46,72,67,15,710,47,14,19,13,100,31,28,144,32,10,25,17,18,11,10,31,112,13,12,14,39,10,17,7,28,17,19,18,27,20,19,25,17,11,11,20,124,20,13,14
+[Auction "W"]
+2S =1= Pass 3S X 
+Pass 4H 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: weak 5+♠"]
+[Play "N"]
+H7 H4 HA H6 
+D2 DA DK D8 
+S3 SA SK S2 
+SJ S6 H8 SQ 
+H2 HJ HT HK 
+CJ C3 C6 C2 
+D7 D5 DJ D9 
+D6 DT DQ S7 
+C9 CT CQ C5 
+-  -  CK -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "12"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J3.97532.762.AJ9 A986.J4.AT5.T743 K.AQT8.KQJ43.KQ6 QT7542.K6.98.852"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "55aa655aa67833778337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H 10
+N  D 10
+N  C  6
+S NT  5
+S  S  5
+S  H 10
+S  D 10
+S  C  6
+E NT  7
+E  S  8
+E  H  3
+E  D  3
+E  C  7
+W NT  7
+W  S  8
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,315,33,44,392,63,97,35,166,53,81,33,193,114,23,23,83,149,31,22,103,85,33,21,73,34,11,7,20,26,13,13,11,14,24,30
+[Auction "W"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 2D 
+Pass 2NT =3= Pass 4H 
+Pass Pass Pass 
+[Note "1: 17+ and some unbalanced 16s"]
+[Note "2: any 0-7"]
+[Note "3: ♡ * 5+♡ [0:26]"]
+[Play "W"]
+S4 S3 SA SK 
+D8 D2 D5 DK 
+H6 H2 H4 HA 
+C2 CA C3 CK 
+HK H3 HJ HQ 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "13"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ93.JT854.43.93 A72.6.KT75.AKT87 QT84.A92.Q96.Q54 65.KQ73.AJ82.J62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "4652246522878aa878aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  2
+N  C  2
+S NT  4
+S  S  6
+S  H  5
+S  D  2
+S  C  2
+E NT  8
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S  7
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,1,129,320,32,199,48,230,43,121,57,182,43,32,20,66,473,18,24,36,21,271,19,788,34,29,13,91,25,7,16,645,24,106,14,164,20,15,22,210,20,25,6,20,21,12,7,20
+[Auction "N"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2C =3= Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2+♣, can have 5♢ if bal"]
+[Note "2: 4+♡"]
+[Note "3: <3 hearts"]
+[Play "S"]
+S4 S5 SK S7 
+S8 S6 S3 S2 
+SQ H3 S9 SA 
+C4 C2 C9 CA 
+C5 CJ C3 CK 
+CQ C6 H8 CT 
+HA H7 H5 H6 
+ST D2 SJ D5 
+-  -  H4 -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "13"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ93.JT854.43.93 A72.6.KT75.AKT87 QT84.A92.Q96.Q54 65.KQ73.AJ82.J62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "4652246522878aa878aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  2
+N  C  2
+S NT  4
+S  S  6
+S  H  5
+S  D  2
+S  C  2
+E NT  8
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S  7
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,0,3,65,189,73,114,35,135,45,264,55,167,36,187,47,275,206,35,51,103,31,26,16,24,30,45,30,50,27,11,56,246,29,25,26,80,15,140,17,146,17,29,12,61,30,32,11,34,16,35,10,95,17,30,20,100,20,36,45,18,19,13,13,14,19,10,19
+[Auction "N"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2C =3= Pass 2D 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: May be 1 may have 5d bal"]
+[Note "2: 4+♡"]
+[Note "3: show c denies 3h"]
+[Play "N"]
+S3 SA S4 S5 
+H8 H6 HA H7 
+S9 S2 S8 S6 
+SK S7 ST D2 
+C3 CA C5 C2 
+D3 D5 D6 DJ 
+D4 D7 D9 DA 
+H4 C7 H2 HK 
+H5 C8 H9 HQ 
+C9 CK C4 C6 
+SJ DK DQ D8 
+HT CT CQ CJ 
+HJ DT SQ H3 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "14"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J9542.8.Q93.KQ82 76.QT762.A52.943 K83.J95.T76.T765 AQT.AK43.KJ84.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2521526215a7bb7a7bb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  6
+S  H  2
+S  D  1
+S  C  5
+E NT 10
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT 10
+W  S  7
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,66,27,129,94,46,27,326,55,516,40,19,23,12,11,134,112,23,47,10,67,12,14,113,50,58,13,17,13,11,23,142,23,21,11,16,23,11,16,14,17,16,163,218
+[Auction "E"]
+Pass Pass 2NT =1= Pass 
+3D =2= Pass 3S =3= Pass 
+4D =4= Pass 4H Pass 
+Pass Pass 
+[Note "1: 20-22"]
+[Note "2: ♡"]
+[Note "3: super accept ♠values"]
+[Note "4: Re-transfer"]
+[Play "N"]
+H8 H2 H5 HA 
+S2 H6 H9 HK 
+C8 HQ HJ H3 
+SJ S6 S3 ST 
+CK C3 C7 CA 
+D3 DA D6 D4 
+DQ D2 D7 DJ 
+CQ -  -  -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "14"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J9542.8.Q93.KQ82 76.QT762.A52.943 K83.J95.T76.T765 AQT.AK43.KJ84.AJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2521526215a7bb7a7bb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  6
+S  H  2
+S  D  1
+S  C  5
+E NT 10
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT 10
+W  S  7
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,126,61,240,96,603,47,330,55,95,38,96,42,22,21,64,218,14,47,91,25,21,17,56,28,79,15,24,17,159,38,290,21,28,25,57,11,32,19,94,32,11,30,41,15,23,8
+[Auction "E"]
+Pass Pass 2NT =1= Pass 
+3D =2= Pass 3S =3= Pass 
+3NT Pass 4H Pass 
+Pass Pass 
+[Note "1: 20-22"]
+[Note "2: tsfr to H"]
+[Note "3: cue agreeing"]
+[Play "N"]
+S4 S6 SK SA 
+H8 H2 H5 HA 
+C2 H6 H9 HK 
+S2 HQ HJ H3 
+D3 DA D7 D4 
+DQ D2 D6 DJ 
+S5 S7 S8 ST 
+D9 D5 DT DK 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "15"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:.AJ7643.KJ6.AT87 Q872.KQ8.743.K96 AJ65.T52.T95.QJ2 KT943.9.AQ82.543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "65968659686747467475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  8
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  8
+E NT  6
+E  S  7
+E  H  4
+E  D  7
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,40,123,100,46,87,31,44,113,101,57,8,257,39,18,23,35,39,75,30,22,104,18,21,53,42,15,39,15,23,19,14,231,20,22,10,24,18,14,16,9,19,21,35
+[Auction "S"]
+Pass 2S =1= 3H 4S 
+Pass Pass Pass 
+[Note "1: weak 5+♠"]
+[Play "N"]
+HA H8 H5 H9 
+D6 D3 D9 DQ 
+H3 SQ SA S3 
+DJ D4 DT DA 
+CA C6 C2 C3 
+DK D7 D5 D2 
+C7 CK CJ C4 
+H4 HK H2 C5 
+H6 S8 S5 S4 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "15"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:.AJ7643.KJ6.AT87 Q872.KQ8.743.K96 AJ65.T52.T95.QJ2 KT943.9.AQ82.543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "65968659686747467475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  8
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  8
+E NT  6
+E  S  7
+E  H  4
+E  D  7
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,75,390,119,37,223,33,37,16,43,318,69,21,33,26,27,21,80,13,23,19,138,29,42,23,45,46,17,23,15,21,17,14,122,24,32,14,18,17,22,19,165,27,21,14
+[Auction "S"]
+Pass 2S =1= 3H 3S 
+4H Pass Pass Pass 
+[Note "1: 5♠ 4+m 5 to poor10"]
+[Play "E"]
+S7 SA S9 D6 
+H8 H2 H9 HA 
+HQ H5 S4 H3 
+S2 S5 ST H4 
+C9 C2 C5 CA 
+CK CJ C3 C7 
+S8 S6 S3 H6 
+C6 CQ C4 C8 
+D4 D5 DA DJ 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "16"]
+[West "Gordon Rainsford TD#105719"]
+[North "Mark Hooper#116234"]
+[East "Jonathan Lillycrop#412770"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K865.8632.QJT3.3 J3.KQ4.A742.KJ82 T942.T7.K95.AQ97 AQ7.AJ95.86.T654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "57564575657587875878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  6
+N  C  4
+S NT  5
+S  S  7
+S  H  5
+S  D  6
+S  C  5
+E NT  7
+E  S  5
+E  H  8
+E  D  7
+E  C  8
+W NT  7
+W  S  5
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,180,42,309,57,78,39,25,87,26,35,20,264,24,9,124,41,70,19,38,19,28,21,157,32,11,9,12,16,26,17,10,24,10,32,97,58,21,11,15,16,24,13,140,25,15,19,25,20,6,16,7,20,7,10,9,12,7,10,8,11,8,6
+[Auction "W"]
+1C =1= Pass 1S =2= Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * sorry, 2+♣ could have 5♢ [0:44]"]
+[Note "2: No 4 card major"]
+[Play "N"]
+DQ D2 D5 D6 
+D3 D4 DK D8 
+DJ DA D9 C4 
+H6 HK H7 H5 
+H2 HQ HT HA 
+C3 CJ CQ C5 
+SK S3 S2 S7 
+DT D7 S4 C6 
+S5 SJ S9 SQ 
+S6 C2 ST SA 
+H3 H4 C7 HJ 
+H8 C8 C9 H9 
+S8 CK CA CT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "16"]
+[West "Phil Norman#28789"]
+[North "Nick Doe#93048"]
+[East "Christine Bradley#096610"]
+[South "Simon Husband#22877"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K865.8632.QJT3.3 J3.KQ4.A742.KJ82 T942.T7.K95.AQ97 AQ7.AJ95.86.T654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "57564575657587875878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  6
+N  C  4
+S NT  5
+S  S  7
+S  H  5
+S  D  6
+S  C  5
+E NT  7
+E  S  5
+E  H  8
+E  D  7
+E  C  8
+W NT  7
+W  S  5
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,0,3,239,36,160,37,173,74,317,28,170,96,31,25,23,22,26,414,38,20,67,25,12,24,19,154,16,83,194,35,25,28,32,42,11,41,246,37,12,28,61,13,43,18,32,18,75,17,21,30,13,31,19,13,23,13,37,12,28,14,24,13,37,10,9,20,11,21
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1D =2= Pass 1H =3= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: May be 1 may have 5d Bal"]
+[Note "2: 4+♡"]
+[Note "3:  * shows 3 H [0:12]"]
+[Play "N"]
+DQ D2 D5 D6 
+D3 D4 DK D8 
+DT DA D9 C4 
+SK S3 S2 SQ 
+DJ D7 H7 C5 
+S5 SJ S4 S7 
+H2 H4 HT HJ 
+C3 CJ CQ C6 
+S6 C2 ST SA 
+H3 HK C7 H5 
+H6 HQ C9 HA 
+H8 C8 CA CT 
+S8 CK S9 H9 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "17"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T.AQ43.AQ862.KJT KQ753.T.JT4.AQ53 A98642.J72.9.986 J.K9865.K753.742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "78888788866455564555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  8
+S  D  8
+S  C  6
+E NT  6
+E  S  4
+E  H  5
+E  D  5
+E  C  5
+W NT  6
+W  S  4
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,430,62,32,82,217,104,19,201,218,13,121,61,17,42,11,194,22,24,8,61,11,22,33,16,71,21,41,192,36,13,37,16,41,16,80,193,18,25,11,61,34,13,29,13,39,12,47,12,32,7,23,7
+[Auction "N"]
+1D =1= 1S Pass 1NT 
+Pass Pass Pass 
+[Note "1: Unbal hand, 5+ diamonds unless 4441"]
+[Play "N"]
+D6 DJ D9 D5 
+ST S3 S2 SJ 
+CT CQ C9 C4 
+H3 SK SA H6 
+HA HT HJ HK 
+DA D4 S4 D3 
+DQ DT H2 DK 
+CJ C3 C6 C2 
+D8 S5 S6 D7 
+D2 S7 C8 H5 
+HQ C5 H7 H8 
+H4 -  -  -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "17"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T.AQ43.AQ862.KJT KQ753.T.JT4.AQ53 A98642.J72.9.986 J.K9865.K753.742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "78888788866455564555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  8
+S  D  8
+S  C  6
+E NT  6
+E  S  4
+E  H  5
+E  D  5
+E  C  5
+W NT  6
+W  S  4
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,180,59,165,148,49,32,43,27,36,16,85,155,15,79,344,34,21,37,511,38,38,374,64,28,28,17,68,39,12,28,34,23,12,18,296,39,16,137,17,26,229,20,36,44,100,32,35,151,20,9,12,22,15,11,12,11,10,20,6,10,8,7
+[Auction "N"]
+1D 1S Pass Pass 
+X Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+SJ ST S3 S4 
+H6 H3 HT HJ 
+H5 H4 S5 H2 
+C4 CT CQ C6 
+C7 CJ CA C8 
+C2 CK C5 C9 
+D3 D2 DT D9 
+H8 D6 C3 S2 
+D5 D8 D4 S6 
+D7 DA DJ S8 
+DK DQ S7 S9 
+H9 HQ SQ H7 
+HK HA SK SA 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "18"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT43.J64.KT75.8 J986.AQ72.AQ32.7 .T98.J964.AJ6542 A752.K53.8.KQT93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "33344333449aa899aa89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  4
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  4
+E NT  9
+E  S 10
+E  H 10
+E  D  8
+E  C  9
+W NT  9
+W  S 10
+W  H 10
+W  D  8
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,390,70,184,66,122,94,65,327,34,36,44,37,18,11,256,38,17,21,31,13,76,98,68,54,9,21,27,31,30,21,818,28,13,5,14,14,15,16,49,136,50,12,8,28,10,17,89,12,30,8,14,20,14,12,24,101,26,11,10,7,12,5
+[Auction "E"]
+1C =1= Pass 1H =2= Pass 
+2S =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: May be 1 may have 5D bal"]
+[Note "2: 4+♠"]
+[Note "3: r4sp no extra values"]
+[Play "S"]
+CA C3 C8 C7 
+HT H3 H4 HA 
+C2 S2 SQ SJ 
+H8 HK HJ H2 
+C4 CK S3 S6 
+D4 D8 D5 DA 
+D6 S5 D7 D2 
+C5 CQ ST D3 
+H9 H5 H6 HQ 
+D9 S7 DT DQ 
+C6 SA S4 S8 
+CJ C9 DK S9 
+DJ CT SK H7 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "18"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT43.J64.KT75.8 J986.AQ72.AQ32.7 .T98.J964.AJ6542 A752.K53.8.KQT93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "33344333449aa899aa89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  4
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  4
+E NT  9
+E  S 10
+E  H 10
+E  D  8
+E  C  9
+W NT  9
+W  S 10
+W  H 10
+W  D  8
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,151,154,69,66,301,62,56,158,87,90,17,125,216,370,26,18,17,20,21,16,26,14,31,24,61,19,29,28,72,50,22,17,18,65,23,39,113,14,13,56,95,25,254,16,19,17,74,23,15,288,16,19,16,12,12,11,21,12,15,22,11,9,12,7
+[Auction "E"]
+1D =1= Pass 2C Pass 
+2H =2= Pass 2S Pass 
+4S Pass Pass Pass 
+[Note "1: 10-16, 1+♢, nat/bal/any 4441 * 11-13 if bal or 4441 [0:10]"]
+[Note "2: Nat, denies 5+ ♢.  Does not promise extras"]
+[Play "N"]
+H4 HQ H8 H3 
+C8 C7 CA C3 
+H6 HA HT H5 
+S3 S6 C2 SA 
+HJ H2 C4 CK 
+S4 S8 C5 CQ 
+ST H7 H9 HK 
+SK S9 D4 S2 
+SQ SJ C6 S5 
+D5 DQ D6 D8 
+D7 DA D9 C9 
+DT D2 DJ S7 
+DK D3 CJ CT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "19"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q76.QJ.QT7.KJ632 KT842.K8765.J.AT AJ9.942.K983.Q85 53.AT3.A6542.974"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64478644785896558965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  7
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  7
+S  C  8
+E NT  5
+E  S  8
+E  H  9
+E  D  6
+E  C  5
+W NT  5
+W  S  8
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,1,3,104,71,108,73,26,157,76,23,33,60,16,15,24,92,45,23,10,21,16,21,28,98,26,16,18,33,24,10,8,52,15,23,35,60,19,5,23,17,21,15,5,21,10,17,32,14,93,19,9,16,46,22,8,24,52,18,5,10,15,5,8,12,6,8,8
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 1NT =1= Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: up to 11 F1"]
+[Play "S"]
+D3 DA D7 DJ 
+S9 S3 S6 S8 
+D8 D2 DQ S2 
+H4 HA HJ H5 
+SJ S5 S7 ST 
+DK D4 DT S4 
+H2 H3 HQ HK 
+H9 HT SQ H6 
+C5 C4 C2 CA 
+D9 C7 C3 H8 
+SA D5 C6 H7 
+C8 C9 CK CT 
+CQ D6 CJ SK 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "19"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q76.QJ.QT7.KJ632 KT842.K8765.J.AT AJ9.942.K983.Q85 53.AT3.A6542.974"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64478644785896558965"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  7
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  7
+S  C  8
+E NT  5
+E  S  8
+E  H  9
+E  D  6
+E  C  5
+W NT  5
+W  S  8
+W  H  9
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,93,35,22,71,25,76,37,30,28,28,26,18,13,35,416,17,16,42,44,13,24,31,24,10,11,12,32,15,104,485,48,21,15,68,20,11,1125,21,14,41,15,19,19,11,13,20,18,20,14,12,60,24,17,38,27,77,20
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+D3 DA D7 DJ 
+D8 D2 DT S2 
+C5 C4 C2 CA 
+C8 C7 CJ CT 
+CQ C9 CK S4 
+H2 HA HJ H5 
+D9 D4 DQ S8 
+H4 H3 HQ HK 
+H9 HT S6 H6 
+SA S3 S7 SK 
+DK D5 C3 ST 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "20"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K752.7.JT962.A84 JT6.Q95.A8.K9653 843.AK42.KQ54.QT AQ9.JT863.73.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "89696896965473754737"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  9
+N  C  6
+S NT  8
+S  S  9
+S  H  6
+S  D  9
+S  C  6
+E NT  5
+E  S  4
+E  H  7
+E  D  3
+E  C  7
+W NT  5
+W  S  4
+W  H  7
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,1,3,96,55,43,140,40,125,30,19,28,92,35,149,59,175,184,27,11,43,170,26,12,46,17,17,10,12,27,9,28,45,24,28,9,142,26,7,18,21,24,8,11,7,19,4,20
+[Auction "W"]
+Pass Pass Pass 1NT =1= 
+Pass 2C =2= Pass 2H 
+Pass 3D =3= Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: Stayman"]
+[Note "3:  * Invite with ♠ & ♢ [0:11]"]
+[Play "E"]
+SJ S3 SA S5 
+CK CT C2 C4 
+C5 CQ C7 C8 
+DA D4 D3 DJ 
+H5 HA H6 H7 
+D8 DK D7 D2 
+S6 S4 S9 SK 
+C3 S8 CJ CA 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "20"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K752.7.JT962.A84 JT6.Q95.A8.K9653 843.AK42.KQ54.QT AQ9.JT863.73.J72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "89696896965473754737"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  9
+N  C  6
+S NT  8
+S  S  9
+S  H  6
+S  D  9
+S  C  6
+E NT  5
+E  S  4
+E  H  7
+E  D  3
+E  C  7
+W NT  5
+W  S  4
+W  H  7
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,78,89,36,259,81,29,21,181,42,67,44,109,140,16,14,51,46,20,45,27,85,20,20,14,211,388,96,92,19,13,10,39,18,15,39,27,19,18,93,88,55,22,12,19,12,13,13,14,11,10,11,27,19
+[Auction "W"]
+Pass Pass Pass 1C =1= 
+Pass 1S Pass 1NT 
+Pass Pass Pass 
+[Note "1:  * Could be 2 could have 5♢ [0:40]"]
+[Play "W"]
+HJ H7 H5 HA 
+D3 D9 DA D4 
+H3 S2 HQ H2 
+H6 S5 H9 HK 
+D7 D2 D8 DK 
+S9 D6 C6 DQ 
+SQ DJ C3 D5 
+C7 DT C5 S3 
+C2 CA C9 CT 
+CJ C4 CK CQ 
+-  -  SJ S4 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "21"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ9742.95.AT4.K9 K8.K8.87.QT85432 T65.AQT632.KQJ5. A3.J74.9632.AJ76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7baa57baa54233842338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H 10
+N  D 10
+N  C  5
+S NT  7
+S  S 11
+S  H 10
+S  D 10
+S  C  5
+E NT  4
+E  S  2
+E  H  3
+E  D  3
+E  C  8
+W NT  4
+W  S  2
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 23,1,3,87,84,56,80,41,160,92,170,62,23,25,50,17,29,210,818,65,36,40,30,7,15,29,38,8,27,10,24,46,25,55,34,41,14,15,28,8,29,73,43,11,6,14,31,13
+[Auction "N"]
+1S 2C 2H 2S =1= 
+Pass 3C 4C 5C 
+Pass Pass 5S Pass 
+Pass Pass 
+[Note "1:  * UCB [0:11]"]
+[Play "E"]
+C4 S5 C7 C9 
+D7 DJ D2 DA 
+C3 S6 C6 CK 
+SK ST S3 S2 
+C2 H2 CA S4 
+S8 H3 SA SQ 
+C5 H6 CJ S9 
+C8 HT -  SJ 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "21"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ9742.95.AT4.K9 K8.K8.87.QT85432 T65.AQT632.KQJ5. A3.J74.9632.AJ76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7baa57baa54233842338"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H 10
+N  D 10
+N  C  5
+S NT  7
+S  S 11
+S  H 10
+S  D 10
+S  C  5
+E NT  4
+E  S  2
+E  H  3
+E  D  3
+E  C  8
+W NT  4
+W  S  2
+W  H  3
+W  D  3
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 23,2,0,202,48,453,88,93,33,26,32,32,25,61,176,44,18,44,25,38,15,18,40,36,18,53,22,21,14,32,30,24,12,25,24,14,11,21
+[Auction "N"]
+1S 3C 3H 5C 
+Pass Pass 5S Pass 
+Pass Pass 
+[Play "E"]
+C5 S5 C6 C9 
+D7 D5 D2 DA 
+C2 S6 C7 CK 
+S8 ST SA S2 
+C3 H2 CA S4 
+SK H3 S3 SQ 
+D8 -  -  -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "22"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J8.J84.T96.KJ986 T953.KT75.AQ8.53 KQ.632.543.AQT42 A7642.AQ9.KJ72.7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "42216422168bbb78bbb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  1
+N  C  6
+S NT  4
+S  S  2
+S  H  2
+S  D  1
+S  C  6
+E NT  8
+E  S 11
+E  H 11
+E  D 11
+E  C  7
+W NT  8
+W  S 11
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 13,1,3,89,186,121,218,331,161,185,41,73,19,43,33,283,99,13,27,11,42,22,21,22,22,19,8,27,11,18,10,15
+[Auction "E"]
+Pass 1C =1= 1S 2C 
+3C =2= Pass 3D =3= Pass 
+3S Pass Pass Pass 
+[Note "1: 2+♣ could have 5♢"]
+[Note "2: Invitational with sp"]
+[Note "3: nat extras"]
+[Play "N"]
+C6 C3 CA C7 
+C8 C5 CQ S2 
+S8 S3 SQ SA 
+SJ S5 SK S4 
+-  -  H6 -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "22"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J8.J84.T96.KJ986 T953.KT75.AQ8.53 KQ.632.543.AQT42 A7642.AQ9.KJ72.7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "42216422168bbb78bbb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  1
+N  C  6
+S NT  4
+S  S  2
+S  H  2
+S  D  1
+S  C  6
+E NT  8
+E  S 11
+E  H 11
+E  D 11
+E  C  7
+W NT  8
+W  S 11
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 13,2,0,65,132,103,43,66,107,567,37,72,93,34,18,150,41,80,11,24,21,10,11,17,16,12,14
+[Auction "E"]
+Pass Pass 1S Pass 
+3S Pass Pass Pass 
+[Play "N"]
+C8 C3 CA C7 
+C9 C5 C4 S2 
+S8 S3 SK SA 
+SJ S5 SQ S4 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "23"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J9.Q963.JT83.AT7 AK7543.A7.K42.J4 62.KJ4.AQ965.Q63 QT8.T852.7.K9852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "64796647967944769447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  9
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  9
+S  C  6
+E NT  7
+E  S  9
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,179,54,99,52,105,92,82,110,20,68,19,14,37,45,23,117,13,16,35,142,18,23,22,36,22,8,8,13,17,5,22,32,33,14,502,16,27,11,17,16,19,29,5,151,18,15,9,35,160,31,10,47,28,16,6,14,32,15,17,13,9,9,7
+[Auction "S"]
+1C =1= Pass 1D =2= 1S 
+X =3= 2S Pass 3S 
+Pass Pass Pass 
+[Note "1: 2+♣ could have 5♢"]
+[Note "2: 4+♡"]
+[Note "3: 3♡"]
+[Play "S"]
+H4 H2 HQ HA 
+C6 CK CA CJ 
+HJ H5 H3 H7 
+CQ C2 C7 C4 
+C3 C5 CT S3 
+D9 D7 DT D2 
+HK H8 H6 S4 
+D5 S8 D3 D4 
+S2 SQ S9 S5 
+D6 C8 SJ SK 
+DA ST D8 DK 
+DQ C9 H9 S7 
+S6 HT DJ SA 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "23"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J9.Q963.JT83.AT7 AK7543.A7.K42.J4 62.KJ4.AQ965.Q63 QT8.T852.7.K9852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "64796647967944769447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  9
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  9
+S  C  6
+E NT  7
+E  S  9
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,120,30,45,83,75,75,47,310,83,24,28,152,140,20,27,26,14,16,22,22,53,11,24,76,31,21,51,282,42,20,13,23,23,16,9,30,68,13,15,179,41,34,35,66,22,16,23,60,13,21,17,36,14,11,19,23,15,11,8,15,7,26,8
+[Auction "S"]
+1C =1= Pass 1H 1S 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Play "S"]
+S2 SQ S9 S3 
+DA D7 DT DK 
+S6 S8 SJ SA 
+C3 CK CA C4 
+H4 H2 H3 HA 
+CQ C2 C7 CJ 
+HK H5 H6 H7 
+HJ H8 H9 S4 
+D5 ST D3 D2 
+C6 C9 CT S5 
+D6 C5 HQ SK 
+D9 C8 D8 S7 
+DQ HT DJ D4 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "24"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J95.Q9.A2.KJT962 T87642.J73.KQ4.Q 3.AKT86.JT73.A54 AKQ.542.9865.873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a5c8ca5c8c1615116151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H 12
+N  D  8
+N  C 12
+S NT 10
+S  S  5
+S  H 12
+S  D  8
+S  C 12
+E NT  1
+E  S  6
+E  H  1
+E  D  5
+E  C  1
+W NT  1
+W  S  6
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,1,3,107,194,31,79,47,122,43,52,65,169,32,56,103,17,18,86,380,73,24,93,31,20,28,197,28,8,26,8,17,7,27,38,23,10,11
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2C =3= Pass 2D 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+♣, can have 5♢ if bal"]
+[Note "2: 4+♡"]
+[Note "3: <3 hearts"]
+[Play "E"]
+S4 S3 SQ S5 
+CQ CA C3 CJ 
+H3 H6 H2 HQ 
+H7 HA H5 H9 
+HJ HK H4 S9 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "24"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J95.Q9.A2.KJT962 T87642.J73.KQ4.Q 3.AKT86.JT73.A54 AKQ.542.9865.873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a5c8ca5c8c1615116151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H 12
+N  D  8
+N  C 12
+S NT 10
+S  S  5
+S  H 12
+S  D  8
+S  C 12
+E NT  1
+E  S  6
+E  H  1
+E  D  5
+E  C  1
+W NT  1
+W  S  6
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 20,2,0,68,291,59,55,35,36,60,100,26,116,25,61,92,16,24,95,88,17,21,51,40,18,40,202,28,15,11,32,14,49,16,206,21,16,9,31,31,13,13,37,31,20,20,12,28,59,12,31,25,80,38,36,12,31,30,18
+[Auction "W"]
+Pass 1C =1= Pass 1H 
+Pass 2C Pass 2D 
+Pass 3C Pass 5C 
+Pass Pass Pass 
+[Note "1: 2+; may have 5♢ in bal hand"]
+[Play "E"]
+S8 S3 SQ S5 
+D4 D3 D8 DA 
+CQ CA C3 C2 
+S6 C4 C7 CK 
+S2 C5 SK S9 
+H7 H6 H5 HQ 
+S4 D7 C8 CJ 
+S7 DT D5 CT 
+ST H8 D6 C9 
+DQ DJ D9 C6 
+-  -  -  H9 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "25"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T65.QT9862.K.T86 K93.3.AQ864.Q753 AJ42.AKJ7.T5.AJ9 Q87.54.J9732.K42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "88946889465449754497"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S  8
+S  H  9
+S  D  4
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  9
+E  C  7
+W NT  5
+W  S  4
+W  H  4
+W  D  9
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,126,101,36,95,24,23,103,267,33,24,129,23,26,11,19,17,22,135,153,17,6,22,95,23,10,10,37,21,88,12,9,14,6,22,48,21,40,9,35,15,46
+[Auction "N"]
+2H =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: Weak"]
+[Play "E"]
+C5 C9 CK C8 
+DA D5 D2 DK 
+DQ DT D3 HT 
+H3 HA H5 H2 
+D6 HK H4 H8 
+C3 CA C2 C6 
+CQ CJ C4 CT 
+S3 S2 SQ S5 
+SK -  S7 S6 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "25"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T65.QT9862.K.T86 K93.3.AQ864.Q753 AJ42.AKJ7.T5.AJ9 Q87.54.J9732.K42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "88946889465449754497"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S  8
+S  H  9
+S  D  4
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  9
+E  C  7
+W NT  5
+W  S  4
+W  H  4
+W  D  9
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,2,0,83,67,116,87,203,70,693,47,267,32,87,113,47,26,54,18,30,14,30,18,11,36,23,30,9,23,152,36,11,60,12,19,16,12,23,11,8,14,207,39,16,14,32,23,16,21,19,95,21,16
+[Auction "N"]
+Pass 1D =1= X Pass 
+1H Pass 2H Pass 
+Pass Pass 
+[Note "1: 10-16, 1+♢, nat/bal/any 4441 * 11-13 if bal or 4441 [0:11]"]
+[Play "E"]
+C3 C9 CK C6 
+DA D5 D3 DK 
+DQ DT D2 H2 
+H3 HA H4 H6 
+D6 HJ H5 HQ 
+C5 CJ C2 C8 
+C7 CA C4 CT 
+D4 H7 D9 HT 
+S3 SJ SQ S5 
+S9 SA S8 S6 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "26"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J4.A7642.Q4.A763 876.KJ.KT652.T98 A53.T985.A73.KJ5 KQT92.Q3.J98.Q42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85969859594747447474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  6
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  7
+E  H  4
+E  D  7
+E  C  4
+W NT  4
+W  S  7
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,1,3,119,103,121,288,61,32,37,22,34,49,340,32,21,92,29,14,9,110,27,89,28,28,21,5,25,66,23,38,10,148,38,5,17,18,11,18,25,22
+[Auction "E"]
+Pass 1C =1= 1S 2H 
+2S 3H Pass Pass 
+Pass 
+[Note "1: 2+♣ could have 5♢"]
+[Play "E"]
+S6 S3 SQ S4 
+S7 SA SK SJ 
+HJ H5 H3 HA 
+HK H8 HQ H2 
+S8 S5 S9 H4 
+C9 C5 C2 CA 
+C8 CJ CQ C3 
+-  -  C4 -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "26"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J4.A7642.Q4.A763 876.KJ.KT652.T98 A53.T985.A73.KJ5 KQT92.Q3.J98.Q42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85969859594747447474"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  6
+N  C  9
+S NT  8
+S  S  5
+S  H  9
+S  D  5
+S  C  9
+E NT  4
+E  S  7
+E  H  4
+E  D  7
+E  C  4
+W NT  4
+W  S  7
+W  H  4
+W  D  7
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,0,67,289,44,159,58,128,33,299,21,22,337,38,23,60,37,114,25,38,18,13,20,383,66,25,17,46,43,15,12,11,26,64,13,19,111,58,152,14,38,18,40,354,26,9,10,9,10,18,18,11,10,8,10,27
+[Auction "E"]
+Pass 1C =1= 1S 2H 
+2S 3H Pass Pass 
+Pass 
+[Note "1: Could be 2 could have 5♢"]
+[Play "E"]
+S8 SA ST S4 
+HJ HT H3 H2 
+S7 S3 SQ SJ 
+DK DA D9 DQ 
+S6 S5 SK H6 
+HK H8 HQ HA 
+D2 D3 DJ D4 
+D5 D7 D8 H4 
+C8 C5 C2 CA 
+C9 CK C4 C3 
+CT CJ CQ C6 
+-  -  S2 -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "27"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ62.A962.63.Q83 K95.873.A9752.A6 T4.KQ4.T84.JT754 A873.JT5.KQJ.K92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "45647456479879698796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  4
+N  C  7
+S NT  4
+S  S  5
+S  H  6
+S  D  4
+S  C  7
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C  6
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,1,3,70,321,73,200,35,198,41,126,119,29,72,110,132,39,29,32,25,23,8,20,10,21,8,22,49,150,12,30,18,24,13,43,90,44,21,50,12,52,264,48,57,31,9,21,19,19,11,40,20,16,11,13
+[Auction "S"]
+Pass 1C =1= Pass 1S =2= 
+Pass 1NT =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: may be 1 if 4441 else like yours"]
+[Note "2: no 4 card maj"]
+[Note "3: good 12 to 16"]
+[Play "N"]
+S2 S5 ST SA 
+D3 D2 D8 DJ 
+D6 D5 D4 DQ 
+H6 D7 DT DK 
+C3 CA C7 C9 
+H2 DA S4 S8 
+S6 D9 C4 S3 
+SJ SK H4 S7 
+C8 C6 CT CK 
+H9 H3 HQ HT 
+-  -  HK -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "27"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ62.A962.63.Q83 K95.873.A9752.A6 T4.KQ4.T84.JT754 A873.JT5.KQJ.K92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "45647456479879698796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  4
+N  C  7
+S NT  4
+S  S  5
+S  H  6
+S  D  4
+S  C  7
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C  6
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,0,89,134,62,59,91,26,27,26,311,25,19,22,24,22,44
+[Auction "S"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 14-16, may have a singleton"]
+[Play "N"]
+S2 S5 ST SA 
+D6 D2 D4 DK 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "28"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ64.J7.Q73.A964 KT9.T2.JT64.J875 532.Q853.K52.K32 A87.AK964.A98.QT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "45444555457879888898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  5
+S  D  4
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  9
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 2,1,3,319,79,41,31,127,108,9,64,155,32,26,33,15,42,24,20,255,32,45,35,41,21,22,9,41,20,40,6,55,72,27,6,34,26,6,41,52,14,27,6,35,25,49,8,53,15,28,9,43,10,23,11,22,10,19,6
+[Auction "W"]
+1H Pass Pass Pass 
+[Play "N"]
+SQ S9 S5 SA 
+C4 C5 CK CT 
+DQ D4 D2 D8 
+D7 D6 DK DA 
+H7 H2 H3 HA 
+HJ HT H5 HK 
+CA C7 C2 CQ 
+D3 DT D5 D9 
+C6 CJ C3 S7 
+C9 C8 S2 H4 
+S4 SK S3 S8 
+S6 ST H8 H9 
+SJ DJ HQ H6 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "28"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ64.J7.Q73.A964 KT9.T2.JT64.J875 532.Q853.K52.K32 A87.AK964.A98.QT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "45444555457879888898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  5
+S  D  4
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  9
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,0,567,52,208,50,56,38,80,31,172,292,45,102,236,39,16,26,102,36,14,13,13,13,18,11,186,34,19,14,19,58,18,16,24,67,16,54,34,64,14,16,25,23,17,15,30,15,16,11,13,24,10,12,12,18,11,13,14,12,13,5
+[Auction "W"]
+1C =1= Pass 1D =2= Pass 
+1NT Pass Pass Pass 
+[Note "1: 17+ and some unbalanced 16s"]
+[Note "2: any 0-7"]
+[Play "N"]
+S4 S9 S2 S7 
+HJ HT H5 H4 
+SQ SK S3 S8 
+H7 H2 H3 H9 
+C6 D4 H8 HA 
+C4 D6 HQ HK 
+D3 C5 C2 H6 
+C9 C7 CK CQ 
+S6 ST S5 SA 
+CA C8 C3 CT 
+SJ DT D2 D8 
+D7 DJ DK DA 
+DQ CJ D5 D9 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "29"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ53.Q643.4.KT75 A74.KT2.QT.AQ942 T62.9875.A952.J6 J98.AJ.KJ8763.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "4562444624987b9987b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  2
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H  7
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,93,141,26,172,38,93,22,31,43,18,39,19,75,269,24,25,52,18,5,11,24,5,17,25,58,15,7,107,82,44,9,23,20,22,13,21,20,13,6,35,14,15,14
+[Auction "N"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2NT =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: puppet"]
+[Note "3: no maj not max"]
+[Play "S"]
+H9 HJ HQ HK 
+DA D3 D4 DQ 
+H5 HA H6 H2 
+D2 DK S3 DT 
+D5 DJ C5 S4 
+C6 C3 C7 CQ 
+CJ C8 CT CA 
+S6 D6 CK C2 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "29"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ53.Q643.4.KT75 A74.KT2.QT.AQ942 T62.9875.A952.J6 J98.AJ.KJ8763.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "4562444624987b9987b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  2
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  2
+S  C  4
+E NT  9
+E  S  8
+E  H  7
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,70,151,47,105,101,53,13,17,136,36,31,22,32,13,9,21,48,48,93,76,43,11,23,28,25,9,41,84,25,15,21,33,19,15,15,63,39,14,32,42,71,25,26,163,20,13,43,15,27,15,20,26,12,53,11,8,10,13,10
+[Auction "N"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 14-16 may have a stiff"]
+[Play "S"]
+H8 HJ HQ HK 
+D2 D3 D4 DQ 
+D5 DJ H6 DT 
+D9 D6 H4 C2 
+H5 HA H3 H2 
+C6 C3 C5 CQ 
+CJ C8 C7 CA 
+S2 D8 CT C4 
+S6 S8 SK SA 
+H7 DK S3 HT 
+ST D7 CK C9 
+DA S9 SQ S4 
+H9 SJ S5 S7 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "30"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A.KQ743.Q84.AK65 KT9653.J98.72.T2 842.T652.KT9.984 QJ7.A.AJ653.QJ73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "64958649586937569375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  9
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  3
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,1,3,191,224,108,283,40,33,186,751,37,25,20,62,26,25,34,25,9,14,214,23,8,15,73,26,16,8,106,25,13,40,67,72,75,16,12,6,10,30,13,34,15,6
+[Auction "E"]
+2D =1= Pass 2H =2= X 
+2S Pass 3S Pass 
+Pass Pass 
+[Note "1:  * Weak in one maj [0:18]"]
+[Note "2: poc"]
+[Play "S"]
+S2 S7 SA S3 
+C9 C3 CK C2 
+H2 HA H4 H8 
+C4 C7 CA CT 
+H6 SJ HK H9 
+S4 SQ H3 SK 
+S8 D3 C5 ST 
+H5 D5 C6 S9 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "30"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A.KQ743.Q84.AK65 KT9653.J98.72.T2 842.T652.KT9.984 QJ7.A.AJ653.QJ73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "8"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "64958649586937569375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  9
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  3
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,2,0,266,150,182,215,54,73,165,105,78,16,201,61,113,16,17,268,39,15,12,45,39,27,15,21,22,9,16,196,23,9,10,9,10,10,9,8,37,20,20,22,38,15,19,727,28,8,22,19,20,13,9
+[Auction "E"]
+2D =1= Pass 2H =2= X 
+2S Pass 4S 5H 
+Pass Pass Pass 
+[Note "1: Usually W2M, some rare strong hands"]
+[Note "2:  * Pass or correct [0:12]"]
+[Play "E"]
+ST S2 S7 SA 
+H8 H2 HA HK 
+S5 S4 SQ H3 
+H9 H5 D6 HQ 
+C2 C4 C3 CA 
+CT C8 C7 CK 
+S3 C9 CJ C5 
+S6 S8 SJ H4 
+D2 DT DJ D4 
+D7 D9 DA D8 
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "31"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT73.AK.Q8.AK954 QJ54.J93.KJT652. 986.T64.A97.JT86 K2.Q8752.43.Q732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "98569985593367345774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  6
+N  C  9
+S NT  9
+S  S  8
+S  H  5
+S  D  5
+S  C  9
+E NT  3
+E  S  3
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,1,3,94,389,125,27,93,29,370,43,23,44,217,26,34,24,67,215,13,20,31,18,20,44,29,49,22,23,46,28,22,14,11,46,30,26,101,24,76,11,16,15,23,14,89,16,35,35,62,23,7,20,10,8,17,39,39,13,18,7,25,11,8,18,8,14,11,15
+[Auction "S"]
+Pass 2H =1= X Pass 
+2S Pass 3H =2= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 5♡ 4+m 5 to poor 10"]
+[Note "2: Good raise"]
+[Play "W"]
+H2 HA H9 H4 
+SK S3 S4 S9 
+D4 DQ DK DA 
+S2 SA S5 S6 
+C2 CA SJ C6 
+H5 S7 SQ S8 
+D3 D8 DJ D7 
+H7 ST DT D9 
+C3 CK D2 CJ 
+CQ C4 D5 CT 
+H8 HK H3 H6 
+C7 C9 D6 C8 
+HQ C5 HJ HT 
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "31"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT73.AK.Q8.AK954 QJ54.J93.KJT652. 986.T64.A97.JT86 K2.Q8752.43.Q732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "98569985593367345774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  6
+N  C  9
+S NT  9
+S  S  8
+S  H  5
+S  D  5
+S  C  9
+E NT  3
+E  S  3
+E  H  6
+E  D  7
+E  C  3
+W NT  4
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 20,2,0,74,394,247,55,475,46,138,43,377,36,38,41,21,89,48,296,15,18,150,26,168,14,1972,33,16,12,38,27,15,13,67,20,10,20,175,24,16,11,27,31,14,12,17,26,16,26,25,16,13,190,25,11,16,42,11,13,12,6,23
+[Auction "S"]
+Pass 2H =1= X Pass 
+2NT =2= Pass 3H =3= Pass 
+4C Pass 5C Pass 
+Pass Pass 
+[Note "1: Weak, 5♡ and 4+ ♣/♢"]
+[Note "2: Lebensohl"]
+[Note "3: forcing"]
+[Play "W"]
+H5 HK H9 H4 
+C2 CA D2 C6 
+S2 SA S4 S6 
+SK S3 SJ S8 
+H2 HA H3 H6 
+D3 D8 DT DA 
+C3 C4 D5 CJ 
+C7 C5 D6 CT 
+CQ CK S5 C8 
+H7 S7 SQ S9 
+D4 DQ DK D7 
+-  -  DJ -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "32"]
+[West "Phil Norman#28789"]
+[North "Jonathan Lillycrop#412770"]
+[East "Christine Bradley#096610"]
+[South "Gordon Rainsford TD#105719"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJ6.A.AKQ64.8653 T73.KJ97.J3.KQJT A952.Q652.72.A92 Q84.T843.T985.74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa8aaaa8aa3343333433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,1,3,214,172,32,43,32,244,45,101,55,87,43,21,24,43,140,11,20,16,27,20,13,117,13,18,17,25,9,25,23,28,60,16,9,13,23,11,10,14,10,14,18,27,12,28,20,10,13,12,14,22
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+C7 C3 CT CA 
+S8 SJ S7 S2 
+S4 SK S3 S5 
+SQ S6 ST SA 
+H4 C5 H7 S9 
+D5 DA D3 D2 
+D8 DK DJ D7 
+D9 DQ H9 H2 
+H3 HA HJ H5 
+-  C6 -  -  
+*
+
+[Event "Crockfords Doe v Hornung"]
+[Site "RealBridge"]
+[Date "2024.06.03"]
+[Board "32"]
+[West "Simon Husband#22877"]
+[North "Mark Hooper#116234"]
+[East "Nick Doe#93048"]
+[South "Michael Hornung#93188"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJ6.A.AKQ64.8653 T73.KJ97.J3.KQJT A952.Q652.72.A92 Q84.T843.T985.74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Michael Hornung"]
+[VisitTeam "Nick Doe"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa8aaaa8aa3343333433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,72,338,47,465,139,168,114,45,15,26,474,29,9,27,26,12,14,13,18,26,15,17,18,14,10,33,13,74,16,38,54,24,13,355,45,35,14,21,25,26,18,29,19,9,13,23,16,7,10,8,11,8,11,8,15,8,10,8,18,10,11
+[Auction "W"]
+Pass 1D X XX 
+1H 3NT Pass Pass 
+Pass 
+[Play "E"]
+CK CA C4 C3 
+S3 S2 S8 SK 
+S7 S5 SQ SJ 
+CT C2 C7 C5 
+CQ C9 S4 C6 
+CJ H2 D5 C8 
+ST SA H3 S6 
+H7 S9 H4 D4 
+H9 H5 H8 HA 
+D3 D2 D8 DA 
+DJ D7 D9 DK 
+HJ H6 DT DQ 
+HK HQ HT D6 

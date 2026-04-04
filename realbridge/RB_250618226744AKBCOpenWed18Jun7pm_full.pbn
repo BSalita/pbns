@@ -1,0 +1,4653 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "1"]
+[West "Jody Burchall#51578"]
+[North "Ian Beattie#32124"]
+[East "Susan Macken#9994"]
+[South "T M Cain#19882"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T73.43.AKJ742.96 4.AKQJT92.T8.A87 96.6.Q9653.KJ543 AKQJ852.875..QT2"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "13"]
+[Score "NS -510"]
+[Table "2"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "00095000957dd487dd46"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  9
+N  C  5
+S NT  0
+S  S  0
+S  H  0
+S  D  9
+S  C  5
+E NT  7
+E  S 13
+E  H 13
+E  D  4
+E  C  8
+W NT  7
+W  S 13
+W  H 13
+W  D  4
+W  C  6
+[OptimumScore "NS -1510"]
+[Competition "Pairs"]
+% RBDATA 22,2,3,166,264,108,48,48,61,23,277,133,39,29,212,35,21,21,108,36,23,31,45,43,22,14,22,16,20,18,22,13,14,57,33,11,12,41
+[Auction "N"]
+2D =1= 4H 5D 5H 
+Pass Pass Pass 
+[Play "S"]
+DQ H5 D2 D8 
+H6 H7 H3 HA 
+D6 H8 H4 HK 
+S6 SA S3 S4 
+S9 SK S7 DT 
+D9 SQ ST C7 
+D3 SJ D4 C8 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "1"]
+[West "Diana Easson#36412"]
+[North "Ian Brash#2927"]
+[East "Tony Winters#18534"]
+[South "Chris Turner#17194"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T73.43.AKJ742.96 4.AKQJT92.T8.A87 96.6.Q9653.KJ543 AKQJ852.875..QT2"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "6DX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "3"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "00095000957dd487dd46"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  9
+N  C  5
+S NT  0
+S  S  0
+S  H  0
+S  D  9
+S  C  5
+E NT  7
+E  S 13
+E  H 13
+E  D  4
+E  C  8
+W NT  7
+W  S 13
+W  H 13
+W  D  4
+W  C  6
+[OptimumScore "NS -1510"]
+[Competition "Pairs"]
+% RBDATA 26,4,5,214,106,133,73,45,23,32,106,42,18,33,25,152,20,36,14,38,14,34,20,32,30,31,106,36,33,44,217,60,35,12,211,20,31,20,99,28,33,21,16
+[Auction "N"]
+3D 4H 5D 5H 
+Pass Pass 6D X 
+Pass Pass Pass 
+[Play "E"]
+HA H6 H5 H3 
+S4 S6 SA S3 
+C7 S9 SK S7 
+C8 D3 SQ ST 
+D8 D5 H7 DK 
+DT D6 S2 DA 
+CA C3 C2 C6 
+HK -  -  -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "1"]
+[West "John Lory#16275"]
+[North "Nicky Bowers#25766"]
+[East "Margaret Fraser#16117"]
+[South "Joy Watkinson#5143"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T73.43.AKJ742.96 4.AKQJT92.T8.A87 96.6.Q9653.KJ543 AKQJ852.875..QT2"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[ScoreIMP "NS 1.00 EW -1.00"]
+[DoubleDummyTricks "00095000957dd487dd46"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  9
+N  C  5
+S NT  0
+S  S  0
+S  H  0
+S  D  9
+S  C  5
+E NT  7
+E  S 13
+E  H 13
+E  D  4
+E  C  8
+W NT  7
+W  S 13
+W  H 13
+W  D  4
+W  C  6
+[OptimumScore "NS -1510"]
+[Competition "Pairs"]
+% RBDATA 22,0,1,131,24,106,157,185,109,40,784,58,121,40,38,23,333,119,26,37,68,41,12,22,30,24,107,15,47,16,62,38,248,29,23,20,36,121,12,6,74,20,15,37,41,27,14,48
+[Auction "N"]
+Pass 1H 2NT =1= X 
+4D 4H Pass Pass 
+5D 5H Pass Pass 
+Pass 
+[Play "S"]
+D5 H5 D7 D8 
+S6 SA S7 S4 
+S9 SK ST C7 
+H6 SQ S3 C8 
+C3 C2 C9 CA 
+C5 H7 H3 HA 
+D3 H8 D4 DT 
+C4 CT C6 H2 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "2"]
+[West "Diana Easson#36412"]
+[North "Ian Brash#2927"]
+[East "Tony Winters#18534"]
+[South "Chris Turner#17194"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT974.K4.Q.JT53 AJ8.AQT32.95.Q64 653.J87.AT87.A92 2.965.KJ6432.K87"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "3"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "58446584468599785896"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  4
+N  C  6
+S NT  5
+S  S  8
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S  5
+W  H  8
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 17,4,5,108,53,115,216,26,79,20,29,94,32,39,36,14,21,14,18,26,41,27,22,62,27,78,48,17,23,12,15,20,29,10,9,32,26,17,50,140,42,62,22,21,19,56,9,140,40,15,63,12,21,14,26,11,24,10,14,12,10,9,12
+[Auction "E"]
+1H Pass 3H 3S 
+4H Pass Pass Pass 
+[Play "S"]
+S6 S2 SQ SA 
+S3 H5 S4 S8 
+CA C7 C3 CQ 
+H7 H6 HK HA 
+S5 H9 S7 SJ 
+C2 CK C5 C4 
+D8 D2 DQ D5 
+H8 C8 SK H2 
+DA D3 S9 D9 
+D7 DK H4 HT 
+HJ D4 ST HQ 
+DT D6 CT H3 
+C9 DJ CJ C6 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "2"]
+[West "John Lory#16275"]
+[North "Nicky Bowers#25766"]
+[East "Margaret Fraser#16117"]
+[South "Joy Watkinson#5143"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT974.K4.Q.JT53 AJ8.AQT32.95.Q64 653.J87.AT87.A92 2.965.KJ6432.K87"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScoreIMP "NS 3.50 EW -3.50"]
+[DoubleDummyTricks "58446584468599785896"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  4
+N  C  6
+S NT  5
+S  S  8
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S  5
+W  H  8
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 13,0,1,87,112,31,46,67,27,32,28,21,56,25,20,10,53,22,15,12,150,23,52,17,6,24,32,26,31,20,10,12,32,34,167,23,40,35,15,7,92,32,18,10,178,28,7,12,63,28,13,7,20,34,10,37
+[Auction "E"]
+1H Pass 2H 2S 
+3H 3S Pass Pass 
+Pass 
+[Play "E"]
+HA H7 H5 H4 
+H2 H8 H9 HK 
+D5 DA D2 DQ 
+SA S3 S2 SQ 
+HQ HJ H6 S4 
+C4 C9 CK C3 
+D9 D7 DK S7 
+C6 C2 C7 CT 
+S8 S5 D3 SK 
+CQ CA C8 C5 
+SJ D8 DJ S9 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "2"]
+[West "Jody Burchall#51578"]
+[North "Ian Beattie#32124"]
+[East "Susan Macken#9994"]
+[South "T M Cain#19882"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQT974.K4.Q.JT53 AJ8.AQT32.95.Q64 653.J87.AT87.A92 2.965.KJ6432.K87"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[ScoreIMP "NS -6.00 EW 6.00"]
+[DoubleDummyTricks "58446584468599785896"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  4
+N  C  6
+S NT  5
+S  S  8
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S  5
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S  5
+W  H  8
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 9,2,3,213,96,39,83,155,320,82,228,26,1054,219,350,22,15,112,47,22,30,47,57,29,20,207,31,16,44,248,43,13,23,212,29,12,21,24,91,14,58,22,129,15,38,18,17,16,15,21,16,44,97,24,35,45,19,25,23,7,18,8,13,11,6
+[Auction "E"]
+1NT Pass Pass 2D =1= 
+Pass 2H =2= 2NT Pass 
+Pass Pass 
+[Play "S"]
+D7 DJ DQ D5 
+S3 S2 S4 S8 
+DT DK S7 D9 
+HJ H9 H4 H2 
+H8 H5 HK HA 
+H7 H6 S9 HQ 
+C2 D2 C3 HT 
+C9 D3 C5 H3 
+CA C7 CT C4 
+DA D4 ST C6 
+D8 D6 CJ SJ 
+S6 C8 SQ SA 
+S5 CK SK CQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "3"]
+[West "Diana Easson#36412"]
+[North "Ian Brash#2927"]
+[East "Tony Winters#18534"]
+[South "Chris Turner#17194"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT3.T64.J7653.76 KJ75.J9532.8.Q53 A92.AQ.KQ2.AJT98 864.K87.AT94.K42"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "3"]
+[ScoreIMP "NS -6.50 EW 6.50"]
+[DoubleDummyTricks "65587655877785657845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  7
+E NT  7
+E  S  7
+E  H  8
+E  D  5
+E  C  6
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Pairs"]
+% RBDATA 14,4,5,277,144,71,21,40,36,181,24,18,19,89,108,19,73,147,60,18,28,125,78,29,16,220,25,19,14,21,39,9,24,69,27,79,27,12,20,42,13,141,23,23,21,13,27,16,13,13,21,31,26,19,21,18,21,26,14,12,8,13,12,13,9
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+D4 D3 D8 DQ 
+D9 D5 H2 DK 
+DT DJ S5 D2 
+DA D6 C3 C8 
+HK H4 H3 HA 
+S4 SQ SK S9 
+H7 H6 H5 HQ 
+S6 ST SJ S2 
+H8 HT HJ C9 
+C2 C6 H9 CT 
+S8 S3 S7 SA 
+C4 C7 C5 CA 
+CK D7 CQ CJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "3"]
+[West "John Lory#16275"]
+[North "Nicky Bowers#25766"]
+[East "Margaret Fraser#16117"]
+[South "Joy Watkinson#5143"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT3.T64.J7653.76 KJ75.J9532.8.Q53 A92.AQ.KQ2.AJT98 864.K87.AT94.K42"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "1"]
+[ScoreIMP "NS 4.00 EW -4.00"]
+[DoubleDummyTricks "65587655877785657845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  7
+E NT  7
+E  S  7
+E  H  8
+E  D  5
+E  C  6
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Pairs"]
+% RBDATA 9,0,1,246,132,31,29,42,29,187,39,101,120,12,59,73,50,12,12,287,66,74,17,139,24,44,22,31,64,25,33,37,23,10,5,57,21,53,19,13,24,12,39,21,27,13,34,137,26,20,14,28,82,18,14,27,43,12,3,21,9,8,9
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass Pass Pass 
+[Play "W"]
+DT D3 D8 DK 
+D4 D5 H2 DQ 
+D9 DJ C3 D2 
+CK C7 C5 CJ 
+S8 S3 SJ SA 
+C2 C6 CQ CA 
+C4 D6 H3 CT 
+H7 D7 H5 C9 
+S4 H4 S5 C8 
+S6 ST SK S2 
+H8 H6 H9 HA 
+DA SQ S7 S9 
+HK HT HJ HQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "3"]
+[West "Jody Burchall#51578"]
+[North "Ian Beattie#32124"]
+[East "Susan Macken#9994"]
+[South "T M Cain#19882"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT3.T64.J7653.76 KJ75.J9532.8.Q53 A92.AQ.KQ2.AJT98 864.K87.AT94.K42"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "65587655877785657845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  7
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  7
+E NT  7
+E  S  7
+E  H  8
+E  D  5
+E  C  6
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Pairs"]
+% RBDATA 9,2,3,462,102,100,53,112,184,36,128,26,33,17,108,118,92,28,140,20,30,19,30,115,43,62,20,21,29,23,21,59,37,14,12,31,70,17,23,77,43,21,18,34,25,15,26,18,27,16,13,16,23,12,15,15,8,9,8
+[Auction "S"]
+2NT Pass Pass Pass 
+[Play "W"]
+D4 D3 D8 DQ 
+DA D5 H9 DK 
+S8 S3 SJ SA 
+D9 DJ H2 D2 
+DT D7 H3 C8 
+C2 C6 CQ CA 
+CK C7 C3 C9 
+C4 H4 C5 CJ 
+S4 H6 S5 CT 
+S6 ST SK S2 
+H7 HT HJ HA 
+H8 SQ S7 S9 
+HK D6 H5 HQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "4"]
+[West "Diana Easson#36412"]
+[North "Ian Brash#2927"]
+[East "Tony Winters#18534"]
+[South "Chris Turner#17194"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8.T964.987643.K5 K963.QJ87.AQ5.AJ AQT742.AK.2.Q942 J5.532.KJT.T8763"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "3"]
+[ScoreIMP "NS -12.00 EW 12.00"]
+[DoubleDummyTricks "57676576767666676666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  7
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  6
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 14,4,5,63,54,28,42,75,47,28,242,88,43,25,28,85,50,25,23,31,80,60,54,51,51,21,28,10,24,15,138,13,20,45,46,27,11,41,21,75,11,89,42,69,18,71,15,13,24,11,17,10,17,15,26,10,15,28,56,10,16,13,74,9,10,9,19,9,10,11,8,10,12
+[Auction "W"]
+Pass Pass 1C 1S 
+Pass Pass 1NT 2S 
+Pass Pass X Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+S7 S5 S8 S9 
+C2 C3 C5 CA 
+CQ C6 CK CJ 
+HK H2 HT HJ 
+SA SJ D3 S3 
+SQ H3 D4 SK 
+D2 DT D6 DA 
+C4 DJ D7 DQ 
+S2 DK D8 D5 
+C9 CT H4 S6 
+S4 C8 D9 H7 
+ST C7 H6 H8 
+HA H5 H9 HQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "4"]
+[West "John Lory#16275"]
+[North "Nicky Bowers#25766"]
+[East "Margaret Fraser#16117"]
+[South "Joy Watkinson#5143"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8.T964.987643.K5 K963.QJ87.AQ5.AJ AQT742.AK.2.Q942 J5.532.KJT.T8763"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[ScoreIMP "NS 6.00 EW -6.00"]
+[DoubleDummyTricks "57676576767666676666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  7
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  6
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 8,0,1,81,34,72,157,112,31,80,51,169,11,29,32,26,12,24,196,29,12,22,112,41,42,102,99,26,13,10,28,29,25,7,276,19,7,24,21,20,12,28,27,13,11,8
+[Auction "W"]
+Pass Pass 1C 2S 
+Pass Pass Pass 
+[Play "W"]
+C8 C5 CA C2 
+C3 CK CJ C4 
+SJ S8 S3 ST 
+CT D3 S6 C9 
+H3 H4 HQ HA 
+S5 D4 S9 SA 
+H2 H6 H7 HK 
+C6 D6 SK CQ 
+DT D7 DA D2 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "4"]
+[West "Jody Burchall#51578"]
+[North "Ian Beattie#32124"]
+[East "Susan Macken#9994"]
+[South "T M Cain#19882"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8.T964.987643.K5 K963.QJ87.AQ5.AJ AQT742.AK.2.Q942 J5.532.KJT.T8763"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[ScoreIMP "NS 6.00 EW -6.00"]
+[DoubleDummyTricks "57676576767666676666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  7
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  6
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+% RBDATA 8,2,3,188,40,121,105,141,91,207,216,51,36,41,118,147,61,29,113,27,16,19,94,29,21,19,32,20,15,18,519,30,17,37,19,22,27,17,15,29,12,17,60,21,17,16,15,29,23,20,186,29,16,15,45,22,16,11,52,20,12,18,16,16,19,10
+[Auction "W"]
+Pass Pass 1C X 
+2C 2D Pass 2S 
+Pass Pass Pass 
+[Play "W"]
+C6 C5 CJ CQ 
+S5 S8 S3 SA 
+H5 H4 H7 HA 
+H2 H6 H8 HK 
+DT D3 D5 D2 
+C3 CK CA C2 
+H3 H9 HQ S2 
+SJ HT SK SQ 
+C7 D4 HJ S4 
+C8 D6 S6 ST 
+CT D7 DQ C9 
+DJ D8 DA S7 
+DK D9 S9 C4 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "5"]
+[West "Diana Easson#36412"]
+[North "Ian Brash#2927"]
+[East "Tony Winters#18534"]
+[South "Chris Turner#17194"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q932.Q4.AQT4.QJ2 J654.A3.K762.973 T7.KJ985.5.AK865 AK8.T762.J983.T4"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[ScoreIMP "NS -7.00 EW 7.00"]
+[DoubleDummyTricks "9796a9796a3536336363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  6
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  6
+S  C 10
+E NT  3
+E  S  5
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  6
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 5,4,5,186,50,63,34,50,17,97,30,414,35,76,144,10,31,40,19,9,13,83,48,11,121,167,25,16,20,15,20,21,9,182,19,19,58,26,13,16,16,15,47,20,14,25,25,14,8,14,21,19,8,139,26,15,8,13,49,13,9,14,8,9,12
+[Auction "N"]
+1D Pass 1H Pass 
+1NT Pass 2C Pass 
+Pass Pass 
+[Play "W"]
+SK S2 S6 S7 
+SA S3 S4 ST 
+S8 SQ S5 H5 
+C4 C2 C3 CA 
+CT CJ C7 C5 
+D3 CQ C9 C6 
+H2 HQ HA H8 
+D8 S9 SJ C8 
+H6 H4 H3 HK 
+H7 D4 D2 HJ 
+HT DT D6 H9 
+D9 DA D7 D5 
+DJ DQ DK CK 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "5"]
+[West "John Lory#16275"]
+[North "Nicky Bowers#25766"]
+[East "Margaret Fraser#16117"]
+[South "Joy Watkinson#5143"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q932.Q4.AQT4.QJ2 J654.A3.K762.973 T7.KJ985.5.AK865 AK8.T762.J983.T4"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[ScoreIMP "NS 9.00 EW -9.00"]
+[DoubleDummyTricks "9796a9796a3536336363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  6
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  6
+S  C 10
+E NT  3
+E  S  5
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  6
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 14,0,1,176,39,178,37,24,39,23,55,55,23,15,114,52,41,53,10,17,25,10,7,19,107,26,101,87,20,23,23,100,29,6,35,181,41,11,9,173,34,17,11,78,56,8,11,26,22
+[Auction "N"]
+1NT Pass 2D =1= Pass 
+2H Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S4 S7 SA S3 
+S5 ST SK S2 
+SJ H5 S8 S9 
+D6 D5 DJ DQ 
+S6 H8 D3 SQ 
+C3 C5 C4 CQ 
+HA H9 H2 HQ 
+DK C6 D8 DA 
+C7 -  -  CJ 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "5"]
+[West "Jody Burchall#51578"]
+[North "Ian Beattie#32124"]
+[East "Susan Macken#9994"]
+[South "T M Cain#19882"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q932.Q4.AQT4.QJ2 J654.A3.K762.973 T7.KJ985.5.AK865 AK8.T762.J983.T4"]
+[Scoring "IMP;Cross2"]
+[Round "1"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "12"]
+[Score "NS 240"]
+[Table "2"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "9796a9796a3536336363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  6
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  6
+S  C 10
+E NT  3
+E  S  5
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  6
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+% RBDATA 9,2,3,139,77,412,37,50,42,157,20,55,33,92,85,23,40,72,44,20,11,21,69,18,15,52,30,26,31,23,21,12,8,23,36,9,11,19,27,14,9,22,22,15,7,14,22,13,20,14,13,12,12,14,16,8,13
+[Auction "N"]
+1NT Pass 2C Pass 
+2S Pass 2NT Pass 
+Pass Pass 
+[Play "E"]
+D2 D5 DJ DQ 
+H3 H5 H2 HQ 
+HA H8 H6 H4 
+D6 S7 D8 DT 
+D7 ST D3 DA 
+C7 C5 C4 CQ 
+C3 C6 CT CJ 
+C9 CA S8 C2 
+S4 CK D9 D4 
+DK C8 H7 S2 
+S5 HK HT S3 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "6"]
+[West "Jody Burchall#51578"]
+[North "Tony Winters#18534"]
+[East "Susan Macken#9994"]
+[South "Diana Easson#36412"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.A54.KJ4.KQT53 4.K832.T83.98762 AKQ6532.Q6.AQ75. JT8.JT97.962.AJ4"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[ScoreIMP "NS 5.50 EW -5.50"]
+[DoubleDummyTricks "cc8c9cc8c91151410404"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  8
+N  D 12
+N  C  9
+S NT 12
+S  S 12
+S  H  8
+S  D 12
+S  C  9
+E NT  1
+E  S  1
+E  H  5
+E  D  1
+E  C  4
+W NT  1
+W  S  0
+W  H  4
+W  D  0
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 14,5,3,130,129,87,46,87,305,70,35,124,107,38,29,36,17,19,116,25,10,17,9,14,7,20,82,15,11,82
+[Auction "E"]
+Pass 1S Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+C9 H6 CA C3 
+C7 HQ CJ CQ 
+S4 SA S8 S9 
+H2 SK ST S7 
+C2 SQ SJ H4 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "6"]
+[West "John Lory#16275"]
+[North "Ian Beattie#32124"]
+[East "Margaret Fraser#16117"]
+[South "T M Cain#19882"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.A54.KJ4.KQT53 4.K832.T83.98762 AKQ6532.Q6.AQ75. JT8.JT97.962.AJ4"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 520"]
+[Table "2"]
+[ScoreIMP "NS 6.50 EW -6.50"]
+[DoubleDummyTricks "cc8c9cc8c91151410404"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  8
+N  D 12
+N  C  9
+S NT 12
+S  S 12
+S  H  8
+S  D 12
+S  C  9
+E NT  1
+E  S  1
+E  H  5
+E  D  1
+E  C  4
+W NT  1
+W  S  0
+W  H  4
+W  D  0
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 14,2,1,96,426,44,71,26,290,91,50,29,350,24,65,197,41,38,59,23,16,8,20,17,11,7,25,15,20,8,32,19,9,39,32,37,8,12,19,13,11,58,13,18,26,13,21,22,8,8,36,25,8,13
+[Auction "E"]
+Pass 1S Pass 2C 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+H2 HQ H9 H4 
+S4 SA S8 S7 
+D3 SK ST S9 
+C2 SQ SJ C3 
+C6 S6 C4 C5 
+D8 S5 D2 CT 
+C7 S3 D6 CQ 
+H3 S2 D9 CK 
+DT D5 H7 DK 
+C8 D7 CJ DJ 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "6"]
+[West "Joy Watkinson#5143"]
+[North "Ian Brash#2927"]
+[East "Nicky Bowers#25766"]
+[South "Chris Turner#17194"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:97.A54.KJ4.KQT53 4.K832.T83.98762 AKQ6532.Q6.AQ75. JT8.JT97.962.AJ4"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "7NTXX"]
+[Result "12"]
+[Score "NS -200"]
+[Table "3"]
+[ScoreIMP "NS -12.00 EW 12.00"]
+[DoubleDummyTricks "cc8c9cc8c91151410404"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  8
+N  D 12
+N  C  9
+S NT 12
+S  S 12
+S  H  8
+S  D 12
+S  C  9
+E NT  1
+E  S  1
+E  H  5
+E  D  1
+E  C  4
+W NT  1
+W  S  0
+W  H  4
+W  D  0
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+% RBDATA 34,4,0,108,166,88,104,31,28,77,282,90,91,60,377,85,16,91,46,14,281,24,44,21,252,468,21,44,280,17,33,10,46,25,103,11,42,11,37,25,42,42,31,7,36,98,49,7,88,36,16,8,127,15,25,13,34,32,25,35,30,26,37,22,48,8,141,45,50,14,16,13,30,8,22,8
+[Auction "E"]
+Pass 2C Pass 2D 
+Pass 2S Pass 4NT 
+Pass 5D Pass 7NT 
+Pass Pass X Pass 
+Pass XX Pass Pass 
+Pass 
+[Play "E"]
+S4 SA S8 S7 
+H3 SK ST S9 
+H2 SQ SJ C3 
+D8 S6 D2 C5 
+C8 S5 C4 CT 
+C6 S3 CJ CQ 
+C2 S2 D6 H4 
+D3 D5 D9 DK 
+DT D7 H7 DJ 
+C7 DA H9 D4 
+C9 DQ HT CK 
+H8 H6 HJ HA 
+HK HQ CA H5 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "7"]
+[West "Jody Burchall#51578"]
+[North "Tony Winters#18534"]
+[East "Susan Macken#9994"]
+[South "Diana Easson#36412"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K2.A764.AT7.KJ82 AQ73.2.KQ8652.A5 J94.KQT95.J94.T6 T865.J83.3.Q9743"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "94956848554947649477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  9
+N  D  5
+N  C  6
+S NT  8
+S  S  4
+S  H  8
+S  D  5
+S  C  5
+E NT  4
+E  S  9
+E  H  4
+E  D  7
+E  C  6
+W NT  4
+W  S  9
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 12,5,3,209,49,112,121,39,23,164,132,278,23,60,94,35,18,23,52,24,21,66,35,21,19,63,28,9,21,23,35,15,47,35,18,24,14,268,24,44,36,103,27,15,23,36,20,15,8,97,33,13,27,20,39,16,21,12,8,13,7,11,7,14,7
+[Auction "S"]
+Pass Pass 1C 1D 
+1H Pass 3H Pass 
+Pass Pass 
+[Play "W"]
+D3 D7 DQ D4 
+HJ HA H2 H9 
+H3 H4 S3 HT 
+H8 H6 D2 HK 
+C3 C2 C5 CT 
+C4 CJ CA C6 
+S8 DT D5 D9 
+C7 CK D6 S4 
+S5 DA D8 DJ 
+C9 C8 S7 H5 
+S6 S2 SQ SJ 
+ST SK SA S9 
+CQ H7 DK HQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "7"]
+[West "John Lory#16275"]
+[North "Ian Beattie#32124"]
+[East "Margaret Fraser#16117"]
+[South "T M Cain#19882"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K2.A764.AT7.KJ82 AQ73.2.KQ8652.A5 J94.KQT95.J94.T6 T865.J83.3.Q9743"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "94956848554947649477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  9
+N  D  5
+N  C  6
+S NT  8
+S  S  4
+S  H  8
+S  D  5
+S  C  5
+E NT  4
+E  S  9
+E  H  4
+E  D  7
+E  C  6
+W NT  4
+W  S  9
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 7,2,1,167,19,61,142,52,25,50,69,362,23,73,200,25,16,181,21,14,14,131,21,16,7,88,23,28,10,184,30,15,14,29,25,17,14,28,19,25,14,92,35,14,88,23,39,123,28,18,30,15,8,76,17,11,24,19,9,14,10,14,12,8,9
+[Auction "S"]
+Pass Pass 1C 1D 
+1H Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+D3 DA D2 D4 
+H3 H4 H2 HQ 
+H8 H6 D6 HK 
+HJ HA D5 H9 
+C3 C2 CA C6 
+C4 D7 DK DJ 
+C7 DT DQ D9 
+S5 S2 D8 H5 
+C9 C8 C5 CT 
+S6 SK SA S4 
+S8 H7 SQ S9 
+CQ CK S3 SJ 
+ST CJ S7 HT 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "7"]
+[West "Joy Watkinson#5143"]
+[North "Ian Brash#2927"]
+[East "Nicky Bowers#25766"]
+[South "Chris Turner#17194"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K2.A764.AT7.KJ82 AQ73.2.KQ8652.A5 J94.KQT95.J94.T6 T865.J83.3.Q9743"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 300"]
+[Table "3"]
+[ScoreIMP "NS 4.00 EW -4.00"]
+[DoubleDummyTricks "94956848554947649477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  4
+N  H  9
+N  D  5
+N  C  6
+S NT  8
+S  S  4
+S  H  8
+S  D  5
+S  C  5
+E NT  4
+E  S  9
+E  H  4
+E  D  7
+E  C  6
+W NT  4
+W  S  9
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +200"]
+[Competition "Pairs"]
+% RBDATA 11,4,0,253,77,316,238,69,101,121,59,32,30,42,65,25,39,9,28,15,12,12,159,25,6,47,6,16,134,30,46,29,10,17,20,33,20,32,384,33,18,9,97,23,6,20,43,37,13,10,114,21,7,19,45,54,19,7,18,28,27,19,8,14,7,11
+[Auction "S"]
+Pass Pass 1NT X 
+2D =1= Pass 2H 3D 
+Pass Pass Pass 
+[Play "S"]
+HK H3 H7 H2 
+HQ H8 H4 D2 
+C6 C3 C2 CA 
+CT CQ CK C5 
+H5 HJ HA D5 
+S4 ST SK S3 
+S9 S5 S2 SQ 
+D4 D3 DA DK 
+H9 C4 H6 D6 
+SJ S6 D7 SA 
+D9 C7 CJ D8 
+HT S8 C8 DQ 
+DJ C9 DT S7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "8"]
+[West "Jody Burchall#51578"]
+[North "Tony Winters#18534"]
+[East "Susan Macken#9994"]
+[South "Diana Easson#36412"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJT5.42.Q85.J732 A86.963.K763.KQ5 Q7432.AKQ.A92.A9 9.JT875.JT4.T864"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[ScoreIMP "NS -6.50 EW 6.50"]
+[DoubleDummyTricks "aa677aa6773365533655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  6
+N  D  7
+N  C  7
+S NT 10
+S  S 10
+S  H  6
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  6
+E  D  5
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Pairs"]
+% RBDATA 8,5,3,57,30,213,202,52,61,26,29,26,94,26,89,139,30,32,50,32,22,31,89,34,18,26,106,29,34,22,28,33,18,30,126,24,9,54,39,26,19,9,17,21,8,17,20,34,9,17,9,17,8,13,10,16,9,17,13,9,17,7,14,19,7,9
+[Auction "W"]
+Pass Pass 1NT X 
+2D =1= Pass 2H 2S 
+Pass Pass Pass 
+[Play "W"]
+HJ H2 H9 HQ 
+S9 ST S6 S2 
+DT D5 D3 D9 
+C8 C2 CQ CA 
+H5 SJ S8 S3 
+H7 SK SA S4 
+H8 H4 H6 HK 
+HT D8 H3 HA 
+D4 DQ D6 DA 
+DJ S5 D7 D2 
+C4 C3 CK C9 
+C6 C7 DK S7 
+CT CJ C5 SQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "8"]
+[West "John Lory#16275"]
+[North "Ian Beattie#32124"]
+[East "Margaret Fraser#16117"]
+[South "T M Cain#19882"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJT5.42.Q85.J732 A86.963.K763.KQ5 Q7432.AKQ.A92.A9 9.JT875.JT4.T864"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[ScoreIMP "NS 4.00 EW -4.00"]
+[DoubleDummyTricks "aa677aa6773365533655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  6
+N  D  7
+N  C  7
+S NT 10
+S  S 10
+S  H  6
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  6
+E  D  5
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Pairs"]
+% RBDATA 18,2,1,44,61,46,226,36,86,25,117,91,156,23,19,23,31,201,11,35,24,24,36,41,62,40,28,21,168,19,34,10,14,45,7,28,34,53,24,36,20,29,8,10,18,53,6,18
+[Auction "W"]
+Pass Pass 1D X 
+Pass 1S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+CK CA C4 C2 
+S6 S2 S9 ST 
+S8 S3 CT SJ 
+SA S4 H5 S5 
+CQ C9 C6 C3 
+D3 D2 DJ DQ 
+C5 D9 C8 CJ 
+D7 S7 D4 SK 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "8"]
+[West "Joy Watkinson#5143"]
+[North "Ian Brash#2927"]
+[East "Nicky Bowers#25766"]
+[South "Chris Turner#17194"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJT5.42.Q85.J732 A86.963.K763.KQ5 Q7432.AKQ.A92.A9 9.JT875.JT4.T864"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "3"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "aa677aa6773365533655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  6
+N  D  7
+N  C  7
+S NT 10
+S  S 10
+S  H  6
+S  D  7
+S  C  7
+E NT  3
+E  S  3
+E  H  6
+E  D  5
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +430"]
+[Competition "Pairs"]
+% RBDATA 18,4,0,150,46,61,108,146,155,45,231,64,240,38,26,30,39,21,173,124,9,21,87,17,43,18,87,26,26,14,41,102,24,7,172,16,62,20,285,45,24,10,83,24,19,27,140,18,22,17,84,54,17,13,38,23,19,6,17,98
+[Auction "W"]
+Pass Pass 1NT X 
+XX Pass 2C =1= 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+HJ H2 H6 HA 
+S9 SK SA S2 
+H5 H4 H9 HK 
+D4 SJ S6 S3 
+DT S5 S8 SQ 
+CT CJ CQ C9 
+C4 C2 C5 CA 
+DJ DQ DK D2 
+C6 C3 CK S4 
+H7 D5 H3 HQ 
+H8 -  -  DA 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "9"]
+[West "Jody Burchall#51578"]
+[North "Tony Winters#18534"]
+[East "Susan Macken#9994"]
+[South "Diana Easson#36412"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q52.43.T542.QT64 T83.AQT.KJ8.K952 K976.KJ52.Q93.A8 AJ4.9876.A76.J73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "56676566768776776767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  8
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 4,5,3,214,103,124,48,45,72,259,9,27,345,39,14,9,18,23,14,10,18,22,31,23,41,35,23,25,46,41,45,15,55,78,9,22,54,13,21,22,96,22,19,21,100,10,13,18,12,9,14,15,22,18,12,8,13,13,12,9
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "S"]
+H2 H6 H4 HT 
+H5 H7 H3 HA 
+HK H8 S2 HQ 
+HJ H9 D5 S3 
+S6 S4 SQ S8 
+CA C3 C4 C2 
+S7 SJ S5 ST 
+DQ D6 D2 DJ 
+S9 SA D4 C5 
+D3 DA DT D8 
+D9 D7 C6 DK 
+C8 C7 CT CK 
+SK CJ CQ C9 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "9"]
+[West "John Lory#16275"]
+[North "Ian Beattie#32124"]
+[East "Margaret Fraser#16117"]
+[South "T M Cain#19882"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q52.43.T542.QT64 T83.AQT.KJ8.K952 K976.KJ52.Q93.A8 AJ4.9876.A76.J73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[ScoreIMP "NS 1.00 EW -1.00"]
+[DoubleDummyTricks "56676566768776776767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  8
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 8,2,1,77,39,170,59,170,29,379,49,126,27,242,111,69,22,258,57,26,13,39,70,14,35,62,55,11,22,28,19,39,21,188,46,24,17,40,22,32,22,52,41,21,7,29,180,72,38,51,27,25,10,29,22,9,38,81,25,45,34,124,22,24,54,114,20,10,21,10,12,16,8
+[Auction "N"]
+Pass 1C X 1D =1= 
+Pass 1H X Pass 
+1S Pass Pass 1NT 
+Pass Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+HA H2 H6 H3 
+HT HK H7 H4 
+HQ H5 H8 S2 
+C2 CA C3 C4 
+CK C8 C7 CQ 
+DJ DQ DA D2 
+C5 HJ H9 SQ 
+DK D3 D6 D4 
+D8 D9 D7 DT 
+S3 S9 S4 S5 
+S8 S6 SJ C6 
+C9 S7 CJ CT 
+ST SK SA D5 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "9"]
+[West "Joy Watkinson#5143"]
+[North "Ian Brash#2927"]
+[East "Nicky Bowers#25766"]
+[South "Chris Turner#17194"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q52.43.T542.QT64 T83.AQT.KJ8.K952 K976.KJ52.Q93.A8 AJ4.9876.A76.J73"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "3"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "56676566768776776767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  8
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+% RBDATA 4,4,0,105,129,87,137,87,102,40,52,30,333,26,22,39,97,69,22,7,197,27,42,20,141,34,13,24,112,41,27,24,23,18,15,7,88,22,6,25,249,33,18,25,53,49,23,12,42,34,7,305,23,25,14,7,15,7,17,7
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "S"]
+H2 H6 H3 HT 
+S6 SJ SQ S3 
+HK H7 H4 HQ 
+D3 D6 DT DJ 
+D9 DA D2 D8 
+CA C3 C4 C9 
+DQ D7 D4 DK 
+H5 H8 S2 HA 
+S9 SA S5 S8 
+C8 C7 CT CK 
+SK S4 C6 ST 
+HJ H9 D5 C2 
+S7 CJ CQ C5 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "10"]
+[West "Jody Burchall#51578"]
+[North "Tony Winters#18534"]
+[East "Susan Macken#9994"]
+[South "Diana Easson#36412"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT62.K863.A.QJT2 843.T975.KT5.876 5.Q42.J98643.A43 AKQ97.AJ.Q72.K95"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[ScoreIMP "NS 5.00 EW -5.00"]
+[DoubleDummyTricks "55776557777865578656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  7
+N  C  6
+S NT  5
+S  S  5
+S  H  7
+S  D  7
+S  C  7
+E NT  7
+E  S  8
+E  H  6
+E  D  5
+E  C  5
+W NT  7
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+% RBDATA 9,5,3,51,75,51,50,46,73,98,122,96,18,16,89,73,38,21,18,13,15,17,17,9,16,112,25,11,21,17,10,12,8,479,17,11,14,23,13,23,14,43,31,17,85,13,27,30,82,74,15,23,18,15,20,13,13,16,24,13,7,11,14,9,15
+[Auction "E"]
+Pass Pass 1S Pass 
+Pass 2D 2NT Pass 
+Pass Pass 
+[Play "N"]
+CQ C6 C3 C5 
+C2 C7 CA C9 
+CT C8 C4 CK 
+S2 S3 S5 SA 
+S6 S4 D3 SK 
+SJ S8 D4 SQ 
+ST D5 D6 S7 
+CJ H5 D8 D2 
+H3 H7 HQ HA 
+H6 DT D9 S9 
+DA DK DJ D7 
+HK H9 H2 HJ 
+H8 HT H4 DQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "10"]
+[West "John Lory#16275"]
+[North "Ian Beattie#32124"]
+[East "Margaret Fraser#16117"]
+[South "T M Cain#19882"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT62.K863.A.QJT2 843.T975.KT5.876 5.Q42.J98643.A43 AKQ97.AJ.Q72.K95"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[ScoreIMP "NS -2.50 EW 2.50"]
+[DoubleDummyTricks "55776557777865578656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  7
+N  C  6
+S NT  5
+S  S  5
+S  H  7
+S  D  7
+S  C  7
+E NT  7
+E  S  8
+E  H  6
+E  D  5
+E  C  5
+W NT  7
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+% RBDATA 3,2,1,44,262,59,47,20,47,23,58,26,11,17,24,26,23,30,29,16,20,12,19,11,105,203,38,275,53,20,37,17,24,32,25,13,30,11,63,11,14,20,34,13,35,19,16,19,11,19,22,14,11,32,26,8,18,17,9,10,7
+[Auction "E"]
+Pass Pass 1S Pass 
+Pass Pass 
+[Play "N"]
+DA D5 D6 D2 
+CQ C6 C4 CK 
+S2 S3 S5 SA 
+S6 S4 D8 SK 
+ST DK D3 D7 
+H3 HT HQ HA 
+SJ S8 C3 SQ 
+C2 DT D4 DQ 
+HK H5 H2 HJ 
+CT C7 CA C9 
+H6 C8 DJ S7 
+H8 H7 D9 S9 
+CJ H9 H4 C5 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "10"]
+[West "Joy Watkinson#5143"]
+[North "Ian Brash#2927"]
+[East "Nicky Bowers#25766"]
+[South "Chris Turner#17194"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT62.K863.A.QJT2 843.T975.KT5.876 5.Q42.J98643.A43 AKQ97.AJ.Q72.K95"]
+[Scoring "IMP;Cross2"]
+[Round "2"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "3"]
+[ScoreIMP "NS -2.50 EW 2.50"]
+[DoubleDummyTricks "55776557777865578656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  7
+N  C  6
+S NT  5
+S  S  5
+S  H  7
+S  D  7
+S  C  7
+E NT  7
+E  S  8
+E  H  6
+E  D  5
+E  C  5
+W NT  7
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+% RBDATA 3,4,0,60,52,89,53,23,106,195,130,31,36,131,43,8,11,47,14,9,13,247,142,13,18,26,14,32,13,36,83,7,41,144,33,21,8,102,39,14,26,56,90,15,28,32,25,13,17,15,13,7,14,14,18,7,10,11,12,8,9
+[Auction "E"]
+Pass Pass 1S Pass 
+Pass Pass 
+[Play "N"]
+CQ C6 C4 CK 
+S2 S3 S5 SA 
+S6 S4 D3 SK 
+C2 C7 CA C9 
+CT C8 C3 C5 
+ST S8 D4 SQ 
+DA D5 D6 D2 
+SJ H5 D8 S7 
+CJ H7 H2 S9 
+H3 DK D9 D7 
+H6 DT DJ DQ 
+H8 H9 H4 HA 
+HK HT HQ HJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "11"]
+[West "T M Cain#19882"]
+[North "Tony Winters#18534"]
+[East "Ian Beattie#32124"]
+[South "Diana Easson#36412"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:84.A8.K92.AKQ643 J9632.J5.Q874.J5 AT75.942.T63.T97 KQ.KQT763.AJ5.82"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[ScoreIMP "NS -3.50 EW 3.50"]
+[DoubleDummyTricks "86569865694786447864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D  6
+N  C  9
+S NT  8
+S  S  6
+S  H  5
+S  D  6
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  6
+E  C  4
+W NT  4
+W  S  7
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 14,5,2,153,134,92,48,116,48,48,101,58,29,34,67,33,14,36,12,40,13,20,43,9,13,11,21,10,13,26,45,10,18,12,82,11,26,14,53,10,23,11,74,23,18,13,30,19,29,12,16,9,18,19,22,9,9,13,10,8,9,12,9,8,9
+[Auction "S"]
+Pass 1H X Pass 
+1S 2H 3NT Pass 
+Pass Pass 
+[Play "E"]
+HJ H2 H3 H8 
+H5 H4 HT HA 
+C5 C7 C2 CA 
+CJ C9 C8 CK 
+S2 CT D5 CQ 
+D4 H9 DJ C6 
+D7 S5 H6 C4 
+D8 D3 H7 C3 
+S3 SA SK S4 
+DQ D6 DA D2 
+S6 DT HK S8 
+S9 S7 HQ D9 
+SJ ST SQ DK 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "11"]
+[West "Joy Watkinson#5143"]
+[North "Susan Macken#9994"]
+[East "Nicky Bowers#25766"]
+[South "Jody Burchall#51578"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:84.A8.K92.AKQ643 J9632.J5.Q874.J5 AT75.942.T63.T97 KQ.KQT763.AJ5.82"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[ScoreIMP "NS 0.50 EW -0.50"]
+[DoubleDummyTricks "86569865694786447864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D  6
+N  C  9
+S NT  8
+S  S  6
+S  H  5
+S  D  6
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  6
+E  C  4
+W NT  4
+W  S  7
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 12,3,0,74,148,274,60,24,78,103,22,21,97,165,17,33,21,18,12,7,109,38,62,84,29,13,19,61,79,66,24,61,73,156,16,27,33,25,10,22,13,74,32,21,28,21,11,15,62,36,9,16,42,31,15,22
+[Auction "S"]
+Pass 1H 2C Pass 
+Pass 3H Pass Pass 
+Pass 
+[Play "N"]
+CA C5 C9 C2 
+CK CJ C7 C8 
+S8 S2 SA SQ 
+S4 S3 S5 SK 
+HA H5 H9 HK 
+CQ HJ CT D5 
+DK D4 D3 DJ 
+C6 D7 D6 H3 
+H8 S6 H2 HQ 
+D2 S9 H4 HT 
+C3 SJ S7 H7 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "11"]
+[West "John Lory#16275"]
+[North "Ian Brash#2927"]
+[East "Margaret Fraser#16117"]
+[South "Chris Turner#17194"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:84.A8.K92.AKQ643 J9632.J5.Q874.J5 AT75.942.T63.T97 KQ.KQT763.AJ5.82"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "86569865694786447864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D  6
+N  C  9
+S NT  8
+S  S  6
+S  H  5
+S  D  6
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  6
+E  C  4
+W NT  4
+W  S  7
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+% RBDATA 10,4,1,100,154,270,58,21,151,290,28,28,335,74,67,30,16,224,44,36,19,121,22,64,12,102,15,23,10,144,41,27,24,48,66,11,55,153,50,24,10,28,25,21,35,44,36,25,17,48,36,32,14,32,23,13,55,14
+[Auction "S"]
+Pass 1NT X 2H =1= 
+Pass 2S 3C Pass 
+Pass Pass 
+[Play "E"]
+S2 SA SQ S4 
+D4 D3 D5 DK 
+C5 C7 C2 CA 
+CJ C9 C8 CK 
+SJ S5 SK S8 
+H5 H2 HK HA 
+S3 CT H6 C3 
+S9 S7 H3 H8 
+HJ H4 H7 C4 
+DQ D6 DA D2 
+D7 DT DJ D9 
+-  -  HQ -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "12"]
+[West "T M Cain#19882"]
+[North "Tony Winters#18534"]
+[East "Ian Beattie#32124"]
+[South "Diana Easson#36412"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q853.AK74.32.T32 AT96.Q98532.KJ.8 J742.6.A94.AK954 K.JT.QT8765.QJ76"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "68658686586577565775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  8
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 13,5,2,273,129,38,189,25,27,35,147,24,40,41,13,35,31,53,45,12,18,38,12,14,10,17,9,16,12,21,9,233,24,37,21,10,21,20,27,16,51,30,43,26,80,70,13,36,40,14,44,27,35,112,39,29,12,21,15,12,14,11,9,24,12,19,10,11
+[Auction "W"]
+2D Pass Pass X 
+Pass 2H Pass 3C 
+Pass 3S Pass Pass 
+Pass 
+[Play "E"]
+DK DA D5 D2 
+H2 H6 HT HK 
+H3 D4 HJ HA 
+H5 D9 D6 H4 
+C8 CK C6 C2 
+S6 S2 SK S3 
+S9 C4 CQ C3 
+HQ S4 D7 H7 
+SA S7 D8 SQ 
+H9 C5 DT S5 
+DJ SJ DQ D3 
+ST CA C7 CT 
+H8 C9 CJ S8 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "12"]
+[West "Joy Watkinson#5143"]
+[North "Susan Macken#9994"]
+[East "Nicky Bowers#25766"]
+[South "Jody Burchall#51578"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q853.AK74.32.T32 AT96.Q98532.KJ.8 J742.6.A94.AK954 K.JT.QT8765.QJ76"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[ScoreIMP "NS 4.00 EW -4.00"]
+[DoubleDummyTricks "68658686586577565775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  8
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 12,3,0,162,40,141,241,52,75,41,43,150,26,28,16,92,98,26,37,155,77,28,21,28,27,13,17,223,40,13,24,51,119,27,16,39,100,105,20,15,32,16,27,16,153,41,41,79,91,23,16,18,57,9,62,30,59,13,14,21,13,8,13,10,9,7,13
+[Auction "W"]
+Pass Pass 2D =1= Pass 
+2H =2= Pass Pass 3C 
+3H Pass Pass Pass 
+[Play "N"]
+C2 C8 CK C6 
+HA H2 H6 HT 
+H4 H3 C4 HJ 
+D2 DK DA D5 
+D3 DJ D4 DQ 
+H7 H8 D9 DT 
+S3 S6 S2 SK 
+HK S9 C5 D8 
+C3 H5 C9 C7 
+CT HQ S4 D6 
+S5 H9 CA D7 
+S8 SA S7 CJ 
+SQ ST SJ CQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "12"]
+[West "John Lory#16275"]
+[North "Ian Brash#2927"]
+[East "Margaret Fraser#16117"]
+[South "Chris Turner#17194"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q853.AK74.32.T32 AT96.Q98532.KJ.8 J742.6.A94.AK954 K.JT.QT8765.QJ76"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "3"]
+[ScoreIMP "NS -2.00 EW 2.00"]
+[DoubleDummyTricks "68658686586577565775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  8
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 8,4,1,271,71,32,89,52,51,38,22,43,406,43,20,173,34,232,26,40,130,21,28,21,53,32,157,20,75,62,35,76,31,68,16,39,56,57,191,27,51,34,8,19,43,199,10,40,104,25,35,19,68,28,23,39,39,97,26,30,35,19,25,25,24,24,9,9
+[Auction "W"]
+Pass Pass 2D =1= Pass 
+2H =2= Pass Pass X 
+Pass 2S Pass Pass 
+Pass 
+[Play "E"]
+C8 CA C6 C2 
+H2 H6 HT HA 
+S6 S7 SK S3 
+S9 C4 CJ C3 
+DJ DA D6 D2 
+SA S2 D8 SQ 
+DK D4 D5 D3 
+HQ D9 HJ HK 
+H5 S4 D7 H4 
+H3 C5 CQ CT 
+H8 SJ DQ H7 
+ST CK C7 S5 
+H9 C9 DT S8 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "13"]
+[West "T M Cain#19882"]
+[North "Tony Winters#18534"]
+[East "Ian Beattie#32124"]
+[South "Diana Easson#36412"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A83.T97.AQ984.K3 K65.J65.KT.T7642 JT92.K83.J5.AJ95 Q74.AQ42.7632.Q8"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[ScoreIMP "NS -6.00 EW 6.00"]
+[DoubleDummyTricks "89898898984454544545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  9
+N  C  8
+S NT  8
+S  S  9
+S  H  8
+S  D  9
+S  C  8
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 14,5,2,97,102,119,94,40,47,49,23,92,38,34,46,91,103,43,77,32,16,13,27,17,16,22,13,65,16,9,18,32,50,67,19,448,139,25,10,13,14,15,15,18,23,9,19,63,17,14,15,263,18,11,14,20,7,23,41,18,7,7,16,6,6,8,10
+[Auction "N"]
+1D Pass 1S Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H2 H7 HJ HK 
+D2 D4 DK DJ 
+HQ H9 H6 H3 
+HA HT H5 H8 
+H4 S3 CT S2 
+S4 S8 SK S9 
+S7 SA S6 ST 
+D3 DA DT D5 
+D6 DQ S5 C5 
+D7 D9 C2 C9 
+SQ D8 C4 SJ 
+C8 CK C6 CJ 
+CQ C3 C7 CA 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "13"]
+[West "Joy Watkinson#5143"]
+[North "Susan Macken#9994"]
+[East "Nicky Bowers#25766"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A83.T97.AQ984.K3 K65.J65.KT.T7642 JT92.K83.J5.AJ95 Q74.AQ42.7632.Q8"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "89898898984454544545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  9
+N  C  8
+S NT  8
+S  S  9
+S  H  8
+S  D  9
+S  C  8
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 4,3,0,351,130,104,49,149,314,21,26,126,30,14,14,63,86,68,9,26,29,58,40,167,19,20,23,17,83,35,53,88,210,24,21,19,20,7,15,273,125,34,17,237,18,11,25,12,71,15,11,11,21,18,7,9,7,12,7
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+C4 C5 CQ CK 
+C6 C9 C8 C3 
+C2 CJ D2 D4 
+C7 CA D3 S3 
+DK D5 D6 DQ 
+CT S2 D7 H7 
+HJ HK HA H9 
+H6 H3 HQ HT 
+SK S9 S4 S8 
+H5 H8 H2 D8 
+DT DJ H4 D9 
+S5 ST S7 SA 
+S6 SJ SQ DA 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "13"]
+[West "John Lory#16275"]
+[North "Ian Brash#2927"]
+[East "Margaret Fraser#16117"]
+[South "Chris Turner#17194"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A83.T97.AQ984.K3 K65.J65.KT.T7642 JT92.K83.J5.AJ95 Q74.AQ42.7632.Q8"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "3"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "89898898984454544545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  8
+N  D  9
+N  C  8
+S NT  8
+S  S  9
+S  H  8
+S  D  9
+S  C  8
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  5
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 4,4,1,152,31,78,27,63,32,210,20,59,358,20,33,91,31,73,12,236,12,72,12,74,20,12,20,21,21,18,69,8,78,42,190,14,34,9,26,44,37,44,12,29,21,21,15,25,20,40,63,45,23,39,17,19,16,10,17,9,27,9,23
+[Auction "N"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+CT CJ CQ CK 
+C2 C9 C8 C3 
+C4 CA D3 H7 
+DK DJ D2 D4 
+C7 C5 D6 S3 
+C6 S2 D7 S8 
+DT D5 H2 DA 
+H5 S9 H4 DQ 
+S5 ST S4 D9 
+H6 H3 S7 D8 
+HJ HK HA H9 
+S6 H8 HQ HT 
+SK SJ SQ SA 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "14"]
+[West "T M Cain#19882"]
+[North "Tony Winters#18534"]
+[East "Ian Beattie#32124"]
+[South "Diana Easson#36412"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT632.T4.KQ842.9 KJ74.AKQ5.A6.QJ2 5.J98632.73.T765 Q98.7.JT95.AK843"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "1344113441ba98bba98b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  4
+N  D  4
+N  C  1
+S NT  1
+S  S  3
+S  H  4
+S  D  4
+S  C  1
+E NT 11
+E  S 10
+E  H  9
+E  D  8
+E  C 11
+W NT 11
+W  S 10
+W  H  9
+W  D  8
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 14,5,2,173,89,665,159,35,48,23,22,59,22,88,100,12,42,23,35,18,23,15,39,17,20,39,56,128,10,225,27,10,8,21,19,18,7,90,22,23,12,14,25,8,15,22,41,19,13,18,16,45,17,14,12,7,16,7,16,6,26,12,11,8,7
+[Auction "E"]
+2NT =1= Pass 3C =2= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H2 H7 HT HA 
+S5 SQ SA S4 
+H3 D5 H4 HK 
+D7 S8 S2 SK 
+C5 C3 C9 CQ 
+C6 C4 D2 CJ 
+C7 C8 D4 C2 
+CT CK D8 D6 
+D3 CA S3 H5 
+H6 S9 S6 S7 
+H8 D9 DQ DA 
+H9 DT DK HQ 
+HJ DJ ST SJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "14"]
+[West "Joy Watkinson#5143"]
+[North "Susan Macken#9994"]
+[East "Nicky Bowers#25766"]
+[South "Jody Burchall#51578"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT632.T4.KQ842.9 KJ74.AKQ5.A6.QJ2 5.J98632.73.T765 Q98.7.JT95.AK843"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3DX"]
+[Result "5"]
+[Score "NS -800"]
+[Table "2"]
+[ScoreIMP "NS -7.50 EW 7.50"]
+[DoubleDummyTricks "1344113441ba98bba98b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  4
+N  D  4
+N  C  1
+S NT  1
+S  S  3
+S  H  4
+S  D  4
+S  C  1
+E NT 11
+E  S 10
+E  H  9
+E  D  8
+E  C 11
+W NT 11
+W  S 10
+W  H  9
+W  D  8
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 11,3,0,201,99,38,158,163,39,291,36,88,33,20,29,33,100,37,21,251,38,9,23,10,22,8,26,36,37,13,71,82,24,8,17,24,21,89,23,12,26,13,28,30,20,16,20,122,25,7,15,17,21,14,30,42,25,7,12,16,17,13,53,12,15,7,12
+[Auction "E"]
+2D =1= Pass 2H =2= 2S 
+X Pass Pass 3D 
+X Pass Pass Pass 
+[Play "E"]
+HA H2 H7 H4 
+DA D3 D5 D2 
+D6 D7 D9 DQ 
+HK H3 C3 HT 
+CQ C5 C4 C9 
+CJ C6 C8 D4 
+S4 S5 S8 SA 
+S7 C7 S9 S3 
+C2 CT CA D8 
+SJ H6 SQ S6 
+H5 H8 DJ DK 
+SK H9 CK ST 
+HQ HJ DT S2 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "14"]
+[West "John Lory#16275"]
+[North "Ian Brash#2927"]
+[East "Margaret Fraser#16117"]
+[South "Chris Turner#17194"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT632.T4.KQ842.9 KJ74.AKQ5.A6.QJ2 5.J98632.73.T765 Q98.7.JT95.AK843"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "3"]
+[ScoreIMP "NS 4.50 EW -4.50"]
+[DoubleDummyTricks "1344113441ba98bba98b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  4
+N  D  4
+N  C  1
+S NT  1
+S  S  3
+S  H  4
+S  D  4
+S  C  1
+E NT 11
+E  S 10
+E  H  9
+E  D  8
+E  C 11
+W NT 11
+W  S 10
+W  H  9
+W  D  8
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Pairs"]
+% RBDATA 14,4,1,254,122,357,89,27,56,195,34,22,29,41,99,28,18,29,23,13,227,30,21,18,123,26,113,15,9,49,44,13,9,56,69,12,10,56,24,16,19,28,25,10,15,19,12,16,16,23,17,13,8,23,20,12,41,27,14,9,10,15,9,10,6
+[Auction "E"]
+2NT Pass 3C =1= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C5 C3 C9 CQ 
+C6 C4 S2 CJ 
+C7 C8 D4 C2 
+CT CK S3 H5 
+H2 CA H4 S4 
+S5 SQ S6 S7 
+H3 S8 ST SJ 
+H6 H7 HT HA 
+H8 D5 D2 HK 
+H9 D9 D8 HQ 
+D3 DT DQ DA 
+D7 DJ DK D6 
+HJ S9 SA SK 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "15"]
+[West "T M Cain#19882"]
+[North "Tony Winters#18534"]
+[East "Ian Beattie#32124"]
+[South "Diana Easson#36412"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ42.76.KJ542.Q9 A85.J43.AT.AJ642 9.KQT985.973.T53 KT763.A2.Q86.K87"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "2264222642ab77bab77b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  4
+N  C  2
+S NT  2
+S  S  2
+S  H  6
+S  D  4
+S  C  2
+E NT 10
+E  S 11
+E  H  7
+E  D  7
+E  C 11
+W NT 10
+W  S 11
+W  H  7
+W  D  7
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 13,5,2,262,536,84,59,37,123,14,19,263,18,38,123,26,18,26,37,11,122,19,159,41,30,13,13,84,23,19,24,22,66,19,189,25,19,18,19,15,19,12,50,35,27,19,23,17,17,25,11,145,15,34,10,12,20,10,30,14,7,11
+[Auction "S"]
+2D 2S Pass 3S 
+Pass Pass Pass 
+[Play "N"]
+H7 H3 H5 HA 
+S2 S5 S9 SK 
+S4 SA D7 S3 
+SJ S8 H8 ST 
+H6 H4 H9 H2 
+D2 HJ HK S6 
+C9 CA C3 C7 
+CQ C2 C5 CK 
+D4 CJ CT C8 
+SQ C6 HT D6 
+D5 DA D3 D8 
+DJ C4 D9 DQ 
+DK DT HQ S7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "15"]
+[West "Joy Watkinson#5143"]
+[North "Susan Macken#9994"]
+[East "Nicky Bowers#25766"]
+[South "Jody Burchall#51578"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ42.76.KJ542.Q9 A85.J43.AT.AJ642 9.KQT985.973.T53 KT763.A2.Q86.K87"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[ScoreIMP "NS -6.00 EW 6.00"]
+[DoubleDummyTricks "2264222642ab77bab77b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  4
+N  C  2
+S NT  2
+S  S  2
+S  H  6
+S  D  4
+S  C  2
+E NT 10
+E  S 11
+E  H  7
+E  D  7
+E  C 11
+W NT 10
+W  S 11
+W  H  7
+W  D  7
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 18,3,0,169,165,71,37,84,21,17,27,201,16,63,258,46,20,25,270,23,12,51,17,34,16,12,24,66,42,52,103,28,10,105,106,37,25,22,40,53,13,6,27,20,88,13,13,27,34,11,18,33,11,15,18,18,10,16,8,14,9,12
+[Auction "S"]
+2H =1= 2S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+H7 H3 H5 HA 
+C9 CJ C3 C7 
+SJ S5 S9 ST 
+H6 HJ HQ H2 
+CQ H4 HK S7 
+S2 SA H8 S3 
+S4 S8 H9 SK 
+D2 C2 C5 CK 
+SQ C4 CT C8 
+D4 DA D7 D6 
+D5 CA D3 D8 
+DJ C6 D9 DQ 
+DK DT HT S6 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "15"]
+[West "John Lory#16275"]
+[North "Ian Brash#2927"]
+[East "Margaret Fraser#16117"]
+[South "Chris Turner#17194"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ42.76.KJ542.Q9 A85.J43.AT.AJ642 9.KQT985.973.T53 KT763.A2.Q86.K87"]
+[Scoring "IMP;Cross2"]
+[Round "3"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "3"]
+[ScoreIMP "NS 3.00 EW -3.00"]
+[DoubleDummyTricks "2264222642ab77bab77b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  4
+N  C  2
+S NT  2
+S  S  2
+S  H  6
+S  D  4
+S  C  2
+E NT 10
+E  S 11
+E  H  7
+E  D  7
+E  C 11
+W NT 10
+W  S 11
+W  H  7
+W  D  7
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 8,4,1,182,229,130,231,25,53,76,44,47,49,32,10,15,13,34,77,32,75,42,19,10,52,36,67,18,88,81,15,7,24,34,23,11,59,22,10,30,56,76,16,33,49,29,14,15,17,33,10,9,12,10,13,14,11,12,8,11
+[Auction "S"]
+2D =1= 2S Pass Pass 
+Pass 
+[Play "N"]
+H7 H3 H5 HA 
+S2 SA S9 S3 
+SJ S5 H8 ST 
+H6 H4 H9 H2 
+D5 HJ HQ S7 
+C9 C2 C3 CK 
+CQ CA C5 C7 
+S4 CJ CT C8 
+D4 DT D3 D6 
+SQ S8 HT SK 
+D2 DA D7 D8 
+DJ C6 HK DQ 
+DK C4 D9 S6 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "16"]
+[West "John Lory#16275"]
+[North "Tony Winters#18534"]
+[East "Margaret Fraser#16117"]
+[South "Diana Easson#36412"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KT.987532.AQ.QJ8 AJ72.A4.J7.AT975 86.KQT6.K9652.43 Q9543.J.T843.K62"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "33863338638a56a8a56a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  3
+S  S  3
+S  H  8
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  5
+E  D  6
+E  C 10
+W NT  8
+W  S 10
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 17,5,1,342,32,68,130,91,34,141,33,33,84,49,30,12,26,13,18,9,12,22,19,11,22,41,10,32,33,41,10,8,59,20,10,8,35,24,12,23,16,23,10,9,12,23,30,12
+[Auction "W"]
+Pass 1H X 3H 
+3S 4H Pass Pass 
+Pass 
+[Play "E"]
+SA S6 S3 ST 
+S2 S8 SQ SK 
+H4 HQ HJ H2 
+HA H6 S5 H3 
+CA C3 C2 C8 
+C7 C4 CK CQ 
+D7 D2 DT DQ 
+DJ D5 D3 DA 
+C5 HT C6 CJ 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "16"]
+[West "T M Cain#19882"]
+[North "Nicky Bowers#25766"]
+[East "Ian Beattie#32124"]
+[South "Joy Watkinson#5143"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KT.987532.AQ.QJ8 AJ72.A4.J7.AT975 86.KQT6.K9652.43 Q9543.J.T843.K62"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "3"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "33863338638a56a8a56a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  3
+S  S  3
+S  H  8
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  5
+E  D  6
+E  C 10
+W NT  8
+W  S 10
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 12,0,2,181,46,76,154,345,45,39,16,20,26,55,27,18,19,8,20,14,36,25,27,7,22,9,79,7,33,44,37,37,42,30,15,16,56,118,17,20,10
+[Auction "W"]
+Pass 1H X 3D =1= 
+Pass 3H Pass Pass 
+Pass 
+[Play "E"]
+CA C3 C2 C8 
+C5 C4 CK CJ 
+SA S6 SQ SK 
+SJ S8 S3 ST 
+DJ D2 D4 DQ 
+H4 HK HJ H2 
+HA HQ S4 H3 
+D7 -  -  -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "16"]
+[West "Chris Turner#17194"]
+[North "Susan Macken#9994"]
+[East "Ian Brash#2927"]
+[South "Jody Burchall#51578"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KT.987532.AQ.QJ8 AJ72.A4.J7.AT975 86.KQT6.K9652.43 Q9543.J.T843.K62"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "33863338638a56a8a56a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  8
+N  D  6
+N  C  3
+S NT  3
+S  S  3
+S  H  8
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  5
+E  D  6
+E  C 10
+W NT  8
+W  S 10
+W  H  5
+W  D  6
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+% RBDATA 17,3,4,200,100,261,37,34,288,69,25,18,30,130,419,101,49,20,136,31,14,25,204,106,16,10,78,18,10,32,28,15,12,14,220,26,28,34,22,34,32,37
+[Auction "W"]
+Pass 1H X 2D 
+2S 3H 3S 4H 
+Pass Pass Pass 
+[Play "E"]
+SA S6 S5 ST 
+S2 S8 SQ SK 
+HA H6 HJ H2 
+CA C3 C6 CQ 
+CT C4 CK C8 
+C5 D2 C2 CJ 
+H4 HQ S3 H3 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "17"]
+[West "John Lory#16275"]
+[North "Tony Winters#18534"]
+[East "Margaret Fraser#16117"]
+[South "Diana Easson#36412"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT64.KQJT.AJ.A93 J732.987.Q72.T65 K5.A42.954.KQJ72 A98.653.KT863.84"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[ScoreIMP "NS -7.50 EW 7.50"]
+[DoubleDummyTricks "a9b8ba9b8b2415224152"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  8
+N  C 11
+S NT 10
+S  S  9
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  4
+E  H  1
+E  D  5
+E  C  2
+W NT  2
+W  S  4
+W  H  1
+W  D  5
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+% RBDATA 5,5,1,147,24,98,50,212,36,52,83,26,10,16,18,12,19,10,23,13,10,18,43,10,17,30,25,10,9,25,29,22,9,21,25,10,8,13,22,14,7,20,16,10,20,14,26,17,10,10,17,7,20,8,20,9,6,11,9,9,7
+[Auction "N"]
+1C Pass 2C Pass 
+Pass Pass 
+[Play "E"]
+H9 HA H3 HT 
+C5 C2 C4 CA 
+C6 CK C8 C3 
+CT CQ D6 C9 
+S2 SK SA S4 
+D2 D4 DT DA 
+S3 S5 S8 SQ 
+S7 C7 S9 S6 
+H7 H2 H5 HJ 
+SJ CJ D3 ST 
+H8 H4 H6 HQ 
+D7 D5 D8 HK 
+DQ D9 DK DJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "17"]
+[West "T M Cain#19882"]
+[North "Nicky Bowers#25766"]
+[East "Ian Beattie#32124"]
+[South "Joy Watkinson#5143"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT64.KQJT.AJ.A93 J732.987.Q72.T65 K5.A42.954.KQJ72 A98.653.KT863.84"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "3"]
+[ScoreIMP "NS 5.00 EW -5.00"]
+[DoubleDummyTricks "a9b8ba9b8b2415224152"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  8
+N  C 11
+S NT 10
+S  S  9
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  4
+E  H  1
+E  D  5
+E  C  2
+W NT  2
+W  S  4
+W  H  1
+W  D  5
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+% RBDATA 14,0,2,178,67,224,61,155,101,398,64,47,131,87,19,17,17,25,20,109,48,12,30,18,13,10,18,20,55,14,15,26,140,10,43,7
+[Auction "N"]
+1C Pass 2C =1= Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S2 S5 SA S4 
+S3 SK S8 S6 
+C5 C2 C4 CA 
+C6 CK C8 C3 
+CT CQ D6 C9 
+H8 CJ D8 ST 
+-  C7 -  -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "17"]
+[West "Chris Turner#17194"]
+[North "Susan Macken#9994"]
+[East "Ian Brash#2927"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT64.KQJT.AJ.A93 J732.987.Q72.T65 K5.A42.954.KQJ72 A98.653.KT863.84"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[ScoreIMP "NS 2.50 EW -2.50"]
+[DoubleDummyTricks "a9b8ba9b8b2415224152"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  8
+N  C 11
+S NT 10
+S  S  9
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  4
+E  H  1
+E  D  5
+E  C  2
+W NT  2
+W  S  4
+W  H  1
+W  D  5
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+% RBDATA 14,3,4,393,40,207,96,179,36,38,138,34,15,56,17,55,15,32,31,18,12,52,35,13,9,24,62,8,12,30,33,10,23,12,22,12,12,41,19,9,15,7,32,8,23,21,62,16,8,16,11,13,12,48,11,15,15,10,13,10,8
+[Auction "N"]
+1C Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+D6 DJ DQ D4 
+D8 DA D2 D5 
+C8 CA C5 C2 
+C4 C9 CT CJ 
+H3 C3 C6 CK 
+H5 S4 H7 CQ 
+H6 S6 H8 C7 
+S8 HT H9 HA 
+S9 HK S2 H2 
+D3 HQ D7 H4 
+DT HJ S3 D9 
+SA SQ S7 S5 
+DK ST SJ SK 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "18"]
+[West "John Lory#16275"]
+[North "Tony Winters#18534"]
+[East "Margaret Fraser#16117"]
+[South "Diana Easson#36412"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K9.AQ95.Q9852.42 J3.J632.AJT.AK87 AT65.K8.K74.T965 Q8742.T74.63.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[ScoreIMP "NS -1.50 EW 1.50"]
+[DoubleDummyTricks "76796767966754667546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  6
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  6
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 4,5,1,96,122,22,110,93,123,11,15,87,41,18,26,62,26,25,11,16,20,21,26,39,24,17,9,51,13,16,34,29,24,12,21,28,17,13,9,20,23,13,9,25,28,20,8,16,20,10,12,9,21,9,16,11,15,13,10
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+C5 CJ C2 C7 
+S5 S2 S9 SJ 
+ST SQ SK S3 
+C6 C3 C4 CA 
+C9 CQ D2 C8 
+DK D3 D5 DT 
+D4 D6 D8 DJ 
+D7 H4 D9 DA 
+CT S4 H5 CK 
+HK H7 H9 H2 
+SA S7 DQ H3 
+H8 HT HQ H6 
+S6 S8 HA HJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "18"]
+[West "T M Cain#19882"]
+[North "Nicky Bowers#25766"]
+[East "Ian Beattie#32124"]
+[South "Joy Watkinson#5143"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K9.AQ95.Q9852.42 J3.J632.AJT.AK87 AT65.K8.K74.T965 Q8742.T74.63.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS 150"]
+[Table "3"]
+[ScoreIMP "NS 7.00 EW -7.00"]
+[DoubleDummyTricks "76796767966754667546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  6
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  6
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 8,0,2,193,39,102,90,30,72,17,49,100,97,23,23,12,17,8,19,28,26,138,43,64,47,16,69,80,56,17,18,21,30,18,17,20,14,24,47,46,12,86,8,51,108,16,23,82,19,33,69,25,10,56,19,59,19,6,10,11,16,6,10
+[Auction "E"]
+1NT Pass 2H =1= X 
+2S Pass Pass Pass 
+[Play "S"]
+HK H4 H5 H2 
+H8 H7 HQ H3 
+D7 HT HA H6 
+D4 D3 D9 DA 
+C5 CQ C4 C7 
+C6 CJ C2 C8 
+C9 C3 S9 CK 
+DK D6 D5 DT 
+CT SQ SK CA 
+S5 S7 H9 HJ 
+SA S2 D2 SJ 
+ST S4 D8 S3 
+S6 S8 DQ DJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "18"]
+[West "Chris Turner#17194"]
+[North "Susan Macken#9994"]
+[East "Ian Brash#2927"]
+[South "Jody Burchall#51578"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K9.AQ95.Q9852.42 J3.J632.AJT.AK87 AT65.K8.K74.T965 Q8742.T74.63.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[ScoreIMP "NS -5.50 EW 5.50"]
+[DoubleDummyTricks "76796767966754667546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  9
+N  C  6
+S NT  7
+S  S  6
+S  H  7
+S  D  9
+S  C  6
+E NT  6
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Pairs"]
+% RBDATA 9,3,4,308,116,29,73,45,181,32,185,43,251,95,14,26,18,16,22,16,16,120,21,24,38,20,29,13,42,62,17,16,35,39,17,9,64,20,15,17,49,40,30,9,29,10,29,26,262,28,17,10,34,68,13,9,14,16,11,11,14,14,11,9
+[Auction "E"]
+1C Pass 1S X 
+1NT 2NT Pass Pass 
+Pass 
+[Play "W"]
+CQ C2 C8 C5 
+CJ C4 C7 C6 
+C3 H5 CA C9 
+S2 D2 CK CT 
+S4 SK SJ S5 
+D6 D5 DT DK 
+H4 H9 H2 HK 
+H7 HQ H3 H8 
+HT HA H6 S6 
+D3 D9 DJ D4 
+S7 S9 HJ ST 
+S8 D8 DA D7 
+SQ DQ S3 SA 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "19"]
+[West "John Lory#16275"]
+[North "Tony Winters#18534"]
+[East "Margaret Fraser#16117"]
+[South "Diana Easson#36412"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T652.Q8.AT43.T87 AJ83.T95.K72.K95 K4.J76432.QJ.A42 Q97.AK.9865.QJ63"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[ScoreIMP "NS -4.00 EW 4.00"]
+[DoubleDummyTricks "44754447547958979588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  5
+N  C  4
+S NT  4
+S  S  4
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S  9
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  9
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,5,1,199,257,33,38,28,48,47,71,33,11,41,14,20,14,42,22,32,24,18,23,30,13,26,29,19,29,17,28,20,8,17,18,14,11,22,30,9,20,15,25,9,12,20,21,12,23,16,23,9,9,26
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+Pass Pass 
+[Play "E"]
+S3 S4 SQ S2 
+SA SK S7 S5 
+D2 DJ D8 D3 
+H5 H2 HK H8 
+D7 DQ D5 DA 
+S8 H3 S9 S6 
+H9 H4 HA HQ 
+C5 CA CQ C7 
+HT HJ D6 D4 
+C9 C2 C6 C8 
+CK C4 C3 CT 
+DK -  -  -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "19"]
+[West "T M Cain#19882"]
+[North "Nicky Bowers#25766"]
+[East "Ian Beattie#32124"]
+[South "Joy Watkinson#5143"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T652.Q8.AT43.T87 AJ83.T95.K72.K95 K4.J76432.QJ.A42 Q97.AK.9865.QJ63"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "3"]
+[ScoreIMP "NS 8.00 EW -8.00"]
+[DoubleDummyTricks "44754447547958979588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  5
+N  C  4
+S NT  4
+S  S  4
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S  9
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  9
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 14,0,2,197,98,88,83,42,157,21,78,41,106,25,25,18,59,187,17,36,76,92,25,33,190,27,11,18,161,17,99,17,37,51,20,45,13,21,8,19,17,19,20,21,26,78,92,20,19,58,117,144,136,16,54,19,111,22,10,12,9,16,9,15,11,10,10,6
+[Auction "S"]
+1H X 1S X 
+2H X Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HQ H5 H2 HA 
+S6 S3 SK SQ 
+H8 H9 H3 HK 
+S2 SJ S4 S7 
+C8 C5 CA C3 
+D3 HT HJ D5 
+D4 D2 H7 D6 
+C7 S8 H6 D8 
+CT CK H4 S9 
+DA D7 DQ D9 
+S5 SA C4 C6 
+DT C9 C2 CJ 
+ST DK DJ CQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "19"]
+[West "Chris Turner#17194"]
+[North "Susan Macken#9994"]
+[East "Ian Brash#2927"]
+[South "Jody Burchall#51578"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T652.Q8.AT43.T87 AJ83.T95.K72.K95 K4.J76432.QJ.A42 Q97.AK.9865.QJ63"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[ScoreIMP "NS -4.00 EW 4.00"]
+[DoubleDummyTricks "44754447547958979588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  5
+N  C  4
+S NT  4
+S  S  4
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S  9
+E  H  5
+E  D  8
+E  C  9
+W NT  7
+W  S  9
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+% RBDATA 7,3,4,247,62,125,52,140,31,18,52,73,146,169,18,129,23,19,12,155,24,21,15,65,27,61,30,28,31,18,40,85,43,53,25,24,29,14,16,30,26,24,11,102,18,11,13,44,20,36,13,20,25,10,14,15,25,12,3,13,12,8,7
+[Auction "S"]
+1H Pass 1S Pass 
+2H Pass Pass Pass 
+[Play "W"]
+S7 S2 SA S4 
+S9 S5 S3 SK 
+HK H8 H5 H2 
+CQ C7 C5 CA 
+D6 D3 DK DQ 
+SQ S6 S8 H3 
+D5 D4 D2 DJ 
+HA HQ H9 H4 
+C3 C8 CK C2 
+CJ CT C9 C4 
+D9 DA D7 H6 
+D8 DT HT HJ 
+C6 ST SJ H7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "20"]
+[West "John Lory#16275"]
+[North "Tony Winters#18534"]
+[East "Margaret Fraser#16117"]
+[South "Diana Easson#36412"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQT.K432.QJ743.7 K98.AQ97.AK8.J43 7532.J8.92.KT962 J64.T65.T65.AQ85"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[ScoreIMP "NS 10.50 EW -10.50"]
+[DoubleDummyTricks "45455454559888898988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  5
+E NT  9
+E  S  8
+E  H  8
+E  D  8
+E  C  8
+W NT  9
+W  S  8
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+% RBDATA 14,5,1,81,40,88,39,125,21,116,87,17,24,21,180,28,9,19,28,20,9,26,15,23,11,169,31,18,20,31,30,21,75,33,25,35,10,26,12,61,22,30,14,10,15,12,19,45,12,11,27,135,21,13,17,11,46,36,15,21,12,10,11,12,12
+[Auction "W"]
+Pass 1D X Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+D4 DA D9 D5 
+C7 CJ C2 C5 
+D3 C4 C9 CQ 
+H2 H7 HJ HT 
+DJ DK D2 DT 
+ST C3 CT CA 
+H3 HA H8 H5 
+HK H9 C6 H6 
+DQ D8 CK D6 
+D7 S8 S2 C8 
+H4 HQ S3 S4 
+SQ S9 S5 SJ 
+SA SK S7 S6 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "20"]
+[West "T M Cain#19882"]
+[North "Nicky Bowers#25766"]
+[East "Ian Beattie#32124"]
+[South "Joy Watkinson#5143"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQT.K432.QJ743.7 K98.AQ97.AK8.J43 7532.J8.92.KT962 J64.T65.T65.AQ85"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "3"]
+[ScoreIMP "NS 1.00 EW -1.00"]
+[DoubleDummyTricks "45455454559888898988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  5
+E NT  9
+E  S  8
+E  H  8
+E  D  8
+E  C  8
+W NT  9
+W  S  8
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+% RBDATA 4,0,2,186,34,75,75,139,14,44,150,26,63,57,41,55,7,62,26,41,21,262,61,78,32,50,57,112,28,36,67,33,28,25,171,17,11,26,14,118,14,51,23,14,7,21,17,22,152,22,12,103,7,28,16,24,9,7,13,8,6
+[Auction "W"]
+Pass 1D 1NT Pass 
+Pass Pass 
+[Play "S"]
+D9 DT DJ DA 
+CK CA C7 CJ 
+HJ HT H3 H7 
+C9 C5 D3 C3 
+D2 D5 D7 D8 
+C2 C8 ST C4 
+C6 CQ H2 S8 
+H8 H5 H4 HQ 
+S2 H6 HK HA 
+S3 D6 D4 H9 
+S5 S4 DQ DK 
+S7 SJ SQ S9 
+CT S6 SA SK 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "20"]
+[West "Chris Turner#17194"]
+[North "Susan Macken#9994"]
+[East "Ian Brash#2927"]
+[South "Jody Burchall#51578"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQT.K432.QJ743.7 K98.AQ97.AK8.J43 7532.J8.92.KT962 J64.T65.T65.AQ85"]
+[Scoring "IMP;Cross2"]
+[Round "4"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[ScoreIMP "NS -11.50 EW 11.50"]
+[DoubleDummyTricks "45455454559888898988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  5
+E NT  9
+E  S  8
+E  H  8
+E  D  8
+E  C  8
+W NT  9
+W  S  8
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+% RBDATA 14,3,4,88,149,138,25,214,44,92,72,18,47,34,248,30,39,129,29,32,20,102,34,14,17,139,31,209,24,319,37,64,20,69,49,46,30,171,21,57,38,141,29,57,11,315,38,46,17,101,23,20,18,33,31,23,11,34,19,41,15,8,20,9,19
+[Auction "W"]
+Pass 1D 1NT Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+D9 DT DJ DA 
+C2 CQ C7 C3 
+H8 H5 H2 HQ 
+C6 C8 D3 C4 
+HJ H6 H3 H9 
+D2 D5 DQ DK 
+CK CA D4 CJ 
+S5 HT H4 H7 
+S2 S4 ST SK 
+S3 C5 HK HA 
+S7 D6 D7 D8 
+C9 S6 SQ S8 
+CT SJ SA S9 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "21"]
+[West "Diana Easson#36412"]
+[North "Nicky Bowers#25766"]
+[East "Tony Winters#18534"]
+[South "Joy Watkinson#5143"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J5.AKJT.QT64.K42 T42.9432.J87.AJT AK987.87.A52.Q93 Q63.Q65.K93.8765"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "3"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "aaabaaaab93232332323"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H 10
+S  D 11
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  2
+E  C  3
+W NT  3
+W  S  2
+W  H  3
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Pairs"]
+% RBDATA 14,0,5,432,38,122,38,26,23,28,86,18,26,26,27,65,29,199,24,19,20,20,22,10,10,90,14,10,15,26,17,66,11,137,34,12,23,13,31,13,12,88,21,97,20,16,19,8,14,7,15,26,16,13,16,6,11,7,15,6,9,8,11,7,10
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+H9 H7 HQ HA 
+S2 S7 SQ SJ 
+H2 H8 H6 HK 
+S4 SA S3 S5 
+ST SK S6 C2 
+CA C3 C5 CK 
+H4 D2 H5 HJ 
+H3 C9 D3 HT 
+D7 DA D9 D4 
+CT S9 C6 C4 
+CJ S8 C7 D6 
+D8 CQ C8 DT 
+DJ D5 DK DQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "21"]
+[West "John Lory#16275"]
+[North "Susan Macken#9994"]
+[East "Margaret Fraser#16117"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J5.AKJT.QT64.K42 T42.9432.J87.AJT AK987.87.A52.Q93 Q63.Q65.K93.8765"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[ScoreIMP "NS -0.50 EW 0.50"]
+[DoubleDummyTricks "aaabaaaab93232332323"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H 10
+S  D 11
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  2
+E  C  3
+W NT  3
+W  S  2
+W  H  3
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Pairs"]
+% RBDATA 14,3,1,234,99,38,55,24,22,34,93,30,28,67,210,58,32,175,32,18,16,20,53,28,11,34,28,20,18,32,23,64,9,32,22,31,63,161,26,17,19,17,21,20,9,31,20,19,46,15,31,22,14,15,19,17,23,28,15,59,16,14,11,10,11
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+H9 H7 HQ HA 
+S2 SA S3 S5 
+S4 S7 SQ SJ 
+H2 H8 H6 HT 
+H3 C3 H5 HK 
+H4 D2 C5 HJ 
+D7 DA D3 D4 
+ST SK S6 C2 
+D8 S9 C6 D6 
+CT S8 C7 C4 
+CA C9 C8 CK 
+DJ D5 DK DT 
+CJ CQ D9 DQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "21"]
+[West "Chris Turner#17194"]
+[North "Ian Beattie#32124"]
+[East "Ian Brash#2927"]
+[South "T M Cain#19882"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J5.AKJT.QT64.K42 T42.9432.J87.AJT AK987.87.A52.Q93 Q63.Q65.K93.8765"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[ScoreIMP "NS 1.00 EW -1.00"]
+[DoubleDummyTricks "aaabaaaab93232332323"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H 10
+S  D 11
+S  C  9
+E NT  3
+E  S  2
+E  H  3
+E  D  2
+E  C  3
+W NT  3
+W  S  2
+W  H  3
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Pairs"]
+% RBDATA 14,2,4,257,177,190,62,58,105,141,32,29,27,303,102,41,53,150,45,41,37,24,139,19,69,25,35,9,13,166,31,12,11,21,18,20,12,30,27,16,64,41,77,20,24,35,15,30,14,87,14,10,10,21,16,9,13,13,30,9,8,12,20,6,9
+[Auction "N"]
+1NT Pass 2C Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S2 S7 SQ S5 
+CA C3 C7 C2 
+CJ C9 C5 CK 
+S4 S8 S3 SJ 
+CT CQ C6 C4 
+ST SA S6 D4 
+D8 SK D3 D6 
+D7 S9 H5 DT 
+H2 H7 H6 HT 
+H3 H8 HQ HA 
+H4 D2 C8 HK 
+H9 D5 D9 HJ 
+DJ DA DK DQ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "22"]
+[West "Diana Easson#36412"]
+[North "Nicky Bowers#25766"]
+[East "Tony Winters#18534"]
+[South "Joy Watkinson#5143"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J87.KT97642.Q.65 T9654.Q3.T5.KQ92 A3.A5.AJ432.T743 KQ2.J8.K9876.AJ8"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "3"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "9695696a664737747377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  5
+N  C  6
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C  6
+E NT  4
+E  S  7
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 7,0,5,73,76,72,109,18,58,28,21,16,117,19,33,22,31,22,16,32,14,10,17,140,24,16,288,24,8,27,47,17,19,10,44,29,17,18,46,23,10,15,20,16,17,10,7,13,6,9
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 2D Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+CK C3 C8 C5 
+C2 C4 CA C6 
+C9 C7 CJ H4 
+H3 HA H8 H2 
+HQ H5 HJ HK 
+D5 D2 DK DQ 
+S4 SA SK S7 
+DT DA D6 S8 
+S5 DJ D7 SJ 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "22"]
+[West "John Lory#16275"]
+[North "Susan Macken#9994"]
+[East "Margaret Fraser#16117"]
+[South "Jody Burchall#51578"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J87.KT97642.Q.65 T9654.Q3.T5.KQ92 A3.A5.AJ432.T743 KQ2.J8.K9876.AJ8"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScoreIMP "NS -1.50 EW 1.50"]
+[DoubleDummyTricks "9695696a664737747377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  5
+N  C  6
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C  6
+E NT  4
+E  S  7
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 7,3,1,66,109,56,46,98,16,101,38,219,11,20,30,17,69,17,28,34,10,25,86,29,25,16,14,37,13,12,55,20,10,20,14,22,10,10,24,16,11,48,48,16,59,26,10,28,11,8
+[Auction "E"]
+Pass 1D Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+CK C3 C8 C5 
+CQ C4 CJ C6 
+C2 CT CA H2 
+H3 HA H8 H4 
+D5 D2 DK DQ 
+S4 SA SK S7 
+DT DA D6 S8 
+HQ DJ D7 SJ 
+C9 C7 HJ HK 
+S5 H5 S2 HT 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "22"]
+[West "Chris Turner#17194"]
+[North "Ian Beattie#32124"]
+[East "Ian Brash#2927"]
+[South "T M Cain#19882"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J87.KT97642.Q.65 T9654.Q3.T5.KQ92 A3.A5.AJ432.T743 KQ2.J8.K9876.AJ8"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "1"]
+[ScoreIMP "NS 1.50 EW -1.50"]
+[DoubleDummyTricks "9695696a664737747377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  9
+N  D  5
+N  C  6
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C  6
+E NT  4
+E  S  7
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 7,2,4,157,115,135,50,140,152,35,85,50,17,16,137,66,18,27,113,63,8,17,98,26,23,15,18,22,12,15,43,19,20,20,52,14,53,11,88,16,21,15,7,43,18,14,15,16,17,9,27,37,23,9
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+ST SA S2 S7 
+D5 D2 D6 DQ 
+H3 HA H8 H2 
+DT DA D7 C5 
+S4 S3 SQ S8 
+CQ C3 C8 C6 
+CK C4 CJ H4 
+S5 H5 SK SJ 
+C2 C7 CA H6 
+HQ CT HJ HK 
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "23"]
+[West "John Lory#16275"]
+[North "Susan Macken#9994"]
+[East "Margaret Fraser#16117"]
+[South "Jody Burchall#51578"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K.Q543.AKT9.A764 AJ8632.J7.54.K98 94.AKT6.Q862.T52 QT75.982.J73.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[ScoreIMP "NS -5.00 EW 5.00"]
+[DoubleDummyTricks "75aa975aa94833348333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D 10
+N  C  9
+S NT  7
+S  S  5
+S  H 10
+S  D 10
+S  C  9
+E NT  4
+E  S  8
+E  H  3
+E  D  3
+E  C  3
+W NT  4
+W  S  8
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+% RBDATA 16,3,1,89,74,151,41,145,242,33,25,22,27,41,92,18,21,57,108,22,20,51,24,26,19,17,17,23,7,42,22,16,9,63,23,21,10,17,13,23,9,26,43,13,8,16,9,23,18,22,20,18,32,13,28,14,9,33,18,9,12,19,13,9,13
+[Auction "S"]
+Pass Pass 1D 1S 
+3D 3S 4D Pass 
+Pass Pass 
+[Play "E"]
+SA S4 S5 SK 
+C8 C2 CJ CA 
+D4 DQ D3 D9 
+D5 D2 D7 DA 
+S3 D6 DJ DK 
+H7 HA H2 H3 
+HJ H6 H8 HQ 
+S2 HT H9 H4 
+S6 HK S7 H5 
+S8 S9 ST DT 
+CK C5 C3 C4 
+C9 CT CQ C6 
+SJ D8 SQ C7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "23"]
+[West "Diana Easson#36412"]
+[North "Nicky Bowers#25766"]
+[East "Tony Winters#18534"]
+[South "Joy Watkinson#5143"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K.Q543.AKT9.A764 AJ8632.J7.54.K98 94.AKT6.Q862.T52 QT75.982.J73.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "3"]
+[ScoreIMP "NS -5.00 EW 5.00"]
+[DoubleDummyTricks "75aa975aa94833348333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D 10
+N  C  9
+S NT  7
+S  S  5
+S  H 10
+S  D 10
+S  C  9
+E NT  4
+E  S  8
+E  H  3
+E  D  3
+E  C  3
+W NT  4
+W  S  8
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+% RBDATA 12,0,5,59,27,206,75,72,73,93,26,48,48,378,29,24,102,13,7,12,23,15,19,58,26,9,14,106,19,12,10,129,13,11,18,45,18,9,9,122,14,14,12,58,15,144,22,47,93,22,12,10,27,12,16,62,24,8,11,20,17,7,12,7,11,17,10
+[Auction "S"]
+Pass Pass 1C 1S 
+X Pass 2H 2S 
+3H Pass Pass Pass 
+[Play "E"]
+SA S4 S5 SK 
+S2 S9 SQ H3 
+H7 HA H2 H4 
+HJ H6 H8 HQ 
+S3 HK H9 H5 
+D4 D2 D3 DA 
+D5 D6 D7 DK 
+S6 D8 DJ D9 
+CK C2 C3 C4 
+C9 CT CJ CA 
+S8 DQ S7 DT 
+SJ HT ST C6 
+C8 C5 CQ C7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "23"]
+[West "Chris Turner#17194"]
+[North "Ian Beattie#32124"]
+[East "Ian Brash#2927"]
+[South "T M Cain#19882"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K.Q543.AKT9.A764 AJ8632.J7.54.K98 94.AKT6.Q862.T52 QT75.982.J73.QJ3"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[ScoreIMP "NS 10.00 EW -10.00"]
+[DoubleDummyTricks "75aa975aa94833348333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D 10
+N  C  9
+S NT  7
+S  S  5
+S  H 10
+S  D 10
+S  C  9
+E NT  4
+E  S  8
+E  H  3
+E  D  3
+E  C  3
+W NT  4
+W  S  8
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+% RBDATA 17,2,4,95,28,68,99,154,26,39,87,214,32,143,165,33,33,24,43,273,61,16,42,308,53,37,27,90,37,38,9,29,19,31,9,35,52,22,11,18,43,27,9,31,22,8,26,14,27,11,9,22,11,18,10,16,29,8,22,11,37,12,8,39,12,8,8,19,4,20,6
+[Auction "S"]
+Pass Pass 1C 2S 
+X Pass 3H Pass 
+Pass 3S 4D Pass 
+4H Pass Pass Pass 
+[Play "E"]
+SA S4 S7 SK 
+C8 C2 CJ CA 
+H7 H6 H2 HQ 
+HJ HA H8 H3 
+S2 S9 SQ H4 
+S3 HK H9 H5 
+D4 D2 D3 DA 
+D5 D6 D7 DK 
+S6 DQ DJ DT 
+S8 D8 S5 D9 
+CK C5 C3 C4 
+C9 CT CQ C6 
+SJ HT ST C7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "24"]
+[West "John Lory#16275"]
+[North "Susan Macken#9994"]
+[East "Margaret Fraser#16117"]
+[South "Jody Burchall#51578"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A964.T76.98.J987 .QJ8.AT7654.AKQT KJT53.K942.K2.53 Q872.A53.QJ3.642"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "2"]
+[ScoreIMP "NS -11.50 EW 11.50"]
+[DoubleDummyTricks "6761567615766c8766c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  1
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  1
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D 12
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D 12
+W  C  8
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 18,3,1,135,25,56,67,189,64,177,38,155,35,49,24,53,217,10,20,17,23,12,29,52,28,10,18,61,30,24,23,86,32,24,18,63,26,12,26,61,19,62,10,299,37,14,8,27,19,22,10,14,37,24,19,13,22,17,9,60,11,17,22,17,11,11,11
+[Auction "W"]
+Pass Pass 1D 2D =1= 
+3D 3S 4D 4S 
+X Pass Pass Pass 
+[Play "E"]
+CA C3 C2 C7 
+CK C5 C4 C8 
+DA D2 D3 D8 
+HQ HK HA H6 
+HJ H2 H3 H7 
+H8 H4 H5 HT 
+D4 S3 S2 SA 
+D5 DK DJ D9 
+D6 SK S7 S4 
+D7 H9 S8 S9 
+CT S5 C6 C9 
+DT ST SQ S6 
+CQ SJ DQ CJ 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "24"]
+[West "Diana Easson#36412"]
+[North "Nicky Bowers#25766"]
+[East "Tony Winters#18534"]
+[South "Joy Watkinson#5143"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A964.T76.98.J987 .QJ8.AT7654.AKQT KJT53.K942.K2.53 Q872.A53.QJ3.642"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "3"]
+[ScoreIMP "NS 7.00 EW -7.00"]
+[DoubleDummyTricks "6761567615766c8766c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  1
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  1
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D 12
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D 12
+W  C  8
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,0,5,131,47,28,59,110,44,77,90,18,17,193,331,39,20,56,30,36,9,59,48,37,77,35,17,22,52,232,24,12,16,73,27,14,16,20,12,51,8,174,33,8,15,18,30,12,9,43,51,9,12,8,19,8,9,10,9,6,5,9,7,8,3
+[Auction "W"]
+Pass Pass 1D 1S 
+1NT 2S 3NT Pass 
+Pass Pass 
+[Play "N"]
+C9 CQ C5 C2 
+D8 D4 DK D3 
+S4 CT ST S2 
+S9 H8 S5 S7 
+SA HJ S3 S8 
+S6 D5 SK SQ 
+H6 D6 SJ H3 
+C7 CK C3 C4 
+D9 D7 D2 DQ 
+CJ DT H2 DJ 
+C8 CA H4 C6 
+H7 DA H9 H5 
+HT HQ HK HA 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "24"]
+[West "Chris Turner#17194"]
+[North "Ian Beattie#32124"]
+[East "Ian Brash#2927"]
+[South "T M Cain#19882"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A964.T76.98.J987 .QJ8.AT7654.AKQT KJT53.K942.K2.53 Q872.A53.QJ3.642"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[ScoreIMP "NS 4.50 EW -4.50"]
+[DoubleDummyTricks "6761567615766c8766c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  1
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  1
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D 12
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D 12
+W  C  8
+[OptimumScore "NS -920"]
+[Competition "Pairs"]
+% RBDATA 14,2,4,142,36,83,264,50,37,82,90,116,52,27,20,36,165,58,39,8,53,23,21,89,21,7,113,46,77,16,21,22,16,7,31,22,75,46,48,153
+[Auction "W"]
+Pass Pass 1D 1S 
+Pass Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+SA CT S3 S2 
+S9 D4 SK S7 
+S6 H8 ST SQ 
+D8 D5 DK DQ 
+S4 HJ SJ S8 
+C8 HQ S5 H3 
+-  -  H2 -  
+*
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "25"]
+[West "Diana Easson#36412"]
+[North "Nicky Bowers#25766"]
+[East "Tony Winters#18534"]
+[South "Joy Watkinson#5143"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:862.T97.T8432.84 T743.J3.AKQ6.763 K5.AQ84.7.KQJT95 AQJ9.K652.J95.A2"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "3"]
+[ScoreIMP "NS 0.00 EW 0.00"]
+[DoubleDummyTricks "31537316379c7a59c7a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  5
+N  D  3
+N  C  7
+S NT  3
+S  S  1
+S  H  6
+S  D  3
+S  C  7
+E NT  9
+E  S 12
+E  H  7
+E  D 10
+E  C  5
+W NT  9
+W  S 12
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS -1400"]
+[Competition "Pairs"]
+% RBDATA 13,0,5,62,143,89,52,177,24,129,94,29,21,17,56,31,8,10,24,20,10,44,54,24,103,13,11,31,8,12,49,24,10,12,10,18,10,18,24,20,9,11,23,11,9,21,17,26,8,22,11,20,9,266,17,76,16,18,10,16,10,33,11,6,11,10
+[Auction "N"]
+Pass Pass 1C =1= X 
+Pass 1S 3C 3S 
+Pass Pass Pass 
+[Play "S"]
+CK CA C8 C3 
+C9 C2 C4 C6 
+HA H2 H7 H3 
+H4 HK H9 HJ 
+D7 D5 D2 DA 
+S5 S9 S2 S3 
+SK SA S6 S4 
+C5 SJ S8 S7 
+CT DJ D4 D6 
+H8 D9 DT DQ 
+CJ H5 D3 DK 
+CQ SQ D8 C7 
+HQ H6 HT ST 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "25"]
+[West "John Lory#16275"]
+[North "Susan Macken#9994"]
+[East "Margaret Fraser#16117"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:862.T97.T8432.84 T743.J3.AKQ6.763 K5.AQ84.7.KQJT95 AQJ9.K652.J95.A2"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[ScoreIMP "NS 9.50 EW -9.50"]
+[DoubleDummyTricks "31537316379c7a59c7a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  5
+N  D  3
+N  C  7
+S NT  3
+S  S  1
+S  H  6
+S  D  3
+S  C  7
+E NT  9
+E  S 12
+E  H  7
+E  D 10
+E  C  5
+W NT  9
+W  S 12
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS -1400"]
+[Competition "Pairs"]
+% RBDATA 16,3,1,51,44,136,54,30,67,44,75,194,41,29,560,53,106,23,31,119,88,33,29,35,138,72,26,11,67,21,11,14,31,22,9,21,79,31,16,27,113,22,10,13,39,25,8,23,126,21,9,24,50,55,10,23,25,34,10,28,12,27,15,12,64,16,20,8,20,16,12,35,23,10,8,12
+[Auction "N"]
+Pass Pass 1C X 
+Pass 1D 1H 1S 
+Pass 2S 3C 3D 
+Pass 3S Pass Pass 
+4C 4D Pass Pass 
+Pass 
+[Play "S"]
+CK CA C8 C3 
+D7 DJ D2 D6 
+C5 D5 D8 DQ 
+S5 S9 S8 S3 
+SK SA S2 S4 
+C9 SJ S6 S7 
+CT D9 DT DK 
+H4 H2 D3 DA 
+CJ SQ D4 ST 
+CQ C2 C4 C6 
+HA H5 H7 H3 
+H8 HK H9 HJ 
+HQ H6 HT C7 
+
+[Event "AKBC - Open - Wed 18 Jun - 7pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "25"]
+[West "Chris Turner#17194"]
+[North "Ian Beattie#32124"]
+[East "Ian Brash#2927"]
+[South "T M Cain#19882"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:862.T97.T8432.84 T743.J3.AKQ6.763 K5.AQ84.7.KQJT95 AQJ9.K652.J95.A2"]
+[Scoring "IMP;Cross2"]
+[Round "5"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "1"]
+[ScoreIMP "NS -9.50 EW 9.50"]
+[DoubleDummyTricks "31537316379c7a59c7a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  5
+N  D  3
+N  C  7
+S NT  3
+S  S  1
+S  H  6
+S  D  3
+S  C  7
+E NT  9
+E  S 12
+E  H  7
+E  D 10
+E  C  5
+W NT  9
+W  S 12
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS -1400"]
+[Competition "Pairs"]
+% RBDATA 15,2,4,51,897,58,80,41,406,184,43,93,136,180,113,28,67,19,137,212,46,33,276,42,36,14,48,41,23,18,83,31,22,12,104,39,20,16,75,36,10,21,23,25,15,24,131,17,14,11,31,85,21,16,52,23,38,35,31,30,12,33,32,19,10,18,10,17,16,11
+[Auction "N"]
+Pass Pass 1C X 
+Pass 1S 2C 3S 
+Pass Pass 4C X 
+Pass Pass Pass 
+[Play "W"]
+S9 S2 S3 SK 
+D5 DT DQ D7 
+D9 D2 DK C9 
+C2 C4 C3 CT 
+SJ S8 S4 S5 
+CA C8 C6 C5 
+SQ S6 S7 CJ 
+H2 H7 H3 HA 
+H5 HT HJ H4 
+SA D3 ST CQ 
+HK H9 D6 HQ 
+DJ D4 DA CK 
+H6 D8 C7 H8 

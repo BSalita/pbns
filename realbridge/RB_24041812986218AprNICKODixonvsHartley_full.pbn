@@ -1,0 +1,3070 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "1"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T97.QT3.QT43.J92 J5.J86.AJ86.KQ54 AQ863.75.K9752.3 K42.AK942..AT876"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "372623726296b7b96b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  6
+S  C  2
+E NT  9
+E  S  6
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  6
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,159,166,123,37,44,73,39,22,46,25,93,43,99,363,30,191,29,16,10,28,19,15,12,25,31,15,22,37,28,7,28
+[Auction "N"]
+Pass 1D =1= 1S 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+D, 11-15"]
+[Play "N"]
+ST S5 S6 SK 
+H3 H6 H5 HA 
+HT H8 H7 HK 
+C2 CK C3 C6 
+D3 DA D5 S2 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "1"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T97.QT3.QT43.J92 J5.J86.AJ86.KQ54 AQ863.75.K9752.3 K42.AK942..AT876"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "372623726296b7b96b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  6
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  6
+S  C  2
+E NT  9
+E  S  6
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  6
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,128,107,402,164,88,37,32,40,38,104,34,138,34,104,929,26,20,36,23,14,10,27,21,15,9,97,19,25,23,71,26,28,10,85,32,21,10,12,33,9,15,39,19,9,33
+[Auction "N"]
+Pass 1NT =1= 2S =2= 3D 
+Pass 3H Pass 4C 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2:  * 5S + a minor [0:08]"]
+[Play "S"]
+C3 CA C2 C4 
+H5 HA H3 H6 
+H7 HK HT H8 
+S3 C6 C9 CK 
+D2 S2 D4 DA 
+SA S4 S7 S5 
+S6 SK S9 SJ 
+D5 H2 HQ HJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "2"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ9854.K95.J5.2 73.J872.983.KJT8 K2.AQT3.QT2.Q974 T6.64.AK764.A653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8aa668aa662227722277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  6
+N  C  6
+S NT  8
+S  S 10
+S  H 10
+S  D  6
+S  C  6
+E NT  2
+E  S  2
+E  H  2
+E  D  7
+E  C  7
+W NT  2
+W  S  2
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,140,162,35,139,245,89,30,89,73,58,19,80,102,29,39,333,33,17,10,59,50,36,41,20,33,19,12,27,13,11,22,15,52,13,29,20,40,15,11,28,32,36,16,27,39,19,13,26,24,11,16,16,11,18,23
+[Auction "E"]
+Pass 1C =1= 1D 1S 
+2D Pass Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+D8 D2 DK DJ 
+C8 C4 CA C2 
+CT C7 C3 S8 
+S3 SK S6 S4 
+S7 S2 ST SA 
+D9 C9 D4 SQ 
+CJ DT C5 SJ 
+D3 DQ D6 S9 
+H2 CQ D7 S5 
+H7 HA H4 H5 
+H8 H3 H6 HK 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "2"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQJ9854.K95.J5.2 73.J872.983.KJT8 K2.AQT3.QT2.Q974 T6.64.AK764.A653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8aa668aa662227722277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  6
+N  C  6
+S NT  8
+S  S 10
+S  H 10
+S  D  6
+S  C  6
+E NT  2
+E  S  2
+E  H  2
+E  D  7
+E  C  7
+W NT  2
+W  S  2
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,83,34,72,362,109,50,37,137,54,100,13,346,20,64,14,432,26,19,27,14,29,11,9,29,7,15,20,14,44
+[Auction "E"]
+Pass 1H =1= 2D 4S 
+Pass Pass Pass 
+[Note "1:  * Natural, may have a longer minor [0:13]"]
+[Play "E"]
+D8 D2 DK DJ 
+CK C4 C3 C2 
+H2 H3 H4 H5 
+S3 SK S6 S4 
+S7 S2 ST SA 
+D3 -  -  SQ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "3"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKJ4.QJ9.A.AQT53 7.AKT753.KQ65.J4 Q9652.64.JT7432. T83.82.98.K98762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a6878a6865263652636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  8
+N  C  7
+S NT  8
+S  S 10
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  2
+E  H  6
+E  D  3
+E  C  6
+W NT  5
+W  S  2
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,87,88,765,124,169,35,325,38,31,34,78,97,55,14,112,25,19,20,81,58,82,30,34,52,31,37,31,21,17,15,239,29,20,12,23,20,16,12,53,42,12,13,58,25,8,19,11,12,13,16,10,33,7,13
+[Auction "S"]
+2S =1= Pass 3D =2= 3H 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1:  * S+minor weak [0:12]"]
+[Note "2: art, 3+S"]
+[Play "W"]
+H2 HQ HK H4 
+H8 H9 HA H6 
+S3 HJ H7 D2 
+C2 CT CJ S2 
+S8 SJ S7 S5 
+C8 C3 C4 S9 
+D8 DA D5 D3 
+C6 CA H3 D4 
+C7 C5 H5 S6 
+D9 S4 D6 D7 
+C9 CQ HT SQ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "3"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKJ4.QJ9.A.AQT53 7.AKT753.KQ65.J4 Q9652.64.JT7432. T83.82.98.K98762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a6878a6865263652636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  8
+N  C  7
+S NT  8
+S  S 10
+S  H  6
+S  D  8
+S  C  6
+E NT  5
+E  S  2
+E  H  6
+E  D  3
+E  C  6
+W NT  5
+W  S  2
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,233,22,180,218,372,35,654,101,127,23,481,46,305,28,55,42,38,18,105,96,16,19,29,263,14,24,74,1425,58,26,35,196,28,32,126,17,18,22,27,26,18,14,138,32,36,14,71,15,12,24,38,42,47,15,25,17,13,23,33,26,24,10
+[Auction "S"]
+Pass Pass 2C =1= 2H 
+Pass =2= Pass 2NT =3= Pass 
+3H =4= Pass 4C =5= Pass 
+4H =6= Pass 4S Pass 
+Pass Pass 
+[Note "1: big hand, or 20/21"]
+[Note "2: GF"]
+[Note "3: range undiscussed, but 20/21"]
+[Note "4: Ss"]
+[Note "5: 4S"]
+[Note "6: retrans"]
+[Play "E"]
+HK H4 H2 H9 
+HA H6 H8 HJ 
+HT D2 S3 HQ 
+S7 S9 S8 S4 
+D5 D3 D8 DA 
+C4 D4 C2 CA 
+CJ S2 C6 C3 
+D6 D7 D9 SA 
+H3 S5 C7 C5 
+DQ DT C8 SJ 
+H5 S6 C9 CT 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "4"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8754.QT6.KQ9.KQ3 AQT.A984.T7643.6 J62.K7.AJ85.AJ98 K93.J532.2.T7542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98588985884565545655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  6
+E  D  5
+E  C  5
+W NT  4
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,81,117,66,89,25,58,112,33,26,27,39,266,79,12,27,72,49,11,24,15,62,13,6,22,23,15,18,17,6,32,24,11,17,10,32,12,19,11,42,24,52,15,10,14,32,13,23,13,14,11,22,71,14,7,17,8,12
+[Auction "W"]
+Pass 1D =1= Pass 1S =2= 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+D"]
+[Note "2:  * artificial, <4S, <5H [0:11]"]
+[Play "E"]
+H4 H7 HJ HQ 
+C6 C8 C5 CK 
+D6 C9 C2 CQ 
+D3 CJ C4 C3 
+D4 CA C7 S4 
+D7 D5 D2 DK 
+DT D8 H5 DQ 
+ST DJ H2 D9 
+H8 DA S9 S5 
+HA HK H3 H6 
+SA S2 S3 S7 
+SQ S6 -  -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "4"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8754.QT6.KQ9.KQ3 AQT.A984.T7643.6 J62.K7.AJ85.AJ98 K93.J532.2.T7542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98588985884565545655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  6
+E  D  5
+E  C  5
+W NT  4
+W  S  5
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,161,153,261,133,27,127,42,91,30,231,23,135,137,19,24,77,45,11,14,12,217,32,12,13,82,27,17,51,16,11,21,18,41,11,313,20,32,9,54,41,24,25,36,40,25,32,26,22,11,16,39,43,21,9,10,9,44
+[Auction "W"]
+Pass 1C =1= Pass 1D 
+Pass 1NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 2+ [0:08]"]
+[Note "2: 12-14"]
+[Play "E"]
+H4 H7 HJ HQ 
+C6 C8 C4 CK 
+D7 C9 CT CQ 
+ST CA C5 C3 
+D3 D5 D2 DK 
+D4 D8 H2 DQ 
+D6 DJ C2 D9 
+H8 CJ C7 S7 
+DT DA H3 S8 
+HA HK H5 H6 
+H9 S2 S3 HT 
+SQ -  -  S4 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "5"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT.QT876..AKQ854 87542.K4.T8653.6 AJ9.AJ932.AQJ4.2 K63.5.K972.JT973"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b9d7bc9d8b1404214052"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 13
+N  D  7
+N  C 11
+S NT 12
+S  S  9
+S  H 13
+S  D  8
+S  C 11
+E NT  1
+E  S  4
+E  H  0
+E  D  4
+E  C  2
+W NT  1
+W  S  4
+W  H  0
+W  D  5
+W  C  2
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 27,2,1,258,49,208,51,213,64,62,52,422,118,563,65,123,43,95,38,253,61,97,32,38,36,335,82,28,12,16,27,11,47,36,25,10,14
+[Auction "N"]
+1H Pass 2NT =1= Pass 
+3D =2= Pass 3H =3= Pass 
+3NT =4= Pass 4C Pass 
+4D =5= Pass 4S Pass 
+5NT =6= Pass 6H Pass 
+Pass Pass 
+[Note "1:  * H raise, at least invite [0:09]"]
+[Note "2: art, max"]
+[Note "3:  * relay for shortage [0:07]"]
+[Note "4: extra trumps, shortage somewhere"]
+[Note "5: D shortage"]
+[Note "6:  * GSF [0:07]"]
+[Play "E"]
+S7 SA S6 ST 
+D8 DA D2 SQ 
+H4 HA H5 H6 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "5"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT.QT876..AKQ854 87542.K4.T8653.6 AJ9.AJ932.AQJ4.2 K63.5.K972.JT973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b9d7bc9d8b1404214052"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 13
+N  D  7
+N  C 11
+S NT 12
+S  S  9
+S  H 13
+S  D  8
+S  C 11
+E NT  1
+E  S  4
+E  H  0
+E  D  4
+E  C  2
+W NT  1
+W  S  4
+W  H  0
+W  D  5
+W  C  2
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 27,0,3,134,101,68,47,511,85,717,35,270,51,600,24,40,32,39,366,21,17,132,29,17,25,393,34,43,16
+[Auction "N"]
+1C =1= Pass 1H Pass 
+4D =2= Pass 4NT =3= Pass 
+5D =4= Pass 6H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: splinter agreeing H"]
+[Note "3: rkCB"]
+[Note "4: 1 or 4/5"]
+[Play "W"]
+CJ CA C6 C2 
+H5 HQ H4 H2 
+C3 C4 HK HA 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "6"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT642.A94.853.Q6 A7.T7.T9764.8542 QJ83.KJ5.AJ.AKT7 95.Q8632.KQ2.J93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "8b98a8b98a1145111451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  9
+N  D  8
+N  C 10
+S NT  8
+S  S 11
+S  H  9
+S  D  8
+S  C 10
+E NT  1
+E  S  1
+E  H  4
+E  D  5
+E  C  1
+W NT  1
+W  S  1
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,74,115,476,230,75,141,38,296,70,140,58,40,42,108,28,29,29,48,76,65,60,23,30,14,38,126,16,26,7,21,14,19,14,10,23,7,8
+[Auction "E"]
+Pass 1C =1= Pass 1H =2= 
+Pass 1S =3= Pass 2S =4= 
+Pass 2NT Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * art 16+ [0:06]"]
+[Note "2: 5+S, 8+pts, GF"]
+[Note "3:  * 3+S [0:06]"]
+[Note "4: 5332 shape"]
+[Play "W"]
+DK D3 D7 DA 
+S5 S2 SA SJ 
+DQ D5 DT DJ 
+D2 D8 D9 S3 
+S9 S4 S7 SQ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "6"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT642.A94.853.Q6 A7.T7.T9764.8542 QJ83.KJ5.AJ.AKT7 95.Q8632.KQ2.J93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "8b98a8b98a1145111451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  9
+N  D  8
+N  C 10
+S NT  8
+S  S 11
+S  H  9
+S  D  8
+S  C 10
+E NT  1
+E  S  1
+E  H  4
+E  D  5
+E  C  1
+W NT  1
+W  S  1
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,66,175,24,57,36,159,27,50,24,86,136,54,24,17,330,24,15,17,13,19,31,73,52,17,23,152,18,14,16,18,23,11,34,23,11,11,12,15,18,13,25
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "E"]
+HT HJ HQ HA 
+S7 SQ S5 S4 
+SA S3 S9 SK 
+H7 HK H6 H4 
+C2 C7 C3 CQ 
+C4 CA C9 C6 
+C5 CK CJ D3 
+C8 CT H3 D5 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "7"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K974.54.98.J9852 .KJT72.T7643.T43 J853.Q98.J5.AQ76 AQT62.A63.AKQ2.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "251052510588cc688cc6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  1
+N  D  0
+N  C  5
+S NT  2
+S  S  5
+S  H  1
+S  D  0
+S  C  5
+E NT  8
+E  S  8
+E  H 12
+E  D 12
+E  C  6
+W NT  8
+W  S  8
+W  H 12
+W  D 12
+W  C  6
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 27,2,1,76,181,37,155,24,396,33,348,40,24,20,52,47,67,21,250,35,51,27,458,248,23,19,120,25,17,14,29,12,19,23,36,17,12,10,113,18,12,7,16,27,10,7,89,20,7,7,13,7,12,11,215,20,8,13,19,6,7,12,13,16
+[Auction "S"]
+Pass 2NT =1= Pass 3D =2= 
+Pass 4C =3= Pass 4D =4= 
+Pass 4H Pass 4S 
+Pass 4NT Pass 6H 
+Pass Pass Pass 
+[Note "1: 22/23"]
+[Note "2: t/fer"]
+[Note "3: shows 3 hts"]
+[Note "4: t/fer"]
+[Play "N"]
+D9 D3 D5 DK 
+H4 H2 H9 HA 
+H5 HJ HQ H3 
+C2 C3 CA CK 
+C5 C4 CQ H6 
+S7 CT S3 SA 
+S4 H7 S5 S2 
+C8 HK H8 S6 
+C9 HT C6 ST 
+D8 D4 DJ DA 
+S9 -  -  DQ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "7"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K974.54.98.J9852 .KJT72.T7643.T43 J853.Q98.J5.AQ76 AQT62.A63.AKQ2.K"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "251052510588cc688cc6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  1
+N  D  0
+N  C  5
+S NT  2
+S  S  5
+S  H  1
+S  D  0
+S  C  5
+E NT  8
+E  S  8
+E  H 12
+E  D 12
+E  C  6
+W NT  8
+W  S  8
+W  H 12
+W  D 12
+W  C  6
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,141,166,38,112,36,62,34,362,81,18,41,298,78,296,92,11,26,476,30,13,29,84,18,31,21,22,24,10,51,10,28,105,17,31,28,30,15,23,16,10,21
+[Auction "S"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2S Pass 2NT =3= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * strong [0:05]"]
+[Note "2: 0-7 any"]
+[Note "3: 2nd negative"]
+[Play "S"]
+CA CK C2 C3 
+CQ S2 C5 C4 
+C6 S6 CJ CT 
+C7 ST C9 H2 
+S3 H3 C8 H7 
+D5 DA D9 D3 
+DJ DK D8 D4 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "8"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A97.Q52.AT97.J75 K643.96.KJ5.9632 QJ8.AJT4.Q832.KT T52.K873.64.AQ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "76875768855755857558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  6
+S  H  8
+S  D  8
+S  C  5
+E NT  5
+E  S  7
+E  H  5
+E  D  5
+E  C  8
+W NT  5
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,58,158,96,80,47,38,49,54,21,29,27,178,214,152,21,90,33,19,58,290,49,26,13,85,363,40,11,196,16,17,20,53,36,12,7,29,23,26,9,20,9,23,14,29,8,24,31,24,21,7,10,29,48,12,10,20,11,18,9,6,10,16,10
+[Auction "W"]
+Pass 1D =1= Pass 1S =2= 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+D"]
+[Note "2:  * Art <4s <5H [0:11]"]
+[Play "E"]
+S3 SQ S5 S7 
+DJ D2 D4 D9 
+H6 HJ HK H2 
+SK S8 S2 S9 
+S6 SJ ST SA 
+H9 H4 H3 HQ 
+C2 HT H7 H5 
+C3 HA H8 C5 
+DK DQ D6 D7 
+S4 D3 C4 C7 
+C6 CT CQ CJ 
+C9 CK CA DT 
+D5 D8 C8 DA 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "8"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A97.Q52.AT97.J75 K643.96.KJ5.9632 QJ8.AJT4.Q832.KT T52.K873.64.AQ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "76875768855755857558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  6
+S  H  8
+S  D  8
+S  C  5
+E NT  5
+E  S  7
+E  H  5
+E  D  5
+E  C  8
+W NT  5
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,0,3,104,55,33,138,86,295,50,174,49,34,29,60,458,27,28,115,20,54,52,107,131,18,22,50,14,19,32,225,34,16,29,20,25,19,38,336,20,10,16,14,39,13,13,32,26,20,16,18,20,7,25,8,18,12,16
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+S3 SQ S5 S7 
+DK DQ D4 D9 
+S4 SJ S2 S9 
+DJ D8 D6 D7 
+C6 CT CQ C7 
+S6 S8 ST SA 
+D5 D2 H3 DA 
+C2 D3 H7 DT 
+H6 H4 HK HQ 
+C3 CK CA C5 
+C9 HT C4 CJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "9"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K5.J8642.Q7.8762 9643.A5.J42.AT93 JT2.KQT973.KT8.J AQ87..A9653.KQ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4393343933794aa794aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  3
+S  H  9
+S  D  3
+S  C  3
+E NT  7
+E  S  9
+E  H  4
+E  D 10
+E  C 10
+W NT  7
+W  S  9
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,57,68,97,34,99,62,46,63,29,29,18,61,683,37,15,137,14,25,23,390,40,12,49,267,18,64,38,27,28,39,30,30,47,11,25,51,14,17,8,27,16,11,12
+[Auction "N"]
+Pass Pass 1H =1= X 
+3H 3S Pass 4S 
+Pass Pass Pass 
+[Note "1:  * Nat, may have a longer minor [0:09]"]
+[Play "S"]
+HK C4 H2 HA 
+S2 SQ SK S3 
+ST SA S5 S4 
+D8 D3 D7 D2 
+SJ S7 C8 S6 
+HQ S8 H8 H5 
+DT DA DQ D4 
+DK D5 C2 DJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "9"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K5.J8642.Q7.8762 9643.A5.J42.AT93 JT2.KQT973.KT8.J AQ87..A9653.KQ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4393343933794aa794aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  3
+S  H  9
+S  D  3
+S  C  3
+E NT  7
+E  S  9
+E  H  4
+E  D 10
+E  C 10
+W NT  7
+W  S  9
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 20,0,3,75,39,229,44,122,242,111,23,51,63,37,113,45,162,46,18,56,125,295,61,79,30,35,48,74,379,57,52,7,176,111,15,23,267,27,8,27,205,21,21,151,117,21,11,11,43,31,11,17,27,28,13,21,18,18,19,31
+[Auction "N"]
+Pass Pass 3H X 
+3NT X Pass Pass 
+4H Pass Pass 4NT 
+Pass 5C Pass Pass 
+Pass 
+[Play "S"]
+HK C4 H8 H5 
+D8 D3 D7 D2 
+S2 SQ SK S4 
+CJ CK C2 C3 
+H7 CQ C6 C9 
+DT D5 DQ D4 
+H3 C5 C7 CT 
+H9 S7 C8 CA 
+HT S8 H4 HA 
+DK DA H2 DJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "10"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9532.84.A4.T753 KJT.AJ2.752.K962 74.KQ965.T983.Q8 Q86.T73.KQJ6.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "3563335643a879aa879a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  6
+S  D  4
+S  C  3
+E NT 10
+E  S  8
+E  H  7
+E  D  9
+E  C 10
+W NT 10
+W  S  8
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,254,35,112,27,55,21,69,674,115,46,30,21,33,18,125,22,15,10,101,9,30,14,37,234,47,20,153,70,21,75,24,27,17,24,226,15,26,68,434,70,75,9,863,30,59,32,178,17,20,17,26,24,10,7,10,17,9,9
+[Auction "E"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+H5 H3 H8 HJ 
+D3 DK D4 D2 
+S7 S6 S2 SJ 
+D8 DJ DA D5 
+HQ H7 H4 H2 
+S4 S8 SA ST 
+H9 SQ S3 SK 
+D9 DQ S5 D7 
+HK HT C5 HA 
+C8 CA C3 C2 
+CQ CJ C7 C6 
+DT D6 S9 C9 
+H6 C4 CT CK 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "10"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A9532.84.A4.T753 KJT.AJ2.752.K962 74.KQ965.T983.Q8 Q86.T73.KQJ6.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "3563335643a879aa879a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  3
+S  S  5
+S  H  6
+S  D  4
+S  C  3
+E NT 10
+E  S  8
+E  H  7
+E  D  9
+E  C 10
+W NT 10
+W  S  8
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,148,53,353,51,51,63,20,32,20,32,338,123,24,29,75,23,23,25,16,43,31,16,669,45,36,102,556,34,18,121,43,88,17,15,53,23,23,16,119,17,11,12,50,16,8,10,197,19,25,24,151,19,16,10,26,17,25,12,15,12,9,8
+[Auction "E"]
+1D =1= Pass 2D =2= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+D, 11-15"]
+[Note "2:  * F1 [0:06]"]
+[Play "S"]
+H6 H7 H8 HJ 
+D3 DJ DA D5 
+HQ H3 H4 H2 
+HK HT S3 HA 
+S4 S6 SA ST 
+S7 S8 S2 SJ 
+C8 CJ C3 C2 
+D9 DK D4 D2 
+DT DQ S5 D7 
+H5 SQ S9 SK 
+CQ CA C5 C6 
+H9 C4 CT CK 
+D8 D6 C7 C9 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "11"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKT8.J9842.3.AT5 32.53.962.QJ9843 Q974.Q76.AKJ5.K6 J65.AKT.QT874.72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bab87bab872225622256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D  8
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D  8
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  5
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 18,2,1,77,119,166,81,53,61,763,60,501,47,53,39,53,19,26,31,20,61,34,13,19,16,9,16,28,25,42,9,40,24,17,7,18,23,16,20,24,51,11,6,10,12,8,26
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2S Pass 3H =3= Pass 
+4C Pass 4D Pass 
+4S Pass Pass Pass 
+[Note "1:  * 14+ to 17- [0:17]"]
+[Note "2: stayman"]
+[Note "3: Agrees S, slam try"]
+[Play "W"]
+HK H2 H3 H7 
+HA H4 H5 HQ 
+HT HJ S2 H6 
+D8 D3 D6 DA 
+S6 SA S3 S4 
+S5 S8 C3 SQ 
+SJ SK C4 S7 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "11"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKT8.J9842.3.AT5 32.53.962.QJ9843 Q974.Q76.AKJ5.K6 J65.AKT.QT874.72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bab87bab872225622256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D  8
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D  8
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  5
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 18,0,3,210,36,189,28,54,29,362,59,429,31,266,41,135,27,38,24,82,447,18,22,149,19,10,36,30,30,24,18,178,28,37,17,186,28,11,25,261,29,74,18,34,44,17,16,16,12,13,21,56,13,10,24
+[Auction "S"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass 2S =3= Pass 
+3C =4= Pass 3S =5= Pass 
+4S Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: H"]
+[Note "3: 5+h, 4S, or 5+H, 5+m"]
+[Note "4: enquiry"]
+[Note "5: 5H, 4S"]
+[Play "E"]
+CQ CK C2 C5 
+S2 S4 S5 SA 
+H3 HQ HK H4 
+C3 C6 C7 CA 
+H5 H6 HA HJ 
+S3 H7 HT H8 
+D6 DA D4 D3 
+C4 SQ S6 S8 
+C8 S7 SJ SK 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "12"]
+[West "David Waxman#20349"]
+[North "Tim Brierley#100826"]
+[East "Keith Joules#504710"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:87.AK98754.84.87 AT4.QJ6.A953.K42 Q932.T.KQT7.J965 KJ65.32.J62.AQT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3HX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3374333743a9699a9699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  7
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  7
+S  D  4
+S  C  3
+E NT 10
+E  S  9
+E  H  6
+E  D  9
+E  C  9
+W NT 10
+W  S  9
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 12,2,1,71,137,75,29,74,25,178,27,151,55,26,19,237,183,40,19,17,206,17,12,150,21,6,12,31,42,23,12,178,20,41,13,15,17,21,11,27,22,12,6,34,7,66,34,39,21,11,6,59
+[Auction "W"]
+Pass 3H Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+C4 C5 CA C7 
+H6 HT H2 HA 
+DA D7 DJ D8 
+SA S2 S5 S7 
+ST SQ SK S8 
+CK C6 C3 C8 
+C2 C9 CT H4 
+D3 DK D2 D4 
+D5 DT D6 H5 
+HJ S3 H3 H7 
+S4 -  -  -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "12"]
+[West "David Jones#"]
+[North "Frank Dixon#34239"]
+[East "Trevor Ward#63728"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:87.AK98754.84.87 AT4.QJ6.A953.K42 Q932.T.KQT7.J965 KJ65.32.J62.AQT3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3374333743a9699a9699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  7
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  7
+S  D  4
+S  C  3
+E NT 10
+E  S  9
+E  H  6
+E  D  9
+E  C  9
+W NT 10
+W  S  9
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,140,91,340,89,23,142,85,74,17,28,481,399,14,42,244,53,13,9,19,53,22,10,254,28,10,26,330,31,20,11,210,27,81,58,60,18,18,160,157,50,123,45,55,19,18,18,23,18,18,71,42,19,17,16,31,14,6,11,11,7,8,10
+[Auction "W"]
+1D =1= 2H =2= X Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * 2+ [0:06]"]
+[Note "2: weak"]
+[Play "S"]
+DQ D2 D8 DA 
+S3 S5 S7 SA 
+SQ SK S8 ST 
+C5 CA C7 C4 
+HT H2 HK H6 
+D7 DJ D4 D3 
+C6 H3 HA HJ 
+C9 D6 H9 HQ 
+CJ CQ C8 C2 
+S2 C3 H4 CK 
+S9 SJ H5 S4 
+DT CT H7 D5 
+DK S6 H8 D9 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "13"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT76.Q5.32.K962 84.AK7.QJT8.AQ75 9.J8432.A97654.8 KQ532.T96.K.JT43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "45674355739876998769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  3
+S  S  5
+S  H  5
+S  D  7
+S  C  3
+E NT  9
+E  S  8
+E  H  7
+E  D  6
+E  C  9
+W NT  9
+W  S  8
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 6,2,0,97,115,116,98,52,46,283,125,108,28,93,99,26,59,14,29,17,55,79,24,80,23,55,35,12,155,579,41,39,14,16,18,17,9,21,46,7,23,24,15,24,12,34
+[Auction "N"]
+1S X 2D =1= Pass 
+Pass Pass 
+[Note "1:  * Nat NF [0:07]"]
+[Play "W"]
+H9 H5 HK H3 
+DK D2 DQ DA 
+H6 HQ HA H4 
+S5 D3 DJ D5 
+HT S6 H7 H8 
+CJ CK CA C8 
+C3 C2 CQ D4 
+S2 C6 D8 HJ 
+S3 S7 DT D6 
+-  -  C5 -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "13"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT76.Q5.32.K962 84.AK7.QJT8.AQ75 9.J8432.A97654.8 KQ532.T96.K.JT43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "45674355739876998769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  7
+N  C  4
+S NT  3
+S  S  5
+S  H  5
+S  D  7
+S  C  3
+E NT  9
+E  S  8
+E  H  7
+E  D  6
+E  C  9
+W NT  9
+W  S  8
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,386,78,225,179,45,245,51,19,51,16,66,178,163,35,16,59,34,14,20,28,38,21,7,17,17,22,17,101,36,76,19,46,89,15,30,85,27,28,42,22,11,22,9,58,17,8,16,21,9,9,10,20,13,23,20,16,12,8,9,9,7,7,6
+[Auction "N"]
+2S =1= X Pass 3C 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 5+ spades 4+ minor 6-10"]
+[Play "N"]
+SJ S4 S9 SK 
+D2 D8 D4 DK 
+CK CA C8 CJ 
+D3 DT DA S3 
+S6 DJ D6 S2 
+C2 C5 D5 CT 
+C6 C7 H4 C3 
+C9 CQ D7 C4 
+H5 HA H2 H6 
+HQ HK H3 H9 
+S7 DQ D9 HT 
+ST H7 HJ S5 
+SA S8 H8 SQ 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "14"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:8754.T8.QT54.K53 KJ3.A72.AJ73.A72 Q96.KJ.K82.QT964 AT2.Q96543.96.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "363563535687a8787a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  5
+N  C  6
+S NT  3
+S  S  5
+S  H  3
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H 10
+E  D  8
+E  C  7
+W NT  8
+W  S  7
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,1,3,124,144,44,58,55,35,40,145,64,191,22,22,42,23,14,9,17,14,16,7,27,24,35,14,323,44,49,11,31,23,99,24,55,20,20,20,20,12,20,7
+[Auction "E"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2:  * h [0:04]"]
+[Play "S"]
+CT CJ CK CA 
+HJ H3 H8 HA 
+HK H4 HT H2 
+CQ C8 C3 C2 
+C9 H5 C5 C7 
+D8 D6 D4 D3 
+D2 D9 DQ DA 
+DK H6 D5 D7 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "14"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:8754.T8.QT54.K53 KJ3.A72.AJ73.A72 Q96.KJ.K82.QT964 AT2.Q96543.96.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "363563535687a8787a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  3
+N  D  5
+N  C  6
+S NT  3
+S  S  5
+S  H  3
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H 10
+E  D  8
+E  C  7
+W NT  8
+W  S  7
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,346,36,134,29,31,32,125,26,176,28,17,17,54,235,25,23,21,23,23,14,23,23,20,12,47,22,12,21,161,47,14,30,28,26,25,37,124,34,13,24
+[Auction "E"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass 3H =3= Pass 
+4H Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: Hs"]
+[Note "3: Invit"]
+[Play "S"]
+CT CJ CK CA 
+HJ H3 H8 HA 
+HK H4 HT H2 
+CQ C8 C5 C2 
+C9 H5 C3 C7 
+D8 D6 D5 D3 
+S9 S2 S5 SJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "15"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q6.4.AKQ87.J6543 KT72.QJT87.J92.2 9.AK965.T53.QT97 AJ8543.32.64.AK8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "5479a5479a6963369633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  9
+N  C 10
+S NT  5
+S  S  4
+S  H  7
+S  D  9
+S  C 10
+E NT  6
+E  S  9
+E  H  6
+E  D  3
+E  C  3
+W NT  6
+W  S  9
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,67,52,82,138,76,37,18,21,297,10,13,56,20,41,13,54,46,26,18,566,75,48,19,51,15,27,8,20,12,20,65,19,29,12,25
+[Auction "S"]
+Pass 1S 2D 4S 
+Pass Pass Pass 
+[Play "N"]
+DA D2 D3 D4 
+DK D9 DT D6 
+H4 HQ HK H2 
+D8 DJ D5 S8 
+S6 S2 S9 SA 
+SQ SK C9 S3 
+D7 HJ HA H3 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "15"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q6.4.AKQ87.J6543 KT72.QJT87.J92.2 9.AK965.T53.QT97 AJ8543.32.64.AK8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "5479a5479a6963369633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  9
+N  C 10
+S NT  5
+S  S  4
+S  H  7
+S  D  9
+S  C 10
+E NT  6
+E  S  9
+E  H  6
+E  D  3
+E  C  3
+W NT  6
+W  S  9
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 15,1,3,264,45,455,116,289,29,127,91,46,167,21,38,278,43,25,11,25,25,29,22,32,34,17,8,30,35,36,17,59
+[Auction "S"]
+2H =1= 2S 3C =2= 3S 
+4C Pass Pass Pass 
+[Note "1: 5+H 4+m 6-10"]
+[Note "2: p/c"]
+[Play "E"]
+S2 S9 SA S6 
+D2 D3 D6 DA 
+C2 C9 CK C3 
+D9 D5 D4 DK 
+S7 CQ CA C4 
+-  -  C8 -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "16"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A83.J976.T5.QJT5 KT72.AK854.Q74.9 J.QT32.AK62.K642 Q9654..J983.A873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "63748637487968579685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  4
+N  C  8
+S NT  6
+S  S  3
+S  H  7
+S  D  4
+S  C  8
+E NT  7
+E  S  9
+E  H  6
+E  D  8
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,83,38,47,51,29,18,49,23,37,37,20,209,16,21,281,28,11,7,42,25,16,11,24,5,14,10,209,14,14,21,70,18,17,6,81,21,15,12,83,18,11,16,96,52,19,15,30,16,8,11,12,15,44,10,39,7,7,11,11,11,7,6
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+CQ C9 C2 CA 
+C5 S2 C4 C3 
+H6 HA H3 D3 
+H7 HK H2 D8 
+H9 H4 HQ S4 
+CT S7 C6 C7 
+DT D4 DK D9 
+D5 D7 DA DJ 
+S3 DQ D2 C8 
+SA ST SJ S5 
+S8 SK D6 S6 
+HJ H5 HT S9 
+CJ H8 CK SQ 
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "16"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A83.J976.T5.QJT5 KT72.AK854.Q74.9 J.QT32.AK62.K642 Q9654..J983.A873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "63748637487968579685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  4
+N  C  8
+S NT  6
+S  S  3
+S  H  7
+S  D  4
+S  C  8
+E NT  7
+E  S  9
+E  H  6
+E  D  8
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,247,58,50,49,32,111,35,85,62,157,47,43,44,176,276,209,12,15,34,35,16,9,16,23,19,31,18,9,18,27,45,41,17,14,17,19,14,8,17,13,29,20,31,24,14,6,98,48,91,52,24,17,18,11,50,14,26,14,29
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 2S X 
+Pass 3C 3S Pass 
+Pass Pass 
+[Play "N"]
+CQ C9 C2 CA 
+C5 S2 C4 C3 
+H6 HA H2 D3 
+H7 HK H3 D9 
+H9 H4 HQ S5 
+CT S7 C6 C7 
+HJ H5 HT S9 
+CJ ST CK C8 
+D5 H8 SJ D8 
+DT D4 DA DJ 
+S8 D7 D2 S6 
+SA -  -  -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "17"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J4..KQT9865.AT83 K875.AQ64.2.K954 AQT2.KT973.J7.Q6 963.J852.A43.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "887b8887b82562525625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D 11
+N  C  8
+S NT  8
+S  S  8
+S  H  7
+S  D 11
+S  C  8
+E NT  2
+E  S  5
+E  H  6
+E  D  2
+E  C  5
+W NT  2
+W  S  5
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 21,2,0,213,44,96,42,195,34,125,48,349,67,50,53,144,52,101,19,30,30,66,17,26,43,35,54,76,30,35,16,105,22,23,49,36,34,16,12,32,19,11,11
+[Auction "N"]
+1D =1= X 1H Pass 
+2D Pass 2NT Pass 
+5D Pass Pass Pass 
+[Note "1: 2+D"]
+[Play "E"]
+D2 D7 DA D5 
+C4 DJ D4 DK 
+C5 H3 D3 DQ 
+SK SA S6 SJ 
+H6 H7 H2 D6 
+CK C6 C7 C3 
+C9 CQ C2 C8 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "17"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J4..KQT9865.AT83 K875.AQ64.2.K954 AQT2.KT973.J7.Q6 963.J852.A43.J72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "887b8887b82562525625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D 11
+N  C  8
+S NT  8
+S  S  8
+S  H  7
+S  D 11
+S  C  8
+E NT  2
+E  S  5
+E  H  6
+E  D  2
+E  C  5
+W NT  2
+W  S  5
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,1,3,447,38,52,37,371,82,100,21,48,20,21,128,129,22,116,29,20,49,505,35,25,23,37,18,10,18,8,116,36,26,50,46,14,25
+[Auction "N"]
+1D X XX 1H 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H2 C3 HA H3 
+HJ D5 H4 H9 
+S6 SJ SK SA 
+D4 D6 D2 DJ 
+D3 DT S5 D7 
+DA DK S7 H7 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "18"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A8.AK9652.KT6.32 T52.T43.AQ975.Q8 K643.J87.83.KT75 QJ97.Q.J42.AJ964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "84844548445859858598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  4
+N  C  4
+S NT  5
+S  S  4
+S  H  8
+S  D  4
+S  C  4
+E NT  5
+E  S  8
+E  H  5
+E  D  9
+E  C  8
+W NT  5
+W  S  8
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,0,122,20,165,59,110,135,29,331,42,35,32,34,64,56,11,205,38,18,11,81,22,48,79,1039,13,39,11,12,25,17,32,42,24,22,12,31,32,15,98,152,24,24,22,9,20,9,18,9,31,10,27,10,20,9,42
+[Auction "E"]
+Pass Pass 1C =1= 1H 
+1NT Pass Pass 2H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+CQ CK CA C3 
+H4 H7 HQ HA 
+C8 CT CJ C2 
+ST SK S7 S8 
+DA D3 D4 DK 
+H3 H8 C4 H2 
+D7 D8 DJ D6 
+S5 S3 SQ SA 
+DQ HJ D2 DT 
+S2 S4 SJ H5 
+HT S6 C6 HK 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "18"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A8.AK9652.KT6.32 T52.T43.AQ975.Q8 K643.J87.83.KT75 QJ97.Q.J42.AJ964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "84844548445859858598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  8
+N  D  4
+N  C  4
+S NT  5
+S  S  4
+S  H  8
+S  D  4
+S  C  4
+E NT  5
+E  S  8
+E  H  5
+E  D  9
+E  C  8
+W NT  5
+W  S  8
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 12,1,3,256,40,158,251,312,96,31,335,28,22,782,31,13,60,103,57,22,997,45,27,10,43,24,11,30,35,160,16,26,37,21,16,18,142,40,21,18,21,18,9,13,35,15,7,22,10,12,8,20,19,17
+[Auction "E"]
+Pass Pass 2C =1= 2H 
+X =2= 3H Pass Pass 
+Pass 
+[Note "1:  * clubs or clubs andmajor [0:19]"]
+[Note "2: Relay"]
+[Play "E"]
+CQ C5 C6 C3 
+C8 C7 C9 C2 
+DA D3 D2 DK 
+DQ D8 D4 D6 
+S5 S3 SJ SA 
+H4 H7 HQ HA 
+D5 H8 DJ DT 
+H3 HJ C4 H2 
+S2 SK S7 S8 
+ST S4 S9 H5 
+HT -  -  HK 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "19"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ92.KJ.T8742.Q2 73.Q653.QJ9.A864 AJT.A974.AK63.K9 8654.T82.5.JT753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9a9b69a9b62232522325"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D 11
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  3
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  3
+W  D  2
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,2,0,83,40,460,36,95,37,157,35,464,67,315,69,63,56,32,41,325,246,78,16,53,12,68,9,36,27,15,21,7,21,8,30,13,30,8,248,38,59,41,12,43,19,7,15,11,114,10,23,38,34,9,22,9,29,15,13
+[Auction "S"]
+1C =1= Pass 1S =2= Pass 
+1NT =3= Pass 2D =4= Pass 
+2NT =5= Pass 3H =6= Pass 
+3NT Pass Pass Pass 
+[Note "1:  * Art 16+ [0:07]"]
+[Note "2: art, bal 8+, GF"]
+[Note "3:  * asks for points [0:08]"]
+[Note "4: art, 11-13"]
+[Note "5:  * stayman [0:07]"]
+[Note "6: 4S, <4H"]
+[Play "W"]
+CJ CQ CA C9 
+C5 C2 C4 CK 
+S4 S2 S3 SJ 
+S5 S9 S7 SA 
+S6 SQ C6 ST 
+S8 SK C8 D3 
+D5 D2 D9 DA 
+C3 D4 DJ DK 
+H2 HK H3 H4 
+H8 HJ H5 HA 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "19"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ92.KJ.T8742.Q2 73.Q653.QJ9.A864 AJT.A974.AK63.K9 8654.T82.5.JT753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9a9b69a9b62232522325"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D 11
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D 11
+S  C  6
+E NT  2
+E  S  2
+E  H  3
+E  D  2
+E  C  5
+W NT  2
+W  S  2
+W  H  3
+W  D  2
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,1,3,89,131,111,64,87,39,199,33,27,20,40,219,22,24,69,11,28,11,16,16,8,16,19,67,20,12,103,17,8,7,10,21,9,6,11,41,11,28,19,40,17,20,23,19,7,9,16,19,8,15
+[Auction "S"]
+1H Pass 1S Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 18-19"]
+[Play "W"]
+C5 CQ CA C9 
+C7 C2 C4 CK 
+D5 D2 D9 DK 
+H8 D4 DJ DA 
+S4 S2 S3 SA 
+S5 SK S7 SJ 
+S6 SQ C8 ST 
+S8 S9 H3 D3 
+H2 HK H5 H4 
+HT HJ H6 HA 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "20"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T832.AK954.7.JT2 Q4.63.AQ85.AQ953 J6.QJT872.T964.8 AK975..KJ32.K764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS -640"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "11900119007c4dd7c4dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  0
+N  C  0
+S NT  1
+S  S  1
+S  H  9
+S  D  0
+S  C  0
+E NT  7
+E  S 12
+E  H  4
+E  D 13
+E  C 13
+W NT  7
+W  S 12
+W  H  4
+W  D 13
+W  C 13
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 21,1,3,497,61,139,50,20,110,104,63,25,40,337,47,31,33,307,102,11,13,110,37,20,11,56,26,14,19
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2D Pass 2H =2= Pass 
+3H =3= Pass 5D Pass 
+Pass Pass 
+[Note "1: ART G/F Relay"]
+[Note "2: Relay"]
+[Note "3:  * shortage [0:06]"]
+[Play "N"]
+HK H3 H2 D2 
+D7 D5 D4 DK 
+H5 D8 D6 DJ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "20"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T832.AK954.7.JT2 Q4.63.AQ85.AQ953 J6.QJT872.T964.8 AK975..KJ32.K764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -1390"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "11900119007c4dd7c4dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  0
+N  C  0
+S NT  1
+S  S  1
+S  H  9
+S  D  0
+S  C  0
+E NT  7
+E  S 12
+E  H  4
+E  D 13
+E  C 13
+W NT  7
+W  S 12
+W  H  4
+W  D 13
+W  C 13
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 25,2,0,148,82,125,32,941,80,131,63,283,68,114,56,88,23,563,46,487,70,48,206,17,16,25,16,30,9,119,23,25,12,52,30,10,19
+[Auction "W"]
+1S Pass 2C Pass 
+2D Pass 2H =1= X 
+4C Pass 4D =2= Pass 
+4H Pass 6C Pass 
+Pass Pass 
+[Note "1: fsf to game"]
+[Note "2: cue"]
+[Play "S"]
+HQ C4 H4 H3 
+C8 CK C2 C3 
+H2 C6 CJ CA 
+H7 C7 CT CQ 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "21"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T732.KT8.K5.9873 9.J432.AT8.AKQ54 AJ86.Q976.962.62 KQ54.A5.QJ743.JT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1541115411b89cbb89cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  4
+N  D  1
+N  C  1
+S NT  1
+S  S  5
+S  H  4
+S  D  1
+S  C  1
+E NT 11
+E  S  8
+E  H  9
+E  D 12
+E  C 11
+W NT 11
+W  S  8
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,1,3,238,143,79,21,68,35,45,96,50,88,27,198,156,11,20,14,17,48,15,149,28,15,15,28,13,45,16,31,6,14,109,15,106,13,10,11,39,15,22,14,26,12,9,12,7,12,5
+[Auction "N"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 4+C, 11-15"]
+[Note "2:  * relay [0:06]"]
+[Play "N"]
+S2 S9 SA S4 
+S3 H3 S6 SK 
+DK DA D6 DQ 
+D5 DT D2 D3 
+H8 D8 D9 DJ 
+S7 H4 H6 D4 
+ST H2 S8 D7 
+C3 C4 C2 CJ 
+C7 CA C6 CT 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "21"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T732.KT8.K5.9873 9.J432.AT8.AKQ54 AJ86.Q976.962.62 KQ54.A5.QJ743.JT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1541115411b89cbb89cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  4
+N  D  1
+N  C  1
+S NT  1
+S  S  5
+S  H  4
+S  D  1
+S  C  1
+E NT 11
+E  S  8
+E  H  9
+E  D 12
+E  C 11
+W NT 11
+W  S  8
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,2,0,153,331,40,63,39,46,36,68,27,84,24,69,21,38,21,522,427,22,11,39,61,11,22,100,44,23,9,540,19,17,11,57,16,21,11,78,33,9,9,10,38,9,10,11,53,11,11,17
+[Auction "N"]
+Pass 1C =1= Pass 1D 
+Pass 1H Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "S"]
+H7 H5 HK H3 
+C6 CT C8 C4 
+D2 DQ DK DA 
+C2 CJ C3 C5 
+D6 D3 D5 DT 
+H6 S4 C7 CA 
+S6 S5 C9 CK 
+D9 SQ S7 CQ 
+-  -  -  D8 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "22"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T97.KJT.T86.AQ62 KQJ62.Q83.KQ75.9 5.64.A943.JT8743 A843.A9752.J2.K5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "73369733696a9646a964"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  6
+N  C  9
+S NT  7
+S  S  3
+S  H  3
+S  D  6
+S  C  9
+E NT  6
+E  S 10
+E  H  9
+E  D  6
+E  C  4
+W NT  6
+W  S 10
+W  H  9
+W  D  6
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,1,3,68,45,204,57,106,49,23,29,21,32,15,197,43,16,210,20,15,37,305,15,13,22,26,15,23,21,98,20,21,17,73,29,9,38,36,30,15,27,61,15,27,11,27,12,15,17,101,27,21,17,53
+[Auction "E"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 4S Pass 
+Pass Pass 
+[Note "1:  * gf raise [0:06]"]
+[Note "2: Short"]
+[Play "S"]
+CJ C5 C2 C9 
+C3 CK CA S6 
+S5 S3 S7 SK 
+C4 S4 S9 SQ 
+C8 SA ST S2 
+DA DJ D8 D5 
+D3 D2 DT DK 
+D4 H2 D6 DQ 
+D9 S8 C6 D7 
+H4 H5 HK H3 
+-  -  CQ -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "22"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T97.KJT.T86.AQ62 KQJ62.Q83.KQ75.9 5.64.A943.JT8743 A843.A9752.J2.K5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "73369733696a9646a964"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  6
+N  C  9
+S NT  7
+S  S  3
+S  H  3
+S  D  6
+S  C  9
+E NT  6
+E  S 10
+E  H  9
+E  D  6
+E  C  4
+W NT  6
+W  S 10
+W  H  9
+W  D  6
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,0,134,38,538,38,184,39,324,23,29,19,77,240,22,30,59,21,22,8,13,20,12,17,195,20,34,16,136,29,21,8,786,40,16,19,13,23,21,23
+[Auction "E"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 4S =3= Pass 
+Pass Pass 
+[Note "1: Inv+ with 4+ support"]
+[Note "2: 0 or 1 C"]
+[Note "3: minimum GF"]
+[Play "S"]
+H6 HA HT H8 
+S5 S3 S7 SK 
+C7 S4 S9 SQ 
+C3 SA ST S2 
+H4 H2 HK H3 
+C4 C5 CA C9 
+DA D2 D8 D5 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "23"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K873.J8754.KJ9.K 654.AT.AT764.Q43 QT.Q962.Q2.AJT98 AJ92.K3.853.7652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77968779686647566475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  6
+N  C  8
+S NT  7
+S  S  7
+S  H  9
+S  D  6
+S  C  8
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,1,3,198,31,147,40,34,73,227,46,53,25,165,24,154,311,18,34,31,30,12,174,294,15,39,30,78,47,18,23,71,23,24,16,50,25,9,7,14
+[Auction "S"]
+1C Pass 1H Pass 
+2H Pass 2S Pass 
+3H Pass Pass Pass 
+[Play "E"]
+DA D2 D8 D9 
+D6 DQ D5 DJ 
+HA H2 H3 HJ 
+S6 ST SJ SK 
+HT HQ HK H4 
+S5 SQ SA S3 
+-  -  D3 -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "23"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K873.J8754.KJ9.K 654.AT.AT764.Q43 QT.Q962.Q2.AJT98 AJ92.K3.853.7652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77968779686647566475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  6
+N  C  8
+S NT  7
+S  S  7
+S  H  9
+S  D  6
+S  C  8
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,0,190,61,263,38,145,62,227,38,105,124,31,20,42,14,20,23,182,88,50,22,60,28,32,18,20,23,22,24,38,74,26,15,26,23,14,22,40
+[Auction "S"]
+1H =1= Pass 2NT =2= Pass 
+3H =3= Pass Pass Pass 
+[Note "1: Nat, may have a longer minor"]
+[Note "2: Invit+ in H"]
+[Note "3:  * very min [0:15]"]
+[Play "W"]
+C6 CK C3 C8 
+HK H4 HT HQ 
+D5 DJ DA D2 
+D8 D9 D6 DQ 
+H3 H8 HA H2 
+D3 DK D4 C9 
+SA S3 S6 SQ 
+S2 -  -  -  
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "24"]
+[West "David Jones#"]
+[North "Keith Joules#504710"]
+[East "Trevor Ward#63728"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJT.J62.A94.KQT3 Q962.95.KQ865.J8 743.QT8743.7.A74 K85.AK.JT32.9652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67a5a66a5a6638366383"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H 10
+N  D  5
+N  C 10
+S NT  6
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  6
+E  S  6
+E  H  3
+E  D  8
+E  C  3
+W NT  6
+W  S  6
+W  H  3
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 12,1,3,111,63,78,169,62,407,47,48,100,26,91,12,9,67,22,15,14,97,14,18,14,25,14,24,10,70,19,54,9,27,17,10,24,28,17,15,14
+[Auction "W"]
+Pass 1C 1D 2H =1= 
+3C =2= 3H Pass Pass 
+Pass 
+[Note "1: 5-9 6 card suit"]
+[Note "2:  * goodraise [0:12]"]
+[Play "W"]
+DJ DA D6 D7 
+HK H2 H5 HT 
+D2 D4 DQ H3 
+HA H6 H9 H7 
+DT D9 D5 H8 
+S8 ST SQ S4 
+S5 SJ S2 S3 
+*
+
+[Event "18 Apr NICKO Dixon vs Hartley"]
+[Site "RealBridge"]
+[Date "2024.04.18"]
+[Board "24"]
+[West "Paul Brereton#94086"]
+[North "Tim Brierley#100826"]
+[East "Frank Dixon#34239"]
+[South "Graham Hartley#46931"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJT.J62.A94.KQT3 Q962.95.KQ865.J8 743.QT8743.7.A74 K85.AK.JT32.9652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Hartley team"]
+[VisitTeam "Dixon team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67a5a66a5a6638366383"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H 10
+N  D  5
+N  C 10
+S NT  6
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  6
+E  S  6
+E  H  3
+E  D  8
+E  C  3
+W NT  6
+W  S  6
+W  H  3
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,2,0,108,152,51,75,67,43,46,160,47,180,173,68,28,494,24,26,14,31,21,25,13,26,16,18
+[Auction "W"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: gd 14 to bad 17"]
+[Note "2:  * H [0:05]"]
+[Play "E"]
+H5 H3 HK H2 
+H9 H4 HA H6 
+SQ S3 S5 SJ 
+S2 S4 SK -  
+*

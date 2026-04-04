@@ -1,0 +1,4033 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "1"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q42.Q2.AQ5.QJT54 53.JT83.K962.A97 AKJ76.964.J4.832 T98.AK75.T873.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67448674487699576995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  7
+S  H  4
+S  D  4
+S  C  8
+E NT  7
+E  S  6
+E  H  9
+E  D  9
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,602,62,240,50,299,70,107,43,74,53,60,98,16,26,358,34,14,15,18,30,26,17,20,21,12,26,308,31,12,13,186,143,18,23,22,20,25,17,13,11,18,15
+[Auction "N"]
+1C =1= Pass 1H =2= Pass 
+1S =3= Pass 2S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: ♠"]
+[Note "3: exactly 3S handtype undefined"]
+[Play "E"]
+HJ H4 HK H2 
+C7 C2 CK C5 
+CA C3 C6 CQ 
+C9 C8 S8 C4 
+H3 H6 HA HQ 
+D6 D4 D3 DA 
+S3 SA S9 S2 
+S5 S6 ST SQ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "1"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q42.Q2.AQ5.QJT54 53.JT83.K962.A97 AKJ76.964.J4.832 T98.AK75.T873.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67448674487699576995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  7
+S  H  4
+S  D  4
+S  C  8
+E NT  7
+E  S  6
+E  H  9
+E  D  9
+E  C  5
+W NT  7
+W  S  6
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 3,2,1,275,64,135,23,273,47,140,115,95,128,42,41,303,51,8,41,9,67,18,28,437,37,37,48,135,250,26,28,153,26,20,8,74,16,43,8,56,37,53,129,82,54,19,10,34,29,24,5,22,20,40,9
+[Auction "N"]
+1C =1= Pass 1H =2= Pass 
+1S =3= Pass Pass Pass 
+[Note "1: may be 2"]
+[Note "2: 4+♠"]
+[Note "3: 1,2 or 3S weak nt values"]
+[Play "E"]
+HJ H4 HK H2 
+C7 C2 CK C5 
+CA C3 C6 CQ 
+C9 C8 S8 C4 
+D2 D4 D3 DA 
+S3 SA ST S2 
+S5 SK S9 S4 
+H3 S6 H5 SQ 
+D6 H6 D7 CJ 
+D9 H9 D8 CT 
+DK DJ DT D5 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "2"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT75.K76.872.AJ6 9643.52.AJ3.QT95 KQ2.AQT83.T94.42 A8.J94.KQ65.K873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "68854688545448954489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  8
+S  H  8
+S  D  5
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,178,52,105,93,30,49,22,44,13,57,445,200,23,16,78,27,28,10,30,21,8,9,40,104,37,7,36,9,61,7,19,25,31,7,10,31,6,20,10,23,5,68,7,13,7,25,6,40,7,11,7,24
+[Auction "E"]
+Pass Pass 1C =1= Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+H6 H2 HQ H4 
+HK H5 H3 HJ 
+H7 C5 HA H9 
+D2 C9 HT S8 
+D7 CT H8 C3 
+S7 S3 SK SA 
+D8 DA D4 D5 
+S5 DJ D9 D6 
+C6 D3 DT DK 
+CJ S4 C2 DQ 
+CA -  -  C7 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "2"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT75.K76.872.AJ6 9643.52.AJ3.QT95 KQ2.AQT83.T94.42 A8.J94.KQ65.K873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "68854688545448954489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S  8
+S  H  8
+S  D  5
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,92,127,36,78,74,61,362,114,127,45,22,21,238,87,65,20,701,36,16,22,34,42,34,14,476,22,24,10,34,22,11,26,39,22,248,20,21,25,11,23,99,11,63,20,27,21,13,11,62,52,13,20,26,18,10,15,11,15,10
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass Pass 2NT =1= Pass 
+3C Pass Pass Pass 
+[Note "1: minors"]
+[Play "S"]
+SK SA S7 S3 
+H3 HJ HK H2 
+SQ S8 S5 S6 
+HA H4 H7 H5 
+HQ H9 H6 C5 
+C2 CK CA C9 
+S2 C3 SJ S4 
+C4 C7 C6 CQ 
+D4 D5 D2 DA 
+H8 C8 ST S9 
+D9 D6 D7 DJ 
+DT DQ -  D3 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "3"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T9.J532.Q6532.Q9 AK542.84.K974.87 8.T976.AJT8.KT32 QJ763.AKQ..AJ654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "40763407639d67a9d569"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  0
+N  H  7
+N  D  6
+N  C  3
+S NT  4
+S  S  0
+S  H  7
+S  D  6
+S  C  3
+E NT  9
+E  S 13
+E  H  6
+E  D  7
+E  C 10
+W NT  9
+W  S 13
+W  H  5
+W  D  6
+W  C  9
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 18,2,1,64,25,46,898,85,126,70,57,43,22,46,117,114,38,15,10,42,7,31,11,80,7,43,7,32,7,23,8,21,7,17,7,29,5,17,6,28,9,13,6,41,9,30,7,47,15,16
+[Auction "S"]
+Pass 1S Pass 2NT =1= 
+Pass 3S =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: GF 4+♠"]
+[Note "2: non-minimum + D shortage"]
+[Play "N"]
+H2 H4 H6 HA 
+S9 SA S8 S3 
+ST S2 D8 SQ 
+H3 H8 HT HK 
+H5 C7 H9 HQ 
+C9 C8 C3 CA 
+CQ S4 C2 C4 
+D2 D4 DJ S6 
+D3 S5 CT C5 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "3"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T9.J532.Q6532.Q9 AK542.84.K974.87 8.T976.AJT8.KT32 QJ763.AKQ..AJ654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "40763407639d67a9d569"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  0
+N  H  7
+N  D  6
+N  C  3
+S NT  4
+S  S  0
+S  H  7
+S  D  6
+S  C  3
+E NT  9
+E  S 13
+E  H  6
+E  D  7
+E  C 10
+W NT  9
+W  S 13
+W  H  5
+W  D  6
+W  C  9
+[OptimumScore "NS -2210"]
+[Competition "Teams"]
+% RBDATA 28,0,3,134,135,475,63,1079,1212,121,130,72,210,36,248,60,54,52,17,34,90,144,86,12,279,13,12,19,55,83,52,14,24,21,10,9,15,9,13,14,26,12,13,17,16,9,13,19,15,16,13,13,23,17,13,28,18,10,14,12,25,16,23,9,17,10,10,14,11,12,10,9
+[Auction "S"]
+Pass 1C =1= 1H =2= 1S 
+2C =3= 3S Pass 4S 
+Pass 4NT =4= Pass 5H =5= 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: 16+"]
+[Note "2: D+ H or C + S"]
+[Note "3: pass or correct"]
+[Note "4: rkcb"]
+[Note "5: 2 keycards"]
+[Play "S"]
+HT HA H5 H4 
+S8 S3 S9 SA 
+H6 SQ ST S2 
+H7 HK H2 H8 
+H9 HQ H3 C7 
+C3 CA C9 C8 
+C2 C4 CQ S4 
+D8 S6 D2 D4 
+CT C5 D3 S5 
+DT S7 D5 D7 
+CK C6 HJ SK 
+DJ SJ D6 D9 
+DA CJ DQ DK 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "4"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T54.852.864.KQ74 Q863.AQT43.K.T65 KJ.96.AQJT97.J98 A972.KJ7.532.A32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "63497634977994579945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  9
+N  C  7
+S NT  6
+S  S  3
+S  H  4
+S  D  9
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  4
+E  C  5
+W NT  7
+W  S  9
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,69,55,134,54,49,75,254,60,14,42,129,1397,45,12,17,34,7,62,21,28,10,20,28,26,6,28,14,25,29,26,29,34,490,25,21,18,49,6,21,15,22,8,77,18,22,8,8
+[Auction "W"]
+1C =1= Pass 1H 2D 
+X =2= Pass 4H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 3H"]
+[Play "S"]
+C9 CA C7 C5 
+H6 HK H2 H3 
+H9 HJ H5 H4 
+DT H7 H8 HA 
+SJ SA S4 S3 
+SK S9 S5 S6 
+CJ C2 C4 C6 
+C8 C3 CQ CT 
+DA D2 D6 DK 
+DQ -  -  -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "4"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T54.852.864.KQ74 Q863.AQT43.K.T65 KJ.96.AQJT97.J98 A972.KJ7.532.A32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "63497634977994579945"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  9
+N  C  7
+S NT  6
+S  S  3
+S  H  4
+S  D  9
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  4
+E  C  5
+W NT  7
+W  S  9
+W  H  9
+W  D  4
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,225,53,28,78,99,36,242,74,197,64,158,224,380,68,43,19,49,26,19,16,465,30,12,11,12,16,51,15,663,46,15,48,26,24,15,20,17,13,80,24,25,75,11,20,44,52,13,12,16,113,10,11,12,15,9,10,9,11,11,17,12,10,9,10
+[Auction "W"]
+1D =1= Pass 1H Pass 
+1NT =2= Pass 2C =3= 2D 
+2H =4= Pass Pass Pass 
+[Note "1: 2+ds"]
+[Note "2: 11-15"]
+[Note "3: asking about majors"]
+[Note "4: 11-13 3xhts"]
+[Play "S"]
+DA D2 D8 DK 
+DQ D3 D4 H3 
+H6 H7 H2 HA 
+H9 HK H5 H4 
+D7 HJ H8 HT 
+SJ SA S4 S3 
+SK S2 S5 S8 
+DJ D5 D6 HQ 
+D9 S7 ST SQ 
+DT S9 C4 S6 
+C8 CA C7 C5 
+C9 C2 CQ C6 
+CJ C3 CK CT 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "5"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ65..Q874.A8532 9743.83.KJT52.J9 2.KQJ976542..KQ4 KQT8.AT.A963.T76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "12"]
+[Score "NS 1660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66c6966c696617066170"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 12
+N  D  6
+N  C  9
+S NT  6
+S  S  6
+S  H 12
+S  D  6
+S  C  9
+E NT  6
+E  S  6
+E  H  1
+E  D  7
+E  C  0
+W NT  6
+W  S  6
+W  H  1
+W  D  7
+W  C  0
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 27,2,1,194,79,324,81,138,133,633,31,985,48,87,75,56,66,43,1395,321,17,28,39,8,57,20,74,40,11,43,58,25,69
+[Auction "N"]
+1C =1= Pass 1D =2= 1H =3= 
+Pass Pass 4NT =4= Pass 
+5H =5= Pass 6H X 
+Pass Pass Pass 
+[Note "1: may be 2"]
+[Note "2: 4+♡"]
+[Note "3: t/o "]
+[Note "4: RKC for ♡"]
+[Note "5: 2 w/o Q"]
+[Play "E"]
+DJ H6 D3 D7 
+H3 HK HA C2 
+S7 S2 SQ SA 
+D5 H7 -  D4 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "5"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ65..Q874.A8532 9743.83.KJT52.J9 2.KQJ976542..KQ4 KQT8.AT.A963.T76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66c6966c696617066170"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 12
+N  D  6
+N  C  9
+S NT  6
+S  S  6
+S  H 12
+S  D  6
+S  C  9
+E NT  6
+E  S  6
+E  H  1
+E  D  7
+E  C  0
+W NT  6
+W  S  6
+W  H  1
+W  D  7
+W  C  0
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 27,0,3,269,90,132,397,167,163,483,346,218,43,201,246,189,42,539,210,47,37,227,89,17,30,142,59,35,37,60,28,24,12,898,51,8,55,28,16,13,7
+[Auction "N"]
+1C =1= Pass 1D =2= X =3= 
+1S 2D X Pass 
+3C Pass 3D X 
+Pass Pass 6H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: ♡"]
+[Note "3: as t/o of 1c-1h"]
+[Play "W"]
+SK SA S4 S2 
+D6 D4 DT H2 
+HA S5 H3 HK 
+SQ S6 S3 H4 
+HT D7 H8 HQ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "6"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:852.QJT765.A3.Q5 J97643.3.KQ965.3 T.A42.T842.AT962 AKQ.K98.J7.KJ874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "43847439476a4966a496"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  7
+S NT  4
+S  S  3
+S  H  9
+S  D  4
+S  C  7
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  6
+W NT  6
+W  S 10
+W  H  4
+W  D  9
+W  C  6
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,211,93,97,88,113,59,19,53,14,46,50,127,39,23,708,122,39,48,68,39,16,9,27,21,13,20,16,25,7,18,110,58,17,8,72,25,12,16,15,18,14,10
+[Auction "E"]
+2S =1= Pass 2NT =2= Pass 
+3D =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: enquiry"]
+[Note "3: diamond feature"]
+[Play "S"]
+CA C4 C5 C3 
+CT CK CQ H3 
+ST SA S2 S3 
+H4 SK S5 S4 
+H2 SQ S8 S6 
+C2 CJ H7 D5 
+D2 DJ D3 D6 
+D4 D7 DA D9 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "6"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:852.QJT765.A3.Q5 J97643.3.KQ965.3 T.A42.T842.AT962 AKQ.K98.J7.KJ874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "43847439476a4966a496"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  7
+S NT  4
+S  S  3
+S  H  9
+S  D  4
+S  C  7
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C  6
+W NT  6
+W  S 10
+W  H  4
+W  D  9
+W  C  6
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,0,3,151,48,145,342,83,112,199,128,26,60,247,53,147,14,365,37,18,11,26,69,23,20,42,28,10,10,15,13,11,30,30,11,14,41,24,18,12,17,22,20,10,14,25,10,10,9,26
+[Auction "E"]
+Pass Pass 1C =1= 2H =2= 
+2S 3H 4S Pass 
+Pass Pass 
+[Note "1: 16+"]
+[Note "2: H or 3 suited short H"]
+[Play "S"]
+HA H8 HT H3 
+CA C4 C5 C3 
+C2 CK CQ D5 
+ST SA S2 S3 
+H4 SK S5 S4 
+D8 SQ S8 S6 
+H2 HK H5 D6 
+D2 DJ D3 D9 
+D4 D7 DA DQ 
+-  -  HQ -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "7"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T63.KQ9.KJT93.64 KJ95.5.752.KQ952 A874.AT7432.Q4.J Q2.J86.A86.AT873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "77972779726523965239"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  7
+N  C  2
+S NT  7
+S  S  7
+S  H  9
+S  D  7
+S  C  2
+E NT  6
+E  S  5
+E  H  2
+E  D  3
+E  C  9
+W NT  6
+W  S  5
+W  H  2
+W  D  3
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,2,1,93,29,135,114,59,32,95,92,44,97,37,18,429,37,23,15,231,18,15,12,42,22,10,140,27,21,29,19,15,14,13,11,27,8,18,9
+[Auction "S"]
+1H Pass 2D Pass 
+2H Pass Pass Pass 
+[Play "W"]
+C3 C4 CQ CJ 
+C7 C6 C5 H4 
+H6 HK H5 H2 
+DA D3 D2 DQ 
+S2 S3 SK SA 
+H8 H9 C2 HA 
+HJ HQ C9 H3 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "7"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T63.KQ9.KJT93.64 KJ95.5.752.KQ952 A874.AT7432.Q4.J Q2.J86.A86.AT873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "77972779726523965239"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  7
+N  C  2
+S NT  7
+S  S  7
+S  H  9
+S  D  7
+S  C  2
+E NT  6
+E  S  5
+E  H  2
+E  D  3
+E  C  9
+W NT  6
+W  S  5
+W  H  2
+W  D  3
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,133,44,103,120,110,91,29,75,85,66,203,28,11,16,27,118,21,16,28,22,11,17,24,22,9,12,67,68,10,9,134,25,59,26,16,19,49,9,15,47,38,11,16,20
+[Auction "S"]
+1H Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+SQ S3 S5 SA 
+H6 HK H5 H2 
+H8 H9 C9 HA 
+D6 D3 D2 DQ 
+DA D9 D5 D4 
+CA C4 C2 CJ 
+S2 S6 S9 S4 
+D8 ST SK S7 
+C3 C6 CK H3 
+HJ -  -  H4 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "8"]
+[West "Jamie Fegarty#"]
+[North "Dee Lindon#42916"]
+[East "Liam Fegarty#469732"]
+[South "Peter Lindon#50851"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8762.QJ3.KT9.Q97 AJ943.92.874.K43 QT.54.AQJ63.AJ52 K5.AKT876.52.T86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66388663886785567855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  8
+N  C  8
+S NT  6
+S  S  6
+S  H  3
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  5
+E  C  5
+W NT  6
+W  S  7
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,2,1,62,59,69,97,102,97,33,40,19,45,8,7,9,24,9,10,11,31,18,19,48,57,16,31,28,65,15,55,528,21,33,14,24,34,12,52,40,17,7,9,11,25,54,26,11
+[Auction "W"]
+3H Pass Pass Pass 
+[Play "N"]
+S7 S9 ST SK 
+H3 H2 H4 HA 
+HJ H9 H5 HK 
+S2 SA SQ S5 
+S6 SJ D6 D2 
+S8 S3 D3 D5 
+DK D4 DA H6 
+HQ D7 C2 H7 
+DT D8 DQ H8 
+C7 CK CA C6 
+-  -  DJ -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "8"]
+[West "Derek Oram#89416"]
+[North "Paul Fegarty#29653"]
+[East "Celia Oram#12269"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8762.QJ3.KT9.Q97 AJ943.92.874.K43 QT.54.AQJ63.AJ52 K5.AKT876.52.T86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66388663886785567855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  8
+N  C  8
+S NT  6
+S  S  6
+S  H  3
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  5
+E  C  5
+W NT  6
+W  S  7
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,135,44,241,95,54,111,21,48,104,178,303,179,140,45,14,21,50,14,16,6,114,34,8,10,18,12,11,16,22,8,35,13,29,35,10,12,49,37,16,37,115,20,9,11,42,21,7,71,24,19,7,9,17,17,12,8,9,11,11,9
+[Auction "W"]
+1H Pass 1S X 
+2H Pass Pass Pass 
+[Play "N"]
+C7 C3 C2 C8 
+H3 H2 H4 HA 
+HJ H9 H5 HK 
+S2 S3 ST SK 
+S6 SA SQ S5 
+S7 SJ D3 D2 
+S8 S9 D6 D5 
+D9 S4 C5 C6 
+DT D4 DA H6 
+HQ D7 CJ HT 
+DK D8 DJ H7 
+C9 CK CA CT 
+CQ C4 DQ H8 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "9"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:862.AQ5.4.AQ9643 A54.J8.JT962.T87 Q973.9732.AK7.KJ KJT.KT64.Q853.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a986aa986a3457334573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  6
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D  6
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  7
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,1,3,290,41,57,35,156,97,221,51,462,133,36,58,86,23,50,67,15,13,11,41,7,29
+[Auction "N"]
+1C =1= Pass 1H Pass 
+2H Pass 2S =2= Pass 
+3C =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+ may have 5d"]
+[Note "2: enquiry"]
+[Note "3: naturalish denying 4h i think"]
+[Play "W"]
+D3 D4 D9 DA 
+C2 C3 C8 CK 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "9"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:862.AQ5.4.AQ9643 A54.J8.JT962.T87 Q973.9732.AK7.KJ KJT.KT64.Q853.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a986aa986a3457334573"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  6
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D  6
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  7
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  7
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,289,61,144,102,170,48,49,43,217,38,165,45,73,39,122,370,41,23,26,65,19,11,122,24,28,12,23,30,22,10,35,24,16,9,49,14
+[Auction "N"]
+1C =1= Pass 1D =2= Pass 
+1H =3= Pass 1S Pass 
+2C Pass 3NT Pass 
+Pass Pass 
+[Note "1: may be 2"]
+[Note "2: 4+♡"]
+[Note "3: 2 or 3H weak NT values"]
+[Play "W"]
+D3 D4 D9 DA 
+C2 C3 C8 CK 
+D5 S2 D2 DK 
+C5 C4 C7 CJ 
+H6 HA H8 H2 
+-  CA CT -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "10"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8743.KQ.32.KT98 KT5.962.K654.764 AQ62.AT74.T98.J3 9.J853.AQJ7.AQ52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "8a7678a7675357553676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S 10
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  3
+E  H  5
+E  D  7
+E  C  5
+W NT  5
+W  S  3
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 13,1,3,73,68,147,68,52,103,109,268,37,37,36,34,177,11,15,34,13,14,11,144,36,19,21,143,18,18,24,614,29,17,13,79,23,11,13,110,29,20,14,28,22,9,15,10,18
+[Auction "E"]
+Pass Pass 1D =1= 1S 
+Pass 2NT =2= Pass 3S 
+Pass Pass Pass 
+[Note "1: 2+ds"]
+[Note "2: good 4 cd raise"]
+[Play "E"]
+D4 D8 DA D2 
+D5 D9 DQ D3 
+D6 DT D7 S4 
+S5 SQ S9 S3 
+C4 CJ CA C8 
+C6 C3 C5 CK 
+ST SA DJ S7 
+H2 H4 H3 HQ 
+H6 -  -  HK 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "10"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8743.KQ.32.KT98 KT5.962.K654.764 AQ62.AT74.T98.J3 9.J853.AQJ7.AQ52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "8a7678a7675357553676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S 10
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  3
+E  H  5
+E  D  7
+E  C  5
+W NT  5
+W  S  3
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 13,2,0,83,103,80,243,51,159,86,212,34,53,23,684,382,42,13,31,21,19,20,53,26,14,13,40,19,21,28,31,26,22,21,105,14,22,20,155,26,9,30,907,36,8,16,26,25,21,79
+[Auction "E"]
+Pass 1C =1= Pass 1H =2= 
+Pass 2S X 3S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4 or more S"]
+[Play "W"]
+H3 HK H6 H7 
+S9 S3 S5 SQ 
+H5 HQ H2 H4 
+D7 S4 ST SA 
+H8 D2 H9 HA 
+C5 C8 C4 C3 
+CA CK C6 CJ 
+DA D3 D4 D8 
+DJ S7 D5 D9 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "11"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A95.42.KQT42.JT7 63.AKQT987..K954 KQJT84.J.765.Q86 72.653.AJ983.A32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "382723727274a6a74a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,1,3,55,64,77,35,33,77,31,128,83,36,16,43,19,24,16,27,367,21,21,347,28,21,7,49,15,17,7,140,15,18,7,24,19,10,11,24,11,16,8,23,16,11,19,26,12,17,9,56,11,10,10,10,9,14
+[Auction "S"]
+3S Pass 4S 5H 
+Pass Pass Pass 
+[Play "S"]
+SK S2 S5 S3 
+SJ S7 SA S6 
+D5 DA DK C4 
+D7 DJ DQ H7 
+HJ H3 H2 HA 
+S4 H5 H4 HK 
+S8 H6 S9 HQ 
+ST C2 D2 HT 
+D6 D3 D4 H9 
+SQ D8 C7 H8 
+C6 CA CT C5 
+-  C3 CJ CK 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "11"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A95.42.KQT42.JT7 63.AKQT987..K954 KQJT84.J.765.Q86 72.653.AJ983.A32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "382723727274a6a74a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  7
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  2
+E NT  7
+E  S  4
+E  H 10
+E  D  6
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,2,0,132,83,174,61,68,34,57,44,75,70,10,573,22,57,30,594,39,18,27,19,28,71,25,372,84,11,38,31,23,8,20,28,22,9,19
+[Auction "S"]
+2S =1= Pass 3S 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+SK S2 S9 S3 
+S8 S7 SA S6 
+C6 CA CJ C4 
+HJ H3 H2 HA 
+ST H5 H4 HK 
+C8 C2 C7 CK 
+CQ C3 CT C5 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "12"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:952.K65.QJ96.K93 K8.QJ3.8743.Q765 63.A742.AT5.JT82 AQJT74.T98.K2.A4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54666546768976689766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  4
+S  H  6
+S  D  7
+S  C  6
+E NT  8
+E  S  9
+E  H  7
+E  D  6
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,126,103,459,28,68,41,48,26,25,108,26,17,367,29,37,15,19,21,7,7,16,6,8,13,23,18,11,5,33,23,16,22,287,21,47,16,53,19,6,15,14
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+3S Pass Pass Pass 
+[Note "1: forcing"]
+[Play "N"]
+DQ D3 DA D2 
+D6 D4 D5 DK 
+S2 SK S3 S4 
+S5 S8 S6 SA 
+S9 C5 H2 SQ 
+H5 HQ HA H8 
+CK C6 CJ C4 
+DJ D7 DT S7 
+-  -  -  HT 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "12"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:952.K65.QJ96.K93 K8.QJ3.8743.Q765 63.A742.AT5.JT82 AQJT74.T98.K2.A4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54666546768976689766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  4
+S  H  6
+S  D  7
+S  C  6
+E NT  8
+E  S  9
+E  H  7
+E  D  6
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,130,65,53,61,29,53,32,39,125,96,147,14,166,20,43,12,29,29,14,20,11,16,12,27,35,26,17,58,18,36,23,10,34
+[Auction "W"]
+1S Pass 1NT Pass 
+2S Pass Pass Pass 
+[Play "N"]
+DQ D3 DA D2 
+D6 D4 D5 DK 
+S2 SK S3 S4 
+S5 S8 S6 SA 
+S9 C5 C2 SQ 
+CK C6 C8 C4 
+DJ -  -  -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "13"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQJ7643.7.3.KQ85 8.JT65.KQJT854.9 952.K83.972.J742 KT.AQ942.A6.AT63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "090060900663cc6c4cc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  9
+N  H  0
+N  D  0
+N  C  6
+S NT  0
+S  S  9
+S  H  0
+S  D  0
+S  C  6
+E NT  6
+E  S  3
+E  H 12
+E  D 12
+E  C  6
+W NT 12
+W  S  4
+W  H 12
+W  D 12
+W  C  7
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 17,1,3,136,204,35,148,84,106,61,27,33,17,19,29,271,23,17,42,28,10,6,20,32,24,9,10,51,21,9,293
+[Auction "N"]
+1S 2D Pass 2H =1= 
+2S 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Play "N"]
+D3 D4 D7 DA 
+H7 H5 H3 HA 
+S3 HJ HK H2 
+SA S8 S9 SK 
+SQ -  -  -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "13"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQJ7643.7.3.KQ85 8.JT65.KQJT854.9 952.K83.972.J742 KT.AQ942.A6.AT63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "090060900663cc6c4cc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  9
+N  H  0
+N  D  0
+N  C  6
+S NT  0
+S  S  9
+S  H  0
+S  D  0
+S  C  6
+E NT  6
+E  S  3
+E  H 12
+E  D 12
+E  C  6
+W NT 12
+W  S  4
+W  H 12
+W  D 12
+W  C  7
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 14,2,0,158,116,78,491,447,26,41,72,432,37,152,45,39,17,17,21,77,21,16,31,23,15,168,28,27,25,63,39,22,47,55,34,44,22,47,71,26,23,126,27,19,21,24,29,45,40,16,11,25
+[Auction "N"]
+1S 3D Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+CQ C9 C7 CA 
+D3 D4 D2 DA 
+S7 DK D7 D6 
+S3 DQ D9 H2 
+C8 DJ S2 C3 
+S4 DT S5 H4 
+S6 D8 S9 C6 
+SJ D5 H3 CT 
+H7 HJ H8 HA 
+SQ H5 HK H9 
+-  -  C2 HQ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "14"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:953.AT86.Q652.A8 K842.7.AK73.QJ52 J7.K5432.T8.K974 AQT6.QJ9.J94.T63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "43845438459958899588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  8
+S  D  4
+S  C  5
+E NT  9
+E  S  9
+E  H  5
+E  D  8
+E  C  8
+W NT  9
+W  S  9
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 13,1,3,482,84,102,163,25,29,163,48,13,101,34,29,122,31,7,10,9,25,12,11,9,14,24,21,86,48,18,13,608,25,12,5,17,9,19,6,66,15,9,9,13,11,8,24,21,16,8,5,11,9,9,5,9
+[Auction "E"]
+1D =1= 2H X 3H 
+3S Pass Pass Pass 
+[Note "1: 2+ 11 15pts"]
+[Play "S"]
+H3 HQ HA H7 
+C4 C3 CA C2 
+CK C6 C8 C5 
+C9 CT S3 CJ 
+H2 H9 H8 S2 
+S7 S6 S5 SK 
+SJ SA S9 S4 
+H4 HJ H6 S8 
+C7 D4 HT CQ 
+D8 D9 D2 DA 
+DT DJ D5 DK 
+-  -  -  D3 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "14"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:953.AT86.Q652.A8 K842.7.AK73.QJ52 J7.K5432.T8.K974 AQT6.QJ9.J94.T63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "43845438459958899588"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  8
+S  D  4
+S  C  5
+E NT  9
+E  S  9
+E  H  5
+E  D  8
+E  C  8
+W NT  9
+W  S  9
+W  H  5
+W  D  8
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 8,2,0,484,70,163,94,34,80,38,71,345,248,89,28,162,123,69,17,109,29,27,23,23,1089,50,10,23,29,9,23,31,21,13,21,128,29,11,13,145,25,9,59,282,92,17,17,23,33,8,20,8,12,8,21
+[Auction "E"]
+1C =1= Pass 1H =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 2+c may have 5d"]
+[Note "2: spades"]
+[Play "S"]
+H3 HJ HA H7 
+CK C3 C8 C2 
+C9 C6 CA C5 
+H4 H9 H6 S2 
+S7 S6 S3 SK 
+SJ SA S5 S4 
+HK HQ H8 S8 
+C4 CT S9 CQ 
+H2 ST HT D3 
+D8 D4 D2 DA 
+C7 D9 D5 CJ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "15"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AKQ95..J8654.Q96 J7.JT987.72.JT75 T3.65432.T9.A432 8642.AKQ.AKQ3.K8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "67486674876584665856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  4
+S  D  8
+S  C  7
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,1,3,37,166,312,307,38,297,81,189,18,24,14,60,11,18,112,21,23,10,16,22,7,25,41,30,13,23,439,42,28,28,141,511,25,7,17,14,15,8,308,21,7,8,59,15,7,43,153,16,16,5,9,17,5,17,6,8,6,7
+[Auction "S"]
+Pass 2NT =1= 3S Pass 
+Pass Pass 
+[Note "1: 21-22"]
+[Play "E"]
+HJ H2 HA S5 
+D7 D9 DQ D4 
+S7 S3 S2 SA 
+D2 DT DK D5 
+SJ ST S4 SK 
+H7 H3 DA DJ 
+H8 H4 HK C6 
+H9 H5 HQ S9 
+C5 H6 D3 D8 
+HT C2 S6 D6 
+C7 C3 S8 SQ 
+CT CA C8 C9 
+CJ C4 CK CQ 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "15"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AKQ95..J8654.Q96 J7.JT987.72.JT75 T3.65432.T9.A432 8642.AKQ.AKQ3.K8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "67486674876584665856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  4
+S  D  8
+S  C  7
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 17,2,0,57,217,198,288,123,132,64,766,54,279,63,29,40,392,52,22,47,44,91,124,23,40,22,19,9,38,47,27,13,599,34,20,59,251,29,25,14,317,205,27,27,14,42,15,12,272,28,9,12,21,20,9,28,56,23,30,10,94,27,7,12,9,13,11,12,7,9,8,14
+[Auction "S"]
+Pass 2D =1= 2S Pass 
+Pass X =2= Pass 2NT =3= 
+Pass 3D Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: multi"]
+[Note "2: penalties"]
+[Note "3: Leb, I think"]
+[Play "S"]
+ST S2 SQ S7 
+S3 S4 SA SJ 
+DT S6 SK H7 
+C2 C8 CQ CJ 
+CA CK C6 C5 
+C3 HQ C9 C7 
+H2 HK D4 H8 
+D9 DA D5 D2 
+H3 DK D6 D7 
+H4 HA S5 H9 
+C4 S8 S9 HT 
+H5 D3 D8 HJ 
+H6 DQ DJ CT 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "16"]
+[West "Derek Oram#89416"]
+[North "Liam Fegarty#469732"]
+[East "Celia Oram#12269"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT84.KJT9765.4.8 AQ52.3.AJ5.KQJ42 97.AQ84.KQ76.T63 K63.2.T9832.A975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4493344933694aa694aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  4
+S  H  9
+S  D  3
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D 10
+E  C 10
+W NT  6
+W  S  9
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,1,3,98,237,116,73,453,35,36,21,85,30,30,24,45,89,33,29,29,16,87,35,9,30,14,11,21,15,7,9,20,13,12,8
+[Auction "W"]
+Pass 4H X Pass 
+4NT =1= Pass 5C 5H 
+X Pass Pass Pass 
+[Note "1: 2 suits"]
+[Play "E"]
+CK C3 C7 C8 
+CQ C6 C9 H5 
+DA D6 D2 D4 
+SA S7 S6 S4 
+S2 S9 SK S8 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "16"]
+[West "Paul Fegarty#29653"]
+[North "Dee Lindon#42916"]
+[East "Catherine Curtis#113739"]
+[South "Peter Lindon#50851"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT84.KJT9765.4.8 AQ52.3.AJ5.KQJ42 97.AQ84.KQ76.T63 K63.2.T9832.A975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4493344933694aa694aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  4
+S  H  9
+S  D  3
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D 10
+E  C 10
+W NT  6
+W  S  9
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 22,2,0,235,127,69,212,132,66,701,44,269,266,25,80,62,37,26,12,194,33,79,32,29,27,15,24,45,27,34,16,41,94,29,11
+[Auction "W"]
+Pass 3H X 5H 
+X Pass Pass Pass 
+[Play "E"]
+H3 H4 H2 H7 
+D5 DK D2 D4 
+SQ S7 S3 SJ 
+CK C3 C7 C8 
+CJ C6 CA H5 
+SA S9 S6 S4 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "17"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q3.AT76.KJT632.T K87.J5.A74.A8742 AT9.Q43.Q8.Q9653 J6542.K982.95.KJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "86897868974754647546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  4
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,1,2,247,48,38,73,82,35,36,41,174,41,72,37,140,126,41,21,25,33,11,25,15,24,17,35,78,19,97,14,100,24,13,12,19,36,104,24
+[Auction "N"]
+1D Pass 1NT Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S4 SQ SK SA 
+D5 D2 D4 DQ 
+D9 DK DA D8 
+SJ S3 S8 S9 
+S2 H6 S7 ST 
+H2 HA H5 HQ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "17"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q3.AT76.KJT632.T K87.J5.A74.A8742 AT9.Q43.Q8.Q9653 J6542.K982.95.KJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "86897868974754647546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  4
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,3,0,227,56,152,62,55,36,55,159,27,26,56,69,169,11,28,76,23,26,22,133,30,26,55,62,53,24,49,34,38,17,14,82,24,25,96,52,28,9,11,59,110,10,23,82,26,24,6,126,29,12,8,16,19,11,19,15
+[Auction "N"]
+1D =1= Pass 1NT =2= Pass 
+2D Pass Pass 2S 
+Pass Pass Pass 
+[Note "1: 2+ 11 15"]
+[Note "2: 6-10"]
+[Play "N"]
+CT C2 C3 CJ 
+S3 SK SA S4 
+SQ C4 C5 CK 
+DK DA D8 D5 
+D2 CA C6 D9 
+HA HJ HQ HK 
+HT H5 H4 H2 
+DJ D4 DQ S2 
+D3 S7 S9 SJ 
+H6 D7 H3 H9 
+H7 C7 ST H8 
+-  -  CQ -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "18"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:53.KJ5.8732.AJ82 A9872.Q84.Q6.K43 KQ64.A9763.T5.Q9 JT.T2.AKJ94.T765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67966669666647666476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  9
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,1,2,120,28,112,116,46,22,112,60,27,45,7,104,18,23,8,27,15,122,13,19,13,110,17,13,30,15,25,13,22,41,13,435,32,9,22,11,15,22,44,223,32,8,29,8,27,8,25
+[Auction "E"]
+1S 2H X 3H 
+Pass Pass Pass 
+[Play "W"]
+DA D2 D6 D5 
+SJ S3 SA S4 
+DK D3 DQ DT 
+DJ D7 S2 H3 
+C5 C2 CK CQ 
+ST S5 S7 SK 
+C6 CA C3 C9 
+C7 CJ C4 S6 
+H2 H5 H8 HA 
+HT HK H4 H6 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "18"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:53.KJ5.8732.AJ82 A9872.Q84.Q6.K43 KQ64.A9763.T5.Q9 JT.T2.AKJ94.T765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67966669666647666476"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  9
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  4
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,3,0,137,33,37,83,34,45,478,668,36,28,26,35,27,25,103,21,18,15,18,15,45,43,20,17,17,36,12,50,16,26,22,31,24,21,27,23,27,39,34,57,12,12,10
+[Auction "E"]
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+D7 D6 DT DK 
+C2 CK C9 C5 
+D2 DQ D5 DA 
+D3 C3 S6 DJ 
+D8 S2 H6 D9 
+S3 S7 H3 D4 
+S5 SA S4 SJ 
+C8 C4 CQ C6 
+H5 S8 SK ST 
+-  -  SQ -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "19"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K953.K43.84.A964 Q7.AQJ9.AK965.72 AJT862.862.2.KQT 4.T75.QJT73.J853"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "4932749327339a3339a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  3
+N  D  2
+N  C  7
+S NT  4
+S  S  9
+S  H  3
+S  D  2
+S  C  7
+E NT  3
+E  S  3
+E  H  9
+E  D 10
+E  C  3
+W NT  3
+W  S  3
+W  H  9
+W  D 10
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,2,52,67,99,74,28,124,37,37,51,95,7,200,32,22,8,24,9,31,7,535,15,21,7,41,13,27,6,12,25,7,10
+[Auction "S"]
+4S Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+DQ D4 D9 D2 
+HT HK HA H2 
+H5 H3 HQ H8 
+H7 H4 HJ H6 
+D3 D8 DA S2 
+S4 S3 S7 SA 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "19"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K953.K43.84.A964 Q7.AQJ9.AK965.72 AJT862.862.2.KQT 4.T75.QJT73.J853"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "4932749327339a3339a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  3
+N  D  2
+N  C  7
+S NT  4
+S  S  9
+S  H  3
+S  D  2
+S  C  7
+E NT  3
+E  S  3
+E  H  9
+E  D 10
+E  C  3
+W NT  3
+W  S  3
+W  H  9
+W  D 10
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,3,0,123,88,103,314,128,57,33,14,65,101,466,16,227,71,35,29,102,67,43,8,188,17,10,18,22,19,23,12,39,14,12,16,20,11,8,11,17,15,17,14,17,12,7,12,12,14,7,22,19,10,10,7,20,25,21,7,30,18,5,15
+[Auction "S"]
+1S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+DQ D4 D9 D2 
+H7 H3 HJ H6 
+D3 D8 D6 S8 
+S4 SK S7 S6 
+D7 S3 SQ SA 
+C3 C4 C7 CK 
+C5 C6 C2 CQ 
+C8 CA D5 CT 
+CJ C9 DK ST 
+H5 HK HA H2 
+HT H4 HQ H8 
+DT S5 H9 S2 
+DJ S9 DA SJ 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "20"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:54.QT8.T973.K985 AK.J9.AK542.QJ63 QJ832.532.Q86.A7 T976.AK764.J.T42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "45343453438898a8898a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  3
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  9
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  9
+W  D  8
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,2,102,28,45,32,134,60,235,32,81,22,7,385,23,43,127,20,21,51,489,65,9,24,67,14,16,6,31,12,59,10,31,15,11,7,46,29,48,9,38,12,23,7,28,7,15,6,25
+[Auction "W"]
+Pass Pass 1D 1S 
+X Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+S3 S7 S5 SA 
+H5 H4 HQ HJ 
+S2 S6 S4 SK 
+H2 HA H8 H9 
+H3 HK HT C3 
+D8 H7 D3 D2 
+C7 H6 C8 D4 
+D6 DJ D7 DA 
+DQ C2 D9 DK 
+-  -  -  C6 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "20"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:54.QT8.T973.K985 AK.J9.AK542.QJ63 QJ832.532.Q86.A7 T976.AK764.J.T42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "45343453438898a8898a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  3
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  9
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  9
+W  D  8
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 5,3,0,69,65,123,68,41,54,79,49,102,44,41,85,15,8,65,23,8,8,26,17,9,10,128,20,15,21,16,15,9,21,19,24,8,60,78,39,19,67,38,15,13,35,45,24,23,23,116,32,9,16,16,30,14,9,21,17,7,11,7,11,8,9
+[Auction "W"]
+Pass Pass 1D Pass 
+1H Pass 2C Pass 
+Pass Pass 
+[Play "S"]
+SQ S6 S5 SK 
+D6 DJ D3 DA 
+D8 C2 D7 D2 
+S3 S7 S4 SA 
+DQ C4 D9 D4 
+CA CT C5 C3 
+H3 HA H8 H9 
+H2 HK HT HJ 
+H5 H4 HQ C6 
+C7 H6 CK CQ 
+S2 S9 DT DK 
+S8 H7 C8 CJ 
+SJ ST C9 D5 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "21"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q75.K9.T9842.K65 J86.864.K5.QT832 943.J5.AQJ3.J974 AKT2.AQT732.76.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64486644866895668957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  4
+S  D  8
+S  C  6
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C  6
+W NT  6
+W  S  8
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,1,2,120,52,33,170,166,54,43,49,24,493,23,25,17,88,189,19,27,7,24,67,18,28,29,36,32,290,27,18,5,130,48,19,6,810,78,6,125,361,36,18,6,31,8,20,17,50,12,48,17,39,28,14,14
+[Auction "N"]
+Pass Pass 1D X 
+3D Pass Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+DT DK DA D7 
+D2 D5 DQ D6 
+C5 C2 C4 CA 
+H9 H4 HJ HA 
+HK H6 H5 HQ 
+CK C3 C7 H2 
+D4 H8 D3 H3 
+C6 CQ C9 S2 
+SQ SJ S3 ST 
+D8 S6 DJ H7 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "21"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q75.K9.T9842.K65 J86.864.K5.QT832 943.J5.AQJ3.J974 AKT2.AQT732.76.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64486644866895668957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  4
+S  D  8
+S  C  6
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C  6
+W NT  6
+W  S  8
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,3,0,77,45,40,47,149,68,64,27,42,16,33,117,182,700,40,26,68,33,95,994,42,26,8,110,16,15,9,24,25,19,12,89,393,43,26
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DT D5 DJ D7 
+S5 S6 S9 SA 
+H9 H4 H5 HA 
+HK H6 HJ H7 
+D4 DK DA D6 
+S7 S8 S4 SK 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "22"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A4.AT2.K74.AKT32 Q98.Q74.J9862.Q7 T652.985.AT5.J65 KJ73.KJ63.Q3.984"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "97789977894665446654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  7
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 9,1,2,67,19,36,184,54,63,43,66,50,26,76,139,391,36,11,33,32,16,60
+[Auction "E"]
+Pass Pass Pass 1C =1= 
+Pass 1S Pass 2NT =2= 
+Pass Pass Pass 
+[Note "1: 2+ may have 5♢"]
+[Note "2:  * 18-19 [0:18]"]
+[Play "E"]
+D6 DA D3 D4 
+CQ CJ C4 C2 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "22"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A4.AT2.K74.AKT32 Q98.Q74.J9862.Q7 T652.985.AT5.J65 KJ73.KJ63.Q3.984"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "97789977894665446654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  7
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 4,3,0,109,63,66,125,53,122,43,291,58,53,35,101,291,32,12,25,35,15,29,319,25,10,19,20,31,10,10,13,116,10,20,12,23,9,45,11,121,12,17,15,17,16,11,14,25,8,11,13,25,16,11,33,17,20,15
+[Auction "E"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 1NT =3= 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 0-7"]
+[Note "3: Alerted"]
+[Play "E"]
+D6 DA D3 D4 
+CQ CJ C4 C2 
+D2 D5 DQ DK 
+C7 C5 C8 CA 
+S9 C6 C9 CK 
+S8 DT S7 CT 
+H4 H5 H6 C3 
+SQ S2 S3 SA 
+H7 H8 H3 HA 
+D8 S5 SK S4 
+HQ S6 SJ D7 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "23"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ94.J98.A7.A643 QT532.K73.J84.95 876.T2.T653.KJ82 A.AQ654.KQ92.QT7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "463464634796a9696a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  3
+N  D  4
+N  C  6
+S NT  4
+S  S  6
+S  H  3
+S  D  4
+S  C  7
+E NT  9
+E  S  6
+E  H 10
+E  D  9
+E  C  6
+W NT  9
+W  S  6
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 12,1,2,33,137,121,50,62,202,39,37,19,141,35,271,18,357,29,567,93,12,28,405,67,9,57,305,24,36,15,30,16,20,5,85,12,29,9,126,40,15,6,62,48,23,7,102,38,50,9,144,19,32,23,15,34,16,20,81,14,14,6,17,21,6,17,14,9,12,6
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2D Pass 2H 
+Pass 2NT Pass 3H 
+Pass Pass Pass 
+[Play "N"]
+DA D4 DT D9 
+D7 D8 D3 D2 
+H8 H3 H2 HA 
+H9 HK HT H4 
+HJ H7 C2 HQ 
+S4 DJ D5 DK 
+C3 S2 D6 DQ 
+C4 S3 S6 H6 
+C6 C9 CJ C7 
+S9 S5 S8 SA 
+CA C5 C8 CT 
+SK ST S7 H5 
+SJ SQ CK CQ 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "23"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ94.J98.A7.A643 QT532.K73.J84.95 876.T2.T653.KJ82 A.AQ654.KQ92.QT7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "463464634796a9696a96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  3
+N  D  4
+N  C  6
+S NT  4
+S  S  6
+S  H  3
+S  D  4
+S  C  7
+E NT  9
+E  S  6
+E  H 10
+E  D  9
+E  C  6
+W NT  9
+W  S  6
+W  H 10
+W  D  9
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,3,0,64,59,98,56,49,137,31,13,29,239,152,14,26,15,111,21,57,286,24,59,23,34,14,35,8,26,16,19,31,21,39,14,39,499,135,20,17,16,23,404,28,30,19,27,10
+[Auction "S"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+DA D4 D5 D2 
+D7 D8 D3 DK 
+H8 H3 H2 HA 
+H9 H7 HT HQ 
+HJ HK S6 H4 
+C4 C9 CK C7 
+S4 DJ D6 D9 
+CA C5 C2 CQ 
+C3 S2 CJ CT 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "24"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:53.AK543.AT.KT54 AK8.QT62.8754.72 QJT942..KQ963.Q8 76.J987.J2.AJ963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9a7a79a7a73263532635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D 10
+N  C  7
+S NT  9
+S  S 10
+S  H  7
+S  D 10
+S  C  7
+E NT  3
+E  S  2
+E  H  6
+E  D  3
+E  C  5
+W NT  3
+W  S  2
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,2,66,115,35,22,41,66,43,74,76,206,42,29,29,211,108,36,8,9,27,7,34,14,29,7,24,6,25,8,26,19,40,8,22
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 2C Pass 2S =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: invitational"]
+[Play "W"]
+DJ DA D5 D3 
+H7 HA H2 C8 
+H8 HK H6 CQ 
+S6 S3 S8 SQ 
+S7 S5 SK SJ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "24"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:53.AK543.AT.KT54 AK8.QT62.8754.72 QJT942..KQ963.Q8 76.J987.J2.AJ963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9a7a79a7a73263532635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  7
+N  D 10
+N  C  7
+S NT  9
+S  S 10
+S  H  7
+S  D 10
+S  C  7
+E NT  3
+E  S  2
+E  H  6
+E  D  3
+E  C  5
+W NT  3
+W  S  2
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,3,0,235,44,38,68,38,39,33,121,32,38,57,69,555,45,36,135,37,7,24,11,18,7,14,20,32,34,15,19,25,36,20,18,93,39,12,32,12,9,9
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+DJ DA D7 D3 
+H7 HA H2 C8 
+H8 HK H6 CQ 
+S6 S3 SK S2 
+D2 DT D4 D6 
+S7 S5 S8 SQ 
+C3 C4 SA SJ 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "25"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:976.Q4.K8762.QJ7 T.AJ85.AQT53.964 AKQ85.K763.J9.85 J432.T92.4.AKT32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "57463574638687986879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  6
+N  C  3
+S NT  5
+S  S  7
+S  H  4
+S  D  6
+S  C  3
+E NT  8
+E  S  6
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  6
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 10,1,2,89,42,84,203,102,146,31,30,39,202,106,19,49,9,42,19,17,60,18,35,6,109,10,16,8,25,8,41,10,59,12,30,5,42,15,80,18,161,19,143,7,241,33,45,9,22,8,25,9
+[Auction "N"]
+Pass 1D X 2C 
+Pass 3C Pass Pass 
+Pass 
+[Play "N"]
+S7 ST SQ S4 
+C7 C4 C5 CA 
+S6 C6 S5 S2 
+D2 DA D9 D4 
+D6 D3 DJ C2 
+S9 C9 S8 S3 
+D7 D5 C8 CT 
+CJ H5 H3 CK 
+H4 HA H7 HT 
+D8 DT H6 C3 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "25"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:976.Q4.K8762.QJ7 T.AJ85.AQT53.964 AKQ85.K763.J9.85 J432.T92.4.AKT32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "57463574638687986879"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  6
+N  C  3
+S NT  5
+S  S  7
+S  H  4
+S  D  6
+S  C  3
+E NT  8
+E  S  6
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  6
+W  H  8
+W  D  7
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,3,0,1201,74,70,55,126,32,35,20,161,28,17,71,190,53,123,14,66,16,20,61,13,11,38,26,31,11,98,99,31,21,20,23,36,38,49,20,259,32,10,28,22,15,26,62,15,19,11
+[Auction "N"]
+Pass 1D 1S 1NT 
+Pass Pass Pass 
+[Play "N"]
+S6 ST SK S2 
+S7 D3 S5 S3 
+S9 D5 SA S4 
+D2 C4 SQ SJ 
+D6 DT S8 C2 
+C7 C6 C8 CA 
+HQ HA H3 HT 
+H4 H5 HK H2 
+CJ C9 C5 CK 
+D7 DQ D9 D4 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "26"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKT87.KJ98.J54.7 J64..T763.AQJT53 52.AT754.AKQ82.K Q93.Q632.9.98642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "7bcc37acb31200912009"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H 12
+N  D 12
+N  C  3
+S NT  7
+S  S 10
+S  H 12
+S  D 11
+S  C  3
+E NT  1
+E  S  2
+E  H  0
+E  D  0
+E  C  9
+W NT  1
+W  S  2
+W  H  0
+W  D  0
+W  C  9
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 17,1,2,196,72,151,51,56,25,78,134,64,35,6,9,28,7,25,6,23,11,17,7,19,6,35,120,24,9,9,15
+[Auction "E"]
+2C =1= 2H 4C 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+D9 D4 D3 DA 
+H2 H8 CT HA 
+H3 H9 C3 H4 
+H6 D5 D6 DK 
+C2 C7 CA CK 
+-  -  D7 -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "26"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKT87.KJ98.J54.7 J64..T763.AQJT53 52.AT754.AKQ82.K Q93.Q632.9.98642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "7bcc37acb31200912009"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H 12
+N  D 12
+N  C  3
+S NT  7
+S  S 10
+S  H 12
+S  D 11
+S  C  3
+E NT  1
+E  S  2
+E  H  0
+E  D  0
+E  C  9
+W NT  1
+W  S  2
+W  H  0
+W  D  0
+W  C  9
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 27,3,0,142,111,57,142,207,105,333,257,52,360,26,120,39,61,17,63,136,35,22,67,291,21,32,52,29,10,18,86,18,40,33
+[Auction "E"]
+Pass 1C =1= Pass 1NT =2= 
+2C 2H 4C =3= 4NT 
+Pass 5H =4= Pass 6H 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: spades"]
+[Note "3: Alerted"]
+[Note "4: 2xkc no qh"]
+[Play "W"]
+C8 C7 CA CK 
+D9 DJ D7 D2 
+H2 HK C3 H4 
+HQ H8 C5 H5 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "27"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ97.2.AK3.AT875 T842.JT983.J864. A5.K54.QT972.KJ3 K63.AQ76.5.Q9642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "865a9c75ab1481214812"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D 10
+N  C  9
+S NT 12
+S  S  7
+S  H  5
+S  D 10
+S  C 11
+E NT  1
+E  S  4
+E  H  8
+E  D  1
+E  C  2
+W NT  1
+W  S  4
+W  H  8
+W  D  1
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,1,2,130,76,134,49,32,69,229,42,27,48,178,57,24,16,10,32,8,9,13,17,9,84,9,20,14,29,8,105,6,12,8,74,6,9,17,18,7,29,10,47,15,22,6,16,8,10,7,13,6,53,7,22,7,174,11,11,12,26,18,9,16,5
+[Auction "S"]
+1C =1= Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+H6 H2 HT HK 
+D5 DA D4 D2 
+C2 DK D6 D7 
+S3 D3 DJ DQ 
+C4 S7 D8 DT 
+HQ S9 S4 D9 
+C6 C5 S2 CK 
+C9 C7 S8 CJ 
+CQ CA ST C3 
+H7 CT H3 H4 
+HA C8 HJ H5 
+SK SQ H8 S5 
+S6 SJ H9 SA 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "27"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:QJ97.2.AK3.AT875 T842.JT983.J864. A5.K54.QT972.KJ3 K63.AQ76.5.Q9642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "865a9c75ab1481214812"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  5
+N  D 10
+N  C  9
+S NT 12
+S  S  7
+S  H  5
+S  D 10
+S  C 11
+E NT  1
+E  S  4
+E  H  8
+E  D  1
+E  C  2
+W NT  1
+W  S  4
+W  H  8
+W  D  1
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,3,0,158,70,145,54,171,59,107,39,90,27,28,317,52,611,39,35,18,32,54,25,11,45,173,36,18,28,81,34,33,36,13,36,9,19,15,22,9,13,72,21,14,161
+[Auction "S"]
+1D =1= X 1S Pass 
+1NT =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+ds "]
+[Note "2: 11-15"]
+[Play "W"]
+C4 C7 HJ CJ 
+D5 DA D6 D2 
+H6 DK D4 D7 
+SK SQ S4 S5 
+HA H2 H8 H4 
+HQ C5 H3 HK 
+S3 S7 S2 SA 
+C2 C8 H9 CK 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "28"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:63.T.QJ98643.A42 KQJ2.AJ9762.A.K3 A9874.Q85.KT2.97 T5.K43.75.QJT865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "252922529278b4a78b4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  9
+N  C  2
+S NT  2
+S  S  5
+S  H  2
+S  D  9
+S  C  2
+E NT  7
+E  S  8
+E  H 11
+E  D  4
+E  C 10
+W NT  7
+W  S  8
+W  H 11
+W  D  4
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,1,2,286,193,146,146,45,73,38,229,40,120,14,27,163,22,23,8,47,33,82,9,33,13,16,380,38,27,18,32,42,42,33
+[Auction "W"]
+2C =1= 2D 3H 3S 
+4H Pass Pass Pass 
+[Note "1: 6C 5-9 pts"]
+[Play "S"]
+DK D5 D3 DA 
+H5 HK HT H6 
+H8 H3 D4 HA 
+C9 C5 C2 CK 
+C7 CT CA C3 
+SA -  S6 S2 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "28"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:63.T.QJ98643.A42 KQJ2.AJ9762.A.K3 A9874.Q85.KT2.97 T5.K43.75.QJT865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "252922529278b4a78b4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  2
+N  D  9
+N  C  2
+S NT  2
+S  S  5
+S  H  2
+S  D  9
+S  C  2
+E NT  7
+E  S  8
+E  H 11
+E  D  4
+E  C 10
+W NT  7
+W  S  8
+W  H 11
+W  D  4
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,3,0,367,48,77,78,33,62,28,28,73,153,21,21,253,24,16,10,39,16,13,71,102,18,8,57,38,23,11,309
+[Auction "W"]
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "S"]
+D2 D5 DJ DA 
+H5 H3 HT HA 
+H8 HK D8 H6 
+C9 C5 C2 CK 
+C7 CQ CA C3 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "29"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:54.K32.J64.K5432 AKQ.A8654.Q5.A76 973.QJ.A9832.T98 JT862.T97.KT7.QJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33366333669aa779aa77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  6
+N  C  6
+S NT  3
+S  S  3
+S  H  3
+S  D  6
+S  C  6
+E NT  9
+E  S 10
+E  H 10
+E  D  7
+E  C  7
+W NT  9
+W  S 10
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,2,61,98,26,203,39,34,19,71,25,51,20,29,17,11,451,26,9,27,42,14,25,153,20,13,7,17,20,23,7,22,19,16,8,18,66,18,46
+[Auction "N"]
+Pass 2NT =1= Pass 3H =2= 
+Pass 3S Pass 3NT 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 20/21"]
+[Note "2: 5 or more S"]
+[Play "S"]
+HQ H9 H2 H5 
+HJ HT H3 HA 
+S3 S2 S4 SA 
+S7 S6 S5 SK 
+S9 S8 C5 SQ 
+D9 H7 HK H8 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "29"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:54.K32.J64.K5432 AKQ.A8654.Q5.A76 973.QJ.A9832.T98 JT862.T97.KT7.QJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33366333669aa779aa77"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  6
+N  C  6
+S NT  3
+S  S  3
+S  H  3
+S  D  6
+S  C  6
+E NT  9
+E  S 10
+E  H 10
+E  D  7
+E  C  7
+W NT  9
+W  S 10
+W  H 10
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,3,0,72,229,39,60,66,38,37,16,41,30,144,20,39,399,20,21,40,103,25,15,78,52,34,40,30,254,23,18,8,18,17,13,17,14,31
+[Auction "N"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "S"]
+CT CJ C2 C6 
+HJ H7 H2 H4 
+C8 CQ C3 C7 
+HQ H9 H3 H5 
+DA D7 D4 D5 
+D3 DT DJ DQ 
+S3 -  -  HA 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "30"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQ8532.AJ2.K2.76 9.QT9876.AQ64.A8 KJ76.4.JT85.QT92 T4.K53.973.KJ543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "793547924464a8864a88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  3
+N  D  5
+N  C  4
+S NT  7
+S  S  9
+S  H  2
+S  D  4
+S  C  4
+E NT  6
+E  S  4
+E  H 10
+E  D  8
+E  C  8
+W NT  6
+W  S  4
+W  H 10
+W  D  8
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,2,73,31,146,112,55,33,79,79,42,80,38,70,67,39,8,39,781,33,10,99,64,79,23,679,34,9,24,317,40,16,25,1337,51,15,39,25,25,13,32,26,27,17,222,30,20,17,14,331,20,22,23,12,15,25,16,14,53,9,14,9,7,10,14
+[Auction "E"]
+1H Pass 1NT 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+CA C2 C5 C6 
+C8 CQ CK C7 
+H6 C9 C4 SA 
+S9 S6 S4 SQ 
+D6 SK ST S2 
+H8 H4 H5 HA 
+HT S7 H3 H2 
+D4 CT CJ S3 
+HQ SJ HK HJ 
+DQ DJ D3 D2 
+H9 D5 C3 S5 
+H7 D8 D7 S8 
+DA DT D9 DK 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "30"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQ8532.AJ2.K2.76 9.QT9876.AQ64.A8 KJ76.4.JT85.QT92 T4.K53.973.KJ543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "793547924464a8864a88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  3
+N  D  5
+N  C  4
+S NT  7
+S  S  9
+S  H  2
+S  D  4
+S  C  4
+E NT  6
+E  S  4
+E  H 10
+E  D  8
+E  C  8
+W NT  6
+W  S  4
+W  H 10
+W  D  8
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,3,0,111,51,57,175,60,97,36,288,56,141,36,22,17,73,35,53,23,510,42,16,20,33,24,15,10,31,33,27,21,30,139,38,13,61,21,10,11,27,19,10,9,38
+[Auction "E"]
+1H Pass 2H 2S 
+3H 3S Pass Pass 
+4H 4S Pass Pass 
+Pass 
+[Play "E"]
+HT H4 HK HA 
+S9 S6 S4 SA 
+H9 S7 ST SQ 
+C8 C9 CJ C7 
+DQ D5 D7 D2 
+DA D8 D9 DK 
+CA C2 C3 C6 
+HQ -  -  -  
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "31"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:6.KJT753.8732.K9 KJ9.962.T94.A752 AQ732..AKQJ.QT83 T854.AQ84.65.J64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "999b9999b94441444314"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D 11
+N  C  9
+S NT  9
+S  S  9
+S  H  9
+S  D 11
+S  C  9
+E NT  4
+E  S  4
+E  H  4
+E  D  1
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  1
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,2,59,55,122,58,70,48,294,31,41,42,131,82,33,42,215,375,337,30,69,40,15,27,55,29,11,237,495,41,33,12,26,32,7,11,36,26,9,10,11,37,8,8,9,20,9,128,15,82,8,9,14,28,9,9,26,29,10,9
+[Auction "S"]
+1S Pass 1NT Pass 
+2D Pass 2H Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+C2 C3 CJ CK 
+S9 SQ S4 S6 
+CA CQ C4 C9 
+SK SA S5 H3 
+D4 DA D5 D2 
+D9 DK D6 D3 
+DT DQ C6 D7 
+SJ DJ H4 D8 
+C5 CT H8 H5 
+C7 C8 HQ H7 
+H2 S7 ST HT 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "31"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:6.KJT753.8732.K9 KJ9.962.T94.A752 AQ732..AKQJ.QT83 T854.AQ84.65.J64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "999b9999b94441444314"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D 11
+N  C  9
+S NT  9
+S  S  9
+S  H  9
+S  D 11
+S  C  9
+E NT  4
+E  S  4
+E  H  4
+E  D  1
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  1
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,3,0,186,98,81,63,51,41,28,29,158,28,102,30,57,30,32,26,42,332,36,38,187,34,16,179,20,27,13,22,97,23,12,10,34,18,11,27,895,45,26,36,647,36,23,10,171,29,9,21,29,92,38,27,135,46,21,19,17,17,9,22,11,13,7,8,12,11,8,5
+[Auction "S"]
+1C =1= Pass 1H Pass 
+1S Pass 2H Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: 16+"]
+[Play "W"]
+D6 D2 D4 DK 
+C4 C9 CA C3 
+D5 D3 DT DA 
+C6 CK C2 C8 
+S5 S6 S9 SQ 
+S4 H3 SJ S2 
+H4 D7 D9 DQ 
+S8 H5 SK S3 
+HA H7 H2 CT 
+ST HT H6 SA 
+CJ D8 C5 CQ 
+H8 HJ H9 DJ 
+HQ HK C7 S7 
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "32"]
+[West "Dee Lindon#42916"]
+[North "Liam Fegarty#469732"]
+[East "Peter Lindon#50851"]
+[South "Jamie Fegarty#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A732.T972.J94.T7 JT85.Q3.A32.AK63 64.K865.Q87.Q542 KQ9.AJ4.KT65.J98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "3352333523aa8b99a7a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  2
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  2
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D 11
+E  C  9
+W NT  9
+W  S 10
+W  H  7
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,1,2,205,53,105,29,154,41,35,19,45,22,10,127,33,37,212,32,19,54,307,23,19,129,28,35,40,27,25,232,25,6,20,16,24,24,77,70,17,20,155,20,10,14,20,11,29,13,43,10,57,23,48,14,18,8
+[Auction "W"]
+1C =1= Pass 1H =2= Pass 
+1S =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: may be 2"]
+[Note "2: 4+♠"]
+[Note "3: 1,2 or 3S weak nt values"]
+[Play "S"]
+C2 C8 CT CA 
+S4 SQ S3 S5 
+CQ C9 C7 C3 
+C4 CJ D4 C6 
+S6 SK S2 S8 
+C5 S9 SA SJ 
+HK HA HT HQ 
+D7 D5 D9 DA 
+H5 D6 H2 CK 
+D8 H4 S7 ST 
+DQ DK DJ D2 
+*
+
+[Event "6 Jan Crockfords Fegarty vs Oram"]
+[Site "RealBridge"]
+[Date "2024.01.06"]
+[Board "32"]
+[West "Paul Fegarty#29653"]
+[North "Celia Oram#12269"]
+[East "Catherine Curtis#113739"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A732.T972.J94.T7 JT85.Q3.A32.AK63 64.K865.Q87.Q542 KQ9.AJ4.KT65.J98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "3352333523aa8b99a7a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  2
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  2
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D 11
+E  C  9
+W NT  9
+W  S 10
+W  H  7
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,3,0,233,46,404,56,44,21,168,61,28,23,14,315,22,24,38,46,19,6,16,23,6,31,54,20,20,7,24,13,15,8,28,9,24,9,118,20,19,11,28,17,25,12,108,17,11,9,22,13,25,15
+[Auction "W"]
+1NT =1= Pass 2C =2= Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman"]
+[Play "N"]
+H2 HQ HK HA 
+SA S5 S6 SK 
+HT H3 H5 HJ 
+S2 S8 S4 SQ 
+S3 ST H6 S9 
+S7 SJ C2 D5 
+C7 CA C4 C8 
+CT CK C5 C9 
+D4 DA D7 D6 
+D9 D2 D8 DK 
+*

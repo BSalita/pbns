@@ -1,0 +1,3405 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "1"]
+[West "Elsa Isfold#"]
+[North "Sigrún Sv#"]
+[East "Hrafn Hauksson#"]
+[South "Anna Magnea#1234"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AK82.A96543.J6 KQ98.T7.KQ2.A853 AJT76.Q9654.T8.4 432.J3.J7.KQT972"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "4"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "78b9478b946423764237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D  9
+N  C  4
+S NT  7
+S  S  8
+S  H 11
+S  D  9
+S  C  4
+E NT  6
+E  S  4
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+[Auction "N"]
+1D X 1S 2C 
+2H 3C 3H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+C3 C4 CQ C6 
+D2 D8 DJ DA 
+H7 H4 H3 HA 
+HT H5 HJ HK 
+SQ SA S2 S5 
+S8 S6 S3 H2 
+CA H6 C2 CJ 
+S9 S7 S4 H8 
+DQ DT D7 D3 
+C8 H9 C7 D4 
+SK SJ C9 D5 
+C5 HQ CT D6 
+DK ST CK D9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "1"]
+[West "Soffía Danielsdótir#"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Svavar Hauksson#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AK82.A96543.J6 KQ98.T7.KQ2.A853 AJT76.Q9654.T8.4 432.J3.J7.KQT972"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "78b9478b946423764237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D  9
+N  C  4
+S NT  7
+S  S  8
+S  H 11
+S  D  9
+S  C  4
+E NT  6
+E  S  4
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+[Auction "N"]
+1D X 1S 2C 
+3D 4C 4H Pass 
+Pass Pass 
+[Play "W"]
+CK C6 C3 C4 
+CQ CJ C5 H4 
+S2 S5 S8 SA 
+S3 H2 S9 S6 
+D7 DA D2 D8 
+DJ D3 DK DT 
+HJ HA H7 H5 
+H3 H8 HT HQ 
+S4 HK SQ S7 
+C2 D4 DQ H6 
+C7 D5 SK SJ 
+C9 D6 CA H9 
+CT D9 C8 ST 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "1"]
+[West "Alda Gudnadottir#27214"]
+[North "Birgir Olafsson#26833"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AK82.A96543.J6 KQ98.T7.KQ2.A853 AJT76.Q9654.T8.4 432.J3.J7.KQT972"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "78b9478b946423764237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D  9
+N  C  4
+S NT  7
+S  S  8
+S  H 11
+S  D  9
+S  C  4
+E NT  6
+E  S  4
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+[Auction "N"]
+1D X 1S 2C 
+2D 3C 3D Pass 
+Pass Pass 
+[Play "E"]
+CA C4 C7 CJ 
+HT HQ H3 H2 
+S8 SA S4 S5 
+S9 S6 S2 D3 
+C3 D8 C2 C6 
+DQ DT D7 D4 
+H7 H4 HJ HA 
+D2 S7 DJ DA 
+DK H5 C9 D6 
+SK ST S3 D5 
+C5 H6 CT HK 
+C8 H9 CQ H8 
+SQ SJ CK D9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "1"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Arora Johannsdottir#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AK82.A96543.J6 KQ98.T7.KQ2.A853 AJT76.Q9654.T8.4 432.J3.J7.KQT972"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "78b9478b946423764237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D  9
+N  C  4
+S NT  7
+S  S  8
+S  H 11
+S  D  9
+S  C  4
+E NT  6
+E  S  4
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Pairs"]
+[Auction "N"]
+1D X 1S 2C 
+2H 3C 3H 4C 
+4D X 4H Pass 
+Pass X Pass Pass 
+Pass 
+[Play "E"]
+CA C4 C2 C6 
+C3 H4 C7 CJ 
+S8 SA S3 S5 
+S9 SJ S2 H2 
+D2 D8 D7 DA 
+DQ DT DJ D3 
+DK H5 HJ D4 
+C5 H6 CK D5 
+H7 H9 H3 HA 
+C8 HQ C9 D6 
+SQ S6 S4 H8 
+HT S7 CT HK 
+SK ST CQ D9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "2"]
+[West "Soffía Danielsdótir#"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Svavar Hauksson#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT87.Q92.AJ7.A3 J42.K5.T85.JT985 Q65.J8764.KQ96.K 93.AT3.432.Q7642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "baba7baba72222622226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 10
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D 10
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1H Pass 2S 
+Pass 4S Pass 4NT 
+Pass 5C Pass 5S 
+Pass Pass Pass 
+[Play "E"]
+CJ CK C2 C3 
+S4 S5 S3 SK 
+S2 SQ S9 S7 
+SJ S6 C4 SA 
+C5 H4 C6 CA 
+D5 D6 D4 DA 
+D8 D9 D3 DJ 
+DT DQ D2 D7 
+C8 DK H3 H2 
+H5 H6 HA H9 
+C9 H7 CQ S8 
+CT H8 C7 ST 
+HK HJ HT HQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "2"]
+[West "Elsa Isfold#"]
+[North "Sigrún Sv#"]
+[East "Hrafn Hauksson#"]
+[South "Anna Magnea#1234"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT87.Q92.AJ7.A3 J42.K5.T85.JT985 Q65.J8764.KQ96.K 93.AT3.432.Q7642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "4"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "baba7baba72222622226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 10
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D 10
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 1NT Pass 2H 
+Pass 2S Pass 4NT 
+Pass 5C Pass 6S 
+Pass Pass Pass 
+[Play "E"]
+C8 CK C2 C3 
+S2 SQ S3 S7 
+S4 S5 S9 SA 
+SJ S6 C4 SK 
+C5 H4 C6 CA 
+D5 D6 D2 DA 
+D8 D9 D3 DJ 
+DT DQ D4 D7 
+C9 DK H3 H2 
+H5 H6 HA H9 
+CT H7 CQ S8 
+CJ H8 C7 ST 
+HK HJ HT HQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "2"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Arora Johannsdottir#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT87.Q92.AJ7.A3 J42.K5.T85.JT985 Q65.J8764.KQ96.K 93.AT3.432.Q7642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "baba7baba72222622226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 10
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D 10
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+C8 CK C2 C3 
+S2 SQ S3 S7 
+S4 S5 S9 SA 
+SJ S6 H3 SK 
+C5 H4 D2 ST 
+D5 H6 D3 S8 
+D8 D6 D4 DA 
+DT D9 C4 DJ 
+C9 DQ HT D7 
+CT DK C6 H2 
+H5 H7 HA H9 
+CJ H8 C7 CA 
+HK HJ CQ HQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "2"]
+[West "Alda Gudnadottir#27214"]
+[North "Birgir Olafsson#26833"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT87.Q92.AJ7.A3 J42.K5.T85.JT985 Q65.J8764.KQ96.K 93.AT3.432.Q7642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "baba7baba72222622226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 10
+N  C  7
+S NT 11
+S  S 10
+S  H 11
+S  D 10
+S  C  7
+E NT  2
+E  S  2
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  2
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 4S Pass 4NT 
+Pass 5C =1= Pass 6S 
+Pass Pass Pass 
+[Note "1:  * 0 [0:15]"]
+[Play "E"]
+CJ CK C7 C3 
+S2 S5 S3 SA 
+S4 SQ S9 S7 
+SJ S6 C4 SK 
+D8 D6 D4 DA 
+D5 D9 D3 DJ 
+DT DQ D2 D7 
+C5 DK H3 H2 
+H5 H8 HA H9 
+C8 H4 CQ CA 
+C9 H6 HT ST 
+CT H7 C2 S8 
+HK HJ C6 HQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "3"]
+[West "Soffía Danielsdótir#"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Svavar Hauksson#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:96.32.K9874.QJT8 AKT7.K75.Q52.K93 Q543.JT8.JT63.54 J82.AQ964.A.A762"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "1115211152bcb8bbcb8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  2
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H 11
+E  D  8
+E  C 11
+W NT 11
+W  S 12
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+CQ C3 C4 CA 
+H2 H5 H8 HA 
+H3 HK HT H4 
+D4 H7 HJ HQ 
+S6 S7 SQ SJ 
+D7 D2 DJ DA 
+S9 ST S4 S2 
+C8 SK S3 S8 
+D8 SA S5 C2 
+CT CK C5 C6 
+D9 D5 D3 H6 
+DK DQ D6 H9 
+CJ C9 DT C7 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "3"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Óttar Ármannsson#"]
+[East "Arora Johannsdottir#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:96.32.K9874.QJT8 AKT7.K75.Q52.K93 Q543.JT8.JT63.54 J82.AQ964.A.A762"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "5"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "1115211152bcb8bbcb8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  2
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H 11
+E  D  8
+E  C 11
+W NT 11
+W  S 12
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2C Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+CQ C3 C4 CA 
+D4 D2 D3 DA 
+H2 HK H8 H4 
+H3 H5 HT HA 
+D7 H7 HJ HQ 
+S6 S7 SQ SJ 
+DK D5 D6 C2 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "3"]
+[West "Eygló Karlsdóttir#"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Sóley Jakobsdóttir#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:96.32.K9874.QJT8 AKT7.K75.Q52.K93 Q543.JT8.JT63.54 J82.AQ964.A.A762"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 100"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "1115211152bcb8bbcb8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  2
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H 11
+E  D  8
+E  C 11
+W NT 11
+W  S 12
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1H Pass 2NT 
+Pass 4NT Pass 5H 
+Pass 6H Pass Pass 
+Pass 
+[Play "N"]
+CQ C3 C4 CA 
+D4 D2 D3 DA 
+H2 H5 H8 HA 
+S6 ST SQ S2 
+CT CK C5 C2 
+H3 HK HT H4 
+D9 H7 HJ HQ 
+S9 S7 S3 SJ 
+D7 SA S4 S8 
+C8 SK S5 C6 
+D8 D5 DT H6 
+DK DQ D6 H9 
+CJ C9 DJ C7 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "3"]
+[West "Hjálmar S. Pálsson#"]
+[North "Sigrún Sv#"]
+[East "Birgir Olafsson#26833"]
+[South "Anna Magnea#1234"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:96.32.K9874.QJT8 AKT7.K75.Q52.K93 Q543.JT8.JT63.54 J82.AQ964.A.A762"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "4"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "1115211152bcb8bbcb8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  2
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  2
+E NT 11
+E  S 12
+E  H 11
+E  D  8
+E  C 11
+W NT 11
+W  S 12
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -1430"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2C Pass 2D =1= 
+Pass 2S Pass 4H 
+Pass Pass Pass 
+[Note "1:  * krafa [0:11]"]
+[Play "N"]
+S9 SA S3 S2 
+C8 CK C4 C2 
+CT C3 C5 CA 
+CQ C9 D3 C6 
+D9 D2 D6 DA 
+H2 H5 H8 HA 
+H3 H7 HT HQ 
+S6 S7 SQ SJ 
+D4 D5 DT H9 
+D7 HK HJ H4 
+CJ SK S4 S8 
+-  ST S5 -  
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "4"]
+[West "Soffía Danielsdótir#"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Svavar Hauksson#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:74.QJ54.K95.A843 KJ862.T72.4.KQ62 T5.AK3.AQ8732.J7 AQ93.986.JT6.T95"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "85bb785bb72822628226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  8
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  8
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1H 1S X 
+Pass 2C Pass 2D 
+2S 3D Pass Pass 
+Pass 
+[Play "W"]
+SA S4 S2 ST 
+S3 S7 SK S5 
+C5 CA CK C7 
+D6 D5 D4 DA 
+DT DK S6 D2 
+DJ D9 C2 DQ 
+H6 H4 H2 HA 
+S9 C3 C6 D8 
+CT C4 S8 D7 
+SQ C8 SJ D3 
+H9 H5 H7 HK 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "4"]
+[West "Hjálmar S. Pálsson#"]
+[North "Sigrún Sv#"]
+[East "Birgir Olafsson#26833"]
+[South "Anna Magnea#1234"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:74.QJ54.K95.A843 KJ862.T72.4.KQ62 T5.AK3.AQ8732.J7 AQ93.986.JT6.T95"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "4"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "85bb785bb72822628226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  8
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  8
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 2S 3D 
+Pass Pass Pass 
+[Play "W"]
+SA S4 S2 S5 
+S3 S7 SK ST 
+H9 H4 H2 HA 
+D6 D5 D4 DA 
+DT DK C2 D2 
+DJ D9 S6 DQ 
+H6 H5 H7 HK 
+H8 HJ HT H3 
+SQ HQ C6 C7 
+C5 CA CQ CJ 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "4"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Óttar Ármannsson#"]
+[East "Arora Johannsdottir#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:74.QJ54.K95.A843 KJ862.T72.4.KQ62 T5.AK3.AQ8732.J7 AQ93.986.JT6.T95"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "5"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "85bb785bb72822628226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  8
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  8
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1H 1S X 
+2S 3H 3S 4H 
+Pass Pass Pass 
+[Play "E"]
+D4 D2 DJ DK 
+H2 HA H6 H4 
+H7 HK H8 H5 
+HT H3 H9 HQ 
+S2 DA D6 D9 
+C2 DQ DT D5 
+S6 D8 S3 S4 
+S8 D7 S9 S7 
+C6 D3 C5 C3 
+CQ CJ C9 C4 
+SJ S5 SA HJ 
+CK C7 CT CA 
+SK ST SQ C8 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "4"]
+[West "Eygló Karlsdóttir#"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Sóley Jakobsdóttir#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:74.QJ54.K95.A843 KJ862.T72.4.KQ62 T5.AK3.AQ8732.J7 AQ93.986.JT6.T95"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "3"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "85bb785bb72822628226"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 11
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H 11
+S  D 11
+S  C  7
+E NT  2
+E  S  8
+E  H  2
+E  D  2
+E  C  6
+W NT  2
+W  S  8
+W  H  2
+W  D  2
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1H 1S 2H 
+2S 3D Pass Pass 
+Pass 
+[Play "W"]
+SA S4 S2 S5 
+S9 S7 SK ST 
+H8 H4 H7 HA 
+D6 DK D4 D2 
+DJ D5 C2 DA 
+DT D9 S8 DQ 
+H6 H5 H2 HK 
+H9 HJ HT H3 
+S3 HQ S6 C7 
+C5 CA C6 CJ 
+C9 C3 CK D3 
+CT C4 CQ D7 
+SQ C8 SJ D8 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "5"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Óttar Ármannsson#"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J64.K875.A87.KQ5 98532.A.K32.A972 AQT7.JT6.Q65.JT4 K.Q9432.JT94.863"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "5"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "99776997763455434554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  3
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  3
+W  S  4
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+[Auction "N"]
+1C 1S 1NT Pass 
+Pass Pass 
+[Play "W"]
+DJ D7 DK D5 
+D4 D8 D2 DQ 
+C3 CQ CA CT 
+D9 DA D3 D6 
+SK SJ S2 S7 
+DT H5 S8 H6 
+HQ HK HA HJ 
+H2 S4 S3 ST 
+H3 -  -  SA 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "5"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Hrafn Hauksson#"]
+[East "Arora Johannsdottir#"]
+[South "Elsa Isfold#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J64.K875.A87.KQ5 98532.A.K32.A972 AQT7.JT6.Q65.JT4 K.Q9432.JT94.863"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "99776997763455434554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  3
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  3
+W  S  4
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+[Auction "N"]
+1C 1S 1NT Pass 
+Pass Pass 
+[Play "W"]
+SK S4 S2 SA 
+HQ HK HA HJ 
+H2 S6 S3 S7 
+C3 CK CA C4 
+H3 SJ S5 ST 
+H4 H7 D2 HT 
+H9 H5 C2 H6 
+DJ D7 DK D5 
+C6 D8 S8 SQ 
+C8 C5 C7 CJ 
+D4 CQ C9 CT 
+D9 DA D3 D6 
+DT H8 S9 DQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "5"]
+[West "Soffía Danielsdótir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Svavar Hauksson#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J64.K875.A87.KQ5 98532.A.K32.A972 AQT7.JT6.Q65.JT4 K.Q9432.JT94.863"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "3"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "99776997763455434554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  3
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  3
+W  S  4
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+S3 S7 SK S4 
+CA C4 C8 C5 
+C2 CT C3 CK 
+S5 SA H4 S6 
+HA HJ H2 H5 
+C9 CJ C6 CQ 
+S2 SQ DJ SJ 
+D2 HT H3 H7 
+S8 H6 H9 HK 
+D3 D5 D4 DA 
+DK D6 D9 D7 
+C7 ST DT H8 
+S9 DQ HQ D8 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "5"]
+[West "Anna Magnea#1234"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Sigrún Sv#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J64.K875.A87.KQ5 98532.A.K32.A972 AQT7.JT6.Q65.JT4 K.Q9432.JT94.863"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "4"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "99776997763455434554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  3
+E  S  4
+E  H  5
+E  D  5
+E  C  4
+W NT  3
+W  S  4
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Pairs"]
+[Auction "N"]
+1C =1= 1S 1NT Pass 
+Pass Pass 
+[Note "1: 2+♣"]
+[Play "W"]
+H4 H5 HA H6 
+SK S4 S5 S7 
+DJ D7 D2 DQ 
+HQ HK C2 HJ 
+C3 S6 S9 SQ 
+C6 CK CA C4 
+DT DA D3 D5 
+C8 CQ C7 CT 
+D4 C5 C9 CJ 
+H2 H7 S2 HT 
+H3 SJ S3 SA 
+H9 D8 S8 ST 
+D9 H8 DK D6 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "6"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Óttar Ármannsson#"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T84.A985.T96.A85 J765.KQJT4.K82.K AQ3.732.Q3.QJ643 K92.6.AJ754.T972"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "5"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "55436554367899678996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  7
+E  S  8
+E  H  9
+E  D  9
+E  C  6
+W NT  7
+W  S  8
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass 1NT Pass 
+2D Pass Pass Pass 
+[Play "S"]
+C3 C2 CA CK 
+C4 C7 C5 D2 
+H7 H6 HA HJ 
+C6 C9 C8 D8 
+H2 S2 H5 HT 
+H3 S9 H8 HQ 
+D3 SK H9 HK 
+CQ CT S4 DK 
+S3 D4 S8 S5 
+DQ DA D6 S6 
+CJ D5 DT H4 
+SQ D7 ST SJ 
+SA DJ D9 S7 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "6"]
+[West "Soffía Danielsdótir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Svavar Hauksson#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T84.A985.T96.A85 J765.KQJT4.K82.K AQ3.732.Q3.QJ643 K92.6.AJ754.T972"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "3"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "55436554367899678996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  7
+E  S  8
+E  H  9
+E  D  9
+E  C  6
+W NT  7
+W  S  8
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass 1NT Pass 
+2S Pass 3S Pass 
+Pass Pass 
+[Play "S"]
+DQ DA D6 D2 
+H2 H6 HA H4 
+D3 D4 DT DK 
+H7 C2 H5 HK 
+H3 C7 H8 HQ 
+S3 S9 H9 HJ 
+C3 C9 CA CK 
+SQ D5 D9 D8 
+CQ CT C5 S5 
+SA S2 S4 S6 
+C4 D7 C8 S7 
+C6 SK S8 HT 
+CJ DJ ST SJ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "6"]
+[West "Dagbjört Hannesdóttir#"]
+[North "Hrafn Hauksson#"]
+[East "Arora Johannsdottir#"]
+[South "Elsa Isfold#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T84.A985.T96.A85 J765.KQJT4.K82.K AQ3.732.Q3.QJ643 K92.6.AJ754.T972"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "55436554367899678996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  7
+E  S  8
+E  H  9
+E  D  9
+E  C  6
+W NT  7
+W  S  8
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass 1NT Pass 
+2S Pass Pass Pass 
+[Play "S"]
+DQ D4 D6 DK 
+S3 SK S4 S5 
+H2 H6 H8 HT 
+H3 C2 HA HJ 
+C3 C7 CA CK 
+C4 C9 C5 S6 
+H7 CT H5 HK 
+D3 D5 H9 HQ 
+SQ D7 D9 D2 
+CQ DJ C8 S7 
+SA DA DT D8 
+CJ S2 S8 SJ 
+C6 S9 ST H4 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "6"]
+[West "Anna Magnea#1234"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Sigrún Sv#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T84.A985.T96.A85 J765.KQJT4.K82.K AQ3.732.Q3.QJ643 K92.6.AJ754.T972"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "4"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "55436554367899678996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  4
+S  D  3
+S  C  6
+E NT  7
+E  S  8
+E  H  9
+E  D  9
+E  C  6
+W NT  7
+W  S  8
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass 2D Pass 
+3D Pass Pass Pass 
+[Play "N"]
+S4 S5 SA S2 
+CA CK C3 C2 
+D6 D2 DQ DA 
+HA H4 H7 H6 
+H5 HK H3 C7 
+D9 DK D3 D4 
+H8 HQ H2 C9 
+H9 HT C4 CT 
+DT D8 C6 DJ 
+S8 S6 S3 SK 
+C5 S7 CJ D7 
+ST HJ CQ D5 
+C8 SJ SQ S9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "7"]
+[West "Soffía Danielsdótir#"]
+[North "Sigrún Sv#"]
+[East "Svavar Hauksson#"]
+[South "Anna Magnea#1234"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT3.KQ82.KQ73.JT 7642.7.A952.A954 J.AJT94.T84.K832 AK985.653.J6.Q76"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "4"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "74976749765945759357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  9
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1H 1S 2H 2S 
+3H Pass Pass Pass 
+[Play "W"]
+SA S3 S2 SJ 
+C6 CT CA C2 
+C7 CJ C4 CK 
+H3 H2 H7 HA 
+H5 HK D2 H4 
+S5 ST S4 H9 
+CQ H8 C5 C3 
+SK SQ S6 C8 
+D6 DQ DA D4 
+DJ DK D5 D8 
+H6 D3 D9 DT 
+S9 D7 S7 HT 
+S8 HQ C9 HJ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "7"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Hrafn Hauksson#"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Elsa Isfold#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT3.KQ82.KQ73.JT 7642.7.A952.A954 J.AJT94.T84.K832 AK985.653.J6.Q76"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "74976749765945759357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  9
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1C Pass 
+1H 1S 2H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 S2 SJ 
+H3 H8 H7 H4 
+H5 H2 S4 H9 
+H6 HQ C5 HT 
+SA ST S6 D4 
+DJ DQ DA D8 
+C6 CT CA C2 
+C7 CJ C4 CK 
+D6 D3 D2 DT 
+CQ HK C9 C3 
+S5 SQ S7 C8 
+S8 D7 D5 HJ 
+S9 DK D9 HA 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "7"]
+[West "Ragnheiður Haraldsddóttir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Óttar Ármannsson#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT3.KQ82.KQ73.JT 7642.7.A952.A954 J.AJT94.T84.K832 AK985.653.J6.Q76"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "74976749765945759357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  9
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1H 1S 2H 2S 
+3H 3S Pass Pass 
+Pass 
+[Play "N"]
+CJ C4 CK C6 
+H2 H7 HA H5 
+CT C5 C3 CQ 
+S3 S2 SJ SA 
+ST S4 C8 SK 
+H8 S6 H4 H3 
+SQ CA C2 C7 
+HK S7 H9 H6 
+D3 C9 D8 D6 
+-  DA D4 -  
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "7"]
+[West "Hjálmar S. Pálsson#"]
+[North "Arora Johannsdottir#"]
+[East "Birgir Olafsson#26833"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT3.KQ82.KQ73.JT 7642.7.A952.A954 J.AJT94.T84.K832 AK985.653.J6.Q76"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "3"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "74976749765945759357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  4
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  9
+E  H  4
+E  D  5
+E  C  7
+W NT  5
+W  S  9
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1S X 3C 
+4H Pass Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+CJ CA C2 C6 
+S3 S2 SJ SA 
+ST S4 H4 SK 
+D7 DA D4 D6 
+CT C4 CK C7 
+H8 H7 HA H3 
+SQ C5 C3 CQ 
+DK D2 D8 DJ 
+DQ D5 DT S5 
+H2 S6 H9 H5 
+D3 C9 C8 H6 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "8"]
+[West "Soffía Danielsdótir#"]
+[North "Sigrún Sv#"]
+[East "Svavar Hauksson#"]
+[South "Anna Magnea#1234"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J43.A75.AQT6.K76 T85.9832.J9743.9 AK.KJT64.5.AQJ82 Q9762.Q.K82.T543"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "4"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "d9d9dd9d9d0403004030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D  9
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D  9
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+H2 HJ HQ HA 
+H3 HK S2 H5 
+H8 HT D8 H7 
+C9 C2 C5 CK 
+D3 CA C4 C6 
+S5 CQ C3 C7 
+S8 CJ CT D6 
+ST SA S6 S3 
+D4 SK S7 S4 
+D7 D5 D2 DA 
+D9 H4 DK DQ 
+H9 C8 SQ SJ 
+DJ H6 S9 DT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "8"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Hrafn Hauksson#"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Elsa Isfold#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J43.A75.AQT6.K76 T85.9832.J9743.9 AK.KJT64.5.AQJ82 Q9762.Q.K82.T543"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "5NT"]
+[Result "13"]
+[Score "NS 520"]
+[Table "2"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "d9d9dd9d9d0403004030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D  9
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D  9
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1C Pass 1H 
+Pass 1NT Pass 4NT 
+Pass 5H Pass 5NT 
+Pass Pass Pass 
+[Play "E"]
+D3 D5 D8 DT 
+C9 C2 C3 CK 
+D4 CJ C4 C7 
+S5 CA C5 C6 
+S8 CQ CT D6 
+ST C8 S2 DQ 
+H2 H4 HQ HA 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "8"]
+[West "Ragnheiður Haraldsddóttir#"]
+[North "Sóley Jakobsdóttir#"]
+[East "Óttar Ármannsson#"]
+[South "Eygló Karlsdóttir#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J43.A75.AQT6.K76 T85.9832.J9743.9 AK.KJT64.5.AQJ82 Q9762.Q.K82.T543"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 510"]
+[Table "5"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "d9d9dd9d9d0403004030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D  9
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D  9
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1D Pass 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S6 S3 ST SA 
+HQ H5 H2 HK 
+S2 HA H3 H4 
+C5 H7 H8 HJ 
+S7 D6 H9 HT 
+C3 CK C9 C2 
+C4 C6 D3 CA 
+CT C7 D4 CQ 
+D8 DT S5 CJ 
+D2 DQ D7 C8 
+DK DA D9 D5 
+S9 S4 S8 SK 
+SQ SJ DJ H6 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "8"]
+[West "Hjálmar S. Pálsson#"]
+[North "Arora Johannsdottir#"]
+[East "Birgir Olafsson#26833"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J43.A75.AQT6.K76 T85.9832.J9743.9 AK.KJT64.5.AQJ82 Q9762.Q.K82.T543"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 520"]
+[Table "3"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "d9d9dd9d9d0403004030"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S  9
+N  H 13
+N  D  9
+N  C 13
+S NT 13
+S  S  9
+S  H 13
+S  D  9
+S  C 13
+E NT  0
+E  S  4
+E  H  0
+E  D  3
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  3
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3C 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+ST SK S2 S3 
+C9 C2 C3 CK 
+D4 CJ C4 C7 
+S5 CA C5 C6 
+S8 CQ CT D6 
+H9 C8 S6 S4 
+H2 H4 HQ HA 
+H8 HK S7 H7 
+H3 HJ D2 H5 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "9"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Birgir Olafsson#26833"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT84.T764..AQT82 KJ3.A32.K9752.65 A62.KQ9.QJ64.974 975.J85.AT83.KJ3"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 300"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "89a7b89a7a4336243362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1D Pass 1NT 
+2C 2D 3C 3D 
+Pass Pass Pass 
+[Play "S"]
+C4 CJ CQ C5 
+HQ H5 H7 H2 
+C9 CK CA C6 
+HK H8 H6 H3 
+H9 HJ H4 HA 
+D4 D3 C2 DK 
+DJ DA C8 D2 
+SA S7 S8 SJ 
+C7 C3 CT D5 
+DQ D8 HT D7 
+S2 S5 ST SK 
+D6 DT S4 D9 
+S6 S9 SQ S3 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "9"]
+[West "Soffía Danielsdótir#"]
+[North "Óttar Ármannsson#"]
+[East "Svavar Hauksson#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT84.T764..AQT82 KJ3.A32.K9752.65 A62.KQ9.QJ64.974 975.J85.AT83.KJ3"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "5"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "89a7b89a7a4336243362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass 1D Pass 
+1H Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+S9 ST SJ SA 
+C3 C2 C5 C7 
+CJ CQ C6 C9 
+CK CA D2 C4 
+D3 CT D5 S2 
+S5 C8 H2 D4 
+H5 H4 H3 HK 
+S7 S8 S3 S6 
+H8 H6 HA H9 
+DA H7 D7 DQ 
+DT HT DK D6 
+D8 S4 SK HQ 
+HJ SQ D9 DJ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "9"]
+[West "Eygló Karlsdóttir#"]
+[North "Hrafn Hauksson#"]
+[East "Sóley Jakobsdóttir#"]
+[South "Elsa Isfold#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT84.T764..AQT82 KJ3.A32.K9752.65 A62.KQ9.QJ64.974 975.J85.AT83.KJ3"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "89a7b89a7a4336243362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass 1C Pass 
+1S 2D 2S 3D 
+3S Pass Pass Pass 
+[Play "E"]
+D2 DJ DA S4 
+H2 HQ H5 H4 
+C5 C9 C3 CQ 
+HA H9 H8 H6 
+C6 C4 CK CA 
+H3 HK HJ H7 
+D5 D4 D3 S8 
+D7 S2 S5 HT 
+D9 C7 CJ C2 
+DK D6 D8 ST 
+S3 S6 S7 C8 
+SK DQ DT SQ 
+SJ SA S9 CT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "9"]
+[West "Alda Gudnadottir#27214"]
+[North "Arora Johannsdottir#"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT84.T764..AQT82 KJ3.A32.K9752.65 A62.KQ9.QJ64.974 975.J85.AT83.KJ3"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "89a7b89a7a4336243362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  6
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1D X XX 
+2C Pass Pass 2D 
+3C Pass Pass Pass 
+[Play "E"]
+D2 D6 DA C2 
+H3 HQ H8 H4 
+DK DQ D3 H6 
+HA H9 H5 H7 
+S3 S2 S9 ST 
+H2 HK HJ HT 
+D5 DJ D8 S4 
+SJ SA S5 S8 
+C5 C4 C3 CQ 
+C6 C7 CJ CA 
+D7 C9 CK C8 
+SK S6 S7 SQ 
+D9 D4 DT CT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "10"]
+[West "Kristín E Þórarinsdóttir#2412"]
+[North "Birgir Olafsson#26833"]
+[East "Loftur Þór Pétursson#10476"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKQT.5.T42.A9863 8742.KQJ8.J983.2 J9.AT63.A75.KQJT 653.9742.KQ6.754"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "4"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "bb89dbb89d2254022540"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 13
+S NT 11
+S  S 11
+S  H  8
+S  D  9
+S  C 13
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  0
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  0
+[OptimumScore "NS +2140"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C7 C3 C2 CK 
+DQ D2 D3 D5 
+S3 SA S2 S9 
+C4 C6 S8 CQ 
+C5 C8 S7 CJ 
+H9 CA S4 CT 
+H7 C9 H8 H3 
+S5 SK HJ SJ 
+S6 SQ D8 H6 
+H4 ST D9 D7 
+H2 H5 HK HA 
+D6 D4 DJ DA 
+DK DT HQ HT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "10"]
+[West "Soffía Danielsdótir#"]
+[North "Óttar Ármannsson#"]
+[East "Svavar Hauksson#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKQT.5.T42.A9863 8742.KQJ8.J983.2 J9.AT63.A75.KQJT 653.9742.KQ6.754"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "bb89dbb89d2254022540"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 13
+S NT 11
+S  S 11
+S  H  8
+S  D  9
+S  C 13
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  0
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  0
+[OptimumScore "NS +2140"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C7 C3 C2 CK 
+C4 C6 D3 CQ 
+C5 C8 D8 CJ 
+S6 CA D9 CT 
+S5 C9 DJ H3 
+S3 ST S2 SJ 
+H4 SQ S4 S9 
+H2 SK S7 H6 
+H7 SA S8 HT 
+H9 H5 HK HA 
+D6 D2 H8 DA 
+DQ D4 HJ D5 
+DK DT HQ D7 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "10"]
+[West "Eygló Karlsdóttir#"]
+[North "Hrafn Hauksson#"]
+[East "Sóley Jakobsdóttir#"]
+[South "Elsa Isfold#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKQT.5.T42.A9863 8742.KQJ8.J983.2 J9.AT63.A75.KQJT 653.9742.KQ6.754"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "bb89dbb89d2254022540"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 13
+S NT 11
+S  S 11
+S  H  8
+S  D  9
+S  C 13
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  0
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  0
+[OptimumScore "NS +2140"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+H2 H5 HJ HA 
+C4 C3 C2 CK 
+C5 C6 S8 CQ 
+C7 C8 S7 CJ 
+S6 CA S4 CT 
+H4 C9 S2 H3 
+S5 SA H8 SJ 
+S3 SK HQ S9 
+D6 SQ D3 D5 
+H7 ST D8 D7 
+DK D2 D9 DA 
+H9 D4 HK HT 
+DQ DT DJ H6 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "10"]
+[West "Alda Gudnadottir#27214"]
+[North "Arora Johannsdottir#"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AKQT.5.T42.A9863 8742.KQJ8.J983.2 J9.AT63.A75.KQJT 653.9742.KQ6.754"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "3"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "bb89dbb89d2254022540"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 13
+S NT 11
+S  S 11
+S  H  8
+S  D  9
+S  C 13
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  0
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  0
+[OptimumScore "NS +2140"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+DQ D2 D3 DA 
+C7 C3 C2 CK 
+C5 C6 S7 CQ 
+C4 C8 S2 CJ 
+S6 C9 S4 CT 
+S5 ST S8 SJ 
+S3 SQ H8 S9 
+D6 SK HJ D5 
+DK SA D8 D7 
+H2 CA D9 H3 
+H4 H5 HQ HA 
+H7 D4 HK H6 
+H9 DT DJ HT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "11"]
+[West "Anna Magnea#1234"]
+[North "Arora Johannsdottir#"]
+[East "Sigrún Sv#"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A73.874.J653.852 T654.KT2.T98.643 KJ98.AQ53.Q2.T97 Q2.J96.AK74.AKQJ"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "3"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "67656676566677766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Pairs"]
+[Auction "S"]
+1C 1D Pass Pass 
+1H 2C 2H Pass 
+Pass Pass 
+[Play "W"]
+CA C2 C3 C7 
+CK C5 C4 C9 
+DA D3 D8 D2 
+DK D5 D9 DQ 
+CQ C8 C6 CT 
+H6 H7 HK HA 
+H9 H4 H2 HQ 
+SQ SA S4 S8 
+D4 DJ DT S9 
+S2 S3 ST SJ 
+HJ S7 S5 SK 
+D7 D6 HT H3 
+CJ H8 S6 H5 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "11"]
+[West "Alda Gudnadottir#27214"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A73.874.J653.852 T654.KT2.T98.643 KJ98.AQ53.Q2.T97 Q2.J96.AK74.AKQJ"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "67656676566677766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Pairs"]
+[Auction "S"]
+1C X Pass 1S 
+Pass 2NT Pass Pass 
+Pass 
+[Play "N"]
+C2 C3 C9 CA 
+D3 D8 D2 DA 
+D5 D9 DQ D4 
+C5 C4 C7 CK 
+H7 H2 HQ H9 
+H4 HT HA H6 
+H8 HK H3 HJ 
+D6 DT S8 DK 
+C8 C6 CT CQ 
+S3 S4 S9 CJ 
+DJ S5 H5 D7 
+SA S6 SJ S2 
+S7 ST SK SQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "11"]
+[West "Elsa Isfold#"]
+[North "Óttar Ármannsson#"]
+[East "Hrafn Hauksson#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A73.874.J653.852 T654.KT2.T98.643 KJ98.AQ53.Q2.T97 Q2.J96.AK74.AKQJ"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "67656676566677766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Pairs"]
+[Auction "S"]
+1C X Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+S8 S2 SA S4 
+SK SQ S3 S5 
+SJ H6 S7 S6 
+S9 D4 H4 ST 
+C7 CJ C5 C6 
+C9 CQ C2 C4 
+CT CK C8 C3 
+H3 CA H7 D8 
+HQ H9 H8 H2 
+HA HJ D3 HT 
+H5 D7 D5 HK 
+D2 DK D6 D9 
+DQ DA DJ DT 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "11"]
+[West "Eygló Karlsdóttir#"]
+[North "Birgir Olafsson#26833"]
+[East "Sóley Jakobsdóttir#"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A73.874.J653.852 T654.KT2.T98.643 KJ98.AQ53.Q2.T97 Q2.J96.AK74.AKQJ"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS 100"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "67656676566677766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  5
+N  C  6
+S NT  6
+S  S  7
+S  H  6
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Pairs"]
+[Auction "S"]
+1C X Pass 1S 
+Pass 2C Pass Pass 
+Pass 
+[Play "N"]
+H8 HK HA H6 
+SA S4 S9 SQ 
+S3 ST SJ S2 
+S7 S5 SK CA 
+D5 D8 D2 DA 
+C2 C3 C7 CK 
+D3 DT DQ DK 
+DJ D9 H5 D4 
+D6 C6 C9 D7 
+H4 H2 HQ H9 
+H7 S6 S8 CJ 
+C5 C4 CT CQ 
+C8 HT H3 HJ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "12"]
+[West "Alda Gudnadottir#27214"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Arngunnur Jonsdottir#44292"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A93.AK863.A2.A83 JT52.4.T83.JT952 86.72.KJ7654.764 KQ74.QJT95.Q9.KQ"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "5"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "a57a6a57a63753638536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  7
+N  D 10
+N  C  6
+S NT 10
+S  S  5
+S  H  7
+S  D 10
+S  C  6
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  6
+W NT  3
+W  S  8
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+[Auction "W"]
+1H X Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+CJ C4 CQ C3 
+H4 H2 HQ HA 
+D8 D4 D9 DA 
+D3 DJ DQ D2 
+DT H7 HJ HK 
+ST S6 S4 S3 
+CT C6 CK C8 
+C2 D5 HT H3 
+S2 D6 H9 H6 
+S5 D7 H5 H8 
+C5 C7 S7 CA 
+SJ S8 SK SA 
+C9 DK SQ S9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "12"]
+[West "Anna Magnea#1234"]
+[North "Arora Johannsdottir#"]
+[East "Sigrún Sv#"]
+[South "Dagbjört Hannesdóttir#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A93.AK863.A2.A83 JT52.4.T83.JT952 86.72.KJ7654.764 KQ74.QJT95.Q9.KQ"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "3"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "a57a6a57a63753638536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  7
+N  D 10
+N  C  6
+S NT 10
+S  S  5
+S  H  7
+S  D 10
+S  C  6
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  6
+W NT  3
+W  S  8
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+[Auction "W"]
+1H X Pass 2D 
+2S X Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+H4 H7 HQ HK 
+D3 D4 D9 DA 
+D8 DJ DQ D2 
+C9 H2 HJ HA 
+CT C4 CK C3 
+S5 D5 HT H3 
+S2 D6 H9 H6 
+C2 S6 H5 H8 
+C5 C6 CQ CA 
+CJ C7 S4 C8 
+SJ S8 S7 SA 
+ST D7 SQ S3 
+DT DK SK S9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "12"]
+[West "Elsa Isfold#"]
+[North "Óttar Ármannsson#"]
+[East "Hrafn Hauksson#"]
+[South "Ragnheiður Haraldsddóttir#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A93.AK863.A2.A83 JT52.4.T83.JT952 86.72.KJ7654.764 KQ74.QJT95.Q9.KQ"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "a57a6a57a63753638536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  7
+N  D 10
+N  C  6
+S NT 10
+S  S  5
+S  H  7
+S  D 10
+S  C  6
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  6
+W NT  3
+W  S  8
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+[Auction "W"]
+1H X Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+CJ C4 CK CA 
+D3 D4 D9 DA 
+D8 DK DQ D2 
+DT DJ H5 H3 
+H4 D7 S4 C3 
+C2 D6 H9 C8 
+S2 D5 S7 S3 
+C5 H2 HQ HA 
+S5 H7 HJ HK 
+ST S6 SQ SA 
+SJ C6 HT H8 
+C9 C7 CQ S9 
+CT S8 SK H6 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "12"]
+[West "Eygló Karlsdóttir#"]
+[North "Birgir Olafsson#26833"]
+[East "Sóley Jakobsdóttir#"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A93.AK863.A2.A83 JT52.4.T83.JT952 86.72.KJ7654.764 KQ74.QJT95.Q9.KQ"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "5"]
+[Score "NS 100"]
+[Table "4"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "a57a6a57a63753638536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  5
+N  H  7
+N  D 10
+N  C  6
+S NT 10
+S  S  5
+S  H  7
+S  D 10
+S  C  6
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  6
+W NT  3
+W  S  8
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Pairs"]
+[Auction "W"]
+1H Pass Pass Pass 
+[Play "N"]
+DA D3 D4 D9 
+D2 D8 DK DQ 
+C3 DT DJ H9 
+CA C2 C7 CK 
+C8 C5 C4 CQ 
+SA S2 S6 SQ 
+S3 SJ S8 S4 
+S9 CJ C6 HQ 
+H3 S5 D5 SK 
+H6 H4 H2 HT 
+H8 ST D6 S7 
+HA C9 H7 H5 
+HK CT D7 HJ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "13"]
+[West "Anna Magnea#1234"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Sigrún Sv#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT8.T9654.982.43 Q76.K3.AKJT.AQ92 AK52.2.754.JT865 943.AQJ87.Q63.K7"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -720"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "2431424314b9ab9989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  3
+N  D  1
+N  C  4
+S NT  2
+S  S  4
+S  H  3
+S  D  1
+S  C  4
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -660"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+S2 S3 S8 SQ 
+H2 H7 H4 HK 
+D7 HA H5 H3 
+D5 HQ H6 S6 
+D4 HJ HT S7 
+C5 CK C3 C2 
+C6 DQ D2 DT 
+C8 D6 D8 DJ 
+CT D3 D9 DK 
+CJ S4 C4 DA 
+S5 C7 ST CA 
+SK H8 H9 CQ 
+SA S9 SJ C9 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "13"]
+[West "Soffía Danielsdótir#"]
+[North "Hrafn Hauksson#"]
+[East "Svavar Hauksson#"]
+[South "Elsa Isfold#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT8.T9654.982.43 Q76.K3.AKJT.AQ92 AK52.2.754.JT865 943.AQJ87.Q63.K7"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "2"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "2431424314b9ab9989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  3
+N  D  1
+N  C  4
+S NT  2
+S  S  4
+S  H  3
+S  D  1
+S  C  4
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -660"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+C6 C7 C4 C2 
+H2 H7 H9 HK 
+S2 HA H4 H3 
+C5 CK C3 C9 
+D4 D3 D8 DA 
+C8 S3 D2 CA 
+CT S4 D9 CQ 
+D5 DQ S8 DT 
+S5 HQ H5 S6 
+SK HJ H6 S7 
+D7 D6 ST DK 
+CJ S9 HT DJ 
+SA H8 SJ SQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "13"]
+[West "Eygló Karlsdóttir#"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Sóley Jakobsdóttir#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT8.T9654.982.43 Q76.K3.AKJT.AQ92 AK52.2.754.JT865 943.AQJ87.Q63.K7"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "2431424314b9ab9989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  3
+N  D  1
+N  C  4
+S NT  2
+S  S  4
+S  H  3
+S  D  1
+S  C  4
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -660"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+SA S3 S8 S6 
+SK S4 ST S7 
+S2 S9 SJ SQ 
+H2 H7 H5 HK 
+D7 HA H4 H3 
+D5 HQ H6 C2 
+C5 HJ H9 C9 
+D4 DQ D8 DA 
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "13"]
+[West "Ragnheiður Haraldsddóttir#"]
+[North "Birgir Olafsson#26833"]
+[East "Óttar Ármannsson#"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT8.T9654.982.43 Q76.K3.AKJT.AQ92 AK52.2.754.JT865 943.AQJ87.Q63.K7"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "6HX"]
+[Result "9"]
+[Score "NS 800"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "2431424314b9ab9989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  3
+N  D  1
+N  C  4
+S NT  2
+S  S  4
+S  H  3
+S  D  1
+S  C  4
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -660"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 2D Pass 3H 
+Pass 4NT Pass 5D 
+Pass 5H Pass 6H 
+X Pass Pass Pass 
+[Play "N"]
+SJ S6 S2 S9 
+ST S7 SK S3 
+S8 SQ SA S4 
+C4 C2 C5 CK 
+H6 HK H2 H7 
+H4 H3 S5 HA 
+H5 C9 C6 HQ 
+HT DT C8 HJ 
+C3 CA CT C7 
+H9 CQ CJ D3 
+D2 DA D4 D6 
+D9 DJ D5 DQ 
+D8 DK D7 H8 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "14"]
+[West "Anna Magnea#1234"]
+[North "Loftur Þór Pétursson#10476"]
+[East "Sigrún Sv#"]
+[South "Kristín E Þórarinsdóttir#2412"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q963.85.AK.KQ984 K4.AKQ93.742.J72 AJT.T742.QJT86.T 8752.J6.953.A653"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "797a8797a84363343633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D 10
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  3
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass Pass 2C 
+Pass Pass Pass 
+[Play "E"]
+HA H2 H6 H5 
+HK H4 HJ H8 
+D7 D6 D3 DA 
+D2 D8 D5 DK 
+S4 ST S2 S3 
+CJ CT C3 C4 
+HQ H7 D9 C8 
+C2 HT CA C9 
+SK SA S5 S6 
+C7 SJ S7 S9 
+H9 DT C5 CQ 
+D4 DJ C6 CK 
+H3 DQ S8 SQ 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "14"]
+[West "Soffía Danielsdótir#"]
+[North "Hrafn Hauksson#"]
+[East "Svavar Hauksson#"]
+[South "Elsa Isfold#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q963.85.AK.KQ984 K4.AKQ93.742.J72 AJT.T742.QJT86.T 8752.J6.953.A653"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "797a8797a84363343633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D 10
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  3
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass Pass X 
+Pass 2D 2H 3D 
+3H 4D Pass Pass 
+Pass 
+[Play "W"]
+HJ H5 HA H2 
+H6 H8 HK H4 
+D3 DK D2 D6 
+S2 S3 S4 ST 
+C3 DA H3 H7 
+S5 S6 SK SA 
+D5 C4 D4 DQ 
+D9 C8 D7 DJ 
+C5 C9 CJ DT 
+S7 SQ H9 SJ 
+S8 S9 C2 HT 
+CA CQ C7 CT 
+C6 CK HQ D8 
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "14"]
+[West "Eygló Karlsdóttir#"]
+[North "Arngunnur Jonsdottir#44292"]
+[East "Sóley Jakobsdóttir#"]
+[South "Alda Gudnadottir#27214"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q963.85.AK.KQ984 K4.AKQ93.742.J72 AJT.T742.QJT86.T 8752.J6.953.A653"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "797a8797a84363343633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D 10
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  3
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass Pass 2C 
+Pass 2D Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+HA H2 HJ H5 
+HK H4 H6 H8 
+D2 D6 D9 DA 
+SK SA S2 S3 
+D4 D8 D5 DK 
+S4 ST S5 S6 
+H3 SJ S7 S9 
+D7 DQ D3 C4 
+C2 DJ S8 C8 
+C7 CT CA C9 
+-  -  C6 -  
+*
+
+[Event "5.9.29021 - Kl:19:30"]
+[Site "RealBridge"]
+[Date "2021.09.05"]
+[Board "14"]
+[West "Ragnheiður Haraldsddóttir#"]
+[North "Birgir Olafsson#26833"]
+[East "Óttar Ármannsson#"]
+[South "Hjálmar S. Pálsson#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q963.85.AK.KQ984 K4.AKQ93.742.J72 AJT.T742.QJT86.T 8752.J6.953.A653"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "797a8797a84363343633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D 10
+N  C  8
+S NT  7
+S  S  9
+S  H  7
+S  D 10
+S  C  8
+E NT  4
+E  S  3
+E  H  6
+E  D  3
+E  C  3
+W NT  4
+W  S  3
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+[Auction "E"]
+1H Pass Pass X 
+Pass 2D Pass Pass 
+Pass 
+[Play "W"]
+HJ H5 HA H2 
+H6 H8 HK H4 
+D5 DK D2 D6 
+S2 S3 S4 SJ 
+S5 DA H3 H7 
+S7 S6 SK SA 
+D3 C4 D4 DQ 
+D9 C8 D7 DJ 
+C3 C9 H9 DT 
+S8 SQ C2 ST 
+C5 S9 HQ CT 
+CA CQ C7 D8 
+C6 CK CJ HT 

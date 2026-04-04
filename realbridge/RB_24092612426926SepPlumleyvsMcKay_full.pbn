@@ -1,0 +1,4059 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "1"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT7542.42.K6.KQJ A96.AJ985.QT54.4 KQ.KQ63.983.A953 83.T7.AJ72.T8762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "89648896484378544785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  4
+N  C  8
+S NT  8
+S  S  9
+S  H  6
+S  D  4
+S  C  8
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,620,479,139,222,74,104,52,71,58,112,74,46,35,26,12,21,17,19,20,11,66,23,23,13,95,18,65,16,23,26,13,15,19,40,17,14
+[Auction "N"]
+Pass 1H Pass 1NT =1= 
+2S Pass Pass Pass 
+[Note "1: F1"]
+[Play "E"]
+C4 C3 C6 CJ 
+SA SQ S3 S4 
+D4 D3 DA D6 
+S6 C5 C2 CK 
+HA H3 HT H4 
+H8 HK H7 H2 
+S9 SK S8 S2 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "1"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT7542.42.K6.KQJ A96.AJ985.QT54.4 KQ.KQ63.983.A953 83.T7.AJ72.T8762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "89648896484378544785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  4
+N  C  8
+S NT  8
+S  S  9
+S  H  6
+S  D  4
+S  C  8
+E NT  4
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,765,155,422,43,101,47,113,72,1046,34,222,71,287,49,83,142,141,26,180,31,47,22,47,213,71,41,36,78,28,23,222,35,41,32,142,42,12,35,36,48,21,54,82
+[Auction "N"]
+2S =1= 3H 3S X 
+Pass 4D Pass 4H 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "S"]
+SK S3 S5 S6 
+SQ S8 S2 SA 
+C9 HT S4 S9 
+HQ H7 H4 H5 
+H3 C2 H2 H8 
+H6 C6 S7 HA 
+D3 D2 DK DT 
+-  -  CK -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "2"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ874.KJ2.Q.A743 K53.T953.764.K92 QT962.AQ87.J532. .64.AKT98.QJT865"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "6b8546b9544147841478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S 11
+S  H  9
+S  D  5
+S  C  4
+E NT  4
+E  S  1
+E  H  4
+E  D  7
+E  C  8
+W NT  4
+W  S  1
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 23,0,3,103,33,125,121,83,155,101,133,92,83,31,207,103,63,64,25,18,144,44,21,17,43,47,22,28,30,16,52,70,45,21,10,24
+[Auction "E"]
+Pass Pass 3C 3S 
+Pass 4C =1= 4D Pass 
+5C 5S Pass Pass 
+Pass 
+[Note "1: F"]
+[Play "E"]
+D6 D2 DK DQ 
+D4 D3 DA S7 
+C2 S9 C5 C3 
+S3 SQ C6 S4 
+S5 S2 C8 SA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "2"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ874.KJ2.Q.A743 K53.T953.764.K92 QT962.AQ87.J532. .64.AKT98.QJT865"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "6"]
+[Score "NS 250"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "6b8546b9544147841478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  8
+N  D  5
+N  C  4
+S NT  6
+S  S 11
+S  H  9
+S  D  5
+S  C  4
+E NT  4
+E  S  1
+E  H  4
+E  D  7
+E  C  8
+W NT  4
+W  S  1
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 20,2,1,61,127,113,139,42,616,57,181,34,64,22,650,496,119,128,16,27,4078,49,39,65,37,28,23,361,23,51,29,364,30,23,11,109,96,84,17,250,78,19,44,103,99,29,44,32,33,12,29,10,21,14,36,80,60,17,27,49,29,14,10,26,10,12,7
+[Auction "E"]
+Pass Pass 1C 1S 
+X 4S 4NT Pass 
+5C Pass Pass Pass 
+[Play "N"]
+SA S3 S6 C5 
+C3 CK S9 CJ 
+S4 SK S2 H4 
+DQ D4 D2 DT 
+H2 H3 HA H6 
+HJ H5 H7 CT 
+CA C2 ST CQ 
+SJ S5 SQ C6 
+C4 C9 H8 C8 
+C7 D6 D3 D8 
+S8 D7 HQ D9 
+S7 H9 D5 DK 
+HK HT DJ DA 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "3"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q83.AKQJ84.T7.76 KJ52.965.KQJ5.95 T4.7.A82.AQJT832 A976.T32.9643.K4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "8586a8586a5737257372"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  6
+N  C 10
+S NT  8
+S  S  5
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  7
+E  H  3
+E  D  7
+E  C  2
+W NT  5
+W  S  7
+W  H  3
+W  D  7
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,0,3,395,308,208,136,167,88,109,77,41,38,82,491,54,21,20,25,12,24,13,22,19,12,42,19,11,10,33,21,18,12,23,24,24,31,157,30,21,14
+[Auction "S"]
+2C =1= Pass 2D =2= Pass 
+2NT =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 10-15 5+C, if only 5C then 4H/S"]
+[Note "2: relay"]
+[Note "3: 6+C, lower range"]
+[Play "E"]
+DK DA D4 D7 
+H5 H7 H2 HA 
+H6 D2 H3 HK 
+H9 D8 HT HQ 
+S2 S4 S6 HJ 
+C5 CJ C4 C7 
+C9 CA CK C6 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "3"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q83.AKQJ84.T7.76 KJ52.965.KQJ5.95 T4.7.A82.AQJT832 A976.T32.9643.K4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "8586a8586a5737257372"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  6
+N  C 10
+S NT  8
+S  S  5
+S  H  8
+S  D  6
+S  C 10
+E NT  5
+E  S  7
+E  H  3
+E  D  7
+E  C  2
+W NT  5
+W  S  7
+W  H  3
+W  D  7
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 20,2,1,685,48,157,30,51,80,55,24,51,35,23,26,546,151,30,23,76,30,12,9,22,20,23,22,16,22,14,10,25,20,17,22,27,18,10,13,13,29,14,9,12,36
+[Auction "S"]
+5C Pass Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+S6 S8 SJ ST 
+S7 SQ SK C8 
+H2 HJ H5 H7 
+H3 HQ H6 D2 
+HT HK H9 D8 
+CK C7 C5 CQ 
+D4 D7 DJ DA 
+C4 C6 C9 CA 
+D3 -  -  CJ 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "4"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A97642..AT53.AQJ KQJT.AQJ.J97.965 853.K83.Q8642.73 .T976542.K.KT842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "895a5895a55482754837"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D 10
+N  C  5
+S NT  8
+S  S  9
+S  H  5
+S  D 10
+S  C  5
+E NT  5
+E  S  4
+E  H  8
+E  D  2
+E  C  7
+W NT  5
+W  S  4
+W  H  8
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,126,173,166,206,46,223,92,37,39,69,107,42,56,34,27,13,12,380,31,14,33,171,29,68,32,25,39,14,12,32,17,20,13,39,19,17,14,73
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+3H 4S Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Note "2: usually 0-7"]
+[Play "E"]
+HA H3 HT S6 
+ST S3 H2 SA 
+D7 D2 DK DA 
+DJ D4 H4 DT 
+SK S5 H5 S2 
+SQ S8 H6 S4 
+SJ H8 C2 S7 
+C6 -  -  -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "4"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A97642..AT53.AQJ KQJT.AQJ.J97.965 853.K83.Q8642.73 .T976542.K.KT842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "895a5895a55482754837"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D 10
+N  C  5
+S NT  8
+S  S  9
+S  H  5
+S  D 10
+S  C  5
+E NT  5
+E  S  4
+E  H  8
+E  D  2
+E  C  7
+W NT  5
+W  S  4
+W  H  8
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 22,2,1,202,95,65,247,139,77,45,60,355,129,86,137,22,97,38,38,18,215,48,20,14,77,48,45,31,58,33,320,38,57,30,9,49,54,28,11,94,105,33,20,10,23,30,10,53,79,53,18,68,440,184,33,50,129,27,22,22,10,21,24,20
+[Auction "W"]
+Pass 1S Pass 2S 
+3H 4S X Pass 
+5C X 5H Pass 
+Pass X Pass Pass 
+Pass 
+[Play "N"]
+DA D7 D2 DK 
+D3 D9 DQ H2 
+S2 HA H3 H5 
+D5 DJ D4 C2 
+SA ST S3 C4 
+CA C5 C7 C8 
+CQ C6 C3 CK 
+S4 HJ HK H4 
+DT C9 D6 H6 
+CJ HQ S5 CT 
+S6 SJ S8 H7 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "5"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT.K643.KT2.Q83 J98732.72.95.K92 Q4.T5.AQJ764.AJT 65.AQJ98.83.7654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "c99c9c99c91341213412"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H  9
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H  9
+S  D 12
+S  C  9
+E NT  1
+E  S  3
+E  H  4
+E  D  1
+E  C  2
+W NT  1
+W  S  3
+W  H  4
+W  D  1
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,265,7758,105,56,57,58,54,174,97,63,165,121,27,10,26,19,62,19,17,23,8,27,16,20,11,34,24,61,13,9,23,21,52,26,19,11,18,11,15,12,17,13,19,19,10,12,14,12,19,11,15,39,12,11,11,16,10,11
+[Auction "N"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "E"]
+S7 S4 S6 SK 
+S2 SQ S5 ST 
+D5 D4 D8 DK 
+S3 H5 D3 SA 
+D9 D6 C4 DT 
+H7 DA H8 D2 
+C2 DQ H9 C3 
+S8 DJ C7 C8 
+S9 D7 C5 H6 
+C9 CA C6 CQ 
+CK CJ HJ H3 
+SJ HT HQ H4 
+H2 CT HA HK 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "5"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT.K643.KT2.Q83 J98732.72.95.K92 Q4.T5.AQJ764.AJT 65.AQJ98.83.7654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "c99c9c99c91341213412"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H  9
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H  9
+S  D 12
+S  C  9
+E NT  1
+E  S  3
+E  H  4
+E  D  1
+E  C  2
+W NT  1
+W  S  3
+W  H  4
+W  D  1
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,226,87,106,100,291,41,103,56,43,160,22,32,42,31,46,34,50,24,28,14,22,12,56,13,26,10,47,11,33,71,22,13,20,21,26,11,32,30,24,10,24,12,23,33,24,22,21,14,23,17,20,9
+[Auction "N"]
+1H 2S 3D 3S 
+3NT Pass Pass Pass 
+[Play "E"]
+S9 SQ S6 ST 
+D9 D4 D8 DK 
+D5 DA D3 DT 
+H7 DQ H8 D2 
+SJ DJ H9 C3 
+S3 D6 C7 H3 
+C2 D7 C4 H4 
+S2 S4 S5 SK 
+S7 H5 C5 SA 
+C9 CT C6 CQ 
+CK CA HJ C8 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "6"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J96.AKJ6.8742.J9 A87.4.J3.AKQT876 42.832.AQT95.543 KQT53.QT975.K6.2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "11581115819b85b9b85b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  8
+N  C  1
+S NT  1
+S  S  1
+S  H  5
+S  D  8
+S  C  1
+E NT  9
+E  S 11
+E  H  8
+E  D  5
+E  C 11
+W NT  9
+W  S 11
+W  H  8
+W  D  5
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,134,70,59,353,216,77,58,94,48,49,27,112,50,79,22,39,28,31,79,16,30,33,17,7,15,35,27,16,15,61,20,29,20,27,26,16,25,18
+[Auction "E"]
+1C 1D 1S 3C =1= 
+4C Pass 4H X 
+4S Pass Pass Pass 
+[Note "1: 10+ 4+D"]
+[Play "N"]
+D4 D3 DA D6 
+D8 DJ DQ DK 
+S6 S7 S2 SQ 
+S9 SA S4 S3 
+SJ S8 DT SK 
+C9 CA C3 C2 
+-  CK C4 -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "6"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J96.AKJ6.8742.J9 A87.4.J3.AKQT876 42.832.AQT95.543 KQT53.QT975.K6.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "11581115819b85b9b85b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  8
+N  C  1
+S NT  1
+S  S  1
+S  H  5
+S  D  8
+S  C  1
+E NT  9
+E  S 11
+E  H  8
+E  D  5
+E  C 11
+W NT  9
+W  S 11
+W  H  8
+W  D  5
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 20,2,1,102,89,149,39,262,68,207,52,188,55,429,71,32,133,26,22,25,62,44,13,37,27,10,18,34,16,18,21,37,15,86,31,20,110,13,27,53,26,15,16
+[Auction "E"]
+1C Pass 1H Pass 
+3NT Pass 4S Pass 
+5C Pass Pass Pass 
+[Play "S"]
+H8 H9 HJ H4 
+H2 H5 HK C8 
+C3 C2 C9 CA 
+C4 H7 CJ CK 
+C5 D6 D8 CQ 
+S4 DK D2 CT 
+S2 S3 S6 SA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "7"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:2.Q973.Q743.AQ52 KQJ7.AKJ85.KT5.8 AT9654.T4.62.KJT 83.62.AJ98.97643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "56456564568798687986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,428,106,250,220,30,62,82,66,60,22,193,46,31,23,25,20,15,13,341,30,15,11,35,24,45,20,121,33,21,9,24,20,15,16,14,28,18,9,57
+[Auction "S"]
+2D =1= Pass 2S =2= Pass 
+Pass Pass 
+[Note "1: multi, wk 2H/S or 23/24"]
+[Note "2: p/c"]
+[Play "E"]
+HK H4 H6 H3 
+C8 CT C7 C5 
+S7 SA S3 S2 
+SJ S4 S8 D7 
+SQ S5 C9 H7 
+HA HT H2 H9 
+D5 D2 DA D4 
+DK D6 D8 DQ 
+SK -  -  -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "7"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:2.Q973.Q743.AQ52 KQJ7.AKJ85.KT5.8 AT9654.T4.62.KJT 83.62.AJ98.97643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "56456564568798687986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,410,37,57,312,57,155,31,21,38,147,162,27,37,462,43,26,57,64,66,21,18,31,76,22,856,216,33,48,20,255,49,98,27,23,20,19,226,351,43,12,17,332,39,10,19,42,26
+[Auction "S"]
+2S =1= Pass Pass 2NT =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: 15 18"]
+[Play "S"]
+S6 S8 S2 S7 
+D6 D8 D4 D5 
+D2 D9 D3 DT 
+SA S3 C2 SQ 
+CJ C3 C5 C8 
+S4 C4 H3 SJ 
+S5 C6 H7 SK 
+H4 H2 H9 HA 
+HT H6 HQ HK 
+S9 -  -  HJ 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "8"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J92.KJ987.KQ7.K4 AKT5.A64.A542.65 7643.T.T98.QJT87 Q8.Q532.J63.A932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "55555555558888788888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  8
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,80,66,65,86,66,60,95,30,37,42,32,24,32,147,17,42,158,41,27,17,15,55,30,22,16,29,33,24,36,113,8,27,44,26,26,14,38,44,15,42,185,19,11,12,22,16,14,25,25,18,33,16,350,25,14,16,9,9,39,22,13,12,6,15
+[Auction "W"]
+Pass 1H X Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S2 S5 S7 S8 
+D7 D2 D8 D3 
+C4 C5 CQ C2 
+CK C6 CJ C3 
+SJ ST S3 SQ 
+DQ D4 D9 D6 
+S9 SK S4 H2 
+H8 SA S6 H3 
+DK DA DT DJ 
+H7 D5 C8 C9 
+H9 HA HT H5 
+HK H4 C7 HQ 
+HJ H6 CT CA 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "8"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J92.KJ987.KQ7.K4 AKT5.A64.A542.65 7643.T.T98.QJT87 Q8.Q532.J63.A932"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "55555555558888788888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  8
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,138,254,115,101,62,84,128,43,61,444,32,8,28,112,32,24,27,20,20,35,30,24,41,118,166,32,96,26,28,45,30,23,8,192,27,18,12,31,88,30,21,20,23,37,36
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+SA S3 S8 S2 
+S5 S4 SQ S9 
+HA HT H2 H7 
+SK S6 C2 SJ 
+ST S7 C3 H8 
+H6 C7 H3 H9 
+C6 C8 C9 CK 
+C5 CT CA C4 
+DA D8 D3 DK 
+D2 D9 D6 D7 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "9"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.AJ8.QT85.T9763 QT62.QT9.KJ962.5 KJ87.7543.74.KQJ A954.K62.A3.A842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "43446434468a9978a997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S 10
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S 10
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,159,110,64,68,70,68,31,27,64,45,22,24,47,197,159,8,34,50,42,14,13,42,17,12,31,63,28,18,16,93,16,11,32,106,71,29,23,28,29,31,13,28,163,26,28,28,27,52,18,14,36,36,14,92,54,29,8,9,36,16,13,9,23,6,16
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+Pass 2C Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * 15 17 [0:15]"]
+[Play "N"]
+CT C5 CJ CA 
+C3 S2 CQ C2 
+D5 D2 D4 DA 
+C6 S6 CK C4 
+D8 DK D7 D3 
+DT D6 H5 S4 
+H8 HQ H3 H2 
+DQ D9 S7 S9 
+C9 ST SJ C8 
+S3 SQ SK SA 
+C7 DJ S8 S5 
+HJ H9 H4 H6 
+HA HT H7 HK 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "9"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.AJ8.QT85.T9763 QT62.QT9.KJ962.5 KJ87.7543.74.KQJ A954.K62.A3.A842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "43446434468a9978a997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S 10
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S 10
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,66,162,128,41,33,355,52,209,292,134,70,42,28,99,37,36,169,32,15,213,28,11,12,9,22,35,21,24,59,57,22,196,29,11,26,79,23,19,31,151,47,27,15,63,55,18,19,44,21,67,31,24,59,36,27,76,28,20,30,37,18,11,22,9,18,9,10
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2C =1= Pass 2D =2= 
+Pass 3H =3= Pass 4S 
+Pass Pass Pass 
+[Note "1: puppet"]
+[Note "2: no 5card mj"]
+[Note "3: 4spades"]
+[Play "N"]
+C9 C5 CJ CA 
+D5 D2 D4 DA 
+D8 DK D7 D3 
+DT D6 H5 S4 
+C3 S2 CQ C2 
+HA H9 H3 HK 
+C6 S6 CK C4 
+DQ D9 H4 S5 
+H8 HQ H7 H6 
+HJ HT S7 H2 
+S3 ST S8 S9 
+C7 DJ SJ SA 
+CT SQ SK C8 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "10"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J9.KT9742.Q942.T AKQ3.AQJ6.AKJ7.6 T87.53.83.AK8743 6542.8.T65.QJ952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3253422423aa8a9aa8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  3
+N  C  4
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 18,0,3,391,175,105,48,67,31,114,38,81,31,241,44,52,35,59,30,35,36,30,17,528,30,16,29,29,21,23,15,28,26,26,30,369,19,14,20,51,18,11,18,65,21,14,15,90,48,14,34,44
+[Auction "E"]
+2D Pass 2H =1= Pass 
+2NT Pass 3C =2= Pass 
+3D Pass 3H =3= Pass 
+4S Pass Pass Pass 
+[Note "1: p/c"]
+[Note "2:  * puppet [0:09]"]
+[Note "3: 4♠"]
+[Play "S"]
+CA C2 CT C6 
+H5 H8 HK HA 
+H3 S2 H2 H6 
+D3 D5 D4 DK 
+S7 S4 S9 SA 
+S8 S5 SJ SK 
+ST S6 H7 SQ 
+D8 DT DQ D7 
+-  -  HT -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "10"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J9.KT9742.Q942.T AKQ3.AQJ6.AKJ7.6 T87.53.83.AK8743 6542.8.T65.QJ952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3253422423aa8a9aa8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  3
+N  C  4
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,475,118,38,33,203,52,241,162,124,40,813,49,159,72,544,30,28,52,132,149,25,28,157,28,21,18,34,22,20,20,22,13,10,18,30,14,10,26,40,56,10,28,91,28,21,30,26,29,11,15,28,20,11,17,24,13,11,25,137,28,14,10,61,26,14,10,16,14,11,17
+[Auction "E"]
+2C =1= Pass 2D Pass 
+2H =2= Pass 2S =3= Pass 
+2NT =4= Pass 3C =5= Pass 
+3D =6= Pass 3NT Pass 
+Pass Pass 
+[Note "1: strong"]
+[Note "2: ask 2 spades"]
+[Note "3: relay"]
+[Note "4: 25+"]
+[Note "5: search for 4card mj"]
+[Note "6: 1 or both majors"]
+[Play "S"]
+C7 CJ CT C6 
+H5 H8 H9 HQ 
+S7 S2 S9 SA 
+S8 S4 SJ SK 
+ST S5 H2 SQ 
+C3 S6 H4 S3 
+D8 D5 D4 DA 
+D3 D6 D2 DK 
+H3 C2 H7 HA 
+C4 DT DQ D7 
+C8 C5 HK H6 
+CK C9 D9 DJ 
+CA CQ HT HJ 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "11"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T85.J65.KQ.A8643 AQ73.T98.J86.J95 J64.AKQ32.T753.T K92.74.A942.KQ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65966659666747767477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  6
+E NT  6
+E  S  7
+E  H  4
+E  D  7
+E  C  7
+W NT  6
+W  S  7
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,129,53,743,100,191,63,164,43,41,41,237,53,55,7,28,26,7,31,78,27,22,18,14,88,25,7,11,24,7,14,12,27,18,12,12,19,13,11,16,21,15,13,9,17,8,37
+[Auction "S"]
+1H Pass 1NT =1= Pass 
+2D =2= Pass 3H Pass 
+Pass Pass 
+[Note "1: forcing"]
+[Note "2: 3+ D"]
+[Play "W"]
+CK CA C5 CT 
+DA DQ D6 D3 
+S2 S5 SA S4 
+H4 H5 HT HQ 
+D2 DK D8 D5 
+C2 C3 C9 H2 
+D4 H6 DJ D7 
+C7 C4 CJ H3 
+D9 HJ S3 DT 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "11"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T85.J65.KQ.A8643 AQ73.T98.J86.J95 J64.AKQ32.T753.T K92.74.A942.KQ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65966659666747767477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  6
+E NT  6
+E  S  7
+E  H  4
+E  D  7
+E  C  7
+W NT  6
+W  S  7
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,1,143,115,75,133,74,149,282,86,571,42,48,180,50,90,121,39,109,22,273,142,19,16,26,29,12,50,24,19,13,22,122,23,10,21,45,34,23,10,187,21,19,15,88,22,47,29
+[Auction "S"]
+Pass 1C Pass 1D =1= 
+1H X 2C =2= Pass 
+2H X Pass 2S 
+Pass Pass 3H Pass 
+Pass Pass 
+[Note "1: no 5card major"]
+[Note "2: good H raise"]
+[Play "W"]
+CK CA C5 CT 
+D4 DK D6 D3 
+DA DQ D8 D5 
+C2 C3 CJ H2 
+D2 H5 DJ D7 
+C7 C4 C9 H3 
+D9 HJ S3 DT 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "12"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJ9.976.QT2.KQ65 Q743.A542.AJ9.98 KT62.KT.8763.J32 85.QJ83.K54.AT74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67477664776696666866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  4
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,76,227,164,89,42,130,168,67,43,43,125,59,33,29,47,28,17,36,27,38,12,15,180,19,72,80,131,32,17,27,20,22,23,14,36,43,16,15,27,46,11,34,13,67,22,12,53,27,31,15,28,12,13,18,32,8,14,13,14,8,10,6
+[Auction "W"]
+Pass 1D =1= Pass 1S 
+X XX =2= 2H Pass 
+Pass Pass 
+[Note "1: 2+D"]
+[Note "2: 3S"]
+[Play "S"]
+D7 D4 DQ DA 
+C2 CA C6 C9 
+C3 C4 CQ C8 
+D8 D5 D2 D9 
+ST S5 S9 S3 
+D6 DK DT DJ 
+CJ C7 C5 H2 
+S2 S8 SJ S4 
+HT CT CK H4 
+S6 HJ SA S7 
+HK H3 H6 HA 
+D3 HQ H7 H5 
+SK H8 H9 SQ 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "12"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJ9.976.QT2.KQ65 Q743.A542.AJ9.98 KT62.KT.8763.J32 85.QJ83.K54.AT74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67477664776696666866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  4
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,198,58,37,80,165,40,258,159,35,1131,87,30,67,54,19,24,95,22,22,19,28,59,26,24,168,733,24,31,73,16,22,45,53,24,25,10,22,23,145,92,210,27,22,14,23,20,28,21,44,20
+[Auction "W"]
+Pass 1NT Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+S4 S2 S8 S9 
+C9 C2 C4 CK 
+C8 CJ CA C5 
+DJ D3 D4 DT 
+H5 HK H3 H6 
+H2 C3 C7 CQ 
+S3 S6 S5 SA 
+S7 SK H8 SJ 
+D9 D6 DK D2 
+H4 ST CT C6 
+-  -  D5 DQ 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "13"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ.A87.J9642.852 AK84.QJ6.KT7.643 T95.T9542.83.KQJ 7632.K3.AQ5.AT97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44644446449978999789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  8
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,0,3,84,78,33,54,56,35,39,35,39,24,32,4,192,22,27,59,40,27,10,17,25,28,32,19,22,5,42,81,21,13,28,67,20,17,14,15,23,13,12,10,172,31,11,73,19,15,6,14,36,14,15,17,16,12,15,6,29,12,13,10,11,10,10
+[Auction "N"]
+Pass 1C Pass 1S 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+D2 D7 D8 DQ 
+SQ SA S5 S2 
+HA H6 H2 HK 
+D4 DT D3 D5 
+SJ SK S9 S3 
+H8 HJ H4 H3 
+H7 HQ H5 C7 
+D6 DK H9 DA 
+C2 C3 CJ CA 
+D9 S4 ST S6 
+C5 C4 CK C9 
+C8 C6 CQ CT 
+DJ S8 HT S7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "13"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ.A87.J9642.852 AK84.QJ6.KT7.643 T95.T9542.83.KQJ 7632.K3.AQ5.AT97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44644446449978999789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D  8
+E  C  9
+W NT  9
+W  S  9
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 18,2,1,140,60,39,146,45,36,38,141,44,21,49,168,158,18,24,165,28,10,15,229,24,23,25,130,25,19,10,29,20,17,18,20,27,21,18,42,25,7,11,50,30,9,21,18,19,19,15,14,20,16,6,11,17,20,9,21
+[Auction "N"]
+Pass 1C Pass 1D =1= 
+Pass 1S Pass 4S 
+Pass Pass Pass 
+[Note "1: no 5card mj"]
+[Play "S"]
+S5 S2 SQ SK 
+S9 S3 SJ SA 
+H2 HK HA H6 
+H4 H3 H8 HQ 
+H5 C7 H7 HJ 
+CJ CA C2 C4 
+D3 DA D2 D7 
+D8 D5 D6 DK 
+ST DQ D4 DT 
+CK C9 C5 C3 
+CQ CT C8 C6 
+H9 -  -  -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "14"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K932.T43.QT52.65 AQJT87.76.A983.4 5.AKQJ82.4.QT932 64.95.KJ76.AKJ87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "53825528257a5a87a5a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  2
+N  C  5
+S NT  5
+S  S  2
+S  H  8
+S  D  2
+S  C  5
+E NT  7
+E  S 10
+E  H  5
+E  D 10
+E  C  8
+W NT  7
+W  S 10
+W  H  5
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,174,331,75,136,208,105,27,41,22,65,42,14,43,18,24,14,15,45,34,28,33,20,11,24,16,19,12,32,18,65,20,10,21,24,15,32,37,20,438,32,31,15,40,28,51,21,30,9,15,10,102,15,15,16,11,21,11,12,8,16
+[Auction "E"]
+1S 2S =1= X Pass 
+4S Pass Pass Pass 
+[Note "1: H&Minor - should be 55 at least"]
+[Play "S"]
+HA H5 H3 H7 
+HK H9 HT H6 
+D4 D6 DT DA 
+S5 S4 S2 SA 
+H2 S6 SK ST 
+H8 C7 H4 S7 
+HJ C8 S3 SQ 
+C2 CJ S9 SJ 
+C3 DK D2 D9 
+C9 CA C6 C4 
+CT CK C5 D3 
+HQ D7 DQ D8 
+CQ DJ D5 S8 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "14"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K932.T43.QT52.65 AQJT87.76.A983.4 5.AKQJ82.4.QT932 64.95.KJ76.AKJ87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "53825528257a5a87a5a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  2
+N  C  5
+S NT  5
+S  S  2
+S  H  8
+S  D  2
+S  C  5
+E NT  7
+E  S 10
+E  H  5
+E  D 10
+E  C  8
+W NT  7
+W  S 10
+W  H  5
+W  D 10
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,64,203,117,54,37,719,35,40,35,112,21,8,23,25,29,16,476,56,23,10,156,19,23,31,234,28,10,19,29,20,64,93,960,102,17,120,22,103,36,34,525,29,10,17,184,32,79,80,13,19,61,25,10,28,4,16,9,15,9,15
+[Auction "E"]
+1S 4H X Pass 
+4S Pass Pass Pass 
+[Play "S"]
+HA H5 H4 H6 
+HK H9 HT H7 
+CT CA C6 C4 
+S5 S4 S2 SQ 
+H8 S6 S3 SA 
+H2 C7 SK SJ 
+HJ C8 H3 S7 
+HQ D6 S9 ST 
+D4 D7 D2 DA 
+C2 CJ D5 S8 
+C3 DK DT D3 
+C9 CK C5 D8 
+CQ DJ DQ D9 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "15"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KT6.95432.96.764 2.AJT8.A53.AJ932 984.K6.QJT874.Q5 AQJ753.Q7.K2.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1124011240ccb9dbbb8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  4
+N  C  0
+S NT  1
+S  S  1
+S  H  2
+S  D  4
+S  C  0
+E NT 12
+E  S 12
+E  H 11
+E  D  9
+E  C 13
+W NT 11
+W  S 11
+W  H 11
+W  D  8
+W  C 13
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 18,0,3,62,55,47,59,162,36,42,94,33,131,30,41,37,38,41,241,85,27,14,22,17,26,37,16,16,21,13,22,33,13,10,17,13,12,8,33,32,22,19,15,31,52,25
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 2S Pass 3H 
+Pass 4C Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+D9 DA D4 D2 
+SK S2 S4 SJ 
+D6 D3 DJ DK 
+S6 C2 S8 SA 
+ST C3 S9 SQ 
+H2 H8 HK HQ 
+H3 D5 DQ S3 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "15"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KT6.95432.96.764 2.AJT8.A53.AJ932 984.K6.QJT874.Q5 AQJ753.Q7.K2.KT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1124011240ccb9dbbb8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  4
+N  C  0
+S NT  1
+S  S  1
+S  H  2
+S  D  4
+S  C  0
+E NT 12
+E  S 12
+E  H 11
+E  D  9
+E  C 13
+W NT 11
+W  S 11
+W  H 11
+W  D  8
+W  C 13
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 25,2,1,376,224,63,183,45,167,52,280,41,18,47,44,493,35,12,27,25,19,22,25,22,42,31,142,27,14,27,438,33,24,41,224,29,23,8,65,24,9,21,10,24,11,61
+[Auction "S"]
+2D =1= X Pass 3D =2= 
+Pass 4S Pass 6C 
+Pass Pass Pass 
+[Note "1: weak 6+ diamonds"]
+[Note "2: Alerted"]
+[Play "S"]
+DQ D2 D9 DA 
+C5 CK C4 C2 
+CQ CT C6 C9 
+D4 DK D6 D3 
+HK HQ H3 H8 
+S4 SA S6 S2 
+H6 H7 H2 HT 
+D7 C8 H4 D5 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "16"]
+[West "Jim Hay#431358"]
+[North "Robert Plumley#33074"]
+[East "Tom Robertson#10081"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AKQ.QJ975.762.AJ J64..KT5.KQT9652 875.K432.AJ83.73 T932.AT86.Q94.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "97985979844544845448"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C  5
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C  4
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  8
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  8
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,0,3,91,137,430,189,45,94,50,41,37,39,34,28,88,19,28,71,82,23,40,174,28,10,19,16,13,10,12,11,16,12,12,90,33,11,15,129,116,126,37,57,74,24,19,28,15,27,23,16,22,19,15,42,32,28,10,15,24,10,21,12,16,8,18
+[Auction "W"]
+Pass 1C =1= 3C X =2= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 5-8"]
+[Play "E"]
+CK C3 C8 CA 
+C6 H2 H6 HJ 
+S4 S5 S3 SA 
+S6 S7 S2 SK 
+SJ S8 S9 SQ 
+CQ C7 C4 CJ 
+CT HK D4 D2 
+C2 H3 H8 H9 
+D5 DA D9 D6 
+C5 H4 HA H5 
+C9 D3 ST H7 
+DT D8 HT HQ 
+DK DJ DQ D7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "16"]
+[West "Rune Hauge#17463"]
+[North "Tim McKay#5211"]
+[East "Erik Sælensminde#411440"]
+[South "derrick peden#2870"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AKQ.QJ975.762.AJ J64..KT5.KQT9652 875.K432.AJ83.73 T932.AT86.Q94.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "97985979844544845448"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C  5
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C  4
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  8
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  8
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,2,1,71,96,46,100,32,41,27,44,115,60,22,27,29,138,16,38,45,52,22,109,326,25,25,92,78,111,29,59,81,30,23,44,395,25,30,19,107,32,9,30,111,33,103,18,36,47,24,69,29,25,22,27,62,64,19,38,29,23,14,11,12,18,22,9
+[Auction "W"]
+Pass 1H 3C 3H 
+Pass 4H Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+CK C3 C8 CA 
+C6 H2 H6 HQ 
+C2 HK HA H5 
+S4 S5 S3 SQ 
+D5 D8 D9 D2 
+CQ C7 C4 CJ 
+SJ S7 S2 SK 
+DT DA D4 D6 
+C5 H3 HT HJ 
+C9 H4 H8 H9 
+S6 D3 DQ H7 
+CT S8 S9 SA 
+DK DJ ST D7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "17"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K74.KT532.AQJ9.J J5.A96.7532.KQ65 AQT.J7.T64.AT843 98632.Q84.K8.972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a9bbaa9bba3421334213"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 11
+N  C 10
+S NT 10
+S  S  9
+S  H 11
+S  D 11
+S  C 10
+E NT  3
+E  S  4
+E  H  2
+E  D  1
+E  C  3
+W NT  3
+W  S  4
+W  H  2
+W  D  1
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,3,1,116,124,199,23,89,80,179,32,182,132,31,35,68,101,93,44,23,163,34,12,24,25,33,11,151,32,28,22,15,30,33,25,258,22,10,12
+[Auction "N"]
+1H Pass 1NT =1= Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: F!"]
+[Play "W"]
+H8 H2 H6 HJ 
+D8 D9 D2 DT 
+DK DA D3 D4 
+S2 S4 S5 SA 
+H4 HT H9 H7 
+HQ H3 HA C3 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "17"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K74.KT532.AQJ9.J J5.A96.7532.KQ65 AQT.J7.T64.AT843 98632.Q84.K8.972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a9bbaa9bba3421334213"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 11
+N  C 10
+S NT 10
+S  S  9
+S  H 11
+S  D 11
+S  C 10
+E NT  3
+E  S  4
+E  H  2
+E  D  1
+E  C  3
+W NT  3
+W  S  4
+W  H  2
+W  D  1
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,2,154,53,253,76,66,41,98,47,172,34,27,27,37,206,19,31,186,71,16,17,17,16,21,9,84,20,20,44,522,132,21,49,21,29,18,14,10,25,22,8,15,39,7,11,8,9,6,65,18,10,8,35
+[Auction "N"]
+1H Pass 1NT =1= Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: F1"]
+[Play "W"]
+S8 S4 SJ SQ 
+D8 D9 D5 DT 
+DK DA D2 D4 
+HQ H2 H6 HJ 
+S9 S7 S5 SA 
+H8 HT HA H7 
+C2 CJ CK CA 
+S2 DJ D3 D6 
+S3 DQ D7 C3 
+H4 HK H9 C4 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "18"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A973.KQ8.J52.Q83 62.632.KQ83.AT74 JT.AJ4.A764.K652 KQ854.T975.T9.J9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88787887775565655656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,3,1,62,50,60,575,51,51,33,31,97,16,140,50,32,12,10,172,41,28,46,34,19,13,34,76,58,28,20,19,24,9,16,20,11,134,15,25
+[Auction "E"]
+Pass 1D 2S 3NT 
+Pass Pass Pass 
+[Play "E"]
+S6 SJ SQ SA 
+S2 ST SK S3 
+DQ DA DT DJ 
+D3 D4 D9 D2 
+CA C2 C9 C3 
+DK D6 S4 D5 
+D8 D7 H7 S7 
+C4 -  -  -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "18"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A973.KQ8.J52.Q83 62.632.KQ83.AT74 JT.AJ4.A764.K652 KQ854.T975.T9.J9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88787887775565655656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  7
+S  C  7
+E NT  5
+E  S  5
+E  H  6
+E  D  5
+E  C  6
+W NT  5
+W  S  5
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,2,86,169,132,69,26,35,29,168,30,74,31,38,44,63,91,55,21,22,43,23,19,20,17,11,57,128,52,431,37,19,35,18,21,32,24,22,7,25,119,26,21,80,18,19,25,18,200,9,15,24,21,80,339,30,21,26,9,18,57,12,20,15,7,19,6
+[Auction "E"]
+Pass 1D =1= Pass 1S 
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 10-16 2+D"]
+[Play "W"]
+H9 H8 H6 HJ 
+SQ SA S2 SJ 
+SK S3 S6 ST 
+H5 HQ H3 HA 
+C9 CQ CA C2 
+H7 HK H2 H4 
+S4 S9 D8 D4 
+CJ C3 C4 CK 
+D9 C8 CT C5 
+S5 S7 C7 C6 
+DT D2 DK DA 
+S8 D5 DQ D6 
+HT DJ D3 D7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "19"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q4.6542.Q963 A652.J63.AJ973.4 9.AK98752.8.AJ72 KJT43.T.KQT.KT85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "31a2831a285b3b35b3b3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H 10
+N  D  2
+N  C  8
+S NT  3
+S  S  1
+S  H 10
+S  D  2
+S  C  8
+E NT  5
+E  S 11
+E  H  3
+E  D 11
+E  C  3
+W NT  5
+W  S 11
+W  H  3
+W  D 11
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,3,1,114,42,138,45,199,88,56,26,50,21,31,326,123,51,40,84,45,148,23,25,21,12,21,25,33,17,12,30,36,25,13,20,24,11,10,10,17,11,13
+[Auction "S"]
+1H 1S Pass 4S 
+5H Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+SJ S7 SA S9 
+CK C3 C4 C2 
+C5 C6 H3 C7 
+DK D2 DA D8 
+DT D4 D3 H8 
+HT HQ H6 H2 
+S3 H4 HJ HA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "19"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q4.6542.Q963 A652.J63.AJ973.4 9.AK98752.8.AJ72 KJT43.T.KQT.KT85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "31a2831a285b3b35b3b3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H 10
+N  D  2
+N  C  8
+S NT  3
+S  S  1
+S  H 10
+S  D  2
+S  C  8
+E NT  5
+E  S 11
+E  H  3
+E  D 11
+E  C  3
+W NT  5
+W  S 11
+W  H  3
+W  D 11
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,0,2,120,51,125,899,232,869,71,34,35,52,161,35,68,21,25,34,56,19,20,23,24,17,20,102,30,17,23,15,12,18,31,21,63,7,18,66,25,10,11,52,25,7,22,81,16,13,11,25,19,17,15,12,23,16,16
+[Auction "S"]
+1H 1S X 3D =1= 
+4H 4S Pass Pass 
+5C X 5H X 
+Pass Pass Pass 
+[Note "1: 4+spades 5+dia"]
+[Play "W"]
+DK D2 D3 D8 
+DQ D4 DA H2 
+HT HQ H3 H5 
+S3 H4 H6 HK 
+S4 D5 HJ HA 
+C5 C3 C4 CA 
+CK C6 S2 CJ 
+SK S7 S5 S9 
+SJ S8 S6 H7 
+C8 C9 D7 C2 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "20"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K96.Q7.A972.Q964 AJ3.AJ85.T6.AT82 QT82.KT6.Q53.753 754.9432.KJ84.KJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "66456664567787777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,3,1,86,108,62,35,232,238,47,64,110,119,27,1025,23,120,35,32,20,26,12,17,25,53,26,29,223,33,18,10,13,22,11,22,29,27,10,12,152,27,18,57,21,31,14,11
+[Auction "W"]
+Pass Pass 1C Pass 
+1D =1= Pass 1H Pass 
+2H Pass Pass Pass 
+[Note "1: no 5card mj"]
+[Play "S"]
+S2 S4 SK SA 
+C3 CK C4 C2 
+HT H2 H7 H8 
+SQ S5 S6 S3 
+S8 S7 S9 SJ 
+H6 H3 HQ HA 
+D3 D4 DA DT 
+C5 CJ C6 CA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "20"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K96.Q7.A972.Q964 AJ3.AJ85.T6.AT82 QT82.KT6.Q53.753 754.9432.KJ84.KJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "66456664567787777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  4
+N  D  5
+N  C  6
+S NT  6
+S  S  6
+S  H  4
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,2,116,96,166,103,34,78,27,519,35,40,38,415,34,20,34,19,18,120,107,18,23,36,21,43,19,32,19,21,132,21,19,53,14,51,204,21,17,33,21,22,23,7,177,26,84,20,86,21,29,13,36,16,27,16,13,7,15,9
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+S2 S4 SK S3 
+S8 S7 S9 SA 
+D3 D4 D7 DT 
+D5 DJ DA D6 
+SQ S5 S6 SJ 
+ST H2 C9 H5 
+H6 H3 HQ HA 
+C3 CK C4 C2 
+DQ DK D2 C8 
+HT H4 H7 H8 
+HK H9 D9 HJ 
+C5 CJ CQ CA 
+C7 D8 C6 CT 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "21"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ54.52.AT64.84 632.AJT987.K9.75 A9.K63.QJ2.JT932 T87.Q4.8753.AKQ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "79587795875484554845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  5
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,3,1,175,108,48,204,71,38,74,72,59,30,44,33,35,61,32,119,22,15,12,19,20,20,16,19,74,10,78,28,20,10,17,26,17,20,114,33,23,32,16,23,13,18,17,20
+[Auction "N"]
+Pass 3H Pass Pass 
+3S Pass Pass 4H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+SA S7 S4 S3 
+S9 S8 SK S6 
+CJ ST SQ S2 
+D2 D3 DA D9 
+DJ D5 D4 DK 
+HK H4 H2 H7 
+DQ D7 D6 H9 
+H3 -  -  HA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "21"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ54.52.AT64.84 632.AJT987.K9.75 A9.K63.QJ2.JT932 T87.Q4.8753.AKQ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "79587795875484554845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  5
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,2,152,235,37,99,54,40,25,51,41,84,24,19,69,37,20,18,21,21,16,22,19,35,17,106,25,6,15,9,16,19,17,16,20,12,10,14,18,771,30,15,19,29,15,21,19
+[Auction "N"]
+Pass 2H =1= Pass Pass 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+SA S7 S4 S3 
+S9 ST SJ S6 
+C3 S8 SK S2 
+D2 D3 DA D9 
+DJ D5 D4 DK 
+C2 CA C8 C5 
+HK HQ H5 H8 
+CJ CK C4 C7 
+-  H4 H2 -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "22"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:84.KJ75.7643.A92 J2.4.AQT8.J87543 A7653.Q8632.5.Q6 KQT9.AT9.KJ92.KT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "3582235822775ba775ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  8
+N  D  2
+N  C  2
+S NT  3
+S  S  5
+S  H  8
+S  D  2
+S  C  2
+E NT  7
+E  S  7
+E  H  5
+E  D 11
+E  C 10
+W NT  7
+W  S  7
+W  H  5
+W  D 11
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,3,1,61,503,128,375,98,180,21,75,188,858,40,56,67,31,36,20,20,99,20,18,18,46,10,12,26,57,10,121,25,117,20,32,22,34,18,11,18,22,11,25
+[Auction "E"]
+Pass 2H =1= 2NT 3H 
+3NT Pass Pass Pass 
+[Note "1: ♠♡at least 54  either way less than opener"]
+[Play "N"]
+H5 H4 HQ HA 
+S8 SJ SA S9 
+HJ D8 H3 HT 
+HK C3 H2 H9 
+H7 C4 H8 CT 
+C2 S2 H6 CK 
+CA C5 C6 D2 
+C9 C7 CQ D9 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "22"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:84.KJ75.7643.A92 J2.4.AQT8.J87543 A7653.Q8632.5.Q6 KQT9.AT9.KJ92.KT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "3582235822775ba775ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  8
+N  D  2
+N  C  2
+S NT  3
+S  S  5
+S  H  8
+S  D  2
+S  C  2
+E NT  7
+E  S  7
+E  H  5
+E  D 11
+E  C 10
+W NT  7
+W  S  7
+W  H  5
+W  D 11
+W  C 10
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,0,2,94,87,155,60,200,55,54,158,232,34,271,42,31,30,30,36,22,350,19,395,40,41,19,7,50,15,27,10,286,29,23,11,63,18,23,30,8,26,29,30,25,35,7,21,94,48,17,155,27,167,17,30,15,25,24,25,13,22,7,19
+[Auction "E"]
+Pass Pass 1D Pass 
+2D X 2NT Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+H5 H4 HQ HA 
+D3 D8 D5 DK 
+D4 DA S6 D2 
+D6 DQ S3 D9 
+S8 SJ SA S9 
+HJ C3 H3 H9 
+HK C4 H2 HT 
+H7 C5 H8 ST 
+D7 S2 H6 DJ 
+CA C7 C6 CT 
+C2 C8 CQ CK 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "23"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ874.9.KT.QJT63 T96.K632.963.842 .AJ875.854.AK975 AQ532.QT4.AQJ72."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "7675b7676c6767167671"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  5
+N  C 11
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C 12
+E NT  6
+E  S  7
+E  H  6
+E  D  7
+E  C  1
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 9,3,1,77,94,102,53,158,44,323,43,440,34,37,78,51,30,121,43,18,87,21,26,62,14,21,22,14,13,17,57,20,99,239,28,15,9,109,29,12,9,21,18,10,11,10,30,11,12,28,17,14,15,10,32,23,38,22,9,23,10,19,15,16,14
+[Auction "S"]
+1H 1S Pass Pass 
+X 2D 2NT Pass 
+Pass Pass 
+[Play "E"]
+D3 D4 DJ DK 
+C4 C5 S2 CQ 
+C2 C7 S3 CJ 
+C8 CA S5 C3 
+ST CK SQ C6 
+H3 C9 D2 CT 
+S6 H5 SA SJ 
+D6 D5 DA DT 
+D9 D8 DQ S4 
+S9 H7 D7 S7 
+HK HA H4 H9 
+H2 H8 HT S8 
+H6 HJ HQ SK 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "23"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ874.9.KT.QJT63 T96.K632.963.842 .AJ875.854.AK975 AQ532.QT4.AQJ72."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "7675b7676c6767167671"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  5
+N  C 11
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C 12
+E NT  6
+E  S  7
+E  H  6
+E  D  7
+E  C  1
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 20,0,2,85,192,297,312,59,318,168,82,33,32,114,143,77,20,16,38,10,15,99,62,17,13,76,19,10,33,234,29,47,20,100,30,15,24,13,29,11,20,12,16,18,20
+[Auction "S"]
+1H 2H =1= X =2= 2S 
+3C Pass 5C Pass 
+Pass Pass 
+[Note "1: Michaels"]
+[Note "2: penalty of one"]
+[Play "W"]
+SA S4 S9 C5 
+D2 C3 C2 CK 
+DA DT D3 D4 
+D7 DK D6 D5 
+S2 SK S6 D8 
+H4 H9 H6 HA 
+HT C6 H3 H5 
+S3 S7 ST C7 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "24"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q8432.T83.AJ2.J7 T65.Q9.Q87654.KQ K.742.K93.T96432 AJ97.AKJ65.T.A85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "432454324599b9799b97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  2
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  2
+S  D  4
+S  C  5
+E NT  9
+E  S  9
+E  H 11
+E  D  9
+E  C  7
+W NT  9
+W  S  9
+W  H 11
+W  D  9
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,3,1,119,69,44,130,38,28,214,48,20,44,78,559,35,26,58,38,17,12,23,11,14,12,29,24,11,27,42,32,11,18
+[Auction "W"]
+1H Pass 1NT Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C9 C5 CJ CK 
+H2 H5 H3 HQ 
+H4 HA H8 H9 
+C2 C8 C7 CQ 
+SK SA S2 S5 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "24"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q8432.T83.AJ2.J7 T65.Q9.Q87654.KQ K.742.K93.T96432 AJ97.AKJ65.T.A85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "432454324599b9799b97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  2
+N  D  4
+N  C  5
+S NT  4
+S  S  3
+S  H  2
+S  D  4
+S  C  5
+E NT  9
+E  S  9
+E  H 11
+E  D  9
+E  C  7
+W NT  9
+W  S  9
+W  H 11
+W  D  9
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,0,2,148,64,224,42,198,36,395,31,26,38,24,169,17,37,399,36,25,7,43,17,24,38,41,23,53,20,34,16,37,14,30,13,23,7,32,115,22,35,48,66,28,7,94,26,22,8,29,36,21,11,36,22,20,21,21,16,16,7,20,11,17,3
+[Auction "W"]
+1H 1S X Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S4 S5 SK SA 
+C7 CK C4 C5 
+CJ CQ C2 C8 
+H3 HQ H2 H5 
+H8 H9 H4 HA 
+HT D4 H7 HK 
+D2 D5 C3 HJ 
+DJ D6 D3 H6 
+S2 S6 C6 CA 
+SQ ST C9 S7 
+S8 D7 CT S9 
+S3 D8 D9 SJ 
+DA DQ DK DT 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "25"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J85.53.A83.T8654 972.AT862.762.K9 AQT4.974.QJT.AJ7 K63.KQJ.K954.Q32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68669686696576465764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  9
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  9
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  4
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,2,84,30,173,52,71,85,162,174,17,24,51,22,13,10,44,31,21,11,29,159,29,14,22,69,38,13,38,28,31,14,113,19,23,10,26,47,19,12,36,30,10,34,26,19,7,20,10,28,6,11,7,17,7,10,7,21,6,10
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+HK H3 H2 H4 
+HQ H5 H6 H7 
+HJ C4 HA H9 
+S3 C5 HT S4 
+D5 C6 H8 ST 
+SK S5 S7 SQ 
+S6 S8 S9 SA 
+DK DA D2 DQ 
+C2 SJ S2 CJ 
+C3 C8 C9 CA 
+D4 D3 D6 DT 
+D9 D8 D7 DJ 
+CQ CT CK C7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "25"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J85.53.A83.T8654 972.AT862.762.K9 AQT4.974.QJT.AJ7 K63.KQJ.K954.Q32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "7"]
+[Score "NS -80"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68669686696576465764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  9
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  9
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  4
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 2,3,1,83,33,208,116,283,54,48,19,120,29,94,17,10,75,29,13,23,17,11,12,10,26,34,14,17,118,49,10,24,5,52,43,10,55,195,57,13,22,26,30,10,12,20,47,10,45,13,28,14
+[Auction "N"]
+Pass Pass 1C =1= X 
+Pass 1H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "S"]
+DQ D4 D3 D6 
+H4 HJ H5 H2 
+H7 HQ H3 H6 
+H9 HK C4 HA 
+CA C2 C5 CK 
+SQ S3 S5 S2 
+DJ D5 D8 D2 
+SA S6 S8 S7 
+S4 SK SJ S9 
+C7 CQ C6 C9 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "26"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T986.T5.A864.QJT K.AK98762.T97.86 AQJ7.Q4.J32.K742 5432.J3.KQ5.A953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "583775837785a5585a55"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  7
+N  C  7
+S NT  5
+S  S  8
+S  H  3
+S  D  7
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  5
+E  C  5
+W NT  8
+W  S  5
+W  H 10
+W  D  5
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,3,1,74,45,163,83,63,162,31,106,22,38,28,130,16,23,20,29,31,36,35,28,22,23,27,36,11,15
+[Auction "E"]
+1H X Pass 1S 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+D2 DQ DA D7 
+DJ DK D6 DT 
+H4 H3 H5 HA 
+HQ HJ HT HK 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "26"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T986.T5.A864.QJT K.AK98762.T97.86 AQJ7.Q4.J32.K742 5432.J3.KQ5.A953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "583775837785a5585a55"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  7
+N  C  7
+S NT  5
+S  S  8
+S  H  3
+S  D  7
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  5
+E  C  5
+W NT  8
+W  S  5
+W  H 10
+W  D  5
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 7,0,2,865,42,213,163,50,33,30,87,86,145,34,13,31,23,16,19,15,18,19,16,94,19,12,26,63,31,19,21,16,19,8,13,94,20,202,21,35
+[Auction "E"]
+1H X 1S X 
+2H Pass Pass Pass 
+[Play "S"]
+C4 CA CT C6 
+H4 H3 H5 HA 
+HQ HJ HT HK 
+D2 DK D6 D7 
+SA S2 S8 SK 
+SQ S3 S6 H2 
+D3 DQ DA D9 
+-  -  ST -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "27"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:JT962.T6.J4.KQ42 KQ83.A98.K986.A5 54.QJ4.AQ7532.T7 A7.K7532.T.J9863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "452644526498a7998a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  2
+S  D  6
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  9
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,3,1,99,154,72,39,40,201,49,28,181,26,23,16,26,56,18,44,36,27,9,376,39,18,21,21,26,12,24,31
+[Auction "S"]
+3D Pass Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+HQ H2 H6 HA 
+H4 H3 HT H9 
+DA DT DJ DK 
+D2 C3 D4 D6 
+DQ C6 C2 D8 
+CT -  -  -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "27"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:JT962.T6.J4.KQ42 KQ83.A98.K986.A5 54.QJ4.AQ7532.T7 A7.K7532.T.J9863"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "452644526498a7998a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  2
+S  D  6
+S  C  4
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  9
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,2,66,60,62,91,80,328,56,391,34,28,38,39,305,22,23,49,50,34,33,355,30,44,32,28,21,25,19,391,31,43,31,194,50,21,7,19,39,11,25,47,42,25,117,19,31,19,29
+[Auction "S"]
+Pass Pass 1S 1NT 
+2D 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DJ DK DA DT 
+CQ CA CT CJ 
+H6 H8 HJ HK 
+HT HA H4 H2 
+D4 D9 DQ H3 
+CK C5 C7 C9 
+SJ S3 S5 SA 
+C2 D6 HQ C8 
+S9 SK S4 S7 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "28"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J72.AT4.T765.642 T8.J953.AK9832.8 Q943.Q82.J.K9753 AK65.K76.Q4.AQJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "2321523215b9ab8b9ab8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  3
+S  H  2
+S  D  1
+S  C  5
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  8
+W NT 11
+W  S  9
+W  H 10
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,3,1,433,102,180,69,51,49,679,38,85,208,29,22,145,28,33,44,69,44,97,16,84,31,11,26,138,24,14,11,15,24,21,29,86,122,40,24,83,50,22,10,32,28,9,11,14,20,13,177,25,29,27,32,20,12,11,29,10,12,9,9
+[Auction "W"]
+2D =1= Pass 3S =2= Pass 
+3NT Pass Pass Pass 
+[Note "1: 18-19 balanced, no 5card mj"]
+[Note "2: 4hearts"]
+[Play "N"]
+D7 D8 DJ DQ 
+D6 DK H8 D4 
+D5 DA C7 H6 
+C2 C8 C3 CQ 
+C4 D2 C5 CA 
+C6 D3 CK CJ 
+S2 S8 S3 SA 
+H4 D9 C9 CT 
+S7 ST S4 SK 
+SJ H3 S9 S6 
+DT H5 H2 S5 
+HT H9 HQ HK 
+HA HJ SQ H7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "28"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J72.AT4.T765.642 T8.J953.AK9832.8 Q943.Q82.J.K9753 AK65.K76.Q4.AQJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "2321523215b9ab8b9ab8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  3
+S  H  2
+S  D  1
+S  C  5
+E NT 11
+E  S  9
+E  H 10
+E  D 11
+E  C  8
+W NT 11
+W  S  9
+W  H 10
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,2,153,46,54,38,38,43,182,32,262,42,28,61,34,45,219,145,27,38,266,45,25,19,27,33,26,15,21,45,54,34,52,30,23,17,32,18,24,16,33,26,20,12,50,15,107,18,46,21,93,18,26,14,85,28,77,25,17,84,15,19,31,21,11,22,6,24
+[Auction "W"]
+1C Pass 1H Pass 
+2NT Pass 3D Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S7 ST SQ SA 
+C2 C8 C3 CA 
+C4 H3 CK CQ 
+SJ S8 S3 SK 
+C6 H5 C5 CJ 
+H4 H9 C7 CT 
+D5 D2 DJ DQ 
+D6 DA H2 D4 
+D7 DK H8 S5 
+HA HJ HQ HK 
+DT D3 S4 S6 
+HT D8 S9 H6 
+S2 D9 C9 H7 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "29"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJT8.A87.AK93.Q 974.93.Q87.KJ854 A6532.KT54.J654. .QJ62.T2.AT97632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "6caa46cab44132941329"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H 10
+N  D 10
+N  C  4
+S NT  6
+S  S 12
+S  H 10
+S  D 11
+S  C  4
+E NT  4
+E  S  1
+E  H  3
+E  D  2
+E  C  9
+W NT  4
+W  S  1
+W  H  3
+W  D  2
+W  C  9
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 20,3,1,123,40,116,103,190,40,77,20,32,120,22,21,27,31,10,9,38,24,10,12,15,17,9,11,71
+[Auction "N"]
+1S Pass 4S 5C 
+X Pass Pass Pass 
+[Play "N"]
+DK D7 D6 DT 
+DA D8 D4 D2 
+HA H3 H4 H6 
+H7 H9 HK H2 
+-  -  SA -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "29"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJT8.A87.AK93.Q 974.93.Q87.KJ854 A6532.KT54.J654. .QJ62.T2.AT97632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "6caa46cab44132941329"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H 10
+N  D 10
+N  C  4
+S NT  6
+S  S 12
+S  H 10
+S  D 11
+S  C  4
+E NT  4
+E  S  1
+E  H  3
+E  D  2
+E  C  9
+W NT  4
+W  S  1
+W  H  3
+W  D  2
+W  C  9
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 18,0,2,300,29,266,76,384,66,271,123,133,56,85,120,68,248,51,23,46,52,14,12,120,19,10,20,14,15,14,24,27,23,11,24,14,15,12,19,33,19,18,79,36,29,24,21,26,20,13,26
+[Auction "N"]
+1C =1= Pass 1H =2= Pass 
+1S =3= Pass 2C =4= X =5= 
+4S Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 8+ pts, 5+ spades"]
+[Note "3: asking controls where A=2 K=1"]
+[Note "4: 3 controls, K=1, A=2"]
+[Note "5:  * clubs [0:11]"]
+[Play "E"]
+C4 S2 C2 CQ 
+S4 S3 C3 SK 
+S7 S5 C6 SQ 
+S9 S6 C7 SJ 
+D7 D4 D2 DA 
+D8 D5 DT DK 
+DQ D6 C9 D3 
+H9 HT HJ HA 
+H3 H4 HQ H8 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "30"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T642.98.T753.AT8 AQJ85.742.A.KJ97 K.AKQ63.QJ82.Q64 973.JT5.K964.532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75996759966744767447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  9
+N  C  6
+S NT  7
+S  S  5
+S  H  9
+S  D  9
+S  C  6
+E NT  6
+E  S  7
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,3,1,76,66,45,96,33,58,40,81,83,42,19,50,46,34,16,95,17,11,23,34,19,126,15,149,48,9,24,31,33,17,25,113,27,18,12,90,13,29,14,80,28,16,14,53,21,33,20,39,32,22,14,21,24,20,11,22,31,15,22,17,11,13,8
+[Auction "E"]
+1S X 2S Pass 
+Pass X Pass 3D 
+Pass Pass Pass 
+[Play "E"]
+H2 HA HJ H9 
+DA DJ D4 D3 
+SA SK S9 S2 
+H4 HQ H5 H8 
+S5 D2 D6 DT 
+S8 D8 S3 S4 
+H7 H3 HT D5 
+SJ DQ S7 S6 
+C7 HK D9 ST 
+C9 C4 C5 CA 
+CK C6 C3 C8 
+SQ H6 C2 D7 
+CJ CQ DK CT 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "30"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T642.98.T753.AT8 AQJ85.742.A.KJ97 K.AKQ63.QJ82.Q64 973.JT5.K964.532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75996759966744767447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  9
+N  C  6
+S NT  7
+S  S  5
+S  H  9
+S  D  9
+S  C  6
+E NT  6
+E  S  7
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,0,2,159,58,32,103,41,194,82,104,33,45,40,22,18,379,20,27,7,16,139,489,22,18,35,30,18,34,39,8,10,13,27,6,11,8,23,96,13,286,25,7,14,25,22,16,26,13,23,9,13,73,18,7,23,30,25,18,15,10,19,6,10
+[Auction "E"]
+1S X Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "W"]
+S3 S2 SA SK 
+S7 S4 S5 H3 
+DK D3 DA DQ 
+S9 S6 SQ H6 
+H5 H8 H2 HA 
+HT H9 H4 HK 
+HJ C8 H7 HQ 
+D4 D5 S8 DJ 
+D6 D7 C7 D8 
+D9 DT C9 D2 
+C2 ST SJ C4 
+C3 CT CJ CQ 
+C5 CA CK C6 
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "31"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT62.KJT5.QT.J42 K5.A86.A632.KQ96 J9874.943.K7.875 A3.Q72.J9854.AT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2652226522978aab78bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  5
+N  D  2
+N  C  2
+S NT  2
+S  S  6
+S  H  5
+S  D  2
+S  C  2
+E NT  9
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT 11
+W  S  7
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,3,1,86,101,88,159,155,29,81,37,30,71,39,161,174,40,79,54,24,63,50,21,14,9,14,24,18,23,32,39,20,43,21,25,43,17,16,12,39,30,30,51,12,22,19,13,10
+[Auction "S"]
+Pass 1D Pass 2C 
+Pass 2D Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HJ H6 H3 HQ 
+DT DA D7 D4 
+DQ D2 DK D8 
+H5 HA H9 H7 
+C2 D6 H4 D9 
+C4 D3 C8 DJ 
+S2 H8 C7 D5 
+CJ C6 C5 CA 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "31"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT62.KJT5.QT.J42 K5.A86.A632.KQ96 J9874.943.K7.875 A3.Q72.J9854.AT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2652226522978aab78bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  5
+N  D  2
+N  C  2
+S NT  2
+S  S  6
+S  H  5
+S  D  2
+S  C  2
+E NT  9
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT 11
+W  S  7
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,2,52,174,67,38,45,22,47,243,79,13,41,40,66,24,17,18,24,20,17,21,34,27,28,44,67,30,98
+[Auction "S"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+HJ H6 H4 HQ 
+DT DA D7 D4 
+DQ D2 DK D5 
+H5 HA H9 H2 
+CJ D6 C7 DJ 
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "32"]
+[West "Rune Hauge#17463"]
+[North "Tom Robertson#10081"]
+[East "Erik Sælensminde#411440"]
+[South "Jim Hay#431358"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J87.A.KJT93.K975 653.Q852.A6.J862 9.KJT7643.82.AQ3 AKQT42.9.Q754.T4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "65a8865a887834478344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H 10
+N  D  8
+N  C  8
+S NT  6
+S  S  5
+S  H 10
+S  D  8
+S  C  8
+E NT  7
+E  S  8
+E  H  3
+E  D  4
+E  C  4
+W NT  7
+W  S  8
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 21,3,1,68,128,47,73,60,348,53,195,73,48,92,34,82,30,21,36,35,26,19,11,21,13,70,60,38,21,21,135,62,20,14,9,17,9,26,16,16,27,15,53,22,24,15,28,31,41,11,15,12
+[Auction "W"]
+1S 2D 2S 4H 
+4S 5C X 5D 
+Pass Pass Pass 
+[Play "E"]
+S3 S9 SQ S7 
+DA D2 D4 D3 
+D6 D8 D5 D9 
+S5 H3 D7 DK 
+H5 H4 DQ DJ 
+S6 H6 SA S8 
+H2 H7 SK SJ 
+H8 HT H9 HA 
+C2 CA C4 C5 
+-  CQ CT -  
+*
+
+[Event "26 Sep Plumley vs McKay"]
+[Site "RealBridge"]
+[Date "2024.09.26"]
+[Board "32"]
+[West "Tim McKay#5211"]
+[North "Robert Plumley#33074"]
+[East "derrick peden#2870"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J87.A.KJT93.K975 653.Q852.A6.J862 9.KJT7643.82.AQ3 AKQT42.9.Q754.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McKay team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "65a8865a887834478344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H 10
+N  D  8
+N  C  8
+S NT  6
+S  S  5
+S  H 10
+S  D  8
+S  C  8
+E NT  7
+E  S  8
+E  H  3
+E  D  4
+E  C  4
+W NT  7
+W  S  8
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 13,0,2,112,397,161,248,183,75,41,33,47,61,23,24,19,57,16,23,16,32,38,24,31,42,17,30,63,33,25,17,24,17,29,8,576,30,22,15,24,21,22,17,116,14,122,25,13,24,7,26,22,18,16,6,24,14,20,6,20,12,20,6
+[Auction "W"]
+1S 2C =1= 2S 3H 
+3S Pass Pass Pass 
+[Note "1: 4/4+ C&D 6+hcps"]
+[Play "N"]
+HA H2 H3 H9 
+C5 C2 CA C4 
+CK C6 C3 CT 
+C9 CJ CQ S2 
+S7 S3 S9 SA 
+S8 S6 H4 SK 
+D9 DA D8 D4 
+C7 C8 H6 D5 
+DK D6 D2 DQ 
+SJ S5 H7 SQ 
+D3 H5 HT ST 
+DT H8 HJ S4 
+DJ HQ HK D7 

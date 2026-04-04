@@ -1,0 +1,1757 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "1"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K976.T953.9872.K QT542.AJ72.K5.T7 J3.84.Q63.AJ8632 A8.KQ6.AJT4.Q954"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2222522225baaa8baaa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 11
+E  S 10
+E  H 10
+E  D 10
+E  C  8
+W NT 11
+W  S 10
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 3H 
+Pass Pass Pass 
+[Play "S"]
+D3 D4 D9 DK 
+H4 HK H3 H2 
+H8 H6 H5 HA 
+C2 HQ H9 H7 
+S3 SA S6 S2 
+SJ S8 SK S4 
+C3 DT HT HJ 
+C6 C4 S7 SQ 
+C8 C5 S9 ST 
+D6 C9 D2 S5 
+DQ DA D7 D5 
+CJ CQ CK C7 
+CA DJ D8 CT 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "1"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K976.T953.9872.K QT542.AJ72.K5.T7 J3.84.Q63.AJ8632 A8.KQ6.AJT4.Q954"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2222522225baaa8baaa8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 11
+E  S 10
+E  H 10
+E  D 10
+E  C  8
+W NT 11
+W  S 10
+W  H 10
+W  D 10
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2C 
+Pass 2H Pass 2NT 
+Pass Pass Pass 
+[Play "N"]
+HT H2 H4 HQ 
+H3 H7 H8 HK 
+H5 HA S3 H6 
+H9 HJ C2 C4 
+S6 ST SJ SA 
+SK S2 C3 S8 
+D2 D5 D6 DT 
+D7 DK D3 D4 
+CK CT CJ C5 
+D8 S4 DQ DA 
+D9 C7 C6 DJ 
+S7 S5 CA CQ 
+S9 SQ C8 C9 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "2"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.KQ87.AQ5.953 T5.2.KJ9862.AQ42 A9762.A953.T4.J8 Q43.JT64.73.KT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "9aa449aa443339843398"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  4
+N  C  4
+S NT  9
+S  S 10
+S  H 10
+S  D  4
+S  C  4
+E NT  3
+E  S  3
+E  H  3
+E  D  9
+E  C  8
+W NT  4
+W  S  3
+W  H  3
+W  D  9
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "E"]
+1D Pass Pass 1NT 
+2C 2NT 3C Pass 
+3D Pass Pass Pass 
+[Play "S"]
+CJ C6 C3 CQ 
+H3 HJ HQ H2 
+C8 CK C5 C2 
+D4 D3 D5 DK 
+DT D7 DQ DJ 
+S2 C7 C9 CA 
+S6 S3 DA D9 
+SA S4 S8 S5 
+S7 SQ SK ST 
+S9 CT SJ D2 
+H5 H4 H7 D8 
+H9 H6 H8 D6 
+HA HT HK C4 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "2"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KJ8.KQ87.AQ5.953 T5.2.KJ9862.AQ42 A9762.A953.T4.J8 Q43.JT64.73.KT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "9aa449aa443339843398"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 10
+N  D  4
+N  C  4
+S NT  9
+S  S 10
+S  H 10
+S  D  4
+S  C  4
+E NT  3
+E  S  3
+E  H  3
+E  D  9
+E  C  8
+W NT  4
+W  S  3
+W  H  3
+W  D  9
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+[Auction "E"]
+2D Pass Pass Pass 
+[Play "S"]
+C8 CT C3 C2 
+D4 D7 DQ D2 
+H3 H4 HK H2 
+H5 H6 HQ D6 
+CJ CK C5 C4 
+DT D3 DA D8 
+S2 SQ S8 S5 
+H9 HT H7 D9 
+S6 S3 D5 DK 
+S7 C6 C9 CQ 
+S9 C7 H8 CA 
+HA S4 SJ DJ 
+SA HJ SK ST 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "3"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q.8.QJT964.AJ874 AK7654.QT7.AK.Q6 J2.6543.7532.K52 T983.AKJ92.8.T93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "13"]
+[Score "NS -260"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "00097000978bb448bb44"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  9
+N  C  7
+S NT  0
+S  S  0
+S  H  0
+S  D  9
+S  C  7
+E NT  8
+E  S 11
+E  H 11
+E  D  4
+E  C  4
+W NT  8
+W  S 11
+W  H 11
+W  D  4
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 2D 3S 
+Pass Pass Pass 
+[Play "S"]
+D7 D8 DQ DK 
+S2 S3 SQ SA 
+SJ S8 D4 SK 
+D2 C3 D6 DA 
+H3 H2 H8 HQ 
+H4 HA D9 H7 
+H5 HK C4 HT 
+H6 HJ C7 C6 
+C2 H9 C8 CQ 
+*
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "3"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q.8.QJT964.AJ874 AK7654.QT7.AK.Q6 J2.6543.7532.K52 T983.AKJ92.8.T93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -710"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "00097000978bb448bb44"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  9
+N  C  7
+S NT  0
+S  S  0
+S  H  0
+S  D  9
+S  C  7
+E NT  8
+E  S 11
+E  H 11
+E  D  4
+E  C  4
+W NT  8
+W  S 11
+W  H 11
+W  D  4
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "S"]
+Pass Pass 2D 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+D2 D8 D9 DK 
+S2 S3 SQ SA 
+SJ S8 C4 SK 
+D3 C3 D4 DA 
+H3 HJ H8 H7 
+H4 H2 C7 HQ 
+H5 HK D6 HT 
+H6 H9 DT C6 
+D5 HA C8 CQ 
+*
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "4"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9.QT.K7632.AJT83 Q87632.AKJ7..542 A.9842.AQ84.KQ76 KJT54.653.JT95.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "926aa926aa4b7334b733"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  2
+N  H  6
+N  D 10
+N  C 10
+S NT  9
+S  S  2
+S  H  6
+S  D 10
+S  C 10
+E NT  4
+E  S 11
+E  H  7
+E  D  3
+E  C  3
+W NT  4
+W  S 11
+W  H  7
+W  D  3
+W  C  3
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass 1S X 
+Pass 2C Pass 3C 
+Pass Pass Pass 
+[Play "E"]
+HA H2 H3 HT 
+HK H4 H5 HQ 
+S2 SA S4 S9 
+C2 CK C9 C3 
+C4 C6 D5 CJ 
+C5 C7 H6 CA 
+H7 D4 D9 DK 
+HJ DA DT D2 
+S3 DQ DJ D3 
+S6 D8 S5 D6 
+S7 H8 ST C8 
+S8 CQ SJ D7 
+SQ H9 SK CT 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "4"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:9.QT.K7632.AJT83 Q87632.AKJ7..542 A.9842.AQ84.KQ76 KJT54.653.JT95.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "926aa926aa4b7334b733"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  2
+N  H  6
+N  D 10
+N  C 10
+S NT  9
+S  S  2
+S  H  6
+S  D 10
+S  C 10
+E NT  4
+E  S 11
+E  H  7
+E  D  3
+E  C  3
+W NT  4
+W  S 11
+W  H  7
+W  D  3
+W  C  3
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 1C 
+1S 3C 3S 5C 
+Pass Pass Pass 
+[Play "W"]
+DJ D2 C5 D4 
+C9 CT C4 C6 
+S4 S9 S2 SA 
+S5 C3 C2 CK 
+ST C8 S3 CQ 
+D5 D3 S6 DA 
+D9 DK S7 D8 
+DT D6 S8 DQ 
+H3 HQ HK H2 
+H5 HT HJ H4 
+SK D7 SQ C7 
+H6 CJ H7 H8 
+SJ CA HA H9 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "5"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T972.JT63.J6.Q97 865.A875.84.JT42 Q4.K92.AKT.AK863 AKJ3.Q4.Q97532.5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "87858878595657446574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  5
+E  D  7
+E  C  4
+W NT  4
+W  S  6
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1C 1D 
+Pass Pass 2C Pass 
+Pass Pass 
+[Play "W"]
+SA S2 S5 S4 
+SK S7 S6 SQ 
+SJ S9 S8 C3 
+C5 CQ C2 C6 
+D2 C7 C4 CA 
+D3 D6 D4 DA 
+D5 DJ D8 DK 
+D9 C9 CT DT 
+H4 H3 HA H2 
+HQ H6 H5 HK 
+S3 ST CJ CK 
+D7 HJ H7 H9 
+DQ HT H8 C8 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "5"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T972.JT63.J6.Q97 865.A875.84.JT42 Q4.K92.AKT.AK863 AKJ3.Q4.Q97532.5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "87858878595657446574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  8
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  5
+E  D  7
+E  C  4
+W NT  4
+W  S  6
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1C 1D 
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "W"]
+SA S2 S5 S4 
+SK S7 S6 SQ 
+SJ S9 S8 H2 
+H4 H3 HA H9 
+D2 D6 D4 DA 
+C5 C7 C2 CA 
+S3 C9 C4 CK 
+D3 CQ CT C3 
+HQ H6 H7 HK 
+D5 DJ D8 DK 
+DQ HT H5 DT 
+D9 ST H8 C6 
+D7 HJ CJ C8 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "6"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J832.Q6.87.KQT64 74.J942.A542.753 AKQT.AT853.J963. 965.K7.KQT.AJ982"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "79776897765456654566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 1NT 2C 
+Pass 2D Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+DK D7 D2 D3 
+DQ D8 D4 D6 
+DT H6 D5 D9 
+HK HQ H2 H3 
+CA C4 C3 H5 
+S5 S2 S4 SA 
+S6 SJ S7 ST 
+C2 CK C5 DJ 
+C8 CQ C7 SQ 
+C9 CT DA H8 
+H7 S3 H4 HA 
+S9 S8 H9 SK 
+CJ C6 HJ HT 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "6"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J832.Q6.87.KQT64 74.J942.A542.753 AKQT.AT853.J963. 965.K7.KQT.AJ982"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "79776897765456654566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H  7
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 2C 2S 
+Pass 3S Pass Pass 
+Pass 
+[Play "E"]
+C3 ST C2 C4 
+S4 SQ S5 S2 
+S7 SK S6 S3 
+H2 SA S9 S8 
+H4 H3 HK H6 
+C5 D3 CA C6 
+C7 D6 C9 CQ 
+D2 D9 C8 CK 
+D4 DJ CJ CT 
+DA H5 DT D7 
+D5 H8 DQ D8 
+H9 HT DK SJ 
+HJ HA H7 HQ 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "7"]
+[West "Paula McTaggart#52641"]
+[North "Anne Smith#44229"]
+[East "Gary Swift#47824"]
+[South "Pip Duncan#47856"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T.JT987.AQ3.Q983 J8765.2.J654.762 K43.63.K972.AKT5 AQ92.AKQ54.T8.J4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "5"]
+[Score "NS 300"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "5468a9489a4954349543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  8
+N  C 10
+S NT  9
+S  S  4
+S  H  8
+S  D  9
+S  C 10
+E NT  4
+E  S  9
+E  H  5
+E  D  4
+E  C  3
+W NT  4
+W  S  9
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+[Auction "S"]
+1NT 2H Pass Pass 
+Pass 
+[Play "N"]
+C3 C2 CA C4 
+C8 C6 CK CJ 
+DQ D4 D2 DT 
+CQ C7 C5 H4 
+ST SJ SK S2 
+H7 S5 S3 SQ 
+C9 D5 CT H5 
+H8 H2 H3 HA 
+H9 S6 S4 SA 
+D3 DJ DK D8 
+DA D6 D9 HQ 
+HT S7 H6 HK 
+HJ S8 D7 S9 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "7"]
+[West "Paul Wedge#52640"]
+[North "Lee Merlini#51581"]
+[East "Luci Falconer#52722"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T.JT987.AQ3.Q983 J8765.2.J654.762 K43.63.K972.AKT5 AQ92.AKQ54.T8.J4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "5468a9489a4954349543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  8
+N  C 10
+S NT  9
+S  S  4
+S  H  8
+S  D  9
+S  C 10
+E NT  4
+E  S  9
+E  H  5
+E  D  4
+E  C  3
+W NT  4
+W  S  9
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+[Auction "S"]
+1C 1H 2C Pass 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+C3 C7 CA C4 
+C8 C2 CK CJ 
+DQ D4 D2 DT 
+DA D5 D7 D8 
+D3 D6 DK S2 
+ST S5 SK SQ 
+H7 H2 H3 HQ 
+C9 SJ S3 S9 
+H8 S6 S4 SA 
+H9 C6 H6 HA 
+HT DJ C5 HK 
+HJ S7 CT H4 
+CQ S8 D9 H5 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "8"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K9642.A8.965.KQJ AQ.65.KJT73.9863 T53.QT.A842.A542 J87.KJ97432.Q.T7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67467774675597555975"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  4
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  9
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  9
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+3H Pass Pass Pass 
+[Play "N"]
+CK C3 C2 C7 
+CQ C6 C4 CT 
+CJ C8 C5 H2 
+S2 SQ S3 S7 
+S4 SA S5 S8 
+H8 C9 CA H3 
+HA H5 HT H4 
+D5 D3 DA DQ 
+D6 D7 D2 SJ 
+S6 H6 HQ HK 
+S9 DT D4 HJ 
+D9 DJ D8 H9 
+SK DK ST H7 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "8"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K9642.A8.965.KQJ AQ.65.KJT73.9863 T53.QT.A842.A542 J87.KJ97432.Q.T7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67467774675597555975"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  4
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  9
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  9
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S 2D 2NT 
+Pass 3S Pass Pass 
+Pass 
+[Play "E"]
+D7 D8 DQ D5 
+C3 C2 C7 CK 
+C6 CA CT CJ 
+SQ ST S7 S2 
+DT DA S8 D6 
+H5 HT HK HA 
+SA S3 SJ SK 
+C8 C4 H2 CQ 
+H6 HQ H3 H8 
+C9 C5 H4 S4 
+D3 S5 H7 S9 
+DJ D2 H9 S6 
+DK D4 HJ D9 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "9"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:75.AK5.T985.AKJ7 642.QT.AKJ7632.5 AT9.J7642.4.T432 KQJ83.983.Q.Q986"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS 300"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "96a4a96a4a3738337383"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  4
+N  C 10
+S NT  9
+S  S  6
+S  H 10
+S  D  4
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  8
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "N"]
+1C 3D Pass 4D 
+Pass 5D Pass Pass 
+Pass 
+[Play "S"]
+C2 CQ CK C5 
+C3 C6 CA D2 
+D4 DQ D5 D3 
+C4 C8 CJ D6 
+H2 H3 D9 DA 
+S9 H8 DT DK 
+SA S3 S5 S2 
+HJ H9 HA HQ 
+H4 S8 HK HT 
+H6 C9 H5 D7 
+ST SK S7 S4 
+H7 SQ D8 S6 
+CT SJ C7 DJ 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "9"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:75.AK5.T985.AKJ7 642.QT.AKJ7632.5 AT9.J7642.4.T432 KQJ83.983.Q.Q986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "96a4a96a4a3738337383"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  4
+N  C 10
+S NT  9
+S  S  6
+S  H 10
+S  D  4
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  8
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  8
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "N"]
+1D Pass Pass 1S 
+2C 2S Pass Pass 
+Pass 
+[Play "N"]
+CA C5 C2 C6 
+HK HT H2 H3 
+HA HQ H4 H8 
+H5 S6 H6 H9 
+S5 S2 S9 SJ 
+S7 S4 SA SK 
+D5 D2 H7 S8 
+D8 D3 ST SQ 
+D9 DA D4 DQ 
+DT DK C3 C8 
+C7 DJ C4 C9 
+CJ D7 CT CQ 
+CK D6 HJ S3 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "10"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A76.AQT54.Q92.J9 .J8.JT863.AKQ762 J85432.3.A75.T83 KQT9.K9762.K4.54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "57644576448678986789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  7
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  6
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  6
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 2S Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HA H8 H3 H2 
+HQ HJ C3 HK 
+C9 CA C8 C4 
+CJ CK CT C5 
+H4 CQ S2 H6 
+D2 C7 D5 S9 
+D9 C6 D7 H7 
+H5 C2 S3 H9 
+DQ DJ DA D4 
+SA D3 S4 SQ 
+S6 D6 S8 SK 
+S7 D8 S5 DK 
+HT DT SJ ST 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "10"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A76.AQT54.Q92.J9 .J8.JT863.AKQ762 J85432.3.A75.T83 KQT9.K9762.K4.54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -300"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "57644576448678986789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  7
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  6
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  6
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+[Auction "E"]
+1C Pass 1NT X 
+2D 2S 3D 3H 
+4D Pass Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+D4 D9 DT D5 
+DK D2 D3 DA 
+S9 S6 D6 SJ 
+ST SA C2 S2 
+SQ S7 C6 S3 
+C4 C9 CQ C3 
+C5 CJ CA C8 
+H2 H4 CK CT 
+H6 H5 C7 S4 
+H9 HA H8 H3 
+SK DQ D8 D7 
+HK HT HJ S5 
+H7 HQ DJ S8 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "11"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:82.KJ874.97.KT96 AJ43.Q52.KT532.2 KT76.T.AQJ84.Q53 Q95.A963.6.AJ874"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 150"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "75767757675866657676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  8
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+[Auction "S"]
+1D 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+D9 DT DJ D6 
+CK C2 C3 CJ 
+CT D2 CQ C4 
+D7 D5 DA C7 
+C6 H2 C5 CA 
+S2 SJ SK S5 
+HK H5 HT H3 
+C9 D3 D4 C8 
+S8 SA S6 S9 
+H4 DK D8 H6 
+H7 HQ S7 H9 
+H8 S3 ST SQ 
+HJ S4 DQ HA 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "11"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:82.KJ874.97.KT96 AJ43.Q52.KT532.2 KT76.T.AQJ84.Q53 Q95.A963.6.AJ874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "75767757675866657676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  8
+E  H  6
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass 1NT Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+C2 C3 CJ CK 
+D2 DQ D6 D7 
+D3 DA H3 D9 
+SA S6 S5 S2 
+D5 D4 H6 H7 
+S3 SK S9 S8 
+DT D8 C4 H4 
+H2 C5 C7 C6 
+SJ S7 SQ H8 
+H5 CQ C8 C9 
+DK DJ CA HJ 
+HQ ST H9 CT 
+S4 HT HA HK 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "12"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:876.K85.QT.T8532 AK943.T632.6.J74 QJ.Q7.AK754.AK96 T52.AJ94.J9832.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1D"]
+[Result "7"]
+[Score "NS 70"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "74489744894895348953"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D  8
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  8
+S  C  9
+E NT  4
+E  S  8
+E  H  9
+E  D  5
+E  C  3
+W NT  4
+W  S  8
+W  H  9
+W  D  5
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass Pass Pass 
+[Play "W"]
+HA H5 H2 H7 
+H4 H8 HT HQ 
+CQ C2 C4 C9 
+H9 HK H3 C6 
+D2 DT D6 DK 
+D3 DQ H6 D4 
+D8 C3 C7 CK 
+S2 S6 SK SJ 
+S5 S7 SA SQ 
+D9 C5 CJ CA 
+DJ C8 S3 DA 
+HJ S8 S4 D7 
+ST CT S9 D5 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "12"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:876.K85.QT.T8532 AK943.T632.6.J74 QJ.Q7.AK754.AK96 T52.AJ94.J9832.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "74489744894895348953"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D  8
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  8
+S  C  9
+E NT  4
+E  S  8
+E  H  9
+E  D  5
+E  C  3
+W NT  4
+W  S  8
+W  H  9
+W  D  5
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass Pass 1S 2C 
+2S 3C Pass Pass 
+Pass 
+[Play "W"]
+S5 S6 SA SJ 
+S2 S7 SK SQ 
+ST S8 S9 C9 
+CQ C2 C4 CA 
+H4 C3 C7 CK 
+D2 DQ D6 D4 
+D3 DT CJ D5 
+HA H5 H2 H7 
+DJ H8 H3 DK 
+D8 HK S3 DA 
+D9 C5 H6 D7 
+*
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "13"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T92.AJ963.T8.643 753.T42.KJ.AKJ85 KQJ4.5.A9762.Q97 A86.KQ87.Q543.T2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67675676757676876768"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  7
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  7
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  7
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+SK S6 S2 S3 
+DA D3 D8 DJ 
+SQ S8 S9 S5 
+C7 C2 C3 C8 
+H5 HK HA H2 
+S4 SA ST S7 
+D2 HQ H3 H4 
+D6 D4 DT DK 
+C9 CT C4 CA 
+CQ D5 C6 CK 
+SJ H7 H6 CJ 
+D7 H8 H9 C5 
+D9 DQ HJ HT 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "13"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T92.AJ963.T8.643 753.T42.KJ.AKJ85 KQJ4.5.A9762.Q97 A86.KQ87.Q543.T2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67675676757676876768"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  7
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  7
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  7
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1C 1D 1H 
+Pass 2C Pass 2NT 
+Pass Pass Pass 
+[Play "N"]
+D8 DJ DA D3 
+S9 S3 S4 S6 
+S2 S5 SJ S8 
+ST S7 SK SA 
+C3 C5 CQ CT 
+H3 H2 SQ H7 
+HA H4 H5 HK 
+HJ HT C7 HQ 
+C4 CA C9 C2 
+C6 CK D2 H8 
+H6 CJ D6 D4 
+H9 C8 D7 D5 
+DT DK D9 DQ 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "14"]
+[West "Paula McTaggart#52641"]
+[North "Paul Wedge#52640"]
+[East "Gary Swift#47824"]
+[South "Luci Falconer#52722"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QJ932.T.AJ4.A953 65.QJ8642.T872.8 T874.953.Q96.KQ6 AK.AK7.K53.JT742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[HomeTeam "Fast Falconers"]
+[VisitTeam "Swift Shooters"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "59457594578398683986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  9
+S  H  4
+S  D  5
+S  C  7
+E NT  8
+E  S  3
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  3
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1C 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "E"]
+C8 C6 CT CA 
+S5 S4 SK S9 
+H2 H3 HA HT 
+H4 H5 HK S2 
+S6 ST SA S3 
+D2 D6 D3 DJ 
+H6 CQ C2 C3 
+H8 CK C4 C5 
+D7 DQ DK DA 
+HJ S7 C7 C9 
+HQ H9 H7 SJ 
+D8 S8 D5 SQ 
+DT D9 CJ D4 
+
+[Event "AKBC - Novice/Improvers -Tue 4th January-2:30 p.m             "]
+[Site "RealBridge"]
+[Date "2022.01.04"]
+[Board "14"]
+[West "Pip Duncan#47856"]
+[North "Lee Merlini#51581"]
+[East "Anne Smith#44229"]
+[South "Elizabeth Gollan#51587"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QJ932.T.AJ4.A953 65.QJ8642.T872.8 T874.953.Q96.KQ6 AK.AK7.K53.JT742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[HomeTeam "Swift Shooters"]
+[VisitTeam "Fast Falconers"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "59457594578398683986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  4
+N  D  5
+N  C  7
+S NT  5
+S  S  9
+S  H  4
+S  D  5
+S  C  7
+E NT  8
+E  S  3
+E  H  9
+E  D  8
+E  C  6
+W NT  8
+W  S  3
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+[Auction "E"]
+Pass Pass 1C 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "E"]
+C8 CQ C2 C3 
+S5 CK C4 C5 
+HQ H3 H7 HT 
+HJ H5 HA S2 
+D2 D6 D3 DA 
+S6 S7 SA S3 
+H2 C6 CJ CA 
+H4 S4 SK S9 
+D7 D9 DK D4 
+H6 H9 HK SJ 
+D8 ST C7 C9 
+DT DQ D5 DJ 
+H8 S8 CT SQ 

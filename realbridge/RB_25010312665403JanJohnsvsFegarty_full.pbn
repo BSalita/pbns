@@ -1,0 +1,4057 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "1"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT94.742.Q.AT953 AJ5.QJ85.T852.K2 832.63.9763.J764 K76.AKT9.AKJ4.Q8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1211612116cacc7cacc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  1
+N  C  6
+S NT  1
+S  S  2
+S  H  1
+S  D  1
+S  C  6
+E NT 12
+E  S 10
+E  H 12
+E  D 12
+E  C  7
+W NT 12
+W  S 10
+W  H 12
+W  D 12
+W  C  7
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,96,383,137,307,70,188,32,228,31,186,25,128,51,28,26,103,140,32,40,129,31,20,49,64,29,36,16,31,25,49,17,269,33,30,24,83,24,33,37,48,26,46,14,29,19,32,15
+[Auction "N"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 19-20"]
+[Note "2: 5 CARD STAYMAN"]
+[Note "3: 4M somewhere"]
+[Play "S"]
+C4 C8 CA C2 
+C6 CQ C5 CK 
+H3 HA H2 H5 
+H6 H9 H4 HQ 
+D7 DA DQ D2 
+S3 HK H7 H8 
+S2 SK S4 S5 
+S8 S6 ST SJ 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "1"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT94.742.Q.AT953 AJ5.QJ85.T852.K2 832.63.9763.J764 K76.AKT9.AKJ4.Q8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1211612116cacc7cacc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  1
+N  D  1
+N  C  6
+S NT  1
+S  S  2
+S  H  1
+S  D  1
+S  C  6
+E NT 12
+E  S 10
+E  H 12
+E  D 12
+E  C  7
+W NT 12
+W  S 10
+W  H 12
+W  D 12
+W  C  7
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 27,0,3,651,95,51,157,121,25,36,282,54,158,90,22,165,30,37,249,280,40,18,22,34,14,13,15,13,10,13,66,17,19,158,81,15,14,56,86,21,7,11,158,26,12,27,14,14,14,17
+[Auction "N"]
+Pass 1C =1= Pass 1H 
+Pass 2H Pass 2S =2= 
+Pass 3H =3= Pass 6H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: enquirey bid"]
+[Note "3: min 4H, no shortage"]
+[Play "N"]
+DQ D2 D3 DA 
+H4 H5 H3 HA 
+H2 H8 H6 HK 
+H7 HQ C7 H9 
+CA C2 C4 CQ 
+C3 CK C6 C8 
+S4 S5 S3 SK 
+S9 SJ S2 S6 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "2"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ.75.AT3.KQ8642 K82.AT3.QJ.J9753 Q95.KQ9862.765.T T7643.J4.K9842.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "74847748476858668486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  4
+N  C  7
+S NT  7
+S  S  4
+S  H  8
+S  D  4
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  8
+E  C  6
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,0,3,94,206,109,153,30,38,55,136,20,24,224,570,43,10,11,23,9,25,13,31,17,9,12,46,17,8,151,23,45,11,141,19,55,26,92,38,11,16,20,21,12,13,168,34,10,24,97,23,17,23,20,27,7,114,15,15,20,3,12,8,11,17
+[Auction "E"]
+1C =1= 2H =2= 2S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: weak"]
+[Play "N"]
+H7 HA H2 H4 
+C2 C3 CT CA 
+SA S2 S5 S3 
+H5 H3 HQ HJ 
+SJ HT HK S7 
+CK C5 D7 S4 
+DA DJ D6 D2 
+D3 DQ D5 D4 
+C4 SK S9 S6 
+C6 C7 H6 ST 
+DT C9 SQ DK 
+C8 S8 H9 D8 
+CQ CJ H8 D9 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "2"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AJ.75.AT3.KQ8642 K82.AT3.QJ.J9753 Q95.KQ9862.765.T T7643.J4.K9842.A"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "74847748476858668486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  4
+N  C  7
+S NT  7
+S  S  4
+S  H  8
+S  D  4
+S  C  7
+E NT  6
+E  S  8
+E  H  5
+E  D  8
+E  C  6
+W NT  6
+W  S  8
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,168,132,83,199,127,41,163,138,93,15,28,153,26,44,16,23,28,22,62,250,29,43,26,190,1154,52,28,26,20,17,64,40,276,38,47,54,27,134,67,66,15,14,34,21,30,53,13,87,17,13,32,56,22,8,14,21,27,11,30
+[Auction "E"]
+Pass 2D =1= Pass 2H =2= 
+Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct"]
+[Play "E"]
+C5 CT CA C4 
+DJ D5 D4 DA 
+C3 D6 H4 CK 
+DQ D7 D2 D3 
+C7 HQ S3 C2 
+SK S5 S7 SJ 
+C9 H9 HJ C6 
+S2 H2 DK DT 
+S8 S9 S4 SA 
+H3 H8 D8 H5 
+HT SQ S6 H7 
+CJ H6 D9 C8 
+HA HK ST CQ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "3"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q876.AJ85.7.J763 K942.Q.T6432.Q94 A3.K9762.AKJ5.T5 JT5.T43.Q98.AK82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "87a6787a674637646376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  7
+S  H 10
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  3
+E  D  7
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,283,75,456,48,452,35,171,29,491,38,85,21,42,27,16,106,44,8,22,25,6,14,70,172,14,37,271,28,20,6,132,20,356,15,153,96,99,10,857,33,21,44,235,219,27,23,91,28,58,8,30,10,70,17,41,20,113,16,122,12,23,15,9,10,15,6
+[Auction "S"]
+1H Pass 2S =1= Pass 
+2NT =2= Pass 3D =3= Pass 
+3S =4= Pass 4H Pass 
+Pass Pass 
+[Note "1: support, short minor"]
+[Note "2: enquiry"]
+[Note "3: short D"]
+[Note "4: cue"]
+[Play "W"]
+CA C3 C4 C5 
+CK C6 C9 CT 
+C8 CJ CQ H2 
+H3 H5 HQ HK 
+H4 HJ D2 H6 
+HT HA D3 H7 
+DQ D7 D4 DJ 
+SJ SQ SK SA 
+D8 S6 D6 DA 
+D9 S7 DT DK 
+S5 H8 S2 D5 
+C2 C7 S4 H9 
+ST S8 S9 S3 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "3"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q876.AJ85.7.J763 K942.Q.T6432.Q94 A3.K9762.AKJ5.T5 JT5.T43.Q98.AK82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "87a6787a674637646376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  7
+S  H 10
+S  D  6
+S  C  7
+E NT  4
+E  S  6
+E  H  3
+E  D  7
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,233,57,249,102,66,35,113,42,69,35,110,342,31,17,1361,81,38,27,427,29,11,22,56,22,35,28,496,43,26,22,508,182,30,40,47,30,82,21,951,126,57,25,16,20,10,106,17
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman"]
+[Play "W"]
+CA C3 C4 C5 
+SJ SQ SK SA 
+D8 D7 D2 DA 
+D9 H5 D3 D5 
+H3 H8 HQ HK 
+C2 C6 CQ CT 
+ST S6 S2 S3 
+DQ S7 D4 DK 
+H4 HJ S4 H2 
+-  HA -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "4"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT532.72.K987.T4 A6.T984.J3.KQ762 874.KJ3.T652.J93 KQ9.AQ65.AQ4.A85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS -710"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "0203002030dadaddbdad"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  0
+N  D  3
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  3
+S  C  0
+E NT 13
+E  S 10
+E  H 13
+E  D 10
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D 10
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 17,2,1,349,75,629,72,145,53,278,41,154,37,55,36,90,42,34,28,89,334,88,42,390,30,26,33,101,20,35,23,48,59,30,11,64,23,22,21,23,23,33,19,33,29,32,18
+[Auction "W"]
+2C =1= Pass 2S =2= Pass 
+2NT Pass 3C =3= Pass 
+3D =4= Pass 3H Pass 
+4H Pass Pass Pass 
+[Note "1: 21-22 bal or strong & suit"]
+[Note "2: Ace and a King"]
+[Note "3: 5 card stayman"]
+[Note "4: 4M somewhere"]
+[Play "S"]
+S7 S9 ST SA 
+H3 H5 H2 HT 
+HJ HQ H7 H9 
+HK HA S5 H4 
+C3 C5 C4 CK 
+C9 CA CT C2 
+CJ C8 D8 CQ 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "4"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT532.72.K987.T4 A6.T984.J3.KQ762 874.KJ3.T652.J93 KQ9.AQ65.AQ4.A85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "0203002030dadaddbdad"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  0
+N  D  3
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  3
+S  C  0
+E NT 13
+E  S 10
+E  H 13
+E  D 10
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D 10
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 19,0,3,353,103,233,43,78,49,132,30,283,42,71,38,309,48,2027,74,124,456,39,12,79,25,9,20,14,12,9,14,18,11,9,60,214,17,79,27,39,13,43,145,34,21,20,21,109,25,10,10,35,21,12,30,42,18,10,53,18
+[Auction "W"]
+2NT =1= Pass 3C =2= Pass 
+3H Pass 3S =3= Pass 
+3NT Pass 4C =4= Pass 
+4NT Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2: puppet stayman"]
+[Note "3: H slam try"]
+[Note "4: Q"]
+[Play "N"]
+S3 S6 S7 SK 
+C4 C2 C3 CA 
+CT CK C9 C5 
+D7 CQ CJ C8 
+S2 C6 S8 D4 
+S5 C7 S4 DQ 
+H2 HT H3 HQ 
+H7 H4 HJ HA 
+ST SA D6 S9 
+SJ H8 HK H5 
+-  -  D5 -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "5"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT94.KQ97.KQT9.2 853.AT843.874.74 Q7.J.A62.AQJT985 AJ62.652.J53.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "aa9baaa9ba3342333423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  9
+S  D 11
+S  C 10
+E NT  3
+E  S  3
+E  H  4
+E  D  2
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,185,71,129,198,101,32,216,47,72,24,400,48,39,121,73,140,33,91,33,7,45,248,20,10,14,33,35,80,155,17,34,19,13,30,26,6,31,16,66,12,43,13,22,12,22,17,18,38,19,22,19,8,22,12
+[Auction "N"]
+1D Pass 2C =1= Pass 
+2NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1:  * nat and GF [0:25]"]
+[Play "E"]
+H4 HJ H6 H7 
+C4 CA C3 C2 
+C7 CQ CK S4 
+S3 S7 S2 S9 
+D4 DA D3 D9 
+H3 CJ C6 H9 
+H8 CT S6 HQ 
+HT C9 H5 ST 
+S5 C8 H2 SK 
+S8 C5 D5 HK 
+-  D2 DJ -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "5"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT94.KQ97.KQT9.2 853.AT843.874.74 Q7.J.A62.AQJT985 AJ62.652.J53.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "aa9baaa9ba3342333423"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D 11
+N  C 10
+S NT 10
+S  S 10
+S  H  9
+S  D 11
+S  C 10
+E NT  3
+E  S  3
+E  H  4
+E  D  2
+E  C  3
+W NT  3
+W  S  3
+W  H  4
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,101,114,170,45,184,76,583,74,98,75,764,50,371,111,28,23,123,25,34,31,31,16,38,37,54,19,108,48,378,29,124,45,121,28,120,30
+[Auction "N"]
+1D Pass 2C Pass 
+2D =1= Pass 3H =2= Pass 
+3NT Pass Pass Pass 
+[Note "1: may only be 4 if 4441"]
+[Note "2: shortage"]
+[Play "E"]
+H4 HJ H2 H7 
+C7 CA C3 C2 
+C4 CQ C6 S4 
+D4 CJ CK H9 
+HA D2 H6 HQ 
+S5 S7 SJ SK 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "6"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J65.K2.T96.KQJ84 T98.AQ86.Q42.T97 A73.J953.J87.653 KQ42.T74.AK53.A2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "33435334358a9a88a9a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  5
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S 10
+E  H  9
+E  D 10
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,64,47,156,60,98,50,51,38,62,42,183,47,9,44,76,997,34,7,9,63,14,14,16,23,13,54,21,15,10,8,20,13,9,17,22,20,59,51,18,21,73,10,77,126,41,13,178,18,28,12
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+2C =2= Pass 2S Pass 
+2NT =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman"]
+[Note "3:  * doesnt promise 4H [0:07]"]
+[Play "N"]
+CK C7 C6 CA 
+D9 DQ D7 D3 
+SJ ST S3 S2 
+CQ C9 C5 C2 
+CJ CT C3 H4 
+C8 D2 S7 D5 
+C4 H6 H5 H7 
+H2 H8 HJ HT 
+S5 S8 SA S4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "6"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J65.K2.T96.KQJ84 T98.AQ86.Q42.T97 A73.J953.J87.653 KQ42.T74.AK53.A2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "33435334358a9a88a9a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  5
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  5
+E NT  8
+E  S 10
+E  H  9
+E  D 10
+E  C  8
+W NT  8
+W  S 10
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 4,2,1,136,43,48,42,243,43,108,164,159,176,25,45,139,35,33,35,101,21,36,24,47,27,21,25,98,40,18,66,31,18,26,9,35,15,29,17,27,17,32,26,139,30,26,26,20,28,30,19,16,23,11,20,9,25,9,26,10,21,11,25
+[Auction "E"]
+Pass Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1: 5-8"]
+[Play "S"]
+H3 H4 HK HA 
+S7 SK S5 ST 
+D7 D3 D6 DQ 
+S3 S2 SJ S9 
+C3 CA CK C7 
+D8 DA D9 D2 
+DJ DK DT D4 
+H5 D5 C4 H6 
+SA S4 S6 S8 
+C6 C2 CJ C9 
+C5 H7 CQ CT 
+H9 HT C8 H8 
+HJ SQ H2 HQ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "7"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:73.A9852.53.T874 KQ8.KJ7.T94.AKQ9 94.QT64.J76.J532 AJT652.3.AKQ82.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0040200402cc8cbcc8ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  0
+N  C  2
+S NT  0
+S  S  0
+S  H  4
+S  D  0
+S  C  2
+E NT 12
+E  S 12
+E  H  8
+E  D 12
+E  C 11
+W NT 12
+W  S 12
+W  H  8
+W  D 12
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 28,0,3,76,172,40,146,47,52,42,32,52,215,47,121,43,111,53,76,39,85,47,15,28,474,102,16,8,61
+[Auction "S"]
+Pass 1S Pass 2C =1= 
+Pass 2D Pass 2S 
+Pass 3S Pass 4C =2= 
+Pass 4NT =3= Pass 5S =4= 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: GF, natural or balanced 3S"]
+[Note "2: q"]
+[Note "3: RKCB"]
+[Note "4: 2 + Q"]
+[Play "N"]
+HA H7 H4 H3 
+H5 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "7"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:73.A9852.53.T874 KQ8.KJ7.T94.AKQ9 94.QT64.J76.J532 AJT652.3.AKQ82.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0040200402cc8cbcc8ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  4
+N  D  0
+N  C  2
+S NT  0
+S  S  0
+S  H  4
+S  D  0
+S  C  2
+E NT 12
+E  S 12
+E  H  8
+E  D 12
+E  C 11
+W NT 12
+W  S 12
+W  H  8
+W  D 12
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 28,2,1,90,139,50,119,37,52,33,938,110,70,64,130,55,24,46,60,109,26,27,12,123,23
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 3D Pass 4NT =1= 
+Pass 5H X 6S 
+Pass Pass Pass 
+[Note "1:  * blackwood [0:14]"]
+[Play "N"]
+HA H7 H4 H3 
+H5 HJ HQ -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "8"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T2.T873.Q87.A983 QJ876.A95.JT5.T6 A4.K62.AK32.K752 K953.QJ4.964.QJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "8"]
+[Score "NS 280"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "8799a8799a5644356443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,71,48,44,598,71,145,24,559,38,72,31,21,49,34,21,28,152,35,18,19,21,20,15,13,38,6,25,8,98,17,35,8,100,19,17,5,17,14,22,13,29,15,59,17,47,17,17,6,17
+[Auction "W"]
+Pass Pass 1S 1NT =1= 
+X Pass Pass Pass 
+[Note "1: 15-18"]
+[Play "W"]
+S3 S2 SJ S4 
+S5 ST S7 SA 
+D4 D7 DJ DA 
+D6 DQ D5 D2 
+D9 D8 DT DK 
+SK H3 H5 D3 
+C4 C3 C6 CK 
+CJ CA CT C2 
+H4 H7 H9 HK 
+CQ C8 S6 C5 
+S9 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "8"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T2.T873.Q87.A983 QJ876.A95.JT5.T6 A4.K62.AK32.K752 K953.QJ4.964.QJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "8799a8799a5644356443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  5
+E  S  6
+E  H  4
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,102,52,128,88,51,73,50,220,888,41,26,71,27,74,12,41,55,12,21,19,42,14,24,23,20,24,41,22,123,39,34,87,22,9,27,15,23,21,27,16,20,9,19,31,72,24,26,33,18,25,46
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "W"]
+S3 S2 SJ S4 
+S5 ST S7 SA 
+D4 D7 D5 DA 
+D6 DQ DT D2 
+D9 D8 DJ DK 
+H4 H3 H9 D3 
+CJ CA C6 C2 
+C4 C3 CT CK 
+CQ C8 H5 C5 
+SK H7 S6 H2 
+S9 H8 SQ C7 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "9"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J.T72.KQT874.875 Q9652.A.53.AK962 T4.K9854.A962.QT AK873.QJ63.J.J43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "20781207817c65b7c65b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  0
+N  H  7
+N  D  8
+N  C  1
+S NT  2
+S  S  0
+S  H  7
+S  D  8
+S  C  1
+E NT  7
+E  S 12
+E  H  6
+E  D  5
+E  C 11
+W NT  7
+W  S 12
+W  H  6
+W  D  5
+W  C 11
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,331,403,238,282,56,67,38,65,139,30,27,124,42,34,27,44,24,30,9,67,27,28,14,54,27,32,25,42,18,23,12,24,45,26,9
+[Auction "N"]
+2C =1= 2S 3D =2= 4S 
+Pass Pass Pass 
+[Note "1: very strong or Weak 2 in D"]
+[Note "2: assumes he has weak 2d bid"]
+[Play "S"]
+DA DJ DK D3 
+D2 S7 D8 D5 
+S4 SA SJ S2 
+ST SK D7 S5 
+CT C3 C5 CA 
+CQ C4 C7 CK 
+D6 CJ C8 C2 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "9"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J.T72.KQT874.875 Q9652.A.53.AK962 T4.K9854.A962.QT AK873.QJ63.J.J43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "20781207817c65b7c65b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  0
+N  H  7
+N  D  8
+N  C  1
+S NT  2
+S  S  0
+S  H  7
+S  D  8
+S  C  1
+E NT  7
+E  S 12
+E  H  6
+E  D  5
+E  C 11
+W NT  7
+W  S 12
+W  H  6
+W  D  5
+W  C 11
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,87,30,94,684,560,95,239,36,40,31,66,27,11,204,31,282,8,19,28,8,13,10,39,11,12,7,23,14,18,55,88,12,35,35,25,11,15
+[Auction "N"]
+Pass 1S 2H 2NT =1= 
+3D 4S Pass Pass 
+Pass 
+[Note "1: good 4 card ♠ raise"]
+[Play "S"]
+DA DJ D4 D3 
+D2 S3 D8 D5 
+S4 SA SJ S2 
+ST SK D7 S5 
+CT C3 C7 CK 
+H4 S7 H7 S6 
+CQ C4 C5 CA 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "10"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q95.A65.T9852.Q5 K72.T742.AJ7.A73 JT843.Q983.Q64.K A6.KJ.K3.JT98642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "26662266629777b9777b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  6
+N  C  2
+S NT  2
+S  S  6
+S  H  6
+S  D  6
+S  C  2
+E NT  9
+E  S  7
+E  H  7
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H  7
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,334,67,124,49,32,28,189,582,17,32,63,11,30,39,583,41,22,28,63,98,24,11,48,64,32,18,89,48,25,27,32,19,65,36,55,23,35,40,34,12,34,93,35,18,32,11,33,12,25,14,24,18,21,19,27,11,25,10
+[Auction "E"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+SJ SA S5 S2 
+CK CJ C5 C3 
+D4 D3 D8 DJ 
+S4 C2 CQ CA 
+S3 CT H5 C7 
+H8 C9 D5 H2 
+H3 C8 H6 H4 
+H9 C6 D2 H7 
+HQ C4 D9 HT 
+D6 DK DT D7 
+S8 S6 S9 SK 
+DQ HJ SQ DA 
+ST HK HA S7 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "10"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q95.A65.T9852.Q5 K72.T742.AJ7.A73 JT843.Q983.Q64.K A6.KJ.K3.JT98642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "26662266629777b9777b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  6
+N  C  2
+S NT  2
+S  S  6
+S  H  6
+S  D  6
+S  C  2
+E NT  9
+E  S  7
+E  H  7
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H  7
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,136,324,168,200,143,61,200,74,12,32,91,291,53,10,12,38,17,13,593,54,9,11,10,58,9,27,32,26,8,39,17,87,11,24,16,179,10,25,18,20,11,57
+[Auction "E"]
+1C =1= Pass 2C =2= Pass 
+2D =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+♣, 10+pts"]
+[Note "3: min weak NT or 16+ unbalanced"]
+[Play "N"]
+D9 D7 D4 DK 
+CQ CA CK CJ 
+C5 C3 S8 CT 
+H5 C7 H8 C9 
+D2 H2 S3 C8 
+D5 H4 H3 C6 
+S9 H7 H9 C4 
+S5 HT HQ C2 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "11"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8764.A4.J32.QT83 JT93.K82.AT5.AJ7 AQ2.T9.K9864.954 K5.QJ7653.Q7.K62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3436434364a8a7898a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  6
+N  C  4
+S NT  3
+S  S  4
+S  H  3
+S  D  6
+S  C  4
+E NT 10
+E  S  8
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,0,3,83,185,50,156,54,97,41,17,30,408,74,17,36,22,40,120,120,57,24,55,22,45,15,372,56,9,24,11,14,14,28,90,35,4,9,497,68,9,18,44,15,17,73,35,25,32,12,36,26,11,12,16,41,9,46,14,35,13,24,18,16,17,12,13,8,8,11
+[Auction "S"]
+Pass 1H Pass 2C =1= 
+Pass 2H Pass 3H 
+Pass 3NT =2= Pass 4H 
+Pass Pass Pass 
+[Note "1: GF, natural or 3H balanced"]
+[Note "2: minimum but not super min"]
+[Play "N"]
+S7 SJ SA S5 
+S6 S3 S2 SK 
+HA H2 HT HQ 
+S4 S9 SQ H3 
+H4 H8 H9 HJ 
+S8 HK D4 H5 
+C3 ST D6 C2 
+D3 DA D8 D7 
+C8 C7 C5 CK 
+D2 D5 D9 H7 
+DJ DT C4 H6 
+CT CA C9 C6 
+CQ CJ DK DQ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "11"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8764.A4.J32.QT83 JT93.K82.AT5.AJ7 AQ2.T9.K9864.954 K5.QJ7653.Q7.K62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3436434364a8a7898a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  6
+N  C  4
+S NT  3
+S  S  4
+S  H  3
+S  D  6
+S  C  4
+E NT 10
+E  S  8
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,2,1,87,65,58,96,35,53,32,43,33,15,28,37,376,50,26,104,30,41,70,46,242,20,82,841,35,40,12,668,255,29,23,493,31,65,13,13,64,13,42,18,16,9,15,13,69,25,15,20,18,12,16,66,17,19,28,21,12,15,11,9,8,8,12
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+C3 CJ C5 C2 
+HA H2 H9 HQ 
+CQ C7 C4 CK 
+H4 H8 HT HJ 
+C8 HK D4 H3 
+S6 SJ SA S5 
+CT CA C9 C6 
+S4 S3 S2 SK 
+S7 D5 D6 H7 
+S8 S9 D8 H6 
+D2 ST SQ H5 
+D3 DA D9 D7 
+DJ DT DK DQ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "12"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q2.A43.62.QT9852 T654.KJ652.Q.A74 AJ97.T8.KT84.KJ3 K83.Q97.AJ9753.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65358653586898568985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  5
+N  C  8
+S NT  6
+S  S  5
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  8
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,0,3,71,90,40,169,134,111,239,47,61,56,25,37,92,131,37,11,30,20,33,10,65,34,11,134,974,38,107,100,17,137,60,15,44,29,8,36,25,27,10,12,66,28,13,15,61,22,8,19,8,24,13,18,9,61,12,11,90
+[Auction "W"]
+1D Pass 1H X 
+2D =1= 3C Pass Pass 
+3D Pass Pass Pass 
+[Note "1: shows 3♡"]
+[Play "N"]
+SQ S4 SA S3 
+S2 S5 S7 SK 
+D2 DQ DK D3 
+C8 S6 SJ S8 
+C5 ST S9 D9 
+D6 H2 D4 DA 
+C2 H5 D8 DJ 
+H3 HK H8 H7 
+C9 CA C3 C6 
+CT C4 CK D5 
+HA H6 HT H9 
+H4 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "12"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q2.A43.62.QT9852 T654.KJ652.Q.A74 AJ97.T8.KT84.KJ3 K83.Q97.AJ9753.6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65358653586898568985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  5
+N  C  8
+S NT  6
+S  S  5
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  8
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,2,1,105,72,163,199,67,326,106,57,92,244,138,35,22,272,39,43,22,99,1675,38,20,108,63,152,27,213,39,26,24,199,35,20,12,31,64,20,12,28,18,8,57,12,23,8,17,9,49,9,28
+[Auction "W"]
+Pass Pass Pass 1C =1= 
+1D 3C =2= Pass Pass 
+Pass 
+[Note "1: 2+c, may have 5d"]
+[Note "2: PRE"]
+[Play "W"]
+DA D2 DQ D4 
+D7 D6 C4 D8 
+SK S2 S4 S7 
+D3 C8 CA DT 
+H9 HA H5 H8 
+C6 CT C7 C3 
+S3 C2 H6 CK 
+D5 H3 H2 DK 
+S8 SQ S5 SA 
+H7 H4 S6 SJ 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "13"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#77056"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:4.A9.J54.AJT8542 AQ86.KT32.86.KQ7 JT75.754.AK932.9 K932.QJ86.QT7.63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55588555887873578735"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  8
+N  C  8
+S NT  5
+S  S  5
+S  H  5
+S  D  8
+S  C  8
+E NT  7
+E  S  8
+E  H  7
+E  D  3
+E  C  5
+W NT  7
+W  S  8
+W  H  7
+W  D  3
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,0,3,300,38,474,272,116,35,105,266,96,79,43,296,57,122,55,30,227,90,14,12,115,19,23,14,1218,108,10,27,31,25,77,26,22,18,13,22,254,17,15,37,20,27,16,45,20,19,10,10,18,12,21,8,13,16,10,17
+[Auction "N"]
+1C =1= X 1H =2= X =3= 
+2C 2H Pass Pass 
+3C Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+ Ss"]
+[Note "3: ♡"]
+[Play "E"]
+H2 H4 HJ HA 
+CQ C9 C3 C5 
+H3 H5 HQ H9 
+D8 DA DQ D4 
+HT H7 H6 C2 
+C7 S5 C6 CA 
+CK S7 H8 CJ 
+D6 D2 D7 DJ 
+S6 ST S2 CT 
+S8 DK DT D5 
+SQ D9 S3 S4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "13"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:4.A9.J54.AJT8542 AQ86.KT32.86.KQ7 JT75.754.AK932.9 K932.QJ86.QT7.63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55588555887873578735"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  8
+N  C  8
+S NT  5
+S  S  5
+S  H  5
+S  D  8
+S  C  8
+E NT  7
+E  S  8
+E  H  7
+E  D  3
+E  C  5
+W NT  7
+W  S  8
+W  H  7
+W  D  3
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 5,2,1,184,213,200,47,116,185,80,210,193,483,25,20,24,44,29,22,13,19,22,37,265,41,23,34,56,28,21,39,490,39,20,13,34,36,12,9
+[Auction "N"]
+1C =1= Pass 1H =2= Pass 
+2C Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: ♠"]
+[Play "E"]
+H2 H4 HJ HA 
+D8 DA D7 D5 
+CQ C9 C3 CT 
+D6 DK DT D4 
+HT H5 H6 H9 
+HK H7 H8 C2 
+C7 S5 C6 CA 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "14"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:97.T87542.J.KJT7 K863.J9.KT843.43 AQT54.K6.A.AQ962 J2.AQ3.Q97652.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "89a5b89a5b5438254382"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  5
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  5
+S  C 11
+E NT  5
+E  S  4
+E  H  3
+E  D  8
+E  C  2
+W NT  5
+W  S  4
+W  H  3
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,148,50,47,75,45,77,100,113,36,402,46,170,60,41,31,95,1404,47,31,84,20,21,31,32,18,17,34,348,33,23,55,735,25,11,29,394,45,13,17,329,38,24,48,28,23,35,42,22,185,23,31,24,26,28,9,24,15,60,11,30,17,22,8,10,11,19,8
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 3C Pass 3S 
+Pass 4C Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+D6 DJ DK DA 
+S2 S7 S3 SA 
+SJ S9 S6 S4 
+DQ H2 D3 S5 
+C5 CK C4 C2 
+C8 CJ C3 C6 
+HA H4 H9 HK 
+D2 H5 DT ST 
+H3 C7 S8 CA 
+D5 CT SK SQ 
+D9 H7 D8 C9 
+HQ H8 HJ H6 
+D7 HT D4 CQ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "14"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:97.T87542.J.KJT7 K863.J9.KT843.43 AQT54.K6.A.AQ962 J2.AQ3.Q97652.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "89a5b89a5b5438254382"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  5
+N  C 11
+S NT  8
+S  S  9
+S  H 10
+S  D  5
+S  C 11
+E NT  5
+E  S  4
+E  H  3
+E  D  8
+E  C  2
+W NT  5
+W  S  4
+W  H  3
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,4,3,125,5290,55,500,185,338,51,182,28,271,29,63,17,42,80,27,23,132,29,68,10,40,15,27,117,9,37,41,38,173,35,13,6,551,28,17,9,27,18,27,17,13,31,10,92,37,24,20,23,28,14,13,11,13,21,10,11,13,37,18,17,11,8,17,5
+[Auction "E"]
+Pass 1S 3D Pass 
+4D X Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+D6 DJ DK DA 
+C8 CK C4 C2 
+SJ S9 S3 S4 
+S2 S7 S8 ST 
+D2 H2 S6 SA 
+C5 CJ C3 C6 
+HA H4 H9 HK 
+DQ H5 D3 S5 
+D5 CT D4 C9 
+D7 C7 D8 CA 
+D9 H7 SK CQ 
+H3 H8 DT SQ 
+HQ HT HJ H6 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "15"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:4.AJ87.K9754.AQ3 A97.KT62.AQJT3.8 KQJT6.Q943.6.J95 8532.5.82.KT7642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "86967869665446654466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,2,1,191,132,80,124,79,41,38,51,304,48,37,46,399,182,260,26,134,27,37,37,79,97,29,17,31,359,48,12,19,31,10,38,11,21,10,29,11,8,11,23,25,11,20,35,260,33,20,30,26,24,11,20,19,17,24,40
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+2H Pass Pass Pass 
+[Play "W"]
+H5 H7 HK H3 
+C6 H8 H2 H4 
+S5 S4 SA S6 
+C2 HA H6 H9 
+C4 HJ HT HQ 
+S2 D4 S7 SK 
+S3 D5 S9 SQ 
+S8 D7 DT SJ 
+D2 CQ D3 ST 
+C7 CA C8 C5 
+CT C3 DJ C9 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "15"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:4.AJ87.K9754.AQ3 A97.KT62.AQJT3.8 KQJT6.Q943.6.J95 8532.5.82.KT7642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "86967869665446654466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  6
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  6
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  4
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,4,3,644,72,375,34,38,114,27,128,27,33,442,448,33,10,393,38,15,12,11,55,24,27,33,28,10,5,25,14,25,10,76,18,23,8,343,26,18,6,95,18,12,39,72,30,17,29,19,11,16,15,12,18,8,11,6,12,7,10
+[Auction "S"]
+2C =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: GF or weak both Ms 5/4"]
+[Play "E"]
+C8 C9 CT CQ 
+SA S6 S8 S4 
+DA D6 D8 D5 
+DJ C5 D2 DK 
+H2 H3 H5 HA 
+H6 HQ S2 H7 
+S7 SK S3 D4 
+S9 SQ S5 D7 
+D3 CJ CK CA 
+DT H4 C7 C3 
+HT ST C2 D9 
+HK H9 C4 H8 
+DQ SJ C6 HJ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "16"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK6.QJ742.J43.J2 87.T3.A96.K87543 QT532.986.QT2.QT J94.AK5.K875.A96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "3673336733866aa866aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  3
+N  C  3
+S NT  3
+S  S  6
+S  H  7
+S  D  3
+S  C  3
+E NT  8
+E  S  6
+E  H  6
+E  D 10
+E  C 10
+W NT  8
+W  S  6
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 7,2,1,207,52,139,65,62,51,68,54,47,54,27,30,32,48,12,133,13,34,20,48,17,26,31,673,40,18,40,12,25,23,27,302,26,67,23
+[Auction "W"]
+1D 1H Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+DA D2 D8 D3 
+D9 DT DK DJ 
+D6 DQ D5 D4 
+H3 H6 H5 HQ 
+S8 SQ S4 S6 
+HT H8 HK H2 
+C8 H9 HA H4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "16"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK6.QJ742.J43.J2 87.T3.A96.K87543 QT532.986.QT2.QT J94.AK5.K875.A96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "3673336733866aa866aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  3
+N  C  3
+S NT  3
+S  S  6
+S  H  7
+S  D  3
+S  C  3
+E NT  8
+E  S  6
+E  H  6
+E  D 10
+E  C 10
+W NT  8
+W  S  6
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,4,3,135,61,17,39,39,40,34,196,39,17,57,39,27,35,11,28,15,9
+[Auction "W"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+H2 H3 H8 HA 
+C2 CK CT C9 
+CJ C3 CQ CA 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "17"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ.KJT63.AT97.43 AK8732.A7.543.Q5 965.Q8.QJ82.KJ76 T4.9542.K6.AT982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65996659964744747447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  9
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  9
+S  C  6
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,4,3,169,29,264,48,129,40,230,29,168,31,99,40,240,49,19,17,64,22,70,179,22,27,8,200,21,138,12,155,40,15,18,20,34,39,21,122,22,25,5,97,19,19,11,38,47,7,23,6,20,44,17,25,16,19,23,39,11,14,17,13,14,5,8
+[Auction "N"]
+1H 1S X Pass 
+2D 2S 3D 3S 
+Pass Pass Pass 
+[Play "S"]
+HQ H2 H3 HA 
+D2 DK DA D3 
+H8 H4 HK H7 
+S5 H5 HJ S3 
+S6 S4 SJ SA 
+CK C2 C3 CQ 
+DQ D6 D7 D4 
+S9 ST SQ SK 
+D8 C8 H6 S8 
+DJ C9 D9 S7 
+C6 H9 HT S2 
+C7 CT C4 C5 
+CJ CA DT D5 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "17"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ.KJT63.AT97.43 AK8732.A7.543.Q5 965.Q8.QJ82.KJ76 T4.9542.K6.AT982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65996659964744747447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  9
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  9
+S  C  6
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,81,178,124,64,94,60,45,122,51,54,124,64,382,18,58,1307,36,31,26,43,31,12,30,19,363,51,29,51,59,15,40,279,32,25,10,29,35,12,33,215,29,294,19,24,37,11,24,29
+[Auction "N"]
+1H 1S X Pass 
+2D Pass Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+HQ H2 H3 HA 
+D8 DK DA D3 
+H8 H4 HK H7 
+S9 H5 HJ S7 
+S5 S4 SJ SK 
+DJ D6 D7 D4 
+S6 ST SQ SA 
+CK C2 C4 CQ 
+DQ C8 D9 D5 
+D2 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "18"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A93.8.AKQ864.864 K874.T764.92.AJ9 QT6.AKQJ5.T5.KQ3 J52.932.J73.T752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 720"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "caccacacca1211312113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D 12
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  1
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,4,3,39,313,38,660,69,483,44,341,29,218,19,54,10,80,235,31,60,898,34,13,6,13,7,17,18,167,18,25,23,190,26,22,14,33,22,25,13
+[Auction "E"]
+Pass 1NT =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Note "2: trs to D"]
+[Note "3: no fit"]
+[Play "W"]
+H3 H8 HT HK 
+D7 DA D9 D5 
+D3 DK D2 DT 
+C7 C4 C9 CK 
+H9 S3 H4 HA 
+H2 C6 H6 HQ 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "18"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A93.8.AKQ864.864 K874.T764.92.AJ9 QT6.AKQJ5.T5.KQ3 J52.932.J73.T752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "caccacacca1211312113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 12
+N  D 12
+N  C 10
+S NT 12
+S  S 10
+S  H 12
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  1
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,192,153,57,121,46,68,56,336,82,689,59,51,103,45,52,333,260,53,32,145,36,25,9,30,22,12,33,37,29,16,18
+[Auction "E"]
+Pass 1H Pass 2D 
+Pass 2NT Pass 3D 
+Pass 3H =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: cue"]
+[Play "W"]
+S2 S3 SK S6 
+S5 S9 S4 SQ 
+D3 DA D9 D5 
+D7 DK D2 DT 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "19"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K5.QJ2.AQJ98.432 J9743.A9.K64.T86 AT8.K3.T732.AJ75 Q62.T87654.5.KQ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96699966994774447744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  6
+N  D  9
+N  C  9
+S NT  9
+S  S  6
+S  H  6
+S  D  9
+S  C  9
+E NT  4
+E  S  7
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,4,3,207,137,401,37,90,36,39,94,150,13,62,25,28,14,102,20,26,26,36,26,34,34,245,60,12,57,52,14,12,94,52,10,27,186,102,21,22,82,100,35,50,91,17,20,8,10,12,12,11,16,21,10,8,6,11,13,20,9
+[Auction "S"]
+1C =1= 2H =2= 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * weak [0:10]"]
+[Play "E"]
+HA H3 H8 H2 
+H9 HK H4 HQ 
+D4 DT D5 D8 
+DK D2 H7 DQ 
+D6 D3 H5 D9 
+S3 D7 S2 DA 
+S4 C5 H6 DJ 
+C6 C7 C9 C4 
+C8 CJ HT HJ 
+S7 S8 S6 SK 
+S9 SA SQ S5 
+CT CA CQ C2 
+SJ ST CK C3 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "19"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K5.QJ2.AQJ98.432 J9743.A9.K64.T86 AT8.K3.T732.AJ75 Q62.T87654.5.KQ9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96699966994774447744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  6
+N  D  9
+N  C  9
+S NT  9
+S  S  6
+S  H  6
+S  D  9
+S  C  9
+E NT  4
+E  S  7
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,151,39,167,130,86,42,54,44,46,41,202,685,46,25,42,26,22,11,25,17,18,23,21,658,39,38,104,62,68,17,703,47,30,35,165,34,12,22,17,43,14,30,103,61,34,19,63,49,189,33,26,22,9,7,11,20,20,10,16,10,13,19
+[Auction "S"]
+1C =1= Pass 1S =2= Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+c, may have 5d"]
+[Note "2: no major"]
+[Play "W"]
+H6 H2 HA H3 
+H4 HJ H9 HK 
+D5 D8 D4 DT 
+S2 D9 DK D2 
+C9 C2 C6 C7 
+CK C3 C8 CA 
+H5 DJ D6 D3 
+H7 DQ S3 D7 
+H8 DA S4 C5 
+HT HQ CT CJ 
+S6 SK S7 S8 
+SQ S5 S9 SA 
+CQ C4 SJ ST 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "20"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8752.7643.A3.872 KJT9.QJ9.86.K954 A63.AK2.K542.AJ6 Q4.T85.QJT97.QT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "77766777666667766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,4,3,92,38,25,132,98,191,54,222,34,127,25,283,396,29,23,26,33,9,26,20,23,9,8,12,12,10,7,59,23,16,25,95,56,30,19,124,15,12,22,16,14,13,8,25,13,16,8,14,30,7,15,6,55,8,12,9,16,29,13,8,17,6,8
+[Auction "W"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 1NT =3= 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: H"]
+[Note "3: 18/19"]
+[Play "W"]
+DQ D3 D8 DK 
+H5 H3 H9 HA 
+H8 H4 HJ HK 
+HT H6 HQ H2 
+D9 DA D6 D2 
+C3 H7 S9 D4 
+CT C2 C4 CA 
+S4 S2 ST SA 
+SQ S5 SJ S3 
+DJ C7 C5 D5 
+DT C8 C9 S6 
+D7 S7 CK C6 
+CQ S8 SK CJ 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "20"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:8752.7643.A3.872 KJT9.QJ9.86.K954 A63.AK2.K542.AJ6 Q4.T85.QJT97.QT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1C"]
+[Result "7"]
+[Score "NS 70"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "77766777666667766677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 0,2,1,126,57,123,127,28,86,319,140,179,31,11,18,26,29,33,184,32,41,45,86,87,35,10,87,13,18,31,122,62,48,71,94,33,26,10,33,45,132,55,430,27,27,21,31,48,16,49,29,29,9,9,19,22,10,23,9,24,11,23
+[Auction "W"]
+Pass Pass Pass 1C =1= 
+Pass Pass Pass 
+[Note "1: 2+c may have 5d"]
+[Play "W"]
+DQ DA D8 D2 
+D7 D3 D6 DK 
+D9 C7 C9 D4 
+C3 C2 C4 CA 
+DT C8 CK D5 
+CT H3 C5 C6 
+CQ H4 S9 CJ 
+DJ H6 ST H2 
+H5 H7 HJ HA 
+SQ S2 SK S3 
+H8 S5 HQ HK 
+S4 S7 SJ SA 
+HT S8 H9 S6 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "21"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.KT84.AQ987.Q6 874.J76.65.T8732 T53.A95.J42.J954 QJ962.Q32.KT3.AK"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "a7aa8a7aa83633436334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  7
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  6
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  6
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,4,3,131,19,184,165,196,34,58,27,20,87,19,11,986,27,16,32,240,36,27,26,74,18,10,20,291,18,12,48,36,23,22,25,30,63,93,416,40,12,115,231,27,15,12,9,47,22,17,21,8,20
+[Auction "N"]
+1D Pass 1NT 2S 
+3NT Pass Pass Pass 
+[Play "W"]
+SQ SK S4 S5 
+H2 H4 H6 HA 
+DT DQ D5 D2 
+D3 DA D6 D4 
+DK D7 S8 DJ 
+S2 SA S7 S3 
+S6 D9 C7 H5 
+H3 D8 C2 C4 
+HQ HK H7 H9 
+S9 H8 HJ ST 
+-  -  C3 C5 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "21"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.KT84.AQ987.Q6 874.J76.65.T8732 T53.A95.J42.J954 QJ962.Q32.KT3.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "a7aa8a7aa83633436334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  7
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  6
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  6
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 13,2,1,121,135,110,134,84,75,108,104,38,142,91,321,35,32,34,58,109,35,11,48,15,50,37,31,28,125,14,23,22,58,30,48,20,11,14,25,77,15,28,36,56,98,15,54,32,47,31,171,42,27,11,12
+[Auction "N"]
+1D Pass Pass 1S 
+X Pass 2D Pass 
+Pass 2S 3D 3S 
+Pass Pass Pass 
+[Play "N"]
+DA D5 D4 D3 
+D8 D6 DJ DK 
+DQ S7 D2 DT 
+SK S4 S3 S9 
+SA S8 S5 S2 
+D9 C2 H5 S6 
+H4 C3 ST SJ 
+H8 HJ HA H2 
+HT H6 H9 H3 
+HK -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "22"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQ98652.97.7.T76 7.AJT853.9865.KJ J43.KQ6.JT32.A94 KT.42.AKQ4.Q8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8a4358a4354399843998"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  4
+N  D  3
+N  C  5
+S NT  8
+S  S 10
+S  H  4
+S  D  3
+S  C  5
+E NT  4
+E  S  3
+E  H  9
+E  D  9
+E  C  8
+W NT  4
+W  S  3
+W  H  9
+W  D  9
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,4,3,61,34,223,210,25,257,82,98,150,57,15,402,57,202,78,18,298,30,36,13,29,23,17,49,170,34,23,12,45,50,24,8,376,28,50,16,17,24,10,24
+[Auction "E"]
+1H Pass 2C =1= 2S 
+Pass 3S X Pass 
+4H Pass Pass Pass 
+[Note "1: GF but may have 2♣ if bal"]
+[Play "S"]
+SJ ST SQ S7 
+DT DA D7 D8 
+HQ H2 H7 HJ 
+D2 DK H9 D5 
+CA C2 C7 CJ 
+DJ DQ S2 D6 
+H6 H4 S5 HA 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "22"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQ98652.97.7.T76 7.AJT853.9865.KJ J43.KQ6.JT32.A94 KT.42.AKQ4.Q8532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8a4358a4354399843998"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  4
+N  D  3
+N  C  5
+S NT  8
+S  S 10
+S  H  4
+S  D  3
+S  C  5
+E NT  4
+E  S  3
+E  H  9
+E  D  9
+E  C  8
+W NT  4
+W  S  3
+W  H  9
+W  D  9
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,216,75,354,97,195,86,245,131,96,79,19,51,156,41,31,110,480,26,9,61,74,43,16,43,32,14,14,33,60,27,31,44,33,13,10,24,39,19,27,12,24,10,30
+[Auction "E"]
+2H =1= Pass 2NT =2= 4S 
+Pass Pass Pass 
+[Note "1: weak 2"]
+[Note "2: enquiry"]
+[Play "E"]
+D8 DJ DQ D7 
+D6 D2 DK S8 
+HA H6 H4 H9 
+D9 D3 D4 S2 
+H8 HQ H2 H7 
+S7 SJ SK SA 
+H3 S3 ST SQ 
+CJ CA C2 C6 
+H5 HK C3 C7 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "23"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJT64.97.AQ85.A2 KQ952.32.J92.QJ7 7.54.K643.KT8643 83.AKQJT86.T7.95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "675ba675ba6572365723"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D 11
+N  C 10
+S NT  6
+S  S  7
+S  H  5
+S  D 11
+S  C 10
+E NT  6
+E  S  5
+E  H  7
+E  D  2
+E  C  3
+W NT  6
+W  S  5
+W  H  7
+W  D  2
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 17,4,3,79,133,150,18,45,138,88,38,4,39,14,15,7,152,68,66,15,76,23,13,15,39,32,17,11,255,67,64
+[Auction "S"]
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+CA C7 C3 C9 
+C2 CJ CK C5 
+H7 CQ CT D7 
+SA S2 S7 S3 
+S4 SK H4 S8 
+H9 -  C8 DT 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "23"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJT64.97.AQ85.A2 KQ952.32.J92.QJ7 7.54.K643.KT8643 83.AKQJT86.T7.95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "675ba675ba6572365723"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D 11
+N  C 10
+S NT  6
+S  S  7
+S  H  5
+S  D 11
+S  C 10
+E NT  6
+E  S  5
+E  H  7
+E  D  2
+E  C  3
+W NT  6
+W  S  5
+W  H  7
+W  D  2
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 18,2,1,117,268,98,107,105,34,21,50,58,49,32,211,16,39,22,646,56,22,42,17,19,41,36,30,35,15,11,73,36,9,19,26,35,24,11,27,181,127,48,509,47,28,6,100,34,10,19
+[Auction "S"]
+Pass 4H 4S X =1= 
+Pass Pass Pass 
+[Note "1:  * penalties [0:12]"]
+[Play "E"]
+H3 H4 HT H7 
+H2 H5 HQ H9 
+D2 DK DT D5 
+S2 S7 S3 SA 
+SQ C3 S8 SJ 
+DJ D3 D7 DA 
+SK C4 H6 ST 
+D9 D4 C5 DQ 
+S9 C6 HJ S6 
+S5 C8 HK S4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "24"]
+[West "Liam Fegarty#169859"]
+[North "Ian Johns#406067"]
+[East "Jamie Fegarty#169858"]
+[South "John O'Sullivan#077056"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKQ963.KT.8.8643 J874.Q64.KJT4.A5 T2.J972.65.QT972 5.A853.AQ9732.KJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "383283832895ab4a5ab4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  2
+N  C  8
+S NT  3
+S  S  8
+S  H  3
+S  D  2
+S  C  8
+E NT  9
+E  S  5
+E  H 10
+E  D 11
+E  C  4
+W NT 10
+W  S  5
+W  H 10
+W  D 11
+W  C  4
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,4,3,143,57,173,73,78,217,17,41,29,35,23,57,48,16,145,19,15,10,566,29,75,9
+[Auction "W"]
+1D 1S 2S =1= Pass 
+3S =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: good D raise"]
+[Note "2: Alerted"]
+[Play "S"]
+ST S5 SQ S4 
+S2 H3 SA S7 
+C7 H5 SK S8 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "24"]
+[West "John Hayton#"]
+[North "Paul Fegarty#29653"]
+[East "Michael Colin Jackson#81640"]
+[South "Catherine Curtis#113739"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKQ963.KT.8.8643 J874.Q64.KJT4.A5 T2.J972.65.QT972 5.A853.AQ9732.KJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "383283832895ab4a5ab4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  3
+N  D  2
+N  C  8
+S NT  3
+S  S  8
+S  H  3
+S  D  2
+S  C  8
+E NT  9
+E  S  5
+E  H 10
+E  D 11
+E  C  4
+W NT 10
+W  S  5
+W  H 10
+W  D 11
+W  C  4
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 21,2,1,273,58,367,93,268,60,175,37,144,36,28,28,31,283,37,55,728,35,13,50,1377,32,31,32,43,111,79,16,71,30,24,23,402,65,85,15,65,38,26,21,43,27,17,10,61,33
+[Auction "W"]
+1D 1S 2NT =1= Pass 
+3H Pass 4D Pass 
+5D Pass Pass Pass 
+[Note "1: natural"]
+[Play "N"]
+SK S4 ST S5 
+SA S7 S2 D2 
+C6 CA C2 CJ 
+S6 S8 C7 D3 
+D8 DK D5 D7 
+S3 SJ C9 DQ 
+S9 DT D6 DA 
+C3 C5 CT CK 
+HK -  -  H3 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "25"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ3.854.KQ9.KJ73 JT6.QT9.A8732.Q5 54.K7632.5.AT842 K9872.AJ.JT64.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96a6996a6a3736337363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  6
+N  C  9
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,3,1,72,164,86,52,29,63,31,124,127,122,27,31,16,39,10,48,240,22,36,7,15,36,143,29,146,21,37,8,62,16,74,8,39,19,107,14,16,35,7,20,7,14,10,22,19,24,19
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♡"]
+[Play "E"]
+SJ S4 S2 SQ 
+H9 H2 HJ H4 
+S6 S5 S7 SA 
+HT HK HA H5 
+DA D5 D4 DQ 
+HQ H3 S8 H8 
+ST H6 SK S3 
+C5 CA C6 C3 
+CQ C2 C9 CK 
+D2 C4 -  C7 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "25"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ3.854.KQ9.KJ73 JT6.QT9.A8732.Q5 54.K7632.5.AT842 K9872.AJ.JT64.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96a6996a6a3736337363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D  6
+N  C  9
+S NT  9
+S  S  6
+S  H 10
+S  D  6
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  6
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,4,2,324,42,236,51,150,74,84,91,63,90,67,39,54,30,13,26,277,20,13,53,39,28,11,12,15,37,19,31,285,27,24,16,11,22,22,10,77,26,15,207,21,33,10,17,12
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 15 17"]
+[Note "2: trf"]
+[Play "E"]
+SJ S4 S2 SQ 
+H9 HK HA H4 
+S6 S5 SK SA 
+HT H2 HJ H5 
+ST H3 S9 S3 
+C5 C2 C6 CK 
+CQ CA C9 C3 
+HQ C4 S7 CJ 
+DA D5 D6 D9 
+D2 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "26"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K8.A874.QJ97.642 T532.J2.K542.QJ5 Q9.KT953.86.T873 AJ764.Q6.AT3.AK9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "64756647567968779687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  8
+E  C  7
+W NT  7
+W  S  9
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,4,2,73,38,61,67,166,39,214,60,14,32,51,1298,35,18,40,30,21,88,95,24,19,18,61,141,73,12,76,19,80,12,289,27,18,11,18,28,11,10,25,14,22,12
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+DQ DK D6 D3 
+HA H2 H9 HQ 
+H4 HJ HK H6 
+DJ D2 D8 DT 
+D9 D4 S9 DA 
+C6 C5 C8 CA 
+S8 S2 SQ SA 
+SK S3 H3 S4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "26"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K8.A874.QJ97.642 T532.J2.K542.QJ5 Q9.KT953.86.T873 AJ764.Q6.AT3.AK9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "64756647567968779687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  9
+E  H  6
+E  D  8
+E  C  7
+W NT  7
+W  S  9
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,3,1,117,67,269,36,69,48,327,17,54,26,18,1008,34,12,15,32,295,30,87,77,45,43,109,23,15,7,962,35,8,11,12,9,9,12,11,18,225,62,69,24,24,9,58,56,19,16,7
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+DQ DK D8 D3 
+SK S2 S9 SJ 
+C6 C5 CT CK 
+S8 S3 SQ SA 
+C4 CJ C3 CA 
+C2 CQ C7 C9 
+H7 H2 H3 H6 
+H4 HJ HK HQ 
+DJ D2 D6 DT 
+D7 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "27"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT.QJT2.852.T64 973.83.KJ64.AQ98 AJ652.A9754.T9.J 84.K6.AQ73.K7532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4993349933744aa744aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  9
+S  H  9
+S  D  3
+S  C  3
+E NT  7
+E  S  4
+E  H  4
+E  D 10
+E  C 10
+W NT  7
+W  S  4
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,4,2,353,112,106,28,81,116,292,258,13,20,75,27,25,13,57,22,16,21,30,14,29,30,323,31,31,21,78
+[Auction "S"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "W"]
+S4 SK S3 S2 
+S8 SQ S7 S5 
+C7 ST S9 S6 
+HK HQ H8 H4 
+C2 C4 CA CJ 
+-  -  CQ -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "27"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQT.QJT2.852.T64 973.83.KJ64.AQ98 AJ652.A9754.T9.J 84.K6.AQ73.K7532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4993349933744aa744aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  9
+N  D  3
+N  C  3
+S NT  4
+S  S  9
+S  H  9
+S  D  3
+S  C  3
+E NT  7
+E  S  4
+E  H  4
+E  D 10
+E  C 10
+W NT  7
+W  S  4
+W  H  4
+W  D 10
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,3,1,112,179,49,122,52,131,43,40,114,112,161,41,385,40,67,2,689,35,20,27,293,47,32,42,459,25,19,29,220,36,15,23,43,29,16,40,30,45,11,29
+[Auction "S"]
+1S 2C 2S 3C 
+3S Pass Pass Pass 
+[Play "W"]
+C3 C4 CA CJ 
+DQ D2 D4 D9 
+DA D5 D6 DT 
+CK C6 C8 S2 
+S4 SK S3 S5 
+S8 SQ S7 SJ 
+C2 ST S9 S6 
+HK HQ H8 H4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "28"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q986543..A9.AJ84 AT72.Q854.8.T765 K.T97632.KQ3.932 J.AKJ.JT76542.KQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68557685576378563785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  7
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  7
+E NT  6
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  6
+W  S  3
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,4,2,160,74,47,63,192,63,23,50,189,37,638,45,30,174,119,196,38,42,266,23,49,108,160,25,20,28,25,46,23,13,106,23,26,11,75,21,5,22,13,49
+[Auction "W"]
+1D 1S X Pass 
+2D 2S Pass Pass 
+X Pass 3D Pass 
+Pass Pass 
+[Play "N"]
+S9 SA SK SJ 
+D9 D8 D3 D2 
+C4 C5 C9 CK 
+DA C6 DQ D5 
+CA C7 C3 CQ 
+CJ CT C2 D4 
+S3 -  -  D6 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "28"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q986543..A9.AJ84 AT72.Q854.8.T765 K.T97632.KQ3.932 J.AKJ.JT76542.KQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68557685576378563785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  7
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  7
+E NT  6
+E  S  3
+E  H  7
+E  D  8
+E  C  5
+W NT  6
+W  S  3
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,3,1,180,34,177,115,249,33,47,36,751,37,75,49,26,121,21,20,33,28,24,52,74,40,8,29,125,140,52,35,39,24,8,56,91,23,54,13,30
+[Auction "W"]
+1D 1S X Pass 
+2D 2S Pass Pass 
+3D Pass Pass Pass 
+[Play "N"]
+S5 SA SK SJ 
+D9 D8 D3 D2 
+DA S2 DQ D4 
+SQ S7 H7 D5 
+S3 C5 DK DJ 
+CA C6 C3 CK 
+C4 -  -  -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "29"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K9854.5.Q5.AQT42 AQ762.Q76.94.KJ3 T3.AT943.AKT2.76 J.KJ82.J8763.985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "78778787686566565665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  7
+N  C  8
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  5
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,4,2,131,42,403,74,78,31,70,114,30,36,112,37,21,25,58,37,40,11,108,43,14,29,40,21,25,25,37,83,41,21,34,19,21,12,33,13,29,92,55,13,27,11,36,12,38,32,35,19,11,10,18,25,11,9,24,22,10,8
+[Auction "N"]
+1S Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 5 - 11/12"]
+[Play "W"]
+D6 D5 D9 DT 
+C5 CQ CK C6 
+HJ H5 H6 H9 
+H2 S4 HQ HA 
+C8 CT CJ C7 
+D3 DQ D4 D2 
+C9 CA C3 H3 
+D7 C4 S2 S3 
+D8 C2 S6 ST 
+SJ S5 S7 H4 
+HK S8 H7 HT 
+H8 S9 SQ DK 
+DJ SK SA DA 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "29"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K9854.5.Q5.AQT42 AQ762.Q76.94.KJ3 T3.AT943.AKT2.76 J.KJ82.J8763.985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "78778787686566565665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  7
+N  C  8
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  5
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,3,1,52,104,234,53,55,40,111,43,30,36,32,42,126,1418,51,14,19,35,9,29,11,23,15,45,1198,37,74,7,10,19,14,47,39,28,55,8,222,24,27,8,47,16,49,8,32,20,32,18,27,9,22,6,34
+[Auction "N"]
+1S Pass 2H =1= Pass 
+2S Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: gf"]
+[Play "E"]
+D9 D2 D3 DQ 
+D4 DA D6 D5 
+CJ C6 C5 CT 
+HQ HA H2 H5 
+CK C7 C8 CQ 
+H7 HT HJ S4 
+SA S3 SJ SK 
+SQ ST D7 S5 
+H6 H3 H8 C2 
+C3 H4 HK C4 
+-  -  C9 -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "30"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K62.J75.K862.A83 AQJ.832.AJ4.J975 T943.K964.Q93.K2 875.AQT.T75.QT64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56664566648777887778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  6
+N  C  4
+S NT  5
+S  S  6
+S  H  6
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,4,2,260,41,159,61,81,40,32,80,88,89,42,16,53,59,23,34,14,24,26,29,67,18,26,98,169,21,16,10,81,26,51,27,19,24,48,23,187,32,14,19,45,14,18,36,91,17,78,19,25,31,16,13,16,15,36,12,20,11,11,9
+[Auction "E"]
+1C =1= Pass 1S =2= Pass 
+1NT =3= Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: denies 4M"]
+[Note "3: 11-14"]
+[Play "S"]
+S9 S5 S6 SQ 
+CK C4 C8 C9 
+S3 S7 SK SA 
+C2 CT C3 C5 
+H6 CQ CA C7 
+DQ D5 D2 D4 
+D9 D7 D6 DJ 
+D3 C6 S2 CJ 
+H4 HT HJ H2 
+S4 DT DK DA 
+ST S8 H5 SJ 
+H9 HQ H7 H3 
+HK HA D8 H8 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "30"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K62.J75.K862.A83 AQJ.832.AJ4.J975 T943.K964.Q93.K2 875.AQT.T75.QT64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56664566648777887778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  6
+N  C  4
+S NT  5
+S  S  6
+S  H  6
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  7
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,3,1,222,34,54,64,96,141,23,38,63,37,31,25,18,30,23,24,28,22,29,6,400,42,7,39,134,26,27,20,17,33,19,22,11,21,5,31,35,183,26,18,26,51,21,8,34,18,22,6,24,9,22,8,21,6,38,7
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+ST S5 SK SA 
+C2 CQ CA C5 
+S4 S7 S6 SQ 
+CK C4 C3 C7 
+D3 D5 DK DA 
+H6 HT HJ H2 
+DQ D7 D2 D4 
+D9 DT D6 DJ 
+H4 C6 C8 C9 
+S3 CT S2 CJ 
+S9 S8 H5 SJ 
+H9 HQ H7 H3 
+HK HA D8 H8 
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "31"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:852.A5.KT93.KQ42 KT963.843.AQ6.53 Q.J76.87542.JT97 AJ74.KQT92.J.A86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "11177111779bb669bb66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  7
+N  C  7
+S NT  1
+S  S  1
+S  H  1
+S  D  7
+S  C  7
+E NT  9
+E  S 11
+E  H 11
+E  D  6
+E  C  6
+W NT  9
+W  S 11
+W  H 11
+W  D  6
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,4,2,74,76,59,318,45,149,60,175,40,17,39,32,461,36,33,49,27,18,28,14,30,33,45,25,26,19,30,26,99,31,24,63,23,77,14,78,18,16,41,73,55,14,12,25,24,19,13,27,24
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+CT CA C2 C5 
+D5 DJ D3 DA 
+H7 HK HA H8 
+C7 C6 CK C3 
+C9 C8 CQ ST 
+SQ SA S2 S3 
+CJ S4 S5 S9 
+D7 S7 S8 SK 
+H6 HT H5 H4 
+-  HQ C4 -  
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "31"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:852.A5.KT93.KQ42 KT963.843.AQ6.53 Q.J76.87542.JT97 AJ74.KQT92.J.A86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "11177111779bb669bb66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  7
+N  C  7
+S NT  1
+S  S  1
+S  H  1
+S  D  7
+S  C  7
+E NT  9
+E  S 11
+E  H 11
+E  D  6
+E  C  6
+W NT  9
+W  S 11
+W  H 11
+W  D  6
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,3,1,133,85,29,110,35,104,25,96,90,36,22,86,345,25,35,182,13,29,25,487,21,30,44,27,20,35,30,42,21,174,20,21,37,22,25,9,31,10,22,42,21,31,12
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+CJ CA C2 C3 
+SQ SA S2 S3 
+C7 SJ S5 S6 
+D2 S4 S8 SK 
+H6 H9 HA H3 
+CT C6 CK C5 
+C9 C8 CQ S9 
+H7 HT H5 H4 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "32"]
+[West "Catherine Curtis#113739"]
+[North "Ian Johns#406067"]
+[East "Paul Fegarty#29653"]
+[South "John O'Sullivan#077056"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q85.K2.K72.98764 T976.7.AQT54.QJ3 KJ.AQJT9863.J9.2 A432.54.863.AKT5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "6393463934594a8594a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  4
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  4
+E NT  5
+E  S  9
+E  H  4
+E  D 10
+E  C  8
+W NT  5
+W  S  9
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,4,2,195,42,62,139,113,67,55,45,95,117,12,12,110,51,24,28,45,74,22,45,238,45,17,13,58,39,22,12,116,25,21,55
+[Auction "W"]
+Pass Pass 1D 4H 
+X Pass Pass Pass 
+[Play "W"]
+CK C4 C3 C2 
+D6 D2 DQ D9 
+C5 C6 CQ H8 
+SA S5 ST SK 
+D8 D7 DA DJ 
+S2 S8 S6 SJ 
+*
+
+[Event "03 Jan Johns vs Fegarty"]
+[Site "RealBridge"]
+[Date "2025.01.03"]
+[Board "32"]
+[West "John Hayton#"]
+[North "Jamie Fegarty#169858"]
+[East "Michael Colin Jackson#81640"]
+[South "Liam Fegarty#169859"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q85.K2.K72.98764 T976.7.AQT54.QJ3 KJ.AQJT9863.J9.2 A432.54.863.AKT5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Fegarty team"]
+[VisitTeam "Johns team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "6393463934594a8594a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  4
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  4
+E NT  5
+E  S  9
+E  H  4
+E  D 10
+E  C  8
+W NT  5
+W  S  9
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,3,1,113,49,111,270,91,36,43,59,114,24,8,556,33,23,57,68,190,11,51,153,60,44,15,765,31,15,11,111,30,9
+[Auction "W"]
+Pass Pass Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+CA C4 C3 C2 
+CK C6 CJ H8 
+SA S5 S9 SK 
+D6 D2 DQ DJ 
+D8 D7 DA D9 
+C5 -  CQ HA 
+*

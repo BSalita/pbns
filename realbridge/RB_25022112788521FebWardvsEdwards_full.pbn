@@ -1,0 +1,4085 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "1"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K82.932.864.AJ97 QJ95.7.KT32.T842 A64.KJT5.AQ97.K5 T73.AQ864.J5.Q63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "9898998a893534435344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,492,78,391,77,382,38,81,65,29,22,96,54,21,35,460,354,35,34,282,45,82,29,107,117,36,35,21,119,13,31,88,23,66,13,346,22,9,33,95,34,11,25,227,127,9,8,16
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2C =2= Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: stayman (N/P)"]
+[Play "W"]
+S3 S2 SJ S6 
+HQ H2 H7 H5 
+ST S8 S5 SA 
+HA H3 D3 HT 
+S7 SK S9 S4 
+D5 D4 D2 DQ 
+DJ D6 DK DA 
+H4 D8 DT D7 
+-  -  SQ -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "1"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K82.932.864.AJ97 QJ95.7.KT32.T842 A64.KJT5.AQ97.K5 T73.AQ864.J5.Q63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "7"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "9898998a893534435344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,177,112,81,38,100,90,381,38,62,206,44,17,183,51,20,49,605,46,33,698,1183,95,64,1053,29,45,34,47,606,33,27,399,16,279,25,467,300,12,19,30,14,26,24,32,146,15,10,299,22,7,42,24,19,9,12,20
+[Auction "N"]
+Pass Pass 1H Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass X 
+Pass Pass Pass 
+[Play "E"]
+H7 HT HQ H2 
+S5 H5 H6 H9 
+D2 D7 DJ D6 
+S9 S4 S7 SK 
+D3 DA D5 D4 
+DK DQ H4 D8 
+DT D9 H8 S2 
+SQ S6 S3 S8 
+SJ SA ST C7 
+C2 HJ HA H3 
+-  -  C3 -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "2"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T75.AJ87.AJ.J974 962.T2.KT962.AT2 AK.K9653.8754.63 QJ843.Q4.Q3.KQ85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85a6785a675737657376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  5
+S  H 10
+S  D  6
+S  C  7
+E NT  5
+E  S  7
+E  H  3
+E  D  7
+E  C  6
+W NT  5
+W  S  7
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 8,0,3,77,202,69,50,28,68,82,98,19,121,8,33,11,38,13,23,11,50,29,28,20,26,39,44,165,49,48,9,65,14,24,7,38,23,7,31,19
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "N"]
+S5 S2 SK S3 
+S7 S6 SA S4 
+HJ H2 H5 H4 
+ST S9 H3 SQ 
+DJ D2 D7 DQ 
+DA D6 D4 D3 
+HA HT H6 HQ 
+H7 -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "2"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T75.AJ87.AJ.J974 962.T2.KT962.AT2 AK.K9653.8754.63 QJ843.Q4.Q3.KQ85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85a6785a675737657376"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  5
+S  H 10
+S  D  6
+S  C  7
+E NT  5
+E  S  7
+E  H  3
+E  D  7
+E  C  6
+W NT  5
+W  S  7
+W  H  3
+W  D  7
+W  C  6
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 8,2,1,49,54,81,50,36,49,53,97,72,96,82,19,217,40,38,20,40,29,18,8,143,21,81,25,22,38,22,23,48,28,12,6,37,18,6,17,24,15,23,11,28
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "N"]
+S5 S2 SK S3 
+CJ CA C6 C5 
+S7 S9 SA S4 
+C9 CT C3 C8 
+ST S6 H3 SQ 
+DA D2 D4 DQ 
+H7 H2 HK H4 
+HA HT H5 HQ 
+HJ -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "3"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A42.A954.84.JT97 KJ93.K72.AJ5.642 T65.QJT.KQT2.K85 Q87.863.9763.AQ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66767667677767677676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  7
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,248,59,36,172,44,236,270,25,223,12,47,50,28,18,23,69,19,19,17,22,25,20,39,35,32,12,26,13,219,12,42,103,256,29,16,13,25,8,37,52,21,12,8,43,19,47,11,645,19,10,22,14,21,11,10,11,8,9,8
+[Auction "S"]
+Pass Pass Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+HQ H3 H4 HK 
+S5 S7 S4 SJ 
+S6 SQ SA S3 
+HT H6 H5 H2 
+HJ H8 HA H7 
+D2 D3 H9 C4 
+DT D6 D8 D5 
+DQ D7 D4 DA 
+ST S8 S2 SK 
+C5 C3 C7 S9 
+DK D9 C9 DJ 
+C8 CQ CT C2 
+CK CA CJ C6 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "3"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A42.A954.84.JT97 KJ93.K72.AJ5.642 T65.QJT.KQT2.K85 Q87.863.9763.AQ3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66767667677767677676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  7
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,111,36,39,133,38,80,44,65,31,48,102,29,64,50,37,18,30,38,17,15,33,449,28,8,62,92,21,31,78,31,21,39,15,37,37,15,13,60,19,6,25,15,21,23,249,41,17,6,36
+[Auction "S"]
+Pass Pass Pass 1D =1= 
+Pass 1NT Pass Pass 
+Pass 
+[Note "1: <16, 2+D, can have more C, any bal12-14"]
+[Play "N"]
+CJ C2 C5 CQ 
+S4 SJ S5 S7 
+SA S3 S6 SQ 
+C7 C4 CK C3 
+D4 D5 DK D3 
+CT C6 C8 CA 
+H4 HK HQ H3 
+S2 SK ST S8 
+H5 S9 D2 H6 
+D8 DA DT D6 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "4"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.AK87.AKT9732.93 J3.QT964..KJT842 Q7642.J.Q854.Q75 AKT985.532.J6.A6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "733b2734b34992849928"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D 11
+N  C  2
+S NT  7
+S  S  3
+S  H  4
+S  D 11
+S  C  3
+E NT  4
+E  S  9
+E  H  9
+E  D  2
+E  C  8
+W NT  4
+W  S  9
+W  H  9
+W  D  2
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 21,0,3,107,41,160,68,73,191,59,32,54,34,79,318,27,19,31,14,16,70,24,21,23,49,35,17,38,18,14,7,34
+[Auction "W"]
+1S 2D Pass 3D 
+Pass 5D Pass Pass 
+Pass 
+[Play "E"]
+SJ S2 SK D2 
+C4 D4 D6 DA 
+C2 DQ DJ D3 
+H4 HJ H2 HA 
+H6 S4 H5 HK 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "4"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:.AK87.AKT9732.93 J3.QT964..KJT842 Q7642.J.Q854.Q75 AKT985.532.J6.A6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "733b2734b34992849928"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D 11
+N  C  2
+S NT  7
+S  S  3
+S  H  4
+S  D 11
+S  C  3
+E NT  4
+E  S  9
+E  H  9
+E  D  2
+E  C  8
+W NT  4
+W  S  9
+W  H  9
+W  D  2
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 21,2,1,56,118,95,328,46,292,142,166,18,30
+[Auction "W"]
+1S X Pass 2D 
+2S 5D Pass Pass 
+Pass 
+[Play "W"]
+SK -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "5"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.J7.AQJ7.86543 KT43.K9.K632.KT9 Q98.QT842.8.AQJ2 J652.A653.T954.7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "9686a9686a3646336463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  8
+N  D  6
+N  C 10
+S NT  9
+S  S  6
+S  H  8
+S  D  6
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  6
+E  C  3
+W NT  3
+W  S  6
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,279,97,58,59,39,28,482,82,654,22,34,58,22,26,256,90,240,22,18,22,27,33,35,42,13,27,539,22,54,14,50,83,12,10,16,57,10,24,25,8,26,24,57,26,14,54,875
+[Auction "N"]
+1C =1= Pass 1H Pass 
+1NT Pass 2D =2= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * 2+ [0:09]"]
+[Note "2: FG checkback"]
+[Play "E"]
+S3 S8 SJ SA 
+C9 CQ C7 C4 
+DK D8 D5 DQ 
+S4 S9 S2 S7 
+CT CA H5 C3 
+CK CJ H3 C5 
+SK SQ S5 D7 
+ST H2 S6 HJ 
+D2 -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "5"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.J7.AQJ7.86543 KT43.K9.K632.KT9 Q98.QT842.8.AQJ2 J652.A653.T954.7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "9686a9686a3646336463"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  8
+N  D  6
+N  C 10
+S NT  9
+S  S  6
+S  H  8
+S  D  6
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  6
+E  C  3
+W NT  3
+W  S  6
+W  H  4
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,207,30,87,37,98,28,956,458,650,40,96,67,45,681,48,128,35,44,77,46,22,12,154,36,22,39,51,284,23,25,229,19,11,25,26,16,17,34,28,21,14,43,120,21,6,59,399,22,13,11,16,24,15,39,34
+[Auction "N"]
+1C Pass 1H Pass 
+1NT Pass 3C Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S3 S8 SJ SA 
+CT CQ C7 C4 
+DK D8 D4 DQ 
+S4 S9 S2 S7 
+C9 CA H3 C3 
+CK CJ H5 C6 
+SK SQ S5 D7 
+ST H2 S6 H7 
+HK H4 H6 HJ 
+H9 HT HA C5 
+-  -  D5 -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "6"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT2.754.A9875.T3 AJ76.AKJ.Q32.AK6 Q93.632.64.J9842 854.QT98.KJT.Q75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3334533345a9a98a9a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  5
+E NT 10
+E  S  9
+E  H 10
+E  D  9
+E  C  8
+W NT 10
+W  S  9
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,341,54,166,46,39,30,288,27,17,29,41,127,17,17,31,23,13,12,122,23,10,11,18,19,17,19,26,23,22,11,24,17,12,13,14,11,12,11,10,26,11,21,11,20,10,14,9,10,12,10,61,8,54,21,8,18,9,15,9,8,7,6
+[Auction "E"]
+2C =1= Pass 2D =2= Pass 
+2NT =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: big"]
+[Note "2: waiting"]
+[Note "3:  * 22-23 [0:07]"]
+[Play "S"]
+C4 C5 CT CA 
+D4 DT D5 D3 
+H2 H8 H4 HK 
+D6 DJ DA D2 
+C2 DK D7 DQ 
+H3 H9 H5 HA 
+H6 HQ H7 HJ 
+C8 HT C3 S7 
+C9 C7 S2 CK 
+CJ CQ D9 C6 
+SQ S4 ST SJ 
+S3 S5 SK SA 
+S9 S8 D8 S6 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "6"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT2.754.A9875.T3 AJ76.AKJ.Q32.AK6 Q93.632.64.J9842 854.QT98.KJT.Q75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3334533345a9a98a9a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  5
+E NT 10
+E  S  9
+E  H 10
+E  D  9
+E  C  8
+W NT 10
+W  S  9
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,213,52,66,26,28,29,108,267,31,94,30,38,14,12,28,29,11,14,34,18,27,23,38,32,23,26,56,56,14,8,21,49,22,16
+[Auction "E"]
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 20-22"]
+[Play "S"]
+S3 S4 SK SA 
+H6 H8 H5 HK 
+H2 H9 H7 HA 
+H3 HQ H4 HJ 
+C8 HT D7 D2 
+D4 DT DA D3 
+SQ S5 ST SJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "7"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:543.A.A83.AK5432 AQT762.62.K42.96 J98.QJ9843.9.QT7 K.KT75.QJT765.J8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "8593a8593a5648356483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  3
+N  C 10
+S NT  8
+S  S  5
+S  H  9
+S  D  3
+S  C 10
+E NT  5
+E  S  6
+E  H  4
+E  D  8
+E  C  3
+W NT  5
+W  S  6
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,232,119,547,58,45,237,52,66,48,86,46,31,10,29,35,29,11,26,9,64,11,27,26,47,55,13,57,28,9,9,245,27,13,12,15,39,21,10,41,28,16,9,26,39,19,9,32
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+Pass Pass 
+[Note "1: weak 2 in a major"]
+[Note "2:  * poc [0:08]"]
+[Play "E"]
+C9 C7 C8 CA 
+H2 H3 H5 HA 
+D2 D9 D6 DA 
+D4 H4 D5 D3 
+H6 HQ HK S4 
+S7 S8 SK S5 
+DK H8 DQ D8 
+S2 HJ H7 S3 
+C6 CQ CJ C2 
+S6 CT HT C3 
+-  -  DJ -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "7"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:543.A.A83.AK5432 AQT762.62.K42.96 J98.QJ9843.9.QT7 K.KT75.QJT765.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "8593a8593a5648356483"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  3
+N  C 10
+S NT  8
+S  S  5
+S  H  9
+S  D  3
+S  C 10
+E NT  5
+E  S  6
+E  H  4
+E  D  8
+E  C  3
+W NT  5
+W  S  6
+W  H  4
+W  D  8
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,2,1,280,106,229,218,40,227,89,127,29,215,70,30,12,303,18,6,20,138,22,85,42,90,53,8,19,44,22,6,243,98,24,5,18,25,52,33,44,49,21,34,18,43,56,11,31
+[Auction "S"]
+2D =1= Pass 2H =2= 2S 
+Pass 2NT Pass Pass 
+Pass 
+[Note "1: multi (not wk in S)"]
+[Note "2: to play if weak 2h"]
+[Play "N"]
+CK C6 CT C8 
+C4 C9 CQ CJ 
+CA S2 C7 D5 
+C5 H2 H3 D6 
+C3 S6 H4 D7 
+HA H6 H8 H5 
+C2 S7 D9 H7 
+S5 ST SJ SK 
+DA D2 S8 DQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "8"]
+[West "John Rolph#78483"]
+[North "Ed SCERRI#227951"]
+[East "Sandy Fulton#29154"]
+[South "Malcolm Pryor#654574"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AKJ962.KQJ93.Q A965.Q.854.AKT72 J874.T.T762.J864 QT32.87543.A.953"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "547a3547a36943969439"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D 10
+N  C  3
+S NT  5
+S  S  4
+S  H  7
+S  D 10
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D  3
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  3
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 21,0,3,93,71,39,77,124,44,80,74,108,45,50,26,160,38,50,36,30,187,16,78,13,1168,47,30,32,25,30,35,12,40,27,14,13,57,46,34,10,86,50,15,15,52,54,16,21,116,152,19,26,10,26,10,13,9,15,8,15,8,11,7,11,8,10,7,9
+[Auction "W"]
+Pass 1H X Pass 
+1S 3D 3S 4D 
+4S 5D Pass Pass 
+Pass 
+[Play "E"]
+CK C4 C3 CQ 
+SA S4 S3 SK 
+S5 SJ SQ D3 
+HQ HT H3 HA 
+D4 D2 DA DJ 
+C2 C6 C9 D9 
+S6 D6 H4 H2 
+D5 D7 C5 DQ 
+D8 DT H5 HJ 
+S9 S7 S2 DK 
+C7 S8 H7 HK 
+CT C8 H8 H9 
+CA CJ ST H6 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "8"]
+[West "Trevor Ward#63728"]
+[North "peter kelly#"]
+[East "Rob Cliffe#16537"]
+[South "Alex Hogg#60980"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AKJ962.KQJ93.Q A965.Q.854.AKT72 J874.T.T762.J864 QT32.87543.A.953"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "547a3547a36943969439"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D 10
+N  C  3
+S NT  5
+S  S  4
+S  H  7
+S  D 10
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D  3
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  3
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 16,2,1,51,108,40,79,46,180,61,370,338,61,114,214,51,66,37,201,158,14,38,1392,85,15,100,240,22,56,27,867,33,70,21,50,18,70,14,655,39,28,28,129,64,91,15,38,42,30,14,170,34,20,13,36,39,28,16,78,202,9,17,38,32,24,18,13,23,11,9
+[Auction "W"]
+Pass 1H X Pass 
+1S 3D Pass Pass 
+3S Pass Pass 4D 
+Pass Pass Pass 
+[Play "E"]
+CK C4 C9 CQ 
+CA C6 C5 D3 
+HQ HT H8 HA 
+C7 D2 H5 H2 
+C2 CJ C3 SK 
+S5 S4 S2 D9 
+S6 S7 H3 H9 
+D4 D6 H4 HK 
+S9 S8 S3 DJ 
+D5 D7 H7 HJ 
+CT C8 ST DQ 
+SA DT DA H6 
+D8 SJ SQ DK 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "9"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K93.QJT9.J63.765 AJT2.AK6.Q985.T4 76.853.A74.AKJ92 Q854.742.KT2.Q83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "44546435468989789897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,70,318,452,167,82,398,198,16,24,112,56,17,12,56,98,22,42,36,20,11,15,221,93,19,15,36,51,35,84,161,24,21,34,72,14,14,18,52,15,22,19,49,16,10,22
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "S"]
+CK C3 C7 C4 
+C2 CQ C5 CT 
+S7 SQ SK SA 
+S6 S4 S3 SJ 
+H5 S5 S9 ST 
+H3 S8 HQ S2 
+DA D2 D6 DQ 
+CA C8 C6 D5 
+CJ H2 HJ D8 
+C9 H4 HT H6 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "9"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K93.QJT9.J63.765 AJT2.AK6.Q985.T4 76.853.A74.AKJ92 Q854.742.KT2.Q83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "44546435468989789897"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  3
+S  H  5
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,0,80,223,200,108,78,53,36,24,102,109,50,19,32,117,392,39,10,21,27,9,32,56,33,16,19,124,27,23,21,19,24,30,22,24,17,8,31,14,17,32,19,1516,37,37,9,24,8,17,10,219,22,9,12,25,35,20,7,21,19,7,5
+[Auction "N"]
+Pass 1D 2C Pass 
+Pass X Pass 2S 
+3C 3S Pass Pass 
+Pass 
+[Play "N"]
+HQ HA H8 H4 
+D6 D5 D7 DK 
+S3 SJ S6 S5 
+C7 C4 CK C3 
+H9 HK H5 H2 
+C6 CT CA C8 
+HJ H6 H3 H7 
+DJ DQ DA D2 
+D3 D8 D4 DT 
+C5 D9 C2 CQ 
+S9 S2 S7 SQ 
+SK SA C9 S4 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "10"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ7.AKQJ54.873.3 AT2.6.Q5.QJT8654 94.92.AJ9642.K92 K8653.T873.KT.A7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "84994849945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  9
+N  D  9
+N  C  4
+S NT  8
+S  S  4
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,0,209,62,239,62,19,943,50,41,623,27,19,816,271,94,12,12,32,18,75,35,17,14,15,15,53,18,17,22,9,24,7,26,10,39,7
+[Auction "E"]
+3C Pass Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+CQ C2 C7 C3 
+DQ D2 DK D7 
+D5 DJ DT D3 
+H6 H2 H3 HQ 
+S2 H9 H7 HK 
+C6 S4 H8 HA 
+C4 S9 HT HJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "10"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ7.AKQJ54.873.3 AT2.6.Q5.QJT8654 94.92.AJ9642.K92 K8653.T873.KT.A7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "84994849945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  9
+N  D  9
+N  C  4
+S NT  8
+S  S  4
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,1,3,133,44,87,37,34,79,72,158,24,222,211,164,84,256,56,25,121,2449,204,47,119,270,43,12,8,317
+[Auction "E"]
+3C Pass Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+CA C3 CQ C2 
+S5 SQ SA S4 
+DT D3 DQ DA 
+DK D8 D5 D9 
+H7 -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "11"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJT653.AK.AQJ7.T K9.JT5432.KT5.62 87.976.432.AQJ87 Q42.Q8.986.K9543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9a6a99a6a93262432624"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D 10
+N  C  9
+S NT  9
+S  S 10
+S  H  6
+S  D 10
+S  C  9
+E NT  3
+E  S  2
+E  H  6
+E  D  2
+E  C  4
+W NT  3
+W  S  2
+W  H  6
+W  D  2
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,51,42,137,137,425,122,287,37,40,49,117,338,48,43,184,36,18,34,387,29,97,30,27,31,11,17,143,36,10,16,54,16,10,22,50,22,10,31,37,16,24,15
+[Auction "S"]
+Pass Pass 1C =1= 2H =2= 
+X =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: 16+, any distrn"]
+[Note "2: WJO"]
+[Note "3: in principle 5-7 any, or 8+bal no stop"]
+[Play "E"]
+C6 CA C3 CT 
+DK D2 D6 DQ 
+C2 CQ CK S3 
+S9 S7 S4 SA 
+D5 D3 D8 DA 
+DT D4 D9 DJ 
+SK S8 S2 SJ 
+H4 H6 HQ HA 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "11"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJT653.AK.AQJ7.T K9.JT5432.KT5.62 87.976.432.AQJ87 Q42.Q8.986.K9543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9a6a99a6a93262432624"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D 10
+N  C  9
+S NT  9
+S  S 10
+S  H  6
+S  D 10
+S  C  9
+E NT  3
+E  S  2
+E  H  6
+E  D  2
+E  C  4
+W NT  3
+W  S  2
+W  H  6
+W  D  2
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,81,263,79,57,66,37,398,121,257,43,426,22,150,33,53,26,303,39,72,42,32,27,82,701,14,36,560,29,31,33,26,24,23,25,90,30,7,27,204,16,21,6,748,35,21,9,22,19,17,10,64,25,19,44,27,19,12,24,77,18,13,14,34,26,11,11,25,9,20,6,17,7,19,12
+[Auction "S"]
+Pass Pass 1S Pass 
+1NT Pass 2C =1= 2H 
+Pass Pass X Pass 
+3C Pass 3D Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: either min with 6s or most strong hands"]
+[Play "E"]
+H4 H6 HQ HA 
+C6 CA C3 CT 
+DK D3 D6 DQ 
+H5 H7 H8 HK 
+D5 D2 D8 DA 
+S9 S7 S2 SA 
+DT D4 D9 DJ 
+SK S8 S4 S3 
+HJ H9 C4 S5 
+H2 C7 SQ SJ 
+C2 C8 CK S6 
+H3 CJ C5 ST 
+HT CQ C9 D7 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "12"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q93.AKQ962.KQ8.8 KT52.53.7432.Q97 A76.J4.A5.AKT643 J84.T87.JT96.J52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7H"]
+[Result "13"]
+[Score "NS 2210"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cadaccadab1303113031"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 13
+N  D 10
+N  C 12
+S NT 12
+S  S 10
+S  H 13
+S  D 10
+S  C 11
+E NT  1
+E  S  3
+E  H  0
+E  D  3
+E  C  1
+W NT  1
+W  S  3
+W  H  0
+W  D  3
+W  C  1
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 32,2,0,77,108,33,84,36,380,67,282,47,195,31,86,31,35,65,139,1650,34,25,44,30,17,23,70,26,44,34,220,20,63,27,119,20,148,16,107,15,11,13,25,15,30,21
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 3H =1= Pass 4NT 
+Pass 5S =2= Pass 7H 
+Pass Pass Pass 
+[Note "1: good suit but few controls"]
+[Note "2: 2+Qh"]
+[Play "E"]
+ST SA S4 S3 
+C7 CA C2 C8 
+CQ C3 C5 H2 
+H3 HJ H7 H6 
+C9 C4 CJ HA 
+H5 H4 H8 HK 
+S2 S6 HT HQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "12"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q93.AKQ962.KQ8.8 KT52.53.7432.Q97 A76.J4.A5.AKT643 J84.T87.JT96.J52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7H"]
+[Result "13"]
+[Score "NS 2210"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cadaccadab1303113031"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 13
+N  D 10
+N  C 12
+S NT 12
+S  S 10
+S  H 13
+S  D 10
+S  C 11
+E NT  1
+E  S  3
+E  H  0
+E  D  3
+E  C  1
+W NT  1
+W  S  3
+W  H  0
+W  D  3
+W  C  1
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 32,1,3,82,109,82,205,105,391,35,244,87,496,74,588,79,142,24,355,69,68,43,496,67,33,16,2303,247,40,14,379,28,13,17,18,23,17,24,63,23,11,16,17,12,11,13,37,22,19,10,26,10,13,8,23,18,17,8
+[Auction "W"]
+Pass 1C =1= Pass 1S =2= 
+Pass 1NT =3= Pass 2C =4= 
+Pass 4H Pass 4NT =5= 
+Pass 5S =6= Pass 5NT =7= 
+Pass 6D Pass 7H 
+Pass Pass Pass 
+[Note "1: 16+, any"]
+[Note "2: 5+clubs, 8+, FG"]
+[Note "3: Relay"]
+[Note "4: 6/7 clubs, no singleton/void"]
+[Note "5: RKCB hearts"]
+[Note "6: 2 with Q"]
+[Note "7: Ks ?"]
+[Play "E"]
+S2 SA S4 S3 
+C9 CA C2 C8 
+CQ C3 C5 H6 
+H3 H4 H7 HA 
+H5 HJ H8 H2 
+C7 C4 CJ HK 
+S5 S6 HT HQ 
+D4 DA D6 D8 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "13"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT65.T943.954.7 932.Q52.KJ32.JT4 K.K8.AT876.AQ853 Q874.AJ76.Q.K962"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57686677967654676546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  9
+S  C  6
+E NT  7
+E  S  6
+E  H  5
+E  D  4
+E  C  6
+W NT  7
+W  S  6
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,0,306,52,606,48,73,315,22,83,660,21,12,8,28,14,30,12,98,21,16,7,59,33,25,17,25,22,32,10,75,14,26,15,34,11,46,15,14,21,14,20,52,31,20,28,44,27,8,15,7,38,10,13,8,27,5,14
+[Auction "N"]
+2H =1= Pass Pass Pass 
+[Note "1: weak with both majors"]
+[Play "E"]
+CJ CA C2 C7 
+S2 SK S4 S6 
+C4 C3 C6 H3 
+S3 D6 S7 SA 
+D3 DA DQ D4 
+CT C5 C9 H4 
+S9 H8 S8 S5 
+HQ C8 CK HT 
+H2 HK HA H9 
+H5 CQ HJ D5 
+D2 D7 SQ SJ 
+DJ D8 H6 D9 
+DK DT H7 ST 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "13"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJT65.T943.954.7 932.Q52.KJ32.JT4 K.K8.AT876.AQ853 Q874.AJ76.Q.K962"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57686677967654676546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  9
+S  C  6
+E NT  7
+E  S  6
+E  H  5
+E  D  4
+E  C  6
+W NT  7
+W  S  6
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,1,3,52,39,189,154,120,148,52,55,100,26,142,69,35,38,254,172,18,14,188,35,8,10,105,30,11,11,28,21,21,10,41,11,11,20,50,23,12,37,64,30,19,12,106,17,25,38,618,40,11,249,16,18,20,8,10,12,22,8,13,10,20,7,17,7,7,5
+[Auction "N"]
+Pass Pass 1D =1= X 
+1S Pass 2C Pass 
+2D Pass 3D Pass 
+Pass Pass 
+[Note "1: <16, 2+D, can have more C, any bal12-14"]
+[Play "W"]
+DQ D4 D2 DA 
+S7 S5 S2 SK 
+C2 C7 C4 CA 
+C6 D5 CT C3 
+S4 SA S3 H8 
+S8 S6 S9 D6 
+C9 D9 CJ C5 
+SQ ST H2 D8 
+CK SJ D3 CQ 
+H7 H3 DK DT 
+H6 H4 DJ D7 
+HA H9 H5 HK 
+HJ HT HQ C8 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "14"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQJ98.95.A74.Q84 K2.QJT.JT862.AK2 T43.AK32.KQ53.T6 765.8764.9.J9753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "99785997853355833558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  5
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  5
+E NT  3
+E  S  3
+E  H  5
+E  D  5
+E  C  8
+W NT  3
+W  S  3
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,2,0,140,58,72,74,37,46,38,246,46,49,33,31,16,173,95,8,45,166,54,8,64,181,18,51,20,33,38,13,45,223,26,33,21,259,35,8,52,43,15,35,19,31,18,22,14,20,23,29,13
+[Auction "E"]
+1D 1H Pass 1S 
+Pass 2S Pass 3C 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+CA C6 C7 C8 
+HQ HA H8 H5 
+CK CT CJ CQ 
+HJ HK H4 H9 
+SK S3 S7 SJ 
+HT H2 H7 S8 
+C2 ST C5 C4 
+S2 S4 S5 SA 
+D6 H3 S6 SQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "14"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AQJ98.95.A74.Q84 K2.QJT.JT862.AK2 T43.AK32.KQ53.T6 765.8764.9.J9753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "99785997853355833558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  8
+N  C  5
+S NT  9
+S  S  9
+S  H  7
+S  D  8
+S  C  5
+E NT  3
+E  S  3
+E  H  5
+E  D  5
+E  C  8
+W NT  3
+W  S  3
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,1,3,169,27,94,206,43,243,58,41,28,34,111,50,14,49,34,31,37,413,25,43,13,12,35,28,21,295,16,40,24,26,19,70,24,20,23,78,22,20,53,24,15,14,15,7,15,21,12,8,14
+[Auction "E"]
+1NT =1= Pass Pass 2S =2= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 11-14"]
+[Note "2:  * S + m [0:09]"]
+[Play "E"]
+HQ HA H8 H5 
+CK C6 C3 C8 
+HJ HK H7 H9 
+CA CT CJ CQ 
+HT H2 H6 S8 
+C2 ST C5 C4 
+SK S3 S5 SQ 
+DJ D3 D9 DA 
+S2 S4 S6 SA 
+D2 H3 S7 SJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "15"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q8754.2.8654.QJ3 KT.AJ8765.Q9.K52 J6.QT943.AK2.A74 A932.K.JT73.T986"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "57666576667677776777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 12,2,0,123,62,149,61,56,201,67,65,73,49,25,289,109,47,22,19,23,10,16,26,30,9,280,21,19,26,21,12,19,9,12,19,16,25,32,43,21,14,17,13,19,7,8,64,22,10,10,15,9,16,23,13,11,18,6,9,8,11,5
+[Auction "S"]
+1NT =1= Pass 2H =2= 3H 
+Pass Pass Pass 
+[Note "1:  * 14-16 [0:09]"]
+[Note "2: transfer"]
+[Play "S"]
+DA D3 D8 D9 
+SJ S2 S7 SK 
+H3 HK H2 H6 
+DK D7 D4 DQ 
+CA C6 C3 C2 
+C7 C8 CJ CK 
+H4 S3 S4 HA 
+S6 SA S5 ST 
+D2 DT D5 C5 
+C4 C9 CQ H5 
+H9 S9 D6 H7 
+HQ CT S8 H8 
+HT DJ SQ HJ 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "15"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q8754.2.8654.QJ3 KT.AJ8765.Q9.K52 J6.QT943.AK2.A74 A932.K.JT73.T986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "57666576667677776777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 2,1,3,111,48,161,52,200,147,30,58,305,47,24,12,175,21,15,61,60,14,9,8,70,43,33,63,420,34,9,12,92,44,15,10,16,18,37,11,191,23,9,20,74,585,36,50,63,33,8,10,18,12,20,7,7,12,11,7
+[Auction "S"]
+1H Pass Pass Pass 
+[Play "W"]
+CT CQ CK CA 
+C6 CJ C5 C4 
+HK H2 H6 HT 
+C9 C3 C2 C7 
+C8 S4 D9 H3 
+D7 D4 DQ DA 
+S3 S5 SK SJ 
+SA S7 ST S6 
+DT D5 H5 D2 
+S2 S8 H7 H9 
+D3 D6 H8 DK 
+S9 D8 HA H4 
+DJ SQ HJ HQ 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "16"]
+[West "Malcolm Pryor#654574"]
+[North "peter kelly#"]
+[East "Ed SCERRI#227951"]
+[South "Alex Hogg#60980"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J65.K8642.A5.JT3 432.AQ53.T62.K87 AKQ9.J97.KQ93.95 T87.T.J874.AQ642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68976689766446764467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  6
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  6
+E  S  4
+E  H  4
+E  D  6
+E  C  7
+W NT  6
+W  S  4
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,0,81,36,47,144,40,141,33,55,30,84,24,37,43,56,14,54,433,15,46,50,23,8,11,18,21,33,12,1144,24,8,9,89,31,8,9,17,19,8,8,58,25,8,8,32,30,9,21,43,17,21,8
+[Auction "W"]
+Pass Pass Pass 1NT =1= 
+Pass 2D =2= Pass 2H 
+Pass 2NT Pass 4H 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: transfer"]
+[Play "W"]
+S8 S5 S2 SK 
+D4 DA D2 D3 
+HT H2 H3 HJ 
+D7 D5 D6 DK 
+ST SJ S3 S9 
+S7 S6 S4 SA 
+D8 C3 DT DQ 
+C2 CT H5 SQ 
+CQ CJ C7 C5 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "16"]
+[West "John Rolph#78483"]
+[North "Trevor Ward#63728"]
+[East "Sandy Fulton#29154"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J65.K8642.A5.JT3 432.AQ53.T62.K87 AKQ9.J97.KQ93.95 T87.T.J874.AQ642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68976689766446764467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  6
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  6
+E  S  4
+E  H  4
+E  D  6
+E  C  7
+W NT  6
+W  S  4
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,79,23,36,91,63,87,42,45,44,34,24,53,71,36,34,174,561,39,41,21,43,23,20,30,176,103,22,31,33,69,46,112,37,13,43,20,12,18,33,31,39,12,10,342,44,12,9,386,46,13,19,29,22,44,9,32,10,9,8,43,18,8,9,10,8,6,36
+[Auction "W"]
+Pass Pass Pass 1NT =1= 
+Pass 2D =2= Pass 2H 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: H"]
+[Play "W"]
+S7 S5 S2 SQ 
+HT H2 HQ HJ 
+ST SJ S4 S9 
+C2 H4 H3 H9 
+D7 DA D2 D3 
+D4 D5 D6 DK 
+D8 C3 DT DQ 
+S8 S6 S3 SA 
+C4 H8 HA H7 
+CQ CT C7 C5 
+CA CJ C8 C9 
+C6 H6 CK D9 
+DJ HK H5 SK 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "17"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:64.KJ.762.QT8742 KQ9753.Q7.K94.A3 AT82.A83.JT53.J6 J.T96542.AQ8.K95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "44347343478999689996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  7
+S NT  3
+S  S  4
+S  H  3
+S  D  4
+S  C  7
+E NT  8
+E  S  9
+E  H  9
+E  D  9
+E  C  6
+W NT  8
+W  S  9
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,3,4,164,71,67,145,37,75,65,16,43,212,132,20,9,13,27,16,61,183,27,16,16,13,44,9,12,11,35,10,10,67,36,17,9,35,23,18,34,47,22,64,10
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+D3 DA D2 D4 
+SA SJ S6 S3 
+DJ D8 D6 DK 
+S2 H2 S4 SK 
+S8 H4 C7 SQ 
+D5 DQ D7 D9 
+H3 HT HK H7 
+HA H5 HJ HQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "17"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:64.KJ.762.QT8742 KQ9753.Q7.K94.A3 AT82.A83.JT53.J6 J.T96542.AQ8.K95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "44347343478999689996"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  7
+S NT  3
+S  S  4
+S  H  3
+S  D  4
+S  C  7
+E NT  8
+E  S  9
+E  H  9
+E  D  9
+E  C  6
+W NT  8
+W  S  9
+W  H  9
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,1,2,63,70,90,196,106,119,179,255,415,28,48,343,128,67,23,18,39,17,16,89,443,29,10,19,859,38,32,10,70,23,35,13,19,11,19,11,363,25,136,25,45,21,25,9,19,23,9,6
+[Auction "N"]
+Pass 1S Pass 1NT =1= 
+2C 2S 2NT Pass 
+3C Pass Pass Pass 
+[Note "1: up to poor 12"]
+[Play "E"]
+SK SA SJ S4 
+CA CJ C5 C2 
+S3 S2 C9 S6 
+D4 D3 DA D6 
+D9 D5 DQ D7 
+DK DT D8 D2 
+S5 S8 CK HJ 
+H7 H3 HT HK 
+C3 C6 H2 CQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "18"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:83.KQ65.KQ6.AJ87 T52.A4.T7543.Q62 K4.J9732.AJ.K953 AQJ976.T8.982.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66a7a66a7a6726267262"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 10
+N  D  7
+N  C 10
+S NT  6
+S  S  6
+S  H 10
+S  D  7
+S  C 10
+E NT  6
+E  S  7
+E  H  2
+E  D  6
+E  C  2
+W NT  6
+W  S  7
+W  H  2
+W  D  6
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 22,3,4,58,82,98,161,92,205,63,221,30,344,49,36,22,113,87,10,26,1038,383,26,45,33,41,23,12,12,38,21,55,32,42,23,7
+[Auction "E"]
+Pass 1H 2S =1= 3S =2= 
+4S Pass Pass 5C 
+Pass 5H Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: UAC"]
+[Play "W"]
+SA S3 S2 S4 
+C4 C7 CQ CK 
+H8 HK HA H3 
+S7 S8 ST SK 
+HT HQ H4 H2 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "18"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:83.KQ65.KQ6.AJ87 T52.A4.T7543.Q62 K4.J9732.AJ.K953 AQJ976.T8.982.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66a7a66a7a6726267262"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H 10
+N  D  7
+N  C 10
+S NT  6
+S  S  6
+S  H 10
+S  D  7
+S  C 10
+E NT  6
+E  S  7
+E  H  2
+E  D  6
+E  C  2
+W NT  6
+W  S  7
+W  H  2
+W  D  6
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,1,2,719,53,61,420,96,78,26,92,28,110,466,39,60,432,34,9,21,124,14,15,38,12,26,9,10,30,21,9,10,279,14,27,6,14,10,30,22,21,18,20,7,47,18,16,7
+[Auction "E"]
+Pass 1H 2S 3S =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: Good raise + "]
+[Play "W"]
+C4 C7 CQ CK 
+D2 D6 D5 DA 
+D8 DQ D4 DJ 
+D9 DK D7 S4 
+H8 HK HA H2 
+SA S3 S5 SK 
+SQ S8 S2 H3 
+HT HQ H4 H7 
+CT CA C2 C3 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "19"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ75.97654.652.5 632.AJ.KJ93.QJ87 9.83.AQT874.KT92 AKT84.KQT2..A643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3256232572aa86b9b86a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  6
+N  C  2
+S NT  3
+S  S  2
+S  H  5
+S  D  7
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D  6
+E  C 11
+W NT  9
+W  S 11
+W  H  8
+W  D  6
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 28,3,4,271,90,353,35,126,50,43,88,60,125,32,265,62,16,52,57,31,18,12,23,35,11,23,31,19,9,27,12,34,18,13,93,18,32,47,11,35,8,10,13,22,11,29,13,8,16,46,17,45,36,17,15,23,22,11,19
+[Auction "S"]
+2D =1= X 4D X 
+5D 6D Pass 6S 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+H8 H2 H6 HJ 
+S9 SA S5 S2 
+D7 SK S7 S3 
+H3 HT H4 HA 
+CK CA C5 CQ 
+C2 C3 D2 CJ 
+D4 S4 D5 D3 
+D8 HQ H5 C8 
+DT HK H7 C7 
+C9 C4 H9 S6 
+DQ S8 D6 D9 
+-  C6 -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "19"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ75.97654.652.5 632.AJ.KJ93.QJ87 9.83.AQT874.KT92 AKT84.KQT2..A643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3256232572aa86b9b86a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  6
+N  C  2
+S NT  3
+S  S  2
+S  H  5
+S  D  7
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D  6
+E  C 11
+W NT  9
+W  S 11
+W  H  8
+W  D  6
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 25,1,2,212,102,313,300,75,633,46,488,48,16,34,62,1767,32,66,240,33,27,16,48,29,27,6,84,18,17,16,22,67,74,26,88,201,8,20,58,11,43,6,156,14,21,7,35,15,35,39,52
+[Auction "S"]
+2D =1= X 4D X 
+Pass 5D Pass 6C 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+DA C3 D6 D3 
+H8 H2 H7 HA 
+DT C4 D5 D9 
+C2 CA C5 C7 
+CK C6 D2 CJ 
+H3 HT H6 HJ 
+C9 S4 H4 CQ 
+S9 SA S5 S2 
+CT HK H5 S3 
+D8 -  -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "20"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:98652.865.AK42.9 KQ7.Q973.JT.AKQ8 T.AJT42.Q95.JT43 AJ43.K.8763.7652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "56764567648757887578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  6
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 12,3,4,108,32,27,86,98,593,316,303,43,60,43,214,706,136,163,16,27,23,135,29,29,452,155,14,33,35,27,21,13,63,19,31,23,13,43,52,33,475,106,23,9,161,25,27,17
+[Auction "W"]
+Pass Pass 1C 1H 
+X 2D X 2H 
+3C 3H Pass Pass 
+Pass 
+[Play "W"]
+C6 C9 CQ C4 
+HK H5 H3 HJ 
+D7 D2 DT DQ 
+C2 H6 C8 C3 
+S4 S2 SQ ST 
+C5 H8 H9 HT 
+S3 S5 H7 HA 
+C7 S6 CK CT 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "20"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:98652.865.AK42.9 KQ7.Q973.JT.AKQ8 T.AJT42.Q95.JT43 AJ43.K.8763.7652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "56764567648757887578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  7
+N  D  6
+N  C  4
+S NT  5
+S  S  6
+S  H  7
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  5
+E  D  7
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,1,2,76,36,150,26,51,43,177,49,198,29,24,25,82,238,35,49,43,101,23,10,54,49,12,46,93,511,112,15,32,220,46,6,23,18,84,134,20,24,14,8,22,28,15,11,53,16,15,5,26,38,10,10
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 2NT =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: 17-18"]
+[Play "S"]
+ST S3 S9 SK 
+HA HK H8 H3 
+C3 C2 C9 CK 
+H2 S4 S8 SQ 
+C4 SA S2 S7 
+CT SJ S6 DT 
+CJ C5 H6 CA 
+H4 C6 H5 CQ 
+D5 C7 D2 C8 
+HT D3 D4 HQ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "21"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:75.KJ532.AJ43.52 T832.94.865.AJ87 QJ64.T.QT72.KT93 AK9.AQ876.K9.Q64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "66686766866775767757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  6
+S  H  6
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 9,3,4,86,45,42,215,36,113,45,52,35,106,54,98,204,431,34,138,24,25,51,88,90,37,212,305,71,36,31,351,41,25,19,23,90,26,32,508,59,80,36,59,27,19,11,46,39,12,21,36,118,15,23,14,23,14,19,15,22,26,8,11
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 1S Pass 2NT =1= 
+Pass Pass Pass 
+[Note "1:  * 18-20 [0:15]"]
+[Play "N"]
+S7 S2 S4 S9 
+C5 CJ CK C4 
+HK H9 HT HQ 
+C2 C7 C9 CQ 
+H2 H4 D7 HA 
+HJ D5 D2 H7 
+H3 D6 DT H8 
+S5 S3 S6 SK 
+D4 S8 SJ SA 
+D3 CA C3 C6 
+DA D8 DQ DK 
+DJ C8 CT D9 
+H5 -  -  -  
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "21"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:75.KJ532.AJ43.52 T832.94.865.AJ87 QJ64.T.QT72.KT93 AK9.AQ876.K9.Q64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "66686766866775767757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  6
+S  H  6
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  7
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 9,1,2,47,41,83,34,34,78,49,26,44,27,65,100,353,31,34,50,26,12,29,373,49,49,20,108,29,21,13,76,34,24,9,99,17,43,9,18,21,23,24,50,21,20,30,12,250,30,51,12,31,11,5,10,18,7,5,17,18,6,10,6,9,13,10
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 1S Pass 2NT 
+Pass Pass Pass 
+[Play "N"]
+S7 S2 SJ SA 
+C2 C7 C3 CQ 
+H3 H4 HT H6 
+DA D5 D2 DK 
+D3 D6 DQ D9 
+D4 D8 DT C4 
+DJ S3 D7 H7 
+C5 CA C9 C6 
+H5 H9 CT HA 
+S5 S8 S4 SK 
+H2 ST SQ S9 
+HJ C8 CK H8 
+HK CJ S6 HQ 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "22"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:53.J96.A62.QT873 AKQJT.K84.Q54.AK 764.T753.KJT9.64 982.AQ2.873.J952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33556335569a8879a887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  7
+W NT  9
+W  S 10
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,3,4,204,80,78,34,19,50,186,181,39,23,31,22,13,34,9,42,13,19,24,33,12,40,18,142,23,45,22,91,57,70,23,56,12,20,144
+[Auction "E"]
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H3 HQ H6 H8 
+S4 S2 S5 SA 
+S6 S8 S3 SK 
+S7 S9 C3 SQ 
+C6 D3 H9 SJ 
+C4 D7 D2 ST 
+D9 C2 C8 CA 
+-  -  -  CK 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "22"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:53.J96.A62.QT873 AKQJT.K84.Q54.AK 764.T753.KJT9.64 982.AQ2.873.J952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33556335569a8879a887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  5
+S  D  5
+S  C  6
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  7
+W NT  9
+W  S 10
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,1,2,437,113,44,34,53,122,71,37,30,41,54,365,135,50,36,26,25,17,20,13,10,6,22,10,18,35,36,231,42,142,36,96,21,50,34,22,10,10,22,87,16,14
+[Auction "E"]
+2D =1= Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: weak 2h, 22-24 bal or 17+ any 4441"]
+[Play "S"]
+H3 HA H9 H4 
+S4 S2 S3 SA 
+S6 S8 S5 SK 
+S7 S9 C3 SQ 
+DJ D3 D2 SJ 
+C4 D7 H6 ST 
+C6 C2 C7 CA 
+D9 C5 C8 CK 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "23"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:752.J32.QT6.T653 AT4.8.A8754.Q984 Q8.KT965.KJ2.KJ2 KJ963.AQ74.93.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3253432534ab8a9ab8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  3
+N  C  4
+S NT  3
+S  S  2
+S  H  5
+S  D  3
+S  C  4
+E NT 10
+E  S 11
+E  H  8
+E  D 10
+E  C  9
+W NT 10
+W  S 11
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,3,4,112,40,50,73,84,43,60,15,38,88,318,60,53,297,39,17,105,462,116,18,55,121,32,18,21,65,24,11,22,25,15,37,30,15,29,24,12,22,29,27,21,37,26,12,10,11
+[Auction "S"]
+1H 1S Pass 2H =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * ucb [0:09]"]
+[Play "N"]
+H2 H8 HK HA 
+C6 C4 CJ C7 
+S2 SA SQ S3 
+C3 C8 C2 CA 
+H3 D4 H5 HQ 
+HJ S4 H6 H4 
+C5 C9 CK S6 
+CT ST H9 H7 
+D6 DA D2 D3 
+-  CQ -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "23"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:752.J32.QT6.T653 AT4.8.A8754.Q984 Q8.KT965.KJ2.KJ2 KJ963.AQ74.93.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3253432534ab8a9ab8a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  3
+N  C  4
+S NT  3
+S  S  2
+S  H  5
+S  D  3
+S  C  4
+E NT 10
+E  S 11
+E  H  8
+E  D 10
+E  C  9
+W NT 10
+W  S 11
+W  H  8
+W  D 10
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,1,2,78,49,116,110,46,1299,52,95,53,26,35,29,18,20,407,13,37,25,104,38,30,55,22,22,35,582,18,8,13,12,32,11,19,13,50,36,15,209,25,16,21,26,14,9,7,203,51,33,22,920,27,33,47,17,16,15,4,22,13,6,5,7,8,6,6
+[Auction "S"]
+1H 1S 2H X 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+H2 H8 HK HA 
+H3 C4 H5 HQ 
+HJ S4 HT H4 
+DT DA D2 D3 
+C3 C8 C2 CA 
+D6 ST H6 H7 
+S2 SA S8 S3 
+DQ D4 DK D9 
+C5 D5 DJ C7 
+C6 D7 H9 S9 
+S5 D8 SQ SK 
+S7 C9 CJ SJ 
+CT CQ CK S6 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "24"]
+[West "Steve Eginton#44018"]
+[North "Sandy Fulton#29154"]
+[East "Ed SCERRI#227951"]
+[South "John Rolph#78483"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8762.3.AKQ543.J8 AQ43.K5.T7.AT743 K.JT76.J862.Q652 JT95.AQ9842.9.K9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "42192421927bb4a7bb4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  1
+N  D  9
+N  C  2
+S NT  4
+S  S  2
+S  H  1
+S  D  9
+S  C  2
+E NT  7
+E  S 11
+E  H 11
+E  D  4
+E  C 10
+W NT  7
+W  S 11
+W  H 11
+W  D  4
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,3,4,100,104,49,197,109,58,160,68,23,22,27,78,53,12,17,26,26,22,52,16,31,24,19,24,16,16,31,31,29,40
+[Auction "W"]
+1H X XX Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+DK D7 D8 D9 
+DA DT D2 H2 
+H3 HK H6 H4 
+D4 H5 HT HQ 
+S6 S3 SK SJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "24"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8762.3.AKQ543.J8 AQ43.K5.T7.AT743 K.JT76.J862.Q652 JT95.AQ9842.9.K9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "42192421927bb4a7bb4a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  1
+N  D  9
+N  C  2
+S NT  4
+S  S  2
+S  H  1
+S  D  9
+S  C  2
+E NT  7
+E  S 11
+E  H 11
+E  D  4
+E  C 10
+W NT  7
+W  S 11
+W  H 11
+W  D  4
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,1,2,531,162,108,122,39,65,60,197,31,28,21,29,27,69,139,18,26,19,805,78,18,36,57,210,128,16,3785,34,31,16,867,14,24,75,308,31,132,40,74,24,21,12,27,18,10,9,30,11,58,16,27,22,7,9,9,16,5,12
+[Auction "W"]
+2H =1= 3D 4S Pass 
+Pass Pass 
+[Note "1: weak, both majors, 4+/4+"]
+[Play "S"]
+D2 D9 DQ D7 
+D6 S5 DA DT 
+SK S9 S2 S3 
+C2 C9 CJ CA 
+C5 ST S6 S4 
+H6 H2 H3 HK 
+HT HA S7 H5 
+D8 SJ S8 SA 
+C6 CK C8 C3 
+H7 HQ D4 C4 
+HJ H4 D3 SQ 
+CQ H8 D5 C7 
+DJ H9 DK CT 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "25"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.Q7643.43.AQ985 Q8754.K8.Q87.742 K3.T92.KT965.KJ6 AJ962.AJ5.AJ2.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "43767438678a5768a576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  7
+S NT  4
+S  S  3
+S  H  8
+S  D  6
+S  C  7
+E NT  8
+E  S 10
+E  H  5
+E  D  7
+E  C  6
+W NT  8
+W  S 10
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 6,1,2,95,60,732,165,131,193,88,51,82,148,218,282,26,16,35,32,43,55,180,103,36,15,20,24,8,22,149,19,19,42,69,21,21,12,14,40,23,9,71,75,22,56,261,364,19,16,34,43,16,12,28,27,12,11,22,14,6,6,18,8,7,18
+[Auction "N"]
+Pass Pass 1D =1= 1H =2= 
+X Pass 2D Pass 
+Pass Pass 
+[Note "1: 2+D etc."]
+[Note "2: spades"]
+[Play "W"]
+CT CA C7 CJ 
+SA ST S7 SK 
+C3 C5 C4 CK 
+S2 D3 S5 S3 
+DA D4 D7 DK 
+HA H3 H8 H2 
+HJ HQ HK H9 
+S6 H4 S4 D5 
+D2 C8 DQ DT 
+DJ C9 C2 C6 
+H5 H6 D8 HT 
+S9 H7 S8 D6 
+SJ CQ SQ D9 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "25"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.Q7643.43.AQ985 Q8754.K8.Q87.742 K3.T92.KT965.KJ6 AJ962.AJ5.AJ2.T3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "43767438678a5768a576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  7
+S NT  4
+S  S  3
+S  H  8
+S  D  6
+S  C  7
+E NT  8
+E  S 10
+E  H  5
+E  D  7
+E  C  6
+W NT  8
+W  S 10
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,5,4,576,75,729,88,450,82,260,93,197,30,78,18,314,79,819,41,24,39,85,12,34,15,36,14,18,98,31,20,64,23,37,13,59,25,195,12,123,11,39,24,9
+[Auction "N"]
+2H =1= Pass 2NT Pass 
+3C =2= Pass 3H 3S 
+4H 4S Pass Pass 
+Pass 
+[Note "1: 5♡ and 5 other weak"]
+[Note "2: second suit weak end"]
+[Play "N"]
+H4 H8 H9 HJ 
+H3 HK H2 H5 
+ST SQ S3 S2 
+C5 S4 SK SA 
+H6 D7 HT HA 
+H7 S8 D5 S6 
+D3 DQ DK DA 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "26"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT7.K753.KQ.AT76 KJ84.J8.A86.QJ43 63.QT942.JT74.95 Q952.A6.9532.K82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "65966659665846758467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  6
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,2,339,32,259,233,35,63,34,57,22,525,155,19,16,89,248,23,12,35,39,12,25,185,25,21,16,119,23,12,11,165,44,9,11,26,8,11,15,12,9,15,54,41,19,12,37
+[Auction "E"]
+1S Pass 3S =1= X 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 8 losers"]
+[Play "W"]
+HA H3 H8 H2 
+H6 HK HJ H4 
+D2 DK DA D4 
+S2 SA SK S3 
+D3 DQ D6 D7 
+S5 H5 S4 HT 
+D5 S7 D8 DJ 
+D9 ST S8 DT 
+C2 CT CJ C5 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "26"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT7.K753.KQ.AT76 KJ84.J8.A86.QJ43 63.QT942.JT74.95 Q952.A6.9532.K82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "65966659665846758467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  6
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  6
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,5,4,257,47,43,212,30,110,41,115,120,178,51,116,30,135,121,599,1389,25,43,136,29,35,53,909,89,16,101
+[Auction "E"]
+1NT =1= Pass Pass X 
+Pass 2H X Pass 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+S2 SA S8 S6 
+HA H3 H8 HQ 
+H6 HK HJ H2 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "27"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQJ64.97.AJ75.65 A87532.J5.T2.Q97 9.AT863.98.AJ432 T.KQ42.KQ643.KT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "66766667667667676676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 14,1,2,81,62,134,26,44,38,39,38,41,33,64,152,53,32,164,38,9,7,26,16,9,210,38,24,9,120,21,26,9,27,38,21,33,22,53,22,6,21,18,18,10,101,28,31,26,17,81
+[Auction "S"]
+1H 2D 2S Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+DT D8 D3 DJ 
+SA S9 ST SK 
+D2 D9 DQ DA 
+S2 C2 D4 SQ 
+H5 H3 HQ H9 
+CQ CA C8 C5 
+HJ HA H2 H7 
+S3 HT HK S4 
+S5 H6 H4 S6 
+-  H8 -  -  
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "27"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQJ64.97.AJ75.65 A87532.J5.T2.Q97 9.AT863.98.AJ432 T.KQ42.KQ643.KT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "66766667667667676676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  7
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 14,5,4,423,111,475,47,84,425,63,84,72,90,95,59,35,23,457,37,35,107,34,21,100,79,43,13,95,2281,47,52,26,347,21,30,22,101,239,194,91,726,34,27,80,218,26,28,15,17,43,10,16,48,75,11,96,20,23,13,41,20,22,10,7,40,19,10,16
+[Auction "S"]
+2H =1= Pass 2S =2= Pass 
+3C 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 5/5 hearts and another less than opener"]
+[Note "2: Pass or correct"]
+[Play "N"]
+SK SA S9 ST 
+D5 D2 D9 DK 
+H7 HJ HA H2 
+DJ DT D8 D3 
+SJ S2 C2 D4 
+C6 C9 CJ CK 
+C5 C7 C3 CT 
+H9 H5 H3 HQ 
+S4 CQ H6 HK 
+DA S3 H8 DQ 
+SQ S5 HT C8 
+D7 S7 C4 D6 
+S6 S8 CA H4 
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "28"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q76.T95.963.AKJ2 AK932.K32.4.Q986 J85.AQJ.A82.T743 T4.8764.KQJT75.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "88657876575578555785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  5
+N  C  7
+S NT  8
+S  S  7
+S  H  6
+S  D  5
+S  C  7
+E NT  5
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,1,2,76,41,29,102,36,110,26,12,36,264,38,10,104,20,44,11,152,26,16,9,41,49,25,13,22,24,20,43,60,22,17,13,23,15,16,7,22,17,7,6
+[Auction "W"]
+3D Pass Pass Pass 
+[Play "N"]
+CK C6 C3 C5 
+HT HK HA H4 
+H5 H2 HJ H6 
+H9 H3 HQ H7 
+C2 C8 C4 D5 
+D6 D4 DA DQ 
+CJ C9 C7 D7 
+D3 S2 D2 DK 
+D9 S3 D8 DJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "28"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q76.T95.963.AKJ2 AK932.K32.4.Q986 J85.AQJ.A82.T743 T4.8764.KQJT75.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "88657876575578555785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  5
+N  C  7
+S NT  8
+S  S  7
+S  H  6
+S  D  5
+S  C  7
+E NT  5
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,5,4,72,163,28,463,155,49,68,12,136,36,70,36,97,197,69,13,385,26,32,11,355,15,30,12,605,37,48,25,22,34,19,50,98,22,106,28,24,42,16,22,17,22
+[Auction "W"]
+3D Pass Pass Pass 
+[Play "N"]
+CK C6 C3 C5 
+HT H2 HJ H7 
+CA C8 C4 H8 
+H5 H3 HQ H6 
+H9 HK HA H4 
+D3 D4 D2 DK 
+D6 S2 DA DQ 
+SQ SA S5 S4 
+CJ C9 C7 D7 
+D9 -  -  DJ 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "29"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK875.9876.5.T42 J92.K42.AJ8.AJ97 T64.QJ3.K642.KQ3 Q3.AT5.QT973.865"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "58745587458569775687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  8
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  5
+E  H  6
+E  D  9
+E  C  7
+W NT  7
+W  S  5
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,1,2,44,125,36,138,147,46,211,93,66,92,39,53,137,48,28,12,44,30,10,126,113,27,8,27,81,37,18,559,16,50,15,15,214,56,14,20,35,17,7,10,68,9,17,22,14,27,14,8,49,14,19,7,36,13,9,7
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+2C =2= Pass 2D =3= X 
+2S Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: Majors"]
+[Note "3: asking for longer"]
+[Play "E"]
+DA D2 D3 D5 
+DJ DK D7 C2 
+S2 S4 S3 SA 
+H4 HJ HA H6 
+D8 D4 DQ S5 
+CA C3 C8 C4 
+C7 CQ C5 CT 
+S9 S6 SQ SK 
+HK H3 H5 H7 
+SJ ST HT S8 
+C9 CK C6 H8 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "29"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK875.9876.5.T42 J92.K42.AJ8.AJ97 T64.QJ3.K642.KQ3 Q3.AT5.QT973.865"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "58745587458569775687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  7
+N  D  4
+N  C  5
+S NT  5
+S  S  8
+S  H  7
+S  D  4
+S  C  5
+E NT  8
+E  S  5
+E  H  6
+E  D  9
+E  C  7
+W NT  7
+W  S  5
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,5,4,129,32,67,192,428,55,284,554,73,115,113,45,54,291,24,42,77,32,39,19,214,20,60,17,134,70,18,13,15,19,94,11,68,25,12,24,15,242,15,30,39,17,23,10,165,31,11,11,27,54,21,10
+[Auction "N"]
+Pass 1NT Pass Pass 
+2C =1= Pass 2D =2= X 
+2S Pass Pass Pass 
+[Note "1: ♡ and another"]
+[Note "2:  * denies 4 hearts or 3 hearts and a singleton [0:47]"]
+[Play "E"]
+S2 S4 SQ SA 
+C7 CQ C5 C4 
+S9 S6 S3 SK 
+HK H3 H5 H7 
+SJ ST C6 S5 
+DA D2 D3 D5 
+DJ DK DQ H6 
+H4 HJ HA H8 
+D8 D4 DT S8 
+CA C3 C8 C2 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "30"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.A63.T52.Q642 KJ7.KJ97.87.AKJT 854.QT4.AJ9.9873 AT62.852.KQ643.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2232322323abab9abab9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  2
+N  C  3
+S NT  2
+S  S  2
+S  H  3
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H 10
+E  D 11
+E  C  9
+W NT 10
+W  S 11
+W  H 10
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,1,2,157,33,129,29,165,38,91,52,181,64,72,18,17,96,296,311,14,80,207,15,49,26,290,24,24,21,625,18,180,28,530,15,49,40,57,299,30,28,53,39,27,7,50,19,21,6,32,18,31,19
+[Auction "E"]
+1NT =1= Pass 2C =2= Pass 
+2D =3= Pass 2H =4= Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Note "2: puppetish"]
+[Note "3: at least one 4cM"]
+[Note "4: 4 spades"]
+[Play "S"]
+S5 S2 S9 SJ 
+D9 DK D5 D7 
+C3 C5 C6 CJ 
+DJ DQ D2 D8 
+DA D3 DT H7 
+S8 S6 S3 SK 
+C7 H2 C2 CA 
+C8 H5 C4 CK 
+S4 SA SQ S7 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "30"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q93.A63.T52.Q642 KJ7.KJ97.87.AKJT 854.QT4.AJ9.9873 AT62.852.KQ643.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2232322323abab9abab9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  2
+N  C  3
+S NT  2
+S  S  2
+S  H  3
+S  D  2
+S  C  3
+E NT 10
+E  S 11
+E  H 10
+E  D 11
+E  C  9
+W NT 10
+W  S 11
+W  H 10
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,5,4,100,35,39,63,26,44,227,55,33,60,141,59,50,35,29,40,60,16,54,19,30,22,87,37,23,91,41,25,24,118,155,57,11,51,512,27,65,13,19,1292,24,16,13,34,13,21
+[Auction "E"]
+1C Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H4 H2 HA H7 
+HQ H5 H6 HJ 
+HT H8 H3 HK 
+D9 DK DT D8 
+C3 C5 C2 CJ 
+S5 S2 SQ SJ 
+C7 D3 C4 CA 
+C8 D4 D2 H9 
+C9 D6 C6 CK 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "31"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q5.Q76.A53.AK752 J932.T4.KJ742.86 K764.J8.QT98.Q94 AT8.AK9532.6.JT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "76789767894665446654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  8
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,1,2,47,47,230,35,206,59,109,39,270,90,224,45,407,28,30,36,69,72,441,20,13,21,18,10,18,21,91,16,27,29,8,17,32,22,24,10,16,10,18,40,88,87,16,15,34,90,221,19,78,20,12,6,35,29,10
+[Auction "S"]
+Pass 1H 1NT Pass 
+2C =1= Pass 2D =2= X 
+XX Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: Stayman"]
+[Note "2: No 4CM"]
+[Play "E"]
+HT HJ HK H6 
+H4 H8 HA H7 
+D4 S4 H9 HQ 
+C6 C4 C3 CA 
+C8 CQ CT C2 
+D2 C9 CJ CK 
+S2 S6 S8 C7 
+D7 S7 ST C5 
+DJ D8 D6 DA 
+S3 SK -  S5 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "31"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q5.Q76.A53.AK752 J932.T4.KJ742.86 K764.J8.QT98.Q94 AT8.AK9532.6.JT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "76789767894665446654"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  8
+N  C  9
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  9
+E NT  4
+E  S  6
+E  H  6
+E  D  5
+E  C  4
+W NT  4
+W  S  6
+W  H  6
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,5,4,107,37,216,59,358,64,144,34,188,24,169,21,64,44,22,133,10,59,46,159,61,15,481,23,16,62,27,27,22,57,42,21,8,11,26,39,117,63,113,22,24,48,17,50,14,7,27,11,17,20,30,15,27,11,47,40,13,13,10,13
+[Auction "S"]
+Pass 1H 1NT =1= Pass 
+2C =2= Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 16-17"]
+[Note "2: stayman"]
+[Play "E"]
+D4 D8 D6 D3 
+D2 D9 H5 DA 
+DK DT H2 D5 
+HT H8 HK H6 
+H4 HJ HA H7 
+C8 S4 H3 HQ 
+C6 CQ C3 C2 
+D7 DQ S8 S5 
+S3 C4 CT CK 
+S2 C9 CJ CA 
+DJ S6 ST C5 
+S9 -  -  C7 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "32"]
+[West "Alex Hogg#60980"]
+[North "Trevor Ward#63728"]
+[East "peter kelly#"]
+[South "Rob Cliffe#16537"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T98.J7632.643.96 Q75.AKQT5.J72.A7 A2.98.K85.KQJT84 KJ643.4.AQT9.532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "11216112169bac79bac7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  2
+S  D  1
+S  C  6
+E NT  9
+E  S 11
+E  H 10
+E  D 12
+E  C  7
+W NT  9
+W  S 11
+W  H 10
+W  D 12
+W  C  7
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 18,1,2,92,47,121,79,93,106,700,159,243,160,36,46,99,32,26,30,37,1258,16,32,27,35,15,5,22,16,21,9,38,15,194,21,76,33,13,22,240,23,12,34,144,309,34,70,399,29,14,15,37,19,13,14,36,6,27,24
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+2H =2= Pass 2NT =3= 3C 
+3H Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: spades"]
+[Note "3: max at least Hxx support"]
+[Play "S"]
+CK C2 C6 CA 
+H8 H4 H7 HA 
+H9 C3 H3 HK 
+S2 C5 H2 HQ 
+CQ S3 C9 C7 
+SA SK S9 S5 
+CT D9 S8 SQ 
+C4 SJ ST S7 
+D8 DA D6 D2 
+DK DT D3 D7 
+*
+
+[Event "21 Feb Ward vs Edwards"]
+[Site "RealBridge"]
+[Date "2025.02.21"]
+[Board "32"]
+[West "Steve Eginton#44018"]
+[North "Richard Edwards#401500"]
+[East "Ed SCERRI#227951"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T98.J7632.643.96 Q75.AKQT5.J72.A7 A2.98.K85.KQJT84 KJ643.4.AQT9.532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Edwards team"]
+[VisitTeam "Ward team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "11216112169bac79bac7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  2
+S  D  1
+S  C  6
+E NT  9
+E  S 11
+E  H 10
+E  D 12
+E  C  7
+W NT  9
+W  S 11
+W  H 10
+W  D 12
+W  C  7
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 18,5,4,71,30,26,66,94,67,98,64,14,48,85,325,790,149,25,43,17,37,29,22,16,11,44,38,117,20,54,51,10,27,311,25,24,8,833,31,29,12,23,28,13,33,12,23,11,63,27
+[Auction "W"]
+Pass Pass 1H 2C 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+C9 CA C4 C2 
+H3 HA H8 H4 
+H2 HK H9 C3 
+H6 HQ S2 S3 
+S8 S5 SA SJ 
+C6 C7 CK C5 
+D6 D2 D5 DA 
+S9 S7 C8 SK 
+ST SQ CT S4 
+-  DJ -  -  
+*

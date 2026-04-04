@@ -1,0 +1,4097 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "1"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:42.Q94.T9854.T84 AKJT3.T7.QJ62.52 5.AK532.K3.KJ973 Q9876.J86.A7.AQ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "42758427588b5758b575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  7
+N  D  5
+N  C  8
+S NT  4
+S  S  2
+S  H  7
+S  D  5
+S  C  8
+E NT  8
+E  S 11
+E  H  5
+E  D  7
+E  C  5
+W NT  8
+W  S 11
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,95,48,388,175,226,44,127,87,178,17,48,81,17,19,20,51,48,9,55,132,20,15,21,41,57,26,15,38,38,12,134,771,56,27,32,20,20,28,13,104,21,17,26
+[Auction "N"]
+Pass 1S 2S =1= 4S 
+Pass Pass Pass 
+[Note "1: 5+H 5+ minor constuctive"]
+[Play "S"]
+HK H6 H9 H7 
+HA H8 H4 HT 
+H3 HJ HQ S3 
+S5 S6 S2 ST 
+H2 S7 S4 SJ 
+C7 S8 C8 SA 
+DK DA D5 DJ 
+D3 D7 D8 DQ 
+C3 CQ C4 C2 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "1"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:42.Q94.T9854.T84 AKJT3.T7.QJ62.52 5.AK532.K3.KJ973 Q9876.J86.A7.AQ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "42758427588b5758b575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  7
+N  D  5
+N  C  8
+S NT  4
+S  S  2
+S  H  7
+S  D  5
+S  C  8
+E NT  8
+E  S 11
+E  H  5
+E  D  7
+E  C  5
+W NT  8
+W  S 11
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,1077,216,167,362,374,63,184,924,63,233,600,70,40,393,210,11,20,536,21,13,16,306,97,53,117,438,26,17,10,275,54,16,16,811,52,26,6,44,11,23,13,74,31,19,7
+[Auction "N"]
+Pass 1S 2S =1= X 
+3H =2= Pass Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * michaels [0:14]"]
+[Note "2: Alerted"]
+[Play "S"]
+HK H6 H4 H7 
+HA H8 H9 HT 
+H2 HJ HQ S3 
+S5 S6 S2 SA 
+C3 S7 S4 SJ 
+DK DA D4 DQ 
+D3 D7 D8 DJ 
+C7 CQ C4 C2 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "2"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K64.QJT.KQ63.Q73 A875.A9742.5.KT4 J93.83.J9874.J65 QT2.K65.AT2.A982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "43362433628aa7a8aa7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  6
+N  C  2
+S NT  4
+S  S  3
+S  H  3
+S  D  6
+S  C  2
+E NT  8
+E  S 10
+E  H 10
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,107,37,67,70,24,73,76,62,583,48,145,53,68,42,91,34,185,2371,31,46,819,34,71,29,391,33,67,53,79,78,9,23,125,21,8,26,12,12,14,22,295,36,15,10,108,28,15,9,69,12,21,478,12,57,35,28,29,10,15,16
+[Auction "E"]
+1H Pass 2C Pass 
+3C Pass 3H Pass 
+3S =1= Pass 4D X 
+4H Pass Pass Pass 
+[Note "1: cue"]
+[Play "S"]
+D9 DA D3 D5 
+D7 D2 DQ H4 
+S9 ST SK S5 
+D8 DT DK H7 
+H3 H5 HT HA 
+H8 HK HJ H2 
+S3 SQ S4 S7 
+SJ S2 S6 SA 
+DJ C2 HQ S8 
+CJ CA C3 C4 
+C5 C8 C7 CT 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "2"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K64.QJT.KQ63.Q73 A875.A9742.5.KT4 J93.83.J9874.J65 QT2.K65.AT2.A982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "43362433628aa7a8aa7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  3
+N  D  6
+N  C  2
+S NT  4
+S  S  3
+S  H  3
+S  D  6
+S  C  2
+E NT  8
+E  S 10
+E  H 10
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,109,122,56,54,46,33,76,36,19,31,82,695,12,36,1040,487,32,17,24,62,84,37,758,35,54,19,379,15,31,21,69,22,99,14,176,29,20,17,138,20,20,45,95,29,24,9,93,15,14,20,21,29,14,7,38
+[Auction "E"]
+1H Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+H8 H5 HT H2 
+H3 H6 HQ HA 
+S3 ST SK S5 
+D8 HK HJ H4 
+C5 C2 C3 CK 
+C6 C8 CQ CT 
+D4 DA DK D5 
+D7 D2 DQ H7 
+SJ SQ S4 S7 
+D9 DT D3 H9 
+S9 S2 S6 SA 
+-  -  -  S8 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "3"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K43.85.J6432.732 QJ986.J3.Q9.KQJT T72.K976.A8.9865 A5.AQT42.KT75.A4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2222222232bbbabbbbab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  2
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C 11
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,52,172,117,33,41,68,102,137,35,38,54,158,573,64,13,17,31,15,25,39,36,7,53,496,31,11,11,20,11,13,197,36,21,10,22,17,39,13,10,18,10,14,13,22,8,14,19,37,16,7,14,13,262,28,16,19
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+C5 CA C3 CT 
+HK H2 H5 HJ 
+C9 C4 C2 CK 
+C6 D5 C7 CQ 
+C8 D7 S4 CJ 
+H7 HA H8 H3 
+H6 HQ D4 S9 
+H9 HT D2 S6 
+S7 H4 D3 S8 
+DA DK D6 D9 
+S2 S5 SK SJ 
+-  -  DJ -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "3"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K43.85.J6432.732 QJ986.J3.Q9.KQJT T72.K976.A8.9865 A5.AQT42.KT75.A4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2222222232bbbabbbbab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  2
+S NT  2
+S  S  2
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 11
+E  H 11
+E  D 10
+E  C 11
+W NT 11
+W  S 11
+W  H 11
+W  D 10
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 19,2,1,152,51,28,51,44,35,18,245,34,190,34,82,34,232,534,30,12,85,21,13,841,116,133,15,24,90,110,29,18,161,29,30,7,128,22,15,14,41,26,15,5,23,15,16,4
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2D Pass 3NT 
+Pass 4NT Pass Pass 
+Pass 
+[Play "S"]
+C8 CA C7 CJ 
+HK H2 H8 HJ 
+S7 S5 SK S6 
+C5 C4 C3 CK 
+C6 SA C2 CQ 
+C9 D5 S4 CT 
+S2 D7 S3 SQ 
+ST DT H5 SJ 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "4"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T96532.Q76.9.874 KQ.KT52.A32.AQT2 8.AJ9.KQJT74.K96 AJ74.843.865.J53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "56676566766666766657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS +70"]
+[Competition "Teams"]
+% RBDATA 18,0,3,75,53,42,228,141,44,67,95,321,40,69,170,74,66,1498,60,44,35,33,25,36,48,396,46,19,53,25,23,23,21,27,69,47,129,33,17,24,20,25,30,16,113,33,17,10,24,23,35,27,5,29,22,10,13,29,70,22,10,42,14,19,10,37,20,47,16
+[Auction "W"]
+Pass Pass 1C 1D 
+1S Pass 2NT Pass 
+3NT Pass Pass X 
+Pass Pass 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Play "N"]
+D9 DA D4 D5 
+S2 SK S8 S4 
+S3 SQ DK S7 
+C7 CA C6 C3 
+C4 C2 C9 CJ 
+S5 H2 D7 SA 
+S6 D2 H9 SJ 
+C8 CT CK C5 
+H7 D3 DQ D6 
+H6 H5 DJ D8 
+HQ CQ DT H3 
+-  -  HA -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "4"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T96532.Q76.9.874 KQ.KT52.A32.AQT2 8.AJ9.KQJT74.K96 AJ74.843.865.J53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "56676566766666766657"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  6
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  6
+W  D  5
+W  C  7
+[OptimumScore "NS +70"]
+[Competition "Teams"]
+% RBDATA 12,2,1,75,30,77,127,379,67,391,251,39,43,32,655,35,38,39,1107,16,30,31,42,15,15,77,72,41,7,24,27,7,21,24,17,6,30,505,851,9,82,493,24,17,51,853,43,10,26,41,88,88,18,50,35,44,171,95,34,17,12,55,17,37,9,14,15,11,10
+[Auction "W"]
+Pass Pass 1H 2D 
+2H Pass Pass 3D 
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+DK D5 D9 DA 
+S8 S4 S6 SK 
+H9 S7 S5 SQ 
+DQ D6 C8 D2 
+DJ D8 C7 D3 
+D4 H3 C4 C2 
+HJ SA S9 CT 
+C6 C3 H6 CQ 
+HA SJ S2 CA 
+C9 CJ S3 H2 
+D7 H8 HQ H5 
+DT H4 H7 HT 
+CK C5 ST HK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "5"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q54.KQ82.Q754.QT AJT8.9.T982.A872 K62.A54.K6.KJ543 973.JT763.AJ3.96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "87879768685656456564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  7
+N  C  9
+S NT  7
+S  S  6
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  6
+E  H  5
+E  D  6
+E  C  4
+W NT  5
+W  S  6
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,146,29,101,135,91,44,47,44,45,40,62,37,29,36,47,325,30,10,42,39,9,40,25,39,70,22,90,134,69,17,79,31,33,34,31,43,51,41,30,91,16,62,193,29,49,12,35,27,40,12,35,102,17,32,46,17,84,27,18
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2C Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+H6 HK H9 H4 
+C6 CQ C2 C3 
+C9 CT C7 CJ 
+S3 S4 C8 C5 
+S7 SQ SJ S2 
+H3 H2 D8 HA 
+S9 D4 CA C4 
+DA D5 DT DK 
+HJ HQ S8 H5 
+H7 S5 SA S6 
+D3 H8 ST SK 
+-  -  -  CK 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "5"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q54.KQ82.Q754.QT AJT8.9.T982.A872 K62.A54.K6.KJ543 973.JT763.AJ3.96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "87879768685656456564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  7
+N  C  9
+S NT  7
+S  S  6
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  6
+E  H  5
+E  D  6
+E  C  4
+W NT  5
+W  S  6
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,56,55,50,64,53,45,87,44,49,48,91,28,17,60,51,598,18,31,43,109,22,25,152,45,58,42,19,24,18,22,934,189,49,55,155,100,40,13,637,327,52,23,122,295,5656,82,51,23,21,15,585,37,18,44,29,15,18,135,19,89,14,19,18,11,11,11
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2D =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * no M [0:12]"]
+[Play "W"]
+H6 HK H9 H5 
+C6 CQ CA C5 
+S3 SQ S8 S6 
+C9 CT C2 C4 
+H3 H2 D2 HA 
+H7 D4 C7 CK 
+S7 D5 C8 CJ 
+S9 S4 ST C3 
+D3 DQ D8 D6 
+HT S5 SA S2 
+DA D7 DT DK 
+DJ H8 D9 H4 
+HJ HQ SJ SK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "6"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T4.J762.KQ85.QJ2 QJ863.Q983.AT.43 97.KT5.J762.AKT5 AK52.A4.943.9876"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64787647877965579655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  8
+N  C  7
+S NT  6
+S  S  4
+S  H  7
+S  D  8
+S  C  7
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA -2,0,3,99,109,39,143
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "6"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T4.J762.KQ85.QJ2 QJ863.Q983.AT.43 97.KT5.J762.AKT5 AK52.A4.943.9876"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64787647877965579655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  8
+N  C  7
+S NT  6
+S  S  4
+S  H  7
+S  D  8
+S  C  7
+E NT  7
+E  S  9
+E  H  6
+E  D  5
+E  C  5
+W NT  7
+W  S  9
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA -2,2,1,75,93,22,79
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "7"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK987.94.K98.KT3 J2.KQJ72.3.Q9842 T654.T5.AQ765.J7 Q3.A863.JT42.A65"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7a4947a4945294952949"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  4
+N  D  9
+N  C  4
+S NT  7
+S  S 10
+S  H  4
+S  D  9
+S  C  4
+E NT  5
+E  S  2
+E  H  9
+E  D  4
+E  C  9
+W NT  5
+W  S  2
+W  H  9
+W  D  4
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 8,0,3,64,54,54,52,49,45,70,1957,57,189,22,21,280,28,18,14,55,72,24,28,39,26,15,30,22,9,11,12,36,54,33,20,33,21,27,20,92,19,34,14,21,23,47,42,23,24,8,12,33,15,23,18,18,14,13,10,54
+[Auction "S"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "E"]
+HK H5 H6 H4 
+HQ HT H3 H9 
+D3 D5 DT DK 
+S2 S4 S3 SK 
+SJ S5 SQ SA 
+H2 DA D2 D9 
+H7 DQ D4 D8 
+C2 D6 DJ S7 
+C4 ST H8 S8 
+C8 D7 C5 C3 
+CQ CJ C6 CT 
+C9 C7 CA CK 
+-  -  HA -  
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "7"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AK987.94.K98.KT3 J2.KQJ72.3.Q9842 T654.T5.AQ765.J7 Q3.A863.JT42.A65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7a4947a4945294952949"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  4
+N  D  9
+N  C  4
+S NT  7
+S  S 10
+S  H  4
+S  D  9
+S  C  4
+E NT  5
+E  S  2
+E  H  9
+E  D  4
+E  C  9
+W NT  5
+W  S  2
+W  H  9
+W  D  4
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,110,21,29,149,181,75,107,26,309,56,96,17,23,95,24,91,12,390,58,20,18,156,85,28,7,50,18,14,10,19,448,20,12,140,36,28,18
+[Auction "S"]
+Pass Pass 1S 2H 
+3S 4H Pass Pass 
+Pass 
+[Play "S"]
+S6 S3 SK S2 
+ST SQ SA SJ 
+H5 H3 H4 HK 
+HT HA H9 H2 
+C7 CA C3 C2 
+CJ C5 CK C4 
+D5 C6 CT CQ 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "8"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K64.A863.JT53.Q4 J9832.K7.KQ84.T5 Q5.QT942.A2.K762 AT7.J5.976.AJ983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "64955659556847768477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  5
+N  C  5
+S NT  6
+S  S  5
+S  H  9
+S  D  5
+S  C  5
+E NT  6
+E  S  8
+E  H  4
+E  D  7
+E  C  7
+W NT  6
+W  S  8
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,0,3,108,139,69,92,173,50,24,26,85,210,32,20,44,34,11,14,10,31,21,35,104,13,46,39,92,34,30,9,686,21,20,9,24,18,24,15,16,19,8,80,33,30,10,8,22,21,8,41,22,83,8,24,17,18,12,9,16,7,9,7
+[Auction "W"]
+Pass Pass 1S Pass 
+3S Pass Pass Pass 
+[Play "S"]
+HT HJ HA H7 
+DA D6 D3 DK 
+D2 D9 DT DQ 
+S5 ST SK S2 
+H2 D7 DJ D4 
+H4 H5 H3 HK 
+SQ SA S4 S8 
+H9 S7 S6 SJ 
+C2 C3 D5 S9 
+C6 C8 C4 S3 
+C7 C9 H6 D8 
+CK CA CQ C5 
+HQ CJ H8 CT 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "8"]
+[West "Dennis Haines#510544"]
+[North "Paul Maiolani#429602"]
+[East "Ian Cook#92002"]
+[South "Jim McMenemy#513698"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K64.A863.JT53.Q4 J9832.K7.KQ84.T5 Q5.QT942.A2.K762 AT7.J5.976.AJ983"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "64955659556847768477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  5
+N  C  5
+S NT  6
+S  S  5
+S  H  9
+S  D  5
+S  C  5
+E NT  6
+E  S  8
+E  H  4
+E  D  7
+E  C  7
+W NT  6
+W  S  8
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA -2,2,1,101,17,67,636
+[Auction "W"]
+Pass Pass Pass Pass 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "9"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9876.Q98.J652.64 A542.732.AKT83.2 KT3.AK54.7.AQJT8 QJ.JT6.Q94.K9753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67858678587658576585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  8
+E NT  7
+E  S  6
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  6
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,4,0,451,49,113,53,150,26,301,49,297,40,42,55,206,119,16,104,29,23,47,114,33,16,11,312,42,17,10,213,32,14,62,35,22,9,12,33,55,17,19,28,27,92,29,25,18,9,29,17,18,21,13,17,10,9,6
+[Auction "N"]
+Pass 1D X 2C 
+Pass 2D X 3D 
+Pass Pass Pass 
+[Play "S"]
+HK H6 H9 H3 
+HA HT H8 H2 
+H5 HJ HQ H7 
+SK SJ S8 S2 
+S3 SQ S6 S4 
+D7 D4 D2 DA 
+CA C3 C4 C2 
+CQ CK C6 S5 
+H4 DQ D5 D3 
+CJ D9 D6 DT 
+C8 C5 DJ DK 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "9"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9876.Q98.J652.64 A542.732.AKT83.2 KT3.AK54.7.AQJT8 QJ.JT6.Q94.K9753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67858678587658576585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  6
+S  S  7
+S  H  8
+S  D  5
+S  C  8
+E NT  7
+E  S  6
+E  H  5
+E  D  8
+E  C  5
+W NT  7
+W  S  6
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,1,2,117,52,324,415,98,26,61,367,59,136,43,52,125,217,42,14,94,131,347,30,102,160,26,21,9,410,20,14,9,79,19,12,11,176,21,23,20,51,22,10,12,415,17,9,194,203,17,10,20,34,20,27,20,18,24,135,48,47,12,9,11,20,11,8,12,7,10,13,12
+[Auction "N"]
+Pass 1D X Pass 
+1S Pass 2C 2D 
+Pass Pass 2H Pass 
+Pass 3D Pass Pass 
+Pass 
+[Play "S"]
+D7 D4 D2 D3 
+HK H6 H8 H3 
+HA HT H9 H7 
+H4 HJ HQ H2 
+SK SJ S8 S4 
+S3 SQ S7 S2 
+CA CK C6 C2 
+CQ C3 C4 D8 
+ST D9 S6 S5 
+H5 DQ D5 DK 
+C8 C5 S9 SA 
+CT C7 D6 DA 
+CJ C9 DJ DT 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "10"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8.AKQ865.J32.T7 AQ7642.T9.A8.AQ6 K953.32.Q754.J94 T.J74.KT96.K8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "54662546627857a7857a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  2
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  2
+E NT  7
+E  S  8
+E  H  5
+E  D  7
+E  C 10
+W NT  7
+W  S  8
+W  H  5
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 18,4,0,94,46,25,191,42,69,140,58,22,21,51,265,46,17,104,20,8,13,94,289,66,90,141,39,24,43,16,25,24,58,20,52,16,22,27,15,26,13,56,24,9,17,83,27,11,20,17,15,24,17,17
+[Auction "E"]
+1S Pass 1NT 2H 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+H3 H4 HQ H9 
+H2 H7 HA HT 
+D7 HJ HK S6 
+D4 DK D3 D8 
+SK ST SJ SQ 
+C9 C2 C7 CA 
+S3 D6 S8 SA 
+S5 C3 H5 S2 
+CJ C5 CT CQ 
+S9 D9 H6 S4 
+D5 -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "10"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8.AKQ865.J32.T7 AQ7642.T9.A8.AQ6 K953.32.Q754.J94 T.J74.KT96.K8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "54662546627857a7857a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  2
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  2
+E NT  7
+E  S  8
+E  H  5
+E  D  7
+E  C 10
+W NT  7
+W  S  8
+W  H  5
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 13,1,2,267,44,84,107,156,73,256,35,92,73,17,36,40,19,15,10,62,71,249,24,34,24,74,227,281,45,22,16,38,30,18,145,40,44,16,28,21,38,22,20,349,19,10,14,21,17,252,14,19,24
+[Auction "E"]
+1S Pass 1NT 2H 
+3S Pass Pass Pass 
+[Play "S"]
+H3 H4 HQ H9 
+H2 H7 HA HT 
+S3 HJ HK S2 
+C4 C2 CT CA 
+D7 DK D2 D8 
+SK ST SJ SQ 
+CJ C3 C7 CQ 
+S5 C5 S8 SA 
+S9 D6 H5 S6 
+D4 D9 DJ DA 
+C9 -  -  S7 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "11"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K985.T3.Q982.J52 T.QJ754.AK74.AQ9 QJ7643.K986.53.4 A2.A2.JT6.KT8763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "0721007210c6bcdc6bcd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  2
+N  D  1
+N  C  0
+S NT  0
+S  S  7
+S  H  2
+S  D  1
+S  C  0
+E NT 12
+E  S  6
+E  H 11
+E  D 12
+E  C 13
+W NT 12
+W  S  6
+W  H 11
+W  D 12
+W  C 13
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 27,4,0,278,129,319,212,43,107,198,70,66,186,59,337,96,17,39,241,242,53,15,33,21,23,16,33,17,23,38,57,28,11,83,21,16,14,41,93,15,16,14,22,141,53,14,32,39,34,21,42,50,10,13,21,14,8,13,9,10,8,38,10,10,8,15,21,8,9,7
+[Auction "S"]
+2D =1= 3C Pass 3H 
+Pass 4H 4S 4NT 
+Pass 5H =2= Pass 6H 
+Pass Pass Pass 
+[Note "1: 3-way multi (wk 2M/21-22bal/18-20 clubs)"]
+[Note "2: 2/5 no Q trumps"]
+[Play "S"]
+S7 SA S5 ST 
+H6 HA H3 H4 
+HK H2 HT HJ 
+SQ S2 S8 H5 
+H8 D6 S9 HQ 
+C4 C3 C5 CA 
+S3 C6 C2 CQ 
+H9 C7 CJ C9 
+S4 C8 SK H7 
+D3 DT D2 DA 
+D5 DJ D8 DK 
+S6 CT D9 D4 
+SJ CK DQ D7 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "11"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K985.T3.Q982.J52 T.QJ754.AK74.AQ9 QJ7643.K986.53.4 A2.A2.JT6.KT8763"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -920"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "0721007210c6bcdc6bcd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  2
+N  D  1
+N  C  0
+S NT  0
+S  S  7
+S  H  2
+S  D  1
+S  C  0
+E NT 12
+E  S  6
+E  H 11
+E  D 12
+E  C 13
+W NT 12
+W  S  6
+W  H 11
+W  D 12
+W  C 13
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 25,1,2,103,52,51,31,101,152,60,889,71,83,46,78,27,402,40,776,34,237,41,65,49,15,23,101,52,128,27,1455,29,14,62,10,27,6,33,9,17,8,25,22,17,12,24,43,26,13,25,11,28,11
+[Auction "S"]
+Pass 1C Pass 1H 
+1S 2C 2S 3S =1= 
+Pass 3NT Pass 4C =2= 
+Pass 4H =3= Pass 4NT =4= 
+Pass 5C =5= Pass 6C 
+Pass Pass Pass 
+[Note "1:  * q [0:09]"]
+[Note "2:  * rkc in Cs [0:14]"]
+[Note "3: 0/3"]
+[Note "4:  * ks? [0:08]"]
+[Note "5: no king"]
+[Play "N"]
+S5 ST SJ SA 
+S8 C9 S7 S2 
+C2 CA C4 C3 
+C5 CQ S3 C6 
+H3 H4 H6 HA 
+CJ D4 S4 CK 
+HT HQ -  H2 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "12"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T642.T5.QJ862.K3 KQ9.KJ964..A9854 AJ87.AQ8.A743.J6 53.732.KT95.QT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8a594895945384953849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  3
+E  H  8
+E  D  4
+E  C  9
+W NT  5
+W  S  3
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 10,4,0,66,187,49,146,78,119,217,31,158,256,32,87,61,63,22,45,176,280,27,38,158,25,22,17,89,31,29,22,142,40,70,17,23,22,15,13,22,29,9,10,21
+[Auction "W"]
+Pass Pass 1H 1NT 
+Pass Pass 2C Pass 
+Pass X Pass 2S 
+3C Pass Pass Pass 
+[Play "S"]
+C6 C2 CK CA 
+CJ CQ C3 C4 
+HQ H2 H5 H9 
+SA S3 S6 S9 
+S7 S5 ST SK 
+HA H3 HT HK 
+DA -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "12"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T642.T5.QJ862.K3 KQ9.KJ964..A9854 AJ87.AQ8.A743.J6 53.732.KT95.QT72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8a594895945384953849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  4
+E NT  5
+E  S  3
+E  H  8
+E  D  4
+E  C  9
+W NT  5
+W  S  3
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 6,1,2,67,44,111,149,32,121,62,63,13,512,42,57,320,127,220,40,17,241,18,40,85,360,16,30,11,548,24,32,10,234,21,17,87,16,25,5,21,91,499,36,20,240,140,10,44,20,25,15,23,35,16,14,22
+[Auction "W"]
+Pass Pass 1H 1NT 
+Pass Pass 2C Pass 
+Pass 2D Pass Pass 
+Pass 
+[Play "E"]
+H6 HQ H2 H5 
+H4 DA D5 D2 
+C4 D3 D9 DJ 
+SQ SA S5 S2 
+SK SJ S3 S4 
+HK HA H3 HT 
+S9 S7 H7 ST 
+C5 S8 DT S6 
+CA C6 C2 C3 
+HJ H8 C7 D6 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "13"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J6.KT9.AKJ83.J98 AK3.QJ64.5.K5432 T874.873.T942.A7 Q952.A52.Q76.QT6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65383653836895a7895a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  8
+N  C  3
+S NT  6
+S  S  5
+S  H  3
+S  D  8
+S  C  3
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C 10
+W NT  7
+W  S  8
+W  H  9
+W  D  5
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 2,4,0,489,467,195,137,185,83,150,56,105,101,9,32,61,17,20,21,44,31,16,43,85,31,9,8,19,34,11,11,95,67,25,20,77,22,47,53,154,39,11,12,24,18,84,85,46,30,12,8,40,24,13,7,10,17,8,12,7,10,7,7
+[Auction "N"]
+1C =1= Pass 1D =2= Pass 
+1H =3= Pass Pass Pass 
+[Note "1: 11-14 bal or 18 +"]
+[Note "2: any 0-6, or 7+ without 4cM"]
+[Note "3: 11-14, 2-5 hearts"]
+[Play "E"]
+SK S4 S2 S6 
+SA S7 S5 SJ 
+S3 S8 S9 H9 
+D5 D2 D7 DA 
+H4 D4 D6 DK 
+C5 CA C6 C8 
+CK C7 CT CJ 
+C2 H3 CQ C9 
+C3 ST SQ HK 
+C4 D9 DQ D3 
+H6 H7 HA HT 
+HJ H8 H2 D8 
+HQ DT H5 DJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "13"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J6.KT9.AKJ83.J98 AK3.QJ64.5.K5432 T874.873.T942.A7 Q952.A52.Q76.QT6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65383653836895a7895a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  8
+N  C  3
+S NT  6
+S  S  5
+S  H  3
+S  D  8
+S  C  3
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C 10
+W NT  7
+W  S  8
+W  H  9
+W  D  5
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,2,216,142,119,36,57,103,13,35,188,26,18,32,49,23,30,19,37,32,21,14,28,61,21,16,360,38,18,18,24,359,8,20,36,94,7,182,20,193,11,129,619,24,6,17,14,23,10,15,26,42,13,6,12,14,9,5
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+C3 C7 CQ C8 
+C2 CA CT C9 
+D5 DT D6 DA 
+S3 D2 D7 DK 
+H6 D9 DQ D3 
+SK S4 S2 S6 
+CK H3 C6 CJ 
+C5 D4 H2 H9 
+C4 H7 S9 D8 
+HQ H8 HA HT 
+H4 S7 H5 HK 
+HJ S8 S5 DJ 
+SA ST SQ SJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "14"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:95.A7532.AQ6.943 T42.T6.732.QJT85 KJ7.9.KJT984.A76 AQ863.KQJ84.5.K2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3SX"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "84596855965874758747"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D  9
+N  C  6
+S NT  8
+S  S  5
+S  H  5
+S  D  9
+S  C  6
+E NT  5
+E  S  8
+E  H  7
+E  D  4
+E  C  7
+W NT  5
+W  S  8
+W  H  7
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,4,0,89,98,249,528,77,262,35,124,28,113,342,94,33,302,26,29,25,70,76,22,9,14,23,18,21,86,200,16,12,86,34,17,26,18,11,35,23,22,17,8,22
+[Auction "E"]
+Pass 1D =1= 3D =2= X 
+3S X Pass Pass 
+Pass 
+[Note "1: 11-20 unbalanced * could have longer ♣s [0:10]"]
+[Note "2: Majors at least 5/5"]
+[Play "S"]
+H9 H4 HA H6 
+S7 H8 H7 HT 
+CA CK C9 C5 
+DT D5 DA D2 
+SJ HJ H5 ST 
+C7 C2 C4 CQ 
+SK SA S5 S2 
+D4 SQ S9 S4 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "14"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:95.A7532.AQ6.943 T42.T6.732.QJT85 KJ7.9.KJT984.A76 AQ863.KQJ84.5.K2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "84596855965874758747"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D  9
+N  C  6
+S NT  8
+S  S  5
+S  H  5
+S  D  9
+S  C  6
+E NT  5
+E  S  8
+E  H  7
+E  D  4
+E  C  7
+W NT  5
+W  S  8
+W  H  7
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 16,1,2,113,51,331,402,41,73,27,262,48,44,88,22,255,21,21,30,24,31,27,410,44,10,23,329,21,15,32,17,39,199,21,369,32,277,112,351,176,15,11,65,23,18,18,109,133,41,45,15,17,9,9
+[Auction "E"]
+Pass 1D 2D =1= X 
+2S 3D 3S 4D 
+Pass Pass Pass 
+[Note "1: majors"]
+[Play "W"]
+HK HA HT H9 
+SQ S5 S2 SJ 
+HQ H2 H6 D8 
+D5 DA D3 D4 
+SA S9 S4 SK 
+HJ H3 CQ DJ 
+CK C3 C5 CA 
+S8 D6 ST S7 
+H8 H5 C8 C6 
+C2 C4 CT C7 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "15"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT.K962.964.KQ85 76.Q543.J3.JT963 KJ9843.J87.AQ7.7 A52.AT.KT852.A42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68765787655457854678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  6
+N  C  5
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,4,0,332,61,359,76,240,73,142,43,101,75,250,74,62,126,9,13,19,30,22,15,119,58,12,70,435,138,34,8,76,33,23,16,210,32,9,56,40,13,14,46,37,23,9,19,23,19,11,8,12,25,12,20
+[Auction "S"]
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+2S =4= Pass Pass Pass 
+[Note "1: 6-11 non forcing"]
+[Note "2: ART: either 11+ with 6 spades, or 15-17 any hand"]
+[Note "3:  8-11"]
+[Note "4: 11-14, 6 spades"]
+[Play "W"]
+HA H2 H3 H8 
+HT HK H4 H7 
+D5 H6 HQ HJ 
+DK D4 DJ DQ 
+C4 CK C6 C7 
+SA SQ S6 S3 
+CA C5 C3 S4 
+S2 ST S7 S8 
+C2 CQ C9 D7 
+D2 H9 H5 SK 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "15"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT.K962.964.KQ85 76.Q543.J3.JT963 KJ9843.J87.AQ7.7 A52.AT.KT852.A42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68765787655457854678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  6
+N  C  5
+S NT  7
+S  S  8
+S  H  7
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  5
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,1,2,221,107,214,39,166,19,620,299,367,92,15,26,15,50,17,19,60,22,13,82,79,15,48,14,63,32,8,21,104,21,13,93,48,32,26,52,223,13,13,14,13,59,8,30,95,18,14,71,32,10,14,42,19,26,9,28,14,14,8,8
+[Auction "S"]
+1S 1NT X XX =1= 
+2S Pass Pass Pass 
+[Note "1:  * tr to cs [0:14]"]
+[Play "W"]
+HA H2 H3 H8 
+HT HK H4 H7 
+S5 SQ S6 S3 
+SA ST S7 SK 
+D5 D4 DJ DQ 
+S2 C5 C3 SJ 
+C2 C8 CJ S9 
+CA CQ C6 C7 
+DK D6 D3 DA 
+C4 H6 H5 S8 
+D2 H9 C9 S4 
+DT D9 HQ D7 
+D8 CK CT HJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "16"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT9.Q93.AKQ652.J 765.654.JT97.Q52 KQ83.JT.43.A7643 A42.AK872.8.KT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "78596785966584765847"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  4
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 13,4,0,108,94,46,217,111,145,41,57,45,21,135,15,11,68,26,26,10,131,30,9,42,180,19,16,7,133,21,18,28,45,16,8,16,28,11,9,7,19,11,44,29,53,27,26,13,22,13,8,7,14,16,25,6,28,13,13,8,6,10,6,7
+[Auction "W"]
+1H 2D Pass 2S 
+Pass 3S Pass Pass 
+Pass 
+[Play "W"]
+HK H3 H6 HJ 
+D8 DA D7 D3 
+SA SJ S5 S3 
+HA H9 H4 HT 
+CT CJ CQ CA 
+S2 S9 S6 SK 
+S4 ST S7 SQ 
+H7 D2 D9 D4 
+C8 D5 C5 C4 
+CK D6 C2 C3 
+C9 DQ DT C6 
+H2 HQ H5 S8 
+H8 DK DJ C7 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "16"]
+[West "Paul Maiolani#429602"]
+[North "Ian Cook#92002"]
+[East "Jim McMenemy#513698"]
+[South "Dennis Haines#510544"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:JT9.Q93.AKQ652.J 765.654.JT97.Q52 KQ83.JT.43.A7643 A42.AK872.8.KT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "78596785966584765847"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  9
+N  C  6
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  6
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  4
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,1,2,52,68,21,197,78,59,63,231,15,57,47,66,218,13,16,14,38,27,17,41,21,13,87,265,24,24,261,484,28,16,11,15,17,14,11,12,26,13,16,14,20,17,30
+[Auction "W"]
+1H 2D Pass Pass 
+X Pass 2H 3D 
+Pass Pass Pass 
+[Play "E"]
+H6 HT HK H3 
+D7 D3 D8 DA 
+D9 D4 H2 DK 
+DT C3 S2 DQ 
+S5 S3 S4 SJ 
+S7 S8 SA ST 
+H5 HJ HA H9 
+H4 C4 H8 HQ 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "17"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T7.T6.AT.AJ87542 K9863.KQ943.83.6 QJ42.J52.Q965.93 A5.A87.KJ742.KQT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "342463424699a97a9a97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  4
+S  H  2
+S  D  4
+S  C  6
+E NT  9
+E  S  9
+E  H 10
+E  D  9
+E  C  7
+W NT 10
+W  S  9
+W  H 10
+W  D  9
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,4,0,290,166,75,123,60,78,44,34,43,28,30,54,53,124,754,45,33,22,21,30,93,311,33,13,11,82,95,15,133,387,23,10,24,20,14,22,20,34,18,16,56,84,96,20,23,23,17,22,13,46,37,8,29
+[Auction "N"]
+2C =1= Pass Pass 2NT =2= 
+Pass 3H =3= Pass 3S 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 10-16, 5 + clubs"]
+[Note "2:  * 15-18 ish [0:14]"]
+[Note "3: t/fer"]
+[Play "S"]
+H5 H7 HT HK 
+C3 CK CA C6 
+D5 D2 DA D3 
+H2 H8 H6 H3 
+S2 SA S7 S3 
+S4 S5 ST SK 
+SJ HA C8 S6 
+C9 CT CJ H4 
+HJ D4 C2 HQ 
+SQ D7 DT S9 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "17"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T7.T6.AT.AJ87542 K9863.KQ943.83.6 QJ42.J52.Q965.93 A5.A87.KJ742.KQT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "342463424699a97a9a97"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  2
+N  D  4
+N  C  6
+S NT  3
+S  S  4
+S  H  2
+S  D  4
+S  C  6
+E NT  9
+E  S  9
+E  H 10
+E  D  9
+E  C  7
+W NT 10
+W  S  9
+W  H 10
+W  D  9
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 23,1,3,601,396,94,206,105,243,70,344,38,349,119,413,32,18,32,17,151,43,20,648,51,14,38,219,27,11,29,28,110,20,34,76,45,26,16,21,15,18,15,172,34,12,17,31,14,23,11,22,19,26,14,18,17,7,11,15,66,8,11,15,12,9,12,13,19,12,7
+[Auction "N"]
+1C 1S Pass 2C =1= 
+Pass 4S Pass 4NT 
+Pass 5C =2= Pass 5S 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Note "2: 1/4"]
+[Play "S"]
+C9 CK CA C6 
+C3 CT C2 D3 
+S2 CQ C4 D8 
+D5 DJ DA S3 
+SQ SA S7 S6 
+S4 S5 ST SK 
+H2 HA H6 H3 
+D6 DK DT H4 
+H5 H7 HT HK 
+HJ H8 C5 HQ 
+D9 D2 C7 H9 
+SJ D4 C8 S8 
+DQ D7 CJ S9 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "18"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.86.954.QJT2 AT.Q97.AJ86.9765 J5432.JT43.KT3.8 Q8.AK52.Q72.AK43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2622326223b7abab7aba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  2
+N  C  3
+S NT  2
+S  S  6
+S  H  2
+S  D  2
+S  C  3
+E NT 11
+E  S  7
+E  H 10
+E  D 11
+E  C 10
+W NT 11
+W  S  7
+W  H 10
+W  D 11
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,4,0,123,96,68,42,184,38,179,50,32,54,56,33,19,39,215,174,206,61,50,19,17,30,199,24,41,27,41,19,12,13,29,11,13,15,16,85,11,27,67,17,39,17,15,11,12,13,15,9,20,12,35,20,14,12
+[Auction "E"]
+Pass Pass 1H Pass 
+2C Pass 2NT =1= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-19 not 3433"]
+[Play "N"]
+CQ C5 C8 CA 
+D5 DJ DK D2 
+SK SA S3 SQ 
+D4 D6 D3 DQ 
+D9 DA DT D7 
+S6 D8 S2 S8 
+H6 H7 H3 HK 
+H8 HQ H4 H2 
+S7 H9 HJ HA 
+C2 C6 S4 CK 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "18"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K976.86.954.QJT2 AT.Q97.AJ86.9765 J5432.JT43.KT3.8 Q8.AK52.Q72.AK43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2622326223b7abab7aba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  2
+N  C  3
+S NT  2
+S  S  6
+S  H  2
+S  D  2
+S  C  3
+E NT 11
+E  S  7
+E  H 10
+E  D 11
+E  C 10
+W NT 11
+W  S  7
+W  H 10
+W  D 11
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,71,43,77,41,69,54,67,31,234,51,375,32,40,144,41,34,44,26,40,75,213,104,16,48,52,16,36,30,21,17,18,13,24,14,25,11,78,10,62,58,26,8,160,168,24,148,36,31,13,149,18,41,20,11,24,16,21,16,41,8,16,23,8,15
+[Auction "E"]
+Pass Pass 1C Pass 
+1D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+CQ C5 C8 CA 
+D4 DJ DK D2 
+H8 H7 HT HA 
+H6 HQ H3 H2 
+D5 D6 D3 DQ 
+D9 DA DT D7 
+S6 D8 S2 C3 
+S7 H9 H4 HK 
+S9 C6 HJ H5 
+SK SA S5 SQ 
+C2 C7 S3 CK 
+CT C9 S4 C4 
+CJ ST SJ S8 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "19"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K6.KQT865.K.QJ74 A5.J74.J842.AK32 T98432.32.T75.96 QJ7.A9.AQ963.T85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2551325513b88cab88ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  5
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  5
+S  D  1
+S  C  3
+E NT 11
+E  S  8
+E  H  8
+E  D 12
+E  C 10
+W NT 11
+W  S  8
+W  H  8
+W  D 12
+W  C 10
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,4,0,179,77,261,327,126,27,83,325,53,170,45,16,32,196,119,55,13,363,28,14,40,52,46,20,14,27,11,17,24,67,47,9,57,15,20,10,6,93,40,22,8,37,15,14,12,47,38,14,11,14,10,10,198,26,20,9,9,25,15,5,9,7,18,5,9
+[Auction "S"]
+Pass 1NT =1= 2D =2= X =3= 
+2H =4= Pass Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: unspecified major"]
+[Note "3: values"]
+[Note "4: pass/correct"]
+[Play "N"]
+HK H4 H2 HA 
+DK D2 D5 DA 
+H5 DJ D7 D3 
+H6 D8 DT DQ 
+H8 D4 H3 D9 
+C4 C2 S3 D6 
+SK SA S2 SQ 
+S6 S5 S8 SJ 
+CQ CK C6 C5 
+C7 CA C9 C8 
+CJ C3 S4 CT 
+HQ H7 ST H9 
+HT HJ S9 S7 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "19"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K6.KQT865.K.QJ74 A5.J74.J842.AK32 T98432.32.T75.96 QJ7.A9.AQ963.T85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2551325513b88cab88ca"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  5
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  5
+S  D  1
+S  C  3
+E NT 11
+E  S  8
+E  H  8
+E  D 12
+E  C 10
+W NT 11
+W  S  8
+W  H  8
+W  D 12
+W  C 10
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,1,3,100,76,79,133,113,378,45,94,32,36,33,172,120,10,21,149,31,37,23,28,20,37,31,174,33,11,21,25,50,10,19,37,14,27,63,30,14,27,161,22,200,27,9,40,165,41,9,33,31,45,14,97,10,36,51,23,16,16,12,15,17,12,16
+[Auction "S"]
+Pass 1D 1H 2H =1= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: F1"]
+[Play "N"]
+HK H4 H3 HA 
+C4 CA C6 C5 
+DK D2 D5 DQ 
+HQ H7 H2 H9 
+H6 HJ S4 C8 
+C7 DJ D7 D3 
+H5 D4 DT DA 
+S6 D8 ST D9 
+H8 C2 S2 D6 
+SK SA S3 SQ 
+HT S5 S8 SJ 
+CJ C3 S9 S7 
+CQ CK C9 CT 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "20"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J64.8.AJT643.A32 KT973.KJ974.KQ8. AQ52.T5.75.J7654 8.AQ632.92.KQT98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "552765527588b6688b66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  7
+N  C  6
+S NT  5
+S  S  5
+S  H  2
+S  D  7
+S  C  5
+E NT  8
+E  S  8
+E  H 11
+E  D  6
+E  C  6
+W NT  8
+W  S  8
+W  H 11
+W  D  6
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 22,4,0,72,132,249,72,163,38,341,68,146,47,121,35,477,112,86,23,308,58,60,13,121,36,145,24,283,44,22,7,80,14,9,38,84,36,11,23,67,19,12,13
+[Auction "W"]
+1H 2D 3D =1= Pass 
+3H Pass 5C =2= Pass 
+5H =3= Pass Pass Pass 
+[Note "1: good heart raise"]
+[Note "2: exclusion"]
+[Note "3:  * If 5C exclusion then 1 Key card [0:58]"]
+[Play "N"]
+S4 S3 SQ S8 
+DA D8 D7 D9 
+S6 S9 SA H2 
+CA H4 C4 CK 
+SJ SK S2 C8 
+H8 H7 H5 HA 
+D3 HK HT H3 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "20"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J64.8.AJT643.A32 KT973.KJ974.KQ8. AQ52.T5.75.J7654 8.AQ632.92.KQT98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "552765527588b6688b66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  7
+N  C  6
+S NT  5
+S  S  5
+S  H  2
+S  D  7
+S  C  5
+E NT  8
+E  S  8
+E  H 11
+E  D  6
+E  C  6
+W NT  8
+W  S  8
+W  H 11
+W  D  6
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,116,67,655,140,251,34,226,140,82,25,82,41,31,40,262,173,14,27,318,44,12,25,38,42,38,18,77,19,19,10,47,22,17,29,294,55,29,43,153,22,22,11,34,22,23,11,24,13,38,26,32,9,32,25
+[Auction "W"]
+1H 2D 3D =1= Pass 
+3H Pass 3S =2= X 
+4C Pass 4H Pass 
+Pass Pass 
+[Note "1: F1 good raise"]
+[Note "2: cue"]
+[Play "N"]
+DA D8 D7 D2 
+D3 DQ D5 D9 
+D4 DK H5 H6 
+C2 H4 C4 C8 
+SJ S3 S2 S8 
+S6 S7 SQ H2 
+H8 H7 HT HA 
+C3 H9 C5 C9 
+S4 S9 S5 CT 
+D6 ST SA H3 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "21"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:942.AJT96.972.A9 QJ6.Q832.AK8.JT6 A75.K75.QJ65.Q83 KT83.4.T43.K7542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75875758755856857558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  5
+S  H  8
+S  D  7
+S  C  5
+E NT  5
+E  S  8
+E  H  5
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,4,0,100,117,47,48,132,91,406,29,63,252,33,14,15,33,102,10,14,483,19,11,11,228,27,75,49,118,37,51,12,103,35,25,22,94,153,108,37,22,178,60,20,188,18,20,12,10,15,9,9,88,32,13,13,13,12,6,8
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "S"]
+D5 D3 D9 DA 
+S5 S3 S4 SJ 
+S7 S8 S2 SQ 
+SA ST S9 S6 
+H7 H4 HA H2 
+H5 C2 HJ H3 
+HK C4 H6 H8 
+C3 C5 C9 CT 
+D6 SK H9 HQ 
+DJ D4 D2 DK 
+DQ DT D7 D8 
+CQ CK CA C6 
+C8 C7 HT CJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "21"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:942.AJT96.972.A9 QJ6.Q832.AK8.JT6 A75.K75.QJ65.Q83 KT83.4.T43.K7542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75875758755856857558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  5
+S  H  8
+S  D  7
+S  C  5
+E NT  5
+E  S  8
+E  H  5
+E  D  6
+E  C  8
+W NT  5
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,78,33,51,94,55,37,61,71,44,136,110,28,165,40,44,7,14,461,31,14,82,28,129,22,8,28,145,195,119,451,35,18,85,85,670,16,10,104,53,43,16,129,25,78,14,18,17,14,14,10,35,42,8,21,26,16,8,10,16,7,11
+[Auction "N"]
+Pass 1C Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "S"]
+D5 D3 D9 DA 
+S5 S3 S2 SJ 
+C3 C2 CA CT 
+H7 H4 HJ H2 
+H5 C4 HT H3 
+HK D4 HA H8 
+D6 DT D7 DK 
+S7 S8 H6 HQ 
+SA ST S4 S6 
+DQ C5 D2 D8 
+DJ SK H9 C6 
+C8 C7 C9 CJ 
+CQ CK S9 SQ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "22"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:76.AT53.QJ96.532 A32.974.T7.KT974 QT9.KJ82.A85.AQJ KJ854.Q6.K432.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "86a9786a975734557345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H 10
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  5
+W NT  5
+W  S  7
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 4,4,0,76,164,184,107,42,91,282,17,29,29,27,22,10,47,50,9,9,29,87,54,39,29,378,24,78,30,17,24,29,72,17,8,10,147,13,14,19,11,20,13,315,23
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 14-17 at white"]
+[Play "W"]
+S5 S6 SA S9 
+SJ S7 S3 ST 
+SK H3 S2 SQ 
+S8 C2 H9 D5 
+S4 C3 H4 CJ 
+C6 C5 CK CA 
+H6 H5 H7 HK 
+HQ HA C4 H2 
+DK DQ D7 D8 
+D2 -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "22"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:76.AT53.QJ96.532 A32.974.T7.KT974 QT9.KJ82.A85.AQJ KJ854.Q6.K432.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "86a9786a975734557345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H 10
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H 10
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  5
+W NT  5
+W  S  7
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,1,3,48,324,145,108,49,49,541,38,83,31,45,83,28,69,14,232,40,62,30,81,53,9,21,18,15,12,36,61,197,21,11,78,22,16,62,17,42,17,7,18
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass Pass Pass 
+[Play "W"]
+S5 S6 SA S9 
+SJ S7 S3 ST 
+C8 C2 C4 CQ 
+H6 HA H7 H2 
+HQ H3 H4 HJ 
+SK HT S2 SQ 
+S4 H5 H9 HK 
+DK D6 D7 D5 
+S8 -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "23"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K8753.T75.2.KT32 QJ.AKJ82.QJT6.Q8 92.Q4.75.AJ97654 AT64.963.AK9843."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "160191601967dc467dc4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  0
+N  D  1
+N  C  9
+S NT  1
+S  S  6
+S  H  0
+S  D  1
+S  C  9
+E NT  6
+E  S  7
+E  H 13
+E  D 12
+E  C  4
+W NT  6
+W  S  7
+W  H 13
+W  D 12
+W  C  4
+[OptimumScore "NS -2000"]
+[Competition "Teams"]
+% RBDATA 21,4,0,97,57,85,55,29,40,36,134,35,65,43,113,27,48,41,652,41,132,33,133,99,200,24,253,25,9,12,24,11,18,81,81,19,11,16,9,26,9,23,23,19,24,22,38,42,41,11
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C =1= 
+Pass 2D Pass 3D 
+Pass 3H Pass 5D 
+Pass Pass Pass 
+[Note "1: 4sf"]
+[Play "N"]
+C3 C8 CA D8 
+D2 DQ D5 D3 
+C2 DT D7 DK 
+H7 HA H4 H6 
+CK CQ C4 D9 
+H5 HJ HQ H3 
+SK SJ S9 S4 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "23"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K8753.T75.2.KT32 QJ.AKJ82.QJT6.Q8 92.Q4.75.AJ97654 AT64.963.AK9843."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "10"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "160191601967dc467dc4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  0
+N  D  1
+N  C  9
+S NT  1
+S  S  6
+S  H  0
+S  D  1
+S  C  9
+E NT  6
+E  S  7
+E  H 13
+E  D 12
+E  C  4
+W NT  6
+W  S  7
+W  H 13
+W  D 12
+W  C  4
+[OptimumScore "NS -2000"]
+[Competition "Teams"]
+% RBDATA 26,1,3,282,198,230,38,37,58,77,1950,97,364,36,54,133,79,25,56,40,37,39,79,31,25,10,71,63,24,31,60,24,34,24,120,22,256,28,134,34,11,27,164,11,80,19,56,8,33,40,20,23,21,8,29,18,20,10,88,15,38,10,18,56,10,19
+[Auction "S"]
+3C 3D Pass 3H 
+Pass 4H 5C 6D 
+Pass Pass Pass 
+[Play "N"]
+C2 C8 CA D3 
+D2 D6 D5 DA 
+C3 DT D7 D4 
+CK CQ C4 D8 
+H5 HA H4 H3 
+SK SQ S9 S4 
+S3 SJ S2 S6 
+CT DJ C5 D9 
+S5 DQ C6 DK 
+S7 H2 C7 SA 
+S8 H8 C9 ST 
+H7 HJ HQ H6 
+HT HK CJ H9 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "24"]
+[West "David Waxman#20349"]
+[North "David Dunne#32853"]
+[East "Keith Joules#504710"]
+[South "Martin Brady#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q8.83.Q965.QT876 A6542.A942.42.A2 KJT73.T75.K.KJ54 9.KQJ6.AJT873.93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "562375623787ba687ba6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  2
+N  D  3
+N  C  7
+S NT  5
+S  S  6
+S  H  2
+S  D  3
+S  C  7
+E NT  8
+E  S  7
+E  H 11
+E  D 10
+E  C  6
+W NT  8
+W  S  7
+W  H 11
+W  D 10
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,4,0,88,46,39,37,25,200,36,31,25,46,20,29,222,504,45,18,96,17,31,39,458,32,15,8,28,10,29,15,37,34,13,10,35,38,24,121,746,302,24,8,143,64,18,43,101,15,7,40,21,22,50,39,25,25,12,28,14
+[Auction "W"]
+1D Pass 1S Pass 
+2D Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "S"]
+C5 C3 CQ CA 
+DK DA D5 D2 
+H5 HK H3 H2 
+H7 HQ H8 H4 
+HT H6 C8 HA 
+C4 DJ DQ D4 
+S3 S9 SQ S2 
+S7 D3 S8 SA 
+ST HJ C6 S4 
+CJ DT D6 C2 
+SJ D8 D9 H9 
+-  -  -  S5 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "24"]
+[West "Gordon Lessells#20204"]
+[North "Ian Cook#92002"]
+[East "Ying Piper#"]
+[South "Dennis Haines#510544"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q8.83.Q965.QT876 A6542.A942.42.A2 KJT73.T75.K.KJ54 9.KQJ6.AJT873.93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "562375623787ba687ba6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  2
+N  D  3
+N  C  7
+S NT  5
+S  S  6
+S  H  2
+S  D  3
+S  C  7
+E NT  8
+E  S  7
+E  H 11
+E  D 10
+E  C  6
+W NT  8
+W  S  7
+W  H 11
+W  D 10
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,168,41,37,69,71,31,65,37,36,32,25,30,27,320,19,30,55,19,30,24,27,19,31,23,629,53,18,88,159,78,17,23,3338,47,50,19,26,38,48,19,35,32,65,11,19,31,10,18,22,12,18,36,10,13,9,237,21,16,8,12,14,9,8,24
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "S"]
+H5 HK H3 H2 
+S3 S9 S8 SA 
+DK DA D5 D4 
+H7 DJ D6 D2 
+S7 H6 SQ S2 
+HT D7 D9 H9 
+SK HJ C6 S4 
+C4 D3 DQ HA 
+C5 HQ H8 H4 
+ST D8 C7 C2 
+CJ DT C8 S6 
+CK C3 CT CA 
+SJ C9 CQ S5 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "25"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K84.K86.Q9764.93 3.QT32.AK8.AQ862 95.AJ974.53.JT74 AQJT762.5.JT2.K5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "52644526447b7897b789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  2
+S  H  6
+S  D  4
+S  C  4
+E NT  7
+E  S 11
+E  H  7
+E  D  8
+E  C  9
+W NT  7
+W  S 11
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,104,106,55,115,79,110,60,45,69,25,16,116,346,98,17,281,42,36,20,44,28,17,6,27,89,16,5,34,17,11,7,22
+[Auction "N"]
+Pass 1C 1H 1S 
+2H Pass Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+H6 H2 H9 H5 
+H8 H3 H4 S2 
+S4 S3 S5 SA 
+S8 C2 S9 ST 
+SK D8 H7 SJ 
+HK -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "25"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K84.K86.Q9764.93 3.QT32.AK8.AQ862 95.AJ974.53.JT74 AQJT762.5.JT2.K5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "52644526447b7897b789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  2
+S  H  6
+S  D  4
+S  C  4
+E NT  7
+E  S 11
+E  H  7
+E  D  8
+E  C  9
+W NT  7
+W  S 11
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,142,56,119,83,80,178,38,81,39,29,30,56,170,34,29,118,143,41,27,35,30,34,10,15,7,29,24,140,45,18,17,31,30,18,10,30,28,15
+[Auction "N"]
+Pass 1C 1H 1S =1= 
+2H Pass Pass 4S 
+Pass Pass Pass 
+[Note "1: ♠♠"]
+[Play "N"]
+H8 HT HJ H5 
+H6 H2 H4 S6 
+D7 DA D3 D2 
+SK S3 S5 SQ 
+HK H3 H7 S2 
+S4 C2 S9 SA 
+S8 C6 -  SJ 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "26"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQ832..K73.AQT53 764.QJ9854.652.2 T5.A762.AJT4.K64 AJ9.KT3.Q98.J987"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "ab7ccab7cc1161122611"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  7
+N  D 12
+N  C 12
+S NT 10
+S  S 11
+S  H  7
+S  D 12
+S  C 12
+E NT  1
+E  S  1
+E  H  6
+E  D  1
+E  C  1
+W NT  2
+W  S  2
+W  H  6
+W  D  1
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 20,0,3,61,118,101,99,50,155,145,85,36,140,53,142,27,246,48,804,51,71,51,650,537,27,45,15,28,23,26,250,37,14,30,11,35,21,14,55,43,26,10,375,38,9,44,35,27,30,24,88,17,34,14,151,73,16,49,27,18,13,14
+[Auction "E"]
+Pass 1NT =1= Pass 2H =2= 
+X 2S =3= Pass 3C 
+Pass 3D Pass 4C 
+Pass 4H =4= Pass 5C 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: t/fer"]
+[Note "3: shows a heart stop"]
+[Note "4: cue"]
+[Play "E"]
+HQ HA H3 D3 
+S6 S5 S9 SQ 
+D2 DA D8 D7 
+S7 ST SA S2 
+H4 H2 HK C3 
+C2 C4 C7 CA 
+H5 CK C8 C5 
+H8 C6 C9 CT 
+D5 H6 CJ CQ 
+S4 D4 SJ SK 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "26"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQ832..K73.AQT53 764.QJ9854.652.2 T5.A762.AJT4.K64 AJ9.KT3.Q98.J987"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "ab7ccab7cc1161122611"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  7
+N  D 12
+N  C 12
+S NT 10
+S  S 11
+S  H  7
+S  D 12
+S  C 12
+E NT  1
+E  S  1
+E  H  6
+E  D  1
+E  C  1
+W NT  2
+W  S  2
+W  H  6
+W  D  1
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 20,2,1,94,68,36,206,161,48,44,41,38,129,61,53,27,429,46,244,37,186,45,117,801,39,190,33,29,16,17,333,29,15,29,142,13,18,18,62,26,31,11,295,64,18,24,207,27,10,50,29,278,27,85,19,26,21,13,105,48,12,231,70,20,21,10,46,10,21,22,17,20,16,8
+[Auction "E"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 3C 
+Pass 3NT Pass 4C 
+Pass 4H Pass 5C 
+Pass Pass Pass 
+[Note "1: 1214"]
+[Note "2:  * tr [0:07]"]
+[Play "E"]
+HQ HA HT S2 
+S4 S5 S9 SK 
+C2 CK C7 C3 
+S6 ST SA S3 
+H5 H2 HK C5 
+H4 C4 C9 CA 
+D2 DJ DQ D3 
+H8 H6 H3 CT 
+S7 H7 SJ SQ 
+H9 D4 D8 S8 
+D5 DA D9 D7 
+D6 C6 C8 CQ 
+HJ DT CJ DK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "27"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q5.AK2.AT63.J543 3.JT985.J942.K98 J842.Q7643.Q85.2 AKT976..K7.AQT76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "53763537638a67a8a67a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  6
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  6
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H  6
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 13,0,3,59,111,61,32,93,57,74,449,173,64,51,304,36,43,128,58,38,30,37,16,9,29,18,31,12,32,18,16,17,146,130,33,42,37,36,36,23,18,165,19,7,60,28,17,27,18,23,14,16,28,7,27,30,13,9,72,9,29,10,57,9,10,25,10,166
+[Auction "S"]
+Pass 1S X Pass 
+2H 3C Pass Pass 
+3H 3S Pass Pass 
+Pass 
+[Play "N"]
+HK H5 H6 S6 
+S5 S3 S2 SA 
+SQ D2 S4 SK 
+D3 H8 SJ ST 
+CJ CK C2 CT 
+H2 H9 H3 S7 
+D6 D4 S8 S9 
+C3 C9 H7 C6 
+C4 C8 H4 CQ 
+C5 HT D8 CA 
+HA D9 HQ C7 
+DT DJ DQ D7 
+DA HJ D5 DK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "27"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q5.AK2.AT63.J543 3.JT985.J942.K98 J842.Q7643.Q85.2 AKT976..K7.AQT76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "7"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "53763537638a67a8a67a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  6
+N  C  3
+S NT  5
+S  S  3
+S  H  7
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  6
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H  6
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 12,2,1,175,423,366,42,25,323,37,272,86,60,24,32,7,39,23,54,52,133,62,13,17,32,15,308,67,154,639,85,19,47,741,45,34,1949,40,10,14,418,671,51,15,959,24,9,210,21,9,93,62,12,17,58,17,8,27,7,41,7,12,7,10
+[Auction "S"]
+2H =1= 3C 3H Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: weak both majors"]
+[Play "W"]
+CA C3 C8 C2 
+C6 C4 CK H3 
+SK S5 S3 S2 
+SA SQ D2 S4 
+S6 D3 H5 S8 
+C7 C5 C9 H4 
+CT HA H8 H6 
+CQ CJ D4 H7 
+S7 D6 H9 SJ 
+S9 H2 HT HQ 
+D7 DA D9 D5 
+ST HK HJ D8 
+DK DT DJ DQ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "28"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.987.T9842.J85 864.KJ4.K6.KQ742 KQ9732.T.QJ5.A93 J5.AQ6532.A73.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "59385593856494764947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  3
+N  D  8
+N  C  5
+S NT  5
+S  S  9
+S  H  3
+S  D  8
+S  C  5
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C  7
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,102,76,166,43,279,57,206,43,37,23,29,107,12,23,19,39,41,21,58,231,80,49,138,25,42,12,135,28,18,28,25,10,30,10,297,30,46,12,22,17,27,31,43,37,35,22,22,8,14,42,23,7,14,18,17,20,13,6,14,8,20,8
+[Auction "W"]
+1H Pass 2C 2S 
+Pass Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+SA S4 S2 S5 
+ST S6 SQ SJ 
+D4 S8 S9 HA 
+H7 HJ HT H2 
+D2 DK D5 D3 
+D8 D6 DJ DA 
+H8 HK S7 H3 
+C5 CK CA C6 
+D9 H4 DQ D7 
+CJ CQ C3 CT 
+C8 C2 C9 H5 
+H9 C4 S3 HQ 
+DT C7 SK H6 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "28"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT.987.T9842.J85 864.KJ4.K6.KQ742 KQ9732.T.QJ5.A93 J5.AQ6532.A73.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "59385593856494764947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  3
+N  D  8
+N  C  5
+S NT  5
+S  S  9
+S  H  3
+S  D  8
+S  C  5
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C  7
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,226,38,54,47,83,154,355,27,19,21,26,104,12,24,19,20,8,34,78,403,108,19,27,27,22,186,123,30,13,17,217,233,92,83,15,17,8,22,15,6,14,9,45,23,10,13,13,20,10,6
+[Auction "W"]
+1H Pass 2C 2S 
+Pass Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+SA S4 S2 S5 
+ST S6 SQ SJ 
+D8 S8 SK HA 
+C5 CK C3 C6 
+C8 C2 CA CT 
+CJ H4 S9 D3 
+H7 HK HT H2 
+H9 HJ S7 H3 
+D2 D6 DJ DA 
+H8 C4 S3 HQ 
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "29"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A9532.J97.32.T72 T4.Q65.K8764.J83 KQ8.K32.AT9.A965 J76.AT84.QJ5.KQ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "88668886685577455774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  6
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  6
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,75,36,70,157,140,57,153,56,422,44,75,57,737,184,52,34,258,33,24,15,28,22,18,8,25,14,29,7,90,134,74,49,34,48,11,73,39,32,19,24,114,35,29,29,338,25,15,31,11,27,25,18,15,15,7,80,11,14,11,7,16,7,17,7
+[Auction "N"]
+Pass Pass 1C X 
+Pass 1D 1NT Pass 
+2S Pass Pass Pass 
+[Play "E"]
+H5 H2 HT HJ 
+S4 SK S6 S2 
+ST SQ S7 S3 
+D4 S8 SJ SA 
+C3 C5 CQ C2 
+D6 D9 DQ D2 
+D7 DA DJ D3 
+CJ C6 C4 CT 
+DK DT D5 S5 
+C8 CA CK C7 
+D8 C9 H4 H7 
+H6 H3 HA H9 
+HQ HK H8 S9 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "29"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A9532.J97.32.T72 T4.Q65.K8764.J83 KQ8.K32.AT9.A965 J76.AT84.QJ5.KQ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "88668886685577455774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  6
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  6
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,105,38,98,26,61,28,26,38,112,45,73,87,53,21,198,17,7,33,81,73,9,23,20,17,50,27,25,15,19,21,24,22,191,13,39,42,7,17,8,26,6,204,8,321,15,14,65,21,13,9,63,14,9,11,12,12,15,7,8,9,11,6
+[Auction "N"]
+Pass Pass 1C Pass 
+1S Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 1517 [0:09]"]
+[Play "W"]
+S6 S2 ST SK 
+S7 S3 S4 SQ 
+CQ C2 C3 C5 
+DQ D2 D8 D9 
+DJ D3 D4 DT 
+D5 H7 D6 DA 
+C4 C7 C8 CA 
+SJ SA CJ S8 
+H4 S9 D7 H2 
+H8 S5 DK C6 
+CK CT H5 C9 
+HA H9 H6 H3 
+HT HJ HQ HK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "30"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T7.QT.KJ986.AQ93 K6432.AK4.743.K4 AQ.832.AQT5.8652 J985.J9765.2.JT7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "845a9845a95983359833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D 10
+N  C  9
+S NT  8
+S  S  4
+S  H  5
+S  D 10
+S  C  9
+E NT  5
+E  S  9
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,0,3,68,50,62,159,106,159,218,56,22,32,96,272,20,40,67,14,23,12,24,20,17,16,23,21,24,37,31,38,9,61,29,14,8,112,24,24,27,18,23,26,15,16,40,8,8,54
+[Auction "E"]
+1S Pass Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+S5 S7 SK SA 
+C7 CA C4 C2 
+D2 D6 D3 DA 
+CT C3 CK C6 
+H5 HT HK H3 
+H6 HQ HA H2 
+H9 D8 H4 H8 
+HJ D9 S4 C5 
+H7 C9 S2 D5 
+SJ -  -  -  
+*
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "30"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T7.QT.KJ986.AQ93 K6432.AK4.743.K4 AQ.832.AQT5.8652 J985.J9765.2.JT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "845a9845a95983359833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D 10
+N  C  9
+S NT  8
+S  S  4
+S  H  5
+S  D 10
+S  C  9
+E NT  5
+E  S  9
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,191,29,85,901,44,257,26,29,23,36,25,31,59,26,18,133,615,128,18,24,13,127,17,34,17,48,24,26,66,26,10,26,27,23,14,11,20,9,17,13,29,28,22,10,14,13,12,11,12,12,12,11,15,9,14,7
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+C6 C7 CA C4 
+D5 D2 D8 D3 
+DT S8 D6 D4 
+DA S5 D9 D7 
+DQ CT DK S2 
+H8 CJ DJ S3 
+C2 S9 C9 CK 
+H3 H5 HT HA 
+H2 H6 HQ HK 
+C5 HJ C3 H4 
+C8 H9 S7 S4 
+SQ H7 ST S6 
+SA SJ CQ SK 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "31"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q2.Q9732.Q52.K93 JT98.KT.KJ43.862 AK7654.6.T98.754 3.AJ854.A76.AQJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "463234632397aaa97aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  3
+N  D  2
+N  C  3
+S NT  4
+S  S  6
+S  H  3
+S  D  2
+S  C  3
+E NT  9
+E  S  7
+E  H 10
+E  D 10
+E  C 10
+W NT  9
+W  S  7
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 12,0,3,206,255,126,30,35,120,74,54,32,78,183,9,51,118,52,14,43,23,30,17,17,34,13,13,41,416,34,9,56,184,16,20,17,16,21,17,8,55,166,33,11,25,34,11,95,20,22,14,19,22,22,24,9,24,7,35,20,68,8,17,8
+[Auction "S"]
+2D =1= Pass 2H =2= Pass 
+2S 3H Pass Pass 
+Pass 
+[Note "1: Weak 2 M or 17+ 4441"]
+[Note "2: p/c"]
+[Play "N"]
+SQ S8 S4 S3 
+S2 ST SK H4 
+H2 HT H6 H5 
+CK C2 C7 CT 
+H3 HK S6 H8 
+C3 C6 C4 CJ 
+C9 C8 C5 CA 
+H7 D3 S7 CQ 
+D2 DJ D8 D6 
+D5 D4 D9 DA 
+DQ DK DT D7 
+H9 S9 SA HA 
+HQ SJ S5 HJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "31"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q2.Q9732.Q52.K93 JT98.KT.KJ43.862 AK7654.6.T98.754 3.AJ854.A76.AQJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "463234632397aaa97aaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  3
+N  D  2
+N  C  3
+S NT  4
+S  S  6
+S  H  3
+S  D  2
+S  C  3
+E NT  9
+E  S  7
+E  H 10
+E  D 10
+E  C 10
+W NT  9
+W  S  7
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 7,2,1,283,220,149,64,76,53,62,8,28,28,17,9,23,133,22,20,7,18,10,48,58,694,59,8,13,64,17,14,47,278,155,16,5,40,21,5,14,32,13,80,7,41,16,28,6,19,152,7,20,24,14,19,7,19,5,8,10
+[Auction "S"]
+2D =1= 2H Pass Pass 
+Pass 
+[Note "1: 3 way multi"]
+[Play "N"]
+SQ S8 S4 S3 
+S2 S9 SK H4 
+H2 HK H6 H5 
+HQ HT S5 H8 
+H3 C2 S6 HJ 
+H7 D3 S7 HA 
+CK C6 C4 CQ 
+C3 C8 C5 CT 
+C9 ST C7 CA 
+H9 SJ D8 CJ 
+D2 D4 D9 DA 
+D5 DK DT D6 
+DQ DJ SA D7 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "32"]
+[West "Gordon Lessells#20204"]
+[North "Keith Joules#504710"]
+[East "Ying Piper#"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K5432.KQJ7.Q2.84 JT.A9854.JT.AK93 Q86.T6.AK76.QJT5 A97.32.98543.762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "88767887675557555575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 18,0,3,126,50,165,62,49,47,26,82,36,33,45,222,310,43,36,54,38,32,20,31,25,17,26,1181,32,40,17,757,29,31,135,112,31,26,28,12,26,24,58,64,28,13,25,26,51,12,24,38,25,8,11,28,18,426,41,13,18,8,34,15,8,13,8
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 2H Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+DJ D6 D3 DQ 
+DT DA D4 D2 
+ST DK D5 C4 
+CK C5 C2 C8 
+C9 CT C6 H7 
+C3 CQ C7 S2 
+SJ SQ SA S3 
+H5 D7 D9 S4 
+H4 S6 S7 SK 
+HA H6 H3 HK 
+CA CJ H2 S5 
+H8 HT S9 HQ 
+H9 S8 D8 HJ 
+
+[Event "Gold Cup Match"]
+[Site "RealBridge"]
+[Date "2024.12.23"]
+[Board "32"]
+[West "Dennis Haines#510544"]
+[North "Jim McMenemy#513698"]
+[East "Ian Cook#92002"]
+[South "Paul Maiolani#429602"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K5432.KQJ7.Q2.84 JT.A9854.JT.AK93 Q86.T6.AK76.QJT5 A97.32.98543.762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Ying Piper"]
+[VisitTeam "Keith Joules"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "88767887675557555575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 13,2,1,72,138,229,80,286,62,35,694,52,434,54,59,178,81,35,489,28,10,95,20,90,14,41,590,33,40,26,113
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 2H Pass 3S 
+Pass Pass Pass 
+[Play "E"]
+DJ D6 D5 DQ 
+DT DA D4 D2 
+ST DK D8 C4 
+SJ S6 S7 SK 
+-  -  -  S2 
+*

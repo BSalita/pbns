@@ -1,0 +1,9194 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "4"]
+[Score "NS 400"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2H Pass Pass Pass 
+[Note "1: semi forcing"]
+[Play "N"]
+H2 H9 HA H8 
+H3 H5 H6 HQ 
+S3 S9 SJ S2 
+DA D3 D6 D8 
+H4 H7 D2 HJ 
+HT D4 C2 HK 
+S4 S7 S6 SA 
+SK D5 S8 SQ 
+D9 DT DJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S =1= Pass Pass Pass 
+[Note "1: less than 15"]
+[Play "N"]
+DA D3 D2 D8 
+D9 D4 D6 S2 
+C4 C3 CQ C5 
+SK S7 S6 S5 
+S3 S9 SJ SA 
+S4 C7 S8 SQ 
+H2 H5 HA HK 
+H3 H7 H6 HJ 
+H4 H9 DJ HQ 
+HT D5 C2 H8 
+CA -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+2H Pass Pass X 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: SF"]
+[Play "E"]
+S9 S6 SA S3 
+DQ DK D8 D9 
+C3 CK C5 C4 
+C7 C2 C8 CA 
+D3 CQ CJ C9 
+D5 D2 S5 DA 
+H7 HA H8 H2 
+H5 H6 HK H3 
+H9 C6 HQ H4 
+D7 DJ S2 HT 
+D4 D6 HJ CT 
+S7 S8 ST SK 
+DT SJ SQ S4 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS 200"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass Pass 2D Pass 
+Pass Pass 
+[Play "S"]
+CK C5 C9 C7 
+C2 C8 CA C3 
+C6 CJ CT D5 
+S8 SQ SK S7 
+HA H8 H3 H9 
+H6 HJ H2 H5 
+DJ D8 D9 DT 
+CQ S2 C4 D3 
+DK S5 DA DQ 
+D2 HQ H4 H7 
+S6 SA S3 S9 
+SJ ST S4 D4 
+D6 HK HT D7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S X Pass 2S 
+Pass 3H =1= Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * default with 4 hearts and no 5 minor [0:13]"]
+[Play "E"]
+S9 SJ SQ SK 
+C3 CK C8 C4 
+C7 C2 C5 CA 
+D5 CQ CJ CT 
+D3 C6 H8 C9 
+D4 D2 D8 DA 
+D7 DJ HQ D9 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT =1= 
+Pass 2C =2= Pass 2D =3= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 11-16 [0:39]"]
+[Note "2: stayman ask"]
+[Note "3: 11-13 no 4 hearts"]
+[Play "W"]
+HK H2 H5 HA 
+HJ H3 H9 H6 
+SQ SK S9 S6 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ CT D3 CQ 
+S5 C9 D4 C6 
+D8 DA D5 D2 
+H8 D9 DT DJ 
+S2 S3 D7 DK 
+-  -  -  SJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: stayman"]
+[Play "W"]
+HK H2 H7 HA 
+HJ H3 H5 H6 
+SQ SK S7 S6 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ C9 D3 CQ 
+S2 CT D7 C6 
+D8 DA D4 D2 
+H8 D9 D5 DJ 
+S5 H4 DQ DK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 11-16HCP"]
+[Play "W"]
+HJ H2 H9 HA 
+C8 C4 C3 CQ 
+C5 CA C7 C2 
+CJ CT D3 CK 
+H8 HT H7 H6 
+S2 C9 D4 C6 
+HK H4 H5 D2 
+HQ H3 S7 S6 
+D8 DA D5 D6 
+S5 D9 DT DJ 
+ST S3 D7 DK 
+SA S4 S9 S8 
+SQ SK DQ SJ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+HQ H4 H7 HA 
+C5 C4 C7 CK 
+C8 CA C3 C2 
+CJ C9 D3 CQ 
+S5 SK S7 S6 
+H8 CT D4 C6 
+D8 DA D5 D2 
+S2 D9 D7 DJ 
+ST S3 DT DK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "5"]
+[Score "NS 800"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1H =1= Pass 2D =2= Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: 4+ may have a longer suit, 11-16"]
+[Note "2: 0-10, 6+♦s, <inv to play"]
+[Play "S"]
+S6 SQ SK S7 
+CQ C5 C4 C3 
+C2 C8 CA C7 
+C6 CJ C9 D3 
+HA H8 H2 H7 
+H6 HK H4 H5 
+D2 HJ H3 H9 
+S8 SA S3 S9 
+D6 D8 DA D4 
+DJ HQ HT D7 
+SJ S2 S4 D5 
+DK S5 D9 DQ 
+CK ST CT DT 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S X Pass 2S 
+Pass 3C Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+D5 D2 D8 D9 
+D3 D6 S2 DA 
+C7 CK C5 C4 
+S9 S6 SA S4 
+H5 H6 HK H2 
+H9 HA H8 H3 
+D4 DK S5 H4 
+C3 C2 C8 CA 
+D7 CQ CJ C9 
+DT C6 ST CT 
+S7 S8 SQ SK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT =1= 
+Pass 2C =2= Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 11-15 [0:08]"]
+[Note "2: Range finder stayman"]
+[Play "W"]
+HQ H2 H9 HA 
+D8 DA D3 D2 
+S2 D9 DT DJ 
+S5 SK S7 S6 
+C5 C4 C3 CK 
+H8 S3 D4 DK 
+C8 C9 C7 CQ 
+CJ CA D5 C6 
+ST CT H5 C2 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+HQ H2 H7 HA 
+D8 D9 DT D2 
+ST SK S9 S6 
+H8 DA D3 D6 
+C8 C4 C3 CK 
+C5 C9 C7 CQ 
+CJ S3 D4 DK 
+S2 CA -  C6 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2D =2= 
+Pass 2S =3= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: forces 2d cd be stayman or diamonds"]
+[Note "2:  * forced [0:11]"]
+[Note "3: I have 4 hearts"]
+[Play "W"]
+HQ H2 H5 HA 
+HK H3 H7 H6 
+SQ SK S9 S6 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ C9 D3 CQ 
+S5 CT D4 C6 
+D8 DA D5 D2 
+S2 D9 DT DJ 
+H8 H4 DQ DK 
+ST S3 D7 D6 
+-  -  H9 S8 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2NT =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: stayman"]
+[Note "2: 14-16"]
+[Play "W"]
+HK H2 H7 HA 
+HJ H3 H5 H6 
+SQ SK S7 S6 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ C9 D3 CQ 
+S2 CT D4 C6 
+D8 D9 DT DK 
+H8 DA D5 D2 
+HQ HT H9 D6 
+SA -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S X Pass 2S 
+Pass 3C Pass 3S 
+X 3NT Pass Pass 
+Pass 
+[Play "E"]
+S9 SJ SQ S3 
+H5 HA HQ H4 
+C3 CK C5 C4 
+C7 C2 C8 CA 
+D3 CQ CJ CT 
+D4 C6 S2 C9 
+D5 D2 D8 DA 
+D7 DJ S5 D9 
+DQ DK ST H2 
+S7 S6 SA S4 
+H7 H6 HK H3 
+H9 D6 HJ HT 
+DT S8 H8 SK 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: stayman"]
+[Play "W"]
+HK H2 H7 HA 
+HJ H3 H5 H6 
+SQ SK S9 S6 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ C9 D3 CQ 
+D8 DA D7 D2 
+S2 D9 D4 DJ 
+H8 S3 D5 DK 
+S5 CT DT C6 
+HQ HT H9 D6 
+SA S4 S7 S8 
+ST H4 DQ SJ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3D =4= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: range stayman"]
+[Note "2: medium hand, no major * medium hand only [0:55]"]
+[Note "3: re ask ♥"]
+[Note "4: no major"]
+[Play "W"]
+HJ H2 H7 HA 
+H8 HT H5 H6 
+HQ H3 H9 S6 
+HK H4 D4 D2 
+SQ SK S7 S8 
+C5 C4 C7 CK 
+C8 CA C3 C2 
+CJ C9 D5 CQ 
+S2 CT S9 C6 
+D8 DA D3 D6 
+S5 D9 D7 DJ 
+ST S3 DT DK 
+SA S4 DQ SJ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: ask"]
+[Note "2: not 4♥, 14-15"]
+[Note "3: stayman"]
+[Play "W"]
+HQ H2 H9 HA 
+C5 C4 C3 CK 
+C8 CA C7 C2 
+CJ C9 H7 CQ 
+HJ H3 H5 H6 
+D8 DA D4 D2 
+S2 CT D5 C6 
+H8 D9 D3 DJ 
+S5 S3 D7 DK 
+-  -  -  S6 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+1S Pass Pass 1NT 
+Pass 2C =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3D =4= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: range ask"]
+[Note "2:  * 13-14 [0:08]"]
+[Note "3: stayman"]
+[Note "4: No 4 card major"]
+[Play "W"]
+HK H2 H7 HA 
+C8 CA C3 C2 
+C5 C4 C7 CK 
+H8 HT H5 H6 
+CJ C9 D3 CQ 
+ST SK S7 S6 
+S2 CT D5 C6 
+D8 DA D4 D2 
+S5 D9 D7 DK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "36"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K43.T432.A9.AT94 97.975.QT7543.73 J86.A6.KJ62.KQ62 AQT52.KQJ8.8.J85"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "9778a9788a4645246452"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  6
+E  H  4
+E  D  5
+E  C  2
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  2
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+[Auction "W"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3S =2= Pass 3NT =3= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: jacoby"]
+[Note "2: no shortness, better than fast arrival"]
+[Note "3:  * non serious [0:10]"]
+[Play "S"]
+HJ H2 H7 HK 
+S6 S5 S4 SJ 
+S9 S8 S7 ST 
+HQ HA H6 HT 
+H9 H5 C5 D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 1NT =1= 
+Pass 2C =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: forcing may be GF"]
+[Note "2: 4+ C or any 5-3-3-2"]
+[Play "S"]
+HQ H2 H6 HK 
+S6 S5 S4 SJ 
+S9 SQ S7 S2 
+CT C4 C9 CQ 
+HJ HA H7 HT 
+H4 H5 C5 S3 
+C3 C7 C6 CA 
+C8 S8 CK C2 
+H9 H8 D4 ST 
+D2 D3 DJ DT 
+-  -  CJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass 4D =2= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: bal st spades"]
+[Play "S"]
+S6 S5 S4 SJ 
+S9 SA S7 S3 
+C8 C4 C5 CQ 
+H4 H2 H7 HK 
+HJ HA H6 HT 
+H3 H5 C6 S2 
+C3 C7 C9 CA 
+CT S8 CK C2 
+H9 H8 D4 ST 
+D9 DQ D5 D8 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3S =2= Pass 4D =3= 
+Pass 4H Pass 4S 
+Pass 4NT Pass 5D =4= 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: 3+S 9+P"]
+[Note "2: min"]
+[Note "3: cuebid"]
+[Note "4:  * 3/0 [0:05]"]
+[Play "S"]
+HQ H2 H6 HK 
+S6 S5 S4 SK 
+S9 S8 S7 SJ 
+HJ HA H7 HT 
+C3 C4 C9 CQ 
+C8 C7 CK CA 
+CT SQ CJ C2 
+H3 H5 C6 S2 
+D2 D3 DJ DT 
+H4 SA C5 D7 
+D9 DA D4 D8 
+DK DQ D5 S3 
+H9 H8 D6 ST 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+X 2S Pass 3H =2= 
+Pass 3NT Pass 4S 
+Pass Pass Pass 
+[Note "1: 14 16"]
+[Note "2: Spade ST"]
+[Play "S"]
+C3 C4 CK CA 
+S9 SQ S4 S3 
+S6 SA S7 S2 
+CT C7 C6 CQ 
+D2 DQ D6 D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+X 2S =2= 3C 4C 
+Pass 4H Pass 4NT =3= 
+Pass 5S Pass 6S 
+Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: shows stopper"]
+[Note "3: keycard"]
+[Play "S"]
+CT C4 CK CA 
+S6 S5 S4 SJ 
+S9 SQ S7 S3 
+H3 H2 H7 HK 
+HJ HA H6 HT 
+H4 H5 C6 ST 
+C3 C7 C5 CQ 
+C8 SA C9 C2 
+H9 H8 D6 SK 
+D9 DQ D5 D8 
+HQ S8 CJ S2 
+D2 DA D4 DT 
+DK D3 DJ D7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12-16; if 12-13 usually no 4-5cd Major"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 S5 S4 SJ 
+S9 SA S7 S3 
+H3 S8 C5 ST 
+C8 SQ C6 SK 
+HJ H5 H6 HT 
+CT C4 CK CA 
+D2 DQ D4 D8 
+H4 HA D5 C2 
+C3 C7 C9 CQ 
+D9 H8 CJ S2 
+DK DA D6 DT 
+H9 D3 DJ D7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 3C =1= 
+X Pass =2= Pass 3D 
+Pass 3NT Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 4-card GF S raise"]
+[Note "2:  * I can't recall our agreement [0:20]"]
+[Play "S"]
+C3 C4 CJ CQ 
+S6 SQ S4 S2 
+S9 S5 S7 SK 
+H3 H2 H6 HK 
+HQ HA H7 HT 
+H9 H5 C5 ST 
+C8 C7 C6 CA 
+CT S8 C9 C2 
+HJ H8 D4 S3 
+D2 D3 DJ DT 
+-  -  CK -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: LR or better"]
+[Note "2: all minimums"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 SQ S4 S3 
+S9 S5 S7 SK 
+HJ HA H6 HT 
+C3 C4 C5 CQ 
+C8 C7 C6 CA 
+CT S8 C9 C2 
+H3 H5 CK ST 
+D2 D3 DJ D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2C =1= 
+Pass 2NT =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: artificial, game forcing"]
+[Note "2: any 5332 11-13"]
+[Play "S"]
+HQ H2 H6 HK 
+S6 SQ S4 S3 
+S9 S5 S7 SK 
+HJ HA H7 HT 
+C8 C4 C5 CQ 
+C3 C7 C6 CA 
+CT SA C9 C2 
+H4 H5 CJ S2 
+D9 DQ D4 D7 
+H3 S8 CK SJ 
+D2 H8 D5 ST 
+DK DA D6 D8 
+H9 D3 DJ DT 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1:  * forcing raise [0:11]"]
+[Note "2: Alerted"]
+[Note "3:  * asking [0:08]"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 SQ S4 S3 
+S9 S5 S7 SJ 
+HJ HA H6 HT 
+H9 H5 C5 D7 
+D2 DA D4 D8 
+H3 H8 C6 DT 
+C8 C4 C9 CQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 4S =4= Pass Pass 
+Pass 
+[Note "1: jacoby"]
+[Note "2: some minimum not worst"]
+[Note "3:  * relay [0:06]"]
+[Note "4: 5332 13 0r 14"]
+[Play "S"]
+HJ H2 H6 HK 
+S6 S5 S4 SJ 
+S9 SQ S7 S2 
+C3 C4 C6 CQ 
+HQ HA H7 HT 
+H4 H5 C5 S3 
+C8 C7 CK CA 
+CT S8 C9 C2 
+H9 H8 D4 ST 
+D9 DQ D5 D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 4S =4= Pass Pass 
+Pass 
+[Note "1: figs raise * fg. raise [0:29]"]
+[Note "2: any min but bad 5332"]
+[Note "3: asks"]
+[Note "4: min 5332"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 S5 S4 SK 
+S9 SA S7 S2 
+C3 C4 C5 CQ 
+HJ HA H6 HT 
+H3 H5 C6 S3 
+C8 C7 C9 CA 
+CT D3 CJ C2 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 3NT Pass 4S 
+Pass Pass Pass 
+[Note "1: GF raise"]
+[Note "2: 13 max any shape"]
+[Note "3: Asking"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 S5 S4 SJ 
+S9 SA S7 S3 
+C3 C4 C5 CQ 
+HJ HA H6 HT 
+H3 H5 D4 S2 
+C8 C7 C6 CA 
+CT S8 CJ C2 
+H9 H8 C9 ST 
+DK DA D5 DT 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass 3H =2= 
+Pass 3S Pass 3NT =3= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: (13+)-16"]
+[Note "2: ART  4+S support GF"]
+[Note "3: non serious"]
+[Play "S"]
+HQ H2 H7 HK 
+S6 SA S4 S3 
+S9 S5 S7 SJ 
+HJ HA H6 HT 
+C8 C4 C6 CQ 
+D2 DQ D4 D8 
+H4 H5 C5 ST 
+C3 C7 C9 CA 
+CT SQ CK C2 
+H3 S8 CJ SK 
+D9 H8 D5 S2 
+DK DA D6 D7 
+H9 D3 DJ DT 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass 4C =2= 
+X 4H =3= Pass 4NT 
+Pass 5S =4= Pass 6S 
+Pass Pass Pass 
+[Note "1:  * 14-17  [0:14]"]
+[Note "2: no shortage, slammish, spade fit"]
+[Note "3: ♣ control + ♥ control * or 0/3  [0:47] * but I def think the first [1:24]"]
+[Note "4: 2 w/"]
+[Play "S"]
+C3 C4 CJ CQ 
+S6 SQ S4 S2 
+S9 S5 S7 SJ 
+H3 H2 H6 HK 
+HJ HA H7 HT 
+H4 H5 C5 S3 
+C8 C7 C6 CA 
+CT S8 C9 C2 
+H9 H8 D4 SK 
+D2 D3 DJ DT 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 4S =4= Pass Pass 
+Pass 
+[Note "1: gf, 4s+"]
+[Note "2: all mins"]
+[Note "3: asks"]
+[Note "4: decent bal. "]
+[Play "S"]
+HJ H2 H7 HK 
+S6 SQ S4 S3 
+S9 S5 S7 ST 
+HQ HA H6 HT 
+H9 H5 C5 D7 
+D2 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2C =1= 
+Pass 2S =2= Pass 2NT =3= 
+Pass 3D =4= Pass 3H =5= 
+Pass 4C =6= Pass 4S 
+Pass Pass Pass 
+[Note "1: art GF relay"]
+[Note "2: 1-suiter, at most 2 ♥"]
+[Note "3: relay"]
+[Note "4: 5=2=3=3 (12)13-15"]
+[Note "5: asks # controls"]
+[Note "6: 4 controls (A=2,K=1)"]
+[Play "S"]
+HQ H2 H6 HK 
+S9 SA S4 S2 
+S6 S5 S7 SJ 
+HJ HA H7 HT 
+H9 H5 D6 D7 
+D9 DA D4 D8 
+H4 H8 C5 DT 
+C3 C4 C6 CQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass 4C =2= 
+Pass 4H Pass 6S 
+Pass Pass Pass 
+[Note "1: 13+ - 16"]
+[Note "2: artificial bal slam try in ♠"]
+[Play "S"]
+S6 S8 S4 S2 
+S9 SA S7 S3 
+C3 C4 C5 CQ 
+H3 H2 H6 HK 
+HJ HA H7 HT 
+H4 H5 D6 ST 
+C8 C7 CK CA 
+CT S5 CJ C2 
+H9 H8 C6 SJ 
+D2 D3 DJ D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "37"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.76.J654.KJ965 KJT32.KT.T87.AQ2 96.QJ943.K92.T83 AQ85.A852.AQ3.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1132411324bc9a9bc9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  2
+N  C  4
+S NT  1
+S  S  1
+S  H  3
+S  D  2
+S  C  4
+E NT 11
+E  S 12
+E  H  9
+E  D 10
+E  C  9
+W NT 11
+W  S 12
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1S Pass 2NT =1= 
+Pass 3NT =2= Pass 4D =3= 
+Pass 4H =4= Pass 5H 
+Pass 5S Pass Pass 
+Pass 
+[Note "1: forcing 4+ spade raise * game forcing [0:10]"]
+[Note "2: no shortness not the worst"]
+[Note "3: control/slam try"]
+[Note "4: last train implies club control, maybe not heart control "]
+[Play "S"]
+C3 C4 CJ CQ 
+S9 S5 S4 SJ 
+S6 SA S7 S3 
+H3 H2 H6 HK 
+HQ HA H7 HT 
+HJ H5 C6 ST 
+C8 C7 C5 CA 
+CT S8 C9 C2 
+H9 H8 D4 S2 
+D9 DQ D5 D8 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+4D 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C7 CQ CA 
+HT H3 H2 HK 
+HQ HA H4 H5 
+D2 H9 H8 H6 
+D3 C9 C4 C5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1C =1= 3D Pass 
+Pass 3H Pass 3S 
+Pass 4C Pass 4H 
+Pass Pass Pass 
+[Note "1: 10-14 Art NF"]
+[Play "W"]
+DK DA D7 D5 
+HQ H3 H2 HJ 
+DQ DJ D9 H5 
+HT H9 H4 HK 
+C3 C2 C4 CA 
+D2 HA H8 H6 
+D3 C7 C8 CJ 
+D4 C9 CT CK 
+D6 S2 CQ C5 
+-  -  SA -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 4D 4H 
+5D 5H Pass Pass 
+X Pass Pass Pass 
+[Play "W"]
+DK DA D9 D5 
+HQ H3 H2 HJ 
+C3 C2 CQ CK 
+HT HA H4 H5 
+D4 C7 C4 CA 
+D2 C9 C8 CJ 
+D6 H9 CT C5 
+DQ DJ D7 H6 
+D3 S2 H8 HK 
+D8 S4 S5 C6 
+SQ S7 SA SJ 
+S3 S8 SK S6 
+DT S9 ST H7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+4D 4H Pass Pass 
+Pass 
+[Play "W"]
+DQ DA D7 D5 
+HT H3 H2 HK 
+C3 C2 C4 CA 
+HQ HA H4 H5 
+D4 H9 H8 H6 
+D6 C7 C8 CJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C7 CQ CA 
+HT H3 H8 HK 
+HQ HA H2 H6 
+D2 C9 C4 CK 
+D3 C2 C8 CJ 
+D4 H9 CT C5 
+D6 DA D7 D5 
+-  DJ D9 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C2 CQ CA 
+HT HA H8 H5 
+HQ H3 H2 HK 
+D2 C7 C4 CK 
+D3 C9 CT CJ 
+D4 H9 C8 C5 
+DK DA D7 D5 
+D6 DJ D9 H6 
+D8 -  -  HJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C2 CQ CA 
+HT HA H4 H5 
+HQ H9 H2 H6 
+DK DA D7 D5 
+D2 C9 CT CJ 
+D3 C7 C4 CK 
+D4 H3 C8 C5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C7 CQ CA 
+HT H3 H4 HK 
+HQ HA H2 H5 
+D2 C9 CT CJ 
+D8 C2 C4 CK 
+D6 H9 C8 C5 
+DK DA D7 D5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+4D 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C9 CQ CA 
+HT HA H8 H5 
+HQ H3 H4 HK 
+D3 C2 C4 CK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C2 CQ CK 
+HT H3 H2 HK 
+HQ HA H4 H5 
+D2 C9 CT CJ 
+D3 H9 H8 H6 
+D4 C7 C4 C5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C7 CQ CA 
+HT HA H4 H7 
+HQ H3 H2 HJ 
+DK DA D7 D5 
+D2 C9 CT CK 
+-  -  -  CJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass Pass Pass 
+[Play "W"]
+DK DA D9 D5 
+C3 C2 C4 CJ 
+HT HA H8 H5 
+HQ H3 H4 HK 
+D2 C7 C8 CA 
+D3 C9 CQ CK 
+D4 H9 CT C5 
+DQ DJ D7 H6 
+D6 -  -  HJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+DK DA D9 D5 
+HQ H3 H8 HJ 
+DQ DJ D7 H5 
+HT H9 H2 HK 
+C3 C2 C4 CK 
+D8 HA H4 H6 
+D2 C7 C8 CJ 
+-  -  -  CA 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C3 C7 CQ CA 
+HT HA H2 H5 
+HQ H3 H4 HJ 
+DK DA D9 D5 
+D2 C9 CT CK 
+D3 C2 C4 CJ 
+D4 H9 C8 C5 
+D6 DJ D7 H6 
+D8 -  -  HK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass 3C Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+DK DA D9 D5 
+C3 C2 C4 CJ 
+HQ H3 H4 HK 
+HT HA H2 H5 
+D2 H9 H8 H6 
+D6 C7 CQ CA 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+DQ DA D7 D5 
+C3 C7 C4 CJ 
+HT H3 H2 HK 
+HQ HA H4 H5 
+D2 H9 H8 H6 
+D3 C9 CQ CA 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+DK DA D9 D5 
+HQ H3 H4 HJ 
+DQ DJ D7 H5 
+HT H9 H2 HK 
+C3 C2 C4 CK 
+D6 HA H8 H6 
+D4 C9 CT CJ 
+D3 C7 C8 CA 
+DT S2 CQ C6 
+-  -  SK -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+3S 4C Pass 4D 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+SQ S2 S5 S6 
+S3 S4 SK SJ 
+DQ DA D9 D5 
+C3 C7 C4 CJ 
+HQ H3 H2 HK 
+HT HA H4 H5 
+D2 C2 C8 CA 
+D3 C9 CT CK 
+D4 H9 CQ C5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 3D 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+DK DA D9 D5 
+C3 C2 C4 CJ 
+HT HA H2 H5 
+HQ H3 H4 HJ 
+DQ DJ D7 H6 
+D6 C7 C8 CA 
+D4 C9 CT CK 
+D3 H9 CQ C5 
+S3 S2 SK S6 
+SQ S4 SA SJ 
+D2 S7 ST H7 
+D8 S8 H8 HK 
+DT S9 S5 C6 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "38"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:98742.A93.AJ.972 AKT5.842.97.QT84 J6.KJ765.5.AKJ65 Q3.QT.KQT86432.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "99a4b99a4b2428224282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  4
+N  C 11
+S NT  9
+S  S  9
+S  H 10
+S  D  4
+S  C 11
+E NT  2
+E  S  4
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1H 4D X 
+Pass 5C Pass 5H 
+Pass Pass Pass 
+[Play "W"]
+DK DA D7 D5 
+C3 C2 C4 CJ 
+HT HA H2 H6 
+HQ H9 H4 HK 
+D6 C7 CQ CA 
+D2 C9 CT CK 
+D3 H3 C8 C5 
+-  DJ D9 H5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 800"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S X Pass 
+Pass Pass 
+[Play "N"]
+HQ H5 HA H6 
+DK D2 D7 D3 
+DA D5 C2 DQ 
+D9 DT S4 D4 
+H7 HT H2 HK 
+S3 S2 H3 SA 
+S5 SJ H4 S7 
+S6 DJ H8 C4 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S X Pass 
+2H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+SK S6 S2 S4 
+SQ S5 SJ H3 
+H6 H7 HT HA 
+HK HQ H5 H2 
+D3 DA D2 D7 
+D4 DK D5 C2 
+S8 S3 D6 H8 
+S7 C6 D8 H9 
+C4 CJ CQ C3 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H =1= 4S Pass Pass 
+Pass 
+[Note "1:  * not solid suit [0:04]"]
+[Play "N"]
+DA D2 D7 DQ 
+HQ H5 HA H6 
+H7 HT H2 HK 
+S3 SJ S4 S9 
+S5 S2 H3 SA 
+S6 D5 H4 SK 
+ST C5 H8 SQ 
+D9 DJ C2 D4 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+2H =1= 2S 3D =2= Pass 
+4H Pass Pass Pass 
+[Note "1: 10-14 5+♥ 0-3♠, not 5332 5422"]
+[Note "2: inv+ art. * ♥ [0:09]"]
+[Play "W"]
+SA S3 S2 S4 
+D3 DA D2 D7 
+HK HQ H5 H3 
+SK S5 SJ H4 
+H6 H7 HT HA 
+C4 CK C5 C2 
+D4 DK D5 C3 
+CT CJ C8 C7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+3H 3S Pass Pass 
+Pass 
+[Play "N"]
+DA D2 D7 DQ 
+S3 S2 S4 S8 
+S5 SJ H2 SA 
+S6 H5 H3 SK 
+ST D5 H4 SQ 
+DK D6 C2 D4 
+HQ HT HA H6 
+-  -  HJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S 2C Pass 
+2H 2S 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+SK S5 SJ H2 
+D4 DA D2 D7 
+HK HQ H5 H3 
+DQ D9 D6 H4 
+H6 H7 HT HA 
+C4 C6 C8 CA 
+CT CJ CQ C2 
+-  -  C5 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 800"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S X Pass 
+Pass Pass 
+[Play "N"]
+HQ H5 HA H6 
+H7 HT H2 HK 
+DK D2 D7 DQ 
+CJ CQ CA C4 
+CK C5 C2 CT 
+C9 C8 C3 S7 
+DA D5 C7 D4 
+D9 DJ S4 D3 
+C6 D6 HJ S8 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+2H 2S 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+SK S3 S2 S4 
+S9 ST SJ H2 
+D3 DA D2 D7 
+HK HQ H5 H4 
+D4 DK D5 C2 
+H6 H7 HT HA 
+C4 CK C5 C3 
+CT CJ C8 C7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+3H 3S 4H Pass 
+Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+D4 DA D2 D7 
+S8 S5 SJ H2 
+HK H7 H5 H4 
+D3 DK D6 C2 
+H6 HQ HT H3 
+S7 S6 D8 H9 
+S9 C6 DT HA 
+SQ D9 D5 HJ 
+DQ ST C5 H8 
+C4 C9 C8 CA 
+CT CK CQ C3 
+SK CJ DJ C7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S 2S Pass 
+4H Pass Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+SK S5 SJ H2 
+D4 DA DJ D7 
+HK HQ H5 H3 
+D3 DK D2 C2 
+H6 H7 HT HJ 
+S8 S6 D5 HA 
+S7 C6 D6 H9 
+S9 D9 DT H8 
+C4 C9 C5 CA 
+CT CJ CQ C3 
+-  -  D8 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS -100"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S 2C Pass 
+3S Pass 4D =1= Pass 
+5C Pass 6C Pass 
+Pass Pass 
+[Note "1: key card for Cs"]
+[Play "E"]
+SJ S4 SQ S5 
+CQ CA C4 C9 
+C5 C2 CT CK 
+C8 C3 S7 CJ 
+H5 H2 HK HQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S X Pass 
+2H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 S2 S4 
+SA S5 SJ H2 
+D3 DA D6 D7 
+HK HQ H5 H3 
+D4 DK D2 C2 
+H6 H7 HT HA 
+S7 S6 D5 HJ 
+S8 D9 D8 H9 
+S9 C6 DT H8 
+C4 ST C5 H4 
+CT C9 C8 CA 
+SQ CK CQ C3 
+DQ CJ DJ C7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S X Pass 
+2H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+SK S5 SJ H3 
+D3 DA D2 D7 
+HK HQ H5 H2 
+D4 DK D8 C2 
+H6 H7 HT HJ 
+S8 S6 D5 HA 
+S9 C6 D6 H9 
+S7 D9 DT H8 
+DQ ST DJ H4 
+C4 CK C5 C3 
+CT C9 C8 CA 
+SQ CJ CQ C7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -200"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S 2C Pass 
+3S =1= Pass 4H Pass 
+5NT =2= Pass 6H Pass 
+Pass Pass 
+[Note "1: short S, C support"]
+[Note "2: pick slam"]
+[Play "W"]
+SK S3 S2 S4 
+S8 S5 SJ H2 
+D3 DA D2 D7 
+HK HQ H5 H3 
+SA S6 HT HJ 
+H6 H7 D5 H4 
+DQ DK D6 C2 
+D4 D9 DT H8 
+S7 C6 D8 HA 
+C4 C9 C5 CA 
+S9 ST DJ H9 
+CT CK C8 C3 
+SQ CJ CQ C7 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S X Pass 
+Pass Pass 
+[Play "N"]
+DK D2 D7 DQ 
+HQ H5 HA H6 
+H7 HT HJ HK 
+S3 SJ S4 S8 
+S6 S2 H2 SA 
+S5 D5 H3 SK 
+ST D6 H4 SQ 
+DA D8 C2 D4 
+CJ CQ CA C4 
+CK -  C3 CT 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+1H 1S X Pass 
+2H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+SA S3 S2 S4 
+SK S5 SJ H2 
+D3 DA D2 D7 
+HK HQ H5 H3 
+D4 D9 DT H4 
+H6 H7 HT HA 
+S7 S6 D5 HJ 
+C4 C6 C5 CA 
+CT CJ CQ C2 
+-  -  D6 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S 5H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 S2 S4 
+S9 S5 SJ H2 
+HK H7 H5 H3 
+SA S6 D2 H4 
+H6 HQ HT H8 
+SQ ST D5 H9 
+S8 C6 C5 HA 
+C4 C9 C8 CA 
+CT CJ CQ C2 
+-  -  DJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S 5H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 SJ S4 
+SA S5 S2 H2 
+H6 H7 H5 HA 
+HK HQ HT H3 
+D4 DA D6 D7 
+D3 DK D2 C2 
+DQ D9 DJ H4 
+S7 C6 D8 HJ 
+S8 S6 D5 H9 
+C4 CJ CQ C3 
+-  -  DT -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S 5H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 S2 S4 
+SA S5 SJ H2 
+D3 DA D2 D7 
+HK HQ H5 H3 
+D4 DK D8 C2 
+H6 H7 HT HA 
+S9 C6 D5 HJ 
+S7 S6 D6 H8 
+S8 D9 DT H4 
+DQ ST DJ H9 
+C4 CK C5 C3 
+CT CJ C8 C7 
+SQ C9 CQ CA 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "39"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T653.Q7.AK9.KJ96 J2.T5.JT8652.Q85 4.AJ98432.7.A732 AKQ987.K6.Q43.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "75b5a75b5a6718167181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D  5
+N  C 10
+S NT  7
+S  S  5
+S  H 11
+S  D  5
+S  C 10
+E NT  6
+E  S  7
+E  H  1
+E  D  8
+E  C  1
+W NT  6
+W  S  7
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+[Auction "S"]
+4H 4S 5H Pass 
+Pass Pass 
+[Play "W"]
+SK S3 S2 S4 
+SA S5 SJ H3 
+D3 DA D2 D7 
+HK HQ H5 H2 
+H6 H7 HT HJ 
+S7 S6 D5 HA 
+S8 C6 D6 H9 
+S9 D9 DJ H8 
+D4 ST DT H4 
+C4 CK C5 C2 
+DQ DK D8 C3 
+CT CJ C8 C7 
+SQ C9 CQ CA 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D4 D7 D9 DJ 
+D2 H3 H2 HA 
+D6 DT D3 DA 
+SK S9 S7 S3 
+S2 SQ H4 S5 
+CA C7 C5 C2 
+S4 HQ -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1:  * forcing [0:09]"]
+[Play "E"]
+D4 D7 D9 DJ 
+D6 H3 H2 HA 
+C3 CK C4 C9 
+C6 C7 C8 C2 
+SK S9 S7 S3 
+S2 SQ H4 S5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D4 D7 D9 DJ 
+D2 DT D5 DA 
+D8 H3 H2 HA 
+SK S9 S7 S5 
+S2 SQ H4 S3 
+CA C7 C4 C2 
+S6 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S 2D X 
+3D 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D2 D7 D9 DJ 
+D8 H3 H2 HA 
+D4 DT D3 DA 
+C3 H9 HJ H8 
+SK S9 S7 S3 
+S2 SQ H4 S5 
+C6 HT HK H7 
+CA C7 C4 C2 
+D6 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+D2 D7 D9 DJ 
+D6 DT D3 DA 
+D4 H3 H2 HA 
+S2 S9 S7 SA 
+SK SQ D5 S3 
+C3 CJ CQ C2 
+-  -  CT -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D2 D7 D9 DJ 
+D6 H3 H2 HA 
+SK S9 S7 S5 
+S2 SQ H4 S3 
+CA -  C4 C2 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Play "E"]
+D2 D7 D9 DJ 
+D4 DT D5 DA 
+D6 H3 H2 HA 
+D8 H9 HJ H6 
+SK S9 S7 S5 
+S2 SQ H4 S3 
+DQ HT HK H7 
+CA C7 C4 C2 
+S4 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: Semi F"]
+[Play "E"]
+D2 D7 D9 DJ 
+D6 H3 H4 HA 
+D4 DT D5 DA 
+SK S9 S7 S3 
+S2 SQ H2 S5 
+CA C7 C4 C2 
+S4 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+C4 C2 CA C7 
+C5 C9 C6 CK 
+CQ H6 C3 CJ 
+D3 DA D4 D7 
+D5 DJ D2 DK 
+D9 H7 D6 DT 
+H2 HA S2 H3 
+HJ H8 S4 H5 
+CT S3 D8 H9 
+HK S5 S6 HQ 
+C8 S8 DQ HT 
+S7 SA SJ S9 
+H4 ST SK SQ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Play "E"]
+D4 D7 D9 DJ 
+D2 H3 H2 HA 
+SK S9 S7 S5 
+D6 DT D5 DA 
+S2 SQ H4 S3 
+D8 DK D3 C2 
+-  C7 C4 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1C =1= 1S 2H =2= 
+Pass 3H Pass 3S =3= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 10-14 0+♣ art. nf"]
+[Note "2: natural, inv"]
+[Note "3: looking for 3NT"]
+[Play "W"]
+C4 C2 CA C7 
+C5 C9 C6 CK 
+H2 H6 D2 HQ 
+HJ HA C3 H3 
+S7 SA S2 S9 
+H4 S3 S4 SQ 
+D3 DJ -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: semi frc"]
+[Play "E"]
+D2 D7 D9 DJ 
+D6 H3 H2 HA 
+D4 DT D5 DA 
+CA C7 C8 C2 
+C6 CK C4 C9 
+D8 DK D3 S3 
+C3 CJ CQ H6 
+S6 H5 HJ H7 
+SK S9 S7 S5 
+S2 SQ H4 S8 
+DQ H9 HK H8 
+-  -  C5 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: not forcing"]
+[Play "E"]
+D2 D7 D9 DJ 
+D6 DT D5 DA 
+D4 H3 H2 HA 
+SK S9 S7 S5 
+S2 SQ H4 S3 
+CA C7 C4 C9 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S 2D 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+S7 SA S2 S9 
+D5 DA D2 D7 
+D9 DJ D4 DT 
+HJ H6 D6 H3 
+C8 C2 CA C7 
+C4 S3 SK SQ 
+HK S5 S6 HQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: semi"]
+[Play "E"]
+D2 D7 D9 DJ 
+D4 DT D3 DA 
+D6 H3 H2 HA 
+SK S9 S7 S3 
+S2 SQ H4 S5 
+-  -  C4 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: s/f"]
+[Play "E"]
+D2 D7 D9 DJ 
+D8 H3 H2 HA 
+S4 H5 HJ H8 
+S6 S9 S7 SA 
+D4 DT D5 DA 
+CA C7 CT C2 
+SK SQ D3 S3 
+D6 DK H4 H6 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1:  * forcing [0:18]"]
+[Play "E"]
+D2 D7 D9 DJ 
+D4 H5 H2 HA 
+D6 DT D3 DA 
+SK S9 S7 S5 
+S2 SQ H4 S3 
+CA C7 C4 C2 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D2 D7 D9 DJ 
+D4 H3 H2 HA 
+D6 DT D3 DA 
+S2 S9 S7 SA 
+SK SQ D5 S3 
+S4 H9 C5 S5 
+D8 DK H4 H6 
+C6 CK C4 C2 
+-  C7 CT C9 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: f1"]
+[Play "E"]
+D2 D7 D9 DJ 
+D8 H3 H2 HA 
+D4 DT D5 DA 
+CA C7 CT C2 
+C3 CK C4 C9 
+DQ DK D3 S3 
+C6 CJ CQ H6 
+S2 H5 HJ H7 
+SK S9 S7 S5 
+S4 SQ -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "40"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT853.A876.AJ.92 KJ642..Q8642.A63 Q9.QT953.KT7.KJ7 7.KJ42.953.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8896688a564537745377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  8
+S  S  8
+S  H 10
+S  D  5
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1:  * f1 [0:07]"]
+[Play "E"]
+D4 D7 D9 DJ 
+D2 DT D3 DA 
+D8 H3 H2 HA 
+CA C7 CT C9 
+C3 CK C4 C2 
+D6 DK D5 S3 
+C6 CJ CQ H6 
+S4 H9 HJ H7 
+DQ H5 HK H8 
+S6 HT H4 S5 
+-  S9 S7 SA 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1D 1S =1= 
+X 1NT 2H 2S 
+3H Pass Pass Pass 
+[Note "1: 4+"]
+[Play "W"]
+SA S9 S4 S2 
+D9 DT DJ DQ 
+CQ CK CA CJ 
+HJ D5 DK DA 
+S7 D6 SK S8 
+C2 CT C6 D2 
+HA HK H3 H4 
+ST HQ C7 SJ 
+C3 C9 D3 D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HK H3 H6 HA 
+D5 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S3 
+S9 SK S2 S5 
+D6 D3 DA S6 
+C8 S4 S8 SA 
+C4 CA CJ C2 
+DT DK D2 C3 
+H5 D8 D7 C5 
+C9 D4 H4 CQ 
+CT C6 SJ S7 
+CK C7 SQ ST 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+Pass 1NT =2= Pass 2C =3= 
+Pass 2D =4= Pass 3S =5= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 2+♦,11-13 * 15 not 13 [0:20]"]
+[Note "2: 11-13 now"]
+[Note "3: relay to 2♦ for now"]
+[Note "4: forced"]
+[Note "5: invite w 6 or more"]
+[Play "N"]
+HK H3 H4 HA 
+D6 DK DA D9 
+HQ H7 HT HJ 
+H5 H8 H9 S3 
+S9 SK S2 S5 
+C4 C6 CJ C2 
+H2 S4 SQ SA 
+C8 CA S8 C3 
+-  -  SJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1S =1= 
+Pass 1NT Pass 2S =2= 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: 4+ may have a longer suit, 11-16"]
+[Note "2: 6+"]
+[Play "N"]
+HK H3 H6 HA 
+D6 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S3 
+S9 SK S2 S6 
+D5 D3 D2 S5 
+C4 S4 S8 SA 
+C8 CA CJ C2 
+DT D4 D7 S7 
+C9 C6 H4 C3 
+H5 D8 SJ C5 
+CT C7 SQ ST 
+CK DK DA CQ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+X Pass =1= 2H X 
+Pass 2S Pass Pass 
+Pass 
+[Note "1:  * could have made support xx [0:48]"]
+[Play "N"]
+HK H3 H6 HA 
+D6 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S5 
+S9 SK S2 S3 
+D5 D3 D2 S6 
+C4 S4 S8 SA 
+C8 CA CJ C2 
+DT D4 D7 S7 
+C9 C6 SQ ST 
+-  -  SJ C3 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1: Semi F"]
+[Play "E"]
+D4 D2 D9 DT 
+D3 D7 S3 D5 
+CA CJ C2 C4 
+SK S2 S5 S9 
+S4 SQ S6 C8 
+H8 H4 HA H2 
+H7 H9 HJ HK 
+D8 DQ S7 D6 
+DJ DA C3 C9 
+H3 HT ST H5 
+DK H6 SA HQ 
+C6 S8 C5 CK 
+C7 SJ CQ CT 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 200"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+1H =1= Pass 3H =2= 3S 
+Pass 4S X Pass 
+Pass Pass 
+[Note "1: 4+♥ 8-10- could be canape"]
+[Note "2: usually 5-card support, INV"]
+[Play "N"]
+HK H3 H4 HA 
+D5 DJ DQ D9 
+CT CA CJ C2 
+D6 D3 DA HJ 
+H2 H7 H6 S3 
+S9 S4 S2 SA 
+C4 SK -  S5 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+X Pass 2H 3S 
+Pass Pass Pass 
+[Play "N"]
+HK H3 H4 HA 
+D6 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S5 
+S9 SK S2 S3 
+D5 DK DA S6 
+C8 CA CJ C2 
+DT D3 D7 S7 
+C9 C6 D2 C3 
+CK C7 H6 C5 
+C4 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+X Pass 2H 2S 
+Pass Pass Pass 
+[Note "1: 4+ diam"]
+[Play "N"]
+HK H3 H6 HA 
+D5 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S5 
+S9 SK S2 S6 
+D6 D3 D2 S7 
+C4 S4 S8 SA 
+CT CA CJ C2 
+DT D4 D7 S3 
+C8 C6 H4 C3 
+CK C7 DA C5 
+C9 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+X Pass 2H X 
+Pass 3D Pass 3S 
+Pass 4S X Pass 
+Pass Pass 
+[Play "N"]
+HK H3 HT HA 
+HQ H7 H6 HJ 
+H2 H8 H9 S5 
+D6 DJ DQ D9 
+C4 C6 CJ C2 
+H5 S4 H4 C3 
+D5 DK DA S3 
+S9 SK S2 S6 
+DT D3 D7 S7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HQ H3 H6 HA 
+D5 DK DA D9 
+HK H7 HT HJ 
+H2 H8 H9 S3 
+S9 SK S2 S5 
+C4 C6 CJ C2 
+C8 S4 SQ SA 
+D6 D3 S8 S6 
+H5 D4 SJ S7 
+C9 C7 H4 C3 
+DT D8 D7 ST 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+HK H3 H6 HA 
+D6 DK DA D9 
+C4 C6 CJ C3 
+HQ H7 H4 HJ 
+CT C7 S2 C2 
+H2 H8 H9 S7 
+S9 SK S8 S3 
+D5 D3 D2 S5 
+C9 S4 SJ SA 
+H5 D4 SQ S6 
+DT D8 HT ST 
+C8 CA D7 C5 
+CK DJ DQ CQ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1D 1S 
+X XX 2H 2S 
+3H 3S Pass Pass 
+Pass 
+[Play "N"]
+HK H3 H6 HA 
+D6 D3 DQ D9 
+HQ H7 HT HJ 
+C4 C6 CJ CQ 
+S9 S4 S2 SA 
+CK SK S8 S7 
+D5 DK DA S3 
+H5 H8 SJ S5 
+H2 D4 H9 S6 
+C8 CA SQ C2 
+DT C7 H4 ST 
+C9 D8 D2 C3 
+CT DJ D7 C5 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2D Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HK H3 H6 HA 
+D5 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S3 
+S9 S4 S2 SA 
+H5 SK S8 S5 
+C4 C6 CJ C2 
+C8 D3 SQ S6 
+D6 D4 SJ S7 
+DT D8 H4 ST 
+C9 CA D2 C3 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+Pass 1NT Pass 2C =2= 
+X 2D =3= Pass 3S =4= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 0+"]
+[Note "2: relay to  2d"]
+[Note "3: Alerted"]
+[Note "4: 6+S inv"]
+[Play "N"]
+HK H3 H6 HA 
+D6 DJ DQ D9 
+HQ H7 HT HJ 
+H2 H8 H9 S5 
+S9 SK S2 S7 
+D5 DK DA S6 
+H5 S4 S8 SA 
+C8 CA CJ C3 
+DT D3 D2 S3 
+C4 D4 SQ ST 
+C9 C6 SJ C2 
+CT C7 H4 C5 
+CK D8 D7 CQ 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 400"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HQ H3 H6 HA 
+D6 DK DA D9 
+HK H7 HT HJ 
+H2 H8 H9 S3 
+S9 SK S2 S6 
+C4 C6 CJ C3 
+H5 S4 SQ SA 
+C8 CA S8 C2 
+-  -  SJ -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+Pass 1NT =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+, 10-15, 11-13 if bal"]
+[Note "2: 11-13"]
+[Play "N"]
+HK H3 H4 HA 
+HQ H7 H6 HJ 
+H2 H8 HT S7 
+D5 DK DA D9 
+C8 CA CJ C2 
+D6 D3 D2 S5 
+C9 C6 H9 C3 
+CK C7 D7 C5 
+C4 SK DQ CQ 
+DT DJ S2 S3 
+S9 S4 S8 S6 
+H5 D4 SQ SA 
+CT D8 SJ ST 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D =1= Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+♦, 10-15"]
+[Play "N"]
+S9 S4 SJ SA 
+D5 DJ DQ D9 
+H5 H3 H4 HA 
+H2 SK S2 S3 
+D6 D3 D2 S5 
+HQ H7 H6 HJ 
+HK H8 H9 S6 
+C8 CA CJ C2 
+C9 C6 D7 C3 
+DT DK DA S7 
+C4 C7 -  ST 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 300"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2D =1= 
+Pass 2NT Pass 4S 
+Pass Pass Pass 
+[Note "1: GF"]
+[Play "N"]
+HK H3 H6 HA 
+D6 DK DA D9 
+C4 CA CJ C2 
+D5 D3 D2 S3 
+HQ H7 H4 HJ 
+H2 H8 HT S5 
+CT C6 D7 C3 
+CK C7 H9 C5 
+C8 D4 S2 CQ 
+DT D8 DQ S6 
+S9 SK S8 S7 
+H5 S4 SJ SA 
+C9 DJ SQ ST 
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "41"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ52.T65.KT984 K4.873.KJ843.A76 QJ82.T964.AQ72.J AT7653.AJ.9.Q532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "85877858775745658456"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  6
+W NT  5
+W  S  8
+W  H  4
+W  D  5
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+[Auction "N"]
+Pass Pass 1D 1S 
+X XX =1= 2H 2S 
+3H Pass Pass Pass 
+[Note "1: doubleton spade interest in competing"]
+[Play "W"]
+D9 DT DK DA 
+HA H2 H3 H4 
+S6 S9 SK S2 
+HJ D5 D8 DQ 
+C5 CK CA CJ 
+S5 H5 H7 HT 
+SA HQ S4 SJ 
+CQ CT C6 D2 
+S3 HK C7 S8 
+C2 C9 H8 H9 
+C3 D6 D3 H6 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "phantom4#USBF"]
+[North "bye5#USBF"]
+[East "phantom3#USBF"]
+[South "bye6#USBF"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "21"]
+[HomeTeam "[19] Simson"]
+[VisitTeam "[bye] phantom"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "bye8#USBF"]
+[North "phantom1#USBF"]
+[East "bye7#USBF"]
+[South "phantom2#USBF"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "22"]
+[HomeTeam "[bye] phantom"]
+[VisitTeam "[19] Simson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "John Bishel#Bishel"]
+[North "Jason Chiu#Kolesnik"]
+[East "Tom Bishel#Bishel"]
+[South "Alex Kolesnik#Kolesnik"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[HomeTeam "[10] Kolesnik"]
+[VisitTeam "[1] Bishel"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: semi"]
+[Play "W"]
+C9 C4 CQ CA 
+S2 ST SA S3 
+S6 C5 C2 CK 
+D2 DK D3 D6 
+SK S7 H2 S9 
+HA H3 H4 HQ 
+D8 DT DJ D7 
+S8 C6 C3 CT 
+DA -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Finn Kolesnik#Donner"]
+[North "Howard Parker#Onstott"]
+[East "Ish DelMonte#Donner"]
+[South "John Onstott#Onstott"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "10"]
+[HomeTeam "[15] Onstott"]
+[VisitTeam "[5] Donner"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1: F"]
+[Play "S"]
+CA C9 C4 CQ 
+SQ S2 S7 SA 
+HQ HA H3 HJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Andy Stark#Kolesnik"]
+[North "John Hinton#Bishel"]
+[East "Franco Baseggio#Kolesnik"]
+[South "Bob Lyon#Bishel"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[HomeTeam "[1] Bishel"]
+[VisitTeam "[10] Kolesnik"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1: semiforcing"]
+[Play "S"]
+CA C9 C4 C3 
+D7 D8 DK D3 
+S3 S2 ST SA 
+HQ HA H3 H4 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Daniel Weiss#Dinkin"]
+[North "Bill Hall#Reynolds"]
+[East "Kyle Rockoff#Dinkin"]
+[South "Joe Viola#Reynolds"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "8"]
+[HomeTeam "[16] Reynolds"]
+[VisitTeam "[4] Dinkin"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+3C =1= 3S 4H Pass 
+Pass Pass 
+[Note "1: 0-10 6+ ♥s"]
+[Play "N"]
+ST SA S3 S2 
+H3 H6 HQ HA 
+C8 C2 CT C9 
+C4 C3 CA H9 
+S7 H2 S5 S6 
+C5 CQ CK H8 
+C6 D3 S4 SK 
+D4 H4 S9 S8 
+DK DQ D6 D2 
+HK H5 CJ HT 
+D5 -  -  -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Josh Donn#Onstott"]
+[North "Gary Donner#Donner"]
+[East "Greg Hinze#Onstott"]
+[South "Sandra Rimstedt#Donner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "9"]
+[HomeTeam "[5] Donner"]
+[VisitTeam "[15] Onstott"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1H 1S 4H =1= Pass 
+Pass 4S X Pass 
+Pass Pass 
+[Note "1: wide range"]
+[Play "W"]
+HA H3 H7 HQ 
+DA D4 DQ D7 
+D2 DK D3 D6 
+S2 S7 SA S4 
+C9 C4 C3 CA 
+SK ST H2 S3 
+H9 HK H4 CT 
+D8 D5 DJ S9 
+S6 C5 H5 SQ 
+S8 C6 H6 SJ 
+D9 C7 C2 CK 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Andy Goodman#Henner"]
+[North "Jeff Meckstroth#Levine"]
+[East "Craig Ganzer#Henner"]
+[South "Steve Garner#Levine"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "16"]
+[HomeTeam "[12] Levine"]
+[VisitTeam "[8] Henner"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 3H Pass 
+Pass Pass 
+[Note "1: F"]
+[Play "S"]
+CK C9 C4 C2 
+HQ HA H3 H2 
+S3 S2 S7 SA 
+D7 D2 DK DQ 
+-  -  HK -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Joe Grue#Fleisher"]
+[North "Eric Greco#Nickell"]
+[East "Brad Moss#Fleisher"]
+[South "Geoff Hampson#Nickell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "12"]
+[HomeTeam "[14] Nickell"]
+[VisitTeam "[6] Fleisher"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass Pass 
+2H 2S 4H Pass 
+Pass Pass 
+[Play "S"]
+CA C9 C4 C3 
+HQ HA H3 H2 
+S3 S2 S7 SA 
+D6 D2 DK DQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Tom Reynolds#Reynolds"]
+[North "Sam Dinkin#Dinkin"]
+[East "Lance Kerr#Reynolds"]
+[South "Michael Shuster#Dinkin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "7"]
+[HomeTeam "[4] Dinkin"]
+[VisitTeam "[16] Reynolds"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 2S =1= Pass Pass 
+Pass 
+[Note "1: 10-14 5+♠, 0-3♥, not 5422 or 5332"]
+[Play "W"]
+C9 C6 C3 CT 
+S2 ST SA S5 
+S6 C4 C2 CA 
+DA D4 D3 D6 
+D2 DK DJ D7 
+SK S7 H6 S9 
+H8 H3 HJ HQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "David Berkowitz#Rosenthal"]
+[North "Stephen Castellino#Castellino"]
+[East "Migry Campanile#Rosenthal"]
+[South "Mukund Thapa#Castellino"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "5"]
+[HomeTeam "[3] Castellino"]
+[VisitTeam "[17] Rosenthal"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+C9 C4 CQ CA 
+S2 ST SA S3 
+S6 C5 C3 CK 
+H9 H3 HJ HQ 
+SK S7 H2 SJ 
+HA HK H4 S4 
+S8 D4 H5 SQ 
+D2 D5 H6 S9 
+D8 DK D3 D7 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Eric Robinson#Wildavsky"]
+[North "Kevin Bathurst#Spector"]
+[East "Gary Cohler#Wildavsky"]
+[South "John Hurd#Spector"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "19"]
+[HomeTeam "[20] Spector"]
+[VisitTeam "[21] Wildavsky"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2C Pass Pass 
+Pass 
+[Note "1: semi"]
+[Play "W"]
+HA H3 HJ HQ 
+D2 DK D3 D6 
+H8 HK H6 D7 
+S2 S7 SA S5 
+D8 D4 DQ CT 
+SK ST H4 S4 
+S6 C8 CQ S3 
+-  -  C2 -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Mike Passell#Levine"]
+[North "Christal Henner#Henner"]
+[East "Mark Lair#Levine"]
+[South "Uday Ivatury#Henner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "15"]
+[HomeTeam "[8] Henner"]
+[VisitTeam "[12] Levine"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+C9 C4 CQ CA 
+S2 ST SA S3 
+DA D4 DJ D7 
+HT H3 H4 HQ 
+SK S7 H2 S9 
+HA HK H5 S4 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Weishu Wu#Castellino"]
+[North "Chris Willenken#Rosenthal"]
+[East "Shail Gupta#Castellino"]
+[South "Eldad Ginossar#Rosenthal"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "6"]
+[HomeTeam "[17] Rosenthal"]
+[VisitTeam "[3] Castellino"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+2H 2S 3S Pass 
+3NT Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+CA C9 C4 C2 
+D7 DA D4 D3 
+S3 S2 S7 SA 
+HQ HA H3 H6 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "John Kranyak#Spector"]
+[North "Doug Doub#Wildavsky"]
+[East "Gavin Wolpert#Spector"]
+[South "Adam Wildavsky#Wildavsky"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "20"]
+[HomeTeam "[21] Wildavsky"]
+[VisitTeam "[20] Spector"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1: semi forcing"]
+[Play "S"]
+CK C9 C8 C2 
+D7 DA D4 D3 
+HQ HA H3 H2 
+-  D2 DK -  
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "David Yang#Lo"]
+[North "Jiang Gu#Gu"]
+[East "Allan Falk#Lo"]
+[South "Hailong Ao#Gu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "13"]
+[HomeTeam "[7] Gu"]
+[VisitTeam "[13] Lo"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1: semi forcing"]
+[Play "S"]
+CA C9 C4 C3 
+D7 D2 DK DJ 
+S3 S2 ST SA 
+HQ HA H3 H2 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Kit Woolsey#Bramley"]
+[North "Will Watson#Schireson"]
+[East "Bart Bramley#Bramley"]
+[South "Geeske Joel#Schireson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "4"]
+[HomeTeam "[18] Schireson"]
+[VisitTeam "[2] Bramley"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1: F1"]
+[Play "S"]
+CA C9 C4 C2 
+HQ HA H3 H2 
+S4 S2 ST SA 
+D7 D2 DK DQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Bobby Levin#Nickell"]
+[North "Chip Martel#Fleisher"]
+[East "Steve Weinstein#Nickell"]
+[South "Marty Fleisher#Fleisher"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "11"]
+[HomeTeam "[6] Fleisher"]
+[VisitTeam "[14] Nickell"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S =2= 4H Pass 
+Pass Pass 
+[Note "1: semi"]
+[Note "2: 13-16"]
+[Play "S"]
+CK C9 C4 C3 
+D7 DA D4 D3 
+S3 S2 S7 SA 
+HQ HA H3 HJ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Kevin Rosenberg#Lebowitz"]
+[North "David Grainger#Hill"]
+[East "Zach Grossack#Lebowitz"]
+[South "Joel Wooldridge#Hill"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "17"]
+[HomeTeam "[9] Hill"]
+[VisitTeam "[11] Lebowitz"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1H 1S 2NT =1= Pass 
+4H Pass Pass Pass 
+[Note "1: 4 cd lim+ raise"]
+[Play "S"]
+CA C9 C4 C3 
+HQ HA H3 H2 
+D6 D2 DK D3 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Ming Sheng#Gu"]
+[North "Alan Schwartz#Lo"]
+[East "Hongji Wei#Gu"]
+[South "Bill Cole#Lo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "14"]
+[HomeTeam "[13] Lo"]
+[VisitTeam "[7] Gu"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+1H 1S 2NT =1= Pass 
+3C Pass 4H Pass 
+Pass Pass 
+[Note "1: 4+H 9P+"]
+[Play "S"]
+SQ S2 S7 SA 
+CT C9 C4 C3 
+HQ HA H3 H4 
+S3 SK ST D3 
+S4 S6 D4 H6 
+D6 D2 DK DQ 
+*
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Max Schireson#Schireson"]
+[North "Peter Weichsel#Bramley"]
+[East "Debbie Rosenberg#Schireson"]
+[South "Hemant Lall#Bramley"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "3"]
+[HomeTeam "[2] Bramley"]
+[VisitTeam "[18] Schireson"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+
+[Event "2021_Open_USBC RR1 - Round 6 of 21"]
+[Site "RealBridge"]
+[Date "2021.09.13"]
+[Board "42"]
+[West "Kevin Dwyer#Hill"]
+[North "Larry Lebowitz#Lebowitz"]
+[East "Shan Huang#Hill"]
+[South "Adam Grossack#Lebowitz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T7.K3.KT54.87654 A.J76542.QJ3.Q32 QJ9543.Q.76.AKJT K862.AT98.A982.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "18"]
+[HomeTeam "[11] Lebowitz"]
+[VisitTeam "[9] Hill"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "583585835865a8565a84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  5
+N  C  8
+S NT  5
+S  S  8
+S  H  3
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H 10
+E  D  8
+E  C  5
+W NT  6
+W  S  5
+W  H 10
+W  D  8
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+2H 2S 4H Pass 
+Pass Pass 
+[Note "1:  * F [0:03]"]
+[Play "S"]
+CA C9 C4 C2 
+D7 DA D5 D3 
+HQ HA H3 H4 
+-  D9 DK -  
+*

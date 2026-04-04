@@ -1,0 +1,3013 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "1"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "nicholas davidson#075234"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT84.T8.AQT8.A85 Q972.K76432.763. A53.QJ.J2.QJT632 J6.A95.K954.K974"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7857a7857a5475355763"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  7
+N  C 10
+S NT  7
+S  S  8
+S  H  5
+S  D  7
+S  C 10
+E NT  5
+E  S  4
+E  H  7
+E  D  5
+E  C  3
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 15,2,1,493,75,123,93,268,36,50,24,145,186,33,25,347,294,28,24,192,118,39,7,26,33,19,7,197,49,38,7,148,22,27,16,316,18,15,15,306,32,29,12,27,8,14,14,10,17,6,17,15,16,20,6,9,5,13,5,9,4,13,5
+[Auction "N"]
+1D 2H 3C 3H 
+4C Pass Pass Pass 
+[Play "W"]
+HA H8 H2 HQ 
+H9 HT HK HJ 
+S6 S4 S2 SA 
+C4 C5 H3 CJ 
+DK DA D3 DJ 
+D4 DQ D6 D2 
+D5 DT D7 S3 
+C7 CA H4 C2 
+CK C8 H6 CT 
+D9 D8 H7 C3 
+C9 S8 S7 CQ 
+H5 ST S9 C6 
+SJ SK SQ S5 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "1"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KT84.T8.AQT8.A85 Q972.K76432.763. A53.QJ.J2.QJT632 J6.A95.K954.K974"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7857a7857a5475355763"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  7
+N  C 10
+S NT  7
+S  S  8
+S  H  5
+S  D  7
+S  C 10
+E NT  5
+E  S  4
+E  H  7
+E  D  5
+E  C  3
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 15,0,4,148,462,145,173,53,74,179,97,138,45,164,104,68,18,104,22,37,7,278,58,73,20,18,36,7,38,5,126,25,23,110,37,8,44,50,13,6,43
+[Auction "N"]
+1C =1= 2H 3C 3H 
+Pass Pass 4C Pass 
+Pass Pass 
+[Play "E"]
+H4 HJ HA H8 
+HK HQ H5 HT 
+D7 DJ DK DA 
+S2 SA S6 S4 
+H2 CQ CK CA 
+D3 D2 D4 DQ 
+D6 S3 D5 DT 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "2"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "nicholas davidson#075234"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:987.AK4.98.J9854 Q3.QT85.KQ543.AQ T52.J72.AJ2.T763 AKJ64.963.T76.K2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "44446444468999789997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,54,98,76,202,27,38,21,101,8,35,60,322,42,21,41,18,127,15,59,555,46,10,57,48,67,16,17,84,45,31,65,44,9,17,9,20,15,12,27,22,7,29,9,30,6,42,7,15,7,22,8,21,8,80
+[Auction "E"]
+1NT Pass 2H Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H7 H3 HK H5 
+H2 H6 HA H8 
+HJ H9 H4 HT 
+C7 C2 CJ CA 
+C3 D6 D8 HQ 
+S2 S4 S7 SQ 
+S5 SA S8 S3 
+ST SK S9 D3 
+C6 SJ D9 D4 
+CT S6 C4 D5 
+DA D7 C5 DQ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "2"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:987.AK4.98.J9854 Q3.QT85.KQ543.AQ T52.J72.AJ2.T763 AKJ64.963.T76.K2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "44446444468999789997"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  9
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  9
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,0,4,193,32,72,19,208,37,216,19,60,46,114,281,75,23,43,22,38,93,190,32,151,41,190,28,19,5,46,29,13,6,28,14,11,10,20,8,16,15,19,11,12,17,16,22,18,16,21
+[Auction "E"]
+1D Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C3 CK C9 CQ 
+DA D6 D8 DQ 
+C6 C2 C4 CA 
+D2 D7 D9 DK 
+S5 S4 S9 SQ 
+S2 SA S7 S3 
+ST SK S8 D3 
+CT SJ H4 D4 
+H2 S6 C5 D5 
+-  H3 -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "3"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "nicholas davidson#075234"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q74.Q863.863.A97 AKJ92.J.KQJT92.K T.AT9754.74.6532 8653.K2.A5.QJT84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "2172221722bb6babb6ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  7
+N  D  2
+N  C  2
+S NT  2
+S  S  1
+S  H  7
+S  D  2
+S  C  2
+E NT 11
+E  S 11
+E  H  6
+E  D 11
+E  C 10
+W NT 11
+W  S 11
+W  H  6
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 21,2,1,200,92,234,1472,91,29,94,132,118,66,34,15,28,11,11,7,18,6,27,15,35,19,12,32,34,8,44,57,59,66,15,14,49,7,13
+[Auction "S"]
+2H Pass 4H 5D 
+Pass Pass Pass 
+[Play "S"]
+ST S3 SQ SA 
+D4 DA D3 D2 
+D7 D5 D6 DK 
+H7 C4 D8 DQ 
+C5 C8 CA CK 
+H9 S8 S7 S2 
+C2 CQ C7 HJ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "3"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q74.Q863.863.A97 AKJ92.J.KQJT92.K T.AT9754.74.6532 8653.K2.A5.QJT84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "2172221722bb6babb6ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  7
+N  D  2
+N  C  2
+S NT  2
+S  S  1
+S  H  7
+S  D  2
+S  C  2
+E NT 11
+E  S 11
+E  H  6
+E  D 11
+E  C 10
+W NT 11
+W  S 11
+W  H  6
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 16,0,4,96,121,123,289,46,565,40,30,198,52,65,124,24,16,7,49,7,21,9,20,25,23,6,42,41,14,61,78,21,13,22,12,18,26,22
+[Auction "S"]
+3H Pass 3NT 4D 
+Pass Pass Pass 
+[Play "S"]
+ST S3 S4 SJ 
+D4 DA D3 D2 
+D7 D5 D6 D9 
+H4 C4 D8 DK 
+H9 C8 H3 DQ 
+C2 CT CA CK 
+HA H2 H6 HJ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "4"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT732.A6.9765.Q3 K.KQ982.KQ82.AK4 A864.JT4.T4.J952 J95.753.AJ3.T876"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "673446734476a9975a99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  3
+N  D  4
+N  C  4
+S NT  6
+S  S  7
+S  H  3
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H 10
+E  D  9
+E  C  9
+W NT  7
+W  S  5
+W  H 10
+W  D  9
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,4,111,39,189,41,76,35,253,99,34,53,40,445,32,53,34,207,39,74,54,70,11,18,14,54,10,56,12,70,20,16,13,27,9,34,6
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S3 SK SA S5 
+ST C4 S4 S9 
+SQ H2 S8 SJ 
+S7 H8 S6 C6 
+S2 H9 C9 H3 
+HA HQ H4 H7 
+H6 -  -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "4"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QT732.A6.9765.Q3 K.KQ982.KQ82.AK4 A864.JT4.T4.J952 J95.753.AJ3.T876"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "673446734476a9975a99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  3
+N  D  4
+N  C  4
+S NT  6
+S  S  7
+S  H  3
+S  D  4
+S  C  4
+E NT  7
+E  S  6
+E  H 10
+E  D  9
+E  C  9
+W NT  7
+W  S  5
+W  H 10
+W  D  9
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,5,1,116,536,42,111,154,48,31,510,39,92,498,54,66,59,7,23,89,73,182,21,99,37,27,7,35,34,7,23,18,27,8,52,75,34,14,19,14,53,15,50,169,28,11,19
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass 3D Pass 
+3H Pass 4C Pass 
+4H Pass Pass Pass 
+[Play "S"]
+HJ H3 HA H2 
+C5 C6 CQ CA 
+H4 H5 H6 HK 
+HT H7 S2 HQ 
+D4 DJ D5 D2 
+SA S5 ST SK 
+C2 C7 C3 C4 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "5"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQJ4.A3.KQ6.632 T3.K84.A75.QJT74 9872.952.JT984.5 65.QJT76.32.AK98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6a3a36a3a36283962839"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  3
+N  D 10
+N  C  3
+S NT  6
+S  S 10
+S  H  3
+S  D 10
+S  C  3
+E NT  6
+E  S  2
+E  H  8
+E  D  3
+E  C  9
+W NT  6
+W  S  2
+W  H  8
+W  D  3
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,0,4,59,73,39,260,20,41,24,36,227,168,38,8,46,50,32,27,185,48,7,23,8,38,6,25,7,27,13,23,8,29,9,14,17,60,6,96,16
+[Auction "N"]
+1S Pass 3S =1= Pass 
+4S Pass Pass Pass 
+[Play "E"]
+CQ C5 CK C2 
+H8 H2 HQ HA 
+C4 S7 C8 C3 
+S3 S2 S5 SA 
+C7 S8 C9 C6 
+ST S9 S6 SK 
+DA D4 D2 DK 
+HK -  -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "5"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQJ4.A3.KQ6.632 T3.K84.A75.QJT74 9872.952.JT984.5 65.QJT76.32.AK98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6a3a36a3a36283962839"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  3
+N  D 10
+N  C  3
+S NT  6
+S  S 10
+S  H  3
+S  D 10
+S  C  3
+E NT  6
+E  S  2
+E  H  8
+E  D  3
+E  C  9
+W NT  6
+W  S  2
+W  H  8
+W  D  3
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,5,1,244,29,106,51,61,82,16,9,28,244,33,23,16,61,14,48,273,23,28,10,103,21,30,9,63,17,32,24,55,13,13,33,65,19,23,14
+[Auction "N"]
+1S Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "E"]
+CQ C5 CK C2 
+H4 H2 HQ HA 
+C4 S7 C8 C3 
+S3 S2 S6 SA 
+C7 S9 C9 C6 
+ST S8 S5 SK 
+D5 H5 H6 SQ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "6"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q43.JT985.J94.A3 KJ862.6.AKT.J965 T975.7432.852.QT A.AKQ.Q763.K8742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "2242222422ba9bbba9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  2
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 11
+E  C 11
+W NT 11
+W  S 10
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 20,0,4,233,50,93,19,96,19,627,21,252,26,458,27,255,22,380,97,54,22,38,27,12,30
+[Auction "E"]
+1S Pass 2C Pass 
+3C Pass 3H Pass 
+3S Pass 5C Pass 
+Pass Pass 
+[Play "N"]
+CA C5 CT C2 
+C3 C6 CQ CK 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "6"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q43.JT985.J94.A3 KJ862.6.AKT.J965 T975.7432.852.QT A.AKQ.Q763.K8742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "2242222422ba9bbba9bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  2
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  2
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 11
+E  C 11
+W NT 11
+W  S 10
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 25,5,1,50,51,73,50,88,47,482,46,15,51,131,57,40,50,236,46,34,65,19,42,285,310,60,29,56,32,22,18,15,32,59,70
+[Auction "E"]
+1S Pass 2C Pass 
+3C Pass 4C Pass 
+4D =1= Pass 4NT Pass 
+5C Pass 5D Pass 
+6C Pass Pass Pass 
+[Play "N"]
+HJ H6 H4 HK 
+D4 DA D2 D3 
+CA C5 CT CK 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "7"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9863.AT86.986.K4 AQT54.K2.J54.973 KJ2.743.T73.AT86 7.QJ95.AKQ2.QJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56544565448789987898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  6
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  9
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,5,1,70,96,47,25,48,117,50,419,109,38,47,7,20,180,133,45,48,213,235,15,40,151,271,46,8,16,31,13,47,65,80,44,41,127,46,24,10,56
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 2C Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H6 H2 H3 H9 
+HA HK H4 H5 
+S3 SA S2 S7 
+CK C3 C6 CQ 
+S6 ST SJ C2 
+S8 S4 SK DQ 
+-  -  CA -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "7"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9863.AT86.986.K4 AQT54.K2.J54.973 KJ2.743.T73.AT86 7.QJ95.AKQ2.QJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56544565448789987898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  6
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  9
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,0,4,97,195,33,94,46,39,31,262,91,69,132,105,801,46,40,68,37,32,62,403,57,9,39,11,77,26,43,188,31,16,48,1771,658,46,41,63,408,51,37,18,37,8,62,32,9,16,10,20,29,14,8,21,18,22,16,17,12,10,8,19,4,27,14
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H6 HK H7 H5 
+CK C3 C6 CQ 
+HA H2 H3 H9 
+HT S4 H4 HQ 
+S3 SQ SK S7 
+D6 DJ D7 D2 
+C4 C7 CA C2 
+D8 C9 CT CJ 
+D9 D4 D3 DA 
+S6 D5 DT DK 
+S8 S5 S2 DQ 
+H8 ST SJ HJ 
+S9 SA C8 C5 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "8"]
+[West "Tom Gardner#203262"]
+[North "Nicholas Huskinson#526448"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK73.K43.J6.QT98 6.AQJ876.KT2.632 542.T9.Q9875.AJ7 QJT98.52.A43.K54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "45465453659897798977"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  6
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H  9
+E  D  7
+E  C  7
+W NT  9
+W  S  8
+W  H  9
+W  D  7
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 7,5,1,182,142,192,111,29,440,238,129,62,15,459,30,74,23,135,384,23,7,15,17,14,37,66,27,13,10,12,25,17,43,26,34,7,15,6,42,6,12,6,21,6,29,9,22,17,25,16,20,5,69,26,20,6,11,10,7,17,4
+[Auction "W"]
+Pass 1C 2H Pass 
+Pass Pass 
+[Play "S"]
+C7 C4 CQ C2 
+CA C5 CT C3 
+D7 DA D6 D2 
+HT H2 H3 HJ 
+CJ CK C8 C6 
+H9 H5 H4 HQ 
+D5 S8 HK HA 
+S2 S9 S3 H8 
+S4 D3 S7 H7 
+S5 D4 DJ H6 
+D8 ST SK DK 
+D9 SJ SA S6 
+DQ SQ C9 DT 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "8"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK73.K43.J6.QT98 6.AQJ876.KT2.632 542.T9.Q9875.AJ7 QJT98.52.A43.K54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "45465453659897798977"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  6
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H  9
+E  D  7
+E  C  7
+W NT  9
+W  S  8
+W  H  9
+W  D  7
+W  C  7
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 7,0,4,231,145,202,56,251,39,142,44,110,27,34,296,27,37,89,38,28,9,19,17,24,23,86,48,79,13,140,25,24,41,73,21,170,30,169,17,23,19
+[Auction "W"]
+Pass 1C =1= 1H Pass 
+1S Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+HT H2 H3 HJ 
+D9 DA D6 D2 
+H9 H5 H4 HQ 
+S5 D3 HK HA 
+S2 S8 SK S6 
+C7 CK CT C2 
+D5 D4 DJ DK 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "9"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q862.Q93.K86.KJ6 J43.AT854.JT.T93 AK75.K6.952.Q875 T9.J72.AQ743.A42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "79569795695376453764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  6
+N  C  9
+S NT  7
+S  S  9
+S  H  5
+S  D  6
+S  C  9
+E NT  5
+E  S  3
+E  H  7
+E  D  6
+E  C  4
+W NT  5
+W  S  3
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,6,1,299,32,59,27,114,19,35,13,132,26,28,27,100,222,1246,87,55,21,26,6,75,13,53,10,109,19,20,15,21,17,29,42,141,20,43,13,23,76,25,40,19,49,9,78,54,35,10,52,38,27,18,12,29,12,17,21,18,16,19,6,4,22,5,34
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+3S Pass Pass Pass 
+[Play "W"]
+H2 H3 H8 HK 
+S9 S2 S3 SA 
+ST SQ S4 S5 
+D3 S8 SJ SK 
+C2 CJ C3 C5 
+CA C6 C9 CQ 
+HJ H9 H4 H6 
+H7 HQ HA D2 
+C4 CK CT C7 
+D4 S6 H5 S7 
+D7 D6 DT C8 
+DA D8 DJ D5 
+DQ DK HT D9 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "9"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q862.Q93.K86.KJ6 J43.AT854.JT.T93 AK75.K6.952.Q875 T9.J72.AQ743.A42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "79569795695376453764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  6
+N  C  9
+S NT  7
+S  S  9
+S  H  5
+S  D  6
+S  C  9
+E NT  5
+E  S  3
+E  H  7
+E  D  6
+E  C  4
+W NT  5
+W  S  3
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,4,105,78,122,168,26,152,40,51,417,65,36,112,9,37,912,303,55,16,21,112,14,16,172,14,29,6,19,71,24,15,119,28,16,18,158,21,20,13,354,22,7,24,17,19,9,18,6,63,8,12,38,32,7,19,26,11,13,8,7,33,14,12,5,8,6,30
+[Auction "N"]
+1C Pass 1H =1= Pass 
+2S =2= Pass 2NT =3= Pass 
+3H =4= Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+S3 SA S9 S2 
+C3 C5 CA C6 
+DJ D2 DA D6 
+DT D5 D4 DK 
+S4 S5 ST SQ 
+C9 C7 C2 CK 
+CT C8 C4 CJ 
+SJ SK D3 S6 
+H4 CQ H2 D8 
+HA HK H7 H3 
+H5 H6 HJ HQ 
+HT S7 D7 H9 
+H8 D9 DQ S8 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "10"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J62.T82.Q73.KJ65 QT93.4.AT9542.A9 AK75.AK7.KJ.Q874 84.QJ9653.86.T32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "99779997793456334563"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  4
+E  H  5
+E  D  6
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,6,1,53,95,143,300,28,263,23,321,27,26,14,12,384,21,60,57,22,33,53,298,129,15,61,37,28,21,5,45,11,31,8,654,19,33,17,29,63,20,21,39,22,27,32,87,21,24,12,276,14,17,5,47,14,18,12,8,18,4,39,7,22,4,15
+[Auction "E"]
+1D X Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+D8 D3 D2 DJ 
+C2 CJ CA C4 
+C3 CK C9 C7 
+CT C5 D4 CQ 
+H5 C6 D5 C8 
+D6 D7 DA DK 
+H6 H2 H4 HK 
+S8 S2 S9 SA 
+S4 S6 S3 SK 
+H9 H8 D9 HA 
+H3 SJ SQ S5 
+HJ HT ST S7 
+HQ DQ DT H7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "10"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J62.T82.Q73.KJ65 QT93.4.AT9542.A9 AK75.AK7.KJ.Q874 84.QJ9653.86.T32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "99779997793456334563"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  7
+N  D  7
+N  C  9
+S NT  9
+S  S  9
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  4
+E  H  5
+E  D  6
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  6
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,4,142,41,82,119,333,48,43,101,92,26,49,19,37,22,288,36,158,40,29,16,69,25,98,458,41,35,27,99,43,11,16,28,28,16,292,74,105,45,25,176,13,14,29,105,41,17,28,20,29,14,12,15,18,13,36,21,10,9,24,10,14,8,9,8,15,6,9
+[Auction "E"]
+Pass 1C =1= Pass 1S =2= 
+Pass 2D =3= Pass 2S =4= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+HQ H2 H4 HA 
+C2 CK CA C4 
+D6 D3 DT DK 
+C3 C5 C9 CQ 
+D8 D7 DA DJ 
+S8 SJ S3 S5 
+H3 DQ D2 C7 
+H5 H8 D4 HK 
+CT CJ D5 C8 
+H6 C6 D9 H7 
+S4 S2 S9 SA 
+H9 S6 ST SK 
+HJ HT SQ S7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "11"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T42.Q943.9754.95 KJ53.KT8.K.AJ863 A987.J.Q832.KQ74 Q6.A7652.AJT6.T2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3324333243a9a8aa9a8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  2
+S  D  4
+S  C  3
+E NT 10
+E  S  9
+E  H 10
+E  D  8
+E  C 10
+W NT 10
+W  S  9
+W  H 10
+W  D  8
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,6,1,141,78,74,129,46,41,64,926,62,472,48,35,33,34,38,344,436,203,26,35,41,19,87,273,48,32,35,198,37,20,42,88,304,42,10,23,29,11,36,42,33,15,73,34,34,25,43,64,26,37,8,20
+[Auction "S"]
+1S Pass Pass 2C 
+Pass 2H Pass 3H 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+HJ HA H3 H8 
+D8 H2 H4 HT 
+C4 CT C5 C3 
+CQ C2 C9 CJ 
+S7 SQ S4 S3 
+S8 H5 H9 HK 
+C7 H6 ST CA 
+CK H7 S2 C6 
+SA S6 D5 S5 
+D2 -  -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "11"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T42.Q943.9754.95 KJ53.KT8.K.AJ863 A987.J.Q832.KQ74 Q6.A7652.AJT6.T2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3324333243a9a8aa9a8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  2
+S  D  4
+S  C  3
+E NT 10
+E  S  9
+E  H 10
+E  D  8
+E  C 10
+W NT 10
+W  S  9
+W  H 10
+W  D  8
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,0,4,140,155,22,307,58,89,57,263,84,37,15,21,839,27,15,38,29,23,9,41,19,64,117,225,68,20,8,37,69,69,17,21,48,7,22,1189,83,12,32,293,23,20,13,22,8,28,9,47,50,25,10,9,27,57,9,19,6,27,33,19,6,29,6
+[Auction "S"]
+1C =1= 1H Pass 2C 
+Pass 2D Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+C9 CA C4 C2 
+H3 H8 HJ HA 
+H4 HT S7 H2 
+H9 HK D2 H5 
+S4 S3 SA S6 
+C5 C3 CK CT 
+D4 DK D3 D6 
+S2 SK S8 SQ 
+ST SJ S9 DT 
+HQ S5 C7 DJ 
+D5 C6 D8 DA 
+D7 C8 CQ H6 
+D9 CJ DQ H7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "12"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q.QJ94.AQ42.AQ96 AJ972.T86.K87.KJ T4.A7532.T3.8754 K8653.K.J965.T32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "74a6974a696936369363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  6
+N  C  9
+S NT  7
+S  S  4
+S  H 10
+S  D  6
+S  C  9
+E NT  6
+E  S  9
+E  H  3
+E  D  6
+E  C  3
+W NT  6
+W  S  9
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,6,1,57,194,32,60,289,174,27,37,263,213,71,12,138,29,20,29,101,52,18,28,19,28,12,22,9,41,12,18,21,37,23,39,13,18,24,9
+[Auction "W"]
+Pass 1H 1S 2H 
+4S Pass Pass Pass 
+[Play "S"]
+DT DJ DA D7 
+D3 D5 D2 D8 
+S4 SK SQ S9 
+ST S3 C6 SA 
+H2 D6 D4 DK 
+HA HK H4 H6 
+C7 C2 CA CJ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "12"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q.QJ94.AQ42.AQ96 AJ972.T86.K87.KJ T4.A7532.T3.8754 K8653.K.J965.T32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "74a6974a696936369363"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  6
+N  C  9
+S NT  7
+S  S  4
+S  H 10
+S  D  6
+S  C  9
+E NT  6
+E  S  9
+E  H  3
+E  D  6
+E  C  3
+W NT  6
+W  S  9
+W  H  3
+W  D  6
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,0,4,60,312,109,49,115,417,276,43,35,16,39,16,50,348,69,89,18,401,30,53,6,57,31,55,63,27,29,5,108,7,31,8,24,164,15,241,7,22,37,6,32,28,36,6,45,270,65,24,6,9,45,8,25
+[Auction "W"]
+Pass 1NT Pass 2D =1= 
+Pass 2NT =2= Pass 3D 
+Pass 3H Pass Pass =3= 
+Pass 
+[Play "E"]
+H6 H2 HK H4 
+SA S4 S5 SQ 
+H8 H3 S3 HQ 
+HT HA D5 H9 
+CK C4 C2 CQ 
+SJ ST S6 HJ 
+CJ C5 C3 CA 
+S2 C7 CT C9 
+S7 H5 SK D2 
+DK D3 D6 DQ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "13"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:83.KJ98.KQJ732.9 9754.T5.95.K7532 KT2.Q763.4.AQJ64 AQJ6.A42.AT86.T8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "5"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "8698686a965734657346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  8
+N  C  6
+S NT  8
+S  S  6
+S  H 10
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 10,6,1,155,31,51,37,356,87,151,33,384,12,242,334,29,43,19,62,34,32,99,14,17,477,27,54,23,66,499,54,21,5,623,83,28,81,322,57,272,59,70,24,21,6,22,21,49,7,15,67,25,33,27,35,3,23,23,20,5,12,5,15,5,11
+[Auction "N"]
+Pass Pass 1C X 
+2D Pass 3C Pass 
+Pass Pass 
+[Play "W"]
+CT C9 C2 CQ 
+D6 DJ D9 D4 
+DA DK D5 S2 
+H2 H8 HT HQ 
+HA H9 H5 H3 
+C8 D2 C3 C4 
+DT DQ C5 C6 
+H4 S3 C7 CA 
+S6 S8 CK CJ 
+SJ D7 S7 ST 
+D8 D3 S4 H6 
+SA HJ S5 SK 
+SQ HK S9 H7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "13"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:83.KJ98.KQJ732.9 9754.T5.95.K7532 KT2.Q763.4.AQJ64 AQJ6.A42.AT86.T8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "8698686a965734657346"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  8
+N  C  6
+S NT  8
+S  S  6
+S  H 10
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  3
+W  D  4
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,4,114,89,230,115,163,121,34,104,49,43,281,147,26,31,139,355,19,21,44,18,28,8,40,18,19,58,629,68,31,14,208,25,36,29,52,43,17
+[Auction "N"]
+1D Pass 1H 1S 
+3H 3S 4H Pass 
+Pass Pass 
+[Play "W"]
+H2 H8 HT HQ 
+DA D2 D9 D4 
+SA S3 S5 S2 
+S6 S8 S9 SK 
+HA H9 H5 H3 
+CT C9 C5 CJ 
+H4 HJ -  H6 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "14"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT.A32.Q8732.J84 K85.Q86.T9.AQT76 J9742.KJT9.A64.K Q63.754.KJ5.9532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "789a5689a54433744337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D 10
+N  C  5
+S NT  6
+S  S  8
+S  H  9
+S  D 10
+S  C  5
+E NT  4
+E  S  4
+E  H  3
+E  D  3
+E  C  7
+W NT  4
+W  S  4
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 6,6,1,84,140,68,336,88,37,25,32,252,35,32,320,281,19,30,74,20,18,45,491,36,46,31,34,25,18,6,22,14,19,32,15,38,5,16,74,50,4,19,14,16,20,4,25,14,15,5,15,6,12,7
+[Auction "E"]
+1C X Pass 2D 
+Pass Pass Pass 
+[Play "E"]
+DT D4 DK D2 
+D9 DA D5 D3 
+CA CK C5 C4 
+S5 S2 SQ SA 
+C6 D6 C2 C8 
+SK S4 S6 ST 
+CQ H9 C9 CJ 
+CT HT C3 D7 
+C7 S7 DJ DQ 
+H6 HK H4 H2 
+S8 SJ S3 H3 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "14"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT.A32.Q8732.J84 K85.Q86.T9.AQT76 J9742.KJT9.A64.K Q63.754.KJ5.9532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "789a5689a54433744337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D 10
+N  C  5
+S NT  6
+S  S  8
+S  H  9
+S  D 10
+S  C  5
+E NT  4
+E  S  4
+E  H  3
+E  D  3
+E  C  7
+W NT  4
+W  S  4
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,0,4,102,78,104,48,39,102,85,12,41,45,41,429,87,49,97,352,56,13,63,161,134,94,13,100,124,41,6,35,7,12,9,38,10,13,16,23,10,67
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2H Pass 2NT 
+Pass Pass Pass 
+[Play "E"]
+CQ CK C5 C4 
+HQ HJ H4 H2 
+DT D4 DK D2 
+CA S2 C9 CJ 
+CT S4 C2 C8 
+C7 S7 C3 ST 
+C6 S9 H5 -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "15"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQJ87.KT9.QT85.6 A2.A5.KJ97432.94 4.QJ87432.A.Q853 T9653.6.6.AKJT72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "45a4345a438838988389"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H 10
+N  D  4
+N  C  3
+S NT  4
+S  S  5
+S  H 10
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  3
+E  D  8
+E  C  9
+W NT  8
+W  S  8
+W  H  3
+W  D  8
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 22,6,1,111,65,449,534,105,241,40,25,65,32,22,36,49,11,21,35,281,19,26,87,48,18,28,84,35,12,17,111,41,25,8,58,21,20,8,198,190,32,8,32,18,21,31,14,51,63,18,37,13,17,3,27,15,13,15,13,14
+[Auction "S"]
+1H 2H =1= 4H X 
+Pass 5C Pass Pass 
+5H Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+CK C6 C9 C3 
+S6 SJ SA S4 
+D6 D5 D4 DA 
+C7 H9 C4 C5 
+S3 SQ S2 C8 
+S5 SK H5 H7 
+CA HK HA CQ 
+C2 D8 D2 H8 
+H6 HT D3 H2 
+S9 DT DJ HJ 
+ST -  -  HQ 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "15"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KQJ87.KT9.QT85.6 A2.A5.KJ97432.94 4.QJ87432.A.Q853 T9653.6.6.AKJT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "45a4345a438838988389"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H 10
+N  D  4
+N  C  3
+S NT  4
+S  S  5
+S  H 10
+S  D  4
+S  C  3
+E NT  8
+E  S  8
+E  H  3
+E  D  8
+E  C  9
+W NT  8
+W  S  8
+W  H  3
+W  D  8
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 21,0,4,79,348,98,284,39,59,82,54,384,153,64,89,53,16,9,24,14,14,16,21,26,20,23,124,115,10,110,17,26,11,76,59,33,19,30,23,16,31,25,38,21,11,15,22,20,10,6,26,13,10,10,9
+[Auction "S"]
+3H X 4H 5D 
+Pass Pass Pass 
+[Play "S"]
+HQ H6 HT HA 
+H8 D6 H9 H5 
+S4 S3 S7 SA 
+DA C2 D5 D2 
+C8 CA C6 C4 
+H7 ST SJ S2 
+H2 S5 SK D3 
+C3 CK D8 C9 
+H3 S6 HK D4 
+H4 C7 DT DK 
+C5 S9 DQ DJ 
+-  -  SQ -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "16"]
+[West "Tom Gardner#203262"]
+[North "Peter Collins#094128"]
+[East "Jamie Fegarty#"]
+[South "Nicholas Davidson#075234"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A964.5.AK87652.A K.9864.T.QT86532 J8.AQJT2.Q3.KJ97 QT7532.K73.J94.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "c9ac9c9ac91411414114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H 10
+S  D 12
+S  C  9
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,6,1,259,71,34,62,72,301,82,70,35,196,15,31,14,43,575,24,60,70,13,28,11,122,8,18,12,98,28,115,14,30,7,57,11,27,17,33,6,33,11,163,14,26,29,68,22,23,14,15,5,17,13,13,5,18,18,13,7,19
+[Auction "W"]
+Pass 1D Pass 1H 
+1S 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+SK S8 S7 SA 
+DT DQ D4 D2 
+C6 D3 D9 DA 
+C2 H2 DJ DK 
+C3 SJ H3 D8 
+H8 HT S2 D7 
+H4 HJ S3 D6 
+H6 HQ S5 D5 
+C5 C7 C4 CA 
+H9 HA H7 H5 
+C8 CK ST S4 
+-  C9 -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "16"]
+[West "John Clarke#029825"]
+[North "Sam Anoyrkatis#486061"]
+[East "Andrew Black#17039"]
+[South "Liam Fegarty#469732"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A964.5.AK87652.A K.9864.T.QT86532 J8.AQJT2.Q3.KJ97 QT7532.K73.J94.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 920"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "c9ac9c9ac91411414114"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S  9
+S  H 10
+S  D 12
+S  C  9
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  4
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 26,0,4,650,151,56,45,130,137,155,169,45,617,78,239,28,74,51,332,382,46,20,13,608,24,187,69,31,11,37,14,36,19,32,40,37,9,20,73,72,37,25,11,26,16,18,14,20,8,42,6
+[Auction "W"]
+Pass 1D Pass 1H 
+1S 3NT Pass 4NT 
+Pass 5D Pass 6D 
+Pass Pass Pass 
+[Play "E"]
+SK S8 S7 SA 
+DT SJ S2 S4 
+C2 C7 C4 CA 
+C3 D3 S3 S6 
+C5 DQ D4 D2 
+C6 C9 D9 DK 
+C8 H2 DJ DA 
+H4 HA H3 H5 
+-  CK -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "17"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.KJ54.Q98.AKQJ9 KQJ3.A973.K.8532 T986.62.A632.T74 A754.QT8.JT754.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "84568845685877458774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D  6
+N  C  8
+S NT  8
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  5
+E  S  8
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  8
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,1,4,66,171,127,75,77,55,32,137,27,45,17,58,402,371,49,12,22,56,22,59,91,21,44,14,27,22,9,64,18,23,19,38,150,84,32,18,233,28,50,10,72,21,22,6,43,7,58,11,9,19,11,27,10,15,11,141,16,16,13,10,6,13,7,12
+[Auction "N"]
+1C Pass 1S Pass 
+2H Pass 2NT =1= Pass 
+3C Pass Pass Pass 
+[Play "E"]
+C2 CT C6 C9 
+HA H2 H8 HJ 
+C3 C4 D4 CA 
+H3 H6 HQ HK 
+H7 C7 HT H4 
+DK D2 D5 DQ 
+H9 S6 S4 H5 
+SK S9 S5 S2 
+SQ S8 S7 CJ 
+C5 D3 D7 CK 
+C8 ST SA CQ 
+S3 DA DT D8 
+SJ D6 DJ D9 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "17"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:2.KJ54.Q98.AKQJ9 KQJ3.A973.K.8532 T986.62.A632.T74 A754.QT8.JT754.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "84568845685877458774"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  5
+N  D  6
+N  C  8
+S NT  8
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  5
+E  S  8
+E  H  7
+E  D  7
+E  C  4
+W NT  5
+W  S  8
+W  H  7
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,7,0,275,111,129,161,73,148,122,22,29,195,83,163,38,215,323,36,6,14,21,7,21,8,23,8,27,267,123,32,37,177,28,14,26,12,26,395,56,28,128,12,15,60,30,10,38,236,20,26,32,102,31,15,29,7,220,11,22,14,5,16,5
+[Auction "N"]
+1C Pass Pass X 
+1H 3S Pass Pass 
+Pass 
+[Play "S"]
+C4 C6 CJ C2 
+S6 S4 S2 SK 
+C7 S5 C9 C3 
+DA D4 D8 DK 
+H6 HQ HK HA 
+CT S7 CQ C5 
+D2 DJ D9 C8 
+S8 SA CK S3 
+H2 HT H4 H3 
+D3 D5 DQ SJ 
+ST D7 H5 SQ 
+S9 H8 HJ H9 
+D6 DT CA H7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "18"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQ6.AKQT6.63.Q85 T752.J94.Q54.JT4 K94.73.AKT87.973 J83.852.J92.AK62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a9baab9baa2313323133"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C 10
+S NT 11
+S  S  9
+S  H 11
+S  D 10
+S  C 10
+E NT  2
+E  S  3
+E  H  1
+E  D  3
+E  C  3
+W NT  2
+W  S  3
+W  H  1
+W  D  3
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,1,4,58,59,87,47,31,42,53,18,45,20,60,8,30,186,78,145,21,1430,41,20,14,100,34,7,42,19,14,6,29,14,10,14,11,42,42,9,139,15,16,12,89,14,24,7,56,19,50,6,9,8,52,10,11,8,53,7,48,9,16,7,33,6,11,3,11
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+CA C5 CJ C3 
+C2 CQ C4 C7 
+H2 HA H4 H3 
+H5 HK H9 H7 
+H8 HQ HJ C9 
+S3 HT S2 D7 
+S8 H6 S5 D8 
+SJ S6 S7 SK 
+D2 D3 D4 DA 
+D9 SQ ST S4 
+C6 SA CT S9 
+DJ D6 D5 DK 
+CK C8 DQ DT 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "18"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQ6.AKQT6.63.Q85 T752.J94.Q54.JT4 K94.73.AKT87.973 J83.852.J92.AK62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a9baab9baa2313323133"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C 10
+S NT 11
+S  S  9
+S  H 11
+S  D 10
+S  C 10
+E NT  2
+E  S  3
+E  H  1
+E  D  3
+E  C  3
+W NT  2
+W  S  3
+W  H  1
+W  D  3
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,7,0,54,149,83,49,16,118,24,163,76,82,35,23,41,78,743,178,33,30,25,24,16,27,16,29,31,19,8,44,18,20,85,47,6,32,15,26,20,101,22,12,9,19,9,26,7,16,13,12,10,15,7,11,6,20,7,14,6,17
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 2D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+S2 SK S3 S6 
+H4 H3 H2 HA 
+H9 H7 H5 HK 
+HJ C3 H8 HQ 
+C4 S4 C2 HT 
+S5 C7 C6 H6 
+S7 S9 S8 SA 
+ST C9 SJ SQ 
+D4 DA D2 D3 
+D5 DK D9 D6 
+DQ D7 DJ C5 
+CJ -  -  -  
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "19"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T865.Q9764.AT4.5 4.KJ532.J832.AJ9 AK972..KQ7.KQ762 QJ3.AT8.965.T843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8b7788b7785266552655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  2
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  2
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 28,1,4,40,272,35,122,453,65,18,39,24,172,13,77,218,94,139,11,19,105,10,26,9,35,13,43,211,30,27,9,10,50,8,11,10,29,9,134
+[Auction "S"]
+1S Pass 4S Pass 
+5C Pass 5D Pass 
+6S Pass Pass Pass 
+[Play "W"]
+HA H4 H2 S2 
+D5 DA D2 D7 
+C3 C5 CA C2 
+H8 H6 H3 S9 
+S3 S5 S4 SA 
+SJ S6 C9 SK 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "19"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T865.Q9764.AT4.5 4.KJ532.J832.AJ9 AK972..KQ7.KQ762 QJ3.AT8.965.T843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8b7788b7785266552655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  7
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D  7
+S  C  8
+E NT  5
+E  S  2
+E  H  6
+E  D  6
+E  C  5
+W NT  5
+W  S  2
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 28,7,0,158,43,244,25,797,49,85,27,297,104,41,35,309,90,22,16,351,91,127,101,297,36,14,36,106,41,30,22,62,27,29,10,181,20,31,18,115,25,38,5,127,31,20,20
+[Auction "S"]
+1S Pass 3S Pass 
+4C Pass 4D Pass 
+4NT Pass 5D Pass 
+6S Pass Pass Pass 
+[Play "W"]
+HA H4 H2 S2 
+C3 C5 CA CK 
+S3 S5 S4 SK 
+C8 S6 C9 C2 
+D9 D4 D2 DK 
+C4 ST CJ C6 
+SJ S8 H3 SA 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "20"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ.Q3.K752.KQ752 T93.J9874.9643.4 8765.AK6.AJ8.AJ9 AJ42.T52.QT.T863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "ca9bcca9bc1332113321"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  9
+N  D 11
+N  C 12
+S NT 12
+S  S 10
+S  H  9
+S  D 11
+S  C 12
+E NT  1
+E  S  3
+E  H  3
+E  D  2
+E  C  1
+W NT  1
+W  S  3
+W  H  3
+W  D  2
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 19,1,4,254,47,32,138,111,19,43,74,134,823,18,38,17,48,16,10,25,7,67,22,32,8,90,15,22,8,25,9,37,10,31,20,53,10,176,22,16,8,28,6,13,8,10,5,15,6,9,7,28,9,16,7,16,8,14,16,8,10,6
+[Auction "W"]
+Pass 1NT Pass 4NT 
+Pass Pass Pass 
+[Play "E"]
+ST S5 SA SQ 
+S3 S6 S2 SK 
+C4 CA C3 C2 
+H4 CJ C6 C5 
+H7 C9 CT CK 
+H8 S7 C8 CQ 
+S9 S8 S4 C7 
+H9 H6 H2 HQ 
+HJ HK H5 H3 
+D3 HA HT D2 
+D4 D8 DT DK 
+D6 DJ DQ D5 
+D9 DA SJ D7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "20"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ.Q3.K752.KQ752 T93.J9874.9643.4 8765.AK6.AJ8.AJ9 AJ42.T52.QT.T863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "ca9bcca9bc1332113321"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H  9
+N  D 11
+N  C 12
+S NT 12
+S  S 10
+S  H  9
+S  D 11
+S  C 12
+E NT  1
+E  S  3
+E  H  3
+E  D  2
+E  C  1
+W NT  1
+W  S  3
+W  H  3
+W  D  2
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 19,7,0,75,49,51,162,74,203,28,488,84,73,36,75,321,85,25,98,24,23,44,20,31,19,12,22,30,24,82,43,9,23,20,72,17,41,23,223,20,19,30,87,31,11,26,54,16,54,11,19,17,19,36,27,13,24,11,26,13,17,7,15,7,18,8
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 4NT 
+Pass Pass Pass 
+[Play "E"]
+H7 H6 HT HQ 
+C4 CA C3 C2 
+H4 CJ C6 C5 
+H8 C9 CT CQ 
+H9 S5 C8 CK 
+HJ S6 H5 C7 
+D3 DJ DQ D2 
+S3 S7 S2 SQ 
+D4 DA DT D5 
+S9 HK H2 H3 
+ST HA S4 SK 
+D6 D8 SJ DK 
+D9 S8 SA D7 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "21"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T42.AQ432.764.92 AQJ6.K5.AQJT8.84 83.987.9532.QJ63 K975.JT6.K.AKT75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1030110301cc9cbcc9cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  3
+N  D  0
+N  C  1
+S NT  1
+S  S  0
+S  H  3
+S  D  0
+S  C  1
+E NT 12
+E  S 12
+E  H  9
+E  D 12
+E  C 11
+W NT 12
+W  S 12
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 18,1,4,35,105,25,92,29,274,43,39,31,102,16,278,27,12,279,19,18,212,11,20,25,113,12,21,26,41,18,20,4,28,19,10,4,24,11,23,4,27,8,63,5,130,8,30,6,19,5,23,6,24,4,29,6,16,4,19,7,13,4,22,6,24,6,20,4
+[Auction "N"]
+Pass 1D Pass 2C 
+Pass 2NT Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+S2 SA S3 S5 
+S4 SQ S8 S7 
+ST S6 D2 SK 
+D4 D8 D3 DK 
+C2 C4 C6 CA 
+C9 C8 C3 CK 
+D6 SJ CQ C5 
+D7 DA D5 H6 
+H2 DQ D9 HT 
+H3 DJ H7 HJ 
+H4 DT H8 C7 
+HA H5 H9 S9 
+HQ HK CJ CT 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "21"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T42.AQ432.764.92 AQJ6.K5.AQJT8.84 83.987.9532.QJ63 K975.JT6.K.AKT75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1030110301cc9cbcc9cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  3
+N  D  0
+N  C  1
+S NT  1
+S  S  0
+S  H  3
+S  D  0
+S  C  1
+E NT 12
+E  S 12
+E  H  9
+E  D 12
+E  C 11
+W NT 12
+W  S 12
+W  H  9
+W  D 12
+W  C 11
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 28,7,0,74,273,49,120,40,43,34,79,44,156,49,129,38,77,32,48,29,19,24,444,361,52,14,189,57,9,44,90,88,49,27,391,33,10,21,5,22,6,21,6,22,7,17,7,36,14,19,30,29,7,15,6,26,5,18,10,33,7,16,7,31,6,24,5,32,8,13,6,11,6,30
+[Auction "N"]
+Pass 1D Pass 2C 
+Pass 2S Pass 3S 
+Pass 4D Pass 4NT 
+Pass 5S Pass 6S 
+Pass Pass Pass 
+[Play "S"]
+S3 S5 ST SA 
+S8 S7 S2 SQ 
+D2 S9 S4 SJ 
+D3 DK D4 D8 
+C3 CA C2 C4 
+C6 CK C9 C8 
+CJ C5 H2 S6 
+D5 H6 D6 DA 
+D9 HT D7 DQ 
+H7 HJ H3 DJ 
+H8 C7 H4 DT 
+H9 SK HQ H5 
+CQ CT HA HK 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "22"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.Q9865.9652.K 2.K43.JT.QT76542 AT7643.J72.3.A93 J98.AT.AKQ874.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "59944599445448954489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  9
+N  D  4
+N  C  4
+S NT  5
+S  S  9
+S  H  9
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,1,4,120,93,63,54,70,30,166,27,275,178,251,22,44,56,67,82,12,984,772,29,19,46,76,29,21,91,24,10,29,36,20,12,22,17,38,14,15,10,63,10,38,14,27,7,34,16,38,17,16,24,19,39,6
+[Auction "E"]
+Pass Pass 1D 1H 
+Pass 1S 2D 2S 
+3D 4S Pass Pass 
+Pass 
+[Play "W"]
+DA D2 DJ D3 
+S8 SK S2 S4 
+S9 SQ C2 S6 
+C8 CK C4 C3 
+D4 D5 DT S3 
+CJ S5 C5 C9 
+D7 D6 C6 S7 
+SJ H5 C7 SA 
+HT HQ HK H2 
+HA H6 H3 H7 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "22"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.Q9865.9652.K 2.K43.JT.QT76542 AT7643.J72.3.A93 J98.AT.AKQ874.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "59944599445448954489"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  9
+N  D  4
+N  C  4
+S NT  5
+S  S  9
+S  H  9
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  9
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,7,0,139,144,30,31,13,19,115,888,28,11,22,111,21,34,438,31,24,14,33,28,11,31,13,218,13,225
+[Auction "E"]
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+H6 HK H2 HT 
+CK CQ C3 C8 
+H8 H3 HJ HA 
+D2 DJ D3 D4 
+D5 DT C9 DA 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "23"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q32.Q3.9762.AK96 AK87.A8.J4.T8543 T64.K96542.Q83.Q J95.JT7.AKT5.J72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "54654446548978989789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  4
+E NT  8
+E  S  9
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  9
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,1,4,219,63,40,56,172,114,18,118,56,44,43,18,757,57,18,11,31,18,83,8,244,27,35,6,172,20,23,9,84,11,47,39,13,46,18,23,65,56,44,6,14,33,5,10,19,27,8,11
+[Auction "S"]
+Pass Pass 1C Pass 
+2H =1= Pass Pass Pass 
+[Play "W"]
+DK D2 DJ D8 
+DA D6 D4 D3 
+D5 D7 H8 DQ 
+S5 S2 SK S6 
+S9 S3 SA ST 
+C2 C6 C3 CQ 
+H7 HQ HA H2 
+C7 C9 C4 H9 
+HT H3 C5 HK 
+HJ D9 C8 H6 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "23"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q32.Q3.9762.AK96 AK87.A8.J4.T8543 T64.K96542.Q83.Q J95.JT7.AKT5.J72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "54654446548978989789"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  4
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  4
+E NT  8
+E  S  9
+E  H  7
+E  D  8
+E  C  9
+W NT  8
+W  S  9
+W  H  7
+W  D  8
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,7,0,511,36,27,76,103,50,26,242,98,31,29,51,238,31,34,61,34,8,22,435,43,36,32,358,32,91,8,97,22,28,47,162,26,8,19,10,21,6,17,9,61,24,20,41,26,67,20,8,12,6,9,7,15,5,16
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1S =1= Pass 1NT 
+Pass Pass Pass 
+[Play "S"]
+H5 HT HQ HA 
+D3 D5 D2 DJ 
+S4 S5 SQ S8 
+HK H7 H3 H8 
+H2 HJ D6 C3 
+S6 SJ S2 S7 
+ST S9 S3 SA 
+H4 C2 C6 SK 
+D8 DK D7 D4 
+DQ DA D9 C4 
+H6 DT C9 C5 
+*
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "24"]
+[West "John Clarke#029825"]
+[North "Jamie Fegarty#"]
+[East "Andrew Black#17039"]
+[South "Tom Gardner#203262"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A52.K73.J92.KT63 98.J865.KQ63.J74 KQJT6.AQ42.8.A98 743.T9.AT754.Q52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS 510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "8ba6b8ba6b3237232372"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H 10
+N  D  6
+N  C 11
+S NT  8
+S  S 11
+S  H 10
+S  D  6
+S  C 11
+E NT  3
+E  S  2
+E  H  3
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  3
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,1,4,84,26,43,20,46,53,62,72,124,11,36,731,72,39,17,24,44,5,43,4,33,6,17,6,81,10,9,11,41,12,15,27,97,8,26,18,33,17,45,10,27,6,33,14,20,11,22,13,15,8,9,8,16,9,15,5,16,3,12,2,25,3,10
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 2C =1= Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+C2 C3 CJ CA 
+S3 S2 S9 SK 
+S4 SA S8 S6 
+S7 S5 D3 SQ 
+C5 C6 C4 C9 
+D7 D2 C7 SJ 
+CQ CK D6 C8 
+D4 CT H5 D8 
+H9 H7 H6 HQ 
+HT HK H8 H2 
+D5 H3 HJ HA 
+DT D9 DQ H4 
+DA DJ DK ST 
+
+[Event "05 June Fegarty vs Davidson"]
+[Site "RealBridge"]
+[Date "2025.06.06"]
+[Board "24"]
+[West "Liam Fegarty#469732"]
+[North "Peter Collins#094128"]
+[East "Sam Anoyrkatis#486061"]
+[South "Nicholas Huskinson#526448"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A52.K73.J92.KT63 98.J865.KQ63.J74 KQJT6.AQ42.8.A98 743.T9.AT754.Q52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Davidson team"]
+[VisitTeam "Fegarty team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "8ba6b8ba6b3237232372"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H 10
+N  D  6
+N  C 11
+S NT  8
+S  S 11
+S  H 10
+S  D  6
+S  C 11
+E NT  3
+E  S  2
+E  H  3
+E  D  7
+E  C  2
+W NT  3
+W  S  2
+W  H  3
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,7,0,137,45,41,83,23,55,28,89,61,41,26,85,37,108,131,18,21,189,34,22,8,55,94,13,23,85,32,23,6,26,8,27,24,40,24,13,6,177,30,17,5,36,21,56,10
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2H 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+S7 S2 S8 SK 
+S3 SA S9 S6 
+S4 S5 D3 SQ 
+H9 HK H5 H2 
+HT H3 H6 HQ 
+D4 H7 H8 HA 
+C5 C3 C4 CA 
+C2 CK C7 C9 
+*

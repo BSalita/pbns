@@ -1,0 +1,3072 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "1"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK94.JT2.AKT5.62 T52.97.Q9864.KJ5 J7.AKQ843.J7.A84 Q863.65.32.QT973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "c9ca8c9ca81113511135"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 10
+N  C  8
+S NT 12
+S  S  9
+S  H 12
+S  D 10
+S  C  8
+E NT  1
+E  S  1
+E  H  1
+E  D  3
+E  C  5
+W NT  1
+W  S  1
+W  H  1
+W  D  3
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,0,3,755,144,150,99,238,55,191,23,63,200,97,44,160,28,10,21,131,14,22,42,38,61,18,9
+[Auction "N"]
+1S Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+D3 D5 DQ D7 
+D2 DT D4 DJ 
+H5 HT H7 H4 
+H6 H2 H9 HQ 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "1"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK94.JT2.AKT5.62 T52.97.Q9864.KJ5 J7.AKQ843.J7.A84 Q863.65.32.QT973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "c9ca8c9ca81113511135"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 10
+N  C  8
+S NT 12
+S  S  9
+S  H 12
+S  D 10
+S  C  8
+E NT  1
+E  S  1
+E  H  1
+E  D  3
+E  C  5
+W NT  1
+W  S  1
+W  H  1
+W  D  3
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,1028,115,348,38,102,85,373,77,59,41,90,347,26,20,186,32,21,28,27,33,16,12,120,20,48,23,52,15,23,41,37,30,23,18,90,27,17,11,15,15,15,17,17,12,19,28,176,35,14,95,34,24,14,14,15,17,14,12,15,10,13,17
+[Auction "N"]
+1S Pass 2H Pass 
+2NT Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+CT C2 CK CA 
+D2 DA D4 DJ 
+H5 H2 H7 HA 
+D3 DK D6 D7 
+C3 D5 D8 HQ 
+H6 HJ H9 H3 
+S3 SA S2 S7 
+S6 SK S5 SJ 
+S8 S4 ST H8 
+C7 C6 C5 C4 
+SQ S9 D9 H4 
+C9 HT CJ C8 
+CQ DT DQ HK 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "2"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K732.843.AK2.QJ2 AQJ.J7.9873.8643 86.AQT9652.T5.T5 T954.K.QJ64.AK97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "86944869444749847498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  4
+N  C  4
+S NT  8
+S  S  6
+S  H  9
+S  D  4
+S  C  4
+E NT  4
+E  S  7
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  7
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,172,104,55,122,65,39,19,19,166,40,19,46,25,11,19,93,165,31,22,29,20,11,23,75,83,16,23,48,24,19,18,50,23,258,19
+[Auction "E"]
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+CA C2 C3 C5 
+CK CJ C4 CT 
+ST SK SA S8 
+S4 S2 SQ S6 
+S5 S3 SJ HT 
+D6 DA D3 D5 
+HK H3 H7 HA 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "2"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K732.843.AK2.QJ2 AQJ.J7.9873.8643 86.AQT9652.T5.T5 T954.K.QJ64.AK97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "86944869444749847498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  4
+N  C  4
+S NT  8
+S  S  6
+S  H  9
+S  D  4
+S  C  4
+E NT  4
+E  S  7
+E  H  4
+E  D  9
+E  C  8
+W NT  4
+W  S  7
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,2,1,113,190,32,268,91,149,32,65,258,22,17,19,31,36,16,31,20,17,14,45,40,12,18,54,30,16,133,104,30,16,114,35,37,17,21,180,107,28,58,17,11,18,21
+[Auction "E"]
+Pass 2H X 3H 
+Pass Pass Pass 
+[Play "W"]
+CA C2 C3 C5 
+D4 DA D3 D5 
+HK H3 H7 HQ 
+DQ DK D7 DT 
+D6 H4 HJ HA 
+CK CJ C6 CT 
+DJ D2 D8 HT 
+S5 H8 C4 H2 
+C9 CQ C8 S6 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "3"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:985.KQ9.T864.T75 AKQT.AJ3.J92.Q94 2.T72.AKQ7.AK832 J7643.8654.53.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75699755996873468734"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C  9
+E NT  6
+E  S  8
+E  H  7
+E  D  3
+E  C  4
+W NT  6
+W  S  8
+W  H  7
+W  D  3
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,140,37,131,146,223,64,78,398,51,21,96,238,40,41,62,29,28,96,64,38,27,119,44,11,18,67,18,21,13,39,23,13,17,136,234,38,25,44,34,20,29,40,54,21,21,75,61,18,23,19,30,15,23,30,80,14,9,19,26,11,9,12,24,12,11,13,9,26,242
+[Auction "S"]
+1C Pass Pass X 
+1D X Pass 1S 
+Pass Pass 2D Pass 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+CA C6 C5 C4 
+DA D3 D4 D2 
+DK D5 D6 D9 
+CK CJ C7 C9 
+C8 SJ CT CQ 
+S2 S3 S5 SA 
+C3 S4 S8 SK 
+DQ S6 D8 DJ 
+H7 H4 H9 HJ 
+C2 S7 S9 SQ 
+HT H5 HQ HA 
+H2 H6 HK H3 
+D7 H8 DT ST 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "3"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:985.KQ9.T864.T75 AKQT.AJ3.J92.Q94 2.T72.AKQ7.AK832 J7643.8654.53.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75699755996873468734"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  9
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  9
+S  C  9
+E NT  6
+E  S  8
+E  H  7
+E  D  3
+E  C  4
+W NT  6
+W  S  8
+W  H  7
+W  D  3
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 10,2,1,211,42,92,209,90,41,95,99,114,58,31,277,93,262,22,17,38,41,14,20,185,29,14,31,25,26,15,15,149,33,19,22,110,29,50,19,115,46,24,17,17,25,13,16,20,10,15,10,141,28,25,14,185,24,15,32,14,12,12,8,16,9,10,10
+[Auction "S"]
+1C Pass Pass X 
+1D 1S 2C 2S 
+3C Pass Pass Pass 
+[Play "W"]
+S3 S8 SQ S2 
+S4 S5 SA C2 
+C6 C5 C4 CA 
+CJ C7 C9 CK 
+H6 HK HA H2 
+S6 CT CQ C3 
+S7 S9 SK C8 
+D5 D4 D2 DA 
+D3 D6 D9 DK 
+H4 D8 DJ DQ 
+SJ DT ST D7 
+H5 HQ H3 H7 
+H8 H9 HJ HT 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "4"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ84.532.KT97.K7 AJ7.QJ9.32.A9865 T965.AK8.A85.T42 32.T764.QJ64.QJ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "68676576756576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,93,66,66,77,90,108,124,107,39,85,52,33,52,14,87,34,20,31,23,20,24,130,45,33,12,28,22,27,44,25,79,63,13,38,13,47,11,71,19,31,20,13,57,23,35,11,43,40,9,20,10,26,14,10,8,10,32,14
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+ST S2 SQ S7 
+S5 S3 S4 SJ 
+C2 CQ CK C5 
+S6 H4 S8 SA 
+C4 CJ C7 C6 
+CT C3 H2 CA 
+D5 D4 H3 C9 
+D8 H6 D7 C8 
+HK H7 H5 HQ 
+DA D6 D9 D2 
+S9 HT SK D3 
+H8 DJ DK H9 
+HA DQ DT HJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "4"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ84.532.KT97.K7 AJ7.QJ9.32.A9865 T965.AK8.A85.T42 32.T764.QJ64.QJ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "68676576756576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  5
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,98,73,272,159,64,127,86,56,50,45,121,426,18,100,301,41,13,15,19,31,23,12,9,23,38,120,37,33,11,10,39,42,17,24,35,151,11,23,16,138,15,12,53,37,11,7,180,24,8,20,23,30,10,13,111,26,9,13,23,20,7,9
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1D Pass 1NT Pass 
+Pass Pass 
+[Note "1: 2+ clubs"]
+[Play "S"]
+ST S2 SQ SA 
+C2 CQ CK C5 
+S5 S3 SK S7 
+S6 H4 S8 SJ 
+C4 CJ C7 C6 
+CT C3 H2 CA 
+D8 H6 H3 C9 
+H8 H7 D7 C8 
+HK HT H5 HQ 
+DA D4 D9 D2 
+HA D6 DT HJ 
+S9 DJ S4 D3 
+D5 DQ DK H9 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "5"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ3.65.AQ652.KJ8 2.Q982.KT983.A95 T96.AT43.J74.Q74 KQ8754.KJ7..T632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "75686756866764767647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  5
+S  H  6
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,90,209,88,65,64,68,65,125,111,98,20,36,216,81,19,14,38,169,54,23,20,165,26,9,98,22,27,40,25,25,31,12,26,69,15,33,40,41,13,19,29,26,63,18,29,47,16,9,12,38,12,12,14,5,11,58,24,10,11,10
+[Auction "N"]
+1D Pass 1H 1S 
+1NT =1= Pass Pass Pass 
+[Note "1:  * 15 17 [0:12]"]
+[Play "E"]
+S2 S6 SQ SA 
+C5 CQ C3 C8 
+D3 D4 C6 DA 
+D8 DJ C2 D2 
+CA C4 CT CK 
+DK D7 S4 D5 
+DT H3 H7 DQ 
+H2 S9 SK S3 
+C9 ST S5 SJ 
+H8 C7 S7 CJ 
+H9 HA HJ H6 
+HQ H4 HK H5 
+D9 HT S8 D6 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "5"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ3.65.AQ652.KJ8 2.Q982.KT983.A95 T96.AT43.J74.Q74 KQ8754.KJ7..T632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "75686756866764767647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  8
+N  C  6
+S NT  7
+S  S  5
+S  H  6
+S  D  8
+S  C  6
+E NT  6
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  6
+W  S  7
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 13,2,1,176,54,132,108,181,66,101,61,126,210,12,127,51,28,95,149,26,18,32,72,38,17,27,16,29,16,21,186,39,29,11,36,26,15,20,22,50,145,22,17,22,23,16
+[Auction "N"]
+1D Pass 1H 3S 
+Pass Pass Pass 
+[Play "N"]
+H6 H2 HA HK 
+CJ C5 C4 C3 
+CK CA C7 C2 
+SA S2 S6 SK 
+C8 C9 CQ C6 
+S3 D3 ST SQ 
+SJ D8 S9 S8 
+H5 H8 HT HJ 
+D2 D9 D4 S7 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "6"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ63.A6.KQT65.76 KT94.Q942..JT853 Q875.J873.742.Q9 2.KT5.AJ983.AK42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "46452464529797b9797b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  2
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  2
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 10,0,3,144,61,46,115,49,45,56,51,99,71,44,36,37,140,54,37,84,31,23,29,190,28,21,17,23,33,30,22,93,33,18,28,117,30,36,21,60,27,10,18,16,28,20,17,15,31,10,18,10,27,12,10,37,31,14,10
+[Auction "E"]
+Pass Pass 1D Pass 
+1H Pass 2C Pass 
+3C Pass Pass Pass 
+[Play "N"]
+C7 C8 C9 CA 
+S3 SK S7 S2 
+HA H2 H7 HK 
+C6 CJ CQ CK 
+H6 H4 HJ HT 
+S6 S4 S5 C2 
+D5 S9 D2 DA 
+D6 C3 D4 D3 
+SJ HQ H3 H5 
+DT H9 H8 D8 
+SA ST S8 C4 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "6"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ63.A6.KQT65.76 KT94.Q942..JT853 Q875.J873.742.Q9 2.KT5.AJ983.AK42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "46452464529797b9797b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  2
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  2
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C 11
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 17,2,1,100,50,51,118,96,77,123,39,702,55,36,36,38,41,407,205,21,33,18,1238,53,12,30,35,24,12,105,61,24,25,200,23,13,81,122,48,11,33,908,43,13,7,191,13,26,24,54,65,12,36,241,63,9,13,16,35,14,31,10,28,10,6,11,20,10,6
+[Auction "E"]
+Pass Pass 1D Pass 
+1H Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+S5 S2 SA S4 
+D2 D3 DK H2 
+H3 HK HA H4 
+CQ CA C6 CJ 
+HJ H5 H6 H9 
+C9 C2 C7 CT 
+S7 HT S3 S9 
+D4 DA D5 ST 
+H7 CK D6 C3 
+SQ D8 S6 SK 
+H8 C4 DT HQ 
+D7 D9 DQ C8 
+S8 DJ SJ C5 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "7"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K874.53.Q32.AT72 J965.KQ97.T4.K94 A32.T82.J9765.86 QT.AJ64.AK8.QJ53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "443634436398a7998a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  3
+S  D  6
+S  C  3
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  9
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 12,0,3,50,80,42,69,57,65,74,191,120,367,154,27,16,59,51,15,29,23,30,13,20,41,25,17,56,25,27,29,22,35,21,23,69,32,22,72,21,25,30,12,23,23,26,14,22,34,43,21,10,20,33,12,9,34,36,15,22,14,27,10,9
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 3H Pass Pass 
+Pass 
+[Play "S"]
+D6 DA D3 D4 
+H2 H4 H3 HK 
+H8 H6 H5 HQ 
+HT HJ S4 H7 
+C6 C3 C2 CK 
+C8 CJ CA C4 
+D5 CQ CT C9 
+D7 DK D2 DT 
+S3 SQ SK S5 
+D9 D8 DQ H9 
+SA ST S7 S6 
+S2 C5 S8 S9 
+DJ HA C7 SJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "7"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K874.53.Q32.AT72 J965.KQ97.T4.K94 A32.T82.J9765.86 QT.AJ64.AK8.QJ53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "443634436398a7998a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  6
+N  C  3
+S NT  4
+S  S  4
+S  H  3
+S  D  6
+S  C  3
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  9
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,2,1,150,285,99,177,56,233,131,190,70,71,32,55,41,110,441,69,61,155,49,14,35,114,78,13,29,33,304,36,223,25,27,13,23,67,24,30,10,149,24,45,46,74,11,10,92,39,21,12,20,68,32,8,9,21,19,11,10,14,13,17,11,10,9,9,15
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D =1= Pass 3D =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 1 four card mj"]
+[Note "2: both 4 card M"]
+[Play "N"]
+C2 C4 C8 CQ 
+S4 S5 S2 ST 
+SK S6 S3 SQ 
+D2 D4 D9 DA 
+H3 HK H2 H4 
+S7 S9 SA C3 
+D3 DT DJ D8 
+DQ H7 D5 DK 
+H5 HQ H8 H6 
+S8 SJ D6 C5 
+C7 H9 HT HA 
+CT C9 C6 HJ 
+CA CK D7 CJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "8"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J93.A763.T9.AQ75 8642.T52.8743.K4 Q75.K94.Q62.JT96 AKT.QJ8.AKJ5.832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "54647546478879688796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  4
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  4
+S  C  7
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  6
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 1,0,3,121,72,129,251,52,100,168,27,19,44,23,15,114,20,15,31,156,26,29,26,18,32,15,14,73,31,20,41,36,19,35,22,184,34,30,10,23,84,13,32,102,23,13,32,22,29,56,25,11,10,19,7,7,12,6,25
+[Auction "W"]
+1D Pass Pass Pass 
+[Play "N"]
+DT D3 D2 DJ 
+C7 CK C6 C2 
+C5 C4 C9 C3 
+D9 D4 D6 DA 
+CQ D7 CT C8 
+HA H2 H4 HJ 
+H7 H5 HK HQ 
+S3 S2 S5 SA 
+H3 D8 DQ DK 
+H6 HT H9 H8 
+SJ S4 S7 ST 
+CA S6 CJ D5 
+S9 S8 SQ SK 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "8"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J93.A763.T9.AQ75 8642.T52.8743.K4 Q75.K94.Q62.JT96 AKT.QJ8.AKJ5.832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "6"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "54647546478879688796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  4
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  4
+S  C  7
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  6
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 0,2,1,406,84,62,116,66,58,353,28,19,22,8,32,12,12,12,24,11,12,11,26,78,26,11,19,109,26,17,25,167,26,26,12,10,37,14,13,46,23,13,21,204,39,23,33,97,19,31,42,45,28,12,9,9,22,13,8
+[Auction "W"]
+1C Pass Pass Pass 
+[Play "N"]
+DT D3 DQ DA 
+S3 S2 S5 SA 
+S9 S4 S7 SK 
+SJ S6 SQ ST 
+D9 D4 D6 DK 
+H3 H2 HK HQ 
+C5 D7 D2 D5 
+HA H5 H4 HJ 
+H6 HT H9 H8 
+H7 S8 C9 DJ 
+C7 CK C6 C2 
+CQ C4 CJ C3 
+CA D8 CT C8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "9"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:2.9872.4.AKQT972 AQJ97.QT6.T92.85 T865.K4.QJ8763.4 K43.AJ53.AK5.J63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "33347333476a9766a976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  7
+E NT  6
+E  S 10
+E  H  9
+E  D  7
+E  C  6
+W NT  6
+W  S 10
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 15,0,3,445,222,562,47,48,132,51,104,27,22,138,63,17,27,152,25,58,24,36,354,28,13,36,126,26,13,78,34,29,26,40,16,75,11,36,24,20,30,74,40,11,19,18,48,20,16,9,17,31,17,9
+[Auction "N"]
+3NT =1= Pass 4C Pass 
+Pass Pass 
+[Note "1: solid minor no A or K outside"]
+[Play "W"]
+DA D4 D2 D3 
+H3 H7 HQ HK 
+C3 CA C5 C4 
+C6 CK C8 D6 
+CJ CQ DT D7 
+D5 C9 S7 S5 
+S3 C7 S9 D8 
+H5 H2 H6 H4 
+S4 S2 SA S6 
+HJ H8 HT S8 
+HA H9 SJ DJ 
+DK -  -  -  
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "9"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:2.9872.4.AKQT972 AQJ97.QT6.T92.85 T865.K4.QJ8763.4 K43.AJ53.AK5.J63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "33347333476a9766a976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  3
+S  D  4
+S  C  7
+E NT  6
+E  S 10
+E  H  9
+E  D  7
+E  C  6
+W NT  6
+W  S 10
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 10,2,1,166,122,151,26,258,91,30,28,33,42,18,27,87,20,21,4,180,17,21,13,263,20,17,16,46,30,7,28,11,56,8,12,10,22,8,16,36,14,9,8,13,21,9,12,75,19,11,10,10,12,10,9,12,7,13,8
+[Auction "N"]
+3C Pass Pass Pass 
+[Play "E"]
+C5 C4 CJ CQ 
+H6 HK HA H2 
+D2 D3 DK D4 
+SJ S5 S3 S2 
+SA S6 S4 C2 
+C8 S8 C3 CA 
+S7 ST C6 CK 
+HT H4 H3 H7 
+SQ D6 SK C7 
+HQ D7 H5 H9 
+S9 D8 D5 C9 
+D9 DJ HJ H8 
+DT DQ DA CT 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "10"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:.K732.T98542.AK4 J764.T.AKQ.T8532 KT.AQJ85.73.J976 AQ98532.964.J6.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "31a9831a984b2354b235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H 10
+N  D  9
+N  C  8
+S NT  3
+S  S  1
+S  H 10
+S  D  9
+S  C  8
+E NT  4
+E  S 11
+E  H  2
+E  D  3
+E  C  5
+W NT  4
+W  S 11
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 22,0,3,115,32,99,137,189,135,26,50,235,55,18,80,271,29,23,469,43,26,11,124,26,22,99,303,23,36,113,176,33,27,14,101,37,15,35,231,189,33,21,54,35,35,21,68,20,17,32,25,20,13,10,21,12,17,9,14,11,12,8,13,8,12,6
+[Auction "E"]
+Pass 1H 3S 4H 
+4S Pass Pass 5H 
+Pass Pass Pass 
+[Play "W"]
+SA H2 S4 ST 
+H4 H3 HT HJ 
+S2 C4 S6 SK 
+H6 HK C2 H5 
+D6 D2 DQ D7 
+DJ D4 DA D3 
+S3 H7 SJ C6 
+S5 D5 DK HQ 
+H9 D8 S7 HA 
+S8 D9 C3 H8 
+CQ CK C5 C7 
+S9 CA C8 C9 
+SQ DT CT CJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "10"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:.K732.T98542.AK4 J764.T.AKQ.T8532 KT.AQJ85.73.J976 AQ98532.964.J6.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "31a9831a984b2354b235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H 10
+N  D  9
+N  C  8
+S NT  3
+S  S  1
+S  H 10
+S  D  9
+S  C  8
+E NT  4
+E  S 11
+E  H  2
+E  D  3
+E  C  5
+W NT  4
+W  S 11
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 22,2,1,244,76,143,114,231,201,24,38,704,45,32,47,19,651,21,20,56,24,20,21,80,27,14,16,358,34,16,47,22,182,23,19,59,281,139,53,20,23,18,12,67,28,69,17,19,35,11,17,22,37,16,19,15,13,16,11,19,12,12,11,12,21,11,9
+[Auction "E"]
+Pass 1H 3S 4H 
+4S Pass Pass 5H 
+X Pass Pass Pass 
+[Play "W"]
+CQ CA C2 C6 
+H4 H2 HT HJ 
+H6 H3 S4 HA 
+H9 H7 S6 HQ 
+DJ D2 DQ D7 
+SA HK SJ SK 
+D6 DT DK D3 
+SQ D4 S7 ST 
+S9 D5 C3 H5 
+S2 CK C5 C7 
+S3 C4 C8 C9 
+S5 D8 CT CJ 
+S8 D9 DA H8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "11"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQJ943.AJ42.3.T2 7.KQ7.JT865.8764 .98653.AQ2.AKJ95 KT8652.T.K974.Q3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "99b6a99b6a4327243272"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  6
+N  C 10
+S NT  9
+S  S  9
+S  H 11
+S  D  6
+S  C 10
+E NT  4
+E  S  3
+E  H  2
+E  D  7
+E  C  2
+W NT  4
+W  S  3
+W  H  2
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,560,51,203,72,148,28,29,850,44,28,80,45,22,35,71,14,20,18,274,32,15,16,20,23,29,40,198,33,75,21,239,36,27,25,44,36,12,25,40,20,17,19,53,23,15,20,28,14,15,49,27,14,15,61,19,8,15,12
+[Auction "S"]
+1H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+HT HA H7 H3 
+D4 D3 D5 DA 
+D7 H2 D6 D2 
+C3 C2 C4 CA 
+D9 H4 D8 DQ 
+CQ CT C6 CK 
+S2 HJ HK H5 
+S5 S3 C8 C9 
+S6 S4 HQ H8 
+DK S9 DJ H6 
+S8 SJ DT H9 
+ST SQ C7 CJ 
+SK SA S7 C5 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "11"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQJ943.AJ42.3.T2 7.KQ7.JT865.8764 .98653.AQ2.AKJ95 KT8652.T.K974.Q3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "99b6a99b6a4327243272"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  6
+N  C 10
+S NT  9
+S  S  9
+S  H 11
+S  D  6
+S  C 10
+E NT  4
+E  S  3
+E  H  2
+E  D  7
+E  C  2
+W NT  4
+W  S  3
+W  H  2
+W  D  7
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,421,70,213,75,633,41,93,605,25,21,470,33,19,37,60,40,9,20,41,13,26,36,86,16,17,13,91,20,21,10,140,22,19,23,48,25,14,12,51,19,16,13,17,22,14,185,19,23,13,9,14,13,13,11,10,16,11,10
+[Auction "S"]
+1H 2S 4H Pass 
+Pass Pass 
+[Play "W"]
+D7 D3 DT DQ 
+HT HJ HQ H3 
+C3 C2 C7 CA 
+S2 HA H7 H5 
+S5 SA S7 C5 
+CQ CT C4 CK 
+D4 H4 D5 D2 
+S6 H2 HK H6 
+D9 S3 D6 DA 
+S8 S4 D8 H9 
+ST S9 C6 CJ 
+SK SJ C8 C9 
+DK SQ DJ H8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "12"]
+[West "Kate Gould#057854"]
+[North "Robert Plumley#33074"]
+[East "Thea Sydenham#"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8654.Q76.A864.K9 Q7.94.J9.AQJ7542 KT9.AKT8.KQT52.8 AJ32.J532.73.T63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "48894488944443944439"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  8
+N  D  9
+N  C  4
+S NT  4
+S  S  8
+S  H  8
+S  D  9
+S  C  4
+E NT  4
+E  S  4
+E  H  4
+E  D  3
+E  C  9
+W NT  4
+W  S  4
+W  H  4
+W  D  3
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,0,3,83,183,144,162,56,101,64,39,22,89,124,38,23,21,25,31,24,15,34,14,64,24,19,13,16,25,28,28,25,100,33,119,39,267,14,34,54,143,16,17,75,52,10,18,13,139,36,50,10,104,25,10,8,102,18,19,15,13,13,9,6
+[Auction "W"]
+Pass Pass 3C X 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+H9 HT HJ HQ 
+S7 S9 SJ S4 
+H4 H8 H2 H7 
+D9 D2 D3 DA 
+SQ SK SA S5 
+C5 HK H3 H6 
+C2 HA H5 D4 
+DJ DK D7 D8 
+C4 DQ S2 D6 
+CJ C8 C3 C9 
+CA ST C6 CK 
+C7 DT S3 S6 
+CQ D5 CT S8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "12"]
+[West "Rune Hauge#17463"]
+[North "Carolyn Cox#504487"]
+[East "Andy Hall#"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8654.Q76.A864.K9 Q7.94.J9.AQJ7542 KT9.AKT8.KQT52.8 AJ32.J532.73.T63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "48894488944443944439"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  8
+N  D  9
+N  C  4
+S NT  4
+S  S  8
+S  H  8
+S  D  9
+S  C  4
+E NT  4
+E  S  4
+E  H  4
+E  D  3
+E  C  9
+W NT  4
+W  S  4
+W  H  4
+W  D  3
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,48,99,131,161,65,152,52,455,35,145,135,82,24,68,70,31,11,379,34,23,16,24,27,16,25,824,57,41,15,24,22,18,86,70,45,10,23,9,11,7,19,12,45,11,12,59,12,9,12,8,14,7,43,11,28,12,18,16,15,11,4,10,8,13,9
+[Auction "W"]
+Pass Pass 3C X 
+4C Pass Pass X 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+CA C8 C6 C9 
+CQ H8 C3 CK 
+S7 S9 SJ S4 
+C2 D2 CT S5 
+SQ SK S2 S6 
+H4 HT H2 HQ 
+H9 HK H3 H6 
+C4 HA H5 H7 
+D9 D5 D7 DA 
+DJ DK D3 D4 
+C5 DQ S3 D6 
+C7 ST SA S8 
+CJ DT HJ D8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "13"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q874.T4.AJT4.652 K52.AJ63.K762.T9 J6.K98752.9.A873 AT93.Q.Q853.KQJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "4463544634997a8997a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  3
+N  C  5
+S NT  4
+S  S  4
+S  H  6
+S  D  3
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D 10
+E  C  8
+W NT  9
+W  S  9
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 9,1,3,134,216,886,78,58,132,69,70,37,380,135,44,33,254,39,19,19,22,34,31,24,148,51,9,29,29,29,14,28,34,15,18,40,130,19,12,20,127,57,17,20,38,30,14,14,14,22,14,12,17,12,13,11,13,9,17,16,27,12,11,7
+[Auction "N"]
+Pass Pass 2H =1= X 
+Pass 2NT Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "S"]
+SJ S3 S4 SK 
+S6 S9 SQ S2 
+HK HQ H4 H3 
+H9 D3 HT HJ 
+C3 C4 C2 CT 
+C7 CJ C5 C9 
+CA CQ C6 D2 
+H8 D5 S8 HA 
+H2 ST S7 S5 
+H5 SA D4 H6 
+C8 CK DT D6 
+D9 D8 DJ DK 
+H7 DQ DA D7 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "13"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q874.T4.AJT4.652 K52.AJ63.K762.T9 J6.K98752.9.A873 AT93.Q.Q853.KQJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "4463544634997a8997a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  3
+N  C  5
+S NT  4
+S  S  4
+S  H  6
+S  D  3
+S  C  4
+E NT  9
+E  S  9
+E  H  7
+E  D 10
+E  C  8
+W NT  9
+W  S  9
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,454,188,232,297,85,26,163,76,44,122,138,217,38,34,51,326,247,13,29,190,30,19,27,63,41,19,9,140,10,21,35,133,537,14,15,141,19,24,29,120,34,48,18,117,130,171,25,20,58,21,22,48,31,17,23,15,19,18,45,16,26,17,6,16,6,23,11
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+H7 HQ H4 H3 
+C3 C4 C2 C9 
+C7 CJ C5 CT 
+CA CQ C6 S2 
+SJ SA S4 S5 
+C8 CK S7 H6 
+D9 D3 DT DK 
+H2 DQ DA D2 
+S6 S3 SQ SK 
+H5 D5 DJ D7 
+H8 S9 HT HA 
+H9 D8 D4 D6 
+HK ST S8 HJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "14"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J986.JT5.AKT2.QJ 7.AQ862.Q83.A954 KQT5432.97.J74.K A.K43.965.T87632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "393733937374a5a74a5a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  9
+S  H  3
+S  D  7
+S  C  3
+E NT  7
+E  S  4
+E  H 10
+E  D  5
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  5
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,1,3,212,178,55,341,41,54,19,28,264,51,20,251,19,24,15,14,29,14,183,678,23,20,30,26,20,20,10,72,251,36,47,8,21,27,51,65,34,10,6
+[Auction "E"]
+1H 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+H3 H5 HA H7 
+HK HT H2 H9 
+H4 HJ HQ ST 
+D5 D2 DQ DJ 
+C2 CJ CA CK 
+SA DT H8 D4 
+C3 CQ C4 D7 
+C6 S6 S7 SK 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "14"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J986.JT5.AKT2.QJ 7.AQ862.Q83.A954 KQT5432.97.J74.K A.K43.965.T87632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "393733937374a5a74a5a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  9
+S  H  3
+S  D  7
+S  C  3
+E NT  7
+E  S  4
+E  H 10
+E  D  5
+E  C 10
+W NT  7
+W  S  4
+W  H 10
+W  D  5
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,142,126,94,123,137,54,36,48,221,25,20,433,29,43,19,47,36,19,35,63,28,16,15,80,35,18,14,16,30,14,19,78,31,10,13,23,19
+[Auction "E"]
+1H 3S 4H 4S 
+Pass Pass Pass 
+[Play "W"]
+H3 H5 HA H9 
+HK HT H2 H7 
+H4 HJ HQ S2 
+SA S6 S7 SK 
+D9 DA D3 D4 
+C2 CJ CA CK 
+C3 CQ C5 D7 
+-  DK D8 -  
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "15"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q76.AT63.J9.KJ73 AJT8532.2.T42.A5 K9.QJ.AQ875.Q982 4.K98754.K63.T64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a6788a67883764437644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  7
+N  D  8
+N  C  8
+S NT 10
+S  S  6
+S  H  7
+S  D  8
+S  C  8
+E NT  3
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  3
+W  S  7
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,327,122,746,221,242,63,39,138,90,213,37,9,26,101,16,21,13,43,23,31,20,29,11,32,20,16,39,9,149,22,27,21,76,22,10,41,21,26,18,11,47,18,14,14,9,11,17,12,8,9,9,12,9,9,8,11,9,14,9,7
+[Auction "S"]
+1D 2H =1= 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: wjo"]
+[Play "E"]
+SJ SK S4 S6 
+H2 HQ H5 H3 
+D2 HJ HK HA 
+CA C2 C4 C3 
+SA S9 C6 S7 
+S2 D5 D6 SQ 
+D4 D7 DK DJ 
+C5 C8 CT CJ 
+DT DQ D3 D9 
+S3 DA H4 H6 
+S5 CQ H7 C7 
+S8 C9 H8 CK 
+ST D8 H9 HT 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "15"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q76.AT63.J9.KJ73 AJT8532.2.T42.A5 K9.QJ.AQ875.Q982 4.K98754.K63.T64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a6788a67883764437644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  7
+N  D  8
+N  C  8
+S NT 10
+S  S  6
+S  H  7
+S  D  8
+S  C  8
+E NT  3
+E  S  7
+E  H  6
+E  D  4
+E  C  4
+W NT  3
+W  S  7
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 19,1,3,194,56,116,324,328,37,70,181,89,37,214,58,22,13,56,45,66,119,274,17,172,21,241,23,16,87,65,52,16,11,607,41,23,6,27,17,39,34,48,80,12,36,22,41,8,8,12,37,36,10,17,37,56,10
+[Auction "S"]
+1D 2H 3NT 4S 
+Pass Pass 4NT Pass 
+Pass Pass 
+[Play "E"]
+SA S9 S4 S7 
+SJ SK H5 S6 
+C5 C2 C4 CK 
+D2 DQ DK D9 
+H2 HJ HK HA 
+S2 HQ H4 H3 
+CA C8 CT CJ 
+S3 D5 C6 SQ 
+S5 D7 H7 HT 
+D4 D8 D3 DJ 
+S8 CQ D6 C3 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "16"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A852.Q3.A743.AJ4 QT9.AT987.KJ8.53 KJ43.65.T52.QT82 76.KJ42.Q96.K976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "89598895985484554845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  9
+N  C  8
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,110,65,76,123,56,85,35,129,116,62,31,32,26,8,50,12,22,11,8,24,46,8,21,35,84,11,17,11,27,9,34,9,19,9,12,8,21,12,105,18,28,25,7,14,17,13,9,23,16,17,8,14,9,8,9,18,7,18,7
+[Auction "W"]
+Pass 1S Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+C5 C2 C7 CJ 
+S9 S3 S7 SA 
+ST SJ S6 S2 
+SQ SK H4 S5 
+C3 CQ C6 C4 
+H9 C8 C9 CA 
+D8 D2 D6 DA 
+DJ D5 DQ D3 
+H7 CT CK S8 
+DK DT D9 D4 
+HA H5 HJ H3 
+H8 H6 HK HQ 
+HT S4 H2 D7 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "16"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A852.Q3.A743.AJ4 QT9.AT987.KJ8.53 KJ43.65.T52.QT82 76.KJ42.Q96.K976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "89598895985484554845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  9
+N  C  8
+S NT  8
+S  S  9
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,76,183,106,210,27,76,55,44,90,162,110,30,14,234,14,22,19,43,14,30,49,62,48,37,53,207,19,19,16,141,219,29,13,86,17,33,12,22,23,31,10,16,10,18,21,12,23,7,8,50,20,6,15,9,11,10,5
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+HT H5 H4 HQ 
+S9 SJ S6 S5 
+ST S3 S7 SA 
+SQ SK C9 S8 
+C5 S4 D6 S2 
+C3 C2 C6 CJ 
+H7 C8 C7 CA 
+D8 CT CK C4 
+H8 H6 HK H3 
+HA D2 HJ D3 
+H9 D5 H2 D4 
+DJ DT D9 DA 
+DK CQ DQ D7 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "17"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T42.KT4.AJT7.754 5.AJ3.9654.AJT62 AQJ6.985.Q32.Q93 K9873.Q762.K8.K8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55465554658797888978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  4
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,2,0,117,29,213,352,164,185,57,32,109,428,420,28,38,250,35,23,14,449,252,16,25,42,40,20,12,136,21,18,20,19,9,19,26,163,35,16,7,93,32,21,15,16,18,33,16,63,41,17,228,24,17,15,24,169,32,9,18,45,6,18,20
+[Auction "N"]
+Pass Pass 1NT 2C =1= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: both majors"]
+[Play "S"]
+H5 H2 HT HJ 
+SA S3 S2 S5 
+H8 H6 H4 HA 
+C3 CK C4 C2 
+S6 SK S4 D4 
+SJ S7 ST H3 
+C9 C8 C5 CA 
+D2 DK DA D6 
+D3 D8 DJ D5 
+CQ H7 C7 CT 
+SQ S8 D7 C6 
+DQ HQ DT D9 
+H9 S9 HK CJ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "17"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T42.KT4.AJT7.754 5.AJ3.9654.AJT62 AQJ6.985.Q32.Q93 K9873.Q762.K8.K8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55465554658797888978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  4
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 9,1,3,90,27,64,53,90,49,48,22,67,109,83,25,31,130,128,40,47,44,54,19,12,16,13,18,24,521,71,90,50,18,42,14,23,35,231,17,34,35,105,27,12,22,34,73,21,167,23,18,23,15,89,45,13,15,33,13,14,45,24,24,20,11,11,21,11
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2H 
+Pass 2NT Pass Pass 
+Pass 
+[Play "S"]
+H8 H2 HT HJ 
+C3 CK C4 C2 
+CQ C8 C5 CT 
+H5 H6 H4 HA 
+C9 S3 C7 CA 
+S6 S7 S2 CJ 
+SJ S8 S4 C6 
+H9 HQ HK H3 
+DQ DK D7 D4 
+D2 H7 DT D5 
+D3 D8 DA D6 
+SA S9 ST S5 
+SQ SK DJ D9 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "18"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A42.JT7532.A65.A J863.Q.KQ43.K987 T975.K8.T872.Q62 KQ.A964.J9.JT543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS -80"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "76764767646667966679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  4
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C  4
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  9
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 3,2,0,100,84,100,119,51,75,77,162,304,168,13,14,11,28,22,20,298,41,26,8,75,21,29,18,12,36,20,17,240,42,17,9,67,26,237,21,39,28,11,19,9,37,17,20,32,10,42,32,58,21,17,9,12,21,7,17,41,17,38,9
+[Auction "E"]
+Pass Pass 1H Pass 
+1S Pass Pass Pass 
+[Play "S"]
+D2 DJ DA D3 
+D7 D9 D5 DQ 
+HK HA H2 HQ 
+C2 CJ CA C7 
+H8 H4 HJ S3 
+D8 H6 D6 DK 
+DT H9 H3 D4 
+S5 SQ SA S6 
+S7 SK S2 S8 
+C6 C3 H5 CK 
+CQ C4 H7 C8 
+S9 C5 S4 SJ 
+ST CT HT C9 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "18"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A42.JT7532.A65.A J863.Q.KQ43.K987 T975.K8.T872.Q62 KQ.A964.J9.JT543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "76764767646667966679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  4
+S NT  7
+S  S  6
+S  H  7
+S  D  6
+S  C  4
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  9
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,1,3,261,75,53,49,64,195,35,149,85,488,50,35,74,69,21,32,29,130,34,24,52,43,13,13,59,27,16,18,65,32,122,11,238,108,63,30,213,18,20,23,101,40,11,11,25,12,10,19,27,81,23,28,15
+[Auction "E"]
+Pass Pass Pass 1H 
+X Pass 2C Pass 
+Pass 2H Pass Pass 
+3C Pass Pass Pass 
+[Play "N"]
+H5 HQ HK HA 
+H2 C7 H8 H4 
+SA S3 S7 SQ 
+HJ C8 CQ H6 
+CA C9 C2 CT 
+S4 S6 S9 SK 
+H3 CK C6 C3 
+S2 SJ S5 H9 
+DA D3 D8 DJ 
+HT -  -  -  
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "19"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J92.4.A973.QJ974 A4.T7652.JT8.KT8 Q3.KQ98.K542.A53 KT8765.AJ3.Q6.62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66688666886775567755"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  8
+S NT  6
+S  S  6
+S  H  6
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  5
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 10,2,0,242,261,297,56,76,38,464,61,61,35,50,133,66,21,24,13,15,9,30,13,45,45,16,30,11,32,78,17,31,12,15,22,25,21,21,24,15,22,31,28,24,17,47,18,10,26,31,22,14,18,66,23,13,18,34,20,9,10,8,26,10,9
+[Auction "S"]
+1NT 2D =1= Pass 2H 
+Pass 2S 3C Pass 
+Pass Pass 
+[Note "1: single major"]
+[Play "E"]
+SA S3 S8 S2 
+S4 SQ SK S9 
+C8 CA ST SJ 
+CK C3 C2 CJ 
+DJ D2 D6 DA 
+CT C5 C6 CQ 
+H5 HK HA H4 
+H2 H8 S7 C7 
+D8 DK DQ D3 
+H6 HQ H3 D7 
+DT D4 S5 D9 
+HT H9 HJ C4 
+H7 D5 S6 C9 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "19"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J92.4.A973.QJ974 A4.T7652.JT8.KT8 Q3.KQ98.K542.A53 KT8765.AJ3.Q6.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66688666886775567755"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  8
+S NT  6
+S  S  6
+S  H  6
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  7
+E  D  5
+E  C  5
+W NT  6
+W  S  7
+W  H  7
+W  D  5
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 11,1,3,208,81,279,113,541,37,46,153,47,19,195,24,11,20,14,14,23,31,90,27,15,35,45,63,15,14,151,18,11,23,49,25,8,10,11,12,18,10,49,14,23,24,39
+[Auction "S"]
+1D 2S 3D Pass 
+Pass Pass 
+[Play "W"]
+C6 CJ CK CA 
+D6 D3 D8 DK 
+DQ DA DT D2 
+HA H4 H2 HK 
+C2 CQ C8 C3 
+S5 C4 CT C5 
+S8 S2 SA S3 
+SK S9 S4 SQ 
+S6 SJ DJ H8 
+-  -  H5 -  
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "20"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q64.AT63.AK9.K96 K9.J42.QT7542.JT T753.KQ5.63.Q842 AJ82.987.J8.A753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98869988584557445574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  6
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  5
+S  C  8
+E NT  4
+E  S  5
+E  H  5
+E  D  7
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,2,0,89,101,38,277,35,45,23,373,38,49,181,27,9,12,38,12,21,15,19,32,16,58,29,84,11,45,22,10,9,25,12,11,16,63,16,29,19,9,35,9,8,11,18,8,40,11,19,8,10,58,28,11,13,15,18,11,9,13,9,10,8
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+D5 D3 DJ DA 
+CT CQ CA C6 
+DT D6 D8 D9 
+D7 S3 H7 DK 
+H2 HK H8 H3 
+H4 HQ H9 H6 
+HJ H5 S8 HA 
+CJ C2 C3 CK 
+D2 S5 S2 HT 
+D4 C4 C5 C9 
+SK S7 SJ S4 
+DQ ST C7 S6 
+S9 C8 SA SQ 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "20"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q64.AT63.AK9.K96 K9.J42.QT7542.JT T753.KQ5.63.Q842 AJ82.987.J8.A753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98869988584557445574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  6
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  5
+S  C  8
+E NT  4
+E  S  5
+E  H  5
+E  D  7
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,1,3,89,81,37,279,26,55,101,24,64,41,23,33,11,232,34,48,15,16,18,15,19,123,42,52,25,37,76,67,37,39,19,21,26,41,18,48,22,23,28,12,14,10,27,11,10,54,26,10,98,15,11,12,24,8,11,12,11
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+D5 D3 DJ D9 
+D2 D6 D8 DA 
+H2 HK H7 H3 
+CT C2 C3 CK 
+CJ CQ CA C9 
+H4 HQ H8 H6 
+D4 C8 C5 C6 
+HJ H5 H9 HA 
+D7 C4 S2 HT 
+DT S3 S8 DK 
+SK S5 SA SQ 
+S9 S7 SJ S4 
+DQ ST C7 S6 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "21"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T.AKT8643.K2.T84 AJ.Q972.873.AQ75 KQ8753.5.Q964.J9 9642.J.AJT5.K632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "6"]
+[Score "NS -1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "46643466539778a9778a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  6
+S  H  6
+S  D  5
+S  C  3
+E NT  9
+E  S  7
+E  H  7
+E  D  8
+E  C 10
+W NT  9
+W  S  7
+W  H  7
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 17,2,0,176,63,109,39,42,335,87,40,173,36,64,33,71,353,72,52,42,23,27,9,32,18,25,12,126,103,31,20,46,59,21,21,9,236,12,24,17,110,23,16,13,9,36,16,17,29,24,10,8,69,14,30,14,92,26,9,7,30,13,8,5,7,19,6,8
+[Auction "N"]
+1H Pass 1S X 
+2H 3C 3S Pass 
+4H X Pass Pass 
+Pass 
+[Play "E"]
+D7 D4 DT DK 
+H2 H5 HJ HA 
+H7 D6 C3 HK 
+D3 DQ DA D2 
+CQ C9 C2 C4 
+CA CJ C6 CT 
+D8 D9 DJ H3 
+SA S3 S6 ST 
+C5 S5 CK C8 
+H9 S7 D5 H4 
+HQ S8 S2 H6 
+C7 SQ S4 H8 
+SJ SK S9 HT 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "21"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T.AKT8643.K2.T84 AJ.Q972.873.AQ75 KQ8753.5.Q964.J9 9642.J.AJT5.K632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "46643466539778a9778a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  6
+S  H  6
+S  D  5
+S  C  3
+E NT  9
+E  S  7
+E  H  7
+E  D  8
+E  C 10
+W NT  9
+W  S  7
+W  H  7
+W  D  8
+W  C 10
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 12,1,3,82,153,338,45,116,67,111,18,61,118,41,87,250,62,25,13,170,26,21,30,24,41,15,7,583,44,112,41,175,43,23,49,32,27,7,12,49,19,10,15,38,32,33,19,47,11,25,12,64,35,11,10,16,22,7,12,9,13,23,5
+[Auction "N"]
+1H Pass 2S =1= Pass 
+3H Pass Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+D7 D4 DT DK 
+SJ SK S4 ST 
+H2 H5 HJ HA 
+H7 S3 C2 HK 
+D8 D9 DJ D2 
+CQ C9 C3 CT 
+CA CJ C6 C4 
+SA S5 S2 H3 
+C5 S7 CK C8 
+D3 D6 DA H4 
+H9 S8 D5 H8 
+C7 DQ S6 H6 
+HQ SQ S9 HT 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "22"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT7.3.KT7.T8752 93.AQT82.AJ4.AK4 AJ542.KJ954.5.J3 86.76.Q98632.Q96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "69647696366479664796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  4
+N  C  7
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C  6
+E NT  6
+E  S  4
+E  H  7
+E  D  9
+E  C  6
+W NT  6
+W  S  4
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,117,269,32,318,40,542,34,45,78,31,279,39,39,41,36,19,15,64,18,19,16,31,127,39,42,202,43,17,20,46,31,20,10,93,16,14,25,69,18,18,20,16,48,43,26,15,18,31,10,21,19,13,20,10,22,12,18,11,15,9,10
+[Auction "E"]
+1H 1S Pass 2H =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: spades"]
+[Play "W"]
+H7 H3 HA H5 
+C9 C2 CA C3 
+C6 C5 CK CJ 
+CQ C7 C4 SJ 
+S6 SK S3 S2 
+S8 S7 S9 SA 
+H6 D7 H2 HK 
+D9 SQ H8 H4 
+D8 CT D4 HJ 
+D6 C8 HT D5 
+D2 DT DJ S4 
+D3 ST HQ H9 
+DQ DK DA S5 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "22"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT7.3.KT7.T8752 93.AQT82.AJ4.AK4 AJ542.KJ954.5.J3 86.76.Q98632.Q96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "69647696366479664796"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  4
+N  C  7
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C  6
+E NT  6
+E  S  4
+E  H  7
+E  D  9
+E  C  6
+W NT  6
+W  S  4
+W  H  7
+W  D  9
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,1,3,216,136,42,574,163,675,28,42,45,43,146,63,21,24,39,22,11,29,13,10,11,37,24,37,12,64,123,15,36,254,18,10,24,97,25,10,6
+[Auction "E"]
+1H 1S Pass 3H =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: short"]
+[Play "W"]
+H7 H3 HA H4 
+C6 C2 CA CJ 
+C9 C5 CK C3 
+D3 D7 DA D5 
+CQ C7 C4 SJ 
+S6 SK S3 S2 
+S8 SQ S9 S4 
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "23"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A83.QJT95.Q52.J5 KT7.AK82.KJ.T976 QJ2.64.9763.A832 9654.73.AT84.KQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "34543335339979a9979a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  3
+S  C  3
+E NT  9
+E  S  9
+E  H  7
+E  D  9
+E  C 10
+W NT  9
+W  S  9
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,2,0,234,38,81,46,62,42,49,167,159,13,19,69,32,14,8,34,52,21,9,50,25,15,25,41,35,18,10,41,12,14,15,28,8,35,14,17,8,13,15,17,9,14,15,14,17,13,7,16,19,17,7,17,16,15,6,8,13,12,26
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "S"]
+D7 D4 DQ DK 
+D3 D8 D2 DJ 
+CA C4 C5 C6 
+SQ S4 S3 SK 
+C2 CQ CJ C7 
+C3 CK D5 C9 
+D6 DA H5 H2 
+D9 DT H9 H8 
+H4 H3 HT HA 
+H6 H7 HJ HK 
+C8 S5 S8 CT 
+S2 S6 SA S7 
+SJ S9 HQ ST 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "23"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A83.QJT95.Q52.J5 KT7.AK82.KJ.T976 QJ2.64.9763.A832 9654.73.AT84.KQ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "34543335339979a9979a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  3
+S  C  3
+E NT  9
+E  S  9
+E  H  7
+E  D  9
+E  C 10
+W NT  9
+W  S  9
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,1,3,158,36,102,75,204,30,74,38,89,199,38,17,38,25,11,14,38,54,33,31,10,19,62,25,22,235,41,12,46,33,42,20,91,13,20,10,13,13,8,10,13,24,15,11,16,18,9,10,12,13,13,9,11,32,10,4,10,9,10,2
+[Auction "S"]
+Pass Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "W"]
+D4 D2 DJ D3 
+D8 D5 DK D6 
+CQ C5 CT C2 
+DA DQ H8 D7 
+DT H5 C6 D9 
+S6 S3 SK S2 
+H3 H9 HA H4 
+H7 HT HK H6 
+C4 CJ C9 CA 
+S4 S8 S7 SQ 
+S5 SA ST SJ 
+S9 HJ H2 C3 
+CK HQ C7 C8 
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "24"]
+[West "Robert Plumley#33074"]
+[North "Carolyn Cox#504487"]
+[East "Susie Farnon#26278"]
+[South "Keith Morgan#505753"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T7.KQ753.986.AKQ Q863.J64.A4.JT92 542.A2.KQT7532.7 AKJ9.T98.J.86543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "869a6869a65731757317"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D 10
+N  C  6
+S NT  8
+S  S  6
+S  H  9
+S  D 10
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  1
+E  C  7
+W NT  5
+W  S  7
+W  H  3
+W  D  1
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 11,2,0,95,123,52,51,56,41,75,121,39,78,25,41,216,19,15,13,19,28,14,14,172,20,16,201,19,14,25,18,23,22,12,15,16,15,10,16,34,21,15,97,20,15,22,71
+[Auction "W"]
+Pass 1H Pass 2D 
+X 2H 2S 3D 
+Pass Pass Pass 
+[Play "W"]
+SA S7 S3 S2 
+SK ST S6 S5 
+HT HK H4 H2 
+C3 CA C2 C7 
+C4 CK C9 S4 
+C5 CQ CT HA 
+DJ D6 D4 DQ 
+C6 D9 DA D2 
+-  -  CJ -  
+*
+
+[Event "19 Nov Plumley vs Morgan"]
+[Site "RealBridge"]
+[Date "2024.11.19"]
+[Board "24"]
+[West "Kate Gould#057854"]
+[North "Rune Hauge#17463"]
+[East "Thea Sydenham#"]
+[South "Andy Hall#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:T7.KQ753.986.AKQ Q863.J64.A4.JT92 542.A2.KQT7532.7 AKJ9.T98.J.86543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "12"]
+[Score "NS 240"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Morgan team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "869a6869a65731757317"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D 10
+N  C  6
+S NT  8
+S  S  6
+S  H  9
+S  D 10
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  1
+E  C  7
+W NT  5
+W  S  7
+W  H  3
+W  D  1
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,91,55,82,543,35,111,89,132,197,57,17,75,22,20,14,230,15,12,26,116,36,10,16,249,22,13,3,46,21,12,9,29,9,10,15,16,18,13,10,14,97,14,9
+[Auction "W"]
+Pass 1H Pass 1NT 
+Pass Pass Pass 
+[Play "W"]
+C6 CA C2 C7 
+DJ D6 D4 DK 
+C8 D8 DA DQ 
+C3 CQ CJ S2 
+C4 CK C9 S4 
+H8 H3 H4 HA 
+H9 HK H6 H2 
+HT HQ HJ S5 
+C5 D9 S3 DT 
+*

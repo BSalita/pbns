@@ -1,0 +1,2028 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "1"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQT86.AT.Q86.A62 42.986532.A94.J3 K3.QJ74.T7.K9754 J975.K.KJ532.QT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "aa87aaa87a2245122451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D  7
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D  7
+S  C 10
+E NT  2
+E  S  2
+E  H  4
+E  D  5
+E  C  1
+W NT  2
+W  S  2
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,628,31,167,79,327,19,92,19,641,130,119,23,106,34,15,7,19,13,20,8,25,51,31,28,572,17,28,41,211,34,8,8,9,39,9,7,22,27,8,25,10,32,9,7
+[Auction "N"]
+1C =1= 2H 2NT =2= Pass 
+3NT Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: natural 8+"]
+[Play "W"]
+D3 D6 D9 DT 
+S5 S6 S4 SK 
+S7 SA S2 S3 
+S9 SQ H6 H4 
+SJ S8 C3 C4 
+D2 D8 DA D7 
+DK DQ D4 C5 
+DJ HT H2 H7 
+D5 C2 H3 C7 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "1"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQT86.AT.Q86.A62 42.986532.A94.J3 K3.QJ74.T7.K9754 J975.K.KJ532.QT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "aa87aaa87a2245122451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  8
+N  D  7
+N  C 10
+S NT 10
+S  S 10
+S  H  8
+S  D  7
+S  C 10
+E NT  2
+E  S  2
+E  H  4
+E  D  5
+E  C  1
+W NT  2
+W  S  2
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,119,37,421,138,42,180,61,60,35,29,176,183,23,38,63,139,39,17,171,106,20,13,1530,203,23,18,344,46,10,7,28,6,65,21
+[Auction "N"]
+1NT =1= Pass 2C Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+D4 D7 DK D6 
+DA DT D3 DQ 
+D9 C4 D2 D8 
+H9 HQ HK HA 
+S4 SK S5 S6 
+S2 S3 S7 ST 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "2"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQ86.AQ63.83.AT4 T753.T.AT752.K93 J9.K8542.J6.J875 K42.J97.KQ94.Q62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "87958879585647455484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  5
+N  C  8
+S NT  8
+S  S  7
+S  H  9
+S  D  5
+S  C  8
+E NT  5
+E  S  6
+E  H  4
+E  D  7
+E  C  4
+W NT  5
+W  S  5
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,1,55,70,101,154,22,132,52,264,45,250,41,118,18,60,30,24,13,234,19,27,18,307,35,22,17,42,34,188,22,17,18,9,9,32,10,11,28,31,22,9,7,12,13,18,9,14,28,18,9
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass 2D =2= Pass 3D =3= 
+Pass 3H Pass Pass 
+Pass 
+[Note "1: 14 16"]
+[Note "2: H"]
+[Note "3: xx in d * maybe honours [0:24]"]
+[Play "W"]
+DK D3 D7 D6 
+DQ D8 D5 DJ 
+C2 C4 CK C5 
+CQ CA C9 C7 
+H7 HA HT H2 
+H9 H3 DT HK 
+HJ HQ D2 H4 
+C6 CT C3 CJ 
+SK SA S7 SJ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "2"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQ86.AQ63.83.AT4 T753.T.AT752.K93 J9.K8542.J6.J875 K42.J97.KQ94.Q62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "87958879585647455484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  5
+N  C  8
+S NT  8
+S  S  7
+S  H  9
+S  D  5
+S  C  8
+E NT  5
+E  S  6
+E  H  4
+E  D  7
+E  C  4
+W NT  5
+W  S  5
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,52,94,111,47,293,72,60,86,414,52,89,52,12,114,30,10,13,249,37,69,10,15,17,10,46,22,34,16,25,11,38,20,19,52,33,17,12
+[Auction "E"]
+Pass Pass 1D X 
+3D 3H Pass Pass 
+Pass 
+[Play "W"]
+DK D3 D2 D6 
+DQ D8 D5 DJ 
+CQ CA C3 C5 
+H7 HA HT H4 
+HJ HQ D7 H2 
+H9 H3 DT HK 
+SK SA S3 SJ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "3"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J.T763.842.AK832 73.AKQJ982.KT7.5 AT542.4.AJ65.Q96 KQ986.5.Q93.JT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "6"]
+[Score "NS -250"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "66378663786695566955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  7
+N  C  8
+S NT  6
+S  S  6
+S  H  3
+S  D  7
+S  C  8
+E NT  6
+E  S  6
+E  H  9
+E  D  5
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 21,2,1,70,37,410,105,64,39,48,36,199,221,60,54,41,87,69,21,44,21,107,20,612,21,44,21,158,39,8,7,12,26,20,10,39,17,14,16,14,29,11,8,24,55,49,15,20,21,18,8,11,13,9,10,25,22,38,18,11,17,12,7,9,14,7,9
+[Auction "S"]
+1S Pass 1NT =1= 4H 
+Pass Pass X Pass 
+5D Pass Pass Pass 
+[Note "1: forcing"]
+[Play "W"]
+H5 H3 HQ H4 
+D9 H6 HJ D5 
+D3 D2 DK DA 
+S6 SJ S3 SA 
+S8 D8 S7 S2 
+C4 C2 C5 CQ 
+S9 D4 D7 S4 
+DQ H7 HK D6 
+SK HT H2 S5 
+SQ C3 H8 ST 
+C7 C8 DT C6 
+CT CK HA DJ 
+CJ CA H9 C9 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "3"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J.T763.842.AK832 73.AKQJ982.KT7.5 AT542.4.AJ65.Q96 KQ986.5.Q93.JT74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "66378663786695566955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  7
+N  C  8
+S NT  6
+S  S  6
+S  H  3
+S  D  7
+S  C  8
+E NT  6
+E  S  6
+E  H  9
+E  D  5
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,71,46,296,386,49,22,124,171,89,39,16,429,31,37,21,19,25,9,87,11,358,22,7,15,219,15,18,16,101,28,24,41,109,14,15,73,19,21,7,10
+[Auction "S"]
+1S Pass 1NT =1= 3H 
+Pass Pass Pass 
+[Note "1: wide ranging, semi-forcing"]
+[Play "S"]
+C6 CJ CA C5 
+C9 C4 CK H8 
+H4 H5 H6 HA 
+S2 S6 H3 HK 
+S4 S8 H7 HQ 
+S5 D3 HT HJ 
+SA S9 SJ S3 
+DA D9 D2 D7 
+D5 -  -  -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "4"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K9.953.KQJ542.J3 AQJT863.A.8.AK94 7.JT874.A76.QT82 542.KQ62.T93.765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "72785117836b6586b658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  2
+N  H  7
+N  D  8
+N  C  5
+S NT  1
+S  S  1
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S 11
+E  H  6
+E  D  5
+E  C  8
+W NT  6
+W  S 11
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,271,192,51,140,66,89,33,160,34,46,17,43,29,16,8,18,33,121,17,20,13,11,24,22,8,16,9,41,11,26,30
+[Auction "W"]
+Pass 1D =1= X XX =2= 
+1H 2D 4S Pass 
+Pass Pass 
+[Note "1: 2+D"]
+[Note "2: 4+ hearts"]
+[Play "S"]
+DA D3 D2 D8 
+D7 D9 DJ S8 
+S7 S2 S9 SA 
+H4 H2 H3 HA 
+C2 S4 SK SQ 
+-  -  CJ -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "4"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K9.953.KQJ542.J3 AQJT863.A.8.AK94 7.JT874.A76.QT82 542.KQ62.T93.765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "72785117836b6586b658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  2
+N  H  7
+N  D  8
+N  C  5
+S NT  1
+S  S  1
+S  H  7
+S  D  8
+S  C  3
+E NT  6
+E  S 11
+E  H  6
+E  D  5
+E  C  8
+W NT  6
+W  S 11
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,59,99,258,66,53,247,64,108,19,85,127,29,14,38,81,30,8,23,90,28,7,112
+[Auction "W"]
+Pass 1D 4S Pass 
+Pass Pass 
+[Play "S"]
+C2 C7 CJ CA 
+S7 S2 S9 SA 
+H4 H2 H3 HA 
+H7 S4 SK SJ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "5"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K764.AJT5.Q98.T3 932.64.T762.K965 QJ.KQ873.KJ43.84 AT85.92.A5.AQJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "66985669857745877458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  9
+N  D  8
+N  C  5
+S NT  6
+S  S  6
+S  H  9
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,109,19,46,88,392,61,127,69,100,24,81,38,35,18,70,78,21,90,67,41,9,16,33,33,19,51,158,50,20,28,48,69,15,15,25,18,15,28,280,30,18,19,23,43,7,22,9,17,7,20,13,17,7,21
+[Auction "N"]
+Pass Pass 1H X 
+XX Pass Pass 2C 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+H2 H5 H6 H8 
+H9 HT H4 H3 
+DA D8 D7 DK 
+D5 D9 DT DJ 
+C2 DQ D2 D3 
+SA S4 S2 SQ 
+S5 S6 S9 SJ 
+C7 HJ D6 D4 
+S8 SK S3 C4 
+CJ C3 C9 C8 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "5"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K764.AJT5.Q98.T3 932.64.T762.K965 QJ.KQ873.KJ43.84 AT85.92.A5.AQJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "66985669857745877458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  9
+N  D  8
+N  C  5
+S NT  6
+S  S  6
+S  H  9
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,93,17,54,32,367,57,59,82,83,22,146,221,18,14,65,21,22,25,46,18,9,26,336,30,59,17,16,46,8,143,25,12,9,32
+[Auction "N"]
+Pass Pass 1H X 
+2NT =1= Pass 3H Pass 
+Pass Pass 
+[Note "1: good 4-card raise"]
+[Play "W"]
+H9 HA H4 H7 
+H2 HJ H6 H3 
+SA S4 S2 SQ 
+S5 S6 S3 SJ 
+C7 HT C5 H8 
+ST SK S9 C4 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "6"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT9.KT8632.AJT.2 74.AJ95.K5.KJ954 AK.Q74.Q9874.QT6 J86532..632.A873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "75984759945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  8
+N  C  4
+S NT  7
+S  S  5
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,322,66,39,330,59,45,64,41,81,22,297,144,367,26,175,481,30,18,28,52,23,379,45,13,41,548,50,18,15,72,42,17,60,50,49,21,45
+[Auction "E"]
+1NT =1= Pass 2H =2= 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2:  * t fr [0:12]"]
+[Play "E"]
+S7 SA S5 S9 
+HA H4 C8 HK 
+S4 SK S2 ST 
+DK DQ D2 DT 
+C4 CT CA C2 
+C5 C6 C7 H3 
+H9 HQ S3 H2 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "6"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT9.KT8632.AJT.2 74.AJ95.K5.KJ954 AK.Q74.Q9874.QT6 J86532..632.A873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "75984759945844958449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  8
+N  C  4
+S NT  7
+S  S  5
+S  H  9
+S  D  9
+S  C  4
+E NT  5
+E  S  8
+E  H  4
+E  D  4
+E  C  9
+W NT  5
+W  S  8
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,103,61,254,274,188,243,172,95,57,31,57,537,22,30,37,26,16,48,49,60,17,116,26,48,19,13,21,18,47,178,26,7,24,25,24,11,44,431,41,45,42,367,24,13,82,176,46,9,54,491,20,25,29,52,27,9,11
+[Auction "E"]
+1C 1D 2H =1= X =2= 
+2S 3H Pass 4H 
+Pass Pass 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1: spades and 4+hp"]
+[Note "2:  * probably a heart suit [0:14]"]
+[Play "S"]
+SK S2 S9 S4 
+D7 D2 DA D5 
+D4 D3 DJ DK 
+H4 D6 H3 HA 
+SA S3 ST S7 
+HQ S5 H2 H5 
+D8 S6 SQ C4 
+H7 S8 HK H9 
+C6 C3 C2 CK 
+CT CA H6 C5 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "7"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9.876.K5432.KJ86 KT5.AQT3.86.Q754 AQ3.J92.AT97.T93 J87642.K54.QJ.A2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "75687756875874558745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  5
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  8
+E  H  7
+E  D  4
+E  C  5
+W NT  5
+W  S  8
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,2,1,65,90,339,86,309,102,30,70,23,39,40,118,650,18,29,70,75,35,33,42,25,31,18,31,29,42,18,518,64,18,11,41,21,8,22,9
+[Auction "S"]
+Pass 1S 2C =1= X 
+2D 2S Pass 3S 
+Pass Pass Pass 
+[Note "1: 44+ minors 6+"]
+[Play "N"]
+S9 SK SA S2 
+D2 S5 SQ S7 
+D3 D6 DA DJ 
+DK D8 DT DQ 
+D4 ST D9 C2 
+H6 H3 H9 HK 
+-  -  -  SJ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "7"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9.876.K5432.KJ86 KT5.AQT3.86.Q754 AQ3.J92.AT97.T93 J87642.K54.QJ.A2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "75687756875874558745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  5
+S  H  6
+S  D  8
+S  C  7
+E NT  5
+E  S  8
+E  H  7
+E  D  4
+E  C  5
+W NT  5
+W  S  8
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,0,3,68,94,41,332,71,147,123,185,41,262,39,187,55,23,36,225,116,45,47,138,31,10,15,18,28,373,44,242,54,29,15,333,25,20,23,195,112,26,26,14,8,49
+[Auction "S"]
+Pass 1S Pass 2C =1= 
+Pass 2D =2= Pass 2S =3= 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: NAT OR SP SUPP 3CARD 10 - 11"]
+[Note "2: ok opening"]
+[Note "3: 3SP 10 11"]
+[Play "N"]
+C6 CQ C3 C2 
+C8 C4 C9 CA 
+S9 ST SQ S4 
+DK D6 DT DJ 
+CK C5 CT S2 
+D5 SK SA S6 
+D3 -  DA DQ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "8"]
+[West "Rune Hauge#111671"]
+[North "Dominic Cooke#495058"]
+[East "Jan Petter Svendsen#403761"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q982.Q72.KT752.5 KJ.T43.864.KJ976 7653.AKJ.3.AQT32 AT4.9865.AQJ9.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "79777787776466564665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  7
+S  S  8
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  5
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,132,44,51,88,55,59,49,34,24,71,149,24,21,19,370,79,12,383,20,80,26,89,87,9,7,50,21,8,8,18,7,8,8,19,16,19,10,13,15,8,24,80,16,8,9,20,11,18,9,54,22,55,12,11,7,9,7,9,10,5,8
+[Auction "W"]
+1D Pass 1NT X =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: takeout"]
+[Play "E"]
+D4 D3 DA D2 
+SJ S3 S4 S2 
+SK S5 ST S8 
+H3 HA H5 H2 
+H4 HK H6 H7 
+HT HJ H8 HQ 
+D6 C2 D9 DK 
+D8 S6 DQ D5 
+C6 CA C4 C5 
+C7 CT C8 S9 
+C9 S7 DJ DT 
+CJ C3 H9 SQ 
+CK CQ SA D7 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "8"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Burn#59997"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q982.Q72.KT752.5 KJ.T43.864.KJ976 7653.AKJ.3.AQT32 AT4.9865.AQJ9.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "79777787776466564665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  7
+N  C  7
+S NT  7
+S  S  8
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  6
+E  C  5
+W NT  6
+W  S  4
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,217,122,68,288,47,552,65,78,30,83,328,49,14,20,29,35,10,206,103,24,18,18,51,39,17,49,27,14,13,33,32,14,15,56,11,12,26,127,1863,83,13,9,30,74,48,24,49,9,12,17,16,20,13,11,37,12,8,13,18,10,7
+[Auction "W"]
+1NT Pass Pass 2D =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: spades and another"]
+[Play "E"]
+C7 CA C8 C5 
+D4 D3 DA D7 
+SJ S3 S4 S2 
+H3 HA H6 H2 
+C6 C2 C4 S8 
+D6 C3 D9 DK 
+D8 S5 DJ D5 
+C9 CT SA H7 
+SK CQ DQ D2 
+H4 HK H5 HQ 
+CJ S6 ST SQ 
+CK S7 H8 S9 
+HT HJ H9 DT 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "9"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJT7.K76.A72.974 9543.A543.T43.QT K8.QJT82.965.KJ8 Q62.9.KQJ8.A6532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "88a6788a674426644266"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H 10
+S  D  6
+S  C  7
+E NT  4
+E  S  4
+E  H  2
+E  D  6
+E  C  6
+W NT  4
+W  S  4
+W  H  2
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,1,3,140,70,198,57,50,83,106,177,186,85,33,41,71,28,22,22,73,30,10,740,66,36,76,18,584,32,15,11,179,176,89,19,20,21,10,10,10,6,32,8,17,21,45,9,30,21
+[Auction "N"]
+1NT =1= Pass 2D =2= X 
+2H Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: tfr"]
+[Play "E"]
+D3 D5 DJ DA 
+H4 HT H9 H6 
+HA H2 C5 HK 
+DT D6 D8 D7 
+D4 D9 DK D2 
+S5 C8 DQ H7 
+S3 SK S6 S7 
+H3 HQ S2 C4 
+H5 HJ C2 C7 
+-  S8 SQ -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "9"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJT7.K76.A72.974 9543.A543.T43.QT K8.QJT82.965.KJ8 Q62.9.KQJ8.A6532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "88a6788a674426644266"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H 10
+S  D  6
+S  C  7
+E NT  4
+E  S  4
+E  H  2
+E  D  6
+E  C  6
+W NT  4
+W  S  4
+W  H  2
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 12,2,0,472,49,266,65,60,36,41,30,48,24,43,25,45,408,188,429,37,24,49,150,29,27,32,283,48,76,44,361,44,26,75,35,18,14,25,10,18,17,306,24,27,34,46,91,15,13,19,17,12,8,27,8,10,13,36,19,26,7,58,12,8,6,12,6,9,4
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass X 
+Pass 2S 3H Pass 
+Pass Pass 
+[Note "1: 10-12"]
+[Note "2: H"]
+[Play "E"]
+H3 H2 H9 HK 
+HA H8 C6 H6 
+H4 HT C2 H7 
+H5 HJ C3 D7 
+S5 SK S2 S7 
+S3 S8 S6 SJ 
+CT CJ CA C4 
+D4 D5 DK DA 
+S4 D6 SQ SA 
+S9 D9 D8 ST 
+CQ CK C5 C7 
+D3 HQ DJ D2 
+DT C8 DQ C9 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "10"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT.JT6.AKQ42.Q86 J543.Q84.98.JT72 A986.952.T5.AK93 Q72.AK73.J763.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9889a9889a4544345443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C 10
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C 10
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  3
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,105,63,107,48,17,45,27,34,54,69,20,89,20,326,97,48,32,46,65,10,16,48,58,11,7,11,16,10,47,14,43,39,9,18,6,11,9,19,109,9,8,14,24,7,6,8,13,9,10
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1S Pass 1NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * 15-17 [0:22]"]
+[Play "E"]
+C2 C3 C5 C8 
+C7 C9 C4 CQ 
+D9 D5 D3 DA 
+CT CK H7 C6 
+CJ CA S7 H6 
+D8 DT D6 DQ 
+H4 H2 D7 DK 
+S3 S6 S2 SK 
+S4 SA SQ ST 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "10"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT.JT6.AKQ42.Q86 J543.Q84.98.JT72 A986.952.T5.AK93 Q72.AK73.J763.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9889a9889a4544345443"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C 10
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C 10
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  3
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,79,33,36,207,60,45,28,45,50,35,32,38,37,32,223,109,234,93,25,13,30,16,14,16,8,45,92,22,21,223,40,14,23,118,29,19,8,38,17,22,7,28,11,14,9,18,14,19,12,34,19,7,9,13
+[Auction "E"]
+Pass Pass Pass 1NT =1= 
+Pass 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 14 16"]
+[Play "E"]
+S3 S6 SQ SK 
+D9 D5 D3 DA 
+D8 DT D6 DK 
+H4 H2 D7 DQ 
+S4 S8 S7 ST 
+C2 CA C4 C6 
+S5 SA S2 D4 
+C7 C3 C5 CQ 
+CT CK H3 C8 
+CJ C9 H7 D2 
+SJ -  -  -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "11"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q3.J3.T9.AKT7543 AK85.KQT2.AKQ3.6 J972.A94.J74.Q98 T64.8765.8652.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "753387533858aa558aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  3
+N  D  3
+N  C  8
+S NT  7
+S  S  5
+S  H  3
+S  D  3
+S  C  8
+E NT  5
+E  S  8
+E  H 10
+E  D 10
+E  C  5
+W NT  5
+W  S  8
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,80,42,44,100,210,92,29,372,107,28,20,19,33,33,45,30,9,74,47,27,11,142,74,10,9,39,28,9,25,157,39,14,18,163,36,126,31,61,40,11,18,72,23,13,12,80,24,17,11,68,44,58,14
+[Auction "S"]
+Pass Pass 3C X 
+Pass 3H Pass 4C 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+CK C6 C8 CJ 
+DT DA D4 D6 
+H3 HK HA H5 
+HJ HQ H4 H6 
+C7 HT H9 H7 
+SQ S5 S2 S6 
+S3 SA S7 S4 
+C3 SK S9 ST 
+C4 S8 SJ H8 
+D9 DK D7 D2 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "11"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:Q3.J3.T9.AKT7543 AK85.KQT2.AKQ3.6 J972.A94.J74.Q98 T64.8765.8652.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "753387533858aa558aa5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  3
+N  D  3
+N  C  8
+S NT  7
+S  S  5
+S  H  3
+S  D  3
+S  C  8
+E NT  5
+E  S  8
+E  H 10
+E  D 10
+E  C  5
+W NT  5
+W  S  8
+W  H 10
+W  D 10
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 22,2,0,80,43,95,45,61,91,47,570,36,508,55,42,35,16,42,28,130,12,11,177,31,13,22,56,24,12,24,411,19,9,34,33,23,73,18,269,30,8,24,108,17,8,17,30,21,9,30,28,26,18,8,15,24,18,7
+[Auction "S"]
+Pass Pass 3C X 
+Pass 3H Pass 4NT =1= 
+Pass 5D =2= Pass 5H 
+Pass Pass Pass 
+[Note "1:  * RKCB for hearts [0:10]"]
+[Note "2: 0 or 3"]
+[Play "N"]
+CA C6 C8 C2 
+DT DA D4 D5 
+H3 HK H4 H5 
+HJ HQ HA H6 
+C3 HT H9 H7 
+S3 SA S7 S4 
+SQ SK S2 S6 
+C4 S5 SJ ST 
+C5 S8 S9 H8 
+D9 DK D7 D2 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "12"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ76.J832.AQ5.75 J54.976.T7.KJT42 KT8.AT5.KJ982.93 932.KQ4.643.AQ86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "8a9a68a9a63343733437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D 10
+N  C  6
+S NT  8
+S  S 10
+S  H  9
+S  D 10
+S  C  6
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  7
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,1,3,212,105,36,429,59,49,26,44,33,47,22,59,28,38,54,359,43,56,16,10,28,122,16,99,31,24,12,72,14,10,14,284,22,9,13,12,24,8,10
+[Auction "W"]
+Pass 1NT =1= Pass 2C 
+Pass 2H Pass 2NT 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+CJ C3 CA C5 
+CT C9 C6 C7 
+CK H5 C8 H2 
+C2 HT CQ H3 
+H6 HA H4 H8 
+D7 D2 D3 DA 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "12"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ76.J832.AQ5.75 J54.976.T7.KJT42 KT8.AT5.KJ982.93 932.KQ4.643.AQ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "8a9a68a9a63343733437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D 10
+N  C  6
+S NT  8
+S  S 10
+S  H  9
+S  D 10
+S  C  6
+E NT  3
+E  S  3
+E  H  4
+E  D  3
+E  C  7
+W NT  3
+W  S  3
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,2,0,54,195,46,303,57,502,72,84,38,67,34,195,32,52,22,230,119,26,32,13,22,460,42,8,24,52,26,13,95,10,20,32,135,16,8,23
+[Auction "W"]
+Pass 1D =1= Pass 2D =2= 
+Pass 2H Pass 2S 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+ D"]
+[Note "2: 10+, 4+D, usually no 4cM"]
+[Play "W"]
+C6 C5 CK C3 
+CQ C7 CJ C9 
+CA H2 C2 H5 
+C8 H3 CT HT 
+H4 S6 C4 S8 
+-  -  H7 -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "13"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.QT942.A84.J62 A32.75.QJ96.AQ74 J8654.AJ8.KT3.T5 Q97.K63.752.K983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "67754677546647966579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  4
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  9
+W NT  6
+W  S  6
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,1,3,46,52,76,223,158,72,239,47,57,579,35,207,27,16,37,352,333,47,18,103,34,11,10,8,45,63,10,64,16,136,33,251,18,41,19,58,48,11,10,10,14,61,24,120,27,8,14,43,22,9,36,32,18,15,16,8
+[Auction "N"]
+Pass 1C Pass 1D =1= 
+1H Pass 2H Pass 
+Pass X Pass 3C 
+Pass Pass Pass 
+[Note "1: no 5card mj"]
+[Play "S"]
+C5 C3 CJ CQ 
+CT C8 C6 CA 
+S4 C9 C2 C4 
+DK D2 D4 DQ 
+HA H3 HT H5 
+HJ HK H4 H7 
+D3 D5 D8 DJ 
+DT D7 DA D6 
+H8 H6 HQ C7 
+S5 SQ SK S2 
+-  -  ST -  
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "13"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.QT942.A84.J62 A32.75.QJ96.AQ74 J8654.AJ8.KT3.T5 Q97.K63.752.K983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "67754677546647966579"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  5
+N  C  4
+S NT  6
+S  S  7
+S  H  7
+S  D  5
+S  C  4
+E NT  6
+E  S  6
+E  H  4
+E  D  7
+E  C  9
+W NT  6
+W  S  6
+W  H  5
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,218,34,47,38,93,18,33,81,131,162,38,17,87,38,8,31,51,18,7,28,63,7,11,36,582,26,30,42,25,9,124,42,21,16,21,14,44,27,11,11,16,9,28
+[Auction "N"]
+Pass 1D Pass 1NT 
+Pass Pass Pass 
+[Play "N"]
+HT H5 HA H3 
+H2 H7 HJ HK 
+DA D6 D3 D5 
+HQ C4 H8 H6 
+H9 D9 C5 D2 
+H4 S2 S5 D7 
+D8 DJ DK S7 
+D4 DQ DT S9 
+C2 CA CT C3 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "14"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT.T97643.J93.K6 4.AKQJ52.Q76.AT5 AJ86532..A54.Q87 K97.8.KT82.J9432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "58543485436588a65889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  4
+N  C  3
+S NT  4
+S  S  8
+S  H  5
+S  D  4
+S  C  3
+E NT  6
+E  S  5
+E  H  8
+E  D  8
+E  C 10
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,2,0,134,39,115,73,54,75,18,47,19,108,33,8,14,289,28,24,40,73,15,9,306,22,9,17,8,25,11,7,266,56,11,13,17,19,24,23,14,26,11,28,72,18,10,10,17,23,21,8,147,16,10,10,23,16,8,6,12,9,6,9
+[Auction "E"]
+1H 1S X Pass 
+3H Pass Pass Pass 
+[Play "S"]
+SA S7 ST S4 
+S6 SK SQ C5 
+S3 H8 HT HK 
+C7 C2 C6 CA 
+CQ C3 CK CT 
+S2 C4 H9 HA 
+DA D2 D3 D6 
+SJ S9 D9 H2 
+D5 DK DJ D7 
+C8 CJ H7 HJ 
+D4 D8 H3 DQ 
+S5 C9 H4 H5 
+S8 DT H6 HQ 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "14"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT.T97643.J93.K6 4.AKQJ52.Q76.AT5 AJ86532..A54.Q87 K97.8.KT82.J9432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "58543485436588a65889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  5
+N  D  4
+N  C  3
+S NT  4
+S  S  8
+S  H  5
+S  D  4
+S  C  3
+E NT  6
+E  S  5
+E  H  8
+E  D  8
+E  C 10
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,1,3,86,419,67,46,357,77,145,26,118,46,21,274,22,41,21,29,45,20,19,54,590,25,241,16,27,10,36,463,56,8,10,27,17,72,107,187,41,277,24,24,18,116,11,303,36,13,20,65,42,30,34,16,11,16,7,11,39,7,6,6,16,7,7,7,14,6,8
+[Auction "E"]
+1H 1S X Pass 
+3H 3S Pass Pass 
+4H Pass Pass X 
+Pass Pass Pass 
+[Play "S"]
+SA S7 ST S4 
+S8 SK SQ C5 
+S2 H8 H9 HA 
+DA D2 D3 DQ 
+SJ S9 C6 H2 
+D5 DT DJ D7 
+S3 C2 H6 HJ 
+D4 DK D9 D6 
+S5 D8 H7 CT 
+C7 C3 CK CA 
+C8 C4 H3 HK 
+S6 C9 H4 HQ 
+CQ CJ HT H5 
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "15"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q86.Q65.AKQT8.Q3 AKT2.KJ2.4.J8542 975.A7.J96532.T9 J43.T9843.7.AK76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "42271422716bb6b6bb6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  7
+N  C  1
+S NT  4
+S  S  2
+S  H  2
+S  D  7
+S  C  1
+E NT  6
+E  S 11
+E  H 11
+E  D  6
+E  C 11
+W NT  6
+W  S 11
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 11,2,0,44,30,183,98,298,48,159,88,30,36,155,119,25,10,47,16,14,10,297,19,11,17,24,18,9,9,189,17,10,78,118,19,18,64,10,31,11
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+3C =2= Pass 3D Pass 
+Pass Pass 
+[Note "1: 14 16"]
+[Note "2: D"]
+[Play "E"]
+SA S5 S4 S8 
+SK S7 S3 S6 
+S2 S9 SJ SQ 
+D4 D2 D7 DA 
+C5 DJ H4 DT 
+C4 CT CK C3 
+HK -  HT HQ 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "15"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q86.Q65.AKQT8.Q3 AKT2.KJ2.4.J8542 975.A7.J96532.T9 J43.T9843.7.AK76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "42271422716bb6b6bb6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  7
+N  C  1
+S NT  4
+S  S  2
+S  H  2
+S  D  7
+S  C  1
+E NT  6
+E  S 11
+E  H 11
+E  D  6
+E  C 11
+W NT  6
+W  S 11
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,119,65,49,58,462,77,39,103,158,29,68,49,47,12,89,14,42,22,27,20,10,22,20,316,43,34,32,15,9,20,33,9,17,12,61,8,26
+[Auction "S"]
+Pass Pass 1D X 
+3D 4H Pass Pass 
+Pass 
+[Play "N"]
+DK D4 D5 D7 
+DA H2 D2 S3 
+C3 C2 CT CA 
+H5 HK HA H4 
+CQ C4 C9 CK 
+HQ HJ H7 H3 
+DQ S2 D3 H8 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "16"]
+[West "Richard Granville#85715"]
+[North "Robert Plumley#33074"]
+[East "Dominic Cooke#495058"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K975.J86.T964.T7 A43.AKQT2.32.A64 Q62.943.KQ8.8532 JT8.75.AJ75.KQJ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1412114121c9cacc9cac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  1
+N  D  2
+N  C  1
+S NT  1
+S  S  4
+S  H  1
+S  D  2
+S  C  1
+E NT 12
+E  S  9
+E  H 12
+E  D 10
+E  C 12
+W NT 12
+W  S  9
+W  H 12
+W  D 10
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,0,83,31,90,108,36,22,145,23,32,27,782,23,196,104,71,140,16,22,21,33,34,20,135,19,9,26,9,18,9,11,18,18,8,9
+[Auction "W"]
+1D Pass 1H Pass 
+1NT Pass 2D =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: gf checkback"]
+[Play "N"]
+S5 S3 SQ S8 
+SK SA S6 SJ 
+H6 HA H3 H5 
+H8 HK H9 H7 
+HJ HQ H4 D5 
+*
+
+[Event "18 Jun Granville vs Plumley start 5pm"]
+[Site "RealBridge"]
+[Date "2025.06.18"]
+[Board "16"]
+[West "Rune Hauge#111671"]
+[North "David Burn#59997"]
+[East "Jan Petter Svendsen#403761"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K975.J86.T964.T7 A43.AKQT2.32.A64 Q62.943.KQ8.8532 JT8.75.AJ75.KQJ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Granville team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1412114121c9cacc9cac"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  1
+N  D  2
+N  C  1
+S NT  1
+S  S  4
+S  H  1
+S  D  2
+S  C  1
+E NT 12
+E  S  9
+E  H 12
+E  D 10
+E  C 12
+W NT 12
+W  S  9
+W  H 12
+W  D 10
+W  C 12
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,1,3,268,33,111,105,54,47,339,108,184,37,687,42,196,24,14,30,11,73,42,27,234,10,25,41,23,25,13,11,26,20,103,11,37,101,61,27,57,117,15,12,19,27,20,9,10,10,11,9,15,22,11,8,21,10,31,50,39,12,25,22,9,13,16,9,9,18,7,9
+[Auction "W"]
+1C Pass 1H =1= Pass 
+1S Pass 2D =2= Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: 5"]
+[Note "2: GF XYZ"]
+[Play "N"]
+D4 D2 DQ DA 
+H6 HA H9 H5 
+H8 HK H4 H7 
+HJ HQ H3 S8 
+DT HT C2 D7 
+S5 H2 D8 D5 
+C7 CA C3 C9 
+CT C4 C5 CK 
+S7 C6 C8 CQ 
+D6 D3 S2 CJ 
+S9 SA S6 SJ 
+SK S3 SQ ST 
+D9 S4 DK DJ 

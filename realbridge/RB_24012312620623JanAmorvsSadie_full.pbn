@@ -1,0 +1,3005 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "1"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J864.Q3.AKJ9.543 KT95.KT8.654.J92 Q2.J94.QT82.AK76 A73.A7652.73.QT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "76688766885674556745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  5
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 9,2,1,1611,188,64,89,88,33,212,242,237,33,31,36,12,51,14,16,10,17,37,19,15,119,162,98,19,17,350,22,9,19,10,16,9,12,14,26,10,36,27,18,13,9,10,18,14,9
+[Auction "N"]
+1C =1= Pass 2NT Pass 
+Pass Pass 
+[Play "W"]
+H2 H3 HT HJ 
+D3 DA D6 D2 
+D7 DK D4 D8 
+S7 D9 D5 DT 
+C8 DJ S9 DQ 
+CT C3 C2 CA 
+CQ C4 C9 CK 
+H5 HQ HK H4 
+S3 C5 CJ C6 
+HA S4 H8 H9 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "1"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J864.Q3.AKJ9.543 KT95.KT8.654.J92 Q2.J94.QT82.AK76 A73.A7652.73.QT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "76688766885674556745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  6
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  7
+E  D  4
+E  C  5
+W NT  5
+W  S  6
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 9,0,3,826,69,352,66,45,18,38,141,151,11,20,805,23,104,69,22,52,24,163,68,36,20,185,276,32,51,333,27,29,13,306,24,10,73,11,37,31,30,84,35,13,10,30,19,15,8,48,10,15,10,13,7,10,7
+[Auction "N"]
+1NT Pass 2C Pass 
+2S Pass 2NT Pass 
+Pass Pass 
+[Play "E"]
+D5 D2 D7 DK 
+C2 C6 C8 C3 
+HK H4 H2 H3 
+C9 CA CT C4 
+D4 D8 D3 DJ 
+H8 H9 HA HQ 
+HT HJ H7 S4 
+D6 DQ S3 D9 
+S5 DT S7 DA 
+CJ CK CQ C5 
+S9 C7 H5 S6 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "2"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ4.T6.843.Q9865 976.KQJ753.K76.J A82.2.JT92.KT742 KT53.A984.AQ5.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2225722257aab86aab86"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  5
+N  C  7
+S NT  2
+S  S  2
+S  H  2
+S  D  5
+S  C  7
+E NT 10
+E  S 10
+E  H 11
+E  D  8
+E  C  6
+W NT 10
+W  S 10
+W  H 11
+W  D  8
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,257,205,33,197,57,42,48,51,17,188,339,141,26,11,190,40,21,12,39,31,8,30,42,25,7,17,43,19,9,19,9,21,19,10,10,11,7,9,21,11,15,33,134,24,24,18,9,32
+[Auction "E"]
+2D =1= Pass 2NT =2= Pass 
+3S =3= Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+C6 CJ CK CA 
+H6 HK H2 H4 
+HT H3 C2 HA 
+C5 H5 C4 C3 
+D4 D6 D2 DQ 
+D3 D7 D9 DA 
+D8 DK DT D5 
+SJ S6 S8 ST 
+SQ S7 SA S3 
+-  -  S2 SK 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "2"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ4.T6.843.Q9865 976.KQJ753.K76.J A82.2.JT92.KT742 KT53.A984.AQ5.A3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2225722257aab86aab86"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  5
+N  C  7
+S NT  2
+S  S  2
+S  H  2
+S  D  5
+S  C  7
+E NT 10
+E  S 10
+E  H 11
+E  D  8
+E  C  6
+W NT 10
+W  S 10
+W  H 11
+W  D  8
+W  C  6
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,102,109,381,95,18,12,185,178,42,22,87,31,13,12,56,116,11,49,24,22,7,6,15,10,9,12,11,21,7,14,12,22,12,18,11,11,50,24,49,17,20,12,46
+[Auction "E"]
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+DJ D5 D3 DK 
+H2 H4 H6 HK 
+C2 HA HT H3 
+D2 DQ D4 D6 
+D9 DA D8 D7 
+C4 CA C5 CJ 
+C7 C3 C6 H7 
+S2 S3 SJ S6 
+SA S5 S4 S7 
+S8 -  -  -  
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "3"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K9.AKJ94.KJ9.KJ6 Q654.82.532.AQT5 T732.QT6.T764.72 AJ8.753.AQ8.9843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "7"]
+[Score "NS 80"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65875658756744867548"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  4
+E  D  4
+E  C  8
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 2,0,3,78,67,51,30,58,192,36,117,14,20,463,22,21,22,795,26,10,17,31,18,53,13,289,28,11,64,81,18,13,18,101,17,15,9,16,24,14,10,35,16,9,14,27,25,20,13,8,17,8,27,24,15,9,9,5,13,5,8
+[Auction "S"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "E"]
+S4 S2 SA S9 
+S5 S3 S8 SK 
+H2 H6 H5 HA 
+H8 HT H3 H4 
+D3 HQ H7 H9 
+D2 D4 D8 DJ 
+D5 D6 DA DK 
+S6 S7 SJ HJ 
+C5 D7 DQ D9 
+CQ C2 C9 CJ 
+SQ ST C3 HK 
+CT C7 C4 C6 
+CA DT C8 CK 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "3"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K9.AKJ94.KJ9.KJ6 Q654.82.532.AQT5 T732.QT6.T764.72 AJ8.753.AQ8.9843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65875658756744867548"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  7
+E  H  4
+E  D  4
+E  C  8
+W NT  6
+W  S  7
+W  H  5
+W  D  4
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,61,128,313,409,40,18,362,59,18,27,141,66,53,18,147,72,26,27,720,41,7,29,9,19,25,37,21,209,11,14,12,22,16,27,106,28,11,9,21,32,13,182,27,19,8,7,296,29,40,16
+[Auction "S"]
+Pass 1D =1= X 1NT 
+Pass Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+D3 D4 DA D9 
+D5 D6 DQ DK 
+H2 HQ H7 H4 
+CA C2 C3 CK 
+H8 HT H5 H9 
+S4 S2 S8 SK 
+D2 D7 D8 DJ 
+CQ C7 C9 CJ 
+S5 S3 SA S9 
+CT H6 C4 C6 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "4"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQJT3.KJ9.JT.AK9 K542.Q4.Q853.Q65 96.AT765.K964.82 87.832.A72.JT743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bbba8bbba82223522235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 10
+N  C  8
+S NT 11
+S  S 11
+S  H 11
+S  D 10
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  3
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,0,3,75,436,90,145,51,62,21,101,47,95,19,231,26,69,14,593,519,52,17,140,20,28,12,13,17,13,36,713,25,15,19,69,18,16,14
+[Auction "W"]
+Pass 2D Pass 2H =1= 
+Pass 2NT Pass 3D =2= 
+Pass 3H =3= Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S8 S3 SK S6 
+DA DT D3 D4 
+D7 DJ DQ DK 
+H3 HK H4 H5 
+H2 HJ HQ HA 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "4"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQJT3.KJ9.JT.AK9 K542.Q4.Q853.Q65 96.AT765.K964.82 87.832.A72.JT743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bbba8bbba82223522235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D 10
+N  C  8
+S NT 11
+S  S 11
+S  H 11
+S  D 10
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  3
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,2,1,75,139,105,65,27,158,25,72,26,304,25,129,31,250,37,52,51,148,23,695,656,30,14,459,30,11,83,18,20,23,27,72,17,9,54,24,28,16,46,21,19,48
+[Auction "W"]
+Pass 1C =1= Pass 1H 
+Pass 1S Pass 1NT 
+Pass 2S Pass 2NT 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+C3 CK C5 C2 
+H3 HK H4 H5 
+H2 HJ HQ HA 
+H8 H9 D8 HT 
+S7 S3 SK S9 
+DA -  D3 D4 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "5"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J75.KJT.976.AQJ7 6.75.AK8543.K864 AQ983.642.QJT.T9 KT42.AQ983.2.532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67555675555677656886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  5
+S  D  5
+S  C  5
+E NT  5
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  5
+W  S  6
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,0,3,139,39,257,69,25,23,144,47,165,17,30,438,20,18,27,10,31,10,25,9,33,13,36,90,21,11,85,25,8,17,524,17,33,28,103,20,12,8,9,14,8,10,16,15,12,11,147,14,10,8,11,16,7,5
+[Auction "N"]
+1NT Pass 2H Pass 
+2S 3D 3S Pass 
+Pass Pass 
+[Play "E"]
+DK DT D2 D6 
+DA DJ C5 D7 
+D3 DQ S2 D9 
+CK C9 C3 C7 
+C4 CT C2 CJ 
+S6 SQ SK S5 
+H5 H2 HA HT 
+H7 H4 H3 HK 
+D4 SA S4 S7 
+D5 S3 ST SJ 
+C6 H6 H8 CA 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "5"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J75.KJT.976.AQJ7 6.75.AK8543.K864 AQ983.642.QJT.T9 KT42.AQ983.2.532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67555675555677656886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  5
+N  C  5
+S NT  6
+S  S  7
+S  H  5
+S  D  5
+S  C  5
+E NT  5
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  5
+W  S  6
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,2,1,63,236,47,59,391,251,96,27,64,27,27,24,72,172,30,8,40,18,106,16,15,16,73,16,70,61,40,22,393,108,162,56,69,27,11,9,664,24,20,36,78,16,10,10,52,20,9,10
+[Auction "N"]
+Pass Pass 1S Pass 
+2C =1= 3D Pass Pass 
+3S Pass Pass Pass 
+[Play "W"]
+D2 D6 DK DJ 
+H3 D7 DA DT 
+S2 D9 D3 DQ 
+C5 C7 CK CT 
+C3 S5 D4 H2 
+C2 CA C4 C9 
+SK SJ S6 S3 
+HA HT H5 H4 
+H8 HK H7 H6 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "6"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5.J84.987642.742 KQT72.Q72.Q3.QJ8 AJ63.AKT3.A.AT93 984.965.KJT5.K65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "679996799a7634356343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  9
+N  C  9
+S NT  6
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  7
+E  S  6
+E  H  3
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,0,3,115,73,94,892,29,184,418,124,48,135,36,22,31,53,154,16,50,160,31,14,128,96,27,34,27,18,13,26,23,80,25,11,9,42,134,12,42,117,19,20,9,18,11,6,7,20,9,8,5,8,7,23,7,7,9,26,7
+[Auction "E"]
+Pass 2NT Pass Pass 
+Pass 
+[Play "W"]
+H6 H8 HQ HA 
+C6 C7 C8 C3 
+S8 S5 S7 S3 
+S9 D2 SQ S6 
+H5 HJ H7 H3 
+C5 C2 CQ C9 
+H9 H4 H2 HK 
+D5 D4 D3 HT 
+CK C4 CJ CA 
+S4 D6 DQ CT 
+DT D7 S2 DA 
+DJ D8 ST SA 
+DK D9 SK SJ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "6"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5.J84.987642.742 KQT72.Q72.Q3.QJ8 AJ63.AKT3.A.AT93 984.965.KJT5.K65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "679996799a7634356343"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  9
+N  C  9
+S NT  6
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  7
+E  S  6
+E  H  3
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  3
+W  D  4
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,297,99,71,89,26,183,258,295,30,27,221,167,46,28,169,30,30,10,343,28,334,64,264,30,27,13,576,20,13,30,83,32,16,15,12,18,7,26,21,31,19,24,9,63,10,130
+[Auction "E"]
+1S =1= Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+D8 D3 DA D5 
+C7 C8 CT CK 
+S5 SK S3 S4 
+D9 DQ H3 DK 
+D4 S2 S6 DJ 
+D2 S7 HT DT 
+C2 CJ CA C6 
+C4 CQ C3 C5 
+H8 H2 HK H6 
+D6 H7 C9 S8 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "7"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:87652.8.AQT6.A52 J4.QT52.J8732.K9 AQ3.AKJ643.5.Q64 KT9.97.K94.JT873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "aaa889ba883235432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D  8
+N  C  8
+S NT  9
+S  S 11
+S  H 10
+S  D  8
+S  C  8
+E NT  3
+E  S  2
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,112,63,173,64,122,28,280,65,260,30,530,35,248,31,155,35,251,30,55,32,15,26,692,211,51,29,35,85,81,15,16,19,19,20,40,18,18,36,18,20,35,9,80,24,10,18,13,57,10,15,19,126,12,10,48,36,23,22
+[Auction "S"]
+1H Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+2S =4= Pass 3D Pass 
+3S Pass 4C Pass 
+4D Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+CJ C2 CK C6 
+C7 CA C9 C4 
+SK S2 S4 SQ 
+C8 C5 SJ CQ 
+H7 H8 H5 HA 
+H9 S5 H2 H3 
+S9 S6 D7 SA 
+ST D6 HT HK 
+D9 DQ D2 D5 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "7"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:87652.8.AQT6.A52 J4.QT52.J8732.K9 AQ3.AKJ643.5.Q64 KT9.97.K94.JT873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "aaa889ba883235432354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D  8
+N  C  8
+S NT  9
+S  S 11
+S  H 10
+S  D  8
+S  C  8
+E NT  3
+E  S  2
+E  H  3
+E  D  5
+E  C  4
+W NT  3
+W  S  2
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,140,68,33,28,253,37,86,32,102,34,203,17,252,32,32,136,101,25,1289,24,33,16,53,20,27,13,92,18,23,32,984,2216,34,11,230,15,48,12,217,249,93,14,71,13,15,10,23,30,17,9,14,43,24,20,11,17,7,14,35,12,9,13,9,6,9,12
+[Auction "S"]
+1H Pass 1S Pass 
+2C Pass 2NT Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+D3 D5 DK DA 
+H2 HA H7 H8 
+H5 H3 H9 S2 
+S4 SQ SK S5 
+D2 C4 D9 DQ 
+SJ SA S9 S6 
+HT HK D4 D6 
+HQ H4 C3 S7 
+DJ S3 ST DT 
+C9 CQ CJ C2 
+D7 HJ C7 C5 
+CK C6 C8 CA 
+D8 H6 CT S8 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "8"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q6.K73.KT9764.AT J984.J542.AJ32.5 KT7.A986.5.QJ764 A532.QT.Q8.K9832"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "86898968983744547445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  8
+S NT  9
+S  S  6
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  7
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 11,2,1,191,105,94,149,34,235,40,18,29,64,623,36,14,89,21,97,37,380,40,15,19,53,37,8,17,27,27,17,29,39,27,158,36,22,38,12,22,16,32,9,9,25,22,10,14,35,24,10,9,190,24,20,12,16,15,7,6,20,13,7,7
+[Auction "W"]
+1S =1= 2D 2S X 
+Pass 3D Pass Pass 
+Pass 
+[Play "E"]
+S8 ST SA S6 
+S9 S7 S5 SQ 
+H2 HA HT H3 
+SJ SK S3 H7 
+C5 CQ C3 CT 
+DJ D5 D8 D9 
+S4 H6 S2 D4 
+DA C4 DQ DK 
+H4 H8 HQ HK 
+D3 C6 C8 DT 
+D2 C7 C2 D7 
+H5 CJ C9 CA 
+HJ H9 CK D6 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "8"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q6.K73.KT9764.AT J984.J542.AJ32.5 KT7.A986.5.QJ764 A532.QT.Q8.K9832"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "86898968983744547445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  8
+S NT  9
+S  S  6
+S  H  8
+S  D  9
+S  C  8
+E NT  3
+E  S  7
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  7
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 8,0,3,525,78,86,441,44,150,91,54,34,133,368,131,471,23,15,56,29,56,81,106,21,21,709,46,35,18,226,379,15,5878,23,25,35,29,159,18,12,35,53,38,23,165,67,785,45,13,72,22,16,11,62,13,14,14,35,12,18,10,23,8,52,7
+[Auction "W"]
+1C 1D X 1H 
+1S 2D 2S Pass 
+Pass Pass 
+[Play "N"]
+H3 H2 HA HT 
+SQ S4 S7 S2 
+S6 S8 ST SA 
+HK H4 H6 HQ 
+H7 HJ H8 C2 
+CT C5 C4 C9 
+D7 D2 D5 DQ 
+D9 DJ C6 D8 
+D4 DA C7 C3 
+D6 D3 CJ S3 
+CA S9 CQ C8 
+DT H5 H9 S5 
+DK SJ SK CK 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "9"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q7532.Q5.A5.J965 KJ9864.AJ7.9742. AT.83.K63.Q87432 .KT9642.QJT8.AKT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "352283522888ab588ab5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  2
+N  C  8
+S NT  3
+S  S  5
+S  H  2
+S  D  2
+S  C  8
+E NT  8
+E  S  8
+E  H 10
+E  D 11
+E  C  5
+W NT  8
+W  S  8
+W  H 10
+W  D 11
+W  C  5
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 17,2,1,98,32,74,180,94,483,95,27,14,173,234,19,20,35,27,16,15,132,20,49,34,240,301,37,29,315,40,20,33,198,31,16,25,54,45,29,15,20,16,21,13,9,75,7,8,19,17,10,7
+[Auction "N"]
+1S Pass 1NT 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+DA D2 D3 DT 
+D5 D4 DK DJ 
+H5 D7 D6 DQ 
+S3 SK SA H2 
+HQ HA H3 H9 
+S2 S4 ST H4 
+C5 H7 C2 CT 
+S5 S6 C3 H6 
+S7 HJ H8 HK 
+C6 S8 C4 HT 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "9"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q7532.Q5.A5.J965 KJ9864.AJ7.9742. AT.83.K63.Q87432 .KT9642.QJT8.AKT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "352283522888ab588ab5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  2
+N  D  2
+N  C  8
+S NT  3
+S  S  5
+S  H  2
+S  D  2
+S  C  8
+E NT  8
+E  S  8
+E  H 10
+E  D 11
+E  C  5
+W NT  8
+W  S  8
+W  H 10
+W  D 11
+W  C  5
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,0,3,82,44,101,1302,41,242,328,112,22,42,23,20,16,308,63,17,91,108,35,11,24,10,21,15,42,250,37,17,12,125,13,7,6,42,377,19,16,15,57,13,10
+[Auction "N"]
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+H8 H2 HQ HA 
+ST D8 S2 S8 
+C8 CA C6 H7 
+C2 CT C5 S4 
+SA H4 S3 S9 
+H3 HK H5 HJ 
+C3 CK C9 D2 
+C4 H6 S5 S6 
+DK DT D5 D4 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "10"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:76.64.A986.KQJT6 QJT82.Q97.KQ73.A A95.AK83.J4.8432 K43.JT52.T52.975"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85669856695766457664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D  6
+N  C  9
+S NT  8
+S  S  5
+S  H  6
+S  D  6
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  6
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,186,196,41,184,39,348,78,19,26,241,125,40,32,58,22,326,23,139,24,11,15,17,31,9,18,20,30,94
+[Auction "E"]
+2S =1= Pass Pass 3C 
+X 3NT Pass Pass 
+Pass 
+[Play "W"]
+S3 S6 ST S5 
+S4 S7 SQ S9 
+SK D6 SJ SA 
+C7 CK CA C3 
+C9 -  S8 H3 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "10"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:76.64.A986.KQJT6 QJT82.Q97.KQ73.A A95.AK83.J4.8432 K43.JT52.T52.975"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85669856695766457664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D  6
+N  C  9
+S NT  8
+S  S  5
+S  H  6
+S  D  6
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  6
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,82,101,181,289,76,325,36,597,19,19,43,68,252,16,12,83,16,107,11,97,14,10,230,30,14,11,12,18,66,33,24,13,17,37,16,37
+[Auction "E"]
+1S Pass Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S3 S6 ST S5 
+S4 S7 SQ S9 
+SK D6 S2 SA 
+C7 CT CA C2 
+C5 D8 SJ H3 
+D5 D9 S8 H8 
+-  -  D3 -  
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "11"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ3.8764.T9.K942 652.953.875.J863 874.AKJ.AJ62.Q75 AQT9.QT2.KQ43.AT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "88888889885545555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  8
+N  C  8
+S NT  8
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,2,1,119,218,1363,114,48,40,126,26,25,31,311,171,60,28,252,36,20,62,108,35,23,22,21,20,19,34,21,16,9,13,17,210,117,23,73,283,20,18,1076,71,16,21,123,23,32,10,17,20,8,9,8,14,8,19,15,13,8,9,7,11,8,11
+[Auction "S"]
+1NT X =1= 2C =2= Pass 
+2D Pass 2NT Pass 
+Pass Pass 
+[Play "W"]
+ST SJ S6 S4 
+DK D9 D8 D2 
+SQ SK S2 S7 
+DQ DT D5 D6 
+SA S3 S5 S8 
+S9 H4 H9 C5 
+D4 C2 D7 DJ 
+CA C4 C3 C7 
+CT C9 C6 CQ 
+H2 H6 H3 HA 
+D3 H7 H5 DA 
+HT H8 C8 HK 
+HQ CK CJ HJ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "11"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ3.8764.T9.K942 652.953.875.J863 874.AKJ.AJ62.Q75 AQT9.QT2.KQ43.AT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "88888889885545555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  8
+N  D  8
+N  C  8
+S NT  8
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,185,64,61,27,47,137,142,23,56,473,37,11,6,10,65,12,9,173,33,20,63,59,25,9,6,618,33,30,26,107,178,61,34,61,27,20,5,45,46,19,15,26,13,30,18,13,11,11,9,12,14,9,7,7,14,10,14
+[Auction "S"]
+1D 1NT Pass Pass 
+Pass 
+[Play "N"]
+DT D5 D2 DQ 
+S3 S2 S4 SA 
+SJ S5 S7 ST 
+D9 D7 D6 DK 
+SK S6 S8 SQ 
+C2 C3 CQ CA 
+C4 D8 C5 S9 
+CK C6 C7 CT 
+H8 H3 HA H2 
+C9 C8 DA D3 
+H4 H5 DJ D4 
+H6 H9 HK HT 
+H7 CJ HJ HQ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "12"]
+[West "John Hemington#"]
+[North "Graham Sadie#089654"]
+[East "John Amor#17126"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q974.9.K7642.QT3 AJT65.QJ642.J8.9 82.KT753.A95.K62 K3.A8.QT3.AJ8754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "64564645647987879878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  8
+E  D  7
+E  C  8
+W NT  7
+W  S  9
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 5,2,1,338,139,329,123,726,160,30,28,355,504,52,24,158,23,18,10,38,30,8,20,42,25,14,18,41,22,15,9,41,42,29,24
+[Auction "W"]
+2C =1= Pass Pass Pass 
+[Play "N"]
+D4 D8 DA D3 
+CQ C9 C2 CJ 
+DK DJ D5 DT 
+D2 H2 D9 DQ 
+C3 S5 C6 CA 
+CT H4 CK C7 
+H9 HQ H5 H8 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "12"]
+[West "Chris Duckworth#97170"]
+[North "Michael Collins#103463"]
+[East "Mike Graham#21682"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q974.9.K7642.QT3 AJT65.QJ642.J8.9 82.KT753.A95.K62 K3.A8.QT3.AJ8754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "64564645647987879878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  4
+E NT  7
+E  S  9
+E  H  8
+E  D  7
+E  C  8
+W NT  7
+W  S  9
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 5,0,3,286,45,29,28,24,32,23,532,269,278,32,29,163,59,32,46,314,22,14,12,57,22,56,9,246,28,5,9,1209,40,10,14,27,14,17,6
+[Auction "W"]
+1C Pass 1S Pass 
+2C Pass Pass Pass 
+[Play "N"]
+H9 HQ H3 H8 
+CT C9 C2 C4 
+D4 D8 DA D3 
+C3 H2 H5 HA 
+DK DJ D5 DQ 
+S4 S5 S8 SK 
+CQ H4 C6 CA 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "13"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQ53.987.873.54 987.K6.QJT65.Q73 J42.AJT54.2.JT96 T6.Q32.AK94.AK82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "5883458834754a8754a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  3
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  3
+S  C  4
+E NT  7
+E  S  5
+E  H  4
+E  D 10
+E  C  8
+W NT  7
+W  S  5
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 8,2,0,331,53,133,151,50,40,37,50,97,359,154,412,51,21,19,40,14,29,94,69,18,8,20,21,25,8,251,96,21,10
+[Auction "N"]
+Pass Pass Pass 1C 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+S7 S2 S6 SK 
+H6 H4 HQ H9 
+S8 S4 ST SA 
+HK HA H2 H8 
+S9 SJ C2 S3 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "13"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQ53.987.873.54 987.K6.QJT65.Q73 J42.AJT54.2.JT96 T6.Q32.AK94.AK82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "5883458834754a8754a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  3
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  3
+S  C  4
+E NT  7
+E  S  5
+E  H  4
+E  D 10
+E  C  8
+W NT  7
+W  S  5
+W  H  4
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 16,1,3,1288,51,14,90,53,38,89,244,65,38,50,28,28,24,23,43,85,47,9,23,10,40,12,52,13,10,158,24,41,11,13,55,19,8,20,125,23,13,49,259,35,9,18,9,26,12,57
+[Auction "N"]
+Pass Pass Pass 1D 
+1S 3D Pass 3S 
+X Pass Pass 4D 
+Pass Pass Pass 
+[Play "N"]
+SA S7 S4 S6 
+SK S8 S2 ST 
+SQ S9 SJ D4 
+D7 D5 D2 DA 
+D3 D6 H4 DK 
+D8 DT H5 D9 
+C4 C3 C9 CA 
+H9 HK HA H3 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "14"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:74.Q864.KQJ6.KQJ AK832.92.AT3.952 Q65.JT3.952.A864 JT9.AK75.874.T73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NTX"]
+[Result "7"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66877668775756557565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,2,0,187,113,150,124,189,33,278,51,146,37,10,85,38,11,30,118,188,29,19,15,37,8,16,35,35,19,12,72,126,51,247,107,20,47,8,31,16,10,7,26,16,9,19,23,32,12,7,7,12,10,7,8,10,9,8,6,10,8,8
+[Auction "E"]
+1NT Pass Pass X 
+Pass Pass Pass 
+[Play "S"]
+HJ HA H4 H2 
+SQ SJ S4 S2 
+HT HK H6 H9 
+S6 ST S7 S3 
+S5 S9 D6 SA 
+D9 H5 H8 SK 
+D5 H7 DJ S8 
+D2 D4 DQ DA 
+C4 D7 DK D3 
+H3 D8 HQ C2 
+C6 C3 CK C5 
+C8 C7 CQ C9 
+CA CT CJ DT 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "14"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:74.Q864.KQJ6.KQJ AK832.92.AT3.952 Q65.JT3.952.A864 JT9.AK75.874.T73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66877668775756557565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  7
+E  H  5
+E  D  6
+E  C  5
+W NT  5
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,1,3,80,28,119,81,28,264,59,38,20,16,138,198,81,13,121,25,22,37,624,23,22,28,130,28,21,24,13,115,24,15,83,31,8,18,17,12,3,105,18,22,37,17
+[Auction "E"]
+1S Pass 1NT X 
+Pass 2C 2S Pass 
+Pass Pass 
+[Play "S"]
+HJ HA H8 H2 
+SQ S9 S4 S2 
+D5 D4 DJ DA 
+H3 HK H4 H9 
+HT H5 H6 S8 
+S5 ST S7 SK 
+S6 SJ D6 S3 
+C4 H7 HQ SA 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "15"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J4.A543.974.AT72 AQ83.J972.QJ32.8 K52.KQT6.AK65.53 T976.8.T8.KQJ964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "85a9685a965734747347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  9
+N  C  6
+S NT  8
+S  S  5
+S  H 10
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,1,3,121,72,66,25,42,41,49,87,15,173,158,1081,13,15,72,17,14,18,21,29,58,9,811,32,39,12,10,26,66,34,114,12,8,7,9,10,10,8,33,15,149,23,15,15,8,6,39,18,16,12,52,15,74,17,11,24,11,13,14,6,7,5
+[Auction "S"]
+1NT Pass 2C =1= Pass 
+2H =2= Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+CK CA C8 C3 
+H8 H3 H9 HK 
+C6 HA H2 H6 
+S6 S4 SA S2 
+C4 H4 H7 HT 
+S7 SJ S3 SK 
+S9 H5 S8 S5 
+D8 D7 D2 DK 
+DT D4 D3 DA 
+C9 D9 DJ D5 
+CJ C2 DQ D6 
+ST C7 SQ HQ 
+CQ CT HJ C5 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "15"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J4.A543.974.AT72 AQ83.J972.QJ32.8 K52.KQT6.AK65.53 T976.8.T8.KQJ964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "85a9685a965734747347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 10
+N  D  9
+N  C  6
+S NT  8
+S  S  5
+S  H 10
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  7
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,2,0,134,65,44,50,44,29,32,90,28,32,412,488,41,18,150,30,9,16,13,31,24,73,1368,38,32,11,18,39,35,32,11,35,24,14,293,29,9,23,18,25,38,13,28,40,15,11,293,380,38,17,14,22,56,8,18,76,9,6,9,9,10,5
+[Auction "S"]
+1NT Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+CK CA C8 C3 
+H8 H3 H2 HK 
+S7 SJ SQ S2 
+D8 D4 D2 DA 
+C4 HA H7 H6 
+S6 S4 SA S5 
+DT D7 DQ DK 
+S9 D9 S3 SK 
+C6 H4 D3 D5 
+C9 C2 H9 C5 
+CJ H5 HJ HQ 
+CQ C7 S8 HT 
+ST CT DJ D6 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "16"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A962.J.Q3.AKQ975 K73.KT6.AT86.JT8 T84.Q873.KJ5.632 QJ5.A9542.9742.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78549785495588455884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  4
+S  C  9
+E NT  5
+E  S  5
+E  H  8
+E  D  8
+E  C  4
+W NT  5
+W  S  5
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,1,3,81,113,25,89,32,175,84,29,19,306,233,22,41,51,111,46,18,79,16,42,31,23,236,15,36,21,86,18,36,142,22,8,8
+[Auction "W"]
+Pass 1S =1= Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "W"]
+H4 HJ HK H7 
+H2 S2 HT H3 
+H9 S6 H6 H8 
+HA D3 CJ HQ 
+H5 S9 D6 S4 
+D7 DQ DA D5 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "16"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A962.J.Q3.AKQ975 K73.KT6.AT86.JT8 T84.Q873.KJ5.632 QJ5.A9542.9742.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78549785495588455884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  4
+S  C  9
+E NT  5
+E  S  5
+E  H  8
+E  D  8
+E  C  4
+W NT  5
+W  S  5
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,0,83,86,48,42,47,429,43,57,32,695,97,80,35,15,25,536,225,32,32,858,44,1264,774,470,116,13,11,269,56,10,10,9,13,10,94,22,13,9,10,18,20,11,130,12,29,11,282,21,26,10,13,16,23,8,7,23,13,8,8,33,12
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1S =3= Pass 1NT 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H4 HJ HK H3 
+HA S2 HT HQ 
+SQ SA S7 S4 
+C4 CA CT C2 
+D7 CK C8 C3 
+D2 CQ CJ C6 
+H2 C9 DT D5 
+H5 C7 H6 S8 
+D4 C5 D8 DJ 
+D9 D3 DA DK 
+S5 S6 SK ST 
+-  -  S3 H7 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "17"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J2.JT86.K874.J85 AQ9743.KQ752.Q2. KT5.A.AJT65.Q742 86.943.93.AKT963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "855a7834965883657836"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  5
+N  D 10
+N  C  7
+S NT  8
+S  S  3
+S  H  4
+S  D  9
+S  C  6
+E NT  5
+E  S  8
+E  H  8
+E  D  3
+E  C  6
+W NT  5
+W  S  7
+W  H  8
+W  D  3
+W  C  6
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 16,1,3,87,36,115,86,97,31,261,204,36,19,73,156,18,124,23,21,9,54,58,18,10,26,63,18,9,16,23,28,9,84,155,12,9,6,66,123,14,16,9,31,8,7
+[Auction "N"]
+Pass 1S 2D Pass 
+3D 3H 4D Pass 
+Pass Pass 
+[Play "W"]
+CK C5 H2 C4 
+CA C8 S3 C7 
+C6 CJ D2 C2 
+S6 S2 SA S5 
+S8 SJ S4 SK 
+D3 D4 DQ DA 
+C3 D7 SQ ST 
+D9 DK S7 D5 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "17"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J2.JT86.K874.J85 AQ9743.KQ752.Q2. KT5.A.AJT65.Q742 86.943.93.AKT963"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "855a7834965883657836"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  5
+N  D 10
+N  C  7
+S NT  8
+S  S  3
+S  H  4
+S  D  9
+S  C  6
+E NT  5
+E  S  8
+E  H  8
+E  D  3
+E  C  6
+W NT  5
+W  S  7
+W  H  8
+W  D  3
+W  C  6
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,2,0,82,46,83,48,147,115,31,279,36,19,19,135,136,32,11,50,26,7,11,683,44,15,36,22,41,7,27,469,32,13,155,15,22,10,31,558,34,11,13,240,32,43,62,136,46,15,13,124,24,9,9,10
+[Auction "N"]
+Pass 1S 2D Pass 
+3D 3H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+C2 CA C8 D2 
+C4 CK C5 DQ 
+SK S6 S2 SQ 
+C7 C9 CJ H2 
+HA H3 H6 HQ 
+DA D3 D4 H5 
+S5 S8 SJ SA 
+ST H9 HT S3 
+D5 D9 DK H7 
+D6 H4 H8 HK 
+-  -  -  S9 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "18"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ.QJ53.Q765.AKQ JT7632.98.JT8.JT A9.42.A92.765432 854.AKT76.K43.98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a689aa689a3653236542"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D  9
+N  C 10
+S NT 10
+S  S  6
+S  H  8
+S  D  9
+S  C 10
+E NT  3
+E  S  6
+E  H  5
+E  D  3
+E  C  2
+W NT  3
+W  S  6
+W  H  5
+W  D  4
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,1,3,76,44,74,230,52,78,50,37,22,61,32,21,7,30,146,124,28,13,26,17,25,39,20,10,9,29,19,22,7,32,23,43,12,274,33,18,7,19,40,41,13,161,27,18,13,19,19,9,6,17,8,29,17,17,7,17,7,16,9,21,8,6,10,8,10
+[Auction "E"]
+Pass Pass 1H X 
+Pass 2C Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+H9 H2 HK H5 
+H8 H4 H6 HQ 
+CT C2 C8 CA 
+CJ C3 C9 CK 
+S2 C4 D3 CQ 
+D8 DA D4 D7 
+S6 C6 S5 D6 
+S3 S9 S4 SK 
+S7 SA S8 SQ 
+DT C7 H7 D5 
+ST C5 HT DQ 
+DJ D2 DK H3 
+SJ D9 HA HJ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "18"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ.QJ53.Q765.AKQ JT7632.98.JT8.JT A9.42.A92.765432 854.AKT76.K43.98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a689aa689a3653236542"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D  9
+N  C 10
+S NT 10
+S  S  6
+S  H  8
+S  D  9
+S  C 10
+E NT  3
+E  S  6
+E  H  5
+E  D  3
+E  C  2
+W NT  3
+W  S  6
+W  H  5
+W  D  4
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 20,2,0,251,247,195,228,50,161,26,360,53,485,101,12,21,333,314,11,14,846,46,45,16,15,14,51,17,377,21,10,18,24,24,9,19,11,167
+[Auction "E"]
+2D =1= Pass 2S =2= X 
+Pass 3C =3= Pass 3S 
+Pass 5C Pass Pass 
+Pass 
+[Play "W"]
+HK H3 H9 H2 
+S4 SQ S2 S9 
+C8 CQ CT C2 
+C9 CK CJ C3 
+S5 SK S3 SA 
+HA -  -  H4 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "19"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT7532.AQ7.4.KJ8 J84.KJ2.863.AQ64 K6.T9864.AQT.972 A9.53.KJ9752.T53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "4"]
+[Score "NS -250"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "47834478348659986599"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  8
+S  D  3
+S  C  4
+E NT  8
+E  S  6
+E  H  5
+E  D  9
+E  C  9
+W NT  8
+W  S  6
+W  H  5
+W  D  9
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,1,3,339,73,140,189,412,37,64,15,45,839,42,22,704,49,13,23,47,48,32,16,48,231,15,11,69,11,110,13,12,19,14,9,15,73,9,57,12,29,156,87,13,36,31,60,13,20,7,26,15,17,10,17,8,18,7,8,6,9,3,13
+[Auction "S"]
+Pass 2D 2S 3D 
+3NT Pass Pass Pass 
+[Play "W"]
+D7 D4 D6 DT 
+H3 HQ HK H4 
+DK S2 D8 DQ 
+DJ S3 D3 DA 
+H5 HA H2 HT 
+SA S5 S4 SK 
+D9 H7 C4 C7 
+D5 S7 S8 H6 
+D2 ST C6 H8 
+S9 SQ SJ S6 
+C3 CJ CQ C2 
+C5 C8 CA C9 
+CT CK HJ H9 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "19"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT7532.AQ7.4.KJ8 J84.KJ2.863.AQ64 K6.T9864.AQT.972 A9.53.KJ9752.T53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "47834478348659986599"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  8
+S  D  3
+S  C  4
+E NT  8
+E  S  6
+E  H  5
+E  D  9
+E  C  9
+W NT  8
+W  S  6
+W  H  5
+W  D  9
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,2,0,167,71,85,36,36,35,329,30,28,29,101,1014,44,10,16,19,20,45,200,172,26,16,64,24,11,40,200,45,50,10,384,28,9,9,187,19,6,8,156,25,7,5,79,17,9,31,96,26,5,16,13,23,10,9,20,10,7,6,9,9,8,4
+[Auction "S"]
+Pass Pass 1S Pass 
+1NT Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+D6 DA D7 D4 
+HJ HT H5 H7 
+D8 DT DJ S2 
+S4 SK SA S3 
+CQ C2 C3 CJ 
+CA C7 C5 C8 
+C4 C9 CT CK 
+S8 S6 S9 SQ 
+SJ H4 D2 S5 
+D3 DQ DK S7 
+C6 H6 D5 ST 
+H2 H8 H3 HA 
+HK H9 D9 HQ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "20"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AJ9862.53.64.J43 KQ4.94.KQ97.AKQ8 73.JT862.AJ32.T9 T5.AKQ7.T85.7652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3533235332a8a9ba799a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  2
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C 11
+W NT 10
+W  S  7
+W  H  9
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,1,3,114,95,194,144,205,57,248,113,19,35,245,105,90,20,86,24,22,13,48,31,14,27,79,22,89,24,61,23,9,9,53,21,20,41,33,25,10,12,137,25,18,7
+[Auction "W"]
+Pass 2D =1= X 2H =2= 
+X 2S 3NT Pass 
+Pass Pass 
+[Play "S"]
+S7 S5 SA S4 
+S3 ST SJ SK 
+H6 HA H3 H4 
+DJ DT D4 D7 
+HJ HK H5 H9 
+D3 D5 D6 D9 
+DA D8 S2 DQ 
+H8 HQ S6 C8 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "20"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AJ9862.53.64.J43 KQ4.94.KQ97.AKQ8 73.JT862.AJ32.T9 T5.AKQ7.T85.7652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3533235332a8a9ba799a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  3
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  3
+S  C  2
+E NT 10
+E  S  8
+E  H 10
+E  D  9
+E  C 11
+W NT 10
+W  S  7
+W  H  9
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,84,138,331,45,86,51,221,54,48,19,237,300,1054,29,18,28,45,29,123,85,13,19,202,37,16,54,67,18,10,27,74
+[Auction "W"]
+Pass 2S 2NT Pass 
+3C =1= Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+S7 S5 SA S4 
+C9 C2 CJ CA 
+DA D5 D4 DK 
+H6 HA H3 H4 
+DJ DT D6 D7 
+HJ -  -  -  
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "21"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT4.A6.AJ652.854 KQ97.J4.943.AKQ6 A8632.KQT983..T3 5.752.KQT87.J972"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "88955889555438854387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  5
+N  C  5
+S NT  8
+S  S  8
+S  H  9
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  3
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 10,1,3,106,29,614,103,81,171,42,280,37,17,32,75,81,23,29,19,22,46,18,100,17,186,49,53,29,12,17,79,13,7,10,111,19,8,11,17,81,15,26,27,22,37,14,34,27,16,21
+[Auction "N"]
+Pass 1C 1H 2C 
+2D 2S Pass 3C 
+Pass Pass Pass 
+[Play "S"]
+HK H2 HA H4 
+HQ H5 H6 HJ 
+HT H7 SJ C6 
+C3 C2 C5 CK 
+CT C7 C4 CA 
+H8 C9 C8 CQ 
+H3 DK DA D3 
+SA S5 S4 SQ 
+S3 D7 ST SK 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "21"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT4.A6.AJ652.854 KQ97.J4.943.AKQ6 A8632.KQT983..T3 5.752.KQT87.J972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "88955889555438854387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  5
+N  C  5
+S NT  8
+S  S  8
+S  H  9
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  3
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,0,65,150,126,146,153,228,197,26,160,72,35,36,39,64,488,505,60,26,138,13,13,12,16,37,9,9,9,19,13,10,9,15,8,30,16,46,8,85,205,31,54,8,151,24,16,8,9,35,8
+[Auction "N"]
+Pass 1S 2H X 
+XX =1= 3C Pass Pass 
+3D Pass 3H Pass 
+Pass Pass 
+[Play "W"]
+S5 S4 S9 SA 
+H5 HA H4 H3 
+D7 DA D3 C3 
+H2 H6 HJ HK 
+H7 D2 C6 HQ 
+D8 ST SQ S2 
+C7 C4 CQ CT 
+C2 C5 CK HT 
+DT SJ -  S3 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "22"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q8.KJ743.74.J942 754.965.AJ963.AQ KT632.8.KQ85.K73 AJ9.AQT2.T2.T865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66667676676667666676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 8,1,3,106,248,242,71,121,46,91,24,463,85,209,120,37,14,30,32,23,11,25,7,57,452,38,20,41,472,37,11,35,39,46,37,9,24,26,9,67,304,24,24,7,26,29,6,8,16,19,8,7
+[Auction "E"]
+1NT 2H =1= X Pass =2= 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+DT D4 DA D5 
+SA S8 S4 S2 
+S9 SQ S5 S3 
+C5 C2 CQ CK 
+SJ H3 S7 SK 
+C6 C9 CA C3 
+D2 D7 D9 DK 
+HA H4 H6 H8 
+CT CJ D3 C7 
+H2 HK H5 D8 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "22"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q8.KJ743.74.J942 754.965.AJ963.AQ KT632.8.KQ85.K73 AJ9.AQT2.T2.T865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66667676676667666676"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  6
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 8,2,0,160,448,37,215,40,29,30,70,31,17,52,513,130,1426,43,139,30,16,9,176,34,12,25,119,32,47,25,299,30,9,8,80,15,11,17,58,28,10,11,106,58,24,11,528,23,22,22,12,23,48,189,12,21,8,24,53,11,9,7,13,8,8,7
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 2D Pass 2S 
+Pass Pass Pass 
+[Play "W"]
+C5 C2 CQ CK 
+HA H3 H5 H8 
+C6 C9 CA C7 
+S9 SQ S4 S2 
+H2 HK H6 D5 
+D2 D4 D3 DK 
+C8 CJ S5 C3 
+SJ S8 S7 S3 
+CT C4 D6 S6 
+SA H4 H9 ST 
+HQ H7 D9 SK 
+DT D7 DJ D8 
+HT HJ DA DQ 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "23"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:83.QT5.AK85.A965 AQJ65.A76.642.K2 9742.KJ84.JT.QT3 KT.932.Q973.J874"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "66867668677757577575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  8
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 5,1,3,218,28,94,35,65,41,189,24,381,55,31,208,152,124,17,22,553,51,109,22,27,27,14,11,357,25,405,52,64,21,34,12,360,32,11,7,97,15,8,10,82,46,13,9,71,15,14,8,30,86,33,10,32,10,20,14,11,21,7,9,19,6,11,9
+[Auction "S"]
+Pass Pass 1D =1= 1S 
+Pass Pass X Pass 
+2C Pass Pass Pass 
+[Play "W"]
+SK S3 S5 S4 
+C4 C5 CK C3 
+ST S8 SQ S2 
+H3 C6 SA S7 
+H2 H5 H6 HJ 
+DQ DA D4 DJ 
+D3 D5 D2 DT 
+H9 C9 S6 S9 
+D7 DK D6 H4 
+D9 D8 H7 CT 
+C7 HT HA H8 
+C8 CA C2 CQ 
+CJ HQ SJ HK 
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "23"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:83.QT5.AK85.A965 AQJ65.A76.642.K2 9742.KJ84.JT.QT3 KT.932.Q973.J874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "66867668677757577575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  8
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,0,59,27,64,137,109,91,177,39,17,566,284,172,28,41,151,137,16,453,1041,77,10,52,565,104,45,26,67,49,13,9,54,157,10,12,41,40,12,10,52,16,8,11,18,13,10,6,26,12,20,5,16
+[Auction "S"]
+Pass Pass 1C =1= 1S 
+X Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+D4 DT DQ DA 
+SJ S2 ST S3 
+H6 H4 H2 HT 
+S5 S4 SK S8 
+HA H8 H3 H5 
+H7 HJ H9 HQ 
+D6 DJ D3 D5 
+C2 C3 C4 CA 
+D2 S7 D7 DK 
+CK CT C7 C5 
+SA -  -  -  
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "24"]
+[West "Chris Duckworth#97170"]
+[North "John Amor#17126"]
+[East "Mike Graham#21682"]
+[South "John Hemington#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT8.8753.T972.T8 J9765.JT64.J5.J7 Q4.9.AQ8643.AKQ9 A32.AKQ2.K.65432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "856b7856b73872638726"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H  6
+S  D 11
+S  C  7
+E NT  3
+E  S  8
+E  H  7
+E  D  2
+E  C  6
+W NT  3
+W  S  8
+W  H  7
+W  D  2
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 21,1,3,172,41,25,126,670,48,227,153,49,32,11,64,38,22,7,18,25,99,8,8,63,24,8,20,464,29,13,11,171,32,10,52,16,22,15,15,50,17,431,17,36,23,12,16,15,39,12,6
+[Auction "W"]
+1C Pass 1S 2D 
+2S 3D 3S 4D 
+4S Pass Pass 5D 
+X Pass Pass Pass 
+[Play "W"]
+HK H3 H4 H9 
+HA H5 H6 D3 
+SA S8 S6 SQ 
+HQ H7 HT D4 
+S3 SK S5 S4 
+DK D2 D5 DQ 
+H2 H8 HJ D6 
+C5 D7 DJ DA 
+*
+
+[Event "23 Jan Amor vs Sadie"]
+[Site "RealBridge"]
+[Date "2024.01.23"]
+[Board "24"]
+[West "Stephen Brown#"]
+[North "Graham Sadie#089654"]
+[East "Michael Collins#103463"]
+[South "Richard Granville#85715"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT8.8753.T972.T8 J9765.JT64.J5.J7 Q4.9.AQ8643.AKQ9 A32.AKQ2.K.65432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sadie team"]
+[VisitTeam "Amor team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "856b7856b73872638726"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D 11
+N  C  7
+S NT  8
+S  S  5
+S  H  6
+S  D 11
+S  C  7
+E NT  3
+E  S  8
+E  H  7
+E  D  2
+E  C  6
+W NT  3
+W  S  8
+W  H  7
+W  D  2
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 21,2,0,430,35,167,177,160,148,38,213,31,60,35,576,22,1020,25,20,19,70,143,68,25,11,23,28,37,292,62,12,9,34,11,23,16,118
+[Auction "W"]
+1H Pass 2H X 
+Pass 2NT =1= Pass 3C =2= 
+Pass 3D Pass 4D 
+Pass 5D Pass Pass 
+Pass 
+[Play "E"]
+HJ H9 HQ H3 
+S5 S4 SA S8 
+S6 SQ S3 SK 
+D5 DQ DK D2 
+-  -  HK -  
+*

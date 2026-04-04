@@ -1,0 +1,3985 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "1"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.KQ8.QJT76.KQT2 T54.AT765.K5.984 A76.932.A943.AJ6 KQJ932.J4.82.753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a79cca79cc2641126411"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D 12
+N  C 12
+S NT 10
+S  S  7
+S  H  9
+S  D 12
+S  C 12
+E NT  2
+E  S  6
+E  H  4
+E  D  1
+E  C  1
+W NT  2
+W  S  6
+W  H  4
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 21,2,1,516,174,142,108,160,239,36,24,24,28,357,331,36,8,7,30,6,19,7,31,9,21
+[Auction "N"]
+1D Pass 2C =1= 3S 
+4C 4S 5D Pass 
+Pass Pass 
+[Play "E"]
+ST SA S9 S8 
+D5 DA D2 D6 
+DK D3 D8 DQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "1"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.KQ8.QJT76.KQT2 T54.AT765.K5.984 A76.932.A943.AJ6 KQJ932.J4.82.753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a79cca79cc2641126411"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D 12
+N  C 12
+S NT 10
+S  S  7
+S  H  9
+S  D 12
+S  C 12
+E NT  2
+E  S  6
+E  H  4
+E  D  1
+E  C  1
+W NT  2
+W  S  6
+W  H  4
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 21,0,3,147,380,107,152,155,46,481,49,510,110,38,57,60,350,45,16,24,29,13,30,17,14,11,25,15,32,11,14,109,30,12,18,27,19,15,21,9,16,9,10,9,20,11,42
+[Auction "N"]
+1D Pass 2D =1= 2S 
+3C Pass 3S =2= Pass 
+5D Pass Pass Pass 
+[Play "E"]
+S5 SA S2 S8 
+D5 DA D2 D6 
+DK D3 D8 DQ 
+ST S6 SJ D7 
+C8 CA C7 C2 
+C4 CJ C3 CK 
+C9 C6 C5 CQ 
+H5 H2 S3 CT 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "2"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:73.T73.743.AQT32 QJ942.A865.AQ5.5 AK5.QJ2.KJT96.J9 T86.K94.82.K8764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "86698866985774447644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  6
+N  D  9
+N  C  8
+S NT  8
+S  S  6
+S  H  6
+S  D  9
+S  C  8
+E NT  5
+E  S  7
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,2,1,149,214,148,34,38,20,98,82,6,16,11,26,8,24,14,80,6,34,52,29,34,12,11,28,33,18,187,30,4,25,70,35,18,12,163,9,122,19,22,17,15,4,16
+[Auction "E"]
+1S 1NT 2S Pass 
+Pass Pass 
+[Play "S"]
+SA S6 S3 S2 
+SK S8 S7 S4 
+S5 ST C2 SJ 
+C9 CK CA C5 
+D9 D2 D3 D5 
+DK D8 D4 DA 
+HJ HK H3 H5 
+H2 H4 H7 HA 
+HQ H9 HT H6 
+DJ -  -  -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "2"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:73.T73.743.AQT32 QJ942.A865.AQ5.5 AK5.QJ2.KJT96.J9 T86.K94.82.K8764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "86698866985774447644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  6
+N  D  9
+N  C  8
+S NT  8
+S  S  6
+S  H  6
+S  D  9
+S  C  8
+E NT  5
+E  S  7
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  7
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 9,0,3,179,99,164,55,56,39,33,304,147,23,18,21,196,30,21,31,18,29,139,82,51,68,130,192,21,13,17,97,31,13,19,39,35,23,10,11,78,25,10,151,41,13,25,29,95,16,10,24,81,20,10,39,30,17,11,14,22,11,14
+[Auction "E"]
+1S 1NT 2S 2NT 
+Pass Pass Pass 
+[Play "W"]
+S8 S3 SJ SK 
+C7 C2 C5 CJ 
+C4 CT H6 C9 
+C6 CA H5 D6 
+D2 D3 D5 D9 
+D8 D4 DA DK 
+ST S7 S4 S5 
+S6 H3 S9 SA 
+H4 HT HA H2 
+C8 D7 SQ DT 
+CK H7 S2 DJ 
+H9 C3 DQ HJ 
+HK CQ H8 HQ 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "3"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ73.AKJ5.AK9.KQ 8.76.QT8632.T754 KT9542.QT2.J5.96 J6.9843.74.AJ832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ccc66ccc661105611056"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D  6
+N  C  6
+S NT 12
+S  S 12
+S  H 12
+S  D  6
+S  C  6
+E NT  1
+E  S  1
+E  H  0
+E  D  5
+E  C  6
+W NT  1
+W  S  1
+W  H  0
+W  D  5
+W  C  6
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 28,2,1,99,115,20,100,85,38,43,90,14,18,190,29,41,16
+[Auction "S"]
+2S Pass 4NT Pass 
+5C Pass 6S Pass 
+Pass Pass 
+[Play "W"]
+CA CQ C4 C6 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "3"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ73.AKJ5.AK9.KQ 8.76.QT8632.T754 KT9542.QT2.J5.96 J6.9843.74.AJ832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ccc66ccc661105611056"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D  6
+N  C  6
+S NT 12
+S  S 12
+S  H 12
+S  D  6
+S  C  6
+E NT  1
+E  S  1
+E  H  0
+E  D  5
+E  C  6
+W NT  1
+W  S  1
+W  H  0
+W  D  5
+W  C  6
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 28,0,3,219,60,46,150,49,45,91,40,132,42,26,33,81,122,202,484,75,53,33,257,46,42,762,206,81,51,23,28,16,53,139,45,17,11
+[Auction "S"]
+Pass Pass 2C =1= Pass 
+2D =2= Pass 2H =3= Pass 
+2S =4= Pass 2NT Pass 
+4S Pass 4NT Pass 
+5C Pass 6S Pass 
+Pass Pass 
+[Play "W"]
+H9 H5 H6 HT 
+S6 SA S8 S2 
+SJ SQ D2 S4 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "4"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J6.K973.J982.KQ4 Q853.AQJ6.A4.J63 97.42.KQT6.AT872 AKT42.T85.753.95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "32488323888a9558a955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  4
+N  D  8
+N  C  8
+S NT  3
+S  S  2
+S  H  3
+S  D  8
+S  C  8
+E NT  8
+E  S 10
+E  H  9
+E  D  5
+E  C  5
+W NT  8
+W  S 10
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,2,1,52,76,118,68,26,41,134,31,18,36,70,323,18,10,13,18,10,9,21,11,11,13,66,17,17,72,7,20,25,8,10,18,17,8,6,16,10,23
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+H3 HA H2 H5 
+S6 S3 S7 SA 
+SJ SQ S9 S2 
+HK H6 H4 HT 
+CK C3 C8 C9 
+CQ C6 C2 C5 
+C4 CJ CA S4 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "4"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J6.K973.J982.KQ4 Q853.AQJ6.A4.J63 97.42.KQT6.AT872 AKT42.T85.753.95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "32488323888a9558a955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  4
+N  D  8
+N  C  8
+S NT  3
+S  S  2
+S  H  3
+S  D  8
+S  C  8
+E NT  8
+E  S 10
+E  H  9
+E  D  5
+E  C  5
+W NT  8
+W  S 10
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 13,0,3,87,208,125,97,76,53,81,93,205,33,855,193,16,70,94,46,80,12,157,17,70,13,172,58,52,23,43,94,502,65,88,162,38,51,109,53,112,177,87,22,47,38,32,26,23,12,24,33,29,8,24,52,15,21
+[Auction "W"]
+Pass Pass 1NT Pass 
+2H Pass 3S =1= Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D2 DA 
+S7 SK S6 S3 
+S9 S2 SJ SQ 
+C8 C9 CQ C3 
+D6 D5 D8 D4 
+DT D7 D9 S5 
+H2 ST H3 S8 
+H4 HT H7 H6 
+C2 H5 H9 HJ 
+C7 H8 HK HA 
+DQ C5 DJ HQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "5"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ96.T4.JT2.QT8 T53.97.A95.K9754 A84.AKQ53.K763.J 72.J862.Q84.A632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a9969a9964344743447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  9
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D  9
+S  C  6
+E NT  4
+E  S  3
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  3
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,54,71,63,30,39,31,40,20,124,27,33,54,507,33,41,21,15,30,304,165,19,12,511,185,79,24,407,41,16,27,363,20,4,13,115,18,36,11,6,20,7,32
+[Auction "N"]
+Pass Pass 1H Pass 
+1S Pass 2D Pass 
+2H Pass 2S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+C5 CJ CA C8 
+DA D3 D4 DT 
+D9 DK D8 D2 
+D5 D6 DQ DJ 
+CK S4 C2 CT 
+S3 SA S2 S6 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "5"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ96.T4.JT2.QT8 T53.97.A95.K9754 A84.AKQ53.K763.J 72.J862.Q84.A632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a9969a9964344743447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  9
+N  D  9
+N  C  6
+S NT  9
+S  S 10
+S  H  9
+S  D  9
+S  C  6
+E NT  4
+E  S  3
+E  H  4
+E  D  4
+E  C  7
+W NT  4
+W  S  3
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,62,45,94,45,36,228,91,118,23,50,32,34,38,179,59,19,62,19,57,36,87,36,9,10,80,32,10,9,66,24,18,12,150,23,12,27,18,9,23,22,15,14,12,19,27,67,13,28,19,19,11,41,14,25,10,14,12,16,17,8,27,10,7,9
+[Auction "N"]
+Pass Pass 1H Pass 
+1S Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+C5 CJ CA C8 
+CK D3 C2 CQ 
+C7 D6 C3 CT 
+S5 S4 S2 SK 
+S3 SA S7 S6 
+H7 HA H2 H4 
+H9 HK H6 HT 
+D5 HQ H8 D2 
+ST S8 D4 SQ 
+D9 H3 C6 SJ 
+C4 H5 HJ S9 
+DA D7 D8 DT 
+C9 DK DQ DJ 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "6"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.KJ982.K632.JT8 T3.AT543.AJT95.9 AK54.Q.74.Q76543 QJ9876.76.Q8.AK2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "33447334478a8958a895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S 10
+E  H  8
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 13,2,1,229,214,42,96,53,899,63,229,91,38,19,21,40,88,16,20,232,12,14,18,10,31,19,12,68,10,9,19,50,26,9,16,68,24,22,9,92,14,9,2,20,13,32,8,38,25,8,12,13,22,4,11,19,8,23,11,10,5,12,8,8,7,8,4
+[Auction "E"]
+Pass 1C 1S X 
+Pass 2C 2S 3C 
+3S Pass Pass Pass 
+[Play "N"]
+CJ C9 C3 CA 
+CT S3 C7 C2 
+S2 ST S4 SJ 
+H2 H3 SK S8 
+C8 H4 CQ CK 
+DK DA D4 DQ 
+D2 DJ D7 D8 
+D3 DT S5 S6 
+D6 H5 SA SQ 
+H8 HT C6 S7 
+H9 D5 C4 S9 
+HJ HA HQ H6 
+HK D9 C5 H7 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "6"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:2.KJ982.K632.JT8 T3.AT543.AJT95.9 AK54.Q.74.Q76543 QJ9876.76.Q8.AK2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "33447334478a8958a895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  4
+N  C  7
+S NT  3
+S  S  3
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S 10
+E  H  8
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,142,235,160,80,71,40,177,38,37,22,60,861,25,36,11,21,8,42,19,19,11,16,22,139,58,26,102,67,9,33,74,38,26,95,33,31,70,16,211,46,11,25,18,54,26,46,15,31,10,10,20,8,10,8,10,10,10,7,11,9,9,9
+[Auction "E"]
+1H 2C 2S Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+CJ C9 C3 CK 
+D2 D5 D4 DQ 
+D3 D9 D7 D8 
+D6 DA S4 S6 
+DK DT S5 S7 
+CT H3 C4 C2 
+C8 H4 CQ CA 
+HJ HA HQ H6 
+H2 DJ SA H7 
+S2 S3 SK S8 
+H8 ST C7 S9 
+H9 H5 C5 SJ 
+HK HT C6 SQ 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "7"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ97.T6.KQT74.94 642.K97.92.J6532 AK83.832.A65.AKQ T5.AQJ54.J83.T87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8b7b88b7b81151511515"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D 11
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D 11
+S  C  8
+E NT  1
+E  S  1
+E  H  5
+E  D  1
+E  C  5
+W NT  1
+W  S  1
+W  H  5
+W  D  1
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,199,92,26,24,29,24,16,37,21,19,285,38,41,18,54,23,12,21,15,18,14,7,69,24,12,8,22,37,14,8,15,17,13,8,48,21,14,25,13,14,19,11,13,14,16,7,15,31,9,10,11,10,8,16,22,12,9,19,14,14,9,8
+[Auction "S"]
+2NT Pass 3C Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+C8 C4 CJ CA 
+S5 SQ S2 S3 
+ST S7 S4 SA 
+H4 S9 S6 SK 
+CT C9 C5 CK 
+C7 H6 C3 CQ 
+D3 DK D9 D5 
+D8 D4 D2 DA 
+DJ DQ C2 D6 
+H5 DT C6 H2 
+HJ D7 H7 H3 
+HQ HT H9 H8 
+HA SJ HK S8 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "7"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ97.T6.KQT74.94 642.K97.92.J6532 AK83.832.A65.AKQ T5.AQJ54.J83.T87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8b7b88b7b81151511515"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D 11
+N  C  8
+S NT  8
+S  S 11
+S  H  7
+S  D 11
+S  C  8
+E NT  1
+E  S  1
+E  H  5
+E  D  1
+E  C  5
+W NT  1
+W  S  1
+W  H  5
+W  D  1
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,128,100,278,45,97,48,43,43,119,42,103,37,29,34,272,128,33,17,43,29,10,29,42,98,39,24,182,24,12,14,25,42,11,21,45,13,11,17,28,28,12,20,20,15,13,11
+[Auction "S"]
+2NT Pass 3C =1= Pass 
+3D =2= Pass 3H Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+C8 C4 CJ CA 
+S5 S7 S2 SK 
+ST SQ S4 S3 
+H4 S9 S6 SA 
+CT C9 C2 CK 
+C7 H6 C3 CQ 
+D3 DK D2 D5 
+D8 D4 D9 DA 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "8"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K732.KT762.6.A64 QT.A.Q854.QT8752 AJ4.Q9853.A7.J93 9865.J4.KJT932.K"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "79a4679a464429744297"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S  9
+S  H 10
+S  D  4
+S  C  6
+E NT  4
+E  S  4
+E  H  2
+E  D  9
+E  C  7
+W NT  4
+W  S  4
+W  H  2
+W  D  9
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,57,47,184,138,35,25,28,41,19,7,31,80,705,22,15,13,59,14,10,147,12,12,8,37,8,16,5
+[Auction "W"]
+Pass 1H 2C 3C =1= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+C7 C9 CK CA 
+HA H3 H4 H2 
+CQ C3 D2 C6 
+C2 CJ HJ C4 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "8"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K732.KT762.6.A64 QT.A.Q854.QT8752 AJ4.Q9853.A7.J93 9865.J4.KJT932.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "79a4679a464429744297"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H 10
+N  D  4
+N  C  6
+S NT  7
+S  S  9
+S  H 10
+S  D  4
+S  C  6
+E NT  4
+E  S  4
+E  H  2
+E  D  9
+E  C  7
+W NT  4
+W  S  4
+W  H  2
+W  D  9
+W  C  7
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,150,109,111,134,40,33,43,79,167,39,23,170,29,21,30,208,30,37,24,36,55,14,32,29,40,11,33,18,29,24,14,54,13,18,23,62,17,40,24,27,41,16,17,41,13,38,16,17,20,19,11
+[Auction "W"]
+2D X 4D 4H 
+Pass Pass Pass 
+[Play "W"]
+DT D6 D4 DA 
+H4 HK HA H3 
+DJ H2 D5 D7 
+HJ H6 C2 HQ 
+D2 H7 C5 H5 
+S5 S2 ST SJ 
+S6 S3 SQ SA 
+S8 SK D8 S4 
+S9 S7 DQ H8 
+CK CA C7 C9 
+D3 C4 CQ C3 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "9"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:863.72.9874.Q542 KQ97.AT843.AT.AT J42.96.QJ63.K763 AT5.KQJ5.K52.J98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "1114411144ccc89ccc89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  4
+E NT 12
+E  S 12
+E  H 12
+E  D  8
+E  C  9
+W NT 12
+W  S 12
+W  H 12
+W  D  8
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 27,2,0,294,75,63,78,81,1154,105,99,15,77,20,63,15,228,33,19,14,37,298,8,12,171,10,12,45
+[Auction "N"]
+Pass 1H Pass 2NT =1= 
+Pass 4NT Pass 5S 
+Pass 5NT Pass 6D 
+Pass 6H Pass Pass 
+Pass 
+[Play "S"]
+H6 HK H2 H3 
+H9 H5 H7 HA 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "9"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:863.72.9874.Q542 KQ97.AT843.AT.AT J42.96.QJ63.K763 AT5.KQJ5.K52.J98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "12"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "1114411144ccc89ccc89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  4
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  4
+E NT 12
+E  S 12
+E  H 12
+E  D  8
+E  C  9
+W NT 12
+W  S 12
+W  H 12
+W  D  8
+W  C  9
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 32,1,3,368,598,113,96,90,217,54,135,27,239,27,45,19,195,92,22,14,109,225,30,27,46,19,26,10,42,59,38,65,73,21,21,14,30,25,23,9,115,25,32,19,38,19,32,11,20,24,43,43,99,88,45,53,21,16,27,18,20,119,22,290,20,27,16,19,21,16,13,8
+[Auction "N"]
+Pass 1H Pass 3NT =1= 
+Pass 4NT Pass 5S 
+Pass 5NT Pass 6D 
+Pass 7H Pass Pass 
+Pass 
+[Play "S"]
+H6 H5 H2 H8 
+H9 HJ H7 H3 
+C6 HQ S6 H4 
+D3 D2 D4 DA 
+DQ DK D7 DT 
+S2 S5 S8 SK 
+S4 SA S3 S7 
+SJ ST C4 SQ 
+C3 HK C2 S9 
+C7 C8 C5 CA 
+CK C9 D8 HA 
+D6 CJ D9 HT 
+DJ D5 CQ CT 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "10"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQJT97.97.AQ9.T4 85.A8.7543.QJ832 A63.KQT65.K2.A65 42.J432.JT86.K97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aba77aba771135611356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  7
+N  C  7
+S NT 10
+S  S 11
+S  H 10
+S  D  7
+S  C  7
+E NT  1
+E  S  1
+E  H  3
+E  D  5
+E  C  6
+W NT  1
+W  S  1
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,0,92,211,56,110,88,22,31,12,30,151,225,30,15,87,22,9,45,15,33,11,10,14,39,16,37,34,39,18,9,59,255,109,10,239,19,23,18,15,17,30,10,13,40,10,11
+[Auction "E"]
+Pass 1NT Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+DJ DA D3 D2 
+S2 S7 S5 SA 
+S4 SK S8 S6 
+H2 H7 H8 HK 
+D6 D9 D4 DK 
+H3 SQ C3 S3 
+H4 H9 HA H6 
+C9 C4 CQ CA 
+HJ CT D5 HQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "10"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KQJT97.97.AQ9.T4 85.A8.7543.QJ832 A63.KQT65.K2.A65 42.J432.JT86.K97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aba77aba771135611356"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 10
+N  D  7
+N  C  7
+S NT 10
+S  S 11
+S  H 10
+S  D  7
+S  C  7
+E NT  1
+E  S  1
+E  H  3
+E  D  5
+E  C  6
+W NT  1
+W  S  1
+W  H  3
+W  D  5
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,1,3,94,147,58,38,42,67,48,66,91,29,60,308,157,20,33,70,86,21,41,62,31,12,26,30,50,23,19,81,75,12,88,23,22,21,12,24
+[Auction "E"]
+Pass 1NT Pass 2H 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+DJ D9 D3 DK 
+S2 S7 S5 SA 
+S4 SQ S8 S3 
+H2 H7 H8 HQ 
+D6 S9 C2 S6 
+H3 H9 HA H5 
+-  -  CQ -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "11"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ2.AKJ.Q52.8754 8643.43.KT9.KJT6 AJ5.Q98.A876.A93 T97.T7652.J43.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98988989884544545445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,0,129,100,49,93,31,63,117,235,16,18,30,24,19,92,265,27,44,12,57,32,18,26,149,31,54,107,72,45,23,12,271,15,37,16,63,37,11,13,13,14,13,14,15,29,11,16
+[Auction "S"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H7 HA H3 H9 
+D4 D2 D9 D8 
+CQ C4 C6 C3 
+H6 HK H4 H8 
+D3 D5 DT D6 
+C2 C5 CJ C9 
+H2 C7 CT CA 
+S9 SK S3 S5 
+DJ DQ DK DA 
+H5 C8 CK D7 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "11"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ2.AKJ.Q52.8754 8643.43.KT9.KJT6 AJ5.Q98.A876.A93 T97.T7652.J43.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98988989884544545445"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  4
+E  D  4
+E  C  5
+W NT  4
+W  S  5
+W  H  4
+W  D  4
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,1,3,203,54,243,46,110,75,23,46,15,285,64,239,26,526,141,44,51,12,17,19,45,24,78,28,37,11,39,364,16,12,122,25,13,10,30
+[Auction "S"]
+1NT Pass 2C Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H5 HK H3 H8 
+D4 D2 D9 DA 
+D3 DQ DK D6 
+C2 C4 CT C3 
+CQ C5 C6 C9 
+DJ D5 DT D7 
+ST -  -  -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "12"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q.A754.AKQJ2.KJ9 T2.T32.76543.Q82 87653.KQJ8.9.A74 AKJ94.96.T8.T653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "98cb898cb82512525125"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 12
+N  D 11
+N  C  8
+S NT  9
+S  S  8
+S  H 12
+S  D 11
+S  C  8
+E NT  2
+E  S  5
+E  H  1
+E  D  2
+E  C  5
+W NT  2
+W  S  5
+W  H  1
+W  D  2
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 17,2,0,162,196,47,66,28,154,42,20,101,10,28,123,121,73,15,12,39,27,25,22,56,10,11,36
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+C2 C4 CT CJ 
+H2 HK H6 H4 
+H3 HQ H9 H5 
+-  HJ -  -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "12"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q.A754.AKQJ2.KJ9 T2.T32.76543.Q82 87653.KQJ8.9.A74 AKJ94.96.T8.T653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "98cb898cb82512525125"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 12
+N  D 11
+N  C  8
+S NT  9
+S  S  8
+S  H 12
+S  D 11
+S  C  8
+E NT  2
+E  S  5
+E  H  1
+E  D  2
+E  C  5
+W NT  2
+W  S  5
+W  H  1
+W  D  2
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 27,1,3,389,126,47,560,101,103,167,146,61,27,33,15,36,73,84,33,11,559,46,29,16,48,34,29,16,39,18,14,29,103,30,10,24,22,34,15,26,13,31,22,15,30,23,16,16,21,22,24,113,14,21,45,22,34,13,11,25,10,9,17,16,41,10,9,10
+[Auction "W"]
+2S =1= X Pass 4H 
+Pass 4NT =2= Pass 5S 
+Pass 6H Pass Pass 
+Pass 
+[Play "W"]
+SK SQ S2 S3 
+SA HA ST S5 
+H6 H4 H2 HJ 
+H9 H5 H3 HQ 
+S4 H7 HT HK 
+DT DA D6 D9 
+D8 DK D5 S6 
+S9 DQ D7 S7 
+C3 DJ D4 S8 
+SJ D2 D3 H8 
+C5 C9 C2 CA 
+C6 CJ CQ C4 
+CT CK C8 C7 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "13"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT53.4.AK7.JT763 K2.AKT9.T62.K542 J876.J83.J985.98 Q94.Q7652.Q43.AQ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "473654736596a7896a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  6
+N  C  5
+S NT  4
+S  S  7
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  6
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  6
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 13,2,0,94,60,67,70,160,93,16,29,66,30,38,17,383,71,53,25,14,21,36,38,333,34,24,19,19,26,12,37,99,40,19,12,25,19,33,102,36,24,9,10,32,152,34,13,58,41,31,20,56,15,11,25,15,61,22,10,15,11,11,8
+[Auction "N"]
+1C Pass 1S Pass 
+3S Pass Pass Pass 
+[Play "W"]
+H5 H4 HK H8 
+DQ DA D6 DJ 
+CQ C3 C2 C9 
+H2 S3 H9 H3 
+CA C6 C4 C8 
+D4 DK D2 D5 
+S9 CJ CK S7 
+D3 D7 DT D8 
+SQ C7 C5 S8 
+H6 ST HT HJ 
+S4 SA S2 S6 
+H7 CT HA SJ 
+HQ S5 SK D9 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "13"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT53.4.AK7.JT763 K2.AKT9.T62.K542 J876.J83.J985.98 Q94.Q7652.Q43.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "473654736596a7896a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  6
+N  C  5
+S NT  4
+S  S  7
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  6
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  6
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,84,152,143,255,89,20,21,29,81,20,16,290,18,10,13,123,23,59,22,51,22,12,20,74,20,11,13,43,19,9,10,13,16,9,50
+[Auction "N"]
+1C X Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DK D2 D8 D3 
+DA D6 D5 D4 
+SA S2 S6 S4 
+D7 DT DJ DQ 
+H4 HA H3 H2 
+C7 HK H8 H5 
+S3 H9 HJ HQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "14"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT4.QJ42.QJ6.A82 872.K7.954.QT965 95.AT953.T7.KJ74 KQJ63.86.AK832.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "95a5895a584738547385"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  5
+N  C  8
+S NT  9
+S  S  5
+S  H 10
+S  D  5
+S  C  8
+E NT  4
+E  S  7
+E  H  3
+E  D  8
+E  C  5
+W NT  4
+W  S  7
+W  H  3
+W  D  8
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 13,2,0,93,68,105,99,42,31,62,115,30,25,44,232,24,11,32,42,22,10,28,20,11,10,77,13,18,13,8,40,13,33,156,16,23,9,22,36,10,26,12,35,11,11,16,12,13,14,22,19,14,10,26,30,10,11,21,11,12,9,23,3,24,9
+[Auction "E"]
+Pass Pass 1S X 
+2S 3H 3S Pass 
+Pass Pass 
+[Play "N"]
+HQ HK HA H8 
+D6 D4 DT DA 
+S4 S2 S5 SJ 
+SA S7 S9 SQ 
+ST S8 H3 SK 
+DJ D5 D7 D2 
+HJ H7 H5 H6 
+H4 C5 H9 S3 
+DQ D9 C4 DK 
+C2 C6 C7 D8 
+H2 C9 HT S6 
+C8 CT CJ D3 
+CA CQ CK C3 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "14"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT4.QJ42.QJ6.A82 872.K7.954.QT965 95.AT953.T7.KJ74 KQJ63.86.AK832.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "95a5895a584738547385"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H 10
+N  D  5
+N  C  8
+S NT  9
+S  S  5
+S  H 10
+S  D  5
+S  C  8
+E NT  4
+E  S  7
+E  H  3
+E  D  8
+E  C  5
+W NT  4
+W  S  7
+W  H  3
+W  D  8
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 8,1,3,58,139,86,33,56,39,83,24,28,59,74,19,63,247,32,10,189,27,65,25,256,23,11,49,25,17,12,9,14,11,75,53,200,19,8,10,9,18,9,6,12,16,15,9,47,20,18,11,10,37,10,18,8,141,11,125,14,17,8,14,11,8,22,7
+[Auction "E"]
+Pass Pass 1S Pass 
+1NT Pass 2D Pass 
+2S Pass Pass Pass 
+[Play "N"]
+H2 HK HA H6 
+S4 S2 S5 SQ 
+HJ H7 H3 H8 
+SA S7 S9 S3 
+ST S8 H5 SK 
+D6 D4 D7 DA 
+DJ D5 DT DK 
+DQ D9 C4 D2 
+HQ C5 H9 S6 
+C2 C6 C7 D8 
+H4 C9 HT D3 
+C8 CT CJ SJ 
+CA CQ CK C3 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "15"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K85.KQJ32.42.974 J2.A985.AKQ5.A83 AT6.T764.T9.KJ62 Q9743..J8763.QT5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "53736537367a6a77a6a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  3
+N  C  6
+S NT  5
+S  S  3
+S  H  7
+S  D  3
+S  C  6
+E NT  7
+E  S 10
+E  H  6
+E  D 10
+E  C  7
+W NT  7
+W  S 10
+W  H  6
+W  D 10
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 12,2,0,85,88,113,107,221,67,22,50,32,57,10,459,93,184,37,32,1358,171,21,42,12,98,10,22,77,37,22,27,30,10,57,10,246,171,25,62,127,40,8,14,10,22,10,34,522,22,35,11,75,67,13,9,5
+[Auction "S"]
+Pass Pass 1H 1NT 
+2H 2S Pass Pass 
+3H Pass Pass Pass 
+[Play "E"]
+DK D9 D8 D2 
+SJ SA S7 S8 
+H5 H4 D3 HK 
+C3 CJ CQ C4 
+D5 DT DJ D4 
+DQ H6 D7 C7 
+S2 S6 S9 SK 
+CA C2 C5 C9 
+HA H7 D6 H2 
+DA ST S3 H3 
+-  -  -  S5 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "15"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K85.KQJ32.42.974 J2.A985.AKQ5.A83 AT6.T764.T9.KJ62 Q9743..J8763.QT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "53736537367a6a77a6a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  3
+N  C  6
+S NT  5
+S  S  3
+S  H  7
+S  D  3
+S  C  6
+E NT  7
+E  S 10
+E  H  6
+E  D 10
+E  C  7
+W NT  7
+W  S 10
+W  H  6
+W  D 10
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,463,178,25,85,71,50,30,46,24,513,40,317,70,73,32,116,127,18,25,486,210,17,19,38,28,15,25,238,33,33,18,123,46,33,22,17,19,11,577,186,48,21,9,26,11,13,12
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1H Pass 1NT 
+Pass 2C =1= Pass 2D =2= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HK HA H7 C5 
+SK S2 S6 S9 
+C9 C3 CK CT 
+H2 H5 H4 S3 
+S5 SJ SA S4 
+H3 H8 H6 S7 
+S8 H9 ST SQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "16"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:9.JT9.AKQT9.AQJ2 JT8.Q76.6543.T74 AK765.A542.2.K83 Q432.K83.J87.965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "cbccccbccc1211112111"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 12
+N  D 12
+N  C 12
+S NT 12
+S  S 11
+S  H 12
+S  D 12
+S  C 12
+E NT  1
+E  S  2
+E  H  1
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  1
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 25,2,0,115,125,31,74,24,121,87,31,33,103,29,404,44,93,26,161,28,87,26,217,884,47,24,24,52,12,19,24,19,12,29,18,36,10,14,34,35,11,12,34,16,7,25,35,27,8,44
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 3C Pass 3H =1= 
+Pass 4D Pass 4NT 
+Pass 5D Pass 6C 
+Pass Pass Pass 
+[Play "E"]
+HQ HA H8 HT 
+D3 D2 D8 DA 
+D4 C3 D7 DT 
+C4 CK C5 C2 
+C7 C8 C6 CA 
+CT S5 C9 CQ 
+H6 H2 HK HJ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "16"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:9.JT9.AKQT9.AQJ2 JT8.Q76.6543.T74 AK765.A542.2.K83 Q432.K83.J87.965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "cbccccbccc1211112111"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 12
+N  D 12
+N  C 12
+S NT 12
+S  S 11
+S  H 12
+S  D 12
+S  C 12
+E NT  1
+E  S  2
+E  H  1
+E  D  1
+E  C  1
+W NT  1
+W  S  2
+W  H  1
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,1,3,175,32,46,58,55,34,34,66,61,100,35,110,136,29,24,34,36,256,456,35,22,95,31,16,22,90,34,15,413,26,91,24,33,84,28,17,17,9,57,18,17,19,22,44,9,30,41,32,96,22,18,9,12
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 2C Pass 2H =1= 
+Pass 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+SJ SA S2 S9 
+D3 D2 D8 D9 
+H6 H2 HK HT 
+S8 SK S3 H9 
+C7 CK C6 C2 
+C4 C3 C5 CA 
+CT C8 C9 CQ 
+D6 H4 H8 CJ 
+D4 S5 D7 DA 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "17"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT6.AJ5.A652.JT9 A93.QT64.T87.Q62 874.9872.KJ93.74 KQ52.K3.Q4.AK853"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "43563435638a87a8a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  6
+N  C  3
+S NT  4
+S  S  3
+S  H  5
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,93,155,59,91,66,109,25,21,22,166,29,64,100,44,17,51,194,44,46,360,34,19,30,75,23,16,18,74,19,9,26,11,15,21,62,17,35,5,20,23,19,5,12,62,12,15,11,34,14,13,5,22,17,11,5,13,7,12,11,18,14,9,13,7,12,6,9
+[Auction "N"]
+Pass Pass Pass 1C =1= 
+Pass 1H Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S7 S2 ST SA 
+H2 HK HA H4 
+DK D4 D2 D7 
+D3 DQ DA D8 
+DJ H3 D6 DT 
+D9 S5 D5 H6 
+S8 SQ S6 S3 
+C4 C3 C9 CQ 
+H9 C5 H5 HQ 
+C7 CA CJ C2 
+S4 CK CT C6 
+H7 SK SJ S9 
+H8 C8 HJ HT 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "17"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT6.AJ5.A652.JT9 A93.QT64.T87.Q62 874.9872.KJ93.74 KQ52.K3.Q4.AK853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "43563435638a87a8a87a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  6
+N  C  3
+S NT  4
+S  S  3
+S  H  5
+S  D  6
+S  C  3
+E NT  8
+E  S 10
+E  H  8
+E  D  7
+E  C 10
+W NT  8
+W  S 10
+W  H  8
+W  D  7
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 6,0,3,126,52,70,103,18,46,76,109,22,190,50,97,419,30,32,457,86,25,16,21,51,43,27,199,31,29,30,23,82,100,16,48,9,18,21,130,33,15,10,65,21,9,20,240,21,18,12,17,20,26,13,25,12,8,12,18
+[Auction "N"]
+1D Pass Pass X 
+Pass 1H 2D X 
+Pass Pass Pass 
+[Play "E"]
+D7 D3 DQ DA 
+C2 C4 CK C9 
+DT DJ D4 D2 
+HT H9 H3 H5 
+D8 D9 C3 D5 
+H4 H2 HK HA 
+HQ H7 S2 HJ 
+S3 S4 SQ S6 
+C6 C7 CA CT 
+SA S7 S5 SJ 
+S9 S8 SK ST 
+-  -  C5 -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "18"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:7.A6432.AT97.K97 QT964.Q8.Q6532.Q AK8532.KT7.J4.A3 J.J95.K8.JT86542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b9b97b9b972424624246"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 11
+N  D  9
+N  C  7
+S NT 11
+S  S  9
+S  H 11
+S  D  9
+S  C  7
+E NT  2
+E  S  4
+E  H  2
+E  D  4
+E  C  6
+W NT  2
+W  S  4
+W  H  2
+W  D  4
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,2,1,266,67,66,80,26,32,25,181,95,17,14,92,715,26,7,10,28,51,41,151,43,20,21,402,27,14,40,203,78,25,73,30,55,12,27,305,20,10,20,34,18,8,11,12,46,7,14
+[Auction "E"]
+Pass 1S 2C 2H 
+Pass 3C =1= Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+CQ CA C2 C7 
+DQ DJ D8 D7 
+S4 SA SJ S7 
+H8 C3 CT CK 
+SQ SK H5 D9 
+D2 D4 DK DA 
+HQ HK H9 H2 
+S6 H7 HJ HA 
+S9 HT C4 C9 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "18"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:7.A6432.AT97.K97 QT964.Q8.Q6532.Q AK8532.KT7.J4.A3 J.J95.K8.JT86542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b9b97b9b972424624246"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 11
+N  D  9
+N  C  7
+S NT 11
+S  S  9
+S  H 11
+S  D  9
+S  C  7
+E NT  2
+E  S  4
+E  H  2
+E  D  4
+E  C  6
+W NT  2
+W  S  4
+W  H  2
+W  D  4
+W  C  6
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,69,129,129,33,25,106,35,82,28,157,32,14,25,158,313,26,33,82,37,20,89,22,17,21,23,124,29,9,19,161,28,15,46,56,388,17,9,20,14,12,75
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+D3 DJ DK DA 
+H8 HK H5 H2 
+HQ HT HJ H3 
+D2 D4 D8 DT 
+DQ S2 C4 D9 
+CQ CA C2 C7 
+S4 H7 H9 HA 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "19"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q973.Q42.AQ95.AJ J54.AK3.J2.QT532 A.9875.KT43.K864 KT862.JT6.876.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "879a8879a75643556435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 10
+N  C  8
+S NT  8
+S  S  7
+S  H  9
+S  D 10
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  5
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,87,22,238,80,120,24,22,22,25,86,13,20,95,492,30,28,14,83,30,21,199,23,19,18,14,22,192,33,123,43,109,56,138,24,12,8,118,26,9,7,28,17
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+C3 C4 C7 CJ 
+H3 H9 HT H4 
+S4 SA S2 S3 
+HA H5 H6 H2 
+SJ C6 S6 SQ 
+C2 C8 C9 CA 
+D2 D3 D6 DA 
+DJ -  -  D5 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "19"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q973.Q42.AQ95.AJ J54.AK3.J2.QT532 A.9875.KT43.K864 KT862.JT6.876.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "879a8879a75643556435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 10
+N  C  8
+S NT  8
+S  S  7
+S  H  9
+S  D 10
+S  C  7
+E NT  5
+E  S  6
+E  H  4
+E  D  3
+E  C  5
+W NT  5
+W  S  6
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,195,66,27,37,66,54,25,35,132,99,50,33,39,67,36,21,293,335,245,470,436,37,43,15,32,15,25,7,76,60,48,25,130,33,8,74,164,18,11,22,23,30,22,33,601,43,103,75,25,30,29,9,99,34,7,22,16
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C =1= Pass 2D =2= Pass 
+2S =3= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+C3 C4 C7 CJ 
+D2 D3 D8 DA 
+DJ DK D6 D5 
+HK H9 HT HQ 
+S4 SA S6 S3 
+C2 C6 C9 CA 
+H3 H7 HJ H4 
+C5 D4 D7 DQ 
+HA H5 H6 H2 
+SJ C8 S2 SQ 
+-  -  -  D9 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "20"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K.KQ86.K753.AK83 987654.J3.962.Q9 AJT3.AT92.AQ8.J7 Q2.754.JT4.T6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "dbddbdbddb0200202002"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 11
+N  H 13
+N  D 13
+N  C 11
+S NT 13
+S  S 11
+S  H 13
+S  D 13
+S  C 11
+E NT  0
+E  S  2
+E  H  0
+E  D  0
+E  C  2
+W NT  0
+W  S  2
+W  H  0
+W  D  0
+W  C  2
+[OptimumScore "NS +2220"]
+[Competition "Teams"]
+% RBDATA 27,2,1,93,194,75,55,32,122,144,56,18,68,21,103,17,847,95,17,22,91,59,24,24,52,22,12,10,81,17,16,9,130,15,16,8,19,20,12,13,13,19,16,8,47,20,12,9,26,13,12,8,53,25,12,23,15,18,10,10,15,9,17,11,15,12,10,4,29,8,8,13
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 4H Pass 4S 
+Pass 4NT Pass 5D 
+Pass 6H Pass Pass 
+Pass 
+[Play "W"]
+C6 CA C9 C7 
+H4 HK H3 H2 
+H5 HQ HJ H9 
+S2 SK S7 S3 
+D4 D3 D6 DA 
+SQ H6 S4 ST 
+H7 H8 S5 HA 
+C2 C3 S6 SA 
+C4 C8 S8 SJ 
+DT D5 D2 DQ 
+DJ DK D9 D8 
+C5 CK CQ CJ 
+CT D7 S9 HT 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "20"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K.KQ86.K753.AK83 987654.J3.962.Q9 AJT3.AT92.AQ8.J7 Q2.754.JT4.T6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "7H"]
+[Result "13"]
+[Score "NS 2210"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "dbddbdbddb0200202002"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 11
+N  H 13
+N  D 13
+N  C 11
+S NT 13
+S  S 11
+S  H 13
+S  D 13
+S  C 11
+E NT  0
+E  S  2
+E  H  0
+E  D  0
+E  C  2
+W NT  0
+W  S  2
+W  H  0
+W  D  0
+W  C  2
+[OptimumScore "NS +2220"]
+[Competition "Teams"]
+% RBDATA 32,0,3,111,84,37,91,28,101,90,51,25,49,30,300,27,277,93,29,36,96,389,27,42,100,29,21,20,72,25,11,15,50,17,68,20,90,27,15,9,26,31,13,24
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 4H Pass 4NT 
+Pass 5S Pass 5NT 
+Pass 7H Pass Pass 
+Pass 
+[Play "W"]
+H4 H6 HJ HA 
+S2 SK S4 S3 
+D4 D3 D6 DA 
+SQ H8 S5 ST 
+H5 HQ H3 H2 
+H7 HK S6 H9 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "21"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q95.4.AT6.KJ8765 KT.AQJ75.J932.T2 A764.KT863.7.Q93 J832.92.KQ854.A4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7864a7764a6579365793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C 10
+S NT  7
+S  S  7
+S  H  6
+S  D  4
+S  C 10
+E NT  6
+E  S  5
+E  H  7
+E  D  9
+E  C  3
+W NT  6
+W  S  5
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,2,1,142,178,61,29,26,75,33,106,27,19,31,40,81,39,50,101,48,20,28,64,204,40,13,75,19,7,25,27,537,20,13,28,31,6,16,28,13,26,24,10,39,10,7,22,21,10,6,12,17,9,3
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2D Pass 3D 
+Pass Pass Pass 
+[Play "S"]
+D7 D4 D6 D9 
+S4 DK DA D2 
+HK H2 H4 HJ 
+HT H9 DT H5 
+SA S2 S5 ST 
+C3 CA C5 C2 
+S6 D5 C6 DJ 
+H3 C4 C7 HA 
+S7 S3 S9 SK 
+H6 S8 C8 HQ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "21"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q95.4.AT6.KJ8765 KT.AQJ75.J932.T2 A764.KT863.7.Q93 J832.92.KQ854.A4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7864a7764a6579365793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C 10
+S NT  7
+S  S  7
+S  H  6
+S  D  4
+S  C 10
+E NT  6
+E  S  5
+E  H  7
+E  D  9
+E  C  3
+W NT  6
+W  S  5
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 6,0,3,121,109,89,281,43,38,85,148,32,58,102,34,240,92,265,39,19,196,27,24,50,116,19,147,19,34,26,32,26,63,42,22,16,86,45,703,39,86,64,14,28,36,21,26,35
+[Auction "N"]
+1C 1H X Pass 
+2C Pass Pass X 
+Pass 2D Pass Pass 
+Pass 
+[Play "S"]
+C3 CA C5 C2 
+HK H2 H4 HJ 
+CQ C4 CJ CT 
+HT H9 D6 H5 
+SA S2 S5 ST 
+H3 DK DA H7 
+D7 DQ DT D2 
+C9 D4 C6 DJ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "22"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.AKJT54.QJ98. KQT.8762.53.7532 843.93.KT72.AT98 9765.Q.A64.KQJ64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "97bb5a7ba52621826218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 11
+N  D 11
+N  C  5
+S NT 10
+S  S  7
+S  H 11
+S  D 10
+S  C  5
+E NT  2
+E  S  6
+E  H  2
+E  D  1
+E  C  8
+W NT  2
+W  S  6
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 7,2,1,56,71,47,98,85,46,31,138,118,177,21,108,379,20,8,7,20,19,15,10,17,6,49,43,20,6,26,10,21,7,26
+[Auction "E"]
+Pass Pass 1C X 
+Pass 1D Pass 2H 
+Pass Pass Pass 
+[Play "E"]
+C5 CA C4 S2 
+H2 H9 HQ HA 
+H6 H3 C6 HK 
+H7 S3 D4 HJ 
+H8 C8 S7 HT 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "22"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.AKJT54.QJ98. KQT.8762.53.7532 843.93.KT72.AT98 9765.Q.A64.KQJ64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "97bb5a7ba52621826218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 11
+N  D 11
+N  C  5
+S NT 10
+S  S  7
+S  H 11
+S  D 10
+S  C  5
+E NT  2
+E  S  6
+E  H  2
+E  D  1
+E  C  8
+W NT  2
+W  S  6
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 7,0,3,108,811,84,104,104,98,51,1159,62,1059,67,72,416,21,23,182,28,10,17,375,31,11,20,39,14,10,15,30,13,9,19,8,23,23,152,13,32,15,86
+[Auction "E"]
+Pass Pass 1C X 
+1D X 1S 2H 
+Pass Pass Pass 
+[Play "E"]
+SK S3 S5 SA 
+H2 H3 HQ HA 
+H6 H9 C4 H4 
+C2 CA C6 S2 
+C3 C8 CJ H5 
+H7 S4 D4 HK 
+H8 S8 D6 HJ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "23"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9832.K84.J53.JT8 Q65.QJ9.T.AK9753 AKT4.T73.Q842.64 J7.A652.AK976.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3534235342a7a9aa7a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  4
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  4
+S  C  2
+E NT 10
+E  S  7
+E  H 10
+E  D  9
+E  C 10
+W NT 10
+W  S  7
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,87,48,32,284,42,63,23,63,88,12,20,199,58,80,27,165,38,9,9,21,10,26,10,121,18,19,10,107,18,39,24,29,12,18,34,39,15,59,28,57,29,18,16,21,11,10,8,32,13,12,11,27,17,11,9,27,16,9,20,11,10,7,8
+[Auction "S"]
+Pass 1NT Pass 2C =1= 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+S8 S5 S4 SJ 
+CJ C3 C4 CQ 
+C8 CA C6 C2 
+CT CK H7 S7 
+H4 C9 H3 H5 
+S2 C7 HT D7 
+S9 C5 D2 D6 
+H8 HQ ST HA 
+D3 DT D4 DA 
+D5 S6 D8 DK 
+HK H9 SA H2 
+S3 SQ SK H6 
+DJ HJ DQ D9 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "23"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:9832.K84.J53.JT8 Q65.QJ9.T.AK9753 AKT4.T73.Q842.64 J7.A652.AK976.Q2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3534235342a7a9aa7a9a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  4
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  4
+S  C  2
+E NT 10
+E  S  7
+E  H 10
+E  D  9
+E  C 10
+W NT 10
+W  S  7
+W  H 10
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,113,293,39,217,71,45,34,72,147,34,55,67,34,18,19,113,124,30,31,67,42,17,29,17,16,19,22,39,27,42,11,22,33,39,11,27,30,22,31,35,34,86,14,69,126,19,16,18,14,22,23,22,12,18,14,20,18,14,44,14,36
+[Auction "S"]
+Pass 1D =1= Pass 2C 
+Pass 2H Pass 3C 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S4 S7 S8 SQ 
+C4 CQ C8 C3 
+C6 C2 CJ CK 
+H7 D6 CT CA 
+H3 H2 H8 C9 
+HT D7 S2 C7 
+D2 SJ S3 C5 
+ST HA H4 HQ 
+D8 DA D5 DT 
+D4 DK D3 S5 
+SK H5 HK H9 
+-  -  DJ S6 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "24"]
+[West "Jack Terry#409544"]
+[North "Jack Armorgie#481882"]
+[East "Anthony Gammon#52541"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AT8.843.J98432 64.QJ74.AQ52.AQ7 Q87.K632.J97.KT6 AJT9532.95.KT6.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "33438334389a8958a895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  8
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  8
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,118,84,775,53,20,12,113,305,42,22,94,32,19,33,26,26,31,36,106,29,23,10,36,11,21,9,58,15,10,12,72,29,10,24,44,13,18,32,52,10,16,18,21,9,9,10,15,9,19,10,16,10,6,4,13,8,6,4
+[Auction "W"]
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+C4 CA C6 C5 
+SK S4 S7 SJ 
+CJ CQ CK S2 
+D8 DQ D9 D6 
+C2 S6 S8 S9 
+C3 H4 SQ SA 
+C8 C7 H2 ST 
+C9 H7 H3 S5 
+H8 HJ CT S3 
+D3 D2 D7 DK 
+D4 DA DJ DT 
+HT D5 H6 H5 
+HA HQ HK H9 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "24"]
+[West "Jim Simons#5149"]
+[North "Andrew Urbanski#99621"]
+[East "Patrick Phair#59940"]
+[South "Mike Letts#33128"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AT8.843.J98432 64.QJ74.AQ52.AQ7 Q87.K632.J97.KT6 AJT9532.95.KT6.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "33438334389a8958a895"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  8
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  8
+E NT  9
+E  S 10
+E  H  8
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  8
+W  D  9
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 13,0,3,515,98,57,49,219,67,57,11,30,42,14,33,138,576,54,17,16,69,11,56,8,49,9,27,10,11,10,17,13,46,16,55
+[Auction "W"]
+3S Pass Pass Pass 
+[Play "N"]
+C4 CA C6 C5 
+SK S4 S8 S9 
+D8 D2 D9 DT 
+C8 S6 S7 SA 
+D4 D5 D7 DK 
+D3 DA DJ D6 
+C2 DQ H2 H5 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "25"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A3.T63.T985.T765 KQJ97.984.43.QJ2 4.A72.KJ76.AK983 T8652.KQJ5.AQ2.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "63498634986a9456a844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  9
+N  C  8
+S NT  6
+S  S  3
+S  H  4
+S  D  9
+S  C  8
+E NT  6
+E  S 10
+E  H  9
+E  D  4
+E  C  5
+W NT  6
+W  S 10
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,1,3,47,271,166,108,41,96,128,483,23,66,26,24,13,61,149,44,30,256,31,17,20,49,19,29,16,86,154,18,9,18,26,8,19
+[Auction "N"]
+Pass Pass 1C X 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+CK C4 C5 C2 
+D7 DQ D8 D3 
+S4 S2 S3 SK 
+HA H5 H3 H4 
+DK DA D5 D4 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "25"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A3.T63.T985.T765 KQJ97.984.43.QJ2 4.A72.KJ76.AK983 T8652.KQJ5.AQ2.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "63498634986a9456a844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  9
+N  C  8
+S NT  6
+S  S  3
+S  H  4
+S  D  9
+S  C  8
+E NT  6
+E  S 10
+E  H  9
+E  D  4
+E  C  5
+W NT  6
+W  S 10
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,0,119,93,478,74,128,66,69,65,18,680,51,39,10,16,226,11,11,86,60,15,31,115,15,40,31,131,45,44,22,246,11,12,29,17,20,59,25
+[Auction "N"]
+Pass Pass 1C X 
+2C 2S 3C 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+CK C4 C5 C2 
+CA S2 C7 CQ 
+S4 S5 S3 SJ 
+H7 HJ H6 H4 
+C9 S6 SA S7 
+D6 DQ DT D3 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "26"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K9652.KT.JT4.T75 T3.843.9873.AJ96 J.AQJ752.AQ2.KQ3 AQ874.96.K65.842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a8a98a8a983534535344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D  9
+N  C  8
+S NT 10
+S  S  8
+S  H 10
+S  D  9
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  5
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,2,0,66,76,109,54,33,48,94,112,31,32,35,119,187,31,14,146,20,18,14,40,51,19,20,56,33,15,50,488,24,47,12,165,21,16,13,14
+[Auction "E"]
+Pass 1H 1S Pass 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+H6 HT H4 H5 
+C8 C5 CA C3 
+H9 HK H3 H2 
+DK DJ D3 D2 
+SA S2 S3 SJ 
+D6 D4 D7 DA 
+-  -  -  HA 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "26"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K9652.KT.JT4.T75 T3.843.9873.AJ96 J.AQJ752.AQ2.KQ3 AQ874.96.K65.842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a8a98a8a983534535344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D  9
+N  C  8
+S NT 10
+S  S  8
+S  H 10
+S  D  9
+S  C  8
+E NT  3
+E  S  5
+E  H  3
+E  D  4
+E  C  5
+W NT  3
+W  S  5
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,1,3,88,128,56,97,39,314,100,28,62,24,34,478,141,58,49,224,37,18,24,416,27,36,19,59,22,26,24,131,28,34,27,12,20,29,14,31,26,20,20,29,141,19,63
+[Auction "E"]
+Pass 1H 1S 1NT 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+D5 D4 D7 DQ 
+SA S2 S3 SJ 
+C4 C5 CA C3 
+C8 C7 C6 CQ 
+H6 HT H3 H2 
+H9 HK H4 H5 
+S4 SK ST D2 
+S7 S5 H8 HJ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "27"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AT9.T8763.65.JT6 8742.QJ942.K.K42 KQJ53.A.T9432.A9 6.K5.AQJ87.Q8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "78564785746576965769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  6
+N  C  4
+S NT  7
+S  S  8
+S  H  5
+S  D  7
+S  C  4
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  9
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 10,1,3,142,456,96,52,381,30,63,140,139,21,28,150,98,21,32,215,35,14,27,77,32,17,12,152,37,39,21,51,20,26,23,35,26,52,22,82,27,31,18,20,71,35,26,21,45,16,22
+[Auction "S"]
+1S 2NT =1= Pass 3C 
+Pass Pass Pass 
+[Play "S"]
+SK S6 S9 S2 
+S3 C3 ST S4 
+D4 D7 D6 DK 
+HA H5 H3 H2 
+D2 DA D5 S7 
+CA C5 C6 CK 
+D3 DQ CT S8 
+C9 HK H6 H4 
+DT D8 CJ H9 
+S5 C7 SA HJ 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "27"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AT9.T8763.65.JT6 8742.QJ942.K.K42 KQJ53.A.T9432.A9 6.K5.AQJ87.Q8753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "78564785746576965769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  6
+N  C  4
+S NT  7
+S  S  8
+S  H  5
+S  D  7
+S  C  4
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  9
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,78,125,339,40,39,43,10,30,137,136,138,21,445,67,15,14,568,39,36,13,15,133,13,17,485,35,160,21,43,24,14,36,22,61,14,184,39,14,134,41,15,31,26,77,89,90,18,125,11,21,19,10,15,24,12,9,11,18,8,11
+[Auction "S"]
+1S 2NT =1= 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+C5 C6 CK CA 
+D7 D5 DK D9 
+H5 H3 HQ HA 
+D8 D6 C2 D3 
+DJ S9 H2 D2 
+HK H6 H4 S3 
+DQ ST C4 D4 
+C3 H7 H9 SK 
+DA SA HJ DT 
+C7 CT S2 C9 
+S6 H8 S7 SQ 
+C8 HT S4 SJ 
+CQ CJ S8 S5 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "28"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8.KQT3.A32.A7542 AQJ653.A65.98.JT T7.82.KQJ4.KQ863 K942.J974.T765.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "11"]
+[Score "NS 750"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "658ab658ab4852148521"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D 10
+N  C 11
+S NT  6
+S  S  5
+S  H  8
+S  D 10
+S  C 11
+E NT  4
+E  S  8
+E  H  5
+E  D  2
+E  C  1
+W NT  4
+W  S  8
+W  H  5
+W  D  2
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 20,1,3,68,54,50,255,278,141,36,122,36,23,114,23,15,16,103,49,13,19,118,18,8,21,124,28,10,8,18,32,18,62
+[Auction "W"]
+Pass 1C 1S 3C =1= 
+3S 4C 4S 5C 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+SA S7 S2 S8 
+S6 ST SK C2 
+CT C3 C9 CA 
+CJ CK S9 C4 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "28"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8.KQT3.A32.A7542 AQJ653.A65.98.JT T7.82.KQJ4.KQ863 K942.J974.T765.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "8"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "658ab658ab4852148521"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D 10
+N  C 11
+S NT  6
+S  S  5
+S  H  8
+S  D 10
+S  C 11
+E NT  4
+E  S  8
+E  H  5
+E  D  2
+E  C  1
+W NT  4
+W  S  8
+W  H  5
+W  D  2
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 23,2,0,142,100,50,135,152,180,373,44,38,12,17,503,21,11,56,18,15,12,244,28,8,11,35,24,4,23,101,31,13,5,49,11,10,12,31,22,9,5,14,16,15,11,7,17,12,9,3
+[Auction "W"]
+Pass 1C 1S 3C 
+3S 5C 5S Pass 
+Pass Pass 
+[Play "S"]
+DK D5 D3 D8 
+DQ D6 D2 D9 
+CK C9 C7 CT 
+D4 D7 DA S3 
+S7 S2 S8 SA 
+ST S4 C2 SQ 
+H2 H4 H3 HA 
+H8 H9 HT H5 
+C3 H7 HK H6 
+-  -  HQ -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "29"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K32.64.AQ8.T8532 QJ8754.5.954.K97 T9.Q932.KT732.Q6 A6.AKJT87.J6.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "63475634757a9687a968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  7
+N  C  5
+S NT  6
+S  S  3
+S  H  4
+S  D  7
+S  C  5
+E NT  7
+E  S 10
+E  H  9
+E  D  6
+E  C  8
+W NT  7
+W  S 10
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,3,54,102,112,773,29,132,29,58,90,19,50,151,171,29,20,381,25,28,20,83,96,15,23,266,22,21,10,25,9,16,9,38,39,26,20,26,47,27,13,74,13,15,15
+[Auction "N"]
+Pass 2S Pass 2NT =1= 
+Pass 3C =2= Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+D7 D6 DA D4 
+DK DJ DQ D5 
+CQ CA C2 C7 
+H2 HA H6 H5 
+H3 HK H4 D9 
+S9 SA S2 S4 
+ST S6 S3 SJ 
+D2 H7 SK S5 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "29"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K32.64.AQ8.T8532 QJ8754.5.954.K97 T9.Q932.KT732.Q6 A6.AKJT87.J6.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "63475634757a9687a968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  4
+N  D  7
+N  C  5
+S NT  6
+S  S  3
+S  H  4
+S  D  7
+S  C  5
+E NT  7
+E  S 10
+E  H  9
+E  D  6
+E  C  8
+W NT  7
+W  S 10
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,2,0,126,99,76,96,52,39,93,167,35,319,226,60,10,13,67,30,36,128,11,11,27,10,5,11,19,52,12,16,32,427,33,10,7,7,19,50,11,5,24,14,45,17,33,11,4,18,10,22,4
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 2S =1= Pass Pass 
+Pass 
+[Play "S"]
+D3 D6 DQ D4 
+S9 SA S2 S4 
+H2 HA H4 H5 
+H3 HK H6 D5 
+ST S6 S3 SJ 
+D2 DJ DA D9 
+D7 H7 SK S5 
+DT H8 D8 S7 
+C6 C4 C2 CK 
+CQ CA C3 C7 
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "30"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:JT82.K63.K7.9732 Q974.9874.AQ6.A6 AK3.QJ52.J8432.8 65.AT.T95.KQJT54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "36773367739766996559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  7
+N  C  3
+S NT  3
+S  S  6
+S  H  7
+S  D  7
+S  C  3
+E NT  9
+E  S  7
+E  H  6
+E  D  6
+E  C  9
+W NT  9
+W  S  6
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 5,1,3,91,64,72,137,55,28,35,47,22,56,276,113,37,28,102,15,26,23,28,17,17,23,36,21,25,103,26,20,23,375,48,25,18,55,50,20,9,21,207,42,16,30,196,23,62,26,45,24,28,18,34
+[Auction "E"]
+1C Pass 1S Pass 
+1NT Pass 2C Pass 
+Pass Pass 
+[Play "S"]
+D3 D5 DK DA 
+C8 C4 C2 CA 
+D2 CK C3 C6 
+H2 CQ C7 H4 
+D4 CJ C9 H7 
+DJ DT D7 D6 
+SA S5 S8 S4 
+HQ HA H3 H8 
+SK S6 S2 SQ 
+HJ HT H6 H9 
+H5 -  -  -  
+*
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "30"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:JT82.K63.K7.9732 Q974.9874.AQ6.A6 AK3.QJ52.J8432.8 65.AT.T95.KQJT54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "36773367739766996559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  6
+N  H  7
+N  D  7
+N  C  3
+S NT  3
+S  S  6
+S  H  7
+S  D  7
+S  C  3
+E NT  9
+E  S  7
+E  H  6
+E  D  6
+E  C  9
+W NT  9
+W  S  6
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 9,2,0,112,85,359,87,77,49,69,201,27,11,67,403,15,13,31,11,25,11,40,43,15,34,54,9,270,54,12,14,29,231,35,10,47,30,17,11,50,29,27,8,33,26,24,14,26,23,20,31,7,42,59,17,229,40,9,18,3,16
+[Auction "E"]
+1C X 2NT Pass 
+Pass Pass 
+[Play "N"]
+SJ SQ SK S5 
+H3 H4 H2 HA 
+C2 CA C8 C4 
+C3 C6 D4 CQ 
+C7 S4 D2 CK 
+C9 S7 H5 CJ 
+S8 S9 D8 CT 
+S2 D6 D3 C5 
+D7 DA DJ D5 
+H6 H7 HJ HT 
+ST DQ SA S6 
+DK H8 S3 D9 
+HK H9 HQ DT 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "31"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ85.QJ2.95.Q973 Q63.86.AKQT.K642 T74.AK943.8643.T A92.T75.J72.AJ85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66755667557668876688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  7
+S  D  5
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D  8
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 9,1,3,85,62,25,55,33,393,62,52,38,21,32,83,202,20,23,66,28,65,17,26,17,8,22,28,46,18,58,25,129,18,34,91,120,21,23,152,23,16,18,20,15,15,7,28,14,14,18,24,15,17,69,34,20,16,9,17,15,23,14,14,8,16,11
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass 2S =1= Pass 2NT 
+Pass Pass Pass 
+[Play "S"]
+H4 H5 HJ H6 
+HA H7 HQ H8 
+HK HT H2 C2 
+H9 S2 S5 C4 
+H3 C5 D9 S3 
+S4 SA S8 S6 
+D3 DJ D5 DQ 
+D4 D2 C7 DA 
+D6 D7 SJ DK 
+D8 S9 C3 DT 
+CT C8 C9 CK 
+S7 CA CQ C6 
+ST CJ SK SQ 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "31"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KJ85.QJ2.95.Q973 Q63.86.AKQT.K642 T74.AK943.8643.T A92.T75.J72.AJ85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66755667557668876688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D  5
+N  C  5
+S NT  6
+S  S  6
+S  H  7
+S  D  5
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D  8
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 10,2,0,114,167,41,296,87,133,51,38,33,224,23,54,182,37,28,135,46,14,25,200,183,12,29,112,44,510,16,35,14,18,40,92,14,10,14,117,20,13,15,39,365,47,10,39,10,14,66,107,13,12,12,18,10,18,9,10,26,16,10,6,24,7,10
+[Auction "S"]
+Pass Pass Pass 1D 
+1H 2C 2H 3C 
+Pass Pass Pass 
+[Play "N"]
+HQ H6 H3 H7 
+HJ H8 HK H5 
+CQ CK CT CJ 
+C3 C2 H4 CA 
+H2 C4 H9 HT 
+D5 DA D3 D2 
+D9 DT D4 DJ 
+S5 DQ D6 D7 
+S8 DK D8 S2 
+SJ S3 S7 SA 
+SK S6 S4 S9 
+C9 C6 ST C5 
+C7 SQ HA C8 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "32"]
+[West "Mike Letts#33128"]
+[North "Jack Armorgie#481882"]
+[East "Andrew Urbanski#99621"]
+[South "Val Constable#87776"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K874.KT82.AQT62. 952.QJ73.J74.K96 AJ6.A964.5.A8432 QT3.5.K983.QJT75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "9ac989ac984214542145"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 12
+N  D  9
+N  C  8
+S NT  9
+S  S 10
+S  H 12
+S  D  9
+S  C  8
+E NT  4
+E  S  2
+E  H  1
+E  D  4
+E  C  5
+W NT  4
+W  S  2
+W  H  1
+W  D  4
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 27,2,0,117,51,35,131,67,26,101,81,124,359,49,104,36,8,16,75,272,45,22,503,43,23,26,15,20,14,45,26,39,13,29,27,17,15,14,112,69,14,15,14,169,23,21,26,35,12,8,54,23,19,24,67,182,18,36,11,23,27,15,18,11,23,28,12,8,8,10
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 4C Pass 4NT 
+Pass 5NT Pass 6H 
+Pass Pass Pass 
+[Play "W"]
+CQ S4 C9 CA 
+D3 DA D7 D5 
+D8 D2 D4 H4 
+C5 H2 C6 C2 
+D9 D6 DJ H6 
+S3 SK S5 S6 
+DK DT S2 H9 
+H5 H8 H3 HA 
+C7 HT CK C3 
+CT DQ HJ C4 
+CJ HK H7 C8 
+SQ S7 S9 SJ 
+ST S8 HQ SA 
+
+[Event "22 November Crockfords Urbanski vs Constable"]
+[Site "RealBridge"]
+[Date "2023.11.22"]
+[Board "32"]
+[West "Jim Simons#5149"]
+[North "Jack Terry#409544"]
+[East "Patrick Phair#59940"]
+[South "Anthony Gammon#52541"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K874.KT82.AQT62. 952.QJ73.J74.K96 AJ6.A964.5.A8432 QT3.5.K983.QJT75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Constable team"]
+[VisitTeam "Urbanski team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "9ac989ac984214542145"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 12
+N  D  9
+N  C  8
+S NT  9
+S  S 10
+S  H 12
+S  D  9
+S  C  8
+E NT  4
+E  S  2
+E  H  1
+E  D  4
+E  C  5
+W NT  4
+W  S  2
+W  H  1
+W  D  4
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 22,1,3,72,43,72,41,58,164,92,476,50,26,31,304,49,57,28,119,31,77,1572,32,51,76,30,18,36,1097,210,18,21,215,28,76,15,698,37,49,23,65,38,20,14,28,42,26,15,18,19,21,18,64,166,64,21,106,25,23
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 3H Pass 4C 
+Pass 4D Pass 4NT 
+Pass 5H Pass Pass 
+Pass 
+[Play "W"]
+CQ H2 C6 C2 
+SQ S4 S5 SJ 
+C5 H8 C9 C3 
+S3 S7 S2 SA 
+C7 HT CK C4 
+H5 HK H3 H4 
+D3 DA D7 D5 
+D8 D2 D4 H6 
+D9 D6 H7 HA 
+CT DT -  CA 
+*

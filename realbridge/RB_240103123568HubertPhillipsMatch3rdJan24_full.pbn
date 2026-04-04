@@ -1,0 +1,3816 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "1"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJ7.QJ863.T9.J65 8.T4.KQJ862.A973 KQ9432.AK2.74.K8 T65.975.A53.QT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "6aa446aa442119921199"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H 10
+N  D  4
+N  C  4
+S NT  6
+S  S 10
+S  H 10
+S  D  4
+S  C  4
+E NT  2
+E  S  1
+E  H  1
+E  D  9
+E  C  9
+W NT  2
+W  S  1
+W  H  1
+W  D  9
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 20,2,1,136,62,204,50,157,158,77,54,209,35,233,40,36,51,104,115,103,33,201,25,13,9,26,27,7,17,267,27,12,26,19,32,17,7,45,30,11,55,20,29,12,6,19,27,15,15,21,18
+[Auction "N"]
+Pass 1D 1S Pass 
+2S 3C 4S 5C 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+SK S5 S7 S8 
+HA H5 H3 HT 
+HK H7 H6 H4 
+H2 H9 HJ C3 
+CK C2 C5 C7 
+S2 S6 SA C9 
+C8 C4 C6 CA 
+D7 DA DT D2 
+-  CQ CJ -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "1"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJ7.QJ863.T9.J65 8.T4.KQJ862.A973 KQ9432.AK2.74.K8 T65.975.A53.QT42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "6aa446aa442119921199"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H 10
+N  D  4
+N  C  4
+S NT  6
+S  S 10
+S  H 10
+S  D  4
+S  C  4
+E NT  2
+E  S  1
+E  H  1
+E  D  9
+E  C  9
+W NT  2
+W  S  1
+W  H  1
+W  D  9
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,0,3,612,175,316,222,157,67,125,65,100,33,160,143,33,19,17,20,100,26,131,17,14,17,41,159,26,8,47,13,12,24,138,15,12,29,48,13,11,13
+[Auction "N"]
+Pass 1D 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+C2 C5 CA C8 
+C4 C6 C3 CK 
+S6 SA S8 S2 
+S5 SJ D8 S3 
+ST S7 D2 SK 
+H5 H3 H4 HA 
+H7 H6 HT HK 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "2"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.742.KT85.AJ86 KQ86.KQT9.Q43.Q9 942.A63.AJ96.KT3 J753.J85.72.7542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a68baa68ba3652336523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S  6
+S  H  8
+S  D 11
+S  C 10
+E NT  3
+E  S  6
+E  H  5
+E  D  2
+E  C  3
+W NT  3
+W  S  6
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,220,185,50,118,43,287,74,54,46,70,514,30,11,91,23,56,9,22,16,8,18,548,41,10,35,77,17,17,25,336,40,18,65,41,14,10,21,13,34,34,22,24,25,8,40,16,17,8,79,8,38,7,34,17,9,9,13,7,21,7,18
+[Auction "E"]
+1D Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+HK H3 H5 H2 
+HQ H6 H8 H4 
+HT HA HJ H7 
+D4 D6 D2 DK 
+D3 D9 D7 DT 
+C9 CK C2 C6 
+CQ CT C4 C8 
+H9 S2 S7 ST 
+SK S4 S3 SA 
+DQ DA S5 D5 
+S6 DJ SJ D8 
+S8 C3 C5 CA 
+SQ S9 C7 CJ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "2"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.742.KT85.AJ86 KQ86.KQT9.Q43.Q9 942.A63.AJ96.KT3 J753.J85.72.7542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a68baa68ba3652336523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  8
+N  D 11
+N  C 10
+S NT 10
+S  S  6
+S  H  8
+S  D 11
+S  C 10
+E NT  3
+E  S  6
+E  H  5
+E  D  2
+E  C  3
+W NT  3
+W  S  6
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 7,0,3,344,80,346,78,50,63,17,109,210,196,44,40,18,53,19,18,249,38,17,32,161,26,19,42,198,15,16,24,684,132,13,38,24,29,28,25,242,44,11,19,26,26,13,16,11,79,17,63,36,20,16,11,19,15,16,10,12,33,9,26
+[Auction "E"]
+1NT =1= Pass 2C Pass 
+2H Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+S4 S3 SA S6 
+S9 S5 ST SQ 
+H3 H5 H2 H9 
+H6 H8 H4 HT 
+HA HJ H7 HQ 
+S2 SJ C8 S8 
+CK C2 C6 CQ 
+D6 D2 DK D3 
+C3 C4 CA C9 
+CT C5 CJ HK 
+D9 S7 D5 SK 
+DJ D7 D8 D4 
+DA C7 DT DQ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "3"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q832.T4.Q32.AT95 AT9.A9.987.KJ863 J754.KQJ8732.J.4 K6.65.AKT654.Q72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3782337823965aa965aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  8
+N  D  2
+N  C  3
+S NT  3
+S  S  7
+S  H  8
+S  D  2
+S  C  3
+E NT  9
+E  S  6
+E  H  5
+E  D 10
+E  C 10
+W NT  9
+W  S  6
+W  H  5
+W  D 10
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,143,46,274,316,1180,103,61,180,79,99,25,24,29,44,13,18,22,28,30,60,64,25,26,40,274,54,171,30,45,26,18,11,17,17,11,9,12,23,8,13
+[Auction "S"]
+1H 2D X =1= 2NT 
+4H Pass Pass Pass 
+[Note "1:  * 4♠ 8+ pts [0:17]"]
+[Play "W"]
+DA D2 D9 DJ 
+SK S3 S9 S5 
+S6 S2 SA SJ 
+H5 S8 ST S4 
+H6 H4 HA H2 
+D4 D3 D8 H7 
+D5 HT H9 HK 
+D6 C5 C3 HQ 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "3"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q832.T4.Q32.AT95 AT9.A9.987.KJ863 J754.KQJ8732.J.4 K6.65.AKT654.Q72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3782337823965aa965aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  8
+N  D  2
+N  C  3
+S NT  3
+S  S  7
+S  H  8
+S  D  2
+S  C  3
+E NT  9
+E  S  6
+E  H  5
+E  D 10
+E  C 10
+W NT  9
+W  S  6
+W  H  5
+W  D 10
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,428,170,232,67,45,19,157,151,62,17,388,62,34,20,22,26,30,14,212,74,45,29,26,26,14,68,249,25,28,14,188
+[Auction "S"]
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+DK D2 D7 DJ 
+SK S2 S9 S4 
+S6 S3 SA S5 
+D4 D3 D8 H2 
+H5 HT HA H3 
+H6 S8 ST SJ 
+DA -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "4"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J865.A4.AQ62.KQ6 K974.QJ82.43.J85 A2.976.KT987.T93 QT3.KT53.J5.A742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "976a7976a74663546635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 10
+N  C  7
+S NT  9
+S  S  7
+S  H  6
+S  D 10
+S  C  7
+E NT  4
+E  S  6
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,0,3,132,209,53,266,51,115,114,26,34,246,37,42,19,133,21,7,28,36,20,14,17,20,18,19,27,24,61,21,19,23,17,12,73,21,33,313,130,24,13,20,22,17,22,22,18,18
+[Auction "W"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "E"]
+S4 S2 SQ S6 
+HJ H6 H3 H4 
+S7 SA S3 S5 
+D3 D7 D5 DA 
+D4 D8 DJ DQ 
+C5 DK C4 D6 
+S9 DT C2 D2 
+H2 D9 C7 S8 
+C8 C3 CA C6 
+SK H7 ST SJ 
+HQ -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "4"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:J865.A4.AQ62.KQ6 K974.QJ82.43.J85 A2.976.KT987.T93 QT3.KT53.J5.A742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "976a7976a74663546635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 10
+N  C  7
+S NT  9
+S  S  7
+S  H  6
+S  D 10
+S  C  7
+E NT  4
+E  S  6
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,1380,43,45,239,201,114,50,51,44,82,455,25,14,145,17,27,14,12,44,10,24,21,13,9,13,29,65,13,46,14,28,22,16,18,95,8,34,12,36,22,13,83,30,7,37,39,11,15,10,12,10,17,8,13,15,4,12,19,6,7,58
+[Auction "W"]
+Pass 1D Pass 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+H8 H9 HK H4 
+H2 H6 H3 HA 
+D3 D7 D5 DA 
+D4 D8 DJ DQ 
+S7 DK C2 D6 
+C5 D9 C4 D2 
+C8 DT H5 S5 
+CJ C3 C7 CK 
+S4 C9 CA C6 
+HQ H7 HT S6 
+HJ S2 S3 S8 
+S9 SA ST SJ 
+SK CT SQ CQ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "5"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:72.AJ874.A8.T982 QJ3.K92.KT964.Q7 T986.T63.753.K63 AK54.Q5.QJ2.AJ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2252422524aa7b8ab8b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  5
+N  D  2
+N  C  4
+S NT  2
+S  S  2
+S  H  5
+S  D  2
+S  C  4
+E NT 10
+E  S 10
+E  H  7
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H  8
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,0,3,263,206,59,73,96,224,101,207,271,53,119,118,66,48,43,33,367,79,42,31,26,49,20,19,108,45,45,45,38,16,35,21,59,32,18,14,89,16,14,38
+[Auction "N"]
+Pass Pass Pass 1C 
+1H 2D Pass 2H =1= 
+X 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Play "S"]
+H3 HQ HA H2 
+HT H5 H4 H9 
+H6 C4 H7 HK 
+D3 DQ DA D4 
+D5 C5 HJ C7 
+D7 CJ H8 D6 
+-  -  C2 -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "5"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:72.AJ874.A8.T982 QJ3.K92.KT964.Q7 T986.T63.753.K63 AK54.Q5.QJ2.AJ54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2252422524aa7b8ab8b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  5
+N  D  2
+N  C  4
+S NT  2
+S  S  2
+S  H  5
+S  D  2
+S  C  4
+E NT 10
+E  S 10
+E  H  7
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H  8
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,86,212,51,33,75,73,46,386,112,36,115,195,92,30,57,12,39,47,431,213,112,161,33,10,22,11,39,12,10,564,55,11,16,84,104,41,21,15,40,179,55,149,32,11,87,12,22,37
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 2S Pass 3C =1= 
+Pass 3D Pass 4C =2= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: Alerted"]
+[Note "2: Alerted"]
+[Play "N"]
+S7 SQ S6 S4 
+S2 SJ S8 S5 
+H4 S3 S9 SA 
+DA D4 D3 DQ 
+CT C7 C3 CJ 
+H7 CQ ST SK 
+HA H2 H3 HQ 
+C9 H9 CK -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "6"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J942.QT2.943.QT3 QT6.A96.AT2.KJ86 3.54.KQ875.97542 AK875.KJ873.J6.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1114311143ccc98bcc88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  3
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  3
+E NT 12
+E  S 12
+E  H 12
+E  D  9
+E  C  8
+W NT 11
+W  S 12
+W  H 12
+W  D  8
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 28,0,3,598,83,484,80,203,63,124,59,188,81,305,71,40,51,80,60,41,31,136,280,42,21,86,41,18,18,31,30,15,14,23,15,64,18,238,38,17,28,41,32,18,24,42,20,16,40,116,128,19,22,79,42,59,123,20
+[Auction "E"]
+1NT =1= Pass 2H =2= Pass 
+2S =3= Pass 3H Pass 
+4S Pass 5C Pass 
+5D Pass 6S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: TRANSFER"]
+[Note "3: completing transfer"]
+[Play "S"]
+DK D6 D3 DA 
+C2 CA C3 C6 
+S3 SA S2 S6 
+D5 S5 S4 SQ 
+C4 DJ CT CK 
+H5 H3 H2 HA 
+H4 HJ HQ H6 
+C5 S7 CQ C8 
+C7 SK S9 ST 
+-  HK -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "6"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J942.QT2.943.QT3 QT6.A96.AT2.KJ86 3.54.KQ875.97542 AK875.KJ873.J6.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1114311143ccc98bcc88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  4
+N  C  3
+S NT  1
+S  S  1
+S  H  1
+S  D  4
+S  C  3
+E NT 12
+E  S 12
+E  H 12
+E  D  9
+E  C  8
+W NT 11
+W  S 12
+W  H 12
+W  D  8
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 18,2,1,342,90,124,86,44,71,308,91,58,65,11,79,96,153,41,31,136,23,12,34,12,18,19,107,234,57,9,13,25,22,35,24,90,17,69,14,31,10,9,82,19,96
+[Auction "E"]
+1C Pass 1S =1= Pass 
+2S Pass 4C =2= Pass 
+4S Pass Pass Pass 
+[Note "1: 5+ ♠"]
+[Note "2: Alerted"]
+[Play "N"]
+C3 C6 C7 CA 
+S2 S6 S3 SA 
+S4 SQ C2 S5 
+H2 HA H5 H3 
+HQ H9 H4 HJ 
+SJ ST D7 SK 
+HT H6 D5 HK 
+D3 -  -  H8 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "7"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT6.J32.AQT93.6 4.876.J64.AKQ874 97.AKQ94.K8.J953 AJ8532.T5.752.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98aa798aa73521635216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D 10
+N  C  7
+S NT  9
+S  S  8
+S  H 10
+S  D 10
+S  C  7
+E NT  3
+E  S  5
+E  H  2
+E  D  1
+E  C  6
+W NT  3
+W  S  5
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,235,73,258,66,204,79,57,44,87,34,60,249,42,63,18,48,62,35,119,82,100,13,27,36,11,46,89,36,13,10,128,32,14,9
+[Auction "S"]
+1H Pass 1S 2C 
+Pass Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+CT C6 CQ C3 
+SA S6 S4 S7 
+S5 SQ H6 S9 
+C2 H2 CA C5 
+H5 HJ H7 H4 
+HT H3 H8 HA 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "7"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT6.J32.AQT93.6 4.876.J64.AKQ874 97.AKQ94.K8.J953 AJ8532.T5.752.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98aa798aa73521635216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D 10
+N  C  7
+S NT  9
+S  S  8
+S  H 10
+S  D 10
+S  C  7
+E NT  3
+E  S  5
+E  H  2
+E  D  1
+E  C  6
+W NT  3
+W  S  5
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,2,1,97,180,96,143,638,54,428,51,50,14,36,176,28,18,45,42,22,22,22,88,22,28,371,50,11,95,70,35,12,9,16,37,13,10,60,16,45,11
+[Auction "S"]
+1H Pass 2D 3C 
+3H 3S 4H Pass 
+Pass Pass 
+[Play "W"]
+CT C6 CQ C5 
+SA S6 S4 S9 
+S5 SQ H6 S7 
+C2 H2 CA C3 
+H5 HJ H7 H4 
+HT H3 H8 HA 
+S8 ST C4 HK 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "8"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8643.AQ5.J64.T95 AKQJT752.32.83.A 9.KJT76.QT95.KJ8 .984.AK72.Q76432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "22765227658b5578b557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  6
+N  C  5
+S NT  2
+S  S  2
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S 11
+E  H  5
+E  D  5
+E  C  7
+W NT  8
+W  S 11
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,246,50,264,160,24,59,142,208,33,16,20,38,15,35,18,30,15,21,39,38,19,13,27,28,17,13,28,92,15,17,32,79,17,56,34,157,33,50,56,64,20,102,20,26,78,47,221,31,10,21,38,10,21,20,16,14,17,9
+[Auction "W"]
+Pass Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+DT DA D4 D3 
+C8 C2 C9 CA 
+S9 C3 S3 SA 
+H7 H4 S4 SK 
+H6 C4 S6 SQ 
+D5 D2 S8 SJ 
+HT C6 C5 ST 
+CJ H8 CT S7 
+HJ H9 H5 S5 
+HK D7 HQ H2 
+D9 DK D6 D8 
+CK C7 DJ S2 
+DQ CQ HA H3 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "8"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8643.AQ5.J64.T95 AKQJT752.32.83.A 9.KJT76.QT95.KJ8 .984.AK72.Q76432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "22765227658b5578b557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  6
+N  C  5
+S NT  2
+S  S  2
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S 11
+E  H  5
+E  D  5
+E  C  7
+W NT  8
+W  S 11
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 28,2,1,167,58,56,231,198,69,129,61,470,87,21,57,101,210,40,35,152,58,34,209,49,174,15,20,33,439,85,10,36,96,82,11,54,857,95,131,44,47,33,29,32,39,17,8,33,23,19,9,68,10,31,210,48,12,11,19,23,52,11,11,17,10,9,12
+[Auction "W"]
+Pass Pass 2C Pass 
+3C Pass 4S Pass 
+6S Pass Pass Pass 
+[Play "S"]
+S9 C2 S3 SA 
+H6 C3 S4 SK 
+H7 C4 S6 SQ 
+D5 H4 S8 SJ 
+C8 H8 H5 ST 
+CJ H9 HQ S7 
+HT D2 D4 S5 
+CK C6 C5 CA 
+D9 DA D6 D3 
+DT CQ C9 H2 
+DQ DK DJ D8 
+HJ D7 CT H3 
+HK C7 HA S2 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "9"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q2.KQ754.AT876.4 JT5.AJ32.KQ4.QJ7 A3.T86.J92.K9853 K98764.9.53.AT62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "7"]
+[Score "NS -800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "3277532775aa668aa668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  7
+N  D  7
+N  C  5
+S NT  3
+S  S  2
+S  H  7
+S  D  7
+S  C  5
+E NT 10
+E  S 10
+E  H  6
+E  D  6
+E  C  8
+W NT 10
+W  S 10
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 22,0,3,154,128,122,78,91,182,296,52,41,225,47,34,30,30,157,70,14,175,54,63,19,212,46,9,19,456,29,19,63,238,144,52,19,21,44,52,26,53,47,14,10,36,33,7,19,648,92,17,20,28,39,28,49,96,48,140,21,11,22,10,9,14,9,7,11
+[Auction "N"]
+1H Pass 2H 2S 
+4H 4S 5H Pass 
+Pass X Pass Pass 
+Pass 
+[Play "E"]
+SJ S3 SK S2 
+DQ D2 D5 D6 
+S5 SA S4 SQ 
+HA H6 H9 HK 
+CQ CK CA C4 
+D4 D9 D3 DA 
+DK DJ S6 D7 
+CJ C3 C2 H4 
+C7 C5 S7 DT 
+H2 H8 S8 D8 
+H3 HT C6 HQ 
+HJ C8 S9 H5 
+ST C9 CT H7 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "9"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q2.KQ754.AT876.4 JT5.AJ32.KQ4.QJ7 A3.T86.J92.K9853 K98764.9.53.AT62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "3277532775aa668aa668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  7
+N  D  7
+N  C  5
+S NT  3
+S  S  2
+S  H  7
+S  D  7
+S  C  5
+E NT 10
+E  S 10
+E  H  6
+E  D  6
+E  C  8
+W NT 10
+W  S 10
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 12,2,1,285,84,376,34,53,31,405,29,161,49,104,76,41,66,60,410,26,11,15,20,14,23,349,34,26,8,104,223,25,9,103,32,12,35,46,44,20,8,35,29,7,128,60,17,9,7,8,31,9,7,552,566,34,9,169,133,4,17,13,9,6,21,16,11,5,8
+[Auction "N"]
+1H Pass 1NT Pass 
+2D Pass 2H 2S 
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "E"]
+SJ SA S4 S2 
+DK DJ D5 D7 
+ST S3 SK SQ 
+D4 D2 D3 DA 
+CQ CK CA C4 
+C7 C3 C2 H4 
+DQ D9 S6 D6 
+CJ C5 C6 H5 
+H2 H6 H9 HK 
+HJ C8 S7 DT 
+S5 H8 S8 D8 
+HA HT S9 H7 
+H3 C9 CT HQ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "10"]
+[West "Mike Fithyan#42930"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Andy Hall#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:865.KQJ32.3.KT75 AKT4.A876.A984.A QJ97.T9.T2.J9863 32.54.KQJ765.Q42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS -1370"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "3551635516a88c6a88c6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  1
+N  C  6
+S NT  3
+S  S  5
+S  H  5
+S  D  1
+S  C  6
+E NT 10
+E  S  8
+E  H  8
+E  D 12
+E  C  6
+W NT 10
+W  S  8
+W  H  8
+W  D 12
+W  C  6
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 26,0,3,387,75,96,102,1117,94,37,46,30,201,24,98,206,33,10,32,471,23,10,25,380,53,46,19,22,36,7,30,20,12,8,17,12,10,19,17,148,20,10,13
+[Auction "E"]
+1H Pass 2D Pass 
+6D Pass Pass Pass 
+[Play "N"]
+HK HA HT H4 
+D3 D4 D2 DK 
+H2 D8 DT DQ 
+C7 CA C3 C2 
+S5 SA S9 S2 
+S6 SK S7 S3 
+S8 S4 SJ D5 
+C5 D9 C6 C4 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "10"]
+[West "Gunn Tove Vist#31234"]
+[North "Mike Kinsey#106316"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:865.KQJ32.3.KT75 AKT4.A876.A984.A QJ97.T9.T2.J9863 32.54.KQJ765.Q42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "3551635516a88c6a88c6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  1
+N  C  6
+S NT  3
+S  S  5
+S  H  5
+S  D  1
+S  C  6
+E NT 10
+E  S  8
+E  H  8
+E  D 12
+E  C  6
+W NT 10
+W  S  8
+W  H  8
+W  D 12
+W  C  6
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,2,1,135,89,358,166,53,61,16,22,127,69,9,21,92,46,18,9,37,29,29,28,34,129,22,98,26,100,14,22,18,9,53,106,21,7,40,32,91,13,21,34,169,26,13,8,112,27,14,6,52
+[Auction "E"]
+1D Pass 3D =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: not agreed, but I guess weakish"]
+[Play "S"]
+C6 C2 CT CA 
+D2 DK D3 D8 
+DT D5 H2 DA 
+C3 D6 S5 D9 
+C8 D7 S6 D4 
+S9 DJ C5 S4 
+HT DQ S8 H8 
+S7 S2 H3 SA 
+H9 H4 HJ HA 
+SJ S3 C7 SK 
+-  -  -  H6 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "11"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ94.A965.KJ74.J T8532.43.83.A942 J6.QJT8.A96.K753 K7.K72.QT52.QT86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "bacb8bacb92312423124"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 12
+N  D 11
+N  C  8
+S NT 11
+S  S 10
+S  H 12
+S  D 11
+S  C  9
+E NT  2
+E  S  3
+E  H  1
+E  D  2
+E  C  4
+W NT  2
+W  S  3
+W  H  1
+W  D  2
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,6,5,647,77,393,33,167,79,115,31,37,31,34,227,81,38,214,29,11,18,139,18,16,11,171,16,30,21,294,29,11,16,99,29,34,19,97,52,21,75,97,27,23,14
+[Auction "S"]
+Pass Pass 1H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+S2 S6 SK SA 
+D8 DA D5 D4 
+H4 HQ H2 H5 
+H3 HJ H7 H6 
+S3 SJ S7 S4 
+D3 D6 D2 DJ 
+ST H8 HK S9 
+CA C3 C6 CJ 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "11"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ94.A965.KJ74.J T8532.43.83.A942 J6.QJT8.A96.K753 K7.K72.QT52.QT86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "bacb8bacb92312423124"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 12
+N  D 11
+N  C  8
+S NT 11
+S  S 10
+S  H 12
+S  D 11
+S  C  9
+E NT  2
+E  S  3
+E  H  1
+E  D  2
+E  C  4
+W NT  2
+W  S  3
+W  H  1
+W  D  2
+W  C  4
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,4,7,555,91,434,215,53,46,462,163,31,42,79,269,19,90,453,38,26,55,60,75,21,7,16,96,29,50,203,44,11,8,11,40,18,48,557,27,21,25,53,26,11,179,95,22,21,53,13,44,9,17,9,28,13,9
+[Auction "S"]
+1C =1= Pass 1D Pass 
+1H Pass 4H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+H2 H5 H3 HT 
+SK SA S2 SJ 
+C6 CJ CA C5 
+HK HA H4 HJ 
+S7 SQ S3 S6 
+D2 S4 S8 H8 
+C8 H6 C2 C3 
+D5 S9 ST HQ 
+DT DK D3 D6 
+H7 H9 S5 C7 
+DQ D4 D8 DA 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "12"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T986.964.T8753.9 AJ5.AJT.Q6.AJT84 KQ432.7.AJ92.Q75 7.KQ8532.K4.K632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "0818008180c4c4cc4c4c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  8
+N  H  1
+N  D  8
+N  C  0
+S NT  0
+S  S  8
+S  H  1
+S  D  8
+S  C  0
+E NT 12
+E  S  4
+E  H 12
+E  D  4
+E  C 12
+W NT 12
+W  S  4
+W  H 12
+W  D  4
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 17,4,7,254,78,689,95,225,87,53,29,294,86,51,25,19,58,25,263,31,66,121,31,9,34,16,64,11,18,58,12,11,14,20,21,10,14,14,83,120,26
+[Auction "W"]
+1H Pass 2NT =1= Pass 
+3S =2= Pass 4C Pass 
+4D Pass 4H Pass 
+Pass Pass 
+[Note "1: jacoby game force agreeing Hhe"]
+[Note "2:  * shortage [0:11]"]
+[Play "N"]
+ST SA S4 S7 
+H4 HA H7 H2 
+H6 HJ S3 H3 
+H9 HT S2 H5 
+C9 CJ C5 CK 
+S9 CT CQ C2 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "12"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T986.964.T8753.9 AJ5.AJT.Q6.AJT84 KQ432.7.AJ92.Q75 7.KQ8532.K4.K632"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "0818008180c4c4cc4c4c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  8
+N  H  1
+N  D  8
+N  C  0
+S NT  0
+S  S  8
+S  H  1
+S  D  8
+S  C  0
+E NT 12
+E  S  4
+E  H 12
+E  D  4
+E  C 12
+W NT 12
+W  S  4
+W  H 12
+W  D  4
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 25,6,5,190,42,104,64,240,136,912,144,186,44,285,76,31,36,302,95,44,139,212,35,33,9,32,9,106,29,194,27,12,4,25,37,23,20,21,10,14,10
+[Auction "W"]
+1H Pass 2C X 
+3C Pass 4NT Pass 
+5C Pass 6C Pass 
+Pass Pass 
+[Play "S"]
+SK S7 S8 SA 
+C7 CK C9 C4 
+C5 C2 S6 CA 
+H7 H2 H4 HA 
+CQ H3 H6 HT 
+DA D4 D3 D6 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "13"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q54.A8754.87.K72 T732.J932.965.54 AKJ9.Q6.AQJ3.AJT 86.KT.KT42.Q9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "ab9a9bbaaa2233322333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  9
+N  D 10
+N  C  9
+S NT 11
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  2
+E  S  2
+E  H  3
+E  D  3
+E  C  3
+W NT  2
+W  S  2
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 19,4,7,115,132,126,58,131,28,72,60,285,38,773,36,80,136,54,40,126,23,9,27,11,39,17,20,43,172,17,34,51,18,10,17,19,48,12,17,39,55,38,15,102,17,59,21,19,16,43,18,20,20,10,14,21,11,10,11,74,25,13,26,5,12,5,19
+[Auction "N"]
+Pass Pass 2C =1= Pass 
+2H Pass 2NT Pass 
+4NT Pass Pass Pass 
+[Note "1: strong"]
+[Play "W"]
+C6 C2 C4 CJ 
+S6 SQ S2 S9 
+DK D7 D6 DQ 
+C8 C7 C5 CA 
+S8 S4 S3 SA 
+HT S5 S7 SK 
+C3 H4 ST SJ 
+HK H5 H2 HQ 
+C9 CK D5 CT 
+D2 D8 D9 DA 
+D4 H7 H3 DJ 
+DT HA H9 H6 
+CQ H8 HJ D3 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "13"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q54.A8754.87.K72 T732.J932.965.54 AKJ9.Q6.AQJ3.AJT 86.KT.KT42.Q9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "ab9a9bbaaa2233322333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  9
+N  D 10
+N  C  9
+S NT 11
+S  S 11
+S  H 10
+S  D 10
+S  C 10
+E NT  2
+E  S  2
+E  H  3
+E  D  3
+E  C  3
+W NT  2
+W  S  2
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,6,5,82,44,535,51,114,56,76,61,59,60,141,399,25,38,50,42,25,13,57,29,18,44,339,218,23,29,48,30,9,17,43,237,16,38,39,36,35,16,129,19,16,10,56,16,12,11,20,14,18,9,178,20,14,10,12,27,10,9,13,8,10,11
+[Auction "N"]
+Pass Pass 1D Pass 
+1H Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+C6 C2 C5 CT 
+S8 SQ S2 S9 
+DK D7 D5 DJ 
+C9 CK C4 CJ 
+S6 S4 S3 SA 
+C3 S5 S7 SK 
+C8 H4 ST SJ 
+CQ C7 D6 CA 
+D2 D8 D9 DA 
+D4 H5 H2 DQ 
+DT H7 H3 D3 
+HK HA H9 H6 
+HT H8 HJ HQ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "14"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:8.A87.976543.AJ2 KQJ973.QT.KQ.KT9 A62.J9652.J8.873 T54.K43.AT2.Q654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "33664336649a6799a669"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  6
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  6
+S  D  6
+S  C  4
+E NT  9
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S 10
+W  H  6
+W  D  6
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,4,7,181,121,36,181,83,39,56,64,39,32,44,84,46,36,35,51,19,31,26,33,39,35,107,41,31,16,64,31,16,33,163,23,14,40,71,39,35,42,26,94,26,17,36,20,18,39,78,30,15,9,17,27,17,13
+[Auction "E"]
+1S Pass 1NT 2D 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+DJ D2 D3 DK 
+S2 ST S8 S3 
+SA S5 D4 SJ 
+D8 DT D5 DQ 
+S6 S4 D6 SK 
+H2 H3 H7 HQ 
+C3 CQ CA C9 
+C7 C4 C2 CK 
+HJ HK HA HT 
+C8 C5 CJ CT 
+H5 H4 H8 S7 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "14"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:8.A87.976543.AJ2 KQJ973.QT.KQ.KT9 A62.J9652.J8.873 T54.K43.AT2.Q654"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "33664336649a6799a669"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  6
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  6
+S  D  6
+S  C  4
+E NT  9
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S 10
+W  H  6
+W  D  6
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,6,5,119,52,209,267,110,119,126,46,19,187,141,239,24,17,30,95,21,9,22,113,20,39,48,29,12,7,38,25,22,30,26,7,24,48,70,52,26,21,98,19,15,29,16,28,116,34,18,33,24,38,18
+[Auction "E"]
+1S Pass 1NT 2D 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+DJ D2 D6 DK 
+SA S4 S8 SJ 
+D8 DT D3 DQ 
+S2 S5 D4 SK 
+S6 ST D5 S3 
+H2 DA D7 C9 
+C3 C4 C2 CK 
+C7 C5 CJ CT 
+C8 H3 D9 S7 
+HJ HK HA HT 
+-  -  CA -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "15"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KT92.T4.KQJT84.T J7653.J865.9.AQ7 Q.KQ73.A53.K9854 A84.A92.762.J632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "867a6867a64763647636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D 10
+N  C  6
+S NT  8
+S  S  6
+S  H  7
+S  D 10
+S  C  6
+E NT  4
+E  S  7
+E  H  6
+E  D  3
+E  C  6
+W NT  4
+W  S  7
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,4,7,139,74,159,64,39,39,289,65,128,43,60,25,23,81,92,44,62,28,28,46,16,97,19,30,60,36,26,78,236,39,26,32
+[Auction "S"]
+1C =1= Pass 1D Pass 
+1H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+S5 SQ SA S2 
+SJ C4 S8 ST 
+S7 H3 S4 SK 
+H5 HK HA H4 
+HJ HQ H2 HT 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "15"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KT92.T4.KQJT84.T J7653.J865.9.AQ7 Q.KQ73.A53.K9854 A84.A92.762.J632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "867a6867a64763647636"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D 10
+N  C  6
+S NT  8
+S  S  6
+S  H  7
+S  D 10
+S  C  6
+E NT  4
+E  S  7
+E  H  6
+E  D  3
+E  C  6
+W NT  4
+W  S  7
+W  H  6
+W  D  3
+W  C  6
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,6,5,341,59,67,79,324,97,722,95,934,54,52,25,34,145,19,31,109,33,107,126,134,71,14,43,177,37,47,21,259,22,8,31,13,22,11,40,22,112,22,15,83,46,15,26,19,41,72,16,33,45,11,13,31,43,20,53,12,27,31,12,14,21,10,7
+[Auction "S"]
+1C Pass 1D 1S 
+2D 2S 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S3 SQ SA S2 
+SJ C4 S8 S9 
+S7 D3 S4 ST 
+H5 HK H2 H4 
+D9 DA D2 D4 
+C7 D5 D6 DK 
+S5 C5 D7 DQ 
+S6 C8 C2 DJ 
+CQ H3 C3 DT 
+H6 C9 C6 D8 
+H8 CK H9 SK 
+HJ HQ HA HT 
+CA H7 CJ CT 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "16"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T5.K532.K3.QJ653 AK7.J974.Q4.A942 Q643.AQ8.AJ872.T J982.T6.T965.K87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "7"]
+[Score "NS 80"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "77887778875655555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  7
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 2,4,7,122,92,237,103,46,177,46,35,48,198,99,105,16,163,25,7,12,14,27,11,35,76,15,18,44,16,48,29,23,39,27,16,27,24,39,17,9,37,20,194,33,16,24,14,13,19,15,12,17,25,8,14,28,18,20,9,9,11,10,16,37
+[Auction "W"]
+Pass Pass 1C =1= X 
+Pass 1H Pass Pass 
+Pass 
+[Note "1: could be 2"]
+[Play "E"]
+SA S3 S2 S5 
+SK S4 S8 ST 
+S7 SQ S9 C3 
+CA CT C7 C5 
+D4 DJ D5 D3 
+DQ D2 D9 DK 
+C2 H8 C8 C6 
+H4 S6 SJ H2 
+H7 HQ H6 H3 
+H9 HA HT H5 
+HJ DA D6 CJ 
+C4 D7 CK CQ 
+C9 D8 DT HK 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "16"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T5.K532.K3.QJ653 AK7.J974.Q4.A942 Q643.AQ8.AJ872.T J982.T6.T965.K87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "77887778875655555555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  8
+N  C  7
+S NT  7
+S  S  7
+S  H  8
+S  D  8
+S  C  7
+E NT  5
+E  S  6
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,6,5,136,45,141,272,237,163,70,51,32,227,27,866,31,22,79,23,20,40,108,204,15,17,24,46,22,92,358,21,60,82,440,47,19,8,548,72,22,8,107,61,97,23,42,22,401,65,162,21,26,91,14,20,9,14,49,29,75,12,20,9,10,8
+[Auction "W"]
+Pass Pass 1C 1D 
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+DK D4 D2 D5 
+D3 DQ DA D6 
+C3 C2 CT CK 
+H3 H4 HQ HT 
+ST SA DJ D9 
+S5 SK S3 S2 
+C5 S7 S4 S8 
+C6 H7 D7 DT 
+CQ CA S6 C7 
+H2 C4 SQ S9 
+H5 H9 HA H6 
+HK C9 D8 SJ 
+CJ HJ H8 C8 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "17"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT3.T975.Q64.K32 4.AKQJ2.A97.T965 AKQ976.43.KJ5.84 852.86.T832.AQJ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "69453694537498974989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  4
+N  D  5
+N  C  3
+S NT  6
+S  S  9
+S  H  4
+S  D  5
+S  C  3
+E NT  7
+E  S  4
+E  H  9
+E  D  8
+E  C  9
+W NT  7
+W  S  4
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,4,7,115,120,30,62,91,41,642,57,67,70,25,22,18,83,18,49,16,75,15,36,20,95,92,50,103,30,51,14,15,101,20,31,82,27,18,82,117,33,34,12,96,18,13,26,23,18,138,10,14,37,11
+[Auction "N"]
+Pass 1H 1S Pass 
+2S Pass 3C =1= Pass 
+3S Pass Pass Pass 
+[Note "1: I think trial bid"]
+[Play "W"]
+H8 H9 HJ H3 
+H6 H5 HQ H4 
+D2 H7 HK SA 
+S2 SJ S4 S6 
+D3 HT HA SK 
+S5 ST H2 S7 
+D8 D4 D7 DK 
+DT DQ DA D5 
+S8 D6 D9 DJ 
+CA C2 C5 -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "17"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT3.T975.Q64.K32 4.AKQJ2.A97.T965 AKQ976.43.KJ5.84 852.86.T832.AQJ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "69453694537498974989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  4
+N  D  5
+N  C  3
+S NT  6
+S  S  9
+S  H  4
+S  D  5
+S  C  3
+E NT  7
+E  S  4
+E  H  9
+E  D  8
+E  C  9
+W NT  7
+W  S  4
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,6,5,51,70,138,490,80,120,391,720,49,165,86,95,42,25,17,42,14,35,26,34,350,97,267,25,18,32,82,35,100,13,321,34,29,58,36,14,12,37,15,26,20,26,16,29,43,19,16,21,8,9,12,13,11,9,11,24,12,12,9,16,11,27
+[Auction "N"]
+Pass 1H 1S X 
+2S 3C 3S Pass 
+Pass Pass 
+[Play "W"]
+H8 H5 HK H4 
+H6 H7 HJ H3 
+D2 H9 HQ SQ 
+S2 SJ S4 S6 
+S5 ST C5 S7 
+C7 HT HA SK 
+S8 S3 C6 SA 
+D3 DQ DA D5 
+CJ C2 H2 S9 
+D8 D4 D7 DK 
+DT D6 D9 DJ 
+CA C3 C9 C4 
+CQ CK CT C8 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "18"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T8.KJ754.J97.KT3 632.AT632.4.J986 J9754.9.KQ853.75 AKQ.Q8.AT62.AQ42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS -590"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "45362453629896a98a6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  2
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  2
+E NT  9
+E  S  8
+E  H  9
+E  D  6
+E  C 10
+W NT  9
+W  S  8
+W  H 10
+W  D  6
+W  C 11
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,4,7,300,39,121,89,173,106,34,67,341,35,22,206,72,38,13,53,179,16,56,102,45,27,33,8,26,9,41,9,24,12,32,14,33,22,29,94,46,8,18,46,43,27,59,34,456,408,33,29,57,20,119,1632,28,23,82,26,18,38,18,18,12,24,12,11,5,7,13
+[Auction "E"]
+Pass Pass 2NT =1= Pass 
+3D =2= X 3H Pass 
+4H Pass Pass X 
+Pass Pass Pass 
+[Note "1: 19-20"]
+[Note "2: transfer to H"]
+[Play "N"]
+D7 D4 DQ DA 
+D9 H2 D5 D2 
+S8 S2 S4 SA 
+DJ H3 D3 D6 
+ST S3 S5 SK 
+H4 S6 S7 SQ 
+C3 C9 C7 CQ 
+HJ C6 D8 DT 
+CT CJ C5 C2 
+HK H6 H9 HQ 
+CK C8 S9 CA 
+H5 HT DK H8 
+H7 HA SJ C4 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "18"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T8.KJ754.J97.KT3 632.AT632.4.J986 J9754.9.KQ853.75 AKQ.Q8.AT62.AQ42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "45362453629896a98a6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  2
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  2
+E NT  9
+E  S  8
+E  H  9
+E  D  6
+E  C 10
+W NT  9
+W  S  8
+W  H 10
+W  D  6
+W  C 11
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,6,5,135,66,207,45,62,64,117,28,162,44,37,35,65,641,50,80,151,88,151,51,260,68,21,20,407,51,14,19,44,13,12,15,30,17,12,43,60,19,32,13,40,26,15,29,44,38,15,173,199,31,47,57,37,20,12,13,16,29,11,19,13,19,11,10
+[Auction "E"]
+Pass Pass 2NT =1= Pass 
+3D Pass 3H Pass 
+4H Pass Pass Pass 
+[Note "1: 20-22"]
+[Play "N"]
+H4 H2 H9 HQ 
+HJ H3 S4 H8 
+D7 D4 DQ DA 
+S8 S2 S5 SA 
+ST S3 S7 SK 
+H5 S6 S9 SQ 
+D9 H6 D3 D2 
+CK C6 C7 CQ 
+C3 C8 C5 CA 
+CT CJ SJ C2 
+H7 HA D5 D6 
+HK C9 D8 C4 
+DJ HT DK DT 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "19"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K9.93.AK53.K9632 Q32.KQJ5.986.QT8 AJ764.A842.T4.74 T85.T76.QJ72.AJ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a88a9a88a4243342433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  8
+N  D  8
+N  C 10
+S NT  9
+S  S 10
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  2
+E  H  4
+E  D  3
+E  C  3
+W NT  4
+W  S  2
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 5,4,7,76,57,449,57,75,52,304,61,379,39,82,96,13,47,18,49,17,26,16,21,12,9,12,16,16,25,38,23,14,16,56,133,59,22,19,27,8,12,21,23,9,52,20,26,16,11,21,59,23,26,17,26,14,114,23,19,24,26,11,16,9,6
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1S Pass 2C Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+HK HA H7 H9 
+D6 D4 D2 DK 
+D8 DT D7 DA 
+D9 C4 DQ D3 
+S2 S4 S8 SK 
+C8 S6 DJ D5 
+HQ H2 H6 H3 
+HJ H4 HT C2 
+S3 SA S5 S9 
+H5 H8 ST C3 
+CT C7 C5 C6 
+SQ S7 CJ CK 
+CQ SJ CA C9 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "19"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K9.93.AK53.K9632 Q32.KQJ5.986.QT8 AJ764.A842.T4.74 T85.T76.QJ72.AJ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a88a9a88a4243342433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  8
+N  D  8
+N  C 10
+S NT  9
+S  S 10
+S  H  8
+S  D  8
+S  C 10
+E NT  4
+E  S  2
+E  H  4
+E  D  3
+E  C  3
+W NT  4
+W  S  2
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 5,6,5,94,89,318,77,68,51,92,51,428,55,56,140,22,8,13,40,19,19,9,13,10,12,9,10,13,11,33,25,13,12,12,60,41,18,37,31,14,10,67,16,17,28,23,28,10,11,13,22,8,21,42,23,11,10,21,10,11,18,11,15,10,9
+[Auction "S"]
+Pass Pass 1C Pass 
+1S Pass 2C Pass 
+Pass Pass 
+[Play "E"]
+HK HA H6 H3 
+D6 D4 D2 DA 
+D8 DT D7 DK 
+D9 C4 DJ D3 
+S3 S4 S5 SK 
+C8 H2 DQ D5 
+S2 SA S8 S9 
+HJ H4 H7 H9 
+SQ S6 ST C2 
+CT C7 C5 C3 
+HQ H8 HT C6 
+CQ S7 CJ C9 
+H5 SJ CA CK 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "20"]
+[West "Mike Kinsey#106316"]
+[North "Robert Plumley#"]
+[East "Tim Smith#74912"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:7543.3.KT862.JT4 J986.KT954.A4.85 AKQ.J762.J3.AQ96 T2.AQ8.Q975.K732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68588785985584555845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,4,7,88,68,60,59,42,65,83,145,572,46,49,17,69,101,11,11,87,16,19,9,147,115,18,77,72,16,10,9,20,8,13,207,66,14,14,209,18,18,8,9,17,18,16,11,17,35,6,8
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "W"]
+D5 D8 DA D3 
+H8 H3 H5 H7 
+HA D2 H4 H2 
+HQ C4 H9 H6 
+ST S3 S6 SA 
+S2 S4 S8 SK 
+DQ DK D4 DJ 
+D7 DT C8 HJ 
+CK CJ C5 C6 
+D9 D6 HT C9 
+C2 -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "20"]
+[West "Andy Hall#"]
+[North "Mike Fithyan#42930"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:7543.3.KT862.JT4 J986.KT954.A4.85 AKQ.J762.J3.AQ96 T2.AQ8.Q975.K732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68588785985584555845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,6,5,134,66,52,638,545,345,628,62,91,120,16,18,393,24,8,39,654,37,7,23,74,42,14,30,104,31,20,22,41,27,54,12,43,31,30,22,70,29,29,8,293,17,11,17,14,7,23,25,584,28,32,19,29,17,14,10,20,14,13,6
+[Auction "W"]
+Pass Pass 1H 1NT 
+3H Pass Pass Pass 
+[Play "S"]
+SA S2 S5 S6 
+SK ST S3 SJ 
+CA C2 C4 C8 
+C6 CK CT C5 
+D3 D5 D2 DA 
+DJ DQ DK D4 
+C9 C3 CJ H4 
+SQ H8 S4 S9 
+H2 HA H3 H5 
+H6 HQ D6 H9 
+CQ C7 D8 HT 
+H7 D7 S7 HK 
+HJ D9 DT S8 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "21"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT8.AQ63.KJ2.93 Q7642.75.T8.KQ62 J93.84.9764.J875 5.KJT92.AQ53.AT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "56465564657687777978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  5
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  7
+E  S  6
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,8,11,683,674,161,43,109,47,123,195,104,28,10,335,92,19,39,442,42,8,30,8,30,11,25,129,19,11,11,67,48,330,43,11,29,9,25,695,26,9,65,225,40,14,18,150,27,14,23,39,26,41,11,75,25,10,6,10,4,9,13
+[Auction "N"]
+1NT =1= Pass Pass 2H 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+SA S2 S3 S5 
+H3 H5 H8 H9 
+C9 CK C7 C4 
+DJ DT D6 D5 
+HA H7 H4 H2 
+C3 C2 CJ CA 
+H6 S4 S9 HK 
+HQ S6 SJ HJ 
+DK D8 D4 DA 
+S8 S7 D7 HT 
+D2 SQ D9 DQ 
+ST CQ C5 CT 
+SK C6 C8 D3 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "21"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT8.AQ63.KJ2.93 Q7642.75.T8.KQ62 J93.84.9764.J875 5.KJT92.AQ53.AT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "56465564657687777978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  6
+N  C  5
+S NT  5
+S  S  6
+S  H  4
+S  D  6
+S  C  5
+E NT  7
+E  S  6
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,10,9,1403,107,81,449,147,39,54,175,112,71,44,152,369,91,64,37,47,20,51,23,314,53,23,15,45,24,13,25,30,20,24,26,27,27,279,375,62,18,26,159,37,34,16,114,60,70,97,16,19,14,20,11,18,11,11,11,16,11,11,12,15,12,7
+[Auction "N"]
+1H 1S Pass 2NT 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+C9 C2 CJ CA 
+HQ H5 H8 HT 
+C3 C6 C7 CT 
+H3 CK C5 C4 
+S8 CQ C8 D5 
+HA H7 H4 HJ 
+SA S2 S3 S5 
+SK S4 S9 D3 
+H6 S6 SJ HK 
+ST S7 D6 H9 
+D2 D8 D4 H2 
+DJ DT D7 DA 
+DK SQ D9 DQ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "22"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:73.A73.Q7.AKQJ86 QJT6.J864.AK53.3 A982.Q52.4.T9742 K54.KT9.JT9862.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "7433974439588a4588a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  3
+N  D  3
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  3
+S  C  9
+E NT  5
+E  S  8
+E  H  8
+E  D 10
+E  C  4
+W NT  5
+W  S  8
+W  H  8
+W  D 10
+W  C  4
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 4,8,11,121,41,70,333,221,70,23,183,450,17,11,123,13,19,94,63,10,16,44,14,90,12,135
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+SQ SA S4 S3 
+C3 CT C5 C6 
+D5 C2 D6 CA 
+D3 C4 D2 CK 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "22"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:73.A73.Q7.AKQJ86 QJT6.J864.AK53.3 A982.Q52.4.T9742 K54.KT9.JT9862.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "7433974439588a4588a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  3
+N  D  3
+N  C  9
+S NT  7
+S  S  4
+S  H  4
+S  D  3
+S  C  9
+E NT  5
+E  S  8
+E  H  8
+E  D 10
+E  C  4
+W NT  5
+W  S  8
+W  H  8
+W  D 10
+W  C  4
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,10,9,234,36,373,280,30,52,158,43,209,15,325,75,43,27,38,62,28,16,37,82,46,16,29,48,20,43,24,84,22,20,104,189,18,13,22
+[Auction "E"]
+1D Pass 3D =1= Pass 
+Pass Pass 
+[Note "1: weak inverted"]
+[Play "S"]
+CT C5 C8 C3 
+C2 H9 CJ D3 
+D4 D8 D7 DA 
+C4 D9 DQ DK 
+S2 S4 S7 SJ 
+SA SK S3 S6 
+H2 HT HA H6 
+-  -  H3 -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "23"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q9.A743.A63.KJ42 KT3.Q852.T87.963 8752.J6.KJ952.A7 AJ64.KT9.Q4.QT85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "3"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "98797987974563545635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  5
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  5
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,8,11,47,140,233,54,164,48,249,38,65,116,47,21,35,10,71,23,113,141,45,63,19,859,317,56,9,63,11,25,10,16,113,16,15,8,17,60,9,16,659,21,64,47,11,24,11,14,30,8,8,15,46,8,11,15,16,4,7
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "N"]
+H3 H2 HJ HK 
+H4 H5 H6 H9 
+HA H8 S2 HT 
+C2 C3 CA C5 
+DA D7 DJ DQ 
+D6 D8 D9 D4 
+D3 DT DK S4 
+H7 C6 D2 S6 
+S9 C9 D5 C8 
+CJ S3 C7 CT 
+CK ST S5 CQ 
+C4 SK S7 SJ 
+SQ HQ S8 SA 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "23"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q9.A743.A63.KJ42 KT3.Q852.T87.963 8752.J6.KJ952.A7 AJ64.KT9.Q4.QT85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "98797987974563545635"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  9
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  5
+E  H  6
+E  D  3
+E  C  5
+W NT  4
+W  S  5
+W  H  6
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 3,10,9,166,159,94,50,48,138,55,237,107,353,73,9,14,228,38,22,23,88,41,16,24,107,43,384,58,79,25,23,185,56,39,29,20,94,32,24,14,16,34,23,26,64,43,18,21,114,162,119,33,52,40,32,33
+[Auction "S"]
+Pass 1C Pass 1D 
+Pass 1S Pass Pass 
+Pass 
+[Play "N"]
+DA D7 D2 D4 
+D6 D8 DK DQ 
+D3 DT DJ S6 
+H3 HQ H6 H9 
+HA H2 HJ HK 
+H4 H5 S7 HT 
+CJ C3 C7 C5 
+H7 H8 S8 SJ 
+C2 C6 CA C8 
+S9 ST D9 S4 
+C4 C9 S2 CQ 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "24"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQ7652.Q.KQ.K763 J3.JT96.9843.AJ5 94.AK753.T72.Q98 AT8.842.AJ65.T42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "69769697695356464564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  7
+N  D  6
+N  C  9
+S NT  6
+S  S  9
+S  H  7
+S  D  6
+S  C  9
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  4
+W NT  6
+W  S  4
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,10,9,338,52,38,192,87,68,43,52,83,58,253,47,16,22,36,47,20,65,21,20,14,24,13,18,18,143,34,17,12,25,44,17,20,99,28,15,16,19,32,15,41,19,34,13,18,29,16,18,19,23,22,15,22,17,32,14,11,9,13,12,13
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2S Pass Pass 
+Pass 
+[Play "E"]
+HJ H3 H2 HQ 
+C5 CQ C2 C3 
+H6 HA H4 C6 
+H9 HK H8 CK 
+D4 D2 D5 DQ 
+CJ C8 C4 C7 
+CA C9 CT S2 
+S3 S4 SA SK 
+D3 D7 DA DK 
+D8 DT DJ S5 
+SJ S9 S8 SQ 
+HT H5 ST S7 
+D9 H7 D6 S6 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "24"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQ7652.Q.KQ.K763 J3.JT96.9843.AJ5 94.AK753.T72.Q98 AT8.842.AJ65.T42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "69769697695356464564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  7
+N  D  6
+N  C  9
+S NT  6
+S  S  9
+S  H  7
+S  D  6
+S  C  9
+E NT  5
+E  S  3
+E  H  5
+E  D  6
+E  C  4
+W NT  6
+W  S  4
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,8,11,116,115,48,61,46,294,37,140,62,66,30,52,376,38,21,263,36,13,171,599,177,27,27,87,27,13,16,316,119,17,7,163,31,9,31,24,47,12,15,13,34,12,10,33,11,12,10,38,42,21,8,30,17,11,11,54,18,8,10,14,10,10,11
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+HJ H3 H4 HQ 
+D4 D2 DA DK 
+S3 S4 S8 SQ 
+D3 D7 D5 DQ 
+CA C8 C2 CK 
+D8 DT DJ S2 
+C5 CQ C4 C3 
+H6 HA H8 C6 
+H9 HK H2 C7 
+SJ S9 ST SK 
+HT H5 SA S7 
+D9 H7 D6 S5 
+CJ C9 CT S6 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "25"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ9764.KQ6.97.T4 A83.T942.KQ5.A73 T5.AJ853.A43.KQ9 K2.7.JT862.J8652"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "69944699445449854498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  9
+N  D  4
+N  C  4
+S NT  6
+S  S  9
+S  H  9
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  9
+E  C  8
+W NT  5
+W  S  4
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,10,9,336,84,317,215,43,227,121,86,171,34,36,16,59,11,118,15,17,12,13,32,15,18,20,63,27,196,16,36,36,9,17,13,14,16,30,16
+[Auction "N"]
+2S =1= X Pass 2NT =2= 
+Pass Pass Pass 
+[Note "1: weak"]
+[Note "2: lebensohl to 3C"]
+[Play "N"]
+SQ S3 S5 SK 
+D9 DK D3 D2 
+D7 DQ D4 D6 
+C4 D5 DA D8 
+SJ SA ST S2 
+CT CA C9 C2 
+H6 C3 CQ C5 
+-  -  H5 -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "25"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ9764.KQ6.97.T4 A83.T942.KQ5.A73 T5.AJ853.A43.KQ9 K2.7.JT862.J8652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "69944699445449854498"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  9
+N  D  4
+N  C  4
+S NT  6
+S  S  9
+S  H  9
+S  D  4
+S  C  4
+E NT  5
+E  S  4
+E  H  4
+E  D  9
+E  C  8
+W NT  5
+W  S  4
+W  H  4
+W  D  9
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,8,11,350,275,936,76,595,41,718,50,48,44,442,151,39,26,276,89,26,23,394,31,12,46,80,22,13,29,103,13,23,12,11,25,8,52,119,32,12,66,30,17,26,22,41,47,12,48,32,24,7,12,16
+[Auction "N"]
+2S X 2NT =1= Pass 
+3H Pass 4S Pass 
+Pass Pass 
+[Note "1: I think relay"]
+[Play "E"]
+S3 S5 SK S4 
+D5 DA DJ D7 
+H2 H3 H7 HK 
+H4 H5 S2 HQ 
+DQ D3 D8 D9 
+DK D4 D2 S6 
+HT HA D6 H6 
+H9 HJ C2 C4 
+S8 H8 DT CT 
+SA ST C5 S7 
+CA -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "26"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A6.K63.KQT987.73 Q85.94.532.A9654 K743.AJT2.J6.KT8 JT92.Q875.A4.QJ2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "889b7889b72432624326"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D 11
+N  C  7
+S NT  8
+S  S  8
+S  H  9
+S  D 11
+S  C  7
+E NT  2
+E  S  4
+E  H  3
+E  D  2
+E  C  6
+W NT  2
+W  S  4
+W  H  3
+W  D  2
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,10,9,130,71,62,257,35,42,62,18,748,29,11,92,16,25,34,17,13,27,14,485,79,17,16,28,21,50,46,22,17,9,43,17,16,11,53,16,20,8,19,12,36,8,15,14,23,8,15,9,16,8,16,19,27,10,11,10,15,9,11
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SJ SA S5 S4 
+D4 D7 D5 DJ 
+DA D8 D3 D6 
+HQ HK H9 H2 
+S2 DK D2 C8 
+S9 DQ C6 CT 
+ST D9 C4 CK 
+C2 DT C5 S3 
+H5 H3 H4 HT 
+H7 H6 C9 HJ 
+H8 C3 S8 HA 
+CJ S6 SQ SK 
+CQ C7 CA S7 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "26"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A6.K63.KQT987.73 Q85.94.532.A9654 K743.AJT2.J6.KT8 JT92.Q875.A4.QJ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "889b7889b72432624326"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D 11
+N  C  7
+S NT  8
+S  S  8
+S  H  9
+S  D 11
+S  C  7
+E NT  2
+E  S  4
+E  H  3
+E  D  2
+E  C  6
+W NT  2
+W  S  4
+W  H  3
+W  D  2
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,8,11,128,186,56,148,27,43,35,559,65,246,49,210,22,56,38,130,369,27,35,165,27,146,57,323,13,40,9,40,10,12,7,68,36,16,12,10,40,58,27,17,22,8,13
+[Auction "E"]
+Pass 1C =1= Pass 1D 
+Pass 1H Pass 1S 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+C5 C8 CJ C3 
+C4 CK CQ C7 
+D3 D6 D4 DK 
+D5 DJ DA DQ 
+CA CT C2 H3 
+C9 H2 H7 D7 
+C6 S3 S9 D8 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "27"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:87.J7.KQJ92.K963 K6.84.A76543.T82 J432.AKQ932..J74 AQT95.T65.T8.AQ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65867658677747577475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  4
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,10,9,167,101,133,80,395,100,84,49,39,60,143,310,35,26,25,20,113,39,19,209,27,12,63,13,21,19,75,13,7,21,66,22,12,15,161,50,11,15,19,27,15,19,25,18,26,31,16,33,16,8,11,51,17,26,12,17,15,48,13,13,10,8
+[Auction "S"]
+1H 1S 2D 2S 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+H5 HJ H4 H2 
+D8 DK DA H3 
+C5 CK C2 C4 
+DT DQ D7 C7 
+H6 DJ D6 CJ 
+HT H7 H8 HA 
+S5 C3 D3 HK 
+S9 S7 S6 S2 
+CA C6 C8 H9 
+ST S8 SK S3 
+CQ C9 CT HQ 
+SQ D2 D4 S4 
+SA D9 D5 SJ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "27"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:87.J7.KQJ92.K963 K6.84.A76543.T82 J432.AKQ932..J74 AQT95.T65.T8.AQ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65867658677747577475"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  7
+E  S  7
+E  H  4
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  4
+W  D  7
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,8,11,61,81,222,34,97,46,333,27,446,71,338,36,132,166,113,23,46,42,9,27,25,45,26,15,26,93,46,11,17,10,33,9,18,48,9,9,107,19,7,15,67
+[Auction "S"]
+1H 1S 2D Pass 
+2H Pass 3H Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+DT DK DA C4 
+S5 S7 SK S4 
+S9 S8 S6 S3 
+SA C3 D3 S2 
+SQ D2 D4 SJ 
+ST D9 D5 C7 
+CA C6 C2 CJ 
+HT -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "28"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT3.Q.AKQ987.J94 Q974.T7.T52.Q832 AJ8652.854.J43.5 .AKJ9632.6.AKT76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "1b1a01b1a011c1c11c1c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S 11
+N  H  1
+N  D 10
+N  C  0
+S NT  1
+S  S 11
+S  H  1
+S  D 10
+S  C  0
+E NT  1
+E  S  1
+E  H 12
+E  D  1
+E  C 12
+W NT  1
+W  S  1
+W  H 12
+W  D  1
+W  C 12
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 17,10,9,443,53,81,459,113,74,34,39,33,56,17,15,16,25,7,32,22,42,22,6,45,15,11,92,18,32,18,27,30,82,56,32,27,40,18
+[Auction "W"]
+1H 2D Pass Pass 
+4H Pass Pass Pass 
+[Play "N"]
+DA D2 D3 D6 
+DK D5 D4 H2 
+HQ H7 H4 HA 
+D7 HT H5 HK 
+D8 S4 H8 HJ 
+D9 C2 S5 H9 
+C4 S7 -  H6 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "28"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT3.Q.AKQ987.J94 Q974.T7.T52.Q832 AJ8652.854.J43.5 .AKJ9632.6.AKT76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "12"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "1b1a01b1a011c1c11c1c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S 11
+N  H  1
+N  D 10
+N  C  0
+S NT  1
+S  S 11
+S  H  1
+S  D 10
+S  C  0
+E NT  1
+E  S  1
+E  H 12
+E  D  1
+E  C 12
+W NT  1
+W  S  1
+W  H 12
+W  D  1
+W  C 12
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 15,8,11,321,169,33,87,46,888,87,337,45,320,39,554,57,129,21,27,56,26,21,67,235,38,10,15,170,16,9,7,289,28,9,12,96,28,9,15,17,27,8,39
+[Auction "W"]
+1H 2D Pass 2S 
+3C 3S Pass Pass 
+4C Pass Pass Pass 
+[Play "N"]
+DA D2 D3 D6 
+DK D5 D4 C6 
+C4 C2 C5 CA 
+C9 C3 S6 CK 
+HQ H7 H4 HA 
+CJ CQ S2 C7 
+D7 HT H5 H2 
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "29"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQ653..83.AKJT9 T74.AK43.T952.76 J82.QJ865.A76.53 9.T972.KQJ4.Q842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "bc76cbc76c1166111671"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  7
+N  D  6
+N  C 12
+S NT 11
+S  S 12
+S  H  7
+S  D  6
+S  C 12
+E NT  1
+E  S  1
+E  H  6
+E  D  6
+E  C  1
+W NT  1
+W  S  1
+W  H  6
+W  D  7
+W  C  1
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 28,10,9,358,46,421,175,75,142,246,73,846,46,147,60,42,86,34,32,34,266,50,18,207,24,15,43,18,22,15,71,92,25,17,30,38,25,34,10,32,79,46,24,1060,46,17,114,344,110,35,49,171,41,43,56,50,31,19,37,49,30,21,31,29,12,19,12,15,9,13,14
+[Auction "N"]
+2C =1= Pass 2D X =2= 
+2S 3D 4D Pass 
+5C Pass 5S Pass 
+6S Pass Pass Pass 
+[Note "1: game forcing"]
+[Note "2: lead d"]
+[Play "E"]
+HA H5 H2 S3 
+S4 S2 S9 SA 
+S7 S8 D4 SK 
+C6 C3 C2 CA 
+C7 C5 C4 CK 
+D9 SJ C8 C9 
+HK HQ H7 D3 
+ST D6 DJ SQ 
+D2 D7 DQ S6 
+H4 H6 DK S5 
+D5 DA CQ D8 
+H3 HJ H9 CT 
+DT H8 HT CJ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "29"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQ653..83.AKJT9 T74.AK43.T952.76 J82.QJ865.A76.53 9.T972.KQJ4.Q842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "bc76cbc76c1166111671"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  7
+N  D  6
+N  C 12
+S NT 11
+S  S 12
+S  H  7
+S  D  6
+S  C 12
+E NT  1
+E  S  1
+E  H  6
+E  D  6
+E  C  1
+W NT  1
+W  S  1
+W  H  6
+W  D  7
+W  C  1
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 18,8,11,278,31,67,45,486,86,219,38,114,29,166,285,17,32,135,35,12,403,33,30,12,9,15,10,11,15,46,18,417,75,39,41,15,18,62,28,13,33,14,164,70,15,104,14,34,20,21
+[Auction "N"]
+1S Pass 2S Pass 
+4H Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+S4 S2 S9 SA 
+S7 S8 D4 SK 
+C7 C3 C4 CA 
+C6 C5 C2 CK 
+H4 D6 CQ CJ 
+D5 DA DK D3 
+H3 H5 H7 S3 
+ST SJ C8 C9 
+HA HQ H2 D8 
+HK -  -  -  
+*
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "30"]
+[West "Robert Plumley#"]
+[North "Tim Smith#74912"]
+[East "Rune Hauge#112693"]
+[South "Liz Senior#74684"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K.AJT52.K953.973 QJ972.Q9.A7.JT85 A853.4.Q84.AK642 T64.K8763.JT62.Q"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "8689a8689a5654356543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C 10
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C 10
+E NT  5
+E  S  6
+E  H  5
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,10,9,171,186,107,585,79,242,245,72,32,53,36,68,43,17,175,108,33,42,19,287,41,32,27,30,26,32,48,41,37,42,215,37,25,26,34,32,43,20,72,20,21,20,58,32,179,97,20,33,15,18,25,18,22,11,26,17,17,89,10,11,22,14
+[Auction "E"]
+1S 2C 2S 3H 
+Pass 4H X Pass 
+Pass Pass 
+[Play "E"]
+SQ S3 S4 SK 
+DA D4 D6 D3 
+D7 D8 DT DK 
+C5 CA CQ C3 
+S2 SA S6 C7 
+HQ H4 H3 HT 
+CJ CK H6 C9 
+H9 DQ D2 D5 
+CT C2 ST H2 
+C8 S5 H7 HA 
+S7 C4 DJ D9 
+S9 S8 HK H5 
+SJ C6 H8 HJ 
+
+[Event "Hubert Phillips Match 3rd Jan 24"]
+[Site "RealBridge"]
+[Date "2024.01.03"]
+[Board "30"]
+[West "Mike Kinsey#106316"]
+[North "Andy Hall#"]
+[East "Mike Fithyan#42930"]
+[South "Gunn Tove Vist#31234"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K.AJT52.K953.973 QJ972.Q9.A7.JT85 A853.4.Q84.AK642 T64.K8763.JT62.Q"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Senior"]
+[VisitTeam "Plumley"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "8689a8689a5654356543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C 10
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C 10
+E NT  5
+E  S  6
+E  H  5
+E  D  4
+E  C  3
+W NT  5
+W  S  6
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,8,11,75,120,51,193,102,135,30,300,72,142,40,40,43,425,356,9,12,31,56,16,33,126,64,77,23,184,69,24,160,128,116,10,27,60,127,14,10,347,32,13,20,167,37,12,11,19,24,53,22,17,105,9,24,17,47,9,10,17,10,9,10,10,9,11,6
+[Auction "E"]
+Pass 1C =1= Pass 1H 
+Pass 1S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "E"]
+DA D4 D2 D3 
+S2 S3 ST SK 
+CJ C2 CQ C9 
+S9 S5 S6 H2 
+SJ SA S4 H5 
+C5 CA D6 C3 
+CT CK DT C7 
+C8 C6 H3 HT 
+SQ S8 DJ HJ 
+S7 C4 H6 D5 
+D7 DQ H7 D9 
+H9 D8 H8 DK 
+HQ H4 HK HA 

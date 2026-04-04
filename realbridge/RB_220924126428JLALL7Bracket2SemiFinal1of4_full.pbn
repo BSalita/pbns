@@ -1,0 +1,2659 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "1"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT764.87.T87.A92 KJ8.T4.Q32.86543 3.QJ952.AJ65.KQ7 A952.AK63.K94.JT"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "65775657757766877668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 7,0,5,78,58,74,81,57,26,99,33,155,447,46,73,126,256,102,12,14,57,11,22,30,20,15,23,29,100,10,9,522,109,31,17,21,24,33,10,52,49,19,38,28,17,84,32,302,41,240,24,12,17,26,40,12,14,8,10
+[Auction "N"]
+Pass Pass 1H 1NT 
+Pass Pass 2D Pass 
+2H Pass Pass Pass 
+[Play "W"]
+CJ CA C8 C7 
+HK H7 H4 H2 
+CT C2 C6 CK 
+HA H8 HT HQ 
+S2 S4 SJ S3 
+H3 C9 C5 CQ 
+S5 ST SK H5 
+H6 S6 C3 HJ 
+D4 DT DQ D5 
+S9 D8 C4 H9 
+D9 D7 D2 DA 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "1"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT764.87.T87.A92 KJ8.T4.Q32.86543 3.QJ952.AJ65.KQ7 A952.AK63.K94.JT"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "65775657757766877668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  7
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,4,1,98,281,75,351,108,90,124,54,135,102,141,25,38,17,216,22,258,63,14,24,97,21,13,31
+[Auction "N"]
+Pass Pass 1H 1NT =1= 
+Pass Pass Pass 
+[Note "1: 15-18"]
+[Play "N"]
+S6 S8 S3 S9 
+S7 SJ D6 S2 
+S4 SK D5 S5 
+D7 D2 DA D4 
+-  -  HQ -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "2"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K95.AQ5.QT965.KJ QT876.J84.AK.A92 42.K732.873.T765 AJ3.T96.J42.Q843"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "65785657857764778647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  8
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  7
+W  S  8
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,5,326,61,61,69,32,111,75,143,102,50,176,34,21,40,192,18,25,23,15,19,25,18,14,25,17,31,164,394,31,15,72,25,97,11,113,34,10,17,14,34,8,11,10,23,15,21,29,16,851,29,21
+[Auction "E"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "S"]
+D3 D2 DT DA 
+S4 SJ S5 S6 
+HK H9 H5 H4 
+D8 D4 D5 DK 
+S2 S3 SK SQ 
+D7 DJ DQ H8 
+H7 H6 HA HJ 
+H3 HT HQ ST 
+H2 SA S9 S7 
+C5 C3 CJ CA 
+C6 C8 CK C2 
+-  -  D6 -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "2"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K95.AQ5.QT965.KJ QT876.J84.AK.A92 42.K732.873.T765 AJ3.T96.J42.Q843"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "65785657857764778647"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  8
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  6
+E  D  4
+E  C  7
+W NT  7
+W  S  8
+W  H  6
+W  D  4
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,4,1,127,285,66,188,57,79,65,86,241,103,17,46,28,57,18,229,38,66,36,1144,39,24,18,18,41,9,11,15,45,12,25,11,35,11,18,27,158,25,34,27,26,11,15,12,13,13,18
+[Auction "E"]
+1S Pass 2S 3D 
+Pass Pass Pass 
+[Play "E"]
+S7 S2 SA S9 
+DK D3 D2 DT 
+DA D7 D4 D6 
+ST S4 SJ SK 
+S6 D8 S3 S5 
+H4 H2 H9 HA 
+S8 C5 DJ DQ 
+C2 C6 C3 D5 
+H8 H3 H6 HQ 
+HJ HK HT H5 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "3"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T654.KQ32.7654.2 Q32.J985.K3.AK87 7.6.T98.QJT96543 AKJ98.AT74.AQJ2."]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "1121611216ccbc7ccbc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  2
+S  D  1
+S  C  6
+E NT 12
+E  S 12
+E  H 11
+E  D 12
+E  C  7
+W NT 12
+W  S 12
+W  H 11
+W  D 12
+W  C  7
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 18,0,5,154,166,317,58,48,30,34,140,88,52,363,103,59,137,20,18,30
+[Auction "S"]
+3NT =1= X 4C X 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: preempt in either minor"]
+[Play "N"]
+C2 CA CQ H4 
+S6 S2 S7 SA 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "3"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T654.KQ32.7654.2 Q32.J985.K3.AK87 7.6.T98.QJT96543 AKJ98.AT74.AQJ2."]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "7"]
+[Score "NS -500"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "1121611216ccbc7ccbc7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  1
+N  C  6
+S NT  1
+S  S  1
+S  H  2
+S  D  1
+S  C  6
+E NT 12
+E  S 12
+E  H 11
+E  D 12
+E  C  7
+W NT 12
+W  S 12
+W  H 11
+W  D 12
+W  C  7
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 15,4,1,332,170,92,200,43,53,104,103,21,47,23,16,21,24,164,27,21,44,24,24,67,243,109,23,18,28,21,32,18,36,23,14,14,21,23,15,15,48
+[Auction "S"]
+4C X Pass Pass 
+Pass 
+[Play "W"]
+SA S4 S3 S7 
+SK S5 S2 C3 
+H4 HK H5 H6 
+S8 C2 C7 CQ 
+D2 D4 CK CJ 
+DA D5 DK D8 
+DQ D6 D3 D9 
+DJ D7 H8 DT 
+HA -  -  -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "4"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T85.3.K8.AQJT652 97643.A7.92.9743 Q2.QJT96.JT643.K AKJ.K8542.AQ75.8"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "54568545686987569875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  6
+N  C  8
+S NT  5
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  6
+E  S  9
+E  H  8
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,5,137,122,79,57,37,43,195,58,65,29,21,24,53,102,102,23,26,959,38,29,591,63,17,26,90,19,13,7,68,460,20,24,49,19,30,15,12,26,11,129,12,18,20,18,23,26,69,11,11,18,15,9,33
+[Auction "W"]
+1H 3C Pass Pass 
+X Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+CK C8 CQ C4 
+HQ H2 H3 HA 
+S2 SJ S5 S3 
+SQ SK S8 S4 
+H6 HK ST H7 
+D3 SA CJ C3 
+H9 H4 C2 S6 
+D4 DQ DK D2 
+HJ D5 CA C7 
+D6 H5 CT C9 
+-  -  D8 -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "4"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T85.3.K8.AQJT652 97643.A7.92.9743 Q2.QJT96.JT643.K AKJ.K8542.AQ75.8"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "54568545686987569875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  6
+N  C  8
+S NT  5
+S  S  4
+S  H  5
+S  D  6
+S  C  8
+E NT  6
+E  S  9
+E  H  8
+E  D  7
+E  C  5
+W NT  6
+W  S  9
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,4,1,313,90,67,124,26,49,148,55,104,38,52,324,103,26,547,36,115,186,356,41,18,32,677,31,19,15,105,25,29,13,118,37,22,23,18,42,43,41,12,16,56,79,16,57,22,43,18,38,23,14,25,39
+[Auction "W"]
+1H 3C Pass Pass 
+X Pass 3S Pass 
+Pass Pass 
+[Play "S"]
+CK C8 CA C3 
+D3 SJ CQ C4 
+SQ SA S5 S3 
+S2 SK S8 S4 
+H6 H2 H3 HA 
+HQ HK ST H7 
+H9 D5 CJ C7 
+D4 H4 CT C9 
+HJ D7 C2 S6 
+D6 H5 C5 S9 
+DT -  -  S7 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "5"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A652.J52.AQ9.872 KQ8.83.KT854.J63 J4.KQT4.J.AKQ954 T973.A976.7632.T"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9794b9794b2528225282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  4
+N  C 11
+S NT  9
+S  S  7
+S  H  9
+S  D  4
+S  C 11
+E NT  2
+E  S  5
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  5
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,0,5,83,26,124,116,155,34,325,71,348,41,197,37,64,24,58,35,549,439,103,29,116,29,9,25,3352,80,27,29,23,27,12,10,23,28,10,50,32
+[Auction "N"]
+Pass Pass 1C =1= Pass 
+1S Pass 2H Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+SQ S4 S3 S5 
+SK SJ S7 S6 
+S8 HT ST SA 
+C3 CA CT C8 
+H3 HK HA H5 
+-  -  S9 -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "5"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A652.J52.AQ9.872 KQ8.83.KT854.J63 J4.KQT4.J.AKQ954 T973.A976.7632.T"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9794b9794b2528225282"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  4
+N  C 11
+S NT  9
+S  S  7
+S  H  9
+S  D  4
+S  C 11
+E NT  2
+E  S  5
+E  H  2
+E  D  8
+E  C  2
+W NT  2
+W  S  5
+W  H  2
+W  D  8
+W  C  2
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 20,4,1,87,88,297,107,102,57,116,85,147,58,216,62,116,51,103,29,91,44,279,45,208,36,54,194,102,16,949,202,92,71,13,35,28,16,20,81,14,13,12,61,15,13
+[Auction "N"]
+Pass Pass 1C Pass 
+1S Pass 2H Pass 
+3C Pass 3D =1= Pass 
+3H Pass 3S Pass 
+4C Pass 5C Pass 
+Pass Pass 
+[Note "1: ask for stopper"]
+[Play "W"]
+D7 D9 DK DJ 
+D2 DQ D5 S4 
+CT C2 C3 CA 
+D3 C7 C6 CK 
+D6 C8 CJ CQ 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "6"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT82.QT2.42.AT75 654.KJ54.J9.KJ32 A3.A987.KQ8653.Q QJ97.63.AT7.9864"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "879a6789a65543755437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 10
+N  C  6
+S NT  7
+S  S  8
+S  H  9
+S  D 10
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,5,80,287,56,41,54,101,94,117,23,121,28,454,35,201,162,101,21,8,23,12,671,18,19,19,68,106,269,14,10,11,16,11,10,7,14,7,55,15,13,12,13,19
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 2D Pass 2NT 
+Pass 3H Pass Pass 
+Pass 
+[Play "W"]
+H3 H2 HJ HA 
+H6 HT H4 H9 
+DA D2 D9 DK 
+SQ SK S6 S3 
+D7 D4 DJ DQ 
+DT HQ C2 D3 
+S7 S2 S4 SA 
+-  -  -  D8 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "6"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT82.QT2.42.AT75 654.KJ54.J9.KJ32 A3.A987.KQ8653.Q QJ97.63.AT7.9864"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "879a6789a65543755437"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D 10
+N  C  6
+S NT  7
+S  S  8
+S  H  9
+S  D 10
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  3
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,4,1,149,245,53,73,47,287,32,81,65,95,31,53,582,103,39,633,32,59,50,56,60,37,19,30,26,49,108,27,21,17,134,27,22,13,30
+[Auction "E"]
+Pass 1NT =1= Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 14+17"]
+[Play "W"]
+C9 C5 C2 CQ 
+H3 HT HK H7 
+DA D2 D9 DK 
+DT D4 DJ DQ 
+D7 S2 S6 D8 
+H6 H2 HJ H9 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "7"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Franco Baseggio#USAP589670"]
+[East "Jiang Gu#USAQ567484"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT953.JT.T96.82 8.A987632.KJ8.T3 J42.K54.543.KJ65 K76.Q.AQ72.AQ974"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "5"]
+[Score "NS -1100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "552035521376baa88bba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  0
+N  C  3
+S NT  5
+S  S  5
+S  H  2
+S  D  1
+S  C  3
+E NT  7
+E  S  6
+E  H 11
+E  D 10
+E  C 10
+W NT  8
+W  S  8
+W  H 11
+W  D 11
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 13,0,5,81,528,60,56,299,138,148,2235,59,117,40,52,102,103,28,14,30,53,23,46,20,24,18,639,44,29,25,45,32,24,12,769,20,59,16,251,24,13,16,59,24,19,23,22,18,8,9
+[Auction "S"]
+Pass 1C 1S 2H 
+2S 3D 3S X 
+Pass Pass Pass 
+[Play "E"]
+HA H4 HQ HT 
+H9 H5 S6 HJ 
+DJ D3 D2 DT 
+CT CJ CQ C2 
+DK D4 D7 D9 
+D8 D5 DQ D6 
+C3 C5 CA C8 
+H2 C6 C4 S9 
+S8 S2 S7 SA 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "7"]
+[West "Ira Hessel#USAK069555"]
+[North "David Chechelashvili#USAK879115"]
+[East "Bart Bramley#USAJ201743"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT953.JT.T96.82 8.A987632.KJ8.T3 J42.K54.543.KJ65 K76.Q.AQ72.AQ974"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "552035521376baa88bba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  0
+N  C  3
+S NT  5
+S  S  5
+S  H  2
+S  D  1
+S  C  3
+E NT  7
+E  S  6
+E  H 11
+E  D 10
+E  C 10
+W NT  8
+W  S  8
+W  H 11
+W  D 11
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,4,1,120,149,76,104,96,204,112,132,44,345,29,234,358,102,19,73,20,39,16,28,89,14,11,157,12,42,17,119,19,21,9,126,24,15,31
+[Auction "S"]
+Pass 1C 2S 3H 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+SJ SK SA S8 
+S2 S6 SQ H2 
+H5 HQ HT H3 
+S4 S7 ST H8 
+H4 C4 HJ HA 
+HK C7 S5 H9 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "8"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K84.9853.KQ2.KQ7 AT72.QJ4.975.T64 J9653.K762.J3.J9 Q.AT.AT864.A8532"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67744677446569965699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  4
+N  C  4
+S NT  6
+S  S  7
+S  H  7
+S  D  4
+S  C  4
+E NT  6
+E  S  5
+E  H  6
+E  D  9
+E  C  9
+W NT  6
+W  S  5
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,301,205,325,316,214,78,78,40,25,103,170,1439,103,23,113,23,18,40,33,24,16,8,271,33,14,12,25,23,16,18,87,21,15,21,396,119,17,23,16,22,31,23,37,15,214,34
+[Auction "W"]
+1D X 1S 2H 
+3C Pass 3D Pass 
+Pass Pass 
+[Play "N"]
+H5 HQ H2 HT 
+C7 C6 C9 CA 
+CQ C4 CJ C2 
+H3 H4 H6 HA 
+CK CT S6 C3 
+H8 HJ HK D4 
+D2 D5 DJ D6 
+SK SA S5 SQ 
+DQ D9 D3 D8 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "8"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K84.9853.KQ2.KQ7 AT72.QJ4.975.T64 J9653.K762.J3.J9 Q.AT.AT864.A8532"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67744677446569965699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  4
+N  C  4
+S NT  6
+S  S  7
+S  H  7
+S  D  4
+S  C  4
+E NT  6
+E  S  5
+E  H  6
+E  D  9
+E  C  9
+W NT  6
+W  S  5
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,73,72,47,33,237,73,148,114,133,95,263,775,103,11,53,23,9,29,18,23,8,10,9,15,10,6,51,16,36,14,19,17,10,117,197,153,17,26,57,16,9,12,60,39,18,27,16,57,31,9,768,27,11,21,14,13,6,22,9,13,7,9
+[Auction "W"]
+1D Pass 1S Pass 
+2C =1= Pass 2D =2= Pass 
+Pass Pass 
+[Note "1: nat 13+ (or less if 55) or any strong hand"]
+[Note "2: less than 9"]
+[Play "N"]
+S4 SA S6 SQ 
+H9 H4 H2 HT 
+C7 C4 C9 CA 
+CQ C6 CJ C2 
+SK S2 S3 D4 
+CK CT H6 C3 
+S8 ST SJ D6 
+H3 HJ H7 HA 
+H5 D5 DJ C5 
+DQ S7 S9 D8 
+D2 D7 D3 DT 
+DK D9 S5 DA 
+H8 HQ HK C8 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "9"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.Q9653.T94.Q874 KJ.K8.AKJ.AJT953 A9754.T72.653.62 QT862.AJ4.Q872.K"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -1440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "2141221412bb9babb9ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  1
+N  C  2
+S NT  2
+S  S  1
+S  H  4
+S  D  1
+S  C  2
+E NT 11
+E  S 11
+E  H  9
+E  D 11
+E  C 10
+W NT 11
+W  S 11
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 29,2,1,275,126,40,386,31,48,31,43,71,279,45,44,39,31,30,52,830,103,27,25,37,21,16,274,47,22,37,83,26,65,25,466,39,27,24,63,17,221,43,35,26,16,14,34,21,30,23,39,17,34,37,25,25,19,28,44,48,49,16,26,15,15,12,14,19,13,27
+[Auction "N"]
+Pass 2NT Pass 3H =1= 
+Pass 3S Pass 5NT 
+Pass 6C Pass 6NT 
+Pass Pass Pass 
+[Note "1: Ss"]
+[Play "S"]
+D3 D7 D9 DK 
+SA S2 S3 SK 
+C6 CK C4 C3 
+S4 S6 H5 SJ 
+D5 D2 D4 DA 
+D6 DQ DT DJ 
+C2 D8 C7 C5 
+S5 SQ H3 C9 
+S7 ST H6 CT 
+H2 H4 H9 HK 
+H7 S8 C8 CA 
+HT HA HQ H8 
+S9 HJ CQ CJ 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "9"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:3.Q9653.T94.Q874 KJ.K8.AKJ.AJT953 A9754.T72.653.62 QT862.AJ4.Q872.K"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "10"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "2141221412bb9babb9ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  4
+N  D  1
+N  C  2
+S NT  2
+S  S  1
+S  H  4
+S  D  1
+S  C  2
+E NT 11
+E  S 11
+E  H  9
+E  D 11
+E  C 10
+W NT 11
+W  S 11
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 29,0,3,103,224,127,88,28,203,32,610,42,268,38,21,26,206,137,103,66,67,30,16,20,111,22,39,39,64,53,80,38,656,116,29,23,79,26,109,14,69,19,67,37,75,26,15,13,24,14,13,20,15,13,26,8
+[Auction "N"]
+Pass 2NT Pass 3H =1= 
+Pass 3S =2= Pass 4NT 
+Pass 6NT Pass Pass 
+Pass 
+[Note "1: ♠"]
+[Note "2: usually xxx or less in ♠"]
+[Play "S"]
+D3 D2 D9 DA 
+SA S2 S3 SK 
+C6 CK C8 C5 
+S5 S6 C4 SJ 
+D6 D7 D4 DK 
+D5 D8 DT DJ 
+C2 S8 C7 CA 
+H7 H4 H6 HK 
+HT HJ HQ H8 
+S4 ST CQ C3 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "10"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT6.AK84.K7.Q974 AK942.T.AQJ985.5 Q53.J932.642.J32 87.Q765.T3.AKT86"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS -640"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "31504315049b7c8ab7c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  5
+N  D  0
+N  C  4
+S NT  3
+S  S  1
+S  H  5
+S  D  0
+S  C  4
+E NT  9
+E  S 11
+E  H  7
+E  D 12
+E  C  8
+W NT 10
+W  S 11
+W  H  7
+W  D 12
+W  C  8
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 21,2,1,114,26,90,42,146,57,58,44,187,37,178,38,103,37,43,25,52,153,103,22,40,16,24,14,154,26,26,34,29,28,19,26,109,19,32,11,35,25,16,14,20,21,14,23,17
+[Auction "E"]
+1D Pass 1H X 
+1S Pass 1NT Pass 
+2S Pass 3D Pass 
+5D Pass Pass Pass 
+[Play "S"]
+C2 CA C4 C5 
+C3 CK C7 HT 
+S5 S7 S6 SK 
+S3 S8 ST SA 
+SQ DT SJ S4 
+D2 D3 D7 DQ 
+D4 HQ DK DA 
+-  -  -  DJ 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "10"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:JT6.AK84.K7.Q974 AK942.T.AQJ985.5 Q53.J932.642.J32 87.Q765.T3.AKT86"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "13"]
+[Score "NS -190"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "31504315049b7c8ab7c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  5
+N  D  0
+N  C  4
+S NT  3
+S  S  1
+S  H  5
+S  D  0
+S  C  4
+E NT  9
+E  S 11
+E  H  7
+E  D 12
+E  C  8
+W NT 10
+W  S 11
+W  H  7
+W  D 12
+W  C  8
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 11,0,3,345,42,36,136,67,163,39,41,25,122,206,23,24,78,60,115,102,18,19,14,16,18,19,24,17,26,21,14,9,10,23,16,34,23,24,22,17,14,19,17,13,12
+[Auction "E"]
+1D Pass 1H Pass 
+1S Pass 1NT Pass 
+2S Pass 3D Pass 
+Pass Pass 
+[Play "S"]
+CJ CA C7 C5 
+C3 CK C4 HT 
+S3 S7 SJ SA 
+S5 S8 ST SK 
+SQ DT S6 S2 
+D2 D3 D7 DQ 
+D4 C6 DK DA 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "11"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AT8.Q987.A5.A854 J3.J54.KJ6.KQT62 K975.K3.8743.J93 Q642.AT62.QT92.7"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "68667676677577675776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,2,1,60,223,98,74,65,223,163,455,103,30,160,42,28,38,67,108,52,29,659,50,38,30,534,29,152,38,280,27,130,18,47,23,387,35,34,158,29,21,19,42,24,37,329,15,16,11,18,18,11,58,41,15,15,14,7,16,15,11
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Play "E"]
+CK C3 C7 CA 
+H5 HK HA H7 
+DJ D3 D2 D5 
+C2 CJ S6 C4 
+S3 S5 S2 SA 
+SJ S7 SQ ST 
+DK D4 DQ DA 
+C6 SK S4 S8 
+H4 S9 D9 C5 
+HJ H3 H2 HQ 
+D6 C9 HT H9 
+CT D7 DT C8 
+CQ D8 H6 H8 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "11"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AT8.Q987.A5.A854 J3.J54.KJ6.KQT62 K975.K3.8743.J93 Q642.AT62.QT92.7"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "68667676677577675776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  5
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  5
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,69,32,110,59,33,549,59,104,70,31,24,28,55,120,129,110,7,294,37,5,45,30,15,7,22,712,29,173,17,17,49,9,16,88,68,17,44,17,59,128,18,16,364,94,11,132,16,8,16,14,54,23,24,588,26
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass 2C =2= Pass 2D =3= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 13+ 16"]
+[Note "2: majors"]
+[Note "3: pick"]
+[Play "N"]
+C5 CQ C3 C7 
+D5 DK D3 D2 
+DA D6 D4 DT 
+CA C2 C9 H2 
+H7 DJ D8 DQ 
+C4 CK CJ S2 
+C8 CT HK HA 
+H8 S3 D7 D9 
+S8 SJ SK S4 
+SA H4 S5 SQ 
+-  C6 S9 -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "12"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J96.A72.AQJ8642. Q543.QJ8.K.AKQ76 KT82.63.975.J832 A7.KT954.T3.T954"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "874b4874b44582944929"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  4
+N  D 11
+N  C  4
+S NT  8
+S  S  7
+S  H  4
+S  D 11
+S  C  4
+E NT  4
+E  S  5
+E  H  8
+E  D  2
+E  C  9
+W NT  4
+W  S  4
+W  H  9
+W  D  2
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,277,35,107,47,209,61,186,51,82,31,163,333,102,58,72,50,21,13,133,25,12,44,20,39,31,49,68,25,22,13,27,26,30,77,16,17,32,25,17
+[Auction "W"]
+Pass 1D X Pass 
+2H 3D 4H Pass 
+Pass Pass 
+[Play "N"]
+S6 SQ SK SA 
+DA DK D9 D3 
+SJ S3 S2 S7 
+S9 S4 ST H4 
+DJ HQ D5 DT 
+H2 HJ H3 H5 
+HA H8 H6 HT 
+DQ -  -  -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "12"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J96.A72.AQJ8642. Q543.QJ8.K.AKQ76 KT82.63.975.J832 A7.KT954.T3.T954"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "874b4874b44582944929"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  4
+N  D 11
+N  C  4
+S NT  8
+S  S  7
+S  H  4
+S  D 11
+S  C  4
+E NT  4
+E  S  5
+E  H  8
+E  D  2
+E  C  9
+W NT  4
+W  S  4
+W  H  9
+W  D  2
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,130,125,230,111,19,219,52,103,102,14,1394,86,25,270,705,36,14,114,11,16,8,42,30,20,69,12,17,23,17,10,126,15,24,18,16,17,17,27,45,13,29,12,17,15,11,9,39,24,18,15,23,13,18,15,12,9,8,11
+[Auction "W"]
+2H =1= 3D 4H Pass 
+Pass Pass 
+[Note "1: ♡ + m"]
+[Play "N"]
+DA DK D9 D3 
+S6 SQ SK SA 
+D2 H8 D5 DT 
+H2 HJ H3 H4 
+HA HQ H6 HK 
+S9 S3 S2 S7 
+SJ S4 S8 H5 
+H7 C7 D7 HT 
+DQ CA C2 C4 
+D4 CK C3 C5 
+D6 S5 ST H9 
+D8 CQ C8 CT 
+DJ C6 CJ C9 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "13"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ864.KQ32.5.KJ9 J.J765.T63.AQ764 KT732..AKQJ84.83 95.AT984.972.T52"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "12"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "ac7b8ab7b72062520625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H  7
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  7
+S  D 11
+S  C  7
+E NT  2
+E  S  0
+E  H  6
+E  D  2
+E  C  5
+W NT  2
+W  S  0
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 33,2,1,721,52,807,58,216,114,741,345,649,53,234,81,61,38,122,119,103,14,99,27,14,42,30,21,15,23,14,39,15,16
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3D =2= Pass 5H X 
+5S Pass 7S Pass 
+Pass Pass 
+[Note "1: jacby"]
+[Note "2: 14-16"]
+[Play "E"]
+CA C3 CT C9 
+C4 C8 C5 CJ 
+SJ S2 S5 SA 
+DT SK S9 S4 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "13"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ864.KQ32.5.KJ9 J.J765.T63.AQ764 KT732..AKQJ84.83 95.AT984.972.T52"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "ac7b8ab7b72062520625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H  7
+N  D 11
+N  C  8
+S NT 10
+S  S 11
+S  H  7
+S  D 11
+S  C  7
+E NT  2
+E  S  0
+E  H  6
+E  D  2
+E  C  5
+W NT  2
+W  S  0
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 28,0,3,75,45,460,33,400,37,158,73,354,51,102,22,31,26,52,102,102,31,38,20,12,21
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3D =2= Pass 5H =3= Pass 
+5NT =4= Pass 6S Pass 
+Pass Pass 
+[Note "1: LR+"]
+[Note "2: extras, any shortness"]
+[Note "3: exclusion"]
+[Note "4: 14"]
+[Play "E"]
+CA C3 C5 CJ 
+C7 C8 CT CK 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "14"]
+[West "Ira Hessel#USAK069555"]
+[North "Linda Lewis#USAN181755"]
+[East "Bart Bramley#USAJ201743"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q96.AK852.64.KJ2 A.JT94.T8732.AQ7 T873.Q73.AKQ95.6 KJ542.6.J.T98543"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "97993879834633a4633a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  9
+N  C  3
+S NT  8
+S  S  7
+S  H  9
+S  D  8
+S  C  3
+E NT  4
+E  S  6
+E  H  3
+E  D  3
+E  C 10
+W NT  4
+W  S  6
+W  H  3
+W  D  3
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,149,52,140,164,44,40,37,127,50,102,104,125,18,338,560,24,16,14,41,63,62,124,25,26,29,659,30,17,58,23,14,12,23,43,70,25,16,23,66,13,42,105,70,18,30,72,208,31,38,91,21,16,12,40,18
+[Auction "E"]
+Pass 1D 2S 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+SA S3 S2 S9 
+HT HQ H6 H2 
+CQ C6 C3 CJ 
+HJ H3 C4 HA 
+C7 H7 C5 C2 
+D2 DA DJ D4 
+D3 DK S4 D6 
+D7 DQ C8 CK 
+D8 D5 C9 H5 
+CA ST SJ S6 
+DT S7 SK SQ 
+-  -  CT H8 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "14"]
+[West "Radu Nistor#USA5123151"]
+[North "Franco Baseggio#USAP589670"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Jacob Freeman#USA7013124"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q96.AK852.64.KJ2 A.JT94.T8732.AQ7 T873.Q73.AKQ95.6 KJ542.6.J.T98543"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "[3] Lewis"]
+[VisitTeam "[2] Sprung"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "97993879834633a4633a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  9
+N  C  3
+S NT  8
+S  S  7
+S  H  9
+S  D  8
+S  C  3
+E NT  4
+E  S  6
+E  H  3
+E  D  3
+E  C 10
+W NT  4
+W  S  6
+W  H  3
+W  D  3
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,0,3,196,45,30,94,37,128,202,99,28,40,18,162,102,102,27,532,40,11,32,549,16,25,13,79,27,18,15,154,34,15,22,71,27,7,80,438,19,19,14,26,48,45,14,12,39,11,21,34,23,19
+[Auction "E"]
+1D Pass 1S 2H 
+Pass 2S Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+SA S3 S2 S9 
+D2 DA DJ D6 
+H4 H3 H6 HA 
+H9 HQ CT H2 
+CQ C6 C9 CJ 
+HJ H7 S4 HK 
+D3 D9 C3 D4 
+D7 DK S5 C2 
+D8 DQ C4 CK 
+-  S8 SK S6 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "15"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:32.543.AKT72.J65 76.876.J854.QT73 K85.AKQ9.Q93.A92 AQJT94.JT2.6.K84"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "85897869984744537335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  9
+S  C  8
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  5
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,4,3,167,29,257,39,143,62,707,35,498,24,52,101,102,91,19,31,19,33,109,19,18,30,44,21,15,62,258,41,13,8,19,15,15,9,32,113,41,14,20,17,14,18,16
+[Auction "S"]
+1C 1S Pass Pass 
+1NT 2S 3NT Pass 
+Pass Pass 
+[Play "W"]
+SA S2 S7 S5 
+S9 S3 S6 SK 
+D6 DA D4 D3 
+C4 D2 D5 DQ 
+H2 H3 H6 HK 
+HJ H4 H7 HA 
+S4 DK D8 D9 
+HT H5 H8 H9 
+SQ -  -  -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "15"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:32.543.AKT72.J65 76.876.J854.QT73 K85.AKQ9.Q93.A92 AQJT94.JT2.6.K84"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "85897869984744537335"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  9
+S  D  9
+S  C  8
+E NT  4
+E  S  7
+E  H  4
+E  D  4
+E  C  5
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,2,5,144,146,69,50,30,104,173,49,116,28,77,53,77,28,55,103,102,38,32,28,7,30,55,19,16,38,34,15,20,18,143,30,10,8,21,16,9,8,181,18,12,8
+[Auction "S"]
+1C 1S Pass Pass 
+1NT Pass 2C =1= Pass 
+Pass 2S 2NT Pass 
+Pass Pass 
+[Note "1:  * 2 wqy NM [0:18]"]
+[Play "W"]
+SA S2 S6 S5 
+S9 S3 S7 SK 
+D6 DA D4 D3 
+C4 D2 D5 DQ 
+H2 H3 H8 HA 
+HT H4 H6 HK 
+HJ H5 H7 HQ 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "16"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T4.Q65.Q532.KJ42 Q852.K84.J7.T863 K93.972.T96.AQ95 AJ76.AJT3.AK84.7"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "52345523458b9988b998"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  3
+N  D  4
+N  C  5
+S NT  5
+S  S  2
+S  H  3
+S  D  4
+S  C  5
+E NT  8
+E  S 11
+E  H  9
+E  D  9
+E  C  8
+W NT  8
+W  S 11
+W  H  9
+W  D  9
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,4,3,63,48,81,96,304,60,161,42,282,59,39,184,52,194,103,32,254,42,25,22,52,20,9,13,38,14,9,15,41,10,39,14,286,28,19,10,36,13,21,77,50,28,22,20,10,16
+[Auction "W"]
+1D Pass 1S Pass 
+2C =1= Pass 2D =2= Pass 
+4S Pass Pass Pass 
+[Note "1: natural or strong hands"]
+[Note "2: less than 9"]
+[Play "S"]
+H2 HJ HQ HK 
+S3 SJ S4 S2 
+D6 DA D2 D7 
+D9 DK D3 DJ 
+DT D4 D5 S5 
+S9 SA ST S8 
+C5 D8 DQ SQ 
+H7 HA H5 H4 
+-  HT H6 -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "16"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T4.Q65.Q532.KJ42 Q852.K84.J7.T863 K93.972.T96.AQ95 AJ76.AJT3.AK84.7"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "52345523458b9988b998"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  3
+N  D  4
+N  C  5
+S NT  5
+S  S  2
+S  H  3
+S  D  4
+S  C  5
+E NT  8
+E  S 11
+E  H  9
+E  D  9
+E  C  8
+W NT  8
+W  S 11
+W  H  9
+W  D  9
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,5,415,62,39,53,72,90,44,50,22,29,53,173,123,24,1364,76,16,13,74,373,31,10,17,19,9,15,10,48,17,13,43,28,21,29,419,35,11,25,23,21,10,204,30,39,14,10
+[Auction "W"]
+1D Pass 1S Pass 
+4C =1= Pass 4S Pass 
+Pass Pass 
+[Note "1:  * splinter [0:07]"]
+[Play "S"]
+H2 HT HQ HK 
+CQ C7 C2 CT 
+D6 DA D2 D7 
+DT DK D3 DJ 
+D9 D4 D5 S5 
+S3 SJ S4 S2 
+S9 SA ST S8 
+H7 D8 DQ SQ 
+H9 HJ H5 H4 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "17"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K52.T9.J7542.Q82 J.AKQ8732.83.653 AQT9873.65.Q9.KJ 64.J4.AKT6.AT974"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "382633826365a6965a69"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  6
+N  C  3
+S NT  3
+S  S  8
+S  H  2
+S  D  6
+S  C  3
+E NT  6
+E  S  5
+E  H 10
+E  D  6
+E  C  9
+W NT  6
+W  S  5
+W  H 10
+W  D  6
+W  C  9
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 22,4,3,61,31,401,148,531,33,163,107,102,102,43,231,26,24,69,824,215,23,55,715,26,26,28,160,41,20,13,24,28,16,14,17,17,36,80,56,21,38,53,142,30,16,20,67,20,23,27,9,23,8,11,8,15,7,15,9,11,8,11
+[Auction "N"]
+Pass 4H 4S 5H 
+Pass Pass Pass 
+[Play "S"]
+SA S4 S2 SJ 
+S3 S6 SK H2 
+D9 DT DJ D3 
+DQ DA D5 D8 
+H5 HJ H9 H3 
+H6 H4 HT HA 
+S8 C4 D2 HK 
+S7 C7 S5 HQ 
+S9 C9 C8 H8 
+ST CT C2 H7 
+CJ CA CQ C3 
+SQ DK D4 C5 
+CK D6 D7 C6 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "17"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K52.T9.J7542.Q82 J.AKQ8732.83.653 AQT9873.65.Q9.KJ 64.J4.AKT6.AT974"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "382633826365a6965a69"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  6
+N  C  3
+S NT  3
+S  S  8
+S  H  2
+S  D  6
+S  C  3
+E NT  6
+E  S  5
+E  H 10
+E  D  6
+E  C  9
+W NT  6
+W  S  5
+W  H 10
+W  D  6
+W  C  9
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,5,77,82,119,74,202,61,38,111,38,124,36,79,103,102,30,398,27,62,26,21,28,11,14,19,33,52,25,35,19,9,10,193,25,16,19
+[Auction "N"]
+Pass 1H 1S X 
+2S =1= 3H 4S X 
+Pass Pass Pass 
+[Note "1: weakest 3 cd raise"]
+[Play "W"]
+DA D2 D3 D9 
+HJ H9 HQ H6 
+H4 HT HA H5 
+CA C2 C6 CJ 
+DK D4 D8 DQ 
+CT C8 C3 CK 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "18"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ653.KJ95.54.K9 AT.Q86.AQJ962.AJ 942.AT3.T873.653 K87.742.K.QT8742"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "0650006500a78aa978aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  6
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  6
+S  H  5
+S  D  0
+S  C  0
+E NT 10
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT  9
+W  S  7
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,4,3,146,207,41,93,35,103,29,57,68,496,103,94,875,50,17,25,167,37,15,22,514,25,183,25,29,72,14,43,23,21,7,19
+[Auction "E"]
+1D Pass 1NT X 
+3NT Pass Pass Pass 
+[Play "N"]
+S3 ST S9 S7 
+S5 SA S4 S8 
+D5 D2 D3 DK 
+SJ D6 S2 SK 
+C9 CJ C6 C7 
+D4 DA D7 C2 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "18"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ653.KJ95.54.K9 AT.Q86.AQJ962.AJ 942.AT3.T873.653 K87.742.K.QT8742"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "0650006500a78aa978aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  6
+N  H  5
+N  D  0
+N  C  0
+S NT  0
+S  S  6
+S  H  5
+S  D  0
+S  C  0
+E NT 10
+E  S  7
+E  H  8
+E  D 10
+E  C 10
+W NT  9
+W  S  7
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,5,140,26,101,42,67,38,107,25,105,368,103,10,110,69,12,27,80,23,12,44,27,28,11,18,26,47,11,29,20,12,23,37,15,16,11,26,22,55,15,49,71,18,11,14,20,26,9,28,23,10,16,9,16,9,33,9,6,9,12,7
+[Auction "E"]
+1D Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+SJ SA S9 S7 
+D5 D2 D3 DK 
+C9 CA C6 C2 
+D4 DA D8 H2 
+S6 DQ D7 H4 
+H5 DJ DT H7 
+S3 D9 H3 C4 
+H9 D6 S4 C7 
+S5 ST S2 SK 
+CK CJ C5 C8 
+SQ H6 C3 S8 
+HJ H8 HA CT 
+HK HQ HT CQ 
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "19"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJ9.96.43.AK9743 AT865.Q5.K872.QJ Q74.JT72.A65.T65 32.AK843.QJT9.82"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "75549755494789447894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  4
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  9
+E  C  4
+W NT  4
+W  S  7
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 10,4,3,77,294,149,179,185,21,51,144,103,18,22,28,19,19,126,28,53,17,398,34,17,11,56,19,7,28,16,21,10,6
+[Auction "S"]
+Pass 2H =1= 3C Pass 
+Pass Pass 
+[Note "1: ♡ + m"]
+[Play "E"]
+HQ H2 H3 H6 
+H5 H7 HK H9 
+CJ HT H4 D3 
+SA S4 S3 SJ 
+S8 S7 S2 S9 
+CQ C5 C2 CA 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "19"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJ9.96.43.AK9743 AT865.Q5.K872.QJ Q74.JT72.A65.T65 32.AK843.QJT9.82"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "8"]
+[Score "NS 180"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "75549755494789447894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  5
+S  H  5
+S  D  4
+S  C  9
+E NT  4
+E  S  7
+E  H  8
+E  D  9
+E  C  4
+W NT  4
+W  S  7
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 5,2,5,98,153,48,37,121,246,102,98,32,97,45,1198,40,53,125,104,50,100,28,17,19,85,19,133,24
+[Auction "S"]
+Pass Pass 1C 1S 
+X XX 2C Pass 
+Pass X Pass Pass 
+Pass 
+[Play "E"]
+CQ C5 C2 CA 
+D2 DA D9 D3 
+CJ C6 C8 C9 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "20"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT9742.K73..JT84 J.42.KQT932.K953 653.QJT6.J654.AQ AQ8.A985.A87.762"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -200"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "4a7356a7357359773597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H  7
+N  D  3
+N  C  5
+S NT  6
+S  S 10
+S  H  7
+S  D  3
+S  C  5
+E NT  7
+E  S  3
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  3
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,4,3,88,94,237,346,175,1115,179,84,28,173,20,27,51,523,102,40,335,19,15,13,17,15,606,25,108,27,46,23,27,19,18,16,34,39,8,26,61,20,22,32,308,27,13,13,11,19,20,7,41
+[Auction "W"]
+1NT =1= 2D =2= 3C =3= 3H =4= 
+3NT 4S Pass Pass 
+X =5= Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2: 1 major"]
+[Note "3: ♢ inv+"]
+[Note "4: p/c"]
+[Note "5: min with 4-5♠ * no alert [0:06]"]
+[Play "E"]
+DQ D4 D7 S2 
+C5 CA C2 C4 
+SJ S3 S8 ST 
+D2 D5 D8 S4 
+CK CQ C7 C8 
+D3 D6 DA S7 
+H4 HQ HA H3 
+H2 HT H5 H7 
+D9 S5 SA S9 
+-  -  SQ -  
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "20"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KT9742.K73..JT84 J.42.KQT932.K953 653.QJT6.J654.AQ AQ8.A985.A87.762"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "4a7356a7357359773597"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S 10
+N  H  7
+N  D  3
+N  C  5
+S NT  6
+S  S 10
+S  H  7
+S  D  3
+S  C  5
+E NT  7
+E  S  3
+E  H  5
+E  D  9
+E  C  7
+W NT  7
+W  S  3
+W  H  5
+W  D  9
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 8,2,5,273,45,139,149,52,72,120,103,22,321,28,16,20,20,24,38,24,119,29,16,16,59,27,43,36,24,19,26,16,18,26,14,20,9,17,19,21
+[Auction "W"]
+1C 2S Pass Pass 
+Pass 
+[Play "E"]
+DK D4 D7 S2 
+C3 CA C7 C4 
+SJ S3 S8 SK 
+CK CQ C2 C8 
+DT D5 D8 S4 
+H2 HQ HA H3 
+D2 S5 SA S7 
+D3 S6 SQ S9 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "21"]
+[West "Radu Nistor#USA5123151"]
+[North "David Chechelashvili#USAK879115"]
+[East "Iulian Rotaru#USA7066325"]
+[South "Ai-Tai Lo#USAN531659"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9.8.A872.JT97542 KQT6.KJ76.4.K863 AJ85.AQ942.KT63. 7432.T53.QJ95.AQ"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "3"]
+[Room "Open"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "667a9667a97653466534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D 10
+N  C  9
+S NT  6
+S  S  6
+S  H  7
+S  D 10
+S  C  9
+E NT  7
+E  S  6
+E  H  5
+E  D  3
+E  C  4
+W NT  6
+W  S  6
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,4,3,195,63,273,57,199,28,89,20,120,32,118,23,51,400,103,22,36,23,18,79,109,184,23,19,51,322,18,101,155,24,30,24,114,67,23,19,54,24,13,24,71,24,12,22,35,20
+[Auction "N"]
+Pass 1C =1= 1H X =2= 
+Pass 2S Pass Pass 
+3C Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4-5 ♠"]
+[Play "E"]
+SK SA S2 S9 
+S6 S5 S3 C2 
+C3 H2 CQ CJ 
+D4 DK DQ D2 
+C6 DT DJ DA 
+H7 HA H3 H8 
+H6 H4 HT C4 
+C8 D3 CA CT 
+-  -  D9 D7 
+*
+
+[Event "JLALL7 Bracket2 SemiFinal - 1 of 4"]
+[Site "RealBridge"]
+[Date "2022.09.24"]
+[Board "21"]
+[West "Alex Kolesnik#USAK512440"]
+[North "Linda Lewis#USAN181755"]
+[East "Jiang Gu#USAQ567484"]
+[South "Disa Eythorsdottir#USAJ638653"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9.8.A872.JT97542 KQT6.KJ76.4.K863 AJ85.AQ942.KT63. 7432.T53.QJ95.AQ"]
+[Scoring "IMP"]
+[Round "1"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Closed"]
+[HomeTeam "[4] Lo"]
+[VisitTeam "[3] Lewis"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "667a9667a97653466534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  7
+N  D 10
+N  C  9
+S NT  6
+S  S  6
+S  H  7
+S  D 10
+S  C  9
+E NT  7
+E  S  6
+E  H  5
+E  D  3
+E  C  4
+W NT  6
+W  S  6
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,2,5,139,39,316,31,104,133,103,44,19,33,17,58,65,156,860,33,13,43,13,16,15,28,12,14,17,20,15,19,17,46,215,14,11,19,29,20
+[Auction "N"]
+3C Pass Pass Pass 
+[Play "E"]
+D4 D3 D9 DA 
+C3 H2 CQ C9 
+S6 DK DQ D8 
+ST SA S2 S9 
+SQ S5 S3 C2 
+C6 H4 CA C4 
+H6 D6 DJ D2 
+C8 DT D5 D7 
+*

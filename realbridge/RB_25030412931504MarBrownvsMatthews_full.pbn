@@ -1,0 +1,4056 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "1"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T43.K6.T62.KQJ76 8762.J983.A943.A AKJ.A75.85.T9854 Q95.QT42.KQJ7.32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "86459864595688456884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  4
+N  D  5
+N  C  9
+S NT  8
+S  S  6
+S  H  4
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  8
+E  D  8
+E  C  4
+W NT  5
+W  S  6
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,76,155,507,91,88,132,54,148,62,29,13,20,235,22,172,28,134,30,224,63,34,29,29,17,18,105,131,43,21,15
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+DK D2 D3 D5 
+DJ D6 D4 D8 
+D7 DT DA C4 
+S5 S3 S8 SA 
+C3 C6 CA CT 
+DQ S4 D9 H5 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "1"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T43.K6.T62.KQJ76 8762.J983.A943.A AKJ.A75.85.T9854 Q95.QT42.KQJ7.32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "86459864595688456884"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  4
+N  D  5
+N  C  9
+S NT  8
+S  S  6
+S  H  4
+S  D  5
+S  C  9
+E NT  5
+E  S  6
+E  H  8
+E  D  8
+E  C  4
+W NT  5
+W  S  6
+W  H  8
+W  D  8
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,141,230,268,56,78,511,373,509,67,46,218,33,143,129,189,21,31,102,27,66,27,82,56,18,8,43,19,29,31,242,35,33,27,51,27,17,7,36,108,8,26,23,27,9,91,18,22,8,12,23,8,9,30,14,88,12,14,7,22,15,6,13,13,4,8
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass X =2= Pass 2D =3= 
+Pass 2H =4= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: meckwell * either: both m, both M or D [0:21]"]
+[Note "3: preference for ♢ if m"]
+[Note "4:  * both M [0:07]"]
+[Play "S"]
+H5 H2 HK H3 
+C4 C2 CK CA 
+HA H4 H6 H8 
+CT C3 C7 H9 
+H7 HT C6 HJ 
+SK S5 S3 S2 
+C5 HQ CQ S6 
+D5 DK D2 D3 
+D8 DQ D6 D4 
+SJ DJ DT D9 
+C8 D7 CJ DA 
+SA S9 S4 S7 
+C9 SQ ST S8 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "2"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKJ983.J.T954.32 T6.QT6.AJ8.T9875 Q2.K952.KQ732.AJ 754.A8743.6.KQ64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "7a5a47a5a43282832828"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D 10
+N  C  4
+S NT  7
+S  S 10
+S  H  5
+S  D 10
+S  C  4
+E NT  3
+E  S  2
+E  H  8
+E  D  2
+E  C  8
+W NT  3
+W  S  2
+W  H  8
+W  D  2
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,171,139,73,82,78,176,52,81,129,55,21,154,83,50,25,255,32,166,22,447,44,55,17,34,23,36,102
+[Auction "E"]
+Pass 1D 1H 1S 
+2H 2NT Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+H6 H2 HA HJ 
+DA D2 D6 D4 
+C9 CA C6 C2 
+S6 SQ S4 S3 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "2"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKJ983.J.T954.32 T6.QT6.AJ8.T9875 Q2.K952.KQ732.AJ 754.A8743.6.KQ64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "7a5a47a5a43282832828"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  5
+N  D 10
+N  C  4
+S NT  7
+S  S 10
+S  H  5
+S  D 10
+S  C  4
+E NT  3
+E  S  2
+E  H  8
+E  D  2
+E  C  8
+W NT  3
+W  S  2
+W  H  8
+W  D  2
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,2,1,96,97,92,250,210,321,64,628,38,560,769,28,176,294,36,22,20,22,101,21,121,18,93,18,35,12,47,79,13,20,59,113,24,66
+[Auction "E"]
+Pass 1D 1H 2S =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: Spades and 4 Ds"]
+[Play "W"]
+H4 HJ HQ HK 
+D6 D4 DA DQ 
+H3 C2 HT H2 
+HA D5 H6 H9 
+H8 D9 C7 H5 
+H7 S3 S6 D2 
+CK -  -  -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "3"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q75.J.875.KJ9875 K84.A976.432.AT6 AJ63.KT8.AKJ.Q42 T92.Q5432.QT96.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8857a8858b5485254852"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  5
+N  D  7
+N  C 10
+S NT  8
+S  S  8
+S  H  5
+S  D  8
+S  C 11
+E NT  5
+E  S  4
+E  H  8
+E  D  5
+E  C  2
+W NT  5
+W  S  4
+W  H  8
+W  D  5
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,0,3,118,80,92,91,296,28,105,58,69,378,58,32,159,28,26,70,196,197,113,16,29,22,26,295,35,93,23,248,188,201,37,58,128,160,9,227,56,58,17,12,484,23,27,61,59,14,34,14,63,15,11,20,13,10,17,27,8,12,12,20
+[Auction "S"]
+1S Pass 2S Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H3 HJ HA H8 
+HQ D5 H6 HT 
+H4 D7 H7 HK 
+C3 CK C6 C2 
+D9 C5 CT CQ 
+H2 C7 CA C4 
+H5 S5 H9 DJ 
+D6 D8 D2 DA 
+S9 SQ SK S3 
+DQ C8 D3 DK 
+S2 S7 S8 SA 
+ST C9 S4 SJ 
+DT CJ D4 S6 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "3"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q75.J.875.KJ9875 K84.A976.432.AT6 AJ63.KT8.AKJ.Q42 T92.Q5432.QT96.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8857a8858b5485254852"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  5
+N  D  7
+N  C 10
+S NT  8
+S  S  8
+S  H  5
+S  D  8
+S  C 11
+E NT  5
+E  S  4
+E  H  8
+E  D  5
+E  C  2
+W NT  5
+W  S  4
+W  H  8
+W  D  5
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,291,46,106,81,178,45,77,28,53,80,476,262,24,42,214,59,175,61,493,92,14,25,43,36,13,147,19,238,31,136,18,47,40,144,52
+[Auction "S"]
+1S Pass 2S Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H3 HJ HA H8 
+HQ D5 H6 HT 
+H2 S5 H7 HK 
+C3 C5 C6 CQ 
+D6 CJ CA C4 
+H4 S7 H9 S3 
+-  -  D3 -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "4"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T9632.AJ73.A4.A6 A5.9652.63.KT532 KQ.K4.KQJ975.QJ7 J874.QT8.T82.984"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "babb9baab91221412214"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 11
+N  C  9
+S NT 11
+S  S 10
+S  H 10
+S  D 11
+S  C  9
+E NT  1
+E  S  2
+E  H  2
+E  D  1
+E  C  4
+W NT  1
+W  S  2
+W  H  2
+W  D  1
+W  C  4
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 26,0,3,83,73,83,109,34,63,120,240,34,146,106,885,46,109,120,35,42,132,1213,168,10,93,17,69,11,101,15,34,13,28,27,8,34
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3C =1= 
+Pass 3NT Pass 4D 
+Pass 6D Pass Pass 
+Pass 
+[Note "1: FSF"]
+[Play "W"]
+C9 C6 CK C7 
+S8 S2 SA SQ 
+S4 S3 S5 SK 
+D2 DA D6 D5 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "4"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T9632.AJ73.A4.A6 A5.9652.63.KT532 KQ.K4.KQJ975.QJ7 J874.QT8.T82.984"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "babb9baab91221412214"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 10
+N  H 11
+N  D 11
+N  C  9
+S NT 11
+S  S 10
+S  H 10
+S  D 11
+S  C  9
+E NT  1
+E  S  2
+E  H  2
+E  D  1
+E  C  4
+W NT  1
+W  S  2
+W  H  2
+W  D  1
+W  C  4
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 26,2,1,64,165,184,419,111,85,208,79,55,366,41,456,65,94,38,364,38,1153,51,39,41,955,731,37,45,42,36,27,67,422,57,15,29,97,23,30,27,205,40,46,80,785,37,17,16,20,89,545,35,131,14,13,18,30
+[Auction "W"]
+Pass 1S Pass 3D =1= 
+Pass 3H Pass 3NT 
+Pass 4D Pass 4H =2= 
+Pass 5C =3= Pass 5D 
+Pass 6D Pass Pass 
+Pass 
+[Note "1: SJS"]
+[Note "2: Cue 1st or 2nd rnd"]
+[Note "3: Cue"]
+[Play "W"]
+D2 D4 D6 D7 
+S4 S2 SA SK 
+D8 DA D3 D5 
+S7 S3 S5 SQ 
+DT H3 C5 DK 
+C8 CA C2 C7 
+S8 ST C3 D9 
+C4 C6 CK CQ 
+-  -  CT -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "5"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT83.Q7.KQ5.JT9 A.9865.T9874.864 J742.3.AJ63.AQ32 965.AKJT42.2.K75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "593785937873a5473a54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  3
+N  D  7
+N  C  8
+S NT  5
+S  S  9
+S  H  3
+S  D  7
+S  C  8
+E NT  7
+E  S  3
+E  H 10
+E  D  5
+E  C  4
+W NT  7
+W  S  3
+W  H 10
+W  D  5
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 22,0,3,196,133,241,102,125,119,54,84,179,168,60,23,67,59,36,24,38,115,37,54,72,69,21,43,255,25,41,19,11,21,16,100,407,36,12,20,35,31,31,17,9,34,69,28,74,30,22,11,35,11,15,23,83,24,8,29,10,26,10,167,16,31,9,31,8,21,9,7
+[Auction "N"]
+1NT =1= Pass 2C =2= 2H 
+2S Pass 4S Pass 
+Pass 5H Pass Pass 
+X Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Stayman"]
+[Play "N"]
+SK SA S7 S5 
+D5 DT DA D2 
+C9 C4 CA C5 
+CT C6 C2 CK 
+H7 H5 H3 HK 
+S3 H6 S2 S6 
+DQ D4 D3 H2 
+ST H8 S4 S9 
+DK D7 D6 HT 
+HQ H9 C3 HA 
+S8 C8 DJ HJ 
+CJ D8 SJ H4 
+SQ D9 CQ C7 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "5"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT83.Q7.KQ5.JT9 A.9865.T9874.864 J742.3.AJ63.AQ32 965.AKJT42.2.K75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "593785937873a5473a54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  3
+N  D  7
+N  C  8
+S NT  5
+S  S  9
+S  H  3
+S  D  7
+S  C  8
+E NT  7
+E  S  3
+E  H 10
+E  D  5
+E  C  4
+W NT  7
+W  S  3
+W  H 10
+W  D  5
+W  C  4
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,2,1,96,44,642,175,228,79,612,65,303,103,37,40,558,61,69,38,131,49,11,56,9,40,23,25,44,24,26,45,101,50,28,18,98,26,12,20,29
+[Auction "N"]
+1S Pass 3H =1= X 
+4S Pass Pass Pass 
+[Note "1: 12-14, support,  shortage or 4333"]
+[Play "E"]
+H8 H3 HK HQ 
+D7 D3 D2 DK 
+H9 S2 H4 H7 
+SA S4 S6 SQ 
+DT D6 S5 D5 
+H6 S7 S9 ST 
+C6 C2 CK CJ 
+-  -  C5 -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "6"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q2.QJ73.AK4.AK64 KT74.T65.98653.Q AJ95.A98.T.JT973 863.K42.QJ72.852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "cbb8ccbb8c1215112151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 11
+N  D  8
+N  C 12
+S NT 12
+S  S 11
+S  H 11
+S  D  8
+S  C 12
+E NT  1
+E  S  2
+E  H  1
+E  D  5
+E  C  1
+W NT  1
+W  S  2
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,0,3,163,56,70,81,71,91,41,148,130,210,69,68,319,49,32,128,241,35,40,45,206,25,7,375,57,26,30,37,517,37,121,70,40,49,21,71,117,32,12,22,81,15,7,16,37,35,93,21,9,32,107,22,7,22,95,18,87,23,17,17,48
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1S Pass 2NT =1= 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 18-19"]
+[Play "E"]
+D5 DT DJ DA 
+CQ C3 C8 CK 
+H5 HA H2 H3 
+HT H8 HK H7 
+D3 S5 D2 DK 
+S4 C7 C5 CA 
+D6 C9 C2 C4 
+H6 CT S8 C6 
+D8 CJ DQ D4 
+S7 H9 H4 HJ 
+ST S9 D7 HQ 
+SK -  -  S2 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "6"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q2.QJ73.AK4.AK64 KT74.T65.98653.Q AJ95.A98.T.JT973 863.K42.QJ72.852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "cbb8ccbb8c1215112151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 11
+N  D  8
+N  C 12
+S NT 12
+S  S 11
+S  H 11
+S  D  8
+S  C 12
+E NT  1
+E  S  2
+E  H  1
+E  D  5
+E  C  1
+W NT  1
+W  S  2
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 14,2,1,182,82,60,27,54,497,34,65,52,680,77,64,74,57,123,481,299,33,20,620,23,18,26,60,29,9,27,109,31,10,30,46,21,16,37,36,185,22,13,18,20,11,8
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1S Pass 2NT =1= 
+Pass 3D =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 18-19 [0:07]"]
+[Note "2: Transfer"]
+[Play "E"]
+D9 DT DJ D4 
+D3 S5 DQ DA 
+CQ C3 C5 CK 
+H6 H8 HK HJ 
+D5 S9 D7 DK 
+H5 C7 C2 CA 
+HT C9 C8 C6 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "7"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ987.J965.752.Q Q543.3.QT4.J8743 T.AK874.AK63.A65 A62.QT2.J98.KT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78ba578ba56523865238"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D 10
+N  C  5
+S NT  7
+S  S  8
+S  H 11
+S  D 10
+S  C  5
+E NT  6
+E  S  5
+E  H  2
+E  D  3
+E  C  8
+W NT  6
+W  S  5
+W  H  2
+W  D  3
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,108,58,239,69,191,34,48,35,70,945,46,18,46,40,12,35,10,19,17,37,22,39,25,25,207,23,13,91,80,42,26,30,120,47,22,24,32,21,18,50,72,15,24,11
+[Auction "S"]
+1H Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+D8 D2 DQ DA 
+C2 CQ C3 CA 
+C9 H5 C4 C5 
+H2 H6 H3 HA 
+HT H9 C7 HK 
+CT HJ C8 C6 
+D9 D5 D4 DK 
+S2 S7 SQ ST 
+DJ D7 DT D3 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "7"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJ987.J965.752.Q Q543.3.QT4.J8743 T.AK874.AK63.A65 A62.QT2.J98.KT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78ba578ba56523865238"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H 11
+N  D 10
+N  C  5
+S NT  7
+S  S  8
+S  H 11
+S  D 10
+S  C  5
+E NT  6
+E  S  5
+E  H  2
+E  D  3
+E  C  8
+W NT  6
+W  S  5
+W  H  2
+W  D  3
+W  C  8
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,107,40,254,55,346,33,30,18,79,369,28,16,458,27,11,15,1183,35,59,149,337,65,43,15,386,22,12,14,173,33,41,22,57,21,11,28
+[Auction "S"]
+1H Pass 3H =1= Pass 
+4H Pass Pass Pass 
+[Note "1:  * Limit raise [0:08]"]
+[Play "W"]
+D8 D2 DQ DA 
+H2 H5 H3 HA 
+S6 S7 SQ ST 
+D9 D5 DT DK 
+DJ D7 D4 D3 
+CK CQ C4 CA 
+HT H6 C3 HK 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "8"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K93.T74.AK42.863 2.85.QJT98.QJ754 A8764.KQJ92.75.A QJT5.A63.63.KT92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8aa758aa754325843258"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  7
+N  C  5
+S NT  8
+S  S 10
+S  H 10
+S  D  7
+S  C  5
+E NT  4
+E  S  3
+E  H  2
+E  D  5
+E  C  8
+W NT  4
+W  S  3
+W  H  2
+W  D  5
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,84,102,180,434,95,561,78,43,43,264,116,42,29,56,66,22,175,224,33,101,29,165,39,22,7,29,196,25,20,56,20,17,33
+[Auction "W"]
+Pass 1NT =1= Pass 4D =2= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 10-12"]
+[Note "2: 5-5 majors"]
+[Play "E"]
+S2 S4 ST SK 
+H5 HK HA H4 
+DQ D5 D6 DA 
+H8 H2 H3 HT 
+C5 HQ H6 H7 
+D8 SA S5 S3 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "8"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K93.T74.AK42.863 2.85.QJT98.QJ754 A8764.KQJ92.75.A QJT5.A63.63.KT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8aa758aa754325843258"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  7
+N  C  5
+S NT  8
+S  S 10
+S  H 10
+S  D  7
+S  C  5
+E NT  4
+E  S  3
+E  H  2
+E  D  5
+E  C  8
+W NT  4
+W  S  3
+W  H  2
+W  D  5
+W  C  8
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,2,1,125,28,109,318,42,166,112,143,28,71,57,188,183,39,83,287,36,11,17,12,163,48,29,61,24,27,49,481,36,12,68,13,143,25,42,17,12,42,10,12,47,42,170,16
+[Auction "W"]
+1NT =1= Pass Pass 2C =2= 
+Pass 2D =3= Pass 2H 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: Majors"]
+[Note "3: Relay"]
+[Play "W"]
+H3 H4 H5 H9 
+S5 SK S2 S4 
+ST S3 H8 S6 
+C2 C3 CQ CA 
+D3 DA D9 D5 
+SJ S9 D8 SA 
+SQ H7 C4 S7 
+HA HT C5 H2 
+CK -  -  -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "9"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ9752.32.72.JT4 863.K4.AKJ94.K32 .QT87.QT863.Q965 AJT4.AJ965.5.A87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3333333333aaaaaaaaaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  3
+N  C  3
+S NT  3
+S  S  3
+S  H  3
+S  D  3
+S  C  3
+E NT 10
+E  S 10
+E  H 10
+E  D 10
+E  C 10
+W NT 10
+W  S 10
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,110,206,73,473,65,65,52,37,289,37,28,79,40,11,14,151,16,12,21,41,32,65,23,57,26,173,22,34,26,22,43,26,71,255,24,49,60,32,246,11,31,8,12,10,12,22,10,8,41,9,17,16,29,48,12,14,24,5,15
+[Auction "N"]
+2S =1= 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+H3 H4 HQ HA 
+H2 HK H7 H5 
+C4 C2 C6 CA 
+S5 S3 H8 HJ 
+S2 C3 HT H9 
+CT CK C5 C8 
+S7 S6 D3 SA 
+S9 D4 D6 H6 
+D7 DA D8 D5 
+D2 DK DT C7 
+SK S8 C9 S4 
+SQ D9 DQ SJ 
+CJ DJ CQ ST 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "9"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ9752.32.72.JT4 863.K4.AKJ94.K32 .QT87.QT863.Q965 AJT4.AJ965.5.A87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3333333333aaaaaaaaaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  3
+N  C  3
+S NT  3
+S  S  3
+S  H  3
+S  D  3
+S  C  3
+E NT 10
+E  S 10
+E  H 10
+E  D 10
+E  C 10
+W NT 10
+W  S 10
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,160,379,140,111,51,40,32,381,343,38,973,163,26,32,41,318,39,15,20,30,26,38,40,83,163,24,39,164,65,18,39,41,26,24,103,105,35,13,23,77,45,152,18,17,15,9,14,11,15,13,6,11,29
+[Auction "N"]
+2S =1= 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: Weak 2S"]
+[Play "N"]
+H3 H4 HQ HA 
+H2 HK H7 H5 
+C4 C2 C6 CA 
+S2 S3 H8 HJ 
+D2 D4 HT H6 
+CT C3 C5 C7 
+CJ CK C9 C8 
+S5 S6 D3 SA 
+S7 D9 D6 H9 
+D7 DA D8 D5 
+S9 DK DT S4 
+-  S8 DQ -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "10"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQJ4.98.AQ6.T962 972.Q762.KJ43.K7 T853.KT43.52.J53 K6.AJ5.T987.AQ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "475354753586897968a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  5
+N  D  3
+N  C  5
+S NT  4
+S  S  7
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  6
+E  H  8
+E  D  9
+E  C  7
+W NT  9
+W  S  6
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,0,3,154,34,123,198,236,95,55,42,83,197,248,177,20,19,26,32,10,23,38,54,29,11,87,92,11,19,24,106,16,11,85,111,30,39,50,15,13,16,15,34,23,7,68,22,10,8,23,32,32,11,12,19
+[Auction "E"]
+Pass Pass 1C =1= X 
+1H Pass 1NT Pass 
+Pass Pass 
+[Note "1: 1+"]
+[Play "N"]
+SQ S2 S8 SK 
+D6 D3 D5 DT 
+DQ DK D2 D9 
+DA D4 H4 D7 
+CT CK C3 C4 
+H8 DJ H3 D8 
+C2 C7 C5 CA 
+C6 H2 CJ CQ 
+H9 H6 HT HA 
+S4 HQ HK H5 
+-  -  S3 S6 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "10"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQJ4.98.AQ6.T962 972.Q762.KJ43.K7 T853.KT43.52.J53 K6.AJ5.T987.AQ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "475354753586897968a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  5
+N  D  3
+N  C  5
+S NT  4
+S  S  7
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  6
+E  H  8
+E  D  9
+E  C  7
+W NT  9
+W  S  6
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 4,2,1,107,37,768,92,55,54,147,186,54,17,203,33,13,12,134,30,19,39,236,754,57,15,128,310,23,19,183,40,11,25,191,20,28,9,48,21,10,8,16,14,11,22,14,17,16,22
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+C6 CK C3 C4 
+H8 H2 H4 HJ 
+D6 D3 D5 D7 
+DQ DK D2 D8 
+DA D4 S8 D9 
+C2 C7 CJ CQ 
+CT S2 C5 CA 
+H9 H6 H3 HA 
+S4 DJ S3 DT 
+SA S7 S5 SK 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "11"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJT98.Q7.432.QT7 753.JT9842.8.J92 K42.K.AQJT96.653 Q6.A653.K75.AK84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "79495794954484744947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  9
+N  C  5
+S NT  7
+S  S  9
+S  H  4
+S  D  9
+S  C  5
+E NT  4
+E  S  4
+E  H  8
+E  D  4
+E  C  7
+W NT  4
+W  S  4
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,0,3,133,113,247,265,592,119,132,91,301,46,55,51,480,260,27,22,74,21,17,44,70,67,21,11,47,59,29,46,24,78,32,108,24,28,22,46,36,22,33,20,12,29,38,22,18,58,20,10,21,24,38,19,194,77,19,7,28,19,8,16,19,35,13,8
+[Auction "S"]
+1D 1NT X 2D =1= 
+2H =2= X 2S Pass 
+3S Pass Pass Pass 
+[Note "1: hearts"]
+[Note "2: Stop?"]
+[Play "E"]
+D8 DA D5 D2 
+S5 S2 S6 S8 
+S3 SK SQ S9 
+S7 S4 H3 ST 
+H2 DQ D7 D3 
+C2 C3 CK C7 
+H4 HK HA H7 
+H8 D6 H6 HQ 
+H9 D9 DK D4 
+HT C5 H5 SJ 
+CJ C6 C4 CT 
+HJ DT C8 SA 
+C9 DJ CA CQ 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "11"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJT98.Q7.432.QT7 753.JT9842.8.J92 K42.K.AQJT96.653 Q6.A653.K75.AK84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "79495794954484744947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  4
+N  D  9
+N  C  5
+S NT  7
+S  S  9
+S  H  4
+S  D  9
+S  C  5
+E NT  4
+E  S  4
+E  H  8
+E  D  4
+E  C  7
+W NT  4
+W  S  4
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,2,1,111,181,148,105,293,63,32,239,160,336,37,14,487,39,10,10,40,23,65,19,179,40,16,20,21,21,12,24,10,29,11,143
+[Auction "S"]
+1D 1NT =1= X 2H 
+3D Pass Pass Pass 
+[Note "1: 16-18"]
+[Play "W"]
+CK C7 C9 C3 
+CA CT C2 C5 
+HA H7 H2 HK 
+H3 HQ H4 S2 
+D5 D2 D8 DA 
+DK D3 H8 DQ 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "12"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:86.52.A84.QJ8752 AK54.984.953.T43 QT972.AKT.JT.AK9 J3.QJ763.KQ762.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "9955a9955a4388343873"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  5
+N  D  5
+N  C 10
+S NT  9
+S  S  9
+S  H  5
+S  D  5
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  8
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  7
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 14,0,3,159,56,89,68,75,92,89,277,48,178,78,26,22,667,121,25,24,41,26,22,39,31,121,34,45,21,300,25,162,25,71,24,256,31,50,17,67,21,159,18,115,21,43,14,7,16,16,21,26,16,56,24,7,24,23,35,15,20,16,6,14,12,12,17,14
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 1NT =1= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 6-9"]
+[Play "E"]
+H9 HA H3 H2 
+C3 CA C6 C2 
+C4 CK D2 C5 
+CT C9 H7 CQ 
+S4 S2 D7 CJ 
+S5 S7 S3 C8 
+D9 HT D6 C7 
+H4 HK H6 H5 
+D3 DT DQ DA 
+SK S9 SJ S6 
+SA ST HQ S8 
+D5 DJ DK D4 
+H8 SQ HJ D8 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "12"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:86.52.A84.QJ8752 AK54.984.953.T43 QT972.AKT.JT.AK9 J3.QJ763.KQ762.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "9955a9955a4388343873"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  5
+N  D  5
+N  C 10
+S NT  9
+S  S  9
+S  H  5
+S  D  5
+S  C 10
+E NT  4
+E  S  3
+E  H  8
+E  D  8
+E  C  3
+W NT  4
+W  S  3
+W  H  8
+W  D  7
+W  C  3
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 12,2,1,201,25,40,55,184,94,163,105,37,38,546,138,24,83,861,20,26,16,240,93,21,6,91,21,17,13,158,492,26,21,17,20,44,20,52,47,23,311,87,31,64,20,262,21,11,42,15,18,21,273,93,38,6,21,41,14,8,25,7,10,7,6
+[Auction "W"]
+Pass Pass Pass 1S 
+2S =1= Pass 3H Pass 
+Pass Pass 
+[Note "1: ♡and minor"]
+[Play "S"]
+ST SJ S8 S5 
+S2 S3 S6 SA 
+HK H3 H2 H4 
+CK C6 C8 C3 
+S9 D2 H5 S4 
+C9 H6 C7 C4 
+HA HQ C5 H8 
+HT HJ C2 H9 
+DJ DK DA D3 
+CA D6 CQ CT 
+DT DQ D4 D5 
+S7 D7 D8 D9 
+SQ H7 CJ SK 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "13"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ4.T987.QT74.T8 AJ.J53.A62.AJ754 965.Q42.J985.K93 T8732.AK6.K3.Q62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2245222452ab98bab98b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  5
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  5
+S  C  2
+E NT 10
+E  S 11
+E  H  9
+E  D  8
+E  C 11
+W NT 10
+W  S 11
+W  H  9
+W  D  8
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,70,343,57,50,63,63,46,55,47,150,456,211,545,30,58,23,23,17,25,87,26,63,45,984,70,19,48,56,75,73,12,77,14,22,77,49,13,29,17,138,10,117,18,43,17,41,11,84,37,26,11,70,11,21,17,23
+[Auction "N"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2:  * xfer [1:06]"]
+[Play "S"]
+D5 D3 DQ D6 
+D8 DK D4 D2 
+CK C2 C8 CJ 
+C9 CQ CT C5 
+C3 C6 H8 CA 
+S5 S2 H7 C4 
+S6 S3 S4 C7 
+H4 HA H9 H3 
+H2 HK HT H5 
+S9 S7 SQ SA 
+D9 H6 D7 DA 
+-  -  -  SJ 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "13"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ4.T987.QT74.T8 AJ.J53.A62.AJ754 965.Q42.J985.K93 T8732.AK6.K3.Q62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2245222452ab98bab98b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  4
+N  D  5
+N  C  2
+S NT  2
+S  S  2
+S  H  4
+S  D  5
+S  C  2
+E NT 10
+E  S 11
+E  H  9
+E  D  8
+E  C 11
+W NT 10
+W  S 11
+W  H  9
+W  D  8
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,2,1,68,176,143,42,60,141,56,492,38,160,101,307,77,20,99,558,427,36,32,82,17,19,75,182,37,6,153,110,36,13,32,64,30,20,10,20,61,19,15,31,15,36,56,29,14,28,14,49,18,19,11,61,16,17,12,26,13,14,22
+[Auction "N"]
+Pass 1C =1= Pass 1S 
+Pass 1NT Pass 2D =2= 
+Pass 2NT =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 2+ [0:06]"]
+[Note "2: GF checkback"]
+[Note "3:  * denies 3S/4H [0:14]"]
+[Play "S"]
+D5 DK D7 D2 
+CK C2 C8 CJ 
+D8 D3 DQ D6 
+D9 S2 D4 DA 
+C3 CQ CT C4 
+C9 C6 S4 CA 
+S5 S3 H8 C7 
+S6 S7 H7 C5 
+H2 HA HT H3 
+H4 HK H9 H5 
+S9 S8 SQ SA 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "14"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:JT7.4.J76.KJT986 9632.T753.QT93.A A854.QJ6.AK42.72 KQ.AK982.85.Q543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "66378763786696466964"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  7
+N  C  8
+S NT  7
+S  S  6
+S  H  3
+S  D  7
+S  C  8
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  4
+W NT  6
+W  S  6
+W  H  9
+W  D  6
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 20,0,3,158,230,70,811,130,273,264,103,143,54,35,41,41,51,32,152,43,11,54,247,61,19,337,33,44,56,90,53,12,11,13,48,12,58,13,33,27,47,185,147,22,9,112,142,41,13,25,46,13,19,21,602,48,34,267,17,9,39,18,26,11,8,15,16,165,12
+[Auction "E"]
+Pass 1C =1= 1H 3C 
+3H Pass 4H 5C 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+HK H4 H3 H6 
+D8 D6 D3 DA 
+HA C6 H5 HQ 
+D5 D7 D9 DK 
+H9 DJ H7 HJ 
+C5 C8 CA C2 
+SK S7 S9 S4 
+H8 C9 HT D2 
+SQ ST S2 S5 
+H2 SJ S6 C7 
+C3 CT S3 S8 
+C4 CK DT D4 
+CQ CJ DQ SA 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "14"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:JT7.4.J76.KJT986 9632.T753.QT93.A A854.QJ6.AK42.72 KQ.AK982.85.Q543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "66378763786696466964"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  3
+N  D  7
+N  C  8
+S NT  7
+S  S  6
+S  H  3
+S  D  7
+S  C  8
+E NT  6
+E  S  6
+E  H  9
+E  D  6
+E  C  4
+W NT  6
+W  S  6
+W  H  9
+W  D  6
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 12,2,1,160,160,240,279,164,289,36,47,126,458,595,35,330,61,10,46,103,24,21,56,87,22,22,15,57,27,14,54,25,22,53,10,59,20,17,11,75,16,27,9,184,35,11,10
+[Auction "E"]
+Pass 1NT =1= 2H 2NT =2= 
+3H Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Tells him to bid 3C"]
+[Play "N"]
+SJ S2 SA SQ 
+H4 H3 H6 HK 
+D6 D9 DK D5 
+C6 H5 HJ HA 
+D7 D3 DA D8 
+C8 H7 HQ H2 
+S7 S3 S8 SK 
+C9 CA C2 C3 
+DJ DQ D2 C4 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "15"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ6.AJ98.5.AQ632 K832.54.A97642.K JT975.Q3.T8.9874 4.KT762.KQJ3.JT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "6963a6963a73693747a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  3
+N  C 10
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C 10
+E NT  7
+E  S  3
+E  H  6
+E  D  9
+E  C  3
+W NT  7
+W  S  4
+W  H  7
+W  D 10
+W  C  3
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,0,3,87,87,64,88,709,57,105,98,119,40,41,39,28,214,139,29,33,21,38,91,27,87,116,24,59,55,25,23,26,134,32,77,14,82,17,31,25,77,62,13,18,63,16,21,15
+[Auction "S"]
+Pass Pass 1C 1D 
+2C 2H 3C Pass 
+Pass 3D Pass Pass 
+Pass 
+[Play "S"]
+SJ S4 SA S2 
+C7 C5 CA CK 
+D8 DK D5 D2 
+C4 CT C2 H4 
+C8 CJ CQ D6 
+H3 HK HA H5 
+HQ H2 H8 D4 
+DT DQ C3 D7 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "15"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ6.AJ98.5.AQ632 K832.54.A97642.K JT975.Q3.T8.9874 4.KT762.KQJ3.JT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "6963a6963a73693747a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  3
+N  C 10
+S NT  6
+S  S  9
+S  H  6
+S  D  3
+S  C 10
+E NT  7
+E  S  3
+E  H  6
+E  D  9
+E  C  3
+W NT  7
+W  S  4
+W  H  7
+W  D 10
+W  C  3
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 21,2,1,80,81,66,506,80,305,30,65,71,45,66,25,79,20,316,71,46,27,1181,338,41,23,32,45,14,33,27,87,16,42,173,227,88,22,19,31,32,43,124,38,32,9,39,34,15,55,20,20,16,147,25,14,53,21,22,19,14,18
+[Auction "S"]
+Pass Pass 1C 3D 
+Pass 4D X Pass 
+4S 5D X Pass 
+Pass Pass 
+[Play "S"]
+SJ S4 SA S2 
+D8 DK D5 D4 
+DT DQ C3 D7 
+C8 CJ CA CK 
+S5 D3 S6 S3 
+C4 C5 C6 D2 
+S7 H2 SQ SK 
+S9 DJ H8 S8 
+C7 CT CQ D6 
+H3 HK HA H4 
+C9 H6 C2 D9 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "16"]
+[West "Brian McGuire#55952"]
+[North "Stefan Syplywczak#"]
+[East "Frank Henry Wharton#59808"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J8.QT986.J73.J85 KQ43.AJ753.4.K42 AT6.K42.9862.AQ3 9752..AKQT5.T976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "53645536448a79879788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  4
+N  C  5
+S NT  5
+S  S  3
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S 10
+E  H  7
+E  D  9
+E  C  8
+W NT  7
+W  S  9
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,81,55,93,49,34,39,290,38,40,39,32,13,117,107,15,72,326,34,22,16,646,45,12,23,9,25,7,6,15,20,8,7,34,25,92,23,109,28,10,33,49,18,140,18,28,14,12,19,9,22,10,37,14,96,97,26,13,21,28,7,8,22,17,8
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+D3 D4 D8 DT 
+S8 SK S6 S2 
+H6 H3 H2 S5 
+D7 C2 D2 DA 
+DJ C4 D6 DK 
+SJ CK D9 DQ 
+C5 S3 C3 C6 
+H8 HA H4 C7 
+H9 H5 HK S7 
+C8 S4 CQ C9 
+HT H7 ST CT 
+HQ SQ SA S9 
+CJ HJ CA D5 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "16"]
+[West "Michael Collins#103463"]
+[North "Trevor Matthews#464442"]
+[East "Luke Kerr#103464"]
+[South "David Muller#41136"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:J8.QT986.J73.J85 KQ43.AJ753.4.K42 AT6.K42.9862.AQ3 9752..AKQT5.T976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "53645536448a79879788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  4
+N  C  5
+S NT  5
+S  S  3
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S 10
+E  H  7
+E  D  9
+E  C  8
+W NT  7
+W  S  9
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,186,36,587,130,65,39,25,44,174,176,62,75,568,23,30,17,231,16,12,23,378,31,22,49,66,21,60,26,158,46,66,12,38,35,24,9,25,20,12,34,73,19,19,8,226,15,27,133,98,315,60,131,26,12,8,21,11,9,14,10
+[Auction "W"]
+Pass Pass 2H =1= Pass 
+4S Pass Pass Pass 
+[Note "1: 5+H/4+S 11-15"]
+[Play "N"]
+D3 D4 D8 DT 
+D7 C2 D2 DA 
+DJ C4 D6 DK 
+S8 CK D9 DQ 
+C5 S3 C3 C6 
+H6 HA H2 C7 
+H8 H3 H4 S2 
+C8 S4 CQ C9 
+HT H5 HK S5 
+CJ SQ CA CT 
+H9 H7 ST D5 
+SJ SK SA S7 
+HQ HJ S6 S9 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "17"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ864.3.J63.8532 AK52.KT86.AKT9.4 7.AQ95.854.AJT76 T93.J742.Q72.KQ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "453474534788a9687a85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  7
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  7
+E NT  8
+E  S  8
+E  H 10
+E  D  9
+E  C  6
+W NT  8
+W  S  7
+W  H 10
+W  D  8
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,3,1,224,650,195,61,97,77,150,629,41,197,102,21,23,24,119,99,14,53,72,24,39,1286,106,14,14,16,60,10,85,16,37,18,41,34,21,20,117,145,299,12,30,75,15,47,270,535,36,43,9,14,20,7,139,37,40,12,9,17,20,11,9,14,18,8,9
+[Auction "N"]
+Pass 1D 2C Pass 
+3C X Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+C5 C4 CA C9 
+SQ SK S7 S9 
+D3 D9 D8 DQ 
+C2 S2 C7 CK 
+C3 S5 C6 CQ 
+H3 HT HQ H2 
+C8 DT CT H7 
+S4 HK HA H4 
+D6 H6 H5 HJ 
+DJ DK D4 D2 
+S6 DA D5 D7 
+S8 SA H9 S3 
+SJ H8 CJ ST 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "17"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QJ864.3.J63.8532 AK52.KT86.AKT9.4 7.AQ95.854.AJT76 T93.J742.Q72.KQ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "453474534788a9687a85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  7
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  7
+E NT  8
+E  S  8
+E  H 10
+E  D  9
+E  C  6
+W NT  8
+W  S  7
+W  H 10
+W  D  8
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,2,160,240,91,40,44,179,52,46,39,17,32,29,348,15,9,113,21,17,18,205,41,22,118,262,33,16,39,335,29,27,127,457,27,22,63,2034,259,25,115,52,36,27,8,114,36,15,11,2006,21,9,31,12,19,16,19,15,18,15,8,15,23,12,17
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 4C =1= Pass 4H 
+Pass Pass Pass 
+[Note "1: splinter"]
+[Play "N"]
+SQ SA S7 S3 
+C3 C4 CA C9 
+C2 S2 C6 CK 
+H3 HT HQ H2 
+C5 S5 CJ CQ 
+S4 HK HA H4 
+S6 H6 H5 H7 
+C8 H8 H9 HJ 
+S8 SK C7 S9 
+D3 DA D4 D2 
+D6 DT D5 DQ 
+DJ DK D8 D7 
+SJ D9 CT ST 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "18"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:4.A5.KT87652.JT9 KJ865.Q32.Q.AQ76 AT32.KJ964.A43.4 Q97.T87.J9.K8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "85cc586cc50700606006"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 12
+N  D 12
+N  C  5
+S NT  8
+S  S  6
+S  H 12
+S  D 12
+S  C  5
+E NT  0
+E  S  7
+E  H  0
+E  D  0
+E  C  6
+W NT  0
+W  S  6
+W  H  0
+W  D  0
+W  C  6
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 18,3,1,438,166,485,485,401,171,17,35,98,228,15,24,27,38,23,13,53,24,56,130,183,20,19,45,58,20,7,25,653,144,17,6,81,66,26,7,19,10,13,237,44,39,25,9,29,45,7,37,28,93,22,29,13
+[Auction "E"]
+2S =1= 3H 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 5S/4m 11-15 or 6S 10-14"]
+[Play "S"]
+C4 C2 C9 CA 
+S2 SQ S4 S5 
+SA S7 D2 SJ 
+DA D9 D5 DQ 
+D3 DJ DK S6 
+S3 S9 DT SK 
+H4 CK CJ C6 
+H6 C3 CT CQ 
+ST C5 D8 C7 
+D4 C8 D6 S8 
+H9 HT HA H2 
+-  -  D7 -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "18"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:4.A5.KT87652.JT9 KJ865.Q32.Q.AQ76 AT32.KJ964.A43.4 Q97.T87.J9.K8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "85cc586cc50700606006"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H 12
+N  D 12
+N  C  5
+S NT  8
+S  S  6
+S  H 12
+S  D 12
+S  C  5
+E NT  0
+E  S  7
+E  H  0
+E  D  0
+E  C  6
+W NT  0
+W  S  6
+W  H  0
+W  D  0
+W  C  6
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 18,0,2,147,135,35,183,311,205,19,52,28,452,438,46,41,116,23,28,28,48,74,39,24,159,75,44,15,116,23,70,21,656,38,19,10,376,30,16,79,144,31,10,17,13
+[Auction "E"]
+1S 2H 2S 4H 
+4S X Pass Pass 
+Pass 
+[Play "S"]
+C4 C2 C9 CA 
+S2 SQ S4 S5 
+SA S7 D8 SK 
+H6 H7 HA H2 
+HJ H8 H5 H3 
+DA D9 D7 DQ 
+D3 DJ DK S6 
+S3 S9 D2 SJ 
+-  -  -  CQ 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "19"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J6.AK.J3.AKJT963 752.JT7542.T.Q85 KQT4.9863.AQ75.7 A983.Q.K98642.42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a889ab899b2244222442"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  9
+N  C 10
+S NT 11
+S  S  8
+S  H  9
+S  D  9
+S  C 11
+E NT  2
+E  S  2
+E  H  4
+E  D  4
+E  C  2
+W NT  2
+W  S  2
+W  H  4
+W  D  4
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 14,3,1,210,64,135,81,254,83,56,31,91,149,35,38,207,271,25,37,321,27,69,23,41,15,36,17,109,17,96,261,86,156,24,44,41
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1H Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: 1+"]
+[Play "W"]
+D6 DJ DT D5 
+C2 CA C8 C7 
+C4 CK C5 H3 
+D9 CJ CQ H8 
+SA S6 S7 S4 
+S9 -  -  -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "19"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J6.AK.J3.AKJT963 752.JT7542.T.Q85 KQT4.9863.AQ75.7 A983.Q.K98642.42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a889ab899b2244222442"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  8
+N  D  9
+N  C 10
+S NT 11
+S  S  8
+S  H  9
+S  D  9
+S  C 11
+E NT  2
+E  S  2
+E  H  4
+E  D  4
+E  C  2
+W NT  2
+W  S  2
+W  H  4
+W  D  4
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 20,0,2,509,44,85,56,193,29,260,100,210,29,182,94,485,30,52,84,494,152,181,88,115,30,141,72,52,23,31,58,21,7,27,35,19,180
+[Auction "S"]
+1D Pass 2C Pass 
+2D Pass 2H Pass 
+3H Pass 3S =1= Pass 
+4H Pass 5C Pass 
+Pass Pass 
+[Note "1: Asking for stop for NT"]
+[Play "E"]
+S5 S4 SA S6 
+C5 C7 C4 CA 
+C8 H3 C2 CK 
+CQ H6 D2 C9 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "20"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.KQT763.JT4.32 T2.A8542.Q2.AKQJ AK8.9.AK73.T9875 976543.J.9865.64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "86988869885745557455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  8
+N  C  8
+S NT  8
+S  S  6
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  7
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,3,1,67,127,401,144,151,178,77,37,15,225,55,29,10,19,23,8,19,7,12,9,81,414,31,16,20,17,21,28,22,143,23,21,12,13,22,10,19,9,19,7,28,20,23,15,29,18,25,29,10,13,20,7,8,7,19,7,11
+[Auction "W"]
+Pass 2H =1= Pass Pass 
+Pass 
+[Note "1: wk"]
+[Play "E"]
+CK C5 C4 C2 
+ST S8 S3 SQ 
+S2 SK S4 SJ 
+H2 SA S5 C3 
+DQ DA D5 D4 
+HA H9 HJ HK 
+D2 D3 D6 DJ 
+H4 C7 S6 HQ 
+H5 C8 S7 HT 
+H8 C9 C6 H7 
+CJ CT S9 H3 
+CQ D7 D8 H6 
+CA DK D9 DT 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "20"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.KQT763.JT4.32 T2.A8542.Q2.AKQJ AK8.9.AK73.T9875 976543.J.9865.64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "86988869885745557455"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  9
+N  D  8
+N  C  8
+S NT  8
+S  S  6
+S  H  9
+S  D  8
+S  C  8
+E NT  5
+E  S  7
+E  H  4
+E  D  5
+E  C  5
+W NT  5
+W  S  7
+W  H  4
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,2,78,93,265,218,68,57,925,69,67,45,558,32,18,42,94,188,23,19,272,39,16,40,601,31,25,14,131,20,26,13,226,29,13,13,25,19,9,17,10,11,9,16,11,16,12,18,11,30,16,17
+[Auction "W"]
+Pass 2H =1= 2NT Pass 
+3H =2= Pass 3NT =3= Pass 
+4H =4= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: Spades"]
+[Note "3: Denies 3 ♠'s"]
+[Note "4: Re transfer"]
+[Play "S"]
+DK D5 D4 D2 
+DA D6 DT DQ 
+SA S3 SJ S2 
+S8 S4 SQ ST 
+H9 HJ HK HA 
+C5 C4 C3 CA 
+C7 C6 C2 CK 
+C8 D8 H3 CQ 
+C9 D9 H6 CJ 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "21"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:85.A8.AK82.AT643 KQ973.5.643.KJ97 64.KQJ76.975.Q82 AJT2.T9432.QJT.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "74888748886954569544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  4
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,3,1,134,302,287,55,51,67,77,55,296,56,124,14,203,21,24,13,178,226,57,9,100,25,7,20,13,33,31,11,263,48,24,10,15,35,10,63,108,22,9,23,14,51,15,100,15,31,17,17,9,39,13,44,11,22,50,8,19,19,9,7
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass Pass 
+[Note "1:  * 15-17 [0:11]"]
+[Note "2: hearts"]
+[Play "E"]
+SK S4 S2 S5 
+S3 S6 SA S8 
+S7 D5 SJ H8 
+H5 H6 H2 HA 
+CK C2 C5 C3 
+SQ H7 ST D2 
+D4 HK H3 D8 
+D3 HJ H4 C4 
+D6 HQ H9 C6 
+C7 D7 DT DA 
+CJ CQ HT CT 
+S9 D9 DQ DK 
+C9 C8 DJ CA 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "21"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:85.A8.AK82.AT643 KQ973.5.643.KJ97 64.KQJ76.975.Q82 AJT2.T9432.QJT.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "74888748886954569544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  8
+N  D  8
+N  C  8
+S NT  7
+S  S  4
+S  H  8
+S  D  8
+S  C  8
+E NT  6
+E  S  9
+E  H  5
+E  D  4
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,2,83,198,152,55,145,50,131,20,607,239,27,13,332,208,29,22,21,24,23,12,23,39,14,15,17,12,10,11,47,165,10,29
+[Auction "N"]
+1C 1S 2H 4S 
+X Pass Pass Pass 
+[Play "S"]
+HK H2 H8 H5 
+S6 ST S5 S3 
+C2 C5 CA C7 
+D5 DT DK D3 
+D7 DJ DA D4 
+S4 S2 S8 S9 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "22"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ752.KJ86.K3.J4 Q43.752.Q74.A932 K.AQ43.J92.KQ765 T986.T9.AT865.T8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "89b7b89b7b3326233262"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 11
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 11
+S  D  7
+S  C 11
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  2
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,3,1,81,436,918,105,159,395,45,176,45,229,32,31,34,393,75,107,24,132,26,17,15,236,43,12,11,20,11,29,17,102,39,27,16,66,12,23,41,23,53,8,46,43,21,10,16,10,24,38,30,29,13,49,16,25,26,9,52,20,14,7,8,8,8,9,8
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 2C Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 1+"]
+[Play "E"]
+D4 D2 DA D3 
+D7 D9 D6 DK 
+H5 HQ H9 H6 
+H2 H3 HT HK 
+H7 HA D5 H8 
+CA C5 C8 CJ 
+DQ DJ D8 HJ 
+C2 CK CT C4 
+C3 CQ DT S2 
+C9 C7 S6 S5 
+S3 SK S8 S7 
+S4 C6 S9 SJ 
+SQ H4 ST SA 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "22"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ752.KJ86.K3.J4 Q43.752.Q74.A932 K.AQ43.J92.KQ765 T986.T9.AT865.T8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "89b7b89b7b3326233262"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 11
+N  D  7
+N  C 11
+S NT  8
+S  S  9
+S  H 11
+S  D  7
+S  C 11
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  2
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,2,100,233,40,99,35,367,58,59,63,405,35,38,41,229,113,31,29,229,28,35,39,42,36,16,5,23,27,25,39,26,29,11,39,140,37,16,6,25,15,18,11,263,25,22,26,24,11,21,17,39,35,19,6,16,20,17,7,27,7,22,10,23,28,16,11
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 1NT =2= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: 13-17"]
+[Play "E"]
+D4 D2 DA D3 
+D7 D9 D6 DK 
+S3 SK S8 S2 
+CA C5 CT CJ 
+DQ DJ D5 H6 
+H2 H3 H9 HK 
+H5 H4 HT HJ 
+C2 CK C8 C4 
+C3 C6 D8 H8 
+S4 C7 S6 SA 
+SQ HQ S9 S5 
+H7 HA DT S7 
+C9 CQ ST SJ 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "23"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q532.32.J75.QT74 T764.QJT.KQ6.KJ8 KJ8.A94.A982.A63 A9.K8765.T43.952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67577675777686676866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  7
+N  C  7
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  7
+E NT  7
+E  S  6
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  6
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,3,1,296,42,72,87,217,199,44,47,22,39,41,46,25,67,17,109,79,71,21,22,58,77,815,94,30,192,30,44,275,40,15,69,138,75,41,21,61,18,80,13,27,63,24,10,12,72,35,19,26,38,12,36,14,8,16,10
+[Auction "S"]
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+H6 H2 HT H4 
+H5 H3 HQ H9 
+H7 D5 HJ HA 
+SA S2 S4 SK 
+HK C4 D6 C3 
+H8 D7 C8 D2 
+S9 S3 S6 SJ 
+C5 SQ S7 S8 
+D3 DJ DQ DA 
+D4 S5 DK D8 
+C2 C7 ST D9 
+C9 CQ CJ C6 
+DT CT CK CA 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "23"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q532.32.J75.QT74 T764.QJT.KQ6.KJ8 KJ8.A94.A982.A63 A9.K8765.T43.952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67577675777686676866"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  7
+N  C  7
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  7
+E NT  7
+E  S  6
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  6
+W  H  8
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,2,146,29,103,45,143,31,44,40,50,483,42,15,37,19,15,11,24,19,120,27,1198,32,13,25,22,23,26,25,586,21,16,15,42,37,9,28,7,45,24,8,17,66,15,11,10
+[Auction "S"]
+1D Pass 1S Pass 
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+H6 H2 HT H4 
+H5 H3 HQ H9 
+HK D5 HJ HA 
+C2 C4 C8 CA 
+C5 CT CJ C3 
+C9 C7 CK C6 
+SA S2 S7 SJ 
+H8 D7 S4 D2 
+H7 S3 S6 D8 
+S9 -  -  -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "24"]
+[West "Michael Collins#103463"]
+[North "Brian McGuire#55952"]
+[East "Luke Kerr#103464"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A842.874.J96532. 5.AKQT52.Q7.AQJ4 973.3.AT4.876532 KQJT6.J96.K8.KT9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2327423274b6959b6a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  7
+N  C  4
+S NT  2
+S  S  3
+S  H  2
+S  D  7
+S  C  4
+E NT 11
+E  S  6
+E  H  9
+E  D  5
+E  C  9
+W NT 11
+W  S  6
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 17,3,1,381,45,100,91,219,55,138,93,23,26,624,103,190,221,10,31,77,20,6,25,189,23,14,29,28,11,16,42,58,31,9,8,13,29,15,31
+[Auction "W"]
+1S Pass 2H =1= Pass 
+3H Pass 4C =2= Pass 
+4H Pass Pass Pass 
+[Note "1: gf"]
+[Note "2: cue"]
+[Play "S"]
+DA D8 D2 D7 
+D4 DK D3 DQ 
+H3 HJ H4 H2 
+DT H6 H7 HA 
+C2 H9 H8 HK 
+S3 SQ SA S5 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "24"]
+[West "Trevor Matthews#464442"]
+[North "Stefan Syplywczak#"]
+[East "David Muller#41136"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A842.874.J96532. 5.AKQT52.Q7.AQJ4 973.3.AT4.876532 KQJT6.J96.K8.KT9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2327423274b6959b6a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  7
+N  C  4
+S NT  2
+S  S  3
+S  H  2
+S  D  7
+S  C  4
+E NT 11
+E  S  6
+E  H  9
+E  D  5
+E  C  9
+W NT 11
+W  S  6
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 17,0,2,95,61,53,61,25,35,108,35,304,38,156,29,108,96,31,13,230,34,26,112,22,24,9,23,149,42,18,13,25,18,10,16,44,56,11,17
+[Auction "W"]
+1S Pass 2H Pass 
+3H Pass 4C =1= Pass 
+4H Pass Pass Pass 
+[Note "1:  * Cue [0:11]"]
+[Play "S"]
+DA D8 D2 D7 
+C7 C9 H4 C4 
+S3 S6 SA S5 
+S7 ST S2 HT 
+H3 H6 H7 HA 
+C5 H9 H8 HK 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "25"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K8.AT.QT873.AKJ6 QJ652.Q732.K96.8 T73.95.AJ5.T5432 A94.KJ864.42.Q97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "b55ccb55cc1871118811"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  5
+N  H  5
+N  D 12
+N  C 12
+S NT 11
+S  S  5
+S  H  5
+S  D 12
+S  C 12
+E NT  1
+E  S  8
+E  H  7
+E  D  1
+E  C  1
+W NT  1
+W  S  8
+W  H  8
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 4,3,0,287,159,91,56,123,92,28,21,31,35,234,19,30,27,8,16,16,113,13,18,381,24,10,17,223,31,21,568,36,35,15,10,21,33,14,11,15,95,17,20
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1:  * 15-17 [0:08]"]
+[Play "E"]
+S5 S3 SA S8 
+S2 S7 S9 SK 
+C8 C2 C7 CK 
+H7 C3 C9 CA 
+D6 DJ D4 D3 
+H2 C4 CQ CJ 
+SJ ST S4 HT 
+SQ H5 D2 D7 
+S6 D5 H4 D8 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "25"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K8.AT.QT873.AKJ6 QJ652.Q732.K96.8 T73.95.AJ5.T5432 A94.KJ864.42.Q97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "b55ccb55cc1871118811"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  5
+N  H  5
+N  D 12
+N  C 12
+S NT 11
+S  S  5
+S  H  5
+S  D 12
+S  C 12
+E NT  1
+E  S  8
+E  H  7
+E  D  1
+E  C  1
+W NT  1
+W  S  8
+W  H  8
+W  D  1
+W  C  1
+[OptimumScore "NS +920"]
+[Competition "Teams"]
+% RBDATA 20,1,2,232,152,323,48,406,44,544,40,30,59,94,161,95,20,979,57,43,15,22,36,22,6,84,43,15,7,28,55,18,99,69,25,11,27,16,507,45,15,11,16,17,10,23
+[Auction "N"]
+1D Pass 1NT =1= Pass 
+3C Pass 5C Pass 
+Pass Pass 
+[Note "1: 5-11, semi forcing"]
+[Play "E"]
+SQ S3 SA S8 
+H2 H5 H6 HA 
+C8 C2 C7 CA 
+S2 C3 C9 CK 
+DK DA D2 DQ 
+D6 DJ D4 D3 
+D9 D5 CQ D8 
+H3 H9 HK HT 
+-  -  S4 -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "26"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T5.KT97.KQJ.K862 AK94.Q642.T954.Q 732.AJ5.76.JT754 QJ86.83.A832.A93"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "74749747496969469694"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  4
+N  C  9
+S NT  7
+S  S  4
+S  H  7
+S  D  4
+S  C  9
+E NT  6
+E  S  9
+E  H  6
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  6
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA -2,3,0,220,64,58,227
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "26"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T5.KT97.KQJ.K862 AK94.Q642.T954.Q 732.AJ5.76.JT754 QJ86.83.A832.A93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "74749747496969469694"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  4
+N  C  9
+S NT  7
+S  S  4
+S  H  7
+S  D  4
+S  C  9
+E NT  6
+E  S  9
+E  H  6
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  6
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,2,164,78,36,62,47,150,101,294,383,21,25,71,39,33,21,635,58,28,23,88,23,807,38,37,41,7,20,277,37,270,19,16,440,29,25,12,42,11,18
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+D4 D6 DA DJ 
+D5 D7 D2 DK 
+H4 HJ H3 H7 
+CQ CJ C3 C2 
+DT S2 D3 DQ 
+H2 HA H8 HT 
+H6 H5 C9 HK 
+S4 C4 CA C6 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "27"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKQ985.Q75.43.QT JT4.9.T86.987652 7632.JT83.Q92.K3 .AK642.AKJ75.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5741177511657cb657cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  1
+N  C  1
+S NT  7
+S  S  7
+S  H  5
+S  D  1
+S  C  1
+E NT  6
+E  S  5
+E  H  7
+E  D 12
+E  C 11
+W NT  6
+W  S  5
+W  H  7
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 20,3,0,171,69,53,45,242,50,68,176,102,57,115,915,84,146,39,119,73,144,1440,23,14,466,43,20,71,15,33,10,58,16,34,11,108,19,70,13,79,14,14,11,95,286,28,11,29,465,22,11,27,450,23,29,68,21,20,95,24,12,35,10,8,49,15,6,8,12,19,14,6
+[Auction "S"]
+Pass 1H 1S Pass 
+3S X Pass 4C 
+Pass 4D Pass 4H 
+Pass 5C Pass Pass 
+Pass 
+[Play "S"]
+S2 C4 SA S4 
+C3 CA CT C2 
+H8 HA H5 H9 
+H3 H2 HQ C5 
+S3 CJ S5 ST 
+HT HK H7 SJ 
+D2 DA D4 D6 
+D9 DK D3 D8 
+HJ H4 CQ DT 
+S6 D5 SK C6 
+CK H6 S8 C7 
+DQ D7 S9 C8 
+S7 DJ SQ C9 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "27"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKQ985.Q75.43.QT JT4.9.T86.987652 7632.JT83.Q92.K3 .AK642.AKJ75.AJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5741177511657cb657cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  1
+N  C  1
+S NT  7
+S  S  7
+S  H  5
+S  D  1
+S  C  1
+E NT  6
+E  S  5
+E  H  7
+E  D 12
+E  C 11
+W NT  6
+W  S  5
+W  H  7
+W  D 12
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 20,1,2,63,67,136,47,111,36,289,49,49,220,61,105,38,123,29,101,476,39,16,1239,28,29,18,47,23,10,23,13,17,25,21,34,18,45,15,42,90,26,37,26,728,102,16
+[Auction "S"]
+Pass 1H 1S Pass 
+2S X 3S 4C 
+Pass 4S =1= Pass 5C 
+Pass Pass Pass 
+[Note "1: Cue bid"]
+[Play "S"]
+S6 C4 S5 S4 
+C3 CA CT C2 
+H3 HA H7 H9 
+H8 HK H5 ST 
+HT H2 HQ C5 
+S7 CJ S8 SJ 
+HJ H4 CQ D6 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "28"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ532.J2.854.A52 .AK65.AKQT2.Q963 T974.QT9.963.KT4 KJ86.8743.J7.J87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "453334533387aa987aa9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  3
+N  C  3
+S NT  4
+S  S  5
+S  H  3
+S  D  3
+S  C  3
+E NT  8
+E  S  7
+E  H 10
+E  D 10
+E  C  9
+W NT  8
+W  S  7
+W  H 10
+W  D 10
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,3,0,70,66,149,75,41,38,446,160,125,37,107,60,25,194,44,26,166,46,19,9,23,52,19,11,23,54,19,7,23,13,19,38,18,42,17,8,19,44,25,7,49,34,20,24,21,42,29,29
+[Auction "W"]
+Pass Pass 1D Pass 
+1H 1S 3S =1= Pass 
+4H Pass Pass Pass 
+[Note "1: Splinter"]
+[Play "N"]
+SA H5 S4 S6 
+H2 HA H9 H3 
+HJ HK HT H4 
+D4 D2 D3 DJ 
+D5 DT D6 D7 
+D8 DQ D9 C7 
+C2 DK HQ C8 
+CA C3 C4 CJ 
+C5 C9 CT H7 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "28"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ532.J2.854.A52 .AK65.AKQT2.Q963 T974.QT9.963.KT4 KJ86.8743.J7.J87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2SX"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "453334533387aa987aa9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  3
+N  C  3
+S NT  4
+S  S  5
+S  H  3
+S  D  3
+S  C  3
+E NT  8
+E  S  7
+E  H 10
+E  D 10
+E  C  9
+W NT  8
+W  S  7
+W  H 10
+W  D 10
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 8,1,2,82,420,184,327,101,55,1139,74,334,50,64,80,15,27,122,24,6,12,20,18,88,18,346,23,28,93,24,13,12,7,15,13,14,23,220,150,26,13,983,51,13,5,12,11,16,6,14,19,16,15,28,29,21,21,33,22,12,11,7,8,7,11
+[Auction "W"]
+Pass 1NT =1= X XX =2= 
+Pass 2S X =3= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: 4333 hand (any 4 cd suit)"]
+[Note "3: Take out (I think)"]
+[Play "E"]
+DA D3 D7 D4 
+DK D6 DJ D5 
+DQ D9 H7 D8 
+HA H9 H4 H2 
+HK HT H3 HJ 
+H5 HQ H8 C2 
+D2 ST SJ SQ 
+C3 C4 C8 CA 
+C6 CK C7 C5 
+C9 CT CJ S2 
+DT S4 S6 S3 
+H6 S9 S8 S5 
+CQ S7 SK SA 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "29"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.T73.K973.98654 72.KQ9852.J5.T72 AQ653.A64.T84.AJ KJ984.J.AQ62.KQ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "45566455668776687766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  4
+S  S  5
+S  H  5
+S  D  6
+S  C  6
+E NT  8
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  8
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 12,3,0,60,152,123,167,123,582,72,235,44,128,232,12,11,33,20,7,10,453,42,14,112,100,482,25,8,9,12,58,11,315,18,6,7,90,20,36,11,58,73,66,9,156,44,10,7
+[Auction "N"]
+Pass 2H =1= 2S X 
+Pass 3H Pass Pass 
+Pass 
+[Note "1: weak 5-9"]
+[Play "S"]
+CA C3 C4 C2 
+CJ CQ C5 C7 
+HA HJ H7 H2 
+DT D2 DK D5 
+H6 CK C6 CT 
+SA S4 ST S7 
+S3 S8 HT S2 
+D4 S9 C9 HQ 
+H4 D6 H3 HK 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "29"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.T73.K973.98654 72.KQ9852.J5.T72 AQ653.A64.T84.AJ KJ984.J.AQ62.KQ3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "6"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "45566455668776687766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  6
+N  C  6
+S NT  4
+S  S  5
+S  H  5
+S  D  6
+S  C  6
+E NT  8
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  8
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,1,2,178,149,109,155,429,1195,140,31,90,798,32,72,23,12,19,43,22,11,12,284,47,13,15,355,40,11,26,95,16,17,11,921,37,91,37,47,26,36,18,469,78,12,465,552,49,37,26,28,13,10,19,7,26,9,11,7,7,8,8
+[Auction "N"]
+Pass 2H =1= 2S X =2= 
+Pass Pass Pass 
+[Note "1: Weak"]
+[Note "2: Penalty"]
+[Play "W"]
+HJ H3 HQ HA 
+C3 C4 C2 CA 
+CQ C5 C7 CJ 
+DA D3 D5 D4 
+CK C6 CT S3 
+D2 DK DJ D8 
+D6 C8 S7 DT 
+SJ ST S2 S5 
+SK D7 H2 SA 
+DQ H7 H9 H4 
+S4 HT HK H6 
+S8 C9 H5 SQ 
+S9 D9 H8 S6 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "30"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J863.KJ852.Q9.JT AT.AT974.54.AK62 954.Q6.AKT876.Q9 KQ72.3.J32.87543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "34561345617976a7976a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  6
+N  C  1
+S NT  3
+S  S  4
+S  H  5
+S  D  6
+S  C  1
+E NT  7
+E  S  9
+E  H  7
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  7
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,3,0,165,104,53,69,92,76,35,28,149,63,42,80,42,19,158,18,44,23,161,34,9,19,49,50,19,25,17,73,19,81,20,39,19,8,22,44,20,25,315,29,106,123,58,31,21,82,473,34,15,19,15,65,21,22,40,18,18,11,13,10,13,23
+[Auction "E"]
+1H 2D Pass Pass 
+X Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+DQ D4 D6 D2 
+D9 D5 DK D3 
+H2 HA HQ H3 
+H5 H4 H6 S2 
+CT ST D7 DJ 
+CJ CA C9 C3 
+S3 CK CQ C4 
+HK H7 D8 S7 
+H8 C2 S4 C5 
+S6 SA S5 SQ 
+HJ C6 S9 C7 
+S8 H9 DA SK 
+SJ HT DT C8 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "30"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J863.KJ852.Q9.JT AT.AT974.54.AK62 954.Q6.AKT876.Q9 KQ72.3.J32.87543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "34561345617976a7976a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  6
+N  C  1
+S NT  3
+S  S  4
+S  H  5
+S  D  6
+S  C  1
+E NT  7
+E  S  9
+E  H  7
+E  D  6
+E  C 10
+W NT  7
+W  S  9
+W  H  7
+W  D  6
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,1,2,150,135,48,147,53,50,48,88,37,63,199,170,48,10,176,797,34,7,32,23,9,16,171,12,10,14,103,23,7,19,14,17,12,31,20,309,9,113,16,16,12,7,43,10,13,22,36
+[Auction "E"]
+1H 2D Pass Pass 
+X Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+DQ D4 D6 D2 
+S3 SA S4 S2 
+CT CA C9 C5 
+CJ CK CQ C7 
+S6 ST S5 SK 
+S8 H4 S9 SQ 
+SJ C6 H6 C4 
+D9 D5 DK D3 
+H2 H7 DA DJ 
+-  -  DT -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "31"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT9632.KQ3.J8.75 KJ.JT84.KT3.AQT4 A87.A52.A972.J92 54.976.Q654.K863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "69665696655477854778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,3,0,304,64,107,52,89,30,39,45,93,41,189,110,40,12,65,29,20,29,8,17,33,22,87
+[Auction "S"]
+1C =1= Pass 1S Pass 
+1NT Pass 2S Pass 
+Pass Pass 
+[Note "1: 1+"]
+[Play "E"]
+HJ H2 H6 HK 
+SJ SA S4 S3 
+SK S7 S5 S9 
+H4 -  -  -  
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "31"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QT9632.KQ3.J8.75 KJ.JT84.KT3.AQT4 A87.A52.A972.J92 54.976.Q654.K863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "69665696655477854778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  6
+N  D  6
+N  C  5
+S NT  6
+S  S  9
+S  H  6
+S  D  6
+S  C  5
+E NT  5
+E  S  4
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  4
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,1,2,125,33,278,67,41,17,37,153,160,304,42,26,78,26,10,37,39,11,23,35,131,21,21,10,34,18,7,8,9,13,42,9
+[Auction "S"]
+1NT =1= Pass 2H =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2:  * S [0:05]"]
+[Play "W"]
+D4 DJ DK DA 
+S4 S2 SJ SA 
+S5 S3 SK S7 
+D5 D8 DT D2 
+C3 C5 CA C2 
+CK C7 C4 C9 
+*
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "32"]
+[West "Stefan Syplywczak#"]
+[North "Brian McGuire#55952"]
+[East "Stephen Brown#"]
+[South "Frank Henry Wharton#59808"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K96.965.QJ652.QT 7.J8432.AKT93.K6 Q8543.KQT7.8.832 AJT2.A.74.AJ9754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2642025420b79bcb79bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  4
+N  D  2
+N  C  0
+S NT  2
+S  S  5
+S  H  4
+S  D  2
+S  C  0
+E NT 11
+E  S  7
+E  H  9
+E  D 11
+E  C 12
+W NT 11
+W  S  7
+W  H  9
+W  D 11
+W  C 12
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,3,0,79,200,57,184,155,97,95,143,47,38,82,62,21,65,37,26,27,29,21,51,18,50,23,24,233,58,29,29,88,44,18,12,21,43,18,29,21,131,18,47,22,21,19,35,19,17,17,33,17,52,20,34,17,23,16,20,21,15,20,16,9,18,22,15
+[Auction "W"]
+1C Pass 1H 1S 
+Pass 2S 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S6 S7 SQ SA 
+CT CK C2 C4 
+CQ C6 C3 C9 
+D6 DA D8 D4 
+H5 H2 H7 HA 
+D2 H3 C8 CA 
+D5 D3 S8 CJ 
+H9 D9 S3 C7 
+H6 H4 S5 C5 
+DQ DK S4 D7 
+DJ DT HT S2 
+SK H8 HQ ST 
+S9 HJ HK SJ 
+
+[Event "04 Mar Brown vs Matthews"]
+[Site "RealBridge"]
+[Date "2025.03.04"]
+[Board "32"]
+[West "Trevor Matthews#464442"]
+[North "Luke Kerr#103464"]
+[East "David Muller#41136"]
+[South "Michael Collins#103463"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K96.965.QJ652.QT 7.J8432.AKT93.K6 Q8543.KQT7.8.832 AJT2.A.74.AJ9754"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Matthews team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2642025420b79bcb79bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  4
+N  D  2
+N  C  0
+S NT  2
+S  S  5
+S  H  4
+S  D  2
+S  C  0
+E NT 11
+E  S  7
+E  H  9
+E  D 11
+E  C 12
+W NT 11
+W  S  7
+W  H  9
+W  D 11
+W  C 12
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,1,2,82,72,52,64,994,93,259,37,165,68,17,30,376,1025,37,15,23,29,19,24,26,16,85,68,178,43,121,14,19,174,12,24,39,61,11,23
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+S4 SA S6 S7 
+C3 C4 CQ CK 
+C2 C9 CT C6 
+S3 S2 SK H2 
+D8 D4 DQ DK 
+S5 D7 D2 DA 
+*

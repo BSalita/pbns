@@ -1,0 +1,4031 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "1"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJ7.T96.Q976.T83 KQ.AK75.A852.K95 T98543.82.T.J762 62.QJ43.KJ43.AQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "10"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2622426224a7bb9a7bb9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  2
+N  C  4
+S NT  2
+S  S  6
+S  H  2
+S  D  2
+S  C  4
+E NT 10
+E  S  7
+E  H 11
+E  D 11
+E  C  9
+W NT 10
+W  S  7
+W  H 11
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 26,2,1,336,124,47,43,42,663,96,70,39,98,96,445,102,23,49,46,186,34,16,95,15,29,8,48,21,19,17,14,12,304,24
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 3C Pass 3D 
+Pass 4H Pass 6D 
+Pass Pass Pass 
+[Play "S"]
+ST S2 SA SQ 
+S5 S6 S7 SK 
+DT D3 D6 DA 
+S3 DK D7 D2 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "1"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AJ7.T96.Q976.T83 KQ.AK75.A852.K95 T98543.82.T.J762 62.QJ43.KJ43.AQ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2622426224a7bb9a7bb9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  2
+N  C  4
+S NT  2
+S  S  6
+S  H  2
+S  D  2
+S  C  4
+E NT 10
+E  S  7
+E  H 11
+E  D 11
+E  C  9
+W NT 10
+W  S  7
+W  H 11
+W  D 11
+W  C  9
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,452,677,101,79,57,496,76,54,37,457,102,18,26,652,100,39,13,20,34,11,13,43,63,21,25,15,27,11,29,9,19,8,10,9,22,14,20,22,19,10,19,85,18,7,9,14,19,8,20,8,19,69,29,39,32,17,8,12,34,8,12,9,9,8,14
+[Auction "N"]
+Pass 1C Pass 2C =1= 
+Pass 2D Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+H6 H5 H2 HJ 
+H9 HK H8 H3 
+HT HA S5 H4 
+C3 C5 C6 CA 
+C8 C9 C2 CQ 
+CT CK C7 C4 
+SA SQ S3 S2 
+S7 SK S4 S6 
+D7 DA DT D3 
+D6 D2 S8 D4 
+SJ H7 S9 DJ 
+D9 D5 ST DK 
+DQ D8 CJ HQ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "2"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T964.KQ85.T72.87 Q5.J432.J8.AQJ65 KJ82.T97.K54.K42 A73.A6.AQ963.T93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "46533466338779a8679a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  3
+N  C  3
+S NT  4
+S  S  6
+S  H  6
+S  D  3
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,1,404,54,49,45,26,32,147,81,55,20,380,94,31,20,366,52,41,16,241,29,91,13,82,23,15,12,20,25,12,129,29,20,23,19,1551,37,27,7,18,40,9,23,16,52,11,147,12,20,10,60,24,22,28,12,21,19,10,5,11,16,8,8,7,10,8,8
+[Auction "E"]
+1C Pass 1D Pass 
+1H Pass 1S Pass 
+2C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S4 SQ SK S3 
+S9 S5 S2 S7 
+S6 H2 SJ SA 
+C7 C5 C2 C9 
+C8 CJ CK CT 
+H5 H3 HT HA 
+H8 CA C4 C3 
+D7 CQ S8 H6 
+HQ C6 H7 D3 
+D2 DJ DK DA 
+DT D8 D4 DQ 
+ST H4 D5 D9 
+HK HJ H9 D6 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "2"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T964.KQ85.T72.87 Q5.J432.J8.AQJ65 KJ82.T97.K54.K42 A73.A6.AQ963.T93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "46533466338779a8679a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  3
+N  C  3
+S NT  4
+S  S  6
+S  H  6
+S  D  3
+S  C  3
+E NT  8
+E  S  7
+E  H  7
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H  7
+W  D  9
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,420,38,42,47,156,80,144,90,33,23,622,81,156,16,13,37,10,156,30,24,10,32,372,31,464,32,953,42,205,23,8,225,13,101,26,8,190,250,24,21,22,17,418,157,18,7,65,15,8,8,56
+[Auction "E"]
+Pass Pass 1C Pass 
+2C =1= Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HK H2 H7 HA 
+C8 C5 C2 C9 
+C7 C6 CK CT 
+H5 H3 HT H6 
+H8 CJ C4 C3 
+S6 CQ D4 S3 
+S4 CA S2 S7 
+D2 DJ DK DA 
+DT D8 D5 D3 
+HQ H4 H9 D6 
+ST -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "3"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A864.A862.AK9.K4 K972.QJ97.Q65.AJ QJT.K53.2.QT9832 53.T4.JT8743.765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "b9a6bb996b2236222362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D  6
+N  C 11
+S NT 11
+S  S  9
+S  H  9
+S  D  6
+S  C 11
+E NT  2
+E  S  2
+E  H  3
+E  D  6
+E  C  2
+W NT  2
+W  S  2
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 10,2,1,110,38,99,91,189,93,206,26,101,153,10,23,49,89,18,10,696,26,11,54,77,28,12,10,30,7,53,247,68,22,9,29,41,17,15,9,34,31,11,6,68,17,31,114,24,7,24,325,95,19,17,8,33,18,27,6,11,10,8,7
+[Auction "S"]
+Pass Pass 1C X 
+3C Pass Pass Pass 
+[Play "E"]
+HQ H3 H4 HA 
+CA C2 C7 CK 
+S2 ST S5 S4 
+CJ CQ C5 C4 
+S7 CT C6 S6 
+D5 D2 D7 DA 
+D6 H5 D4 DK 
+H7 HK HT H2 
+H9 C9 D3 S8 
+DQ C8 S3 H6 
+S9 SJ D8 SA 
+HJ C3 DT H8 
+SK SQ DJ D9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "3"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A864.A862.AK9.K4 K972.QJ97.Q65.AJ QJT.K53.2.QT9832 53.T4.JT8743.765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "b9a6bb996b2236222362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D  6
+N  C 11
+S NT 11
+S  S  9
+S  H  9
+S  D  6
+S  C 11
+E NT  2
+E  S  2
+E  H  3
+E  D  6
+E  C  2
+W NT  2
+W  S  2
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 17,0,3,136,26,66,38,213,91,137,50,15,31,437,149,8,837,58,56,15,8,34,20,17,63,29,27,8,12,17,15,9,18,112,39,14,13,77,16,36,58,37,33,10,12,384,33,8,10
+[Auction "S"]
+Pass Pass 1H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+D5 D2 DT DA 
+D6 H3 D3 D9 
+SK SQ S3 S4 
+CA C2 C7 C4 
+CJ C3 C5 CK 
+H7 HK H4 H2 
+H9 H5 HT HA 
+HJ C8 S5 H6 
+HQ C9 D4 H8 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "4"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:975.KQJ.6542.762 864.T.J973.AKJ94 QJ2.A97542.T8.T5 AKT3.863.AKQ.Q83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "00600006007c7bc7c7bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  6
+S  D  0
+S  C  0
+E NT  7
+E  S 12
+E  H  7
+E  D 11
+E  C 12
+W NT  7
+W  S 12
+W  H  7
+W  D 11
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,148,36,283,48,94,50,135,51,27,28,11,17,68,32,33,7,28,41,24,6,25,64,71,8,38,11,111,9,13,23,14,17,9,30,16,7,22
+[Auction "W"]
+1S Pass 2C Pass 
+2NT Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+HK HT H2 H3 
+HQ S4 H4 H6 
+HJ S6 HA H8 
+D2 C4 H9 S3 
+D4 C9 H7 ST 
+D5 D3 H5 DA 
+-  -  SQ -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "4"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:975.KQJ.6542.762 864.T.J973.AKJ94 QJ2.A97542.T8.T5 AKT3.863.AKQ.Q83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "00600006007c7bc7c7bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  6
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  6
+S  D  0
+S  C  0
+E NT  7
+E  S 12
+E  H  7
+E  D 11
+E  C 12
+W NT  7
+W  S 12
+W  H  7
+W  D 11
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,140,68,239,62,30,28,326,62,44,92,38,40,343,48,79,11,46,15,24,8,38,15,84,11,41,10,50,8,43,11,10,11,15,10,49,8,85
+[Auction "W"]
+1C Pass 1D =1= Pass 
+1S =2= Pass 2C Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+HK HT H5 H6 
+HQ S4 H2 H3 
+HJ S6 HA H8 
+D6 C4 H9 S3 
+D5 S8 H7 ST 
+S5 D3 H4 C3 
+-  -  SQ -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "5"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:94.KJ43.KQ98.K98 A872.Q875.54.J63 QT63.96.AJ72.Q42 KJ5.AT2.T63.AT75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "66686666867775777757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  6
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 6,2,1,101,41,76,52,104,39,508,51,102,228,14,74,30,34,35,24,30,126,17,11,12,37,32,35,20,162,248,33,17,34,16,55,182,30,84,16,36,77,52,129,120,37,20,14,21,37,14,18,155,18,199,41,23,22,16,11,14,10,8,7
+[Auction "N"]
+1C Pass 1D Pass 
+2D Pass Pass Pass 
+[Play "W"]
+D3 D8 D5 D2 
+SJ S4 S2 ST 
+D6 DK D4 D7 
+SK S9 S7 S3 
+DT D9 C6 DJ 
+H2 HJ HQ H6 
+HA H3 H8 H9 
+HT HK H7 C2 
+CA C8 C3 CQ 
+C5 CK CJ C4 
+C7 C9 S8 DA 
+S5 H4 SA SQ 
+CT DQ H5 S6 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "5"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:94.KJ43.KQ98.K98 A872.Q875.54.J63 QT63.96.AJ72.Q42 KJ5.AT2.T63.AT75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "66686666867775777757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  8
+N  C  6
+S NT  6
+S  S  6
+S  H  6
+S  D  8
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,100,133,71,38,211,577,13,24,11,850,48,36,461,48,15,31,98,18,21,20,111,51,14,8,29,19,14,10,234,26,19,25,259,42,12,20,16,70,32,113,23,33,10,14,309,20,25,16,20,24,13,7,6,10,14,7
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+H5 H6 HA H3 
+H7 H9 HT HK 
+D4 DJ D6 D8 
+D5 D2 D3 DK 
+C6 D7 DT DQ 
+C3 DA C5 D9 
+CJ C2 C7 CK 
+S2 ST SJ S4 
+HQ C4 H2 HJ 
+H8 CQ CT H4 
+S7 S3 S5 S9 
+S8 S6 CA C8 
+SA SQ SK C9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "6"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKQ4.K9732.KJ.52 9865.QJ.A532.J98 J32.A865.Q94.AK7 T7.T4.T876.QT643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ccc99ccc991114411144"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D  9
+N  C  9
+S NT 12
+S  S 12
+S  H 12
+S  D  9
+S  C  9
+E NT  1
+E  S  1
+E  H  1
+E  D  4
+E  C  4
+W NT  1
+W  S  1
+W  H  1
+W  D  4
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,82,108,66,37,37,117,77,266,112,12,28,199,115,29,39,16,62,18,7,18,10,21,19,19,71,11,7
+[Auction "E"]
+Pass 1C Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+S8 S2 ST SA 
+HJ HA H4 H2 
+HQ H5 HT HK 
+DA D4 D8 DK 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "6"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKQ4.K9732.KJ.52 9865.QJ.A532.J98 J32.A865.Q94.AK7 T7.T4.T876.QT643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ccc99ccc991114411144"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 12
+N  D  9
+N  C  9
+S NT 12
+S  S 12
+S  H 12
+S  D  9
+S  C  9
+E NT  1
+E  S  1
+E  H  1
+E  D  4
+E  C  4
+W NT  1
+W  S  1
+W  H  1
+W  D  4
+W  C  4
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,0,3,474,62,19,69,31,57,37,205,53,191,21,193,38,14,26,284,92,32,27,24,35,11,7,16,7,12,24
+[Auction "E"]
+Pass 1C Pass 1H 
+Pass 2H Pass 2S 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+S8 S2 ST SA 
+HJ HA H4 H2 
+HQ H5 HT HK 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "7"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A98.J942.J9.KJ75 T7642.A7.Q.T9643 Q53.QT65.T73.Q82 KJ.K83.AK86542.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "2452524525a97b8a97b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  5
+N  D  2
+N  C  5
+S NT  2
+S  S  4
+S  H  5
+S  D  2
+S  C  5
+E NT 10
+E  S  9
+E  H  7
+E  D 11
+E  C  8
+W NT 10
+W  S  9
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,65,117,60,71,52,250,90,110,17,93,564,34,9,17,17,15,29,19,37,10,22,12,51,10,21,15,95,10,15,22,96,8,12,16,388,22,36,26,174,26,12,26,29,11,74,50,18,7,6,24,18,7,5,12,16,5,7,11,10,5,9
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H2 HA H5 H3 
+D9 DQ D3 D2 
+H4 H7 H6 HK 
+DJ S2 D7 DA 
+C5 C3 DT DK 
+S8 S4 HT D8 
+H9 S6 HQ D6 
+S9 S7 C2 D5 
+C7 ST C8 D4 
+CJ C4 CQ CA 
+SA C6 S3 SK 
+HJ C9 S5 H8 
+CK CT SQ SJ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "7"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A98.J942.J9.KJ75 T7642.A7.Q.T9643 Q53.QT65.T73.Q82 KJ.K83.AK86542.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "2452524525a97b8a97b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  5
+N  D  2
+N  C  5
+S NT  2
+S  S  4
+S  H  5
+S  D  2
+S  C  5
+E NT 10
+E  S  9
+E  H  7
+E  D 11
+E  C  8
+W NT 10
+W  S  9
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 11,0,3,73,46,126,129,94,30,103,204,36,86,149,53,20,37,95,11,22,9,17,8,14,8,21,22,54,57,19,11,15,16,29,10,7,8,11,9,6,18,40,8,7,52,17,19,7,14,43,8,39
+[Auction "S"]
+Pass 1D =1= Pass 1S =2= 
+Pass 3D Pass Pass 
+Pass 
+[Play "N"]
+H2 HA H6 H3 
+H4 H7 H5 HK 
+H9 DQ HT H8 
+SA S2 S3 SJ 
+HJ C3 HQ D2 
+D9 C4 D3 DK 
+DJ C6 D7 DA 
+C7 C9 DT D8 
+C5 CT C2 CA 
+S8 S4 C8 D6 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "8"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q54.952.AT42.753 96.JT.K973.KQT62 AKT873.8743.8.98 J2.AKQ6.QJ65.AJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "4842148421658a8658a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  4
+N  D  2
+N  C  1
+S NT  4
+S  S  8
+S  H  4
+S  D  2
+S  C  1
+E NT  6
+E  S  5
+E  H  8
+E  D 10
+E  C  8
+W NT  6
+W  S  5
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 21,2,1,227,25,217,100,27,44,162,63,25,30,15,23,337,28,36,11,140,21,31,9,38,52,42,7,22,22,12,41,118,68,11,13,14,25,9,9,16,17,15,7,7
+[Auction "W"]
+1D Pass 3C Pass 
+3H =1= Pass 4D Pass 
+5D Pass Pass Pass 
+[Play "N"]
+S4 S6 SK S2 
+S5 S9 SA SJ 
+H5 HT H7 H6 
+DA D3 D8 DJ 
+SQ C2 S3 D5 
+D2 D7 S7 DQ 
+D4 D9 S8 D6 
+-  DK -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "8"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q54.952.AT42.753 96.JT.K973.KQT62 AKT873.8743.8.98 J2.AKQ6.QJ65.AJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "4842148421658a8658a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  4
+N  D  2
+N  C  1
+S NT  4
+S  S  8
+S  H  4
+S  D  2
+S  C  1
+E NT  6
+E  S  5
+E  H  8
+E  D 10
+E  C  8
+W NT  6
+W  S  5
+W  H  8
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 10,0,3,104,36,142,102,137,165,40,39,144,47,74,53,866,18,143,13,36,8,169,38,106,11,35,12,11,23,75,28,26,9,10,20
+[Auction "W"]
+1C Pass 1D =1= 2S 
+X Pass 3C Pass 
+Pass Pass 
+[Play "N"]
+S4 S6 SK S2 
+S5 S9 SA SJ 
+DA D3 D8 DJ 
+D4 D7 C8 D5 
+H2 HT H7 H6 
+-  C2 C9 -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "9"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K942.KJT32.A6.T4 Q85.Q654.KJ74.Q9 J7.A987.T8.KJ863 AT63..Q9532.A752"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "76948769485639457394"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  9
+S  D  4
+S  C  8
+E NT  5
+E  S  6
+E  H  3
+E  D  9
+E  C  4
+W NT  5
+W  S  7
+W  H  3
+W  D  9
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,188,42,336,92,298,31,81,33,340,182,15,23,22,641,44,11,120,34,17,7,127,18,14,19,57,29,32,22,59,15,27,39,30,56,80,8,47,18,10,46,58,27,8,27,26,65,8,21,99,24,58,21,11,16,18,8,9,15,8,8
+[Auction "N"]
+1H Pass 2NT =1= Pass 
+3H Pass Pass Pass 
+[Play "E"]
+S5 S7 SA S2 
+D4 D8 D3 DA 
+S8 SJ S3 SK 
+SQ H7 S6 S4 
+H4 HA D2 H2 
+H5 H8 C2 HK 
+H6 H9 ST S9 
+DJ DT D5 D6 
+HQ C3 C5 H3 
+DK C6 D9 HT 
+C9 CK CA C4 
+D7 C8 DQ HJ 
+CQ CJ C7 CT 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "9"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K942.KJT32.A6.T4 Q85.Q654.KJ74.Q9 J7.A987.T8.KJ863 AT63..Q9532.A752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "76948769485639457394"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  9
+N  D  4
+N  C  8
+S NT  7
+S  S  6
+S  H  9
+S  D  4
+S  C  8
+E NT  5
+E  S  6
+E  H  3
+E  D  9
+E  C  4
+W NT  5
+W  S  7
+W  H  3
+W  D  9
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 16,2,1,101,37,187,185,54,19,27,45,42,1092,35,24,40,408,285,51,37,53,21,17,32,322,32,15,50,133,33,36,65,252,27,22,21,29,22,120,18,223,66,11,12,163,367,24,25,46,42,29,13,65,21,20,20,244,30,18,20,22,22,7,9,16,6,10,7
+[Auction "N"]
+1H Pass 3C =1= Pass 
+3H Pass Pass X 
+Pass 4D Pass Pass 
+Pass 
+[Play "S"]
+HA D2 H3 H5 
+D8 D3 D6 DJ 
+DT DQ DA D4 
+CK CA CT CQ 
+S7 SA S2 S5 
+SJ S3 S4 SQ 
+CJ C2 C4 C9 
+H8 D5 H2 H4 
+C3 C5 HT D7 
+H7 D9 HJ H6 
+C6 C7 S9 DK 
+C8 S6 SK S8 
+H9 ST HK HQ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "10"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:2.T52.AKJ953.986 J98765.K6.2.AQT4 AKQ43.Q.876.KJ52 T.AJ98743.QT4.73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "575b9575b94582445824"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D 11
+N  C  9
+S NT  5
+S  S  7
+S  H  5
+S  D 11
+S  C  9
+E NT  4
+E  S  5
+E  H  8
+E  D  2
+E  C  4
+W NT  4
+W  S  5
+W  H  8
+W  D  2
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 8,0,3,601,112,38,116,38,99,173,35,358,666,34,13,21,24,17,30,362,35,10,78,35,29,15,25,148,47,28,17,421,53,31,40,334,41,223,30,55,31,15,19,15,41,8,19,14,33,9,69,20,51,30,11,18,12,13,8,55,15,11,8
+[Auction "E"]
+1S Pass 1NT =1= Pass 
+2S Pass Pass Pass 
+[Play "S"]
+HQ HA H2 H6 
+CK C3 C6 CQ 
+S3 ST S2 S5 
+CJ C7 C8 CT 
+D7 D4 D9 D2 
+S4 H3 HT HK 
+SA H4 DA S6 
+SK H7 D3 S7 
+SQ H8 H5 S8 
+D8 DT DJ SJ 
+D6 H9 D5 S9 
+C2 HJ C9 CA 
+C5 DQ DK C4 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "10"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:2.T52.AKJ953.986 J98765.K6.2.AQT4 AKQ43.Q.876.KJ52 T.AJ98743.QT4.73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "575b9575b94582445824"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D 11
+N  C  9
+S NT  5
+S  S  7
+S  H  5
+S  D 11
+S  C  9
+E NT  4
+E  S  5
+E  H  8
+E  D  2
+E  C  4
+W NT  4
+W  S  5
+W  H  8
+W  D  2
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,204,35,75,114,150,785,103,32,39,19,596,27,86,873,170,37,43,25,26,13,12,18,18,14,15,17,86,12,17,13,16,11,7,12,80,10,36,8,48,13,7,24,9,27,9,8,17,9,5,18,17,14,6,12,40,7,6,7,11,10,11
+[Auction "E"]
+1S Pass 1NT 2D 
+2S 3NT Pass Pass 
+Pass 
+[Play "W"]
+ST S2 S5 SA 
+H9 C6 S6 SK 
+H3 C8 SJ SQ 
+D4 DJ D2 D6 
+DT DA C4 D7 
+DQ DK CT D8 
+H4 D9 CQ S3 
+H7 D5 H6 S4 
+H8 D3 S7 C2 
+C7 C9 CA C5 
+C3 H2 S9 CJ 
+HJ H5 S8 HQ 
+HA HT HK CK 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "11"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K53.7.A65.985432 AT4.QJ52.KQ84.76 QJ98762.A84.3.KQ .KT963.JT972.AJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "5a3385b3385298552985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H  3
+N  D  3
+N  C  8
+S NT  5
+S  S 11
+S  H  3
+S  D  3
+S  C  8
+E NT  5
+E  S  2
+E  H  9
+E  D  8
+E  C  5
+W NT  5
+W  S  2
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,185,257,204,108,43,44,33,32,64,210,18,10,108,27,11,28,11,24,7,71,48,22,18,35,27,12,10,29,22,35,9,71,550,33,43,11,19,14,21,12,11,39,7,21,8,21,6,9
+[Auction "S"]
+1S 2S =1= 3S 4H 
+4S Pass Pass Pass 
+[Play "W"]
+DJ DA D8 D3 
+H3 H7 HJ HA 
+H6 S3 H5 H4 
+D2 D5 DQ S6 
+H9 S5 H2 H8 
+D7 SK SA S2 
+CA C2 C7 CK 
+DT D6 D4 S7 
+HT C3 S4 SQ 
+D9 C4 ST SJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "11"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K53.7.A65.985432 AT4.QJ52.KQ84.76 QJ98762.A84.3.KQ .KT963.JT972.AJT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "5a3385b3385298552985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H  3
+N  D  3
+N  C  8
+S NT  5
+S  S 11
+S  H  3
+S  D  3
+S  C  8
+E NT  5
+E  S  2
+E  H  9
+E  D  8
+E  C  5
+W NT  5
+W  S  2
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 22,0,3,231,143,65,606,86,38,58,113,81,66,49,35,14,682,435,58,16,47,60,17,22,17,54,30,30,48,31,19,20,241,99,20,14,101,22,23,11,276,51,17,26,181,21,14,17,47,18,13,8,41,28,11,10,16,12,30,30,12,8,20,20,7,10,7,9
+[Auction "S"]
+1S X 2S X 
+3S Pass Pass 4H 
+4S 5H Pass Pass 
+Pass 
+[Play "S"]
+SQ H3 S3 S4 
+HA H6 H7 HQ 
+D3 D2 DA D4 
+H4 D7 D6 DK 
+CK CA C8 C6 
+H8 H9 C2 H2 
+S6 HT C3 H5 
+S2 D9 D5 DQ 
+S7 CT S5 SA 
+SJ HK SK ST 
+S8 DJ C4 D8 
+S9 DT C5 C7 
+CQ CJ C9 HJ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "12"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J.KQJT9842.85.K4 AQ83.3.AJ9432.Q5 KT94.A6.KT6.AJ32 7652.75.Q7.T9876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b7b78b7b782616526165"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 11
+N  D  7
+N  C  8
+S NT 11
+S  S  7
+S  H 11
+S  D  7
+S  C  8
+E NT  2
+E  S  6
+E  H  1
+E  D  6
+E  C  5
+W NT  2
+W  S  6
+W  H  1
+W  D  6
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 22,2,1,59,231,338,54,31,36,16,528,48,33,13,669,96,16,21,795,49,13,17,67,25,11,17,24,22,12,11,11,7,17,62,17,49,11,6
+[Auction "W"]
+Pass 4H X Pass 
+4S Pass Pass 5H 
+Pass Pass Pass 
+[Play "E"]
+SA S4 S7 SJ 
+DA D6 D7 D8 
+D2 DK DQ D5 
+H3 HA H5 H2 
+D4 H6 H7 HK 
+D3 C2 S2 HQ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "12"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J.KQJT9842.85.K4 AQ83.3.AJ9432.Q5 KT94.A6.KT6.AJ32 7652.75.Q7.T9876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b7b78b7b782616526165"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  7
+N  H 11
+N  D  7
+N  C  8
+S NT 11
+S  S  7
+S  H 11
+S  D  7
+S  C  8
+E NT  2
+E  S  6
+E  H  1
+E  D  6
+E  C  5
+W NT  2
+W  S  6
+W  H  1
+W  D  6
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 17,0,3,203,833,99,460,18,333,268,13,11,24,46,11,8,12,7,28,44,164,56,12,24,96,19,11,7,13,7,12,84,35,20,20,55,33,37,10,10,48,14,10,69
+[Auction "W"]
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+CQ C2 C7 CK 
+H3 HA H5 H2 
+D2 H6 H7 HK 
+D3 S4 S2 HQ 
+C5 CA C6 C4 
+S3 CJ C8 SJ 
+S8 S9 S5 H4 
+D4 DK D7 D5 
+SQ C3 C9 H8 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "13"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT952.T95.2.A762 A87.AQJ83.93.KT3 J43.K4.KQT875.Q5 Q6.762.AJ64.J984"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "68576685767486775867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  8
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  4
+E  H  8
+E  D  6
+E  C  7
+W NT  7
+W  S  5
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,94,210,39,53,41,53,49,30,181,23,30,1240,49,26,69,64,42,25,29,131,75,48,44,122,27,26,52,695,25,18,37,297,429,28,24,108,29,11,61,28,24,9,49,20,28,15,10,22,15,9,15,8
+[Auction "N"]
+Pass 1H 2D 2H 
+Pass Pass Pass 
+[Play "S"]
+DK D4 D2 D3 
+S3 SQ SK SA 
+DT DJ H5 D9 
+SJ S6 S5 S7 
+S4 H6 S2 S8 
+HK H2 H9 HQ 
+DQ DA HT HJ 
+H4 H7 S9 HA 
+C5 C4 CA CK 
+D5 D6 ST H3 
+CQ C8 C2 C3 
+D8 -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "13"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT952.T95.2.A762 A87.AQJ83.93.KT3 J43.K4.KQT875.Q5 Q6.762.AJ64.J984"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "68576685767486775867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  8
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  4
+E  H  8
+E  D  6
+E  C  7
+W NT  7
+W  S  5
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,0,3,81,463,59,30,45,33,159,174,333,73,27,25,38,31,34,244,333,35,61,119,77,8,14,42,17,16,16,98,29,1074,47,19,17,15,12,120,15,14,11,38,23,31,19,101
+[Auction "N"]
+Pass 1H Pass 2H 
+Pass Pass Pass 
+[Play "S"]
+DK DA D2 D3 
+CQ C8 C6 C3 
+D5 DJ H5 D9 
+C5 C4 CA CK 
+H4 C9 C2 CT 
+DQ D4 S5 H3 
+HK H2 H9 HA 
+D7 H6 HT HQ 
+S3 SQ SK S7 
+-  -  ST -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "14"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A9853.J64.K.AQ94 KQ2.852.QJ865.K3 64.Q97.AT732.T86 JT7.AKT3.94.J752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77778776786566465664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  7
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  7
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  4
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 6,0,3,380,50,21,126,36,46,23,55,20,250,26,71,26,44,91,57,8,63,17,12,7,40,487,24,9,311,17,53,26,29,25,9,9,251,41,13,10,80,21,8,19,37,74,22,13,65,23,9,18,17,10,15,40,78,11,10,18,17,22,10,7,17,9,8,4
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2C 
+Pass 2D Pass Pass 
+Pass 
+[Play "W"]
+HA H4 H5 H7 
+HK H6 H8 HQ 
+C2 CQ CK C6 
+CJ CA C3 C8 
+D4 DK D5 D2 
+C5 C4 D6 CT 
+S7 SA SK S4 
+C7 C9 D8 S6 
+ST S3 SQ D3 
+D9 S5 DJ DA 
+H3 S8 DQ D7 
+SJ S9 S2 DT 
+HT HJ H2 H9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "14"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A9853.J64.K.AQ94 KQ2.852.QJ865.K3 64.Q97.AT732.T86 JT7.AKT3.94.J752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77778776786566465664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  7
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  7
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  4
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,179,36,75,54,49,37,37,68,43,289,116,51,20,134,30,134,32,515,78,25,8,109,98,9,10,243,13,14,15,23,84,19,8,103,279,24,7,20,112,42,13,31,143,18,169,207,20,17,21,15,15,14,14,32,19,6,75,12,8,7,15
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+HA H4 H2 H7 
+D4 DK D8 D2 
+C5 C4 CK C6 
+D9 S3 DQ DA 
+C2 CA C3 C8 
+C7 CQ H8 CT 
+CJ C9 D6 S4 
+SJ S5 S2 S6 
+ST SA SQ H9 
+HK H6 H5 HQ 
+S7 S8 SK D3 
+H3 HJ DJ D7 
+HT S9 D5 DT 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "15"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A864.82.6542.A97 QT75.Q.AJ7.J8543 K2.AKT653.T8.KQ6 J93.J974.KQ93.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "77977779776646666466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  7
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  4
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,123,82,42,17,118,89,64,39,22,14,25,268,99,18,376,23,20,9,59,1447,66,19,17,31,7,18,41,13,9,72,106,28,6,93,66,20,49,12,39,25,8,16,7,15,12,16,24,25,6,8,7,17,6,7,6,39,15,7,5,14,7,6
+[Auction "S"]
+1H Pass 1S Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+DK D2 DJ DT 
+D3 D4 DA D8 
+DQ D5 D7 HT 
+H4 H2 HQ HA 
+H7 H8 C5 HK 
+H9 S4 C4 H6 
+D9 D6 S7 H3 
+S3 S6 S5 SK 
+S9 SA ST S2 
+C2 CA C3 C6 
+CT C7 C8 CQ 
+HJ C9 CJ CK 
+SJ S8 SQ H5 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "15"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A864.82.6542.A97 QT75.Q.AJ7.J8543 K2.AKT653.T8.KQ6 J93.J974.KQ93.T2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "77977779776646666466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  7
+N  C  7
+S NT  7
+S  S  7
+S  H  9
+S  D  7
+S  C  7
+E NT  6
+E  S  6
+E  H  4
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,198,29,36,33,322,21,49,21,80,20,1112,65,131,34,43,306,20,24,135,40,39,57,196,45,10,49,13,350,386,38,14,22,24,11,19,22,50,13,103,17,12,9,65,18,13,10,28,48,9,15,32,18,9,7,13,14,23,21,9,8,27,14,8,18,13,9
+[Auction "S"]
+1H Pass 1S Pass 
+2C Pass 2H Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+C4 C6 CT CA 
+HQ HK H7 H2 
+S5 S2 S3 SA 
+C3 H3 H9 H8 
+D7 D8 DK D2 
+DJ DT D3 D4 
+DA H5 D9 D5 
+C5 CQ C2 C7 
+C8 CK S9 C9 
+S7 SK SJ S4 
+CJ HA H4 S6 
+ST H6 HJ S8 
+SQ HT DQ D6 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "16"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJ74.AT97.9.T943 A9.J4.AKJ874.Q52 865.Q6532.Q5.876 QT32.K8.T632.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2462323623b97b9b97b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  6
+N  D  2
+N  C  3
+S NT  2
+S  S  3
+S  H  6
+S  D  2
+S  C  3
+E NT 11
+E  S  9
+E  H  7
+E  D 11
+E  C  9
+W NT 11
+W  S  9
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,2,1,195,71,163,93,13,21,85,38,79,77,88,36,19,23,179,12,8,30,22,102,13,31,14,45,9,9,19,18,19,24,18,9,16,18,33,11,9,13,7,49,10,7,8,58,20,5,39,18,12,12,15,9,10,12,12,8,6,7
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HT H4 H2 HK 
+D9 DA D5 D2 
+S4 DK DQ D3 
+S7 D4 C6 DT 
+C3 DJ S5 D6 
+C4 D7 S6 S2 
+C9 D8 S8 H8 
+CT C2 C7 CJ 
+H7 C5 C8 CA 
+H9 CQ H3 CK 
+SJ SA H5 S3 
+SK S9 H6 ST 
+HA HJ HQ SQ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "16"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJ74.AT97.9.T943 A9.J4.AKJ874.Q52 865.Q6532.Q5.876 QT32.K8.T632.AKJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2462323623b97b9b97b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  6
+N  D  2
+N  C  3
+S NT  2
+S  S  3
+S  H  6
+S  D  2
+S  C  3
+E NT 11
+E  S  9
+E  H  7
+E  D 11
+E  C  9
+W NT 11
+W  S  9
+W  H  7
+W  D 11
+W  C  9
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,0,3,156,71,487,104,18,35,71,137,244,57,77,22,16,39,154,14,34,273,44,242,17,85,25,35,23,28,70,18,32,33,19,123,20,10,50,19,21,12,34,59,14,7,16,84,20,19,18,10,16,7,37,14,13,8,16,7,14,8
+[Auction "W"]
+1C Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H3 H8 H9 HJ 
+D5 D2 D9 DA 
+DQ D3 C3 DK 
+S5 DT S7 D4 
+S6 D6 C4 DJ 
+S8 S2 S4 D8 
+H2 S3 C9 D7 
+C6 CA CT C2 
+C7 CK H7 C5 
+C8 CJ SJ CQ 
+H5 ST SK SA 
+H6 SQ HT S9 
+HQ HK HA H4 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "17"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AQJ5.A8.KT9653 J32.T4.QJ654.Q42 KT8.K9863.92.AJ7 AQ9764.72.KT73.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "b4c4cc5c4c1818118181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  4
+N  H 12
+N  D  4
+N  C 12
+S NT 12
+S  S  5
+S  H 12
+S  D  4
+S  C 12
+E NT  1
+E  S  8
+E  H  1
+E  D  8
+E  C  1
+W NT  1
+W  S  8
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,95,29,26,44,171,88,23,21,27,226,48,59,114,17,11,44,54,11,12,6,89,20,11,21,67,14,7,10,12,57,59,18,11,53,30,13,18,29,16,18,19,20,9,20
+[Auction "N"]
+1C Pass 1H 2S 
+4H Pass Pass Pass 
+[Play "W"]
+C8 C3 C2 CJ 
+H2 HQ H4 H3 
+H7 HA HT H6 
+S4 C5 C4 CA 
+S6 CK CQ C7 
+D7 CT S2 S8 
+D3 C9 D4 D2 
+S7 C6 D6 ST 
+SA S5 S3 SK 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "17"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:5.AQJ5.A8.KT9653 J32.T4.QJ654.Q42 KT8.K9863.92.AJ7 AQ9764.72.KT73.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "b4c4cc5c4c1818118181"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  4
+N  H 12
+N  D  4
+N  C 12
+S NT 12
+S  S  5
+S  H 12
+S  D  4
+S  C 12
+E NT  1
+E  S  8
+E  H  1
+E  D  8
+E  C  1
+W NT  1
+W  S  8
+W  H  1
+W  D  8
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 17,0,3,102,64,74,55,233,35,156,38,33,25,169,20,25,181,139,53,171,22,26,16,196,21,13,22,135,42,13,11,24,11,19,12,489,49,23,23,13
+[Auction "N"]
+1C Pass 1H 2S 
+3S =1= Pass 3NT Pass 
+4H Pass Pass Pass 
+[Play "W"]
+C8 C3 C4 CJ 
+H2 HQ H4 H3 
+H7 HA HT H6 
+S4 C5 C2 CA 
+S6 CK CQ C7 
+SA S5 S3 SK 
+D3 -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "18"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J5.K73.865.A9632 K32.QJ8.J974.T75 AQT7.AT952.K2.KJ 9864.64.AQT3.Q84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "88a7998b8a3525334253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  7
+N  C  9
+S NT  9
+S  S  8
+S  H 11
+S  D  8
+S  C 10
+E NT  3
+E  S  5
+E  H  2
+E  D  5
+E  C  3
+W NT  3
+W  S  4
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,60,195,51,49,25,131,89,18,16,23,679,134,29,181,35,12,19,21,24,63,9,217,18,9,32,78,26,9,18,9,46,13,8,20,13,12,194,22,51,29,10,19
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+S8 S5 SK SA 
+H6 HK H8 H2 
+H4 H3 HJ HA 
+S6 SJ S3 S7 
+C4 C2 C5 CK 
+S4 D5 S2 SQ 
+S9 D6 HQ ST 
+DA D8 D9 DK 
+C8 -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "18"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J5.K73.865.A9632 K32.QJ8.J974.T75 AQT7.AT952.K2.KJ 9864.64.AQT3.Q84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "88a7998b8a3525334253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H 10
+N  D  7
+N  C  9
+S NT  9
+S  S  8
+S  H 11
+S  D  8
+S  C 10
+E NT  3
+E  S  5
+E  H  2
+E  D  5
+E  C  3
+W NT  3
+W  S  4
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,146,65,20,81,27,470,89,16,27,19,435,19,26,126,14,12,33,72,14,31,9,264,25,9,23,16,16,16,14,302,43,11,20,11,30,38,14,289,32,14,14,16,16,18,8,11
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+S8 SJ SK SA 
+H6 HK H8 H2 
+H4 H3 HJ HA 
+S4 S5 S2 SQ 
+S6 H7 S3 S7 
+DA D5 D4 DK 
+S9 C2 C7 ST 
+D3 C3 HQ H9 
+DT D6 D7 D2 
+DQ -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "19"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:JT.J97.K42.T9643 AQ542.3.J73.AJ75 63.T8542.T965.K8 K987.AKQ6.AQ8.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "1133311333cc9aacc9aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  3
+S  D  3
+S  C  3
+E NT 12
+E  S 12
+E  H  9
+E  D 10
+E  C 10
+W NT 12
+W  S 12
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 28,2,1,64,88,94,130,24,61,38,43,26,210,33,282,45,229,98,16,23,143,208,39,16,92,19,15,17,126,34,16,8,58,24,45,13,21,34,9,29,9,15,6,11,9,19,8,14
+[Auction "S"]
+Pass 2NT Pass 3H 
+Pass 3S Pass 4C 
+Pass 4D Pass 4H 
+Pass 6S Pass Pass 
+Pass 
+[Play "N"]
+SJ SA S3 S7 
+ST S2 S6 SK 
+C6 C5 CK CQ 
+D2 D3 DT DA 
+H7 H3 H4 HA 
+H9 D7 H2 HK 
+HJ DJ H5 HQ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "19"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:JT.J97.K42.T9643 AQ542.3.J73.AJ75 63.T8542.T965.K8 K987.AKQ6.AQ8.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "1133311333cc9aacc9aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  3
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  3
+S  D  3
+S  C  3
+E NT 12
+E  S 12
+E  H  9
+E  D 10
+E  C 10
+W NT 12
+W  S 12
+W  H  9
+W  D 10
+W  C 10
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 18,0,3,130,110,105,85,52,21,31,281,51,34,30,33,30,54,24,31,23,652,140,25,26,194,97,32,19,13,22,10,23,29,18,10,9,35,13,9,25,10,21,7,67,8,14,12,15,10,30,8,11,8,14,7,9
+[Auction "S"]
+Pass 2D =1= Pass 2H =2= 
+Pass 2NT Pass 3H =3= 
+Pass 3S Pass 4C 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+C4 C5 CK C2 
+D4 D3 D5 DA 
+ST SQ S3 S7 
+SJ S2 S6 SK 
+C3 C7 C8 CQ 
+H7 H3 H2 HQ 
+H9 S4 H4 H6 
+C6 CA D6 D8 
+C9 CJ D9 DQ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "20"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:765.A9752.AK9.J6 J4.KQJ4.J854.A92 Q93.T63.Q73.KQ85 AKT82.8.T62.T743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "55656556567778777787"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  5
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  8
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 12,2,1,152,54,31,262,50,51,30,568,43,73,41,306,378,196,51,15,17,25,18,14,21,23,37,399,40,7,66,15,28,16,90,134,21,20,8,76,23,10,56,31,42,16,10,17,10,13,118
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+SJ S3 SK S5 
+S4 S9 SA S6 
+H4 SQ S8 S7 
+HK H3 H8 HA 
+HJ H6 S2 H2 
+HQ HT ST H5 
+D4 D3 DT DA 
+C2 CQ C4 C6 
+CA C5 C3 CJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "20"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:765.A9752.AK9.J6 J4.KQJ4.J854.A92 Q93.T63.Q73.KQ85 AKT82.8.T62.T743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "6"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "55656556567778777787"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  5
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  5
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  8
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  8
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 12,0,3,189,128,166,773,27,114,30,25,162,15,19,24,51,17,12,11,14,52,25,68,34,37,14,167,54,15,8,139,21,10,8,20,17,11,17,13,35,10,7,21,22,9,8,11,27,9,9,12,18,5,27,23,9,7,3,17,8,7,7
+[Auction "W"]
+2D 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+SJ S3 S2 S5 
+S4 S9 ST S6 
+C2 SQ SA S7 
+D4 D3 D6 DA 
+HJ H3 H8 H2 
+CA C5 C7 C6 
+D5 D7 DT DK 
+H4 H6 S8 HA 
+C9 C8 C3 CJ 
+D8 DQ D2 D9 
+HQ HT SK H5 
+HK CQ C4 H7 
+DJ CK CT H9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "21"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K95.9.QT85.A9754 AQ8.AQJ842.94.KT J6432.K65.KJ.QJ2 T7.T73.A7632.863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "583675836785a7685a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  6
+N  C  7
+S NT  5
+S  S  8
+S  H  3
+S  D  6
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  7
+E  C  6
+W NT  8
+W  S  5
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 12,2,1,221,125,66,34,68,124,140,40,97,31,20,46,154,39,21,54,36,8,7,19,17,36,16,228,19,46,18,30,27,106,26,21,17,17,9,30,15,11,35,15,11,16,44,96,19
+[Auction "N"]
+Pass 1H 1S Pass 
+2H X Pass 3H 
+Pass Pass Pass 
+[Play "S"]
+S3 S7 SK SA 
+S2 ST S5 SQ 
+S4 H3 S9 S8 
+HK HT H9 H2 
+CQ C3 CA CT 
+C2 C6 C5 CK 
+H5 H7 C4 HA 
+H6 D2 C7 HQ 
+S6 -  -  HJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "21"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K95.9.QT85.A9754 AQ8.AQJ842.94.KT J6432.K65.KJ.QJ2 T7.T73.A7632.863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "583675836785a7685a76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  3
+N  D  6
+N  C  7
+S NT  5
+S  S  8
+S  H  3
+S  D  6
+S  C  7
+E NT  8
+E  S  5
+E  H 10
+E  D  7
+E  C  6
+W NT  8
+W  S  5
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,61,195,40,98,68,37,94,12,13,289,103,334,31,60,51,24,21,37,34,18,30,15,17,18,23,34,18,15,9,65,14,15,52,38,11,23,27,169,32,8,45,25,22,14,96
+[Auction "N"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "S"]
+CQ C3 CA CT 
+C2 C6 C5 CK 
+DJ DA D5 D4 
+S2 ST S5 SQ 
+S3 S7 S9 SA 
+S4 H3 SK S8 
+HK HT H9 H2 
+CJ C8 C4 H4 
+H5 H7 C7 HA 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "22"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT852.QJ84.A62.5 AK93.A976.T75.96 7.KT.K84.QT87432 J64.532.QJ93.AKJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3CX"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "46558465588787587875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  5
+N  C  8
+S NT  4
+S  S  6
+S  H  5
+S  D  5
+S  C  8
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  5
+W NT  8
+W  S  7
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 10,2,1,340,51,102,75,324,39,80,37,47,101,128,34,8,466,71,20,56,28,12,440,125,35,9,12,80,17,66,38,47,45,10,8,22,14,10,15,134,76,14,16,261,28,8,16,47,16,7,14,11,11,12,26,32,15,32,8,5,18,23,6
+[Auction "E"]
+Pass 3C Pass Pass 
+X Pass Pass Pass 
+[Play "W"]
+CK C5 C9 C2 
+DQ D2 D7 DK 
+H2 H4 HA HK 
+S4 S2 SK S7 
+D3 DA DT D4 
+H3 HQ H6 HT 
+H5 HJ H7 D8 
+S6 S5 S9 C7 
+CA S8 C6 CQ 
+DJ D6 D5 C3 
+CJ ST S3 CT 
+D9 H8 H9 C4 
+SJ SQ SA C8 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "22"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QT852.QJ84.A62.5 AK93.A976.T75.96 7.KT.K84.QT87432 J64.532.QJ93.AKJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "46558465588787587875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  5
+N  C  8
+S NT  4
+S  S  6
+S  H  5
+S  D  5
+S  C  8
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  5
+W NT  8
+W  S  7
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 9,0,3,70,47,90,123,204,65,22,24,253,35,26,34,920,168,31,16,71,24,29,86,251,38,82,61,47,26,42,117,584,78,119,22,12,37,11,211,72,40,23,15,34,75,29,8,31,102,39,9,25,181,38,7,18,15,17,9,18,20,21,8,25,8,19,7
+[Auction "E"]
+Pass Pass 1C 1S 
+X Pass 2D Pass 
+2NT Pass Pass Pass 
+[Play "S"]
+C7 CJ C5 C6 
+DK D3 D2 DT 
+S7 S4 ST SA 
+D4 D9 DA D7 
+HK H2 HQ H6 
+HT H3 H4 H7 
+C2 CK D6 C9 
+C3 CA S2 S3 
+D8 DJ S5 D5 
+C4 DQ S8 H9 
+C8 H5 H8 HA 
+CT S6 SQ SK 
+CQ SJ HJ S9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "23"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:432.J942.J842.Q6 AKQT.AT63.A.J842 J9865.Q8.QT653.7 7.K75.K97.AKT953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -1390"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0215002150dbc8ddbc8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  1
+N  D  5
+N  C  0
+S NT  0
+S  S  2
+S  H  1
+S  D  5
+S  C  0
+E NT 13
+E  S 11
+E  H 12
+E  D  8
+E  C 13
+W NT 13
+W  S 11
+W  H 12
+W  D  8
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 25,2,1,71,171,36,37,104,58,30,222,29,35,46,659,38,102,28,532,94,37,18,152,183,35,12,18,20,14,21,33,19,13,17
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 2H Pass 2S 
+Pass 3C Pass 3D =1= 
+Pass 3NT Pass 6C 
+Pass Pass Pass 
+[Play "N"]
+S3 SA S8 S7 
+C6 C2 C7 CA 
+CQ C4 S5 CK 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "23"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:432.J942.J842.Q6 AKQT.AT63.A.J842 J9865.Q8.QT653.7 7.K75.K97.AKT953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -1390"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0215002150dbc8ddbc8d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  1
+N  D  5
+N  C  0
+S NT  0
+S  S  2
+S  H  1
+S  D  5
+S  C  0
+E NT 13
+E  S 11
+E  H 12
+E  D  8
+E  C 13
+W NT 13
+W  S 11
+W  H 12
+W  D  8
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 25,0,3,95,42,28,238,33,65,29,588,34,39,30,747,41,52,18,188,97,14,17,589,101,38,20,23,27,9,11,19,10,9
+[Auction "S"]
+Pass 1C Pass 2C =1= 
+Pass 2D =2= Pass 2H 
+Pass 3C Pass 4C 
+Pass 4S Pass 6C 
+Pass Pass Pass 
+[Play "N"]
+S3 SA S5 S7 
+C6 C2 C7 CA 
+CQ C4 -  CK 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "24"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:85.T9765.T9853.7 KJ743.A4.4.QJ932 AQT2.K.K72.T8654 96.QJ832.AQJ6.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2345323453b997a9997a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  5
+N  C  3
+S NT  2
+S  S  3
+S  H  4
+S  D  5
+S  C  3
+E NT 11
+E  S  9
+E  H  9
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H  9
+W  D  7
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,1,168,50,93,39,151,99,254,38,142,34,851,26,156,36,449,31,1433,39,18,20,60,33,9,7,11,39,10,16,467,44,10,31,152,21,26,7,154,33,7,50,106,19,8,79,77,11,7,116,8,15,49,27,85,21,14,91
+[Auction "W"]
+1H Pass 1S Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+DT D4 DK DA 
+D3 S3 D2 DQ 
+C7 C2 C4 CA 
+S5 C3 C5 CK 
+H7 H4 HK HJ 
+D5 S4 D7 DJ 
+H5 HA S2 H2 
+H6 CQ C6 H3 
+D8 CJ C8 D6 
+H9 C9 CT H8 
+S8 SJ ST S6 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "24"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:85.T9765.T9853.7 KJ743.A4.4.QJ932 AQT2.K.K72.T8654 96.QJ832.AQJ6.AK"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2345323453b997a9997a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  4
+N  D  5
+N  C  3
+S NT  2
+S  S  3
+S  H  4
+S  D  5
+S  C  3
+E NT 11
+E  S  9
+E  H  9
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H  9
+W  D  7
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,202,46,254,40,101,18,207,111,14,15,1006,768,12,33,24,81,17,9,139,20,32,30,374,54,31,20,108,44,119,79,1250,69,11,69,138,24,102,55,19,12,13,28,25,58,18,9,29,9,26,100,22,11,51,8,47,9,13,29,9,49,8,14
+[Auction "W"]
+1H Pass 1S Pass 
+2D =1= Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C5 CK C7 C2 
+C4 CA S5 C3 
+SQ S6 S8 SJ 
+D2 DJ D3 D4 
+ST S9 D5 S3 
+HK H2 H5 HA 
+C6 H3 H6 CQ 
+C8 D6 D8 CJ 
+S2 HQ H7 H4 
+CT HJ H9 S4 
+D7 DA D9 S7 
+SA H8 HT C9 
+DK DQ DT SK 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "25"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A3.KJT63.QJ9.K62 QJ96542.872.32.3 KT8.A.AKT86.A874 7.Q954.754.QJT95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "c9ccac8cca1411314113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C 10
+S NT 12
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  3
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 26,2,1,123,52,45,59,46,20,89,47,63,38,693,101,38,24,523,884,23,12,210,25,8,8,74,61,11,12,8,27,19,13,46,566,14,9,32,19,12,31,162,17,27,75,261,29,16,18,350,15,34,46,61,21,11,5
+[Auction "N"]
+1H Pass 2D Pass 
+2H Pass 3C Pass 
+3D Pass 6D Pass 
+Pass Pass 
+[Play "W"]
+D4 D9 D3 D6 
+D5 DQ D2 D8 
+S7 SA S2 S8 
+D7 S3 SJ SK 
+CQ C2 C3 CA 
+H4 H3 H2 HA 
+C9 DJ S6 ST 
+H5 HK H8 C4 
+HQ HT H7 C7 
+CJ CK S4 C8 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "25"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A3.KJT63.QJ9.K62 QJ96542.872.32.3 KT8.A.AKT86.A874 7.Q954.754.QJT95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 920"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "c9ccac8cca1411314113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C 10
+S NT 12
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  1
+E  S  4
+E  H  1
+E  D  1
+E  C  3
+W NT  1
+W  S  4
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 26,0,3,129,105,63,21,404,48,147,22,79,38,1201,36,547,48,532,40,29,16,59,966,41,21,224,38,15,8,11,25,13,10,10,45,21,21,59,551,17,13,33,23,15,13,105,52,19,27,79,17,11,11,22,26,1597,31,205,22,19,12,62,20,71,15,9,9,13,10,17,12,15,8
+[Auction "N"]
+1H Pass 2D Pass 
+2H Pass 3C Pass 
+3NT Pass 4NT Pass 
+5D Pass 6D Pass 
+Pass Pass 
+[Play "W"]
+S7 SA S6 S8 
+D5 DQ D2 D6 
+D4 DJ D3 D8 
+D7 S3 SJ SK 
+CQ C2 C3 CA 
+H4 H3 H7 HA 
+C5 D9 S2 ST 
+H5 HK H2 C4 
+H9 HJ H8 DT 
+C9 H6 S4 DA 
+CT HT S5 DK 
+CJ CK S9 C7 
+HQ C6 SQ C8 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "26"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J7542.9752.5.KQ2 KQT98.Q4.A987.A7 3.AJ83.KQJ64.543 A6.KT6.T32.JT986"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "44653436539867898678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  3
+S  H  6
+S  D  5
+S  C  3
+E NT  9
+E  S  8
+E  H  6
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 7,2,1,152,161,457,133,150,31,138,60,127,11,50,9,42,49,22,21,26,8,21,104,123,22,8,633,22,18,13,94,201,22,18,217,51,24,36,45,11,19,17,62,27,23,14,27,64,21,14,34,18,67,32,16,10,32,9,9,13,8,8
+[Auction "E"]
+1S X 1NT 2H 
+Pass Pass Pass 
+[Play "E"]
+SK S3 SA S4 
+CA C3 CJ CK 
+C7 C4 C8 CQ 
+D9 DJ D2 D5 
+D7 D4 DT H2 
+ST C5 C9 C2 
+HQ HA H6 H7 
+D8 D6 D3 H5 
+S8 H3 S6 S2 
+DA DQ C6 H9 
+S9 H8 HT S5 
+H4 HJ HK S7 
+SQ DK CT SJ 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "26"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J7542.9752.5.KQ2 KQT98.Q4.A987.A7 3.AJ83.KQJ64.543 A6.KT6.T32.JT986"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "44653436539867898678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  5
+N  C  3
+S NT  4
+S  S  3
+S  H  6
+S  D  5
+S  C  3
+E NT  9
+E  S  8
+E  H  6
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 12,0,3,659,248,34,280,53,51,50,35,31,42,31,208,412,43,20,11,188,50,11,14,16,25,25,178,30,32,14,1350,21,20,212,330,103,8,23,517,33,46,22,82,34,32,32,11,50,33,12,121,321,131,20,35,23,9,18,9,7,9,14,8,13,4,8
+[Auction "E"]
+2S =1= X Pass 2NT =2= 
+Pass 3C =3= Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+SK S3 SA S2 
+CA C3 CJ CK 
+C7 C4 C8 CQ 
+D7 DK DT D5 
+DA DQ D2 C2 
+D9 DJ D3 S4 
+D8 D4 S6 H2 
+H4 H8 HT H5 
+HQ C5 CT H7 
+S8 D6 C6 SJ 
+S9 HA H6 H9 
+ST H3 HK S5 
+SQ HJ C9 S7 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "27"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKJ9754.QT6.J.T3 2.AK5432.942.AJ5 Q86.7.AK865.K942 T3.J98.QT73.Q876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "ab577ab5773286532865"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  5
+N  D  7
+N  C  7
+S NT 10
+S  S 11
+S  H  5
+S  D  7
+S  C  7
+E NT  3
+E  S  2
+E  H  8
+E  D  6
+E  C  5
+W NT  3
+W  S  2
+W  H  8
+W  D  6
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,205,50,43,61,99,175,80,99,24,21,69,116,39,37,1159,74,13,15,40,21,10,9,26,9,35,19,28,32,19,88,45,101,30,244,27,219,15,38,19,73,12,7,48,56,15,23,26,39,20,5,23,18,14,25,17,13,9,7,12,6,11,9
+[Auction "S"]
+1D Pass 1S 2H 
+X =1= Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HK H7 H8 H6 
+HA S6 H9 HT 
+S2 SQ S3 S4 
+H2 S8 ST SA 
+H3 C2 C6 SK 
+H4 D5 C7 SJ 
+H5 D6 C8 S9 
+D2 C4 HJ HQ 
+D4 C9 D3 S7 
+C5 CK CQ S5 
+D9 DA D7 DJ 
+CJ DK DT C3 
+CA D8 DQ CT 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "27"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AKJ9754.QT6.J.T3 2.AK5432.942.AJ5 Q86.7.AK865.K942 T3.J98.QT73.Q876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "ab577ab5773286532865"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  5
+N  D  7
+N  C  7
+S NT 10
+S  S 11
+S  H  5
+S  D  7
+S  C  7
+E NT  3
+E  S  2
+E  H  8
+E  D  6
+E  C  5
+W NT  3
+W  S  2
+W  H  8
+W  D  6
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,222,24,39,83,68,36,120,92,27,17,25,73,36,10,449,69,8,20,228,29,20,27,739,49,10,10,35,25,20,16,11,13,8,17,11,18,7,26,15,29,9,16,35,11,12,27
+[Auction "S"]
+1D Pass 1S 2H 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HK H7 H9 H6 
+D9 DA D3 DJ 
+S2 S6 S3 SK 
+H2 S8 ST SA 
+H3 SQ H8 HT 
+D2 DK D7 HQ 
+D4 D5 DT S4 
+C5 CK C6 C3 
+H4 D6 DQ S5 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "28"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ83.AJ43.83.Q65 AT762.KT8.QT5.AK 94.Q95.KJ72.T742 Q5.762.A964.J983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "55746556468868788687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  4
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  7
+W NT  8
+W  S  8
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,61,46,52,38,25,33,337,44,200,24,26,10,91,84,608,20,41,18,61,108,532,29,12,30,66,12,11,7,21,54,102,79,26,14,13,18,48,17,21,11,12,21,15,16,24,184,11,33,8,35,7,12,23,16,22,6,9,11,7,15,10,5,11,10
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+H3 H8 HQ H2 
+H4 HT H9 H6 
+SK S2 S4 SQ 
+HA HK H5 H7 
+HJ D5 D2 D4 
+C5 CK C2 C3 
+D3 DQ DK DA 
+S3 ST S9 S5 
+S8 SA D7 C8 
+SJ S6 C4 C9 
+C6 CA C7 CJ 
+CQ S7 CT D6 
+D8 DT DJ D9 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "28"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KJ83.AJ43.83.Q65 AT762.KT8.QT5.AK 94.Q95.KJ72.T742 Q5.762.A964.J983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "55746556468868788687"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  4
+N  C  6
+S NT  5
+S  S  5
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  7
+W NT  8
+W  S  8
+W  H  6
+W  D  8
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,51,78,72,66,21,37,51,168,12,65,629,289,65,37,40,59,37,24,37,24,24,68,155,56,62,28,330,41,54,22,76,23,183,39,79,135,18,14,33,20,13,11,17,11,14,8,19,22,23,14,71,233,18,12,18,27,9,57,8,19,11,5
+[Auction "W"]
+Pass Pass 1D =1= Pass 
+1H =2= Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+S9 SQ SK SA 
+DK DA D3 DQ 
+DJ D4 D8 DT 
+S4 S5 SJ S2 
+H9 H2 H3 H8 
+HQ H6 H4 HK 
+H5 H7 S3 ST 
+C4 C3 C5 CA 
+C2 C8 C6 CK 
+D2 D9 HJ D5 
+D7 D6 HA S6 
+C7 C9 CQ HT 
+CT CJ S8 S7 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "29"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T6.6532.T9732.42 KQ532.AQJ.KQ8.T8 874.K9.J4.AKQJ73 AJ9.T874.A65.965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "33356333567aa777aa76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  3
+S  D  5
+S  C  6
+E NT  7
+E  S 10
+E  H 10
+E  D  7
+E  C  7
+W NT  7
+W  S 10
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,100,104,98,89,67,258,81,160,103,38,14,29,134,22,39,50,15,14,10,86,22,59,46,448,28,18,29,12,19,19,25,154,40,10,21,23,16,3,14,11,15,7,21,39
+[Auction "N"]
+Pass 1S 2C X 
+Pass 3C Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+CA C5 C2 C8 
+CK C6 C4 CT 
+CQ C9 D3 S2 
+S4 SJ S6 S3 
+S7 SA ST S5 
+S8 S9 H2 SQ 
+D4 DA D2 D8 
+HK H7 H3 HQ 
+CJ -  -  -  
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "29"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T6.6532.T9732.42 KQ532.AQJ.KQ8.T8 874.K9.J4.AKQJ73 AJ9.T874.A65.965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "33356333567aa777aa76"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  5
+N  C  6
+S NT  3
+S  S  3
+S  H  3
+S  D  5
+S  C  6
+E NT  7
+E  S 10
+E  H 10
+E  D  7
+E  C  7
+W NT  7
+W  S 10
+W  H 10
+W  D  7
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 13,0,3,55,175,132,182,51,585,101,127,37,24,30,219,66,839,138,16,34,348,18,7,18,142,17,251,27,84,35,14,26,16,15,24,11,14,120,16,13,24,19,17,9,15,25,15,32
+[Auction "N"]
+Pass 1D =1= 2C X 
+Pass 3C =2= Pass 3D 
+Pass 3S Pass Pass 
+Pass 
+[Play "S"]
+CK C5 C4 C8 
+CA C6 C2 CT 
+CQ C9 D7 S2 
+S4 SA S6 S3 
+S7 SJ ST S5 
+S8 S9 D2 SQ 
+D4 DA D3 D8 
+HK H4 H5 HJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "30"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:3.JT5.93.AT98742 AK.873.AKQT75.65 QJ76.A2.J642.QJ3 T98542.KQ964.8.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "832498324959a9359a93"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  3
+N  H  2
+N  D  4
+N  C  9
+S NT  8
+S  S  3
+S  H  2
+S  D  4
+S  C  9
+E NT  5
+E  S  9
+E  H 10
+E  D  9
+E  C  3
+W NT  5
+W  S  9
+W  H 10
+W  D  9
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,157,48,40,91,117,90,32,91,380,39,107,26,79,98,38,8,70,15,31,113,182,28,10,15,413,38,21,20,43,29,10,36,87,14,10,12,29,10,21,18,75,11,22,10,54,13,10,11,9,23,7,20,66,21,12,6,14,62,22,7,14,17,6,6
+[Auction "E"]
+1D Pass 1S 3C 
+X Pass 4H Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CA C5 CQ CK 
+C7 C6 CJ S2 
+S3 SK S6 S4 
+H5 H3 HA H4 
+C2 SA S7 S5 
+D3 DA D2 D8 
+D9 DK D4 H6 
+C4 DQ D6 H9 
+HT H7 H2 HQ 
+C8 D5 SJ S9 
+C9 H8 SQ S8 
+CT D7 DJ ST 
+HJ DT C3 HK 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "30"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:3.JT5.93.AT98742 AK.873.AKQT75.65 QJ76.A2.J642.QJ3 T98542.KQ964.8.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "832498324959a9359a93"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  3
+N  H  2
+N  D  4
+N  C  9
+S NT  8
+S  S  3
+S  H  2
+S  D  4
+S  C  9
+E NT  5
+E  S  9
+E  H 10
+E  D  9
+E  C  3
+W NT  5
+W  S  9
+W  H 10
+W  D  9
+W  C  3
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,369,173,24,145,105,86,213,162,187,72,23,41,1496,34,49,76,45,11,44,32,27,29,50,33,17,15,12,13,10,15,70,19,15,26,449,32,31,16,16,119,42,26,33,54,12,16,51,16,20,13,96,14,19,11,15,12,11,24,27,27,16,12,13,10,10,8
+[Auction "E"]
+1D =1= Pass 1H =2= 3C 
+3D 4C X Pass 
+4D Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+S3 SK S7 S2 
+H5 H3 H2 HQ 
+D9 DA D2 D8 
+D3 DK D4 CK 
+HT SA S6 S4 
+CA C5 C3 H4 
+HJ C6 SJ S5 
+C7 H7 CJ S8 
+C2 DQ D6 S9 
+C4 D7 DJ H6 
+C8 H8 SQ ST 
+C9 DT HA H9 
+CT D5 CQ HK 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "31"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK963.43.AJT.KJ4 QT2.Q5.Q854.QT76 J874.AT82.63.985 5.KJ976.K972.A32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68555685556488765888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  5
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  5
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,48,255,433,123,47,78,62,47,93,258,32,11,91,23,16,28,54,24,62,18,89,179,49,17,29,33,12,6,32,17,18,11,118,35,9,5,15,12,16,13,37,115,43,29,19,24,24,10,47,20,7,9
+[Auction "S"]
+Pass 1H 1S 1NT 
+2S Pass Pass Pass 
+[Play "E"]
+HQ HA H6 H3 
+DQ D3 D2 DT 
+H5 H2 H7 H4 
+C7 C5 C2 CK 
+S2 S4 S5 SA 
+ST S7 H9 SK 
+D4 D6 D7 DA 
+D5 S8 D9 DJ 
+CT C8 C3 C4 
+SQ SJ HJ S3 
+C6 C9 CA CJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "31"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK963.43.AJT.KJ4 QT2.Q5.Q854.QT76 J874.AT82.63.985 5.KJ976.K972.A32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68555685556488765888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  5
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  5
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,0,3,185,119,115,198,214,20,326,43,44,755,14,10,199,13,10,52,32,28,15,9,194,31,22,28,31,121,54,12,28,20,16,21,88,29,11,11,23,50,12,20,11,55,17,7,13,17,7,8,10,30,9,7
+[Auction "S"]
+Pass 2H =1= 2S 3C =2= 
+3S Pass Pass Pass 
+[Play "E"]
+HQ HA H6 H3 
+S2 S4 S5 SA 
+ST S7 H7 SK 
+H5 H8 H9 H4 
+SQ H2 HK S3 
+D4 D3 DK DA 
+DQ D6 D2 DT 
+C6 C5 CA C4 
+C7 C8 C3 CK 
+D5 C9 D7 DJ 
+CQ S8 C2 CJ 
+*
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "32"]
+[West "jonathan chapman#"]
+[North "James Clark#104421"]
+[East "John Hemington#"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q4.T987.QJ6.QT86 AK8.J2.9732.9732 J53.AK643.K84.54 T9762.Q5.AT5.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65867658676757667576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  7
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,2,1,661,50,78,54,36,40,45,76,63,13,73,25,22,12,146,13,35,10,51,17,9,26,299,20,273,29,42,55,12,23,28,13,18,6,12,15,9,7,171,12,13,25,43,17,29,48,21,21,6,10,8,14,9,6,8,15,8,5
+[Auction "W"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+HT H2 HK H5 
+H7 HJ HA HQ 
+CQ C2 C5 CJ 
+C6 C3 C4 CA 
+S4 SK S3 S2 
+C8 C7 S5 CK 
+D6 D2 D4 DA 
+SQ SA SJ S6 
+DJ D3 D8 DT 
+CT C9 H3 S7 
+H8 S8 H4 ST 
+H9 D7 H6 S9 
+DQ D9 DK D5 
+
+[Event "29 Feb Crockfords Brown vs Clark"]
+[Site "RealBridge"]
+[Date "2024.02.29"]
+[Board "32"]
+[West "David Willis#18529"]
+[North "Michael Collins#103463"]
+[East "Tim Smith#74912"]
+[South "Stephen Brown#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q4.T987.QJ6.QT86 AK8.J2.9732.9732 J53.AK643.K84.54 T9762.Q5.AT5.AKJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Brown team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65867658676757667576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  7
+E NT  6
+E  S  7
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,171,42,312,69,16,39,49,30,78,11,362,36,52,22,13,22,8,10,15,7,12,10,44,17,40,24,56,18,11,8,49,22,33,8
+[Auction "W"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+HT H2 HK HQ 
+C8 C2 C5 CK 
+S4 SA S3 S2 
+SQ SK S5 S6 
+CQ C3 C4 CJ 
+H7 HJ HA H5 
+H8 S8 SJ S7 
+*

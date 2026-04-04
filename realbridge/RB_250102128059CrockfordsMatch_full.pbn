@@ -1,0 +1,4038 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "1"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AKQ8763.Q3.Q7.J7 J4.A85.A98642.64 T5.KT.KJ53.AKT98 92.J97642.T.Q532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa589aa6892275422754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  5
+N  D  8
+N  C  9
+S NT 10
+S  S 10
+S  H  6
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  7
+E  D  5
+E  C  4
+W NT  2
+W  S  2
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,172,349,324,35,158,51,36,730,40,76,25,380,14,10,376,57,11,20,124,27,11,10,71,26,18,7
+[Auction "N"]
+1S 3D =1= 3NT Pass 
+Pass Pass 
+[Note "1: wjo"]
+[Play "W"]
+DT D7 DA D3 
+H2 H3 HA HK 
+H4 HQ H8 HT 
+S2 SA S4 S5 
+S9 SK SJ ST 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "1"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AKQ8763.Q3.Q7.J7 J4.A85.A98642.64 T5.KT.KJ53.AKT98 92.J97642.T.Q532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa589aa6892275422754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  5
+N  D  8
+N  C  9
+S NT 10
+S  S 10
+S  H  6
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  7
+E  D  5
+E  C  4
+W NT  2
+W  S  2
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 23,2,1,893,135,155,109,1259,74,398,73,128,43,565,61,107,24,56,49,105,270,36,38,83,68,28,18,41,16,14,20,210,14,31,28,328,33,20,14,169,36,24,35,186,19,37,33,80,34,20,15,73,33,21,9,16,14,7,31,9,11,6,24,7,30,7,42,6,6,5,14
+[Auction "N"]
+1S Pass 2C Pass 
+3D =1= Pass 3S =2= Pass 
+4S Pass 5C =3= Pass 
+5S Pass Pass Pass 
+[Note "1: artificial GF, 6+S or 5S/5D"]
+[Note "2: 2S"]
+[Note "3: cue"]
+[Play "E"]
+C6 CA C3 C7 
+S4 S5 S2 SA 
+SJ ST S9 SK 
+D6 DJ DT D7 
+C4 CK C2 CJ 
+D2 C8 C5 S7 
+H5 HK H4 H3 
+HA HT HJ HQ 
+H8 D3 H2 S6 
+D4 C9 H6 SQ 
+D8 CT H7 S8 
+D9 D5 CQ S3 
+DA DK H9 DQ 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "2"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A9875432.Q2.T2.T QJT6.7.QJ764.854 K.AK9843.A83.AJ3 .JT65.K95.KQ9762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "7a9558a9554247842478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  9
+N  D  5
+N  C  5
+S NT  8
+S  S 10
+S  H  9
+S  D  5
+S  C  5
+E NT  4
+E  S  2
+E  H  4
+E  D  7
+E  C  8
+W NT  4
+W  S  2
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 28,0,3,68,248,42,534,62,409,33,92,39,439,33,47,46,28,144,27,15,29,25,57,39,46,26,13,27,29,102,30,45,16,28,10,13,23,9,25,25,28
+[Auction "E"]
+Pass 1H 3C 3S 
+Pass 4H Pass 4S 
+Pass 6S Pass Pass 
+Pass 
+[Play "E"]
+C4 CA C2 CT 
+S6 SK C9 S2 
+H7 H3 H5 HQ 
+ST H4 H6 H2 
+DQ DA D5 D2 
+SJ HA HJ DT 
+D6 -  -  -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "2"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A9875432.Q2.T2.T QJT6.7.QJ764.854 K.AK9843.A83.AJ3 .JT65.K95.KQ9762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "7a9558a9554247842478"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  9
+N  D  5
+N  C  5
+S NT  8
+S  S 10
+S  H  9
+S  D  5
+S  C  5
+E NT  4
+E  S  2
+E  H  4
+E  D  7
+E  C  8
+W NT  4
+W  S  2
+W  H  4
+W  D  7
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,222,76,79,442,34,193,59,130,121,43,25,19,44,99,44,360,68,23,11,26,151,39,26,22,52,23,24,28,34,12,71,21,20,35,22,13,14
+[Auction "E"]
+Pass 1H Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+C5 CA C6 CT 
+S6 SK C2 S4 
+H7 H3 HT HQ 
+ST H4 H5 H2 
+DQ DA D5 D2 
+SJ HA H6 DT 
+D4 D3 DK S5 
+SQ -  -  SA 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "3"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ95.7532.AJ2.64 T2.KQJT8.K87.K95 AJ876.94.T95.AT2 43.A6.Q643.QJ873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "79554795546488864888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  5
+N  C  4
+S NT  7
+S  S  9
+S  H  5
+S  D  5
+S  C  4
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  8
+W NT  6
+W  S  4
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,76,28,59,39,74,159,106,128,86,76,98,222,184,56,29,75,28,102,32,158,45,55,32,182,42,41,58,73,78,19,25,54,25,77,33,31,22,28,18
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 1S =1= Pass 1NT =2= 
+Pass Pass Pass 
+[Note "1: no 5♠,wide range less than GF"]
+[Note "2: 5332"]
+[Play "S"]
+S6 S3 SQ S2 
+SJ S4 S5 ST 
+SA D3 SK D7 
+S7 C3 S9 C5 
+CA C7 C6 CK 
+S8 D4 C4 D8 
+DT D6 DA DK 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "3"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQ95.7532.AJ2.64 T2.KQJT8.K87.K95 AJ876.94.T95.AT2 43.A6.Q643.QJ873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "79554795546488864888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  5
+N  C  4
+S NT  7
+S  S  9
+S  H  5
+S  D  5
+S  C  4
+E NT  6
+E  S  4
+E  H  8
+E  D  8
+E  C  8
+W NT  6
+W  S  4
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,98,52,99,87,67,163,322,46,50,41,73,111,40,26,79,23,5,25,33,398,55,23,47,51,28,9,38,11,22,20,95,37,22,32,63,50,34,27,24,17,24,7,33,7,27,36,30,18,21,27,8
+[Auction "S"]
+Pass Pass Pass 1H 
+1S X 3S Pass 
+Pass Pass 
+[Play "W"]
+HA H2 H8 H9 
+H6 H3 HT H4 
+C3 H5 HK SJ 
+S3 SK S2 S6 
+S4 S5 ST SA 
+D4 D2 DK DT 
+C7 C4 C5 CA 
+D3 DJ D7 D5 
+D6 DA D8 D9 
+C8 C6 CK C2 
+-  -  HQ -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "4"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.A732.Q54.J762 K96.QJ4.AKJ6.A54 852.T65.9832.T83 AT743.K98.T7.KQ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "1122211222ccbbbccbbb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  2
+N  C  2
+S NT  1
+S  S  1
+S  H  2
+S  D  2
+S  C  2
+E NT 12
+E  S 12
+E  H 11
+E  D 11
+E  C 11
+W NT 12
+W  S 12
+W  H 11
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 18,0,3,67,53,124,52,32,56,348,58,16,42,267,43,99,86,27,17,44,40,11,11,21,27,17,19
+[Auction "W"]
+1S Pass 2D =1= Pass 
+2NT Pass 3S =2= Pass 
+4S Pass Pass Pass 
+[Note "1: nat and gf"]
+[Note "2: sets trumps"]
+[Play "N"]
+C6 C4 CT CK 
+SJ S6 S2 SA 
+SQ SK S5 S3 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "4"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ.A732.Q54.J762 K96.QJ4.AKJ6.A54 852.T65.9832.T83 AT743.K98.T7.KQ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "1122211222ccbbbccbbb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  2
+N  C  2
+S NT  1
+S  S  1
+S  H  2
+S  D  2
+S  C  2
+E NT 12
+E  S 12
+E  H 11
+E  D 11
+E  C 11
+W NT 12
+W  S 12
+W  H 11
+W  D 11
+W  C 11
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,196,72,224,54,41,27,63,354,37,34,21,40,40,22,364,21,22,73,80,39,25,22,34,31,21,27,400,33,38,23,215,29,32,23
+[Auction "W"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+H3 H4 HT HK 
+DQ DK D2 DT 
+SJ S6 S5 ST 
+HA HJ H5 H9 
+H2 HQ H6 H8 
+C2 C4 C8 CQ 
+SQ SK S2 S3 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "5"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK4.K875.J9.AJ65 752.A4.AQT4.Q873 QJT3.J963.8632.2 986.QT2.K75.KT94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "57955579557645876458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  9
+S  D  5
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  6
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 2,0,3,130,927,130,141,144,157,27,15,24,35,12,6,38,12,14,26,21,46,13,20,20,16,20,11,97,14,14,17,38,102,40,55,21,40,16,22,124,37,26,13,79,24,6,16,99,23,12,9,18,15,6
+[Auction "N"]
+1H Pass Pass Pass 
+[Play "E"]
+S2 S3 S9 SK 
+C3 C2 C4 CA 
+C7 H3 CT C5 
+S5 ST S6 SA 
+C8 H6 C9 C6 
+S7 SJ S8 S4 
+H4 SQ CK D9 
+CQ H9 HT CJ 
+DQ D2 D5 DJ 
+DA D3 D7 H5 
+HA HJ H2 H7 
+D4 D6 DK -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "5"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK4.K875.J9.AJ65 752.A4.AQT4.Q873 QJT3.J963.8632.2 986.QT2.K75.KT94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "57955579557645876458"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  9
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  9
+S  D  5
+S  C  5
+E NT  7
+E  S  6
+E  H  4
+E  D  5
+E  C  8
+W NT  7
+W  S  6
+W  H  4
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,2,1,137,60,139,66,161,24,50,90,442,81,47,49,35,170,57,56,191,22,35,53,197,42,15,33,57,24,49,24,24,22,26,8,235,30,26,11,74,13,25,18,81,63,21,19
+[Auction "N"]
+1H Pass 2H Pass 
+Pass X Pass 3C 
+3H Pass Pass Pass 
+[Play "E"]
+C3 C2 CK CA 
+C7 H3 C4 C5 
+HA H6 H2 HK 
+H4 H9 HT H5 
+S2 HJ HQ H7 
+DT D2 D5 D9 
+DA D3 D7 DJ 
+CQ D6 C9 C6 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "6"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJT965..A63.Q974 A7.JT8432.J84.K6 K843.K9765.T9.32 2.AQ.KQ752.AJT85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3942239422749bb749bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  2
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  2
+S  C  2
+E NT  7
+E  S  4
+E  H  9
+E  D 11
+E  C 11
+W NT  7
+W  S  4
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,89,33,92,178,257,133,345,94,26,59,32,207,36,36,151,36,20,38,170,102,25,61,52,28,30,120,919,40,28,26,56,15,20,35,28,24,38,102,26,59,10,33,64,91,39,19,21,36,16,20,17,21,32,9,14,15,14,8,14,10,18,18
+[Auction "E"]
+Pass Pass 1C =1= 2S =2= 
+3H =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 16+ any hand"]
+[Note "2: Weak"]
+[Note "3: 5+♡s gf"]
+[Play "S"]
+S4 S2 S9 SA 
+H5 HQ S6 H2 
+DT D2 DA D4 
+S3 HA SQ S7 
+C2 C5 C7 CK 
+C3 CA C4 C6 
+H6 C8 C9 H4 
+SK D5 S5 H3 
+HK CT D3 HJ 
+S8 CJ ST H8 
+H7 D7 D6 HT 
+D9 DQ SJ D8 
+H9 DK CQ DJ 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "6"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJT965..A63.Q974 A7.JT8432.J84.K6 K843.K9765.T9.32 2.AQ.KQ752.AJT85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3942239422749bb749bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  4
+N  D  2
+N  C  2
+S NT  3
+S  S  9
+S  H  4
+S  D  2
+S  C  2
+E NT  7
+E  S  4
+E  H  9
+E  D 11
+E  C 11
+W NT  7
+W  S  4
+W  H  9
+W  D 11
+W  C 11
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,204,71,604,432,216,600,102,49,12,267,72,194,41,33,103,28,75,93,229,51,19,42,131,25,24,21,417,42,20,37,298,37,42,18,32,110,21,23,72,105,31,28,341,39,19,290,28,22,18,24,19,15,16,14,16,15,23,23,24,16,45,12
+[Auction "E"]
+2D =1= Pass 2NT =2= 3S 
+Pass Pass 4H Pass 
+Pass Pass 
+[Note "1: 3 way multi, weak major, strong minor or 22-23 bal"]
+[Note "2: Enquiry"]
+[Play "N"]
+SJ SA S3 S2 
+S5 H2 H6 HQ 
+S9 H3 H5 HA 
+DA D4 D9 DK 
+SQ S7 SK D2 
+ST H4 S8 C5 
+D3 HJ HK C8 
+S6 H8 S4 D5 
+D6 HT H7 CT 
+C4 CK C2 CJ 
+C7 C6 C3 CA 
+C9 DJ DT D7 
+CQ D8 H9 DQ 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "7"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:74.JT82.T96.T763 AKJT3.765.Q3.K94 Q8.AQ9.AK74.QJ85 9652.K43.J852.A2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44667446678977689776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  6
+N  C  7
+S NT  4
+S  S  4
+S  H  6
+S  D  6
+S  C  7
+E NT  8
+E  S  9
+E  H  7
+E  D  7
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,168,37,70,52,247,17,79,37,44,59,61,38,37,200,30,8,13,634,100,41,41,16,31,17,27,26,20,18,10,84,40,42,9,19,19,46,12,23,17,17,13,220,50,13,96,18,16,18,15,15
+[Auction "S"]
+1D Pass Pass 1S 
+X 2S Pass Pass 
+Pass 
+[Play "S"]
+DA D2 D6 D3 
+DK D5 D9 DQ 
+CQ CA C6 C4 
+S8 S2 S4 SA 
+SQ S5 S7 SK 
+C5 C2 C3 CK 
+C8 S6 C7 C9 
+D4 DJ DT H5 
+D7 S9 H8 SJ 
+HA H3 H2 H6 
+CJ -  -  -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "7"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:74.JT82.T96.T763 AKJT3.765.Q3.K94 Q8.AQ9.AK74.QJ85 9652.K43.J852.A2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44667446678977689776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  6
+N  C  7
+S NT  4
+S  S  4
+S  H  6
+S  D  6
+S  C  7
+E NT  8
+E  S  9
+E  H  7
+E  D  7
+E  C  6
+W NT  8
+W  S  9
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,179,69,61,56,176,113,94,17,50,65,107,117,13,46,15,55,6,153,22,10,18,49,26,17,9,152,26,8,15,57,22,6,8,9,24,6,24,6,13,5,17,11,23,20,9,19
+[Auction "S"]
+1C Pass Pass 1S 
+X =1= 2S Pass Pass 
+Pass 
+[Note "1: a good hand"]
+[Play "S"]
+DA D2 D6 D3 
+DK D5 D9 DQ 
+D4 D8 DT S3 
+S8 S2 S4 SA 
+SQ S5 S7 SK 
+C5 CA C3 C4 
+D7 DJ C6 H5 
+C8 C2 C7 CK 
+HA H3 H2 H6 
+H9 -  -  -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "8"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8642.AJ.J852.943 J75.64.QT97.KQ85 AK.QT75.AK64.A72 QT93.K9832.3.JT6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88797887975553555535"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  3
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  3
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,43,42,42,264,25,152,117,282,26,199,91,120,38,44,42,30,263,39,116,694,30,12,15,46,26,14,17,22,82,108,32,411,40,19,30,88,129,49,23,15,100,32,54,19,24,12,20,18,16,16,549,121,18,11,44,23,15,18,31
+[Auction "W"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 3H =4= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 19-20"]
+[Note "2: Puppet"]
+[Note "3: no 5cM, at least 1 4cM"]
+[Note "4: 4♠, not 4♡"]
+[Play "W"]
+H3 HJ H4 H5 
+H2 HA H6 H7 
+D3 D2 D7 DK 
+S3 D5 D9 DA 
+CT C3 C5 C2 
+HK S2 S7 HT 
+H8 S4 S5 HQ 
+S9 S6 SJ SA 
+ST S8 CK SK 
+C6 C4 CQ CA 
+CJ C9 C8 C7 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "8"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:8642.AJ.J852.943 J75.64.QT97.KQ85 AK.QT75.AK64.A72 QT93.K9832.3.JT6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88797887975553555535"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  3
+E  C  5
+W NT  5
+W  S  5
+W  H  5
+W  D  3
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,123,49,67,218,66,675,63,224,72,318,36,73,82,49,18,203,145,42,25,196,22,101,29,86,18,7,28,49,44,31,9,782,17,26,32,51,34,37,11,158,36,18,5,36,11,24,49,31,26,47,65,407,87,56,37,78,33,25,6,7,35,17,21,6,16,16,18
+[Auction "W"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3D =3= 
+Pass 3H =4= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 20-21"]
+[Note "2: mod puppet"]
+[Note "3: at least a 4 card major"]
+[Note "4: spades"]
+[Play "W"]
+CJ C3 C8 C2 
+CT C4 C5 C7 
+C6 C9 CQ CA 
+H2 HJ H6 H5 
+D3 D2 D7 DA 
+H3 D5 D9 DK 
+H8 HA H4 H7 
+S3 S2 S5 SA 
+HK S4 DT HQ 
+H9 S6 S7 HT 
+S9 D8 DQ D4 
+ST S8 CK D6 
+SQ DJ SJ SK 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "9"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J983.A92.QT QT.AK752.Q53.K43 .T6.T8764.AJ8765 AJ86532.Q4.KJ.92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "73699736996874468744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  6
+N  D  9
+N  C  9
+S NT  7
+S  S  3
+S  H  6
+S  D  9
+S  C  9
+E NT  6
+E  S  8
+E  H  7
+E  D  4
+E  C  4
+W NT  6
+W  S  8
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,0,3,93,82,54,24,60,177,46,246,68,69,33,122,82,77,8,54,16,29,8,101,53,42,10,34,13,22,6,164,15,20,8,14,46,16,53,21,81,7,36,18
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 1NT =1= Pass 4S 
+Pass Pass Pass 
+[Note "1: 5332 12-14"]
+[Play "N"]
+CQ C3 C8 C9 
+CT C4 CJ C2 
+S9 CK CA S8 
+DA D3 D4 DK 
+D9 DQ D6 DJ 
+S4 SQ C5 S2 
+SK ST C6 S3 
+D2 -  -  -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "9"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K974.J983.A92.QT QT.AK752.Q53.K43 .T6.T8764.AJ8765 AJ86532.Q4.KJ.92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "73699736996874468744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  6
+N  D  9
+N  C  9
+S NT  7
+S  S  3
+S  H  6
+S  D  9
+S  C  9
+E NT  6
+E  S  8
+E  H  7
+E  D  4
+E  C  4
+W NT  6
+W  S  8
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,78,87,361,163,413,29,38,90,344,38,20,35,33,16,21,43,67,52,29,67,28,18,30,321,85,22,17,23,20,40,79,46,44,16,18,228,26,20,22,19,21,19,22,55,30,16,17
+[Auction "N"]
+Pass 1NT =1= 2NT =2= 4S 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: both minors or two suited strong hands"]
+[Play "N"]
+CQ CK CA C9 
+CT C3 CJ C2 
+S9 C4 C7 S8 
+DA D3 D7 DK 
+H8 HA H6 H4 
+SK SQ C6 S2 
+H3 H2 HT HQ 
+S4 ST C5 SA 
+S7 H5 C8 SJ 
+D2 H7 D4 S6 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "10"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:5.T82.KQJ872.942 T6.63.A9653.QJ53 AK74.AQJ954..AK8 QJ9832.K7.T4.T76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "97c9897c982614526134"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 12
+N  D  9
+N  C  8
+S NT  9
+S  S  7
+S  H 12
+S  D  9
+S  C  8
+E NT  2
+E  S  6
+E  H  1
+E  D  4
+E  C  5
+W NT  2
+W  S  6
+W  H  1
+W  D  3
+W  C  4
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 22,0,3,79,386,91,130,36,82,19,285,45,102,31,48,54,530,27,110,58,113,22,42,31,20,499,44,18,21,23,27,17,359,30,15,15,39,14,14,52,489,29,68,26,24,15,12,15,129,80,65,28
+[Auction "E"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H Pass 3D 
+Pass 3NT Pass 4H 
+Pass 4NT Pass 5D =3= 
+Pass 5H Pass Pass 
+Pass 
+[Note "1: 8pt or strong bal"]
+[Note "2: relay"]
+[Note "3: 0/3"]
+[Play "W"]
+SQ S5 S6 SK 
+S2 H2 ST S4 
+C7 C2 C3 CA 
+S8 H8 D3 S7 
+H7 HT H3 HA 
+HK D2 H6 HQ 
+SJ D7 D5 SA 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "10"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:5.T82.KQJ872.942 T6.63.A9653.QJ53 AK74.AQJ954..AK8 QJ9832.K7.T4.T76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "97c9897c982614526134"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H 12
+N  D  9
+N  C  8
+S NT  9
+S  S  7
+S  H 12
+S  D  9
+S  C  8
+E NT  2
+E  S  6
+E  H  1
+E  D  4
+E  C  5
+W NT  2
+W  S  6
+W  H  1
+W  D  3
+W  C  4
+[OptimumScore "NS +1430"]
+[Competition "Teams"]
+% RBDATA 17,2,1,47,248,65,353,82,95,59,1010,33,166,60,710,43,80,53,39,111,26,32,153,41,34,7,121,62,23,18,142,169,48,24,81,37,16,5,21,17,16,5,27,19,18,8,36,47,29,99,27,37,15,51,22,19,6,20,45,17,5,21
+[Auction "E"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H =3= Pass 2S =4= 
+Pass 3H =5= Pass 4H 
+Pass Pass Pass 
+[Note "1: our only big bid"]
+[Note "2: artificial, 0-6"]
+[Note "3: H or relay"]
+[Note "4: artificial, relay"]
+[Note "5: Hs"]
+[Play "W"]
+SQ S5 ST SA 
+S2 C2 S6 SK 
+S8 H2 H3 S4 
+H7 H8 H6 HA 
+C6 C4 C5 CA 
+C7 C9 C3 CK 
+CT HT CJ C8 
+DT DK DA H4 
+HK D2 D3 HQ 
+SJ D7 D5 S7 
+S9 D8 D6 H5 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "11"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K86.AKQT7.Q7.K73 QT32.843.T9643.Q J4.J962.AK82.JT4 A975.5.J5.A98652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "95986959862725627256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D  8
+N  C  6
+S NT  9
+S  S  5
+S  H  9
+S  D  8
+S  C  6
+E NT  2
+E  S  7
+E  H  2
+E  D  5
+E  C  6
+W NT  2
+W  S  7
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,0,3,113,134,98,39,131,32,65,32,29,16,36,71,46,28,11,90,42,20,42,34,17,55,10,14,28,9,33,24,6,16
+[Auction "S"]
+Pass 2C =1= 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: 10-13, 5+♣"]
+[Play "E"]
+CQ C4 CA C3 
+H3 CT C2 C7 
+S2 S4 SA S6 
+H4 CJ C5 CK 
+SQ SJ S5 SK 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "11"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K86.AKQT7.Q7.K73 QT32.843.T9643.Q J4.J962.AK82.JT4 A975.5.J5.A98652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "95986959862725627256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  5
+N  H  9
+N  D  8
+N  C  6
+S NT  9
+S  S  5
+S  H  9
+S  D  8
+S  C  6
+E NT  2
+E  S  7
+E  H  2
+E  D  5
+E  C  6
+W NT  2
+W  S  7
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,2,1,115,53,100,20,169,59,275,31,39,38,110,122,190,29,22,113,31,15,9,25,24,15,49,12,20,12
+[Auction "S"]
+Pass Pass 1H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+CQ C4 CA C7 
+H3 CT C9 CK 
+S2 S4 SA S8 
+H4 CJ C2 C3 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "12"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:7654.QT.A754.953 KT98.7653.KQ.KJ2 AJ3.984.J83.AQ86 Q2.AKJ2.T962.T74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "55466564668797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  6
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  6
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,42,50,85,62,16,46,81,353,38,43,297,41,32,36,47,33,30,24,151,102,27,426,28,33,36,18,423,32,37,43,45,42,24,39,18,43,19,19,32,18,223,12,16,30,8,18,13,38,31,18,12,17,8,15,13,17,12,23
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 11-13"]
+[Play "S"]
+C8 C4 C3 CJ 
+S3 SQ S6 S8 
+SJ S2 S4 S9 
+H4 HA HT H3 
+D3 D2 D7 DK 
+H8 HK HQ H5 
+H9 HJ S5 H6 
+D8 H2 D4 H7 
+SA C7 S7 ST 
+DJ D6 DA DQ 
+CQ CT C9 C2 
+CA D9 C5 CK 
+C6 DT D5 SK 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "12"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:7654.QT.A754.953 KT98.7653.KQ.KJ2 AJ3.984.J83.AQ86 Q2.AKJ2.T962.T74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "55466564668797687976"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  6
+N  C  6
+S NT  5
+S  S  6
+S  H  4
+S  D  6
+S  C  6
+E NT  8
+E  S  7
+E  H  9
+E  D  7
+E  C  6
+W NT  8
+W  S  7
+W  H  9
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,97,67,48,148,51,35,385,438,27,140,158,38,35,30,227,40,11,28,20,33,79,25,23,38,30,14,29,17,9,26,26,66,10,13,213,21,26,8,85,44,88,9,19,202,13,31,13,26,8,24,17,59,20,7,14,15,8,6
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+C8 C4 C9 CJ 
+H9 HK HT H3 
+D3 D2 D4 DK 
+H4 HJ HQ H5 
+CQ C7 C5 C2 
+CA CT C3 CK 
+C6 S2 S7 H6 
+SA SQ S6 ST 
+H8 HA D5 H7 
+D8 H2 S4 S8 
+DJ D6 DA DQ 
+S3 D9 S5 SK 
+SJ DT D7 S9 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "13"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK6.743.Q65.AKQT T832.QT9.KJ32.96 QJ75.J62.974.J85 94.AK85.AT8.7432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "57447574475588555885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  5
+E  S  5
+E  H  8
+E  D  8
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,89,61,114,50,241,58,166,25,188,75,23,25,15,51,37,24,19,30,6,33,29,47,10,16,33,33,12,32,14,16,20,19,65,58,34,12,18,29,11,6,22,18,11,7
+[Auction "N"]
+1C Pass 1S X 
+2NT =1= Pass Pass Pass 
+[Note "1: 17-18"]
+[Play "E"]
+D2 D4 DA D5 
+DK D7 DT DQ 
+DJ D9 D8 D6 
+D3 C5 H5 S6 
+HT H2 HK H3 
+H9 H6 HA H4 
+S2 S5 S9 SA 
+S3 S7 S4 SK 
+C6 CJ C2 CT 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "13"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK6.743.Q65.AKQT T832.QT9.KJ32.96 QJ75.J62.974.J85 94.AK85.AT8.7432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "57447574475588555885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  5
+E  S  5
+E  H  8
+E  D  8
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 0,2,1,138,55,105,58,121,156,43,30,32,33,10,37,10,14,6,29,13,106,21,16,20,36,12,16,25,19,8,17,14,9,7,54,12,16,9,9,14,35,11,8,17,32,18,7,22,10,24,9,21,20,7,7,21,6,6,5
+[Auction "N"]
+1C Pass Pass Pass 
+[Play "E"]
+S2 S5 S9 SA 
+C6 C5 C7 CA 
+C9 C8 C4 CK 
+D3 CJ C3 CQ 
+D2 D4 C2 CT 
+S3 S7 S4 SK 
+S8 SJ H8 S6 
+ST SQ D8 H3 
+H9 H2 HA H4 
+DK D7 DT DQ 
+DJ D9 DA D5 
+HT H6 HK H7 
+HQ HJ H5 D6 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "14"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ7632.KJT.QT64. T985.9.AK832.842 Q4.A7543.95.A965 K.Q862.J7.KQJT73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "89974899744346843469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  4
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  4
+E NT  4
+E  S  3
+E  H  4
+E  D  6
+E  C  8
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,0,3,67,35,144,87,45,188,18,66,56,43,72,7,32,64,29,23,40,36,33,25,10,47,57,46,23,26,21,7,20,39,39,31,32,25,21,11,6,27,25,11,7
+[Auction "E"]
+Pass Pass 2C =1= 2S 
+3C 3S Pass Pass 
+Pass 
+[Note "1: 6-13, 5+♣"]
+[Play "E"]
+DK D5 D7 D4 
+H9 H3 H8 HT 
+S5 SQ SK S2 
+S8 H4 H6 HJ 
+DA D9 DJ D6 
+D2 C5 C3 DT 
+S9 S4 CK SA 
+ST C6 C7 SJ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "14"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ7632.KJT.QT64. T985.9.AK832.842 Q4.A7543.95.A965 K.Q862.J7.KQJT73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "89974899744346843469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  9
+N  D  7
+N  C  4
+S NT  8
+S  S  9
+S  H  9
+S  D  7
+S  C  4
+E NT  4
+E  S  3
+E  H  4
+E  D  6
+E  C  8
+W NT  4
+W  S  3
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 5,2,1,178,77,79,118,82,103,106,232,29,39,65,174,30,25,51,26,22,12,28,46,21,56,49,19,21,20,36,16,18,11,19,48,38,21,22,15,18,18,254,80,53,16,72,15,15,29,16,26,31,19,10,24,18,23,17,11,16,15,16,7,20,13
+[Auction "E"]
+Pass Pass 1C 1S 
+1NT Pass 2C Pass 
+Pass Pass 
+[Play "N"]
+D6 DK D5 D7 
+HJ H9 HA H2 
+S2 C2 C5 CT 
+HT C4 H3 H6 
+D4 DA D9 DJ 
+DT D2 S4 C3 
+HK C8 H4 H8 
+DQ D3 H5 C7 
+S3 S5 CA CK 
+SA S8 SQ SK 
+SJ S9 H7 CJ 
+S6 ST C6 CQ 
+S7 D8 C9 HQ 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "15"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:764.AJ2.43.J9876 5.KQ94.KJT85.543 J2.T873.AQ62.AK2 AKQT983.65.97.QT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "65869658685856458564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  9
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  8
+E  H  5
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,0,3,256,107,90,49,46,292,60,31,19,355,33,14,7,13,13,18,9,15,20,25,8,13,39,7,14,8,23,17,42,16,24,12,38,9,35,16,16,17,16,9,37,139,15,24,17,16
+[Auction "S"]
+1NT =1= 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "N"]
+D4 DJ DQ D9 
+C6 C3 CA CT 
+C7 C4 CK CQ 
+C8 C5 C2 S9 
+S4 S5 S2 SA 
+S6 H4 SJ SK 
+S7 D5 H7 SQ 
+H2 HQ H3 H5 
+D3 DK DA D7 
+HA H9 H8 H6 
+CJ -  -  -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "15"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:764.AJ2.43.J9876 5.KQ94.KJT85.543 J2.T873.AQ62.AK2 AKQT983.65.97.QT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "65869658685856458564"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  8
+N  D  6
+N  C  9
+S NT  6
+S  S  5
+S  H  8
+S  D  6
+S  C  8
+E NT  5
+E  S  8
+E  H  5
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  5
+W  D  6
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,248,536,300,144,112,175,620,87,55,261,173,30,27,66,44,106,23,446,32,12,19,88,27,92,29,159,835,122,28,266,34,19,29,32,29,15,36,16,19,23,19,23,21,17,12,26,19,19,18
+[Auction "S"]
+1NT =1= X =2= XX =3= Pass 
+2C =4= 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: 18+ OR 5+ suit"]
+[Note "3: 5+ card suit"]
+[Note "4: forced"]
+[Play "N"]
+D4 D5 DQ D7 
+C9 C3 CK CT 
+D3 D8 DA D9 
+C8 C4 CA CQ 
+C7 DT D6 S8 
+HA H4 H3 H5 
+CJ C5 C2 S3 
+H2 HQ H7 H6 
+S7 S5 S2 S9 
+S4 H9 SJ SA 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "16"]
+[West "Ivan Leung#524083"]
+[North "Richard Samter#106155"]
+[East "David Owen#55911"]
+[South "Andrew Parkes#38998"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q9876.K8.5.AT942 K53.A3.Q92.KJ653 AJT42.T942.AK84. .QJ765.JT763.Q87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8b6558b6544278742677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  6
+N  D  5
+N  C  5
+S NT  8
+S  S 11
+S  H  6
+S  D  5
+S  C  4
+E NT  4
+E  S  2
+E  H  7
+E  D  8
+E  C  7
+W NT  4
+W  S  2
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,71,109,115,656,39,75,42,58,33,208,148,25,33,56,23,34,45,32,41,7,35,62,36,30,12,304,40,31,6,24,23,13,9,23,12,15,10,23,18,11,24,19,20,10,12,20,11,18,73,120,32,25,10,16,16,10,8,19,5,11,10
+[Auction "W"]
+Pass 1S Pass 4C =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: good spade raise, void Club"]
+[Play "E"]
+D2 DA D3 D5 
+HA H2 H6 HK 
+D9 D4 D6 S6 
+S3 S2 D7 SQ 
+C3 D8 C8 CA 
+C5 S4 C7 C2 
+DQ DK DT H8 
+H3 H4 H7 S7 
+C6 ST CQ C4 
+SK H9 HQ S8 
+S5 SJ H5 S9 
+CJ SA DJ C9 
+CK HT HJ CT 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "16"]
+[West "Roger Karn#86298"]
+[North "Mike Rawlins#94613"]
+[East "Stuart Bridge#466850"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q9876.K8.5.AT942 K53.A3.Q92.KJ653 AJT42.T942.AK84. .QJ765.JT763.Q87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8b6558b6544278742677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  6
+N  D  5
+N  C  5
+S NT  8
+S  S 11
+S  H  6
+S  D  5
+S  C  4
+E NT  4
+E  S  2
+E  H  7
+E  D  8
+E  C  7
+W NT  4
+W  S  2
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,137,469,69,75,58,53,13,140,1124,43,57,241,28,45,22,1519,31,9,7,32,28,27,53,233,24,50,22,15,73,31,12,129,40,20,20,100,17,27,22,153,50,70,9,14,27,9,25,11,22,6,6,6,47,7,5,6,22,6,5
+[Auction "W"]
+Pass 2S =1= Pass 4S 
+Pass Pass Pass 
+[Note "1: weak, 6+S or 5S/5m"]
+[Play "E"]
+C5 H2 CQ CA 
+S3 SJ H5 S7 
+D2 DA D3 D5 
+D9 D4 D6 S8 
+S5 ST C7 S6 
+SK SA D7 S9 
+HA H4 H6 HK 
+H3 H9 HJ H8 
+C3 HT HQ SQ 
+CJ S2 C8 CT 
+DQ DK DJ C2 
+C6 S4 H7 C4 
+CK D8 DT C9 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "17"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQ64.Q64.2.QJ876 A8753.JT.K964.T3 J9.9873.AQT73.K4 T2.AK52.J85.A952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76767777676657566565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 8,2,0,319,78,87,118,944,108,169,32,47,229,220,49,61,50,50,61,36,58,14,17,24,49,25,31,37,128,60,24,36,187,21,13,20,23,27,27,35,339,31,58,16,61,23,185,17,54,12,29,27,152,37,15,12,9,21,17,13,7,18,26,13
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+2C =2= 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: clubs & another"]
+[Play "S"]
+CK C2 C6 C3 
+C4 CA C7 CT 
+S9 S2 S4 SA 
+SJ ST S6 S3 
+H9 HA H4 HT 
+H3 HK H6 HJ 
+DT D5 D2 D9 
+DA D8 C8 D4 
+D3 DJ CJ D6 
+H7 C5 CQ S5 
+H8 H2 SQ S7 
+D7 H5 SK S8 
+DQ C9 HQ DK 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "17"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:KQ64.Q64.2.QJ876 A8753.JT.K964.T3 J9.9873.AQT73.K4 T2.AK52.J85.A952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76767777676657566565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  6
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 8,1,3,145,219,373,227,455,104,319,27,51,38,504,24,23,109,24,48,60,27,33,18,19,101,39,76,42,496,68,27,23,44,51,79,29,48,25,24,7,207,35,41,7,37,8,19,13,90,13,48,38,139,24,16,6,8,16,22,16,5,19,18,13
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+2C =2= 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: clubs + another suit 5/4+ either way round"]
+[Play "S"]
+CK CA C6 C3 
+S9 S2 S4 S7 
+C4 C2 CJ CT 
+SJ C5 C7 D4 
+H3 H2 HQ HJ 
+D7 C9 CQ S8 
+D3 ST S6 SA 
+H7 HA H4 HT 
+H9 HK H6 D6 
+H8 H5 D2 S3 
+DT D5 SQ S5 
+DQ D8 SK D9 
+DA DJ C8 DK 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "18"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A97654.9.932.985 Q3.AJT85.Q6.AQJ6 KJT82.Q62.54.432 .K743.AKJT87.KT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "070000700076ddd76ddd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  0
+S  D  0
+S  C  0
+E NT  7
+E  S  6
+E  H 13
+E  D 13
+E  C 13
+W NT  7
+W  S  6
+W  H 13
+W  D 13
+W  C 13
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 27,1,3,141,61,116,49,30,57,53,54,27,46,49,17,310,60,29,28,24,47,267,242,18,24,43,43,19,10,18,31,27,44
+[Auction "E"]
+1C =1= Pass 2C =2= Pass 
+2H Pass 3H Pass 
+4H Pass 4NT Pass 
+5H =3= Pass 6H Pass 
+Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 8+HCP, 5+D"]
+[Note "3: 2 Keycards no Q♡s"]
+[Play "S"]
+C3 C7 C8 CA 
+H6 HK H9 H5 
+H2 H3 S4 HA 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "18"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A97654.9.932.985 Q3.AJT85.Q6.AQJ6 KJT82.Q62.54.432 .K743.AKJT87.KT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "070000700076ddd76ddd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  0
+S  D  0
+S  C  0
+E NT  7
+E  S  6
+E  H 13
+E  D 13
+E  C 13
+W NT  7
+W  S  6
+W  H 13
+W  D 13
+W  C 13
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 27,2,0,105,93,536,104,223,60,43,58,95,26,122,53,74,83,27,50,32,150,71,33,26,25,12,21,26,16,40,53
+[Auction "E"]
+1H Pass 3NT =1= Pass 
+4C =2= Pass 4D Pass 
+4NT =3= Pass 5H Pass 
+6H Pass Pass Pass 
+[Note "1: good H raise, Spade void"]
+[Note "2: cue"]
+[Note "3: rkcb"]
+[Play "S"]
+D5 D7 D9 DQ 
+H2 H3 H9 HA 
+H6 HK S4 HJ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "19"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J854.876.AKQ.T43 A93.AJT2.862.987 QT.Q543.J753.KQ2 K762.K9.T94.AJ65"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55565666767776777767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA -2,2,0,91,23,66,103
+[Auction "S"]
+Pass Pass Pass Pass 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "19"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J854.876.AKQ.T43 A93.AJT2.862.987 QT.Q543.J753.KQ2 K762.K9.T94.AJ65"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55565666767776777767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  7
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA -2,1,3,180,38,65,114
+[Auction "S"]
+Pass Pass Pass Pass 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "20"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQJ42.74.T.KJT97 A6.AQ52.96542.AQ T853.K6.QJ83.642 97.JT983.AK7.853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "473484734885a9585a95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  4
+N  C  8
+S NT  4
+S  S  7
+S  H  3
+S  D  4
+S  C  8
+E NT  8
+E  S  5
+E  H 10
+E  D  9
+E  C  5
+W NT  8
+W  S  5
+W  H 10
+W  D  9
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,39,364,117,289,35,48,97,59,28,63,18,82,37,9,165,39,9,10,14,20,15,59,162,112,16,10,14,14,27,6,42,470,68,34,13,45,7,33,7,25,6,16
+[Auction "W"]
+Pass 2S =1= X Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: 5♠&5 other; 9-12 pts"]
+[Play "N"]
+SK SA S5 S7 
+DT D2 D3 DA 
+H4 H2 HK HJ 
+H7 D4 D8 D7 
+SQ S6 S3 S9 
+SJ CQ S8 H3 
+S2 HA H6 H8 
+S4 D5 DJ DK 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "20"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQJ42.74.T.KJT97 A6.AQ52.96542.AQ T853.K6.QJ83.642 97.JT983.AK7.853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "473484734885a9585a95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  3
+N  D  4
+N  C  8
+S NT  4
+S  S  7
+S  H  3
+S  D  4
+S  C  8
+E NT  8
+E  S  5
+E  H 10
+E  D  9
+E  C  5
+W NT  8
+W  S  5
+W  H 10
+W  D  9
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,2,0,61,451,145,113,41,79,62,64,29,50,644,257,22,48,45,28,16,38,28,40,45,109,90,537,25,67,1313,34,20,84,170,21,10,33,23,22,12,30,45,30,12,185,417,67,17,15,21,21,24
+[Auction "W"]
+Pass 2S =1= X =2= Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: weak, 6+S or 5S/5m"]
+[Note "2: t/o"]
+[Play "N"]
+DT D2 D3 DK 
+H4 H2 HK H8 
+H7 D4 DQ DA 
+SK SA S5 S7 
+CJ H5 H6 HJ 
+C7 CQ C4 C3 
+C9 CA C2 C5 
+SJ S6 S3 S9 
+CK HQ C6 C8 
+-  D5 D8 D7 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "21"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJT95.A8.8762.85 AQ3.QJ6.T.AKJ762 872.52.AK943.Q93 64.KT9743.QJ5.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "372733727386b6a86b6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  7
+N  C  3
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  3
+E NT  8
+E  S  6
+E  H 11
+E  D  6
+E  C 10
+W NT  8
+W  S  6
+W  H 11
+W  D  6
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,110,124,66,102,94,45,111,24,54,106,54,15,16,129,217,44,10,114,39,5,41,97,22,32,9,115,42,10,20,16,35,17,27,11,16,8,9,12,18,7,25,11
+[Auction "N"]
+Pass 1C =1= Pass 1D =2= 
+1S 2C 2S 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Note "2: 0-7 any hand"]
+[Play "N"]
+SJ SQ S2 S6 
+HA HQ H5 H4 
+SK SA S7 S4 
+H8 H6 H2 HK 
+C8 CA C3 CT 
+C5 CK C9 C4 
+D2 C2 CQ HT 
+-  -  -  H3 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "21"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJT95.A8.8762.85 AQ3.QJ6.T.AKJ762 872.52.AK943.Q93 64.KT9743.QJ5.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "372733727386b6a86b6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  7
+N  C  3
+S NT  3
+S  S  7
+S  H  2
+S  D  7
+S  C  3
+E NT  8
+E  S  6
+E  H 11
+E  D  6
+E  C 10
+W NT  8
+W  S  6
+W  H 11
+W  D  6
+W  C 10
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,0,113,54,110,56,323,204,107,38,178,126,261,30,16,23,368,37,179,18,104,17,637,150,35,23,23,72,19,13,11,109,18,65,23,56,43,11,28
+[Auction "N"]
+Pass 1C 1D 1H 
+1S 4H Pass Pass 
+Pass 
+[Play "N"]
+D6 DT DK D5 
+HA H6 H2 H3 
+H8 HJ H5 H4 
+C5 CA C9 C4 
+C8 CK C3 CT 
+D2 C2 CQ H7 
+S9 SA S8 S4 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "22"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:74.Q82.K962.7532 2.K97654.A.AKQJ6 QT653.3.Q753.T94 AKJ98.AJT.JT84.8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "0104002040dbd9ddbd9d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  0
+N  D  4
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  4
+S  C  0
+E NT 13
+E  S 11
+E  H 13
+E  D  9
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D  9
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 27,1,3,210,59,139,61,36,54,24,22,202,67,77,42,332,52,15,20,50,57,37,8,37,32,7,17,10,8,27,44
+[Auction "E"]
+1C =1= Pass 1H =2= Pass 
+2H Pass 3H Pass 
+4NT =3= Pass 5H =4= Pass 
+6H Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 8+HCP, 5+♠"]
+[Note "3: rkcb"]
+[Note "4: 2 KC without trump Q"]
+[Play "N"]
+C5 CA C4 C8 
+H2 H4 H3 HA 
+H8 H5 S3 HJ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "22"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:74.Q82.K962.7532 2.K97654.A.AKQJ6 QT653.3.Q753.T94 AKJ98.AJT.JT84.8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "0104002040dbd9ddbd9d"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  1
+N  H  0
+N  D  4
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  4
+S  C  0
+E NT 13
+E  S 11
+E  H 13
+E  D  9
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D  9
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 27,2,0,104,75,70,54,141,41,427,60,110,55,448,55,99,40,67,31,61,35,36,26,27,100,391,26,48,27,12,11,18,11,25,28
+[Auction "E"]
+1H Pass 1S Pass 
+3C =1= Pass 3D =2= Pass 
+4C Pass 4H Pass 
+4NT =3= Pass 5H Pass 
+6H Pass Pass Pass 
+[Note "1: natural forcing"]
+[Note "2: fsf"]
+[Note "3: rkcb"]
+[Play "S"]
+D5 D4 D9 DA 
+H3 HA H2 H4 
+CT HT H8 HK 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "23"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:965..QT973.KQ752 A832.J62.KJ65.J4 QJ7.954.84.AT963 KT4.AKQT873.A2.8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "131591315989c848ac84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  5
+N  C  9
+S NT  1
+S  S  3
+S  H  1
+S  D  5
+S  C  9
+E NT  8
+E  S  9
+E  H 12
+E  D  8
+E  C  4
+W NT  8
+W  S 10
+W  H 12
+W  D  8
+W  C  4
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 17,1,3,93,79,257,229,188,22,117,34,57,43,45,246,13,114,15,36,15,12,51,8,20,7,21,7,15,7,10,8,14,17,16,6,19,10,8,18,24
+[Auction "S"]
+Pass 1C =1= 1NT =2= X =3= 
+2C 4H Pass Pass 
+Pass 
+[Note "1: 16+ any hand"]
+[Note "2: minors"]
+[Note "3:  * 5+ [0:11]"]
+[Play "N"]
+CK C4 C3 C8 
+CQ CJ CA H7 
+D3 H2 H9 HA 
+C2 H6 H4 HK 
+C5 HJ H5 HQ 
+D7 D5 D8 DA 
+D9 DJ D4 D2 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "23"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:965..QT973.KQ752 A832.J62.KJ65.J4 QJ7.954.84.AT963 KT4.AKQT873.A2.8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "131591315989c848ac84"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  5
+N  C  9
+S NT  1
+S  S  3
+S  H  1
+S  D  5
+S  C  9
+E NT  8
+E  S  9
+E  H 12
+E  D  8
+E  C  4
+W NT  8
+W  S 10
+W  H 12
+W  D  8
+W  C  4
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 17,2,0,96,91,152,44,42,135,57,47,31,22,29,184,218,22,95,19,303,170,38,50,70,137,31,171,180,226,34,14,201,19,19,111,89,16,19,25,30,29,22,147,20,67,26
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+CQ C4 CA C8 
+C7 CJ C3 HA 
+C5 H2 H5 HK 
+D7 HJ H4 HQ 
+CK H6 H9 HT 
+C2 S2 C6 H8 
+D3 D5 D4 DA 
+D9 DJ D8 D2 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "24"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q962.52.AQ8.A865 J53.K983.73.QJT9 AK874.J764.92.42 T.AQT.KJT654.K73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "8a6468a6465368653686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  4
+N  C  6
+S NT  8
+S  S 10
+S  H  6
+S  D  4
+S  C  6
+E NT  5
+E  S  3
+E  H  6
+E  D  8
+E  C  6
+W NT  5
+W  S  3
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 6,1,3,173,69,33,483,53,125,37,14,12,35,15,22,90,15,120,18,18,73,9,16,37,14,49,10,170,17,30,10
+[Auction "W"]
+2D =1= Pass Pass Pass 
+[Note "1: 10-13, 5+♢"]
+[Play "N"]
+H5 HK H6 HT 
+DQ D3 D9 DJ 
+H2 H3 H7 HA 
+DA D7 D2 DT 
+S2 S3 SK ST 
+D8 H8 H4 HQ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "24"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q962.52.AQ8.A865 J53.K983.73.QJT9 AK874.J764.92.42 T.AQT.KJT654.K73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "8a6468a6465368653686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  6
+N  D  4
+N  C  6
+S NT  8
+S  S 10
+S  H  6
+S  D  4
+S  C  6
+E NT  5
+E  S  3
+E  H  6
+E  D  8
+E  C  6
+W NT  5
+W  S  3
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 13,2,0,157,65,48,73,41,168,60,104,47,31,40,133,199,39,31,28,67,32,40,252,31,44,54,110,30,47,74,117,30,77,39,50,27,18,28,98,92,10,27,207,29,15,19,22,12,19,156,40,78,18,95,56,21,27,12,20,24,17,11,17,10,16,12
+[Auction "W"]
+1D Pass 1H 1S 
+2D 3D =1= Pass 3S 
+Pass Pass Pass 
+[Note "1:  * good raise [0:13]"]
+[Play "W"]
+ST S2 S3 SA 
+DT DQ D7 D9 
+D4 DA D3 D2 
+HT H2 H8 H6 
+DK D8 CT S4 
+HQ H5 H3 H7 
+HA S6 H9 H4 
+C3 CA C9 C2 
+C7 C5 CJ C4 
+D5 S9 S5 S8 
+CK C6 CQ S7 
+D6 SQ HK HJ 
+DJ C8 SJ SK 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "25"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A7.AJ.AJ65.K8752 K84.Q543.T874.JT JT65.T9762.K9.A9 Q932.K8.Q32.Q643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a9b9aa9a9a2423224243"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H 10
+S  D  9
+S  C 10
+E NT  2
+E  S  4
+E  H  2
+E  D  3
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,1,3,362,72,130,47,63,52,262,30,234,29,47,15,18,372,27,33,20,30,21,23,422,32,18,22,17,16,18,31,761,134,23,27,137,89,30,82,17,66,11,117,47,21,21,10,30,11,154,21,25,14,16,25,26,11,27,11,17,11,13,8,16,13,11,9
+[Auction "N"]
+1C Pass 1H Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S2 S7 SK S5 
+S3 SA S8 S6 
+H8 HA H3 H2 
+HK HJ H4 H6 
+C3 C2 CT CA 
+S9 C5 HQ H9 
+C4 CK CJ C9 
+D2 D5 D4 DK 
+C6 D6 H5 HT 
+D3 C7 S4 H7 
+DQ DA D7 D9 
+SQ DJ D8 SJ 
+CQ C8 DT ST 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "25"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A7.AJ.AJ65.K8752 K84.Q543.T874.JT JT65.T9762.K9.A9 Q932.K8.Q32.Q643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a9b9aa9a9a2423224243"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H 10
+S  D  9
+S  C 10
+E NT  2
+E  S  4
+E  H  2
+E  D  3
+E  C  2
+W NT  2
+W  S  4
+W  H  2
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,2,0,176,47,85,34,159,46,421,47,115,50,38,18,57,442,27,42,866,42,9,24,42,50,8,16,78,28,29,34,199,56,69,67,33,75,17,34,60,32,14,26,26,54,46,25,31,11,80,12,55,23,20,24,23,29,8,21,39,60,8,10,13,6,14,6
+[Auction "N"]
+1C Pass 1H Pass 
+2NT Pass 3D =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: check back"]
+[Play "E"]
+D7 D9 DQ DA 
+H3 H2 H8 HA 
+H4 H6 HK HJ 
+D4 DK D2 D5 
+HQ HT D3 C2 
+DT S5 S3 DJ 
+CJ CA C3 C5 
+H5 H9 S2 S7 
+S4 H7 S9 C7 
+S8 SJ SQ SA 
+CT C9 C4 CK 
+D8 S6 CQ C8 
+SK ST C6 D6 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "26"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT4.AT7.64.AQ752 J752.4.KQT873.KJ A96.KJ92.A9.9864 K83.Q8653.J52.T3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7785a7785a3648236482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  5
+N  C 10
+S NT  7
+S  S  7
+S  H  8
+S  D  5
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  8
+E  C  2
+W NT  3
+W  S  6
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,1,3,222,70,26,96,39,64,116,118,98,34,24,49,59,28,21,65,6,42,33,16,51,22,215,51,30,10,36,20,166,48,349,23,8,15,49,17,24,21,17
+[Auction "E"]
+2D =1= Pass 3D Pass 
+Pass Pass 
+[Note "1: 10-13 5+♢s"]
+[Play "S"]
+H2 H3 HA H4 
+DA D2 D4 D7 
+D9 DJ D6 D8 
+C6 C3 C2 CJ 
+S6 SK S4 S2 
+SA S8 ST SJ 
+C4 CT CA CK 
+S9 S3 SQ S5 
+-  -  H7 -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "26"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QT4.AT7.64.AQ752 J752.4.KQT873.KJ A96.KJ92.A9.9864 K83.Q8653.J52.T3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7785a7785a3648236482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  8
+N  D  5
+N  C 10
+S NT  7
+S  S  7
+S  H  8
+S  D  5
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  8
+E  C  2
+W NT  3
+W  S  6
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,2,0,113,107,110,676,58,298,49,273,46,204,52,75,143,34,11,451,39,23,43,15,82,8,64,55,267,127,61,29,27,36,46,26,23,29,22,212,65,32
+[Auction "E"]
+1D X Pass 2D =1= 
+Pass 2H Pass 3C 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Play "E"]
+DK DA D2 D6 
+CJ C4 C3 CA 
+DT D9 D5 D4 
+H4 H9 H3 H7 
+CK C8 CT CQ 
+S5 S6 SK S4 
+S2 -  S3 SQ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "27"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J3.K974.AT843.62 KT.Q83.KQ65.T983 87542.J65.9.KJ75 AQ96.AT2.J72.AQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2333223432ba9aaba9ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  3
+N  C  2
+S NT  2
+S  S  3
+S  H  4
+S  D  3
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 10
+E  C 10
+W NT 11
+W  S 10
+W  H  9
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,97,77,156,361,149,34,24,33,37,13,190,15,36,61,45,17,5,26,31,29,14,96,38,100,75,197,31,193,25,35,56,60,21,238,47,12,36,26,19,49,593,142,38,19,23,14,58,32,17,18,25,23,41,21,23,22,13,23,18,18,6
+[Auction "S"]
+Pass 1C =1= 1D 1NT =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 16+ any hand"]
+[Note "2: 8+ balanced ♢ stop gf"]
+[Play "S"]
+D9 D2 D3 DK 
+S2 S6 S3 SK 
+S7 S9 SJ ST 
+S4 D7 D4 D5 
+S5 SA C2 C3 
+S8 SQ H4 C8 
+C5 DJ DA D6 
+H5 C4 DT DQ 
+H6 HA H7 H3 
+HJ H2 HK H8 
+C7 CQ D8 C9 
+CJ HT H9 HQ 
+CK CA C6 CT 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "27"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J3.K974.AT843.62 KT.Q83.KQ65.T983 87542.J65.9.KJ75 AQ96.AT2.J72.AQ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2333223432ba9aaba9ab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  3
+N  C  2
+S NT  2
+S  S  3
+S  H  4
+S  D  3
+S  C  2
+E NT 11
+E  S 10
+E  H  9
+E  D 10
+E  C 10
+W NT 11
+W  S 10
+W  H  9
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,99,44,107,41,57,268,63,41,41,25,44,297,206,18,79,581,32,26,19,20,32,16,40,241,18,12,29,299,21,17,96,235,20,13,113,25,17,17,25,85,90,43,26,61,22,31,15,34,50,13,18,17,39,11,18,23,13,12,14,12,8,15,13
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+D3 D5 D9 DJ 
+S3 SK S4 S6 
+C2 CT C5 C4 
+C6 C3 C7 CQ 
+D8 DQ H6 D2 
+H4 C8 CJ CA 
+DA D6 H5 D7 
+D4 DK S5 H2 
+SJ ST S2 SA 
+H7 C9 S7 SQ 
+DT H3 S8 S9 
+H9 H8 HJ HA 
+HK HQ CK HT 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "28"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T752.J.J974.AKQ2 J43.976.A862.JT4 Q86.KQ8432.KQT5. AK9.AT5.3.987653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "87895878955554755337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  9
+N  C  5
+S NT  8
+S  S  7
+S  H  8
+S  D  9
+S  C  5
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  5
+W  S  5
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,1,3,110,37,29,188,23,157,45,124,19,57,238,16,20,12,34,17,14,30,24,16,9,68,18,13,24,557,36,27,13,10,398,50,21,203,17,10,27,21,26,13,9,12,12,35,34
+[Auction "W"]
+2C =1= Pass 3C X =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 10-13, 5+♣"]
+[Note "2: take out"]
+[Play "E"]
+CJ H2 C3 CK 
+H7 H3 H5 HJ 
+D2 DQ D3 D4 
+H6 HK HA C2 
+S4 S6 SK S5 
+H9 HQ HT S7 
+DA DK C9 D7 
+SJ SQ SA S2 
+S3 S8 S9 ST 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "28"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T752.J.J974.AKQ2 J43.976.A862.JT4 Q86.KQ8432.KQT5. AK9.AT5.3.987653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "87895878955554755337"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D  9
+N  C  5
+S NT  8
+S  S  7
+S  H  8
+S  D  9
+S  C  5
+E NT  5
+E  S  5
+E  H  5
+E  D  4
+E  C  7
+W NT  5
+W  S  5
+W  H  3
+W  D  3
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 17,2,0,173,88,43,360,77,881,57,75,21,21,29,77,112,45,27,85,33,77,27,13,22,10,22,40,21,31,30,24,13,18,13,103,31,59,26,159,16,22,47,23,95,25,10,31,45,9,29,32,13
+[Auction "W"]
+1C Pass 1D 2H =1= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-16 with 6+H"]
+[Play "W"]
+D3 D4 DA DT 
+SK S2 S3 S6 
+SA S5 S4 S8 
+S9 S7 SJ SQ 
+H5 HJ H6 H3 
+C5 CA C4 D5 
+C3 C2 CT H2 
+HA D7 H7 HK 
+HT D9 H9 HQ 
+C6 -  -  H8 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "29"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T52.87643.A7.KQ4 QJ987.J.KJ632.A5 64.AKQ952.85.763 AK3.T.QT94.JT982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -790"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "73833738336a5a96a5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  8
+N  D  3
+N  C  3
+S NT  7
+S  S  3
+S  H  8
+S  D  3
+S  C  3
+E NT  6
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT  6
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,3,81,185,87,100,274,38,86,21,86,69,8,14,489,69,25,22,87,33,19,37,19,45,24,14,55,14,39,20,24,6,21,22
+[Auction "N"]
+Pass 2S =1= 3H 4S 
+X Pass Pass Pass 
+[Note "1: 10-13 5+♠s"]
+[Play "S"]
+HK HT H3 HJ 
+D8 D9 DA D6 
+C3 C2 CK CA 
+S6 SA S2 S7 
+S4 SK S5 S8 
+H2 S3 ST SQ 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "29"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T52.87643.A7.KQ4 QJ987.J.KJ632.A5 64.AKQ952.85.763 AK3.T.QT94.JT982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "73833738336a5a96a5a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  8
+N  D  3
+N  C  3
+S NT  7
+S  S  3
+S  H  8
+S  D  3
+S  C  3
+E NT  6
+E  S 10
+E  H  5
+E  D 10
+E  C  9
+W NT  6
+W  S 10
+W  H  5
+W  D 10
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 21,2,0,74,50,89,64,293,83,48,69,889,49,63,24,59,107,127,16,55,36,29,27,32,23,21,59,107,21,29,11,50,38,20,11
+[Auction "N"]
+Pass 1S 2H X 
+4H 5D Pass Pass 
+X Pass Pass Pass 
+[Play "S"]
+HA HT H8 HJ 
+C7 C8 CQ CA 
+D5 DQ DA D2 
+C3 C2 CK C5 
+C6 C9 C4 DK 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "30"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J98.AT5.AK7.T975 .K8.QT95432.AK63 Q6542.9763.J8.QJ AKT73.QJ42.6.842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "66555465357778877788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  6
+S  H  5
+S  D  3
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  8
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 14,1,3,351,70,23,30,194,58,90,39,32,43,21,167,43,32,278,38,11,19,173,38,8,19,20,21,23,10,125,29,12,56,148,24,37,8,18,13,9,17,9,54,12,31,228,381,20,7,11,10,7,23,7,13,7,31,25,10,6,9,6,6,17,7
+[Auction "E"]
+1D =1= Pass 1S Pass 
+2D =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 13-15 no 5cM"]
+[Note "2: ♢s not 3♠"]
+[Play "N"]
+CT C3 CJ C4 
+C5 CA CQ C8 
+HA HK H3 H2 
+C7 CK S2 C2 
+D7 D2 D8 D6 
+H5 H8 H9 HJ 
+HT D3 H7 HQ 
+S8 D4 H6 H4 
+S9 D5 S4 SA 
+SJ D9 S5 SK 
+DK C6 SQ S7 
+DA DT DJ S3 
+C9 DQ S6 ST 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "30"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J98.AT5.AK7.T975 .K8.QT95432.AK63 Q6542.9763.J8.QJ AKT73.QJ42.6.842"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "66555465357778877788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  6
+S  H  5
+S  D  3
+S  C  5
+E NT  7
+E  S  7
+E  H  7
+E  D  8
+E  C  8
+W NT  7
+W  S  7
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 14,2,0,78,108,36,69,44,28,123,58,195,27,107,64,35,27,1200,601,33,82,371,25,25,157,185,20,15,19,59,34,20,34,15,38,31,120,326,23,13,18,103,31,27,12,107,28,25,17,89,29,11,18,10,16,9,14
+[Auction "E"]
+1D Pass 1S Pass 
+2C Pass 2H Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HT HK H3 H2 
+D7 D9 D8 D6 
+DK D2 DJ S3 
+HA H8 H6 H4 
+H5 C3 H7 HJ 
+C5 CK CJ C2 
+DA DT S5 S7 
+SJ C6 S2 SA 
+S8 D3 S4 SK 
+C7 CA CQ C4 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "31"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q93.Q954.942.KJ6 A8.AT8763.76.A74 T5.KJ.KQT8.T9832 KJ7642.2.AJ53.Q5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "43555435557a8777a877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  5
+E NT  7
+E  S 10
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S 10
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,100,94,93,615,55,85,30,21,44,17,18,15,44,40,9,525,36,27,19,315,28,19,143,14,18,9,32,8,34,12,8,656,35,8,8,13,14,25,28,11,30,6,10,31,30,13,9,27,21,7,15,21,13,6
+[Auction "S"]
+Pass 2S =1= Pass 2NT =2= 
+Pass 3S =3= Pass 4S 
+Pass Pass Pass 
+[Note "1: 10-13 5+♠"]
+[Note "2: invitational + relay"]
+[Note "3: min with 6♠"]
+[Play "N"]
+H4 HA HJ H2 
+CK C4 C2 CQ 
+D9 D6 DQ DA 
+C6 CA C8 C5 
+D2 D7 DK D3 
+H5 H3 HK S4 
+D4 S8 D8 D5 
+S3 SA S5 S2 
+CJ C7 C9 S7 
+S9 H6 ST SK 
+SQ H7 -  S6 
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "31"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q93.Q954.942.KJ6 A8.AT8763.76.A74 T5.KJ.KQT8.T9832 KJ7642.2.AJ53.Q5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "43555435557a8777a877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  3
+S  H  5
+S  D  5
+S  C  5
+E NT  7
+E  S 10
+E  H  8
+E  D  7
+E  C  7
+W NT  7
+W  S 10
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,110,56,64,50,119,27,73,129,124,19,86,133,345,43,31,34,57,25,49,124,60,12,66,51,52,34,29,23,29,11,15,101,45,23,15,27,26,12,16,67,41,12,95,82
+[Auction "S"]
+Pass 1S Pass 2H 
+Pass 2S Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+DQ D3 D9 D6 
+CT CQ CK CA 
+C2 C5 C6 C4 
+HJ H2 H4 H8 
+C9 S2 CJ C7 
+S5 S4 S3 SA 
+HK S6 H5 HA 
+ST D5 H9 H3 
+-  -  HQ -  
+*
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "32"]
+[West "Ivan Leung#524083"]
+[North "Stuart Bridge#466850"]
+[East "David Owen#55911"]
+[South "Roger Karn#86298"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:53.KJ8654.53.KQ7 KQJT2.972.9.J942 A764.A.QJT42.A63 98.QT3.AK876.T85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "97987979974644646446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C  7
+S NT  9
+S  S  7
+S  H  9
+S  D  9
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  6
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 12,1,3,71,68,55,246,22,232,78,175,29,145,51,27,195,25,26,451,37,21,40,143,169,64,35,270,329,16,18,25,14,17,39,188,14,19,35,83,10,15,38,135,28,18,8,75,43,22,8,12,70,13,15,37,17,15,4,19,17,13,8,14,10,12,4
+[Auction "W"]
+Pass 2D =1= Pass 2NT =2= 
+Pass 3C =3= Pass 3H =4= 
+Pass Pass Pass 
+[Note "1: 3 way multi, weak major, strong minor or 22-23 bal"]
+[Note "2: Enquiry"]
+[Note "3: strong with ♣; or max weak 2 with ♡"]
+[Note "4: Pass or correct"]
+[Play "W"]
+DK D3 D9 D2 
+DA D5 SK D4 
+D6 S3 H7 DT 
+CT C7 C2 CA 
+H3 H4 H2 HA 
+S8 S5 S2 SA 
+S9 H5 ST S4 
+HT HK H9 S6 
+HQ HJ C4 S7 
+D8 H6 C9 DJ 
+D7 H8 CJ C3 
+C5 CQ SJ C6 
+C8 CK SQ DQ 
+
+[Event "Crockfords Match"]
+[Site "RealBridge"]
+[Date "2025.01.02"]
+[Board "32"]
+[West "Andrew Parkes#38998"]
+[North "Mike Rawlins#94613"]
+[East "Richard Samter#106155"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:53.KJ8654.53.KQ7 KQJT2.972.9.J942 A764.A.QJT42.A63 98.QT3.AK876.T85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Mike Rawlins"]
+[VisitTeam "Richard Samter"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "97987979974644646446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C  7
+S NT  9
+S  S  7
+S  H  9
+S  D  9
+S  C  7
+E NT  4
+E  S  6
+E  H  4
+E  D  4
+E  C  6
+W NT  4
+W  S  6
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 7,2,0,88,373,70,319,66,117,108,22,51,72,22,110,28,117,46,43,18,30,28,10,22,22,10,21,10,13,18,14,33,15,32,8,15,29,39,7,21,26
+[Auction "W"]
+Pass 2H =1= Pass Pass 
+Pass 
+[Note "1: weak,6+H or 5H/5m"]
+[Play "E"]
+D9 DQ DK D5 
+S2 D2 DA D3 
+H2 D4 D6 S3 
+SK SA S9 S5 
+H7 HA H3 H5 
+C4 C3 C5 CK 
+H9 S4 HT HK 
+ST S6 HQ HJ 
+-  -  S8 -  
+*

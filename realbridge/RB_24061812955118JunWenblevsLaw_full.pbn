@@ -1,0 +1,4066 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "1"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J3.J.KQT43.Q9764 6542.T653.862.KT Q.AK9842.J.AJ532 AKT987.Q7.A975.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5498b5498b7743167331"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  9
+N  D  8
+N  C 11
+S NT  5
+S  S  4
+S  H  9
+S  D  8
+S  C 11
+E NT  7
+E  S  7
+E  H  4
+E  D  3
+E  C  1
+W NT  6
+W  S  7
+W  H  3
+W  D  3
+W  C  1
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 20,2,1,162,36,83,159,79,66,195,44,242,41,286,33,35,19,85,32,65,7,63,19,12,11,91,34,9,16,42,15,14,9,33,26,8,8,69,13,14,53,18,52,7,5
+[Auction "N"]
+Pass Pass 1H 1S 
+X 2S =1= 3C 3S 
+4C 4S 5C Pass 
+Pass Pass 
+[Note "1:  * up to 8 [0:18]"]
+[Play "W"]
+SA S3 S5 SQ 
+SK SJ S4 C2 
+DA D3 D6 DJ 
+HQ HJ H3 HA 
+H7 C4 H5 H4 
+C8 C6 CT CJ 
+S7 C7 CK CA 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "1"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J3.J.KQT43.Q9764 6542.T653.862.KT Q.AK9842.J.AJ532 AKT987.Q7.A975.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5498b5498b7743167331"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  9
+N  D  8
+N  C 11
+S NT  5
+S  S  4
+S  H  9
+S  D  8
+S  C 11
+E NT  7
+E  S  7
+E  H  4
+E  D  3
+E  C  1
+W NT  6
+W  S  7
+W  H  3
+W  D  3
+W  C  1
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 20,4,7,403,59,189,98,83,362,133,67,53,44,65,115,51,33,368,36,55,12,130,37,44,22,64,29,16,25,16,30,25,25,27,24,10,37,13,14,15,28
+[Auction "N"]
+Pass Pass 1H 1S 
+X 3S =1= 5C Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+SK S3 S5 SQ 
+DA D3 D8 DJ 
+D5 DK D2 H2 
+C8 C4 CT CJ 
+S7 C6 CK CA 
+H7 HJ H6 HA 
+HQ D4 H3 HK 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "2"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T98763.T.AKQ9.83 Q5.AK3.J63.AQ972 .QJ8754.T8.KJT54 AKJ42.962.7542.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NTX"]
+[Result "7"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66868668687757577565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  8
+S NT  6
+S  S  6
+S  H  8
+S  D  6
+S  C  8
+E NT  7
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,179,228,149,253,58,56,92,123,86,22,28,465,328,289,23,77,555,33,20,28,41,51,128,458,26,16,23,24,24,10,80,35,24,57,100,109,26,15,16,254,214,21,227,30,19,9,15,12,22,30,22,20,15,28,6,9,11
+[Auction "E"]
+1NT =1= 2D =2= 2NT =3= Pass 
+3C =4= Pass 3S =5= Pass 
+3NT Pass Pass X 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: single suited major"]
+[Note "3: forces 3C"]
+[Note "4: forced"]
+[Note "5: invitational * & nat [0:13]"]
+[Play "S"]
+HQ H2 HT HA 
+H4 S2 S3 SQ 
+H5 SA ST S5 
+C4 SK S9 C2 
+H7 SJ S8 D6 
+CK C6 C8 CQ 
+CJ S4 C3 CA 
+H8 H6 D9 HK 
+CT H9 DA C7 
+HJ D2 S6 H3 
+DT D4 -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "2"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T98763.T.AKQ9.83 Q5.AK3.J63.AQ972 .QJ8754.T8.KJT54 AKJ42.962.7542.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66868668687757577565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  6
+N  C  8
+S NT  6
+S  S  6
+S  H  8
+S  D  6
+S  C  8
+E NT  7
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  7
+W  S  7
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,4,7,310,304,302,264,46,64,152,98,32,19,168,27,9,16,31,23,65,11,45,26,12,15,236,24,21,15,31,17,10,13,17,13,10,33,25,17,16,24,19,21,33,17,10,38,11,27,10,14,9,16,8,9,9,8,12,10,10,10
+[Auction "E"]
+1NT =1= 2H =2= 2S Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: H & m"]
+[Play "N"]
+DK D3 DT D2 
+DA D6 D8 D4 
+DQ DJ C5 D5 
+D9 H3 H7 D7 
+C8 CA C4 C6 
+HT HK H5 H2 
+S3 HA H4 H6 
+C3 C2 CT S2 
+S6 SQ H8 H9 
+S7 S5 CJ SA 
+S8 C7 CK SK 
+S9 C9 HJ SJ 
+ST CQ HQ S4 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "3"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J86.654.942.AJ94 3.A9.AQJT8.Q8653 AT9542.KT872.K7. KQ7.QJ3.653.KT72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "58844588447559975598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  4
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  4
+S  C  4
+E NT  7
+E  S  5
+E  H  5
+E  D  9
+E  C  9
+W NT  7
+W  S  5
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,60,35,152,248,205,1210,132,35,30,32,90,148,78,48,102,20,207,23,63,22,7,29,207,16,80,7,78,19,123,18,11,14,23,5,22,17,25,6,13,19,7,5,12,17,6,7
+[Auction "S"]
+1S Pass 1NT =1= 2NT =2= 
+4H Pass 4S Pass 
+Pass Pass 
+[Note "1:  * 5to11 [0:17]"]
+[Note "2: minors"]
+[Play "W"]
+C2 CA C6 D7 
+S7 SJ S3 SA 
+SQ S6 C3 ST 
+SK S8 D8 S2 
+HQ H4 HA H2 
+D5 D2 DA DK 
+D3 D4 DQ S4 
+H3 H5 H9 HK 
+HJ H6 C5 HT 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "3"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J86.654.942.AJ94 3.A9.AQJT8.Q8653 AT9542.KT872.K7. KQ7.QJ3.653.KT72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "58844588447559975598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  4
+N  C  4
+S NT  5
+S  S  8
+S  H  8
+S  D  4
+S  C  4
+E NT  7
+E  S  5
+E  H  5
+E  D  9
+E  C  9
+W NT  7
+W  S  5
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,4,7,229,92,383,79,255,43,35,39,71,135,126,41,61,38,55,21,30,26,10,48,21,18,22,132,54,29,77,10,53,27,41,11,38,22,26,18
+[Auction "S"]
+1S Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+HQ H4 HA H2 
+H3 H5 H9 HK 
+S7 S6 S3 SA 
+SQ S8 DQ S2 
+SK SJ C6 S4 
+HJ H6 D8 H7 
+D5 D2 DA D7 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "4"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:32.T72.AQ985.K73 KJT8.KQ9.T74.AJ6 Q64.J63.K632.985 A975.A854.J.QT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "11151111518cc8c8cc8c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  1
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  1
+E NT  8
+E  S 12
+E  H 12
+E  D  8
+E  C 12
+W NT  8
+W  S 12
+W  H 12
+W  D  8
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 4,2,1,71,41,120,27,122,44,60,22,126,91,13,433,29,15,155,62,27,29,334,71,29,29,32,72,8,55,39,92,19,10,238,21,18,63,139,20,15,10
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1H Pass 1NT =2= Pass 
+Pass Pass 
+[Note "1: 2+C"]
+[Note "2: 12-14"]
+[Play "S"]
+D2 DJ DQ D4 
+DK S5 D8 DT 
+D3 S7 D9 D7 
+D6 H4 DA S8 
+H3 C2 D5 C6 
+SQ SA S3 ST 
+C5 C4 C3 CJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "4"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:32.T72.AQ985.K73 KJT8.KQ9.T74.AJ6 Q64.J63.K632.985 A975.A854.J.QT42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "11151111518cc8c8cc8c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  1
+N  D  5
+N  C  1
+S NT  1
+S  S  1
+S  H  1
+S  D  5
+S  C  1
+E NT  8
+E  S 12
+E  H 12
+E  D  8
+E  C 12
+W NT  8
+W  S 12
+W  H 12
+W  D  8
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 8,4,7,101,38,547,160,125,157,366,141,70,77,62,36,301,59,154,111,56,15,203,17,55,17,23,41,19,14,36,30,11,28,14,23,12,12,10,11,13,17,11
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1D =2= Pass 1H =3= Pass 
+1S Pass 2S Pass 
+Pass Pass 
+[Note "1: 2+ may have another oor 5cd suit if wnt"]
+[Note "2: 4+♡"]
+[Note "3: 3 hearts in wnt type"]
+[Play "N"]
+DA D4 D2 DJ 
+D9 D7 DK S5 
+CK CA C5 CQ 
+D8 DT D3 S7 
+S2 S8 S4 SA 
+S3 ST SQ S9 
+-  -  S6 -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "5"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT876.J952.2.KT5 52.KT43.A754.J92 943.Q.J963.Q8643 AKQ.A876.KQT8.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1311413114c9cc9cacc9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  1
+N  C  4
+S NT  1
+S  S  3
+S  H  1
+S  D  1
+S  C  4
+E NT 12
+E  S  9
+E  H 12
+E  D 12
+E  C  9
+W NT 12
+W  S 10
+W  H 12
+W  D 12
+W  C  9
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 17,2,1,75,72,25,67,37,70,28,28,30,24,26,16,26,225,204,28,27,166,29,19,16,21,24,24,45,22,33,14,5,393,18,22,19,17,21,13,27
+[Auction "N"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 20-22"]
+[Note "2: stayman"]
+[Play "N"]
+D2 D4 DJ DK 
+H2 HK HQ H6 
+H5 H3 C3 HA 
+HJ H4 S3 H7 
+SJ S2 S4 SQ 
+H9 HT C4 H8 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "5"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT876.J952.2.KT5 52.KT43.A754.J92 943.Q.J963.Q8643 AKQ.A876.KQT8.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1311413114c9cc9cacc9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  3
+N  H  1
+N  D  1
+N  C  4
+S NT  1
+S  S  3
+S  H  1
+S  D  1
+S  C  4
+E NT 12
+E  S  9
+E  H 12
+E  D 12
+E  C  9
+W NT 12
+W  S 10
+W  H 12
+W  D 12
+W  C  9
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 14,4,7,500,145,183,57,45,296,71,40,46,36,30,66,216,51,53,47,22,29,31,54,14,102,26,92,48,49,16,36,57,32,43,24,17,27,14,63,30,33,15,80,21,38,12,20,21,62,16,110,12,44,18,42,17,23,11,14,32,19,7,10,22,11,12
+[Auction "N"]
+2S =1= Pass Pass X 
+Pass 2NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 5♠+4(+)any other, weak"]
+[Note "2: lebensohl"]
+[Play "S"]
+S3 SA S6 S2 
+HQ HA H2 H3 
+C3 H6 H5 HT 
+D6 DK D2 D4 
+D3 D8 S7 DA 
+D9 DT S8 D5 
+DJ DQ ST D7 
+S4 SK SJ S5 
+S9 SQ C5 H4 
+C4 CA CT C2 
+C6 H7 H9 HK 
+C8 C7 CK C9 
+CQ H8 HJ CJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "6"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K6.T86.JT962.JT6 Q8.A7.Q853.AQ432 AJ5.KJ543.A.K985 T97432.Q92.K74.7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "85977859775846558465"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  5
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,307,35,46,98,202,50,24,26,73,39,75,212,13,534,20,32,9,10,64,23,9,16,30,6,20,6,45,6,20,112,26,58,19,22,214,54,30,42,26,31,8,17,22,9,13,45,17,23,26,17
+[Auction "E"]
+1C =1= 1H 1S 2H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 2+C"]
+[Play "W"]
+C7 CJ CA C8 
+H2 H6 HA H3 
+H9 H8 H7 HK 
+S2 SK S8 S5 
+S3 S6 SQ SA 
+S4 C6 C2 SJ 
+HQ CT C3 CK 
+D4 DJ DQ DA 
+S9 HT C4 C5 
+DK DT D5 C9 
+ST -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "6"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K6.T86.JT962.JT6 Q8.A7.Q853.AQ432 AJ5.KJ543.A.K985 T97432.Q92.K74.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "85977859775846558465"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  9
+N  D  7
+N  C  7
+S NT  8
+S  S  5
+S  H  9
+S  D  7
+S  C  7
+E NT  5
+E  S  8
+E  H  4
+E  D  6
+E  C  5
+W NT  5
+W  S  8
+W  H  4
+W  D  6
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,4,7,451,220,241,159,134,219,173,99,61,60,35,47,268,100,50,42,792,46,24,33,20,47,190,84,88,53,36,49,595,37,44,31,11,52,11,19,11,135,34,31
+[Auction "E"]
+1C =1= 1H X =2= Pass 
+1NT Pass 2H =3= Pass 
+2S Pass Pass Pass 
+[Note "1: 2+ etc etc"]
+[Note "2: 4+♠"]
+[Note "3: Transfer"]
+[Play "S"]
+S5 S2 SK S8 
+SA S3 S6 SQ 
+SJ S4 DJ C2 
+HJ HQ H6 H7 
+CK C7 C6 CQ 
+DA D4 D6 D3 
+C9 H2 CT CA 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "7"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ8532.973.AQ.T7 976.KT864.K8.J86 .QJ52.JT9732.A42 AKT4.A.654.KQ953"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "45473454737885a78759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  7
+N  C  3
+S NT  4
+S  S  5
+S  H  4
+S  D  7
+S  C  3
+E NT  7
+E  S  8
+E  H  8
+E  D  5
+E  C 10
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 8,2,1,44,80,245,51,38,27,108,731,15,42,365,24,23,21,37,39,18,78,53,28,18,28,261,38,20,17,309,35,15,28,250,35,18,29,41,46,33,36,23,83,30,32,110,21,14,14,18,20,20,27,23,18,9,12,17,17,7,20
+[Auction "S"]
+Pass 1C =1= 2S =2= Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: weak"]
+[Play "E"]
+DK D2 D6 DA 
+S6 H2 SK SQ 
+C8 C2 CK C7 
+C6 CA CQ CT 
+CJ C4 C9 S2 
+D8 D3 D4 DQ 
+S7 D7 S4 S3 
+H6 HJ HA H3 
+S9 D9 C5 S5 
+HK H5 D5 H7 
+H4 HQ ST H9 
+H8 DT SA S8 
+HT DJ C3 SJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "7"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ8532.973.AQ.T7 976.KT864.K8.J86 .QJ52.JT9732.A42 AKT4.A.654.KQ953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "45473454737885a78759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  7
+N  C  3
+S NT  4
+S  S  5
+S  H  4
+S  D  7
+S  C  3
+E NT  7
+E  S  8
+E  H  8
+E  D  5
+E  C 10
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 20,4,7,310,104,278,267,78,459,54,230,362,205,63,807,48,136,149,33,32,327,22,22,27,76,21,18,20,282,34,14,16,69,25,11,13,17,142,38,28,17,14,12,35,19,23,10,11,15
+[Auction "S"]
+Pass 1C =1= 2D =2= 2H 
+Pass 2S Pass 3C 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: one major"]
+[Play "N"]
+DA D8 DJ D4 
+S5 S6 C2 S4 
+DQ DK DT D5 
+C7 C6 C4 CK 
+H3 H4 H5 HA 
+S8 C8 D7 D6 
+H7 HK H2 ST 
+CT CJ CA C3 
+-  -  HQ -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "8"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ65.A95.Q52.AK7 AT7.73.973.JT652 9.KQ6.KJT86.Q943 Q8432.JT842.A4.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a78aaa78aa2652326523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S  7
+S  H  8
+S  D 10
+S  C 10
+E NT  2
+E  S  6
+E  H  5
+E  D  2
+E  C  3
+W NT  2
+W  S  6
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,51,108,24,93,25,31,25,132,183,107,792,58,16,35,37,25,34,35,25,62,40,9,21
+[Auction "W"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-17 "]
+[Play "E"]
+S7 S9 SQ SK 
+D3 DJ DA D5 
+ST C3 S4 S5 
+SA D6 S3 S6 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "8"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ65.A95.Q52.AK7 AT7.73.973.JT652 9.KQ6.KJT86.Q943 Q8432.JT842.A4.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a78aaa78aa2652326523"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  8
+N  D 10
+N  C 10
+S NT 10
+S  S  7
+S  H  8
+S  D 10
+S  C 10
+E NT  2
+E  S  6
+E  H  5
+E  D  2
+E  C  3
+W NT  2
+W  S  6
+W  H  5
+W  D  2
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,4,7,118,121,286,249,109,346,236,94,47,35,51,134,200,66,36,55,45,83,30,54
+[Auction "W"]
+Pass 1C Pass 1D =1= 
+Pass 1NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: relay denies 5cd M"]
+[Note "2: 15-17"]
+[Play "E"]
+D7 D8 DA D2 
+SA S9 SQ SK 
+ST -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "9"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT42.KQT75.K52.6 AK.943.T763.AQT9 9865.AJ862..J853 J73..AQJ984.K742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "6791268912753cb753cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  1
+N  C  2
+S NT  6
+S  S  8
+S  H  9
+S  D  1
+S  C  2
+E NT  7
+E  S  5
+E  H  3
+E  D 12
+E  C 11
+W NT  7
+W  S  5
+W  H  3
+W  D 12
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 21,2,1,118,69,98,52,170,106,46,28,253,35,179,14,22,29,89,15,6,24,7,54,31,415,23,5,18,17,25,14,7,21,20,13,5
+[Auction "N"]
+Pass 1C =1= 1H 2D 
+4H 5D Pass Pass 
+Pass 
+[Note "1: 2+C"]
+[Play "N"]
+C6 C9 CJ CK 
+S2 SK S8 S3 
+DK DT H8 D4 
+H7 H3 HA D8 
+D2 D3 H2 DA 
+D5 D6 H6 DQ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "9"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT42.KQT75.K52.6 AK.943.T763.AQT9 9865.AJ862..J853 J73..AQJ984.K742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "6791268912753cb753cb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  9
+N  D  1
+N  C  2
+S NT  6
+S  S  8
+S  H  9
+S  D  1
+S  C  2
+E NT  7
+E  S  5
+E  H  3
+E  D 12
+E  C 11
+W NT  7
+W  S  5
+W  H  3
+W  D 12
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,4,7,474,176,242,258,60,501,110,34,35,93,157,421,74,233,265,178,632,19,51,42,55,22,48,460,55,53,67,23,66,15,108,11,91,30,665,21,80
+[Auction "N"]
+2H =1= Pass 2S 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 4♠+5(+) any other, weak"]
+[Play "S"]
+S8 S3 S2 SA 
+S6 DQ DK D7 
+H2 C2 HQ H3 
+H6 C4 H7 H4 
+HJ D4 H5 H9 
+HA S7 HK C9 
+H8 D8 HT D3 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "10"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KJT.A942.T753.53 7543.QJ8.AQ6.KJT Q6.KT653.J4.AQ84 A982.7.K982.9762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "65967659675746657466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,94,29,43,494,90,116,25,173,25,296,37,19,62,40,21,11,158,23,17,7,52,14,97,12,254,29,17,21,95,24,7,6,15,22,6,6
+[Auction "E"]
+1C =1= 1H X 2C =2= 
+2S Pass Pass Pass 
+[Note "1: 2+C"]
+[Note "2: sound raise"]
+[Play "S"]
+H5 H7 HA H8 
+CQ C2 C5 CJ 
+CA C6 C3 CK 
+C8 C7 SJ CT 
+HK S2 H2 HQ 
+S6 SA ST S3 
+SQ S9 SK S4 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "10"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KJT.A942.T753.53 7543.QJ8.AQ6.KJT Q6.KT653.J4.AQ84 A982.7.K982.9762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "65967659675746657466"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  6
+N  C  7
+S NT  6
+S  S  5
+S  H  9
+S  D  6
+S  C  7
+E NT  5
+E  S  7
+E  H  4
+E  D  6
+E  C  6
+W NT  5
+W  S  7
+W  H  4
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,4,7,1418,66,146,127,147,191,55,119,35,51,58,59,34,27,125,40,18,27,25,27,8,25,56,31,11,29,91,39,20,29,25,55,32,14,44,19,26,9,20,13,20,9
+[Auction "E"]
+1C =1= 1H X =2= 3H 
+3S 4H 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+♠"]
+[Play "S"]
+H5 H7 HA H8 
+CQ C2 C5 CJ 
+CA C6 C3 CK 
+C4 C7 SJ CT 
+D4 D2 D3 DA 
+HK S2 H2 HJ 
+S6 SA ST S3 
+SQ S8 SK S4 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "11"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ6.QT854.Q6.Q64 T32.J9.JT3.KT987 K87.32.AK872.J32 Q954.AK76.954.A5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "98887988874554645546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  8
+N  C  7
+S NT  9
+S  S  8
+S  H  8
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 7,2,1,54,40,72,61,25,23,286,29,35,32,187,28,44,34,251,452,36,36,1037,29,20,16,18,30,21,14,41,16,29,15,76,47,26,43,13,23,26,37,76,19,11,22,44,28,24,11,15,16,20,13,34,54,18,23,54,15,14,8,13,29,13,8,10,13,14,18
+[Auction "S"]
+1D Pass 1H Pass 
+1NT =1= Pass 2C =2= X 
+2D Pass 2H =3= Pass 
+Pass Pass 
+[Note "1:  * 12-14 [0:07]"]
+[Note "2: forces 2D"]
+[Note "3: inv"]
+[Play "E"]
+S3 S7 SQ SJ 
+C7 C2 CA C4 
+CK C3 C5 C6 
+C8 CJ H6 CQ 
+ST SK S5 S6 
+HJ H2 H7 HT 
+S2 S8 S9 SA 
+D3 DA D5 D6 
+H9 H3 HK H4 
+C9 D2 S4 H8 
+DT D7 D4 DQ 
+CT D8 HA H5 
+DJ DK D9 HQ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "11"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ6.QT854.Q6.Q64 T32.J9.JT3.KT987 K87.32.AK872.J32 Q954.AK76.954.A5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "98887988874554645546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  8
+N  C  7
+S NT  9
+S  S  8
+S  H  8
+S  D  8
+S  C  7
+E NT  4
+E  S  5
+E  H  5
+E  D  4
+E  C  6
+W NT  4
+W  S  5
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 9,4,7,211,95,73,45,141,36,88,39,70,52,77,252,24,24,52,45,63,41,25,33,16,16,64,19,20,15,38,25,19,21,350,23,25,47,57,15,25,101,711,21,10,23,21,10,15,37,28,28,15,13
+[Auction "S"]
+1D Pass 1H Pass 
+2D Pass 2NT Pass 
+Pass Pass 
+[Play "E"]
+CT C2 CA C4 
+C7 C3 C5 CQ 
+D3 D2 D4 DQ 
+DT DA D5 D6 
+DJ DK D9 H4 
+H9 D7 H6 H5 
+C8 D8 H7 C6 
+S2 SK S4 S6 
+S3 S7 S5 SA 
+ST S8 SQ SJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "12"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ65.J865.Q764.3 2.A72.AKJT3.K752 74.KQT943.52.Q98 KJT983..98.AJT64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2281122811bb5bcbb5bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  8
+N  D  1
+N  C  1
+S NT  2
+S  S  2
+S  H  8
+S  D  1
+S  C  1
+E NT 11
+E  S 11
+E  H  5
+E  D 11
+E  C 12
+W NT 11
+W  S 11
+W  H  5
+W  D 11
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 25,2,1,103,66,70,30,27,31,237,17,24,41,391,30,153,64,60,29,166,40,904,19,135,95,122,28,143,233,15,79,23,35,27,44,340,27,7,23,193,42,22,11,21,6,17,40,42,29,56,11,45,73,21,24,29,25,21,22,15,13,7,13,9,6,7,14,10,9,16,43,13,32,16,7,9,10,14,7
+[Auction "W"]
+1S Pass 2D =1= Pass 
+2S Pass 2NT Pass 
+3C Pass 3H =2= X 
+3S Pass 4C Pass 
+4H =3= Pass 4NT =4= Pass 
+6C =5= Pass Pass Pass 
+[Note "1: GF, nat"]
+[Note "2: fsf"]
+[Note "3: cue"]
+[Note "4: rkcb"]
+[Note "5: odd with void"]
+[Play "N"]
+H5 HA HT S3 
+SQ S2 S4 SJ 
+H6 H2 HQ C4 
+C3 CK C8 C6 
+H8 C2 C9 CA 
+S5 H7 S7 S8 
+S6 D3 H3 SK 
+SA C5 H4 ST 
+D4 DA D2 D8 
+D6 DK D5 D9 
+D7 DT H9 CT 
+HJ DJ CQ S9 
+DQ C7 HK CJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "12"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQ65.J865.Q764.3 2.A72.AKJT3.K752 74.KQT943.52.Q98 KJT983..98.AJT64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2281122811bb5bcbb5bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  8
+N  D  1
+N  C  1
+S NT  2
+S  S  2
+S  H  8
+S  D  1
+S  C  1
+E NT 11
+E  S 11
+E  H  5
+E  D 11
+E  C 12
+W NT 11
+W  S 11
+W  H  5
+W  D 11
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 25,4,7,180,50,234,109,40,33,509,76,537,106,457,42,221,43,277,50,69,26,43,1473,35,42,24,52,57,37,535,65,43,56,62,19,23,11,20,13,35,21,89,18,68,20,57,25,32,40,68
+[Auction "W"]
+1S Pass 2D =1= Pass 
+2S Pass 3C Pass 
+4H =2= Pass 4NT Pass 
+5D =3= Pass 6C Pass 
+Pass Pass 
+[Note "1: nat gf"]
+[Note "2: Club fit and heart shortage."]
+[Note "3: 1 key card"]
+[Play "S"]
+HK D8 H8 HA 
+S7 S9 SQ S2 
+D5 D9 D7 DA 
+C8 C4 C3 CK 
+C9 CA H5 C2 
+S4 SK S5 H2 
+CQ SJ SA C5 
+HT -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "13"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.QT6.KQT73.AT64 Q6.975.J96.KQ932 AJ9532.KJ.52.J75 K874.A8432.A84.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "89698886985464554645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  9
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  9
+S  C  8
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,93,24,26,26,67,61,115,23,56,28,483,72,99,11,369,19,33,7,63,21,15,11,88,15,9,12,11,17,19,20,19,43,18,8,53,25,8,21,58,18,18,6,22,25,14,17
+[Auction "N"]
+1D Pass 1S Pass 
+2C Pass 2S Pass 
+Pass Pass 
+[Play "W"]
+C8 C4 CQ C7 
+HA H6 H7 HK 
+H4 HQ H9 HJ 
+H3 HT H5 C5 
+S4 ST SQ SA 
+S7 D3 S6 S9 
+S8 D7 C2 S5 
+H8 C6 C3 S2 
+DA DT D6 D2 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "13"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.QT6.KQT73.AT64 Q6.975.J96.KQ932 AJ9532.KJ.52.J75 K874.A8432.A84.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "89698886985464554645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  6
+N  D  9
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  9
+S  C  8
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,4,7,115,79,130,86,196,59,231,65,71,267,17,20,16,48,24,38,89,22,60,52,28,36,34,25,80,106,22,24,203,37,110,17,237,335,49,19,14,37,15,7,18,36,19,8,137,34,20,13,20,13,33,13,26,8,16,18,9,8,16,395
+[Auction "N"]
+Pass Pass 2D =1= Pass 
+2S =2= Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: pass/correct"]
+[Play "E"]
+CK C5 C8 CA 
+SQ SA S4 ST 
+S6 SJ SK D3 
+D6 D2 D4 DK 
+H5 HK HA H6 
+D9 D5 DA D7 
+H7 HJ H3 HQ 
+H9 C7 H2 HT 
+DJ CJ D8 DQ 
+C2 S2 S7 DT 
+C3 S3 H4 C4 
+C9 S9 S8 C6 
+CQ S5 H8 CT 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "14"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.K8732.732.KT92 7643.QT4.K5.AQ87 K982.J96.QJT9.65 AJT5.A5.A864.J43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "42543425439a8899a89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  5
+N  D  4
+N  C  3
+S NT  4
+S  S  2
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  9
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 8,2,1,102,18,63,68,84,52,27,55,188,44,30,335,19,37,226,14,20,38,51,32,8,29,243,23,22,4,145,24,12,43,10,63,20,9,36,20,24,47,119,21,27,7,70,8,12,23,41,7,19,40,47,27,8,14,41,20,5,23,11,17,7,5
+[Auction "E"]
+Pass Pass 1C =1= 1H 
+X =2= 2H 2S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4cd S"]
+[Play "N"]
+D3 DK DQ D4 
+SQ S3 S2 ST 
+D7 D5 D9 DA 
+D2 S4 DJ D6 
+H2 H4 H6 HA 
+H3 S6 DT D8 
+H7 S7 S9 SJ 
+C2 CQ C6 C3 
+C9 CA C5 C4 
+CK C7 H9 CJ 
+HK HT HJ H5 
+CT C8 S8 SA 
+H8 HQ SK S5 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "14"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q.K8732.732.KT92 7643.QT4.K5.AQ87 K982.J96.QJT9.65 AJT5.A5.A864.J43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "42543425439a8899a89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  5
+N  D  4
+N  C  3
+S NT  4
+S  S  2
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  9
+W NT  9
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,4,7,222,39,125,187,319,168,74,54,130,88,105,34,36,55,509,196,31,58,36,15,24,38,226,89,19,18,190,28,12,15,38,20,13,20,209,32,11,16,26,45,20,23,173,15,17,16,136,15,14,15,74,15,9,16,15,13,23,16,23,13,45,11,35,10,24,9
+[Auction "E"]
+Pass Pass 1C =1= 1H 
+X =2= 2H 2S Pass 
+2NT Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4+ spades"]
+[Play "N"]
+D7 DK D9 D4 
+SQ S3 S2 SJ 
+H7 HQ H6 H5 
+D3 D5 DT DA 
+D2 S4 DQ D6 
+H3 H4 H9 HA 
+H2 S6 DJ D8 
+H8 S7 S9 ST 
+C2 CQ C6 C3 
+C9 CA C5 C4 
+HK HT HJ S5 
+CT C7 S8 SA 
+CK C8 SK CJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "15"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K542.8732.K52.73 .AJT9654.AJ84.QT JT8763..T93.K854 AQ9.KQ.Q76.AJ962"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "13"]
+[Score "NS -1510"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "0601106011d7dcbd7dcc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  6
+N  H  0
+N  D  1
+N  C  1
+S NT  0
+S  S  6
+S  H  0
+S  D  1
+S  C  1
+E NT 13
+E  S  7
+E  H 13
+E  D 12
+E  C 11
+W NT 13
+W  S  7
+W  H 13
+W  D 12
+W  C 12
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 32,2,1,54,80,51,104,30,72,40,250,62,156,49,907,47,400,61,596,30,19,37,90,756,41,13,388,28,9,6,440,22,7,26,201,23,24,28,65,52,11,10,37,9,11,31,147,13,13,23,16,17,19,18,27,34,10,8,17,25,7,11
+[Auction "S"]
+Pass 1C =1= Pass 1H 
+Pass 2NT =2= Pass 3S =3= 
+Pass 4C =4= Pass 5S =5= 
+Pass 6H =6= Pass 7H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 18-19 bal"]
+[Note "3: ST in H"]
+[Note "4: cue"]
+[Note "5: excl"]
+[Note "6: 2 with Q"]
+[Play "S"]
+SJ SA S2 D4 
+S3 HK H2 HA 
+C4 C2 C3 CQ 
+S6 HQ H3 H4 
+S7 S9 S4 H5 
+S8 D6 H7 HJ 
+ST SQ H8 HT 
+C5 CJ C7 CT 
+C8 CA S5 D8 
+D3 D7 D2 DJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "15"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K542.8732.K52.73 .AJT9654.AJ84.QT JT8763..T93.K854 AQ9.KQ.Q76.AJ962"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS -510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "0601106011d7dcbd7dcc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  6
+N  H  0
+N  D  1
+N  C  1
+S NT  0
+S  S  6
+S  H  0
+S  D  1
+S  C  1
+E NT 13
+E  S  7
+E  H 13
+E  D 12
+E  C 11
+W NT 13
+W  S  7
+W  H 13
+W  D 12
+W  C 12
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 17,4,7,219,280,812,290,67,68,59,124,59,231,62,556,49,1306,62,140,179,345,32,35,31,59,10,21,52,15,18,31,109,32,26,18,24,23,14,68,12,11,9,16,20,14,8,47,22,9,7,15,15,12,16
+[Auction "S"]
+2D =1= 2NT =2= Pass 3D =3= 
+Pass 3H Pass 3S =4= 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Note "1:  * multi [0:09]"]
+[Note "2: 15-18"]
+[Note "3: xfr"]
+[Note "4:  * cue i hope [0:13]"]
+[Play "N"]
+H2 H4 S6 HK 
+H3 HA S3 HQ 
+H8 HJ S7 S9 
+H7 HT C4 SQ 
+C3 CQ CK CA 
+C7 CT C5 CJ 
+S2 D4 C8 C9 
+S4 D8 S8 SA 
+D2 DJ D3 D6 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "16"]
+[West "Daisy Dillon#486481"]
+[North "Peter Law#40115"]
+[East "Hanna TUUS#149948"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A842.JT65.42.J72 5.K9872.AQ87.AK4 KJT763.A3.J5.Q86 Q9.Q4.KT963.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "6842368423659b9659b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  2
+N  C  3
+S NT  6
+S  S  8
+S  H  4
+S  D  2
+S  C  3
+E NT  6
+E  S  5
+E  H  9
+E  D 11
+E  C  9
+W NT  6
+W  S  5
+W  H  9
+W  D 11
+W  C  9
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,2,1,47,90,105,99,42,324,95,39,44,34,123,57,92,16,42,32,18,22,10,49,9,14,15,30,11,18,61,18,13,8,116,16,12,7,99,18,17,11,11,17,18,5
+[Auction "W"]
+Pass Pass 1H 2S 
+Pass 4S X Pass 
+Pass Pass 
+[Play "W"]
+HQ H5 H2 HA 
+SQ SA S5 SJ 
+S9 S2 H7 SK 
+H4 HJ HK H3 
+C3 C2 CK C8 
+D3 D2 DA D5 
+CT C7 CA C6 
+DK D4 D7 DJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "16"]
+[West "Steve Auchterlonie#97421"]
+[North "Mike Wenble#405625"]
+[East "Andy Hughes#"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A842.JT65.42.J72 5.K9872.AQ87.AK4 KJT763.A3.J5.Q86 Q9.Q4.KT963.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "6842368423659b9659b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  4
+N  D  2
+N  C  3
+S NT  6
+S  S  8
+S  H  4
+S  D  2
+S  C  3
+E NT  6
+E  S  5
+E  H  9
+E  D 11
+E  C  9
+W NT  6
+W  S  5
+W  H  9
+W  D 11
+W  C  9
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,4,7,196,51,784,67,375,231,590,231,46,50,97,45,109,191,26,20,23,14,30,115,12,18,85,24,122,22,12,482,18,37,14,147,15,11,10,114,21,12,11,24,20,13,13,25,39,13,30,9,33,9,16
+[Auction "W"]
+Pass Pass 1H 1S 
+X =1= 3S X 4S 
+Pass Pass Pass 
+[Note "1: 7+ bal"]
+[Play "W"]
+HQ H5 H2 HA 
+S9 S2 S5 SK 
+SQ SA H7 S6 
+D3 D2 DA D5 
+C5 C2 CK C6 
+C3 C7 CA C8 
+H4 H6 HK H3 
+C9 CJ C4 CQ 
+D6 S4 D7 S3 
+CT HJ H9 DJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "17"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQ8743.Q2.Q5.742 92.KT764.A7432.8 K.95.KJT98.AKQT9 JT65.AJ83.6.J653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "78488784886595365953"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  4
+S  D  8
+S  C  8
+E NT  6
+E  S  5
+E  H  9
+E  D  5
+E  C  3
+W NT  6
+W  S  5
+W  H  9
+W  D  5
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,4,2,308,39,1443,45,65,295,178,110,13,16,27,34,33,47,27,77,17,8,279,28,9,41,13,20,22,15,31,14,6,15,6,17,19,9,45,30,367,39,26,6,13,24,11,44,11,5,8,5,18,9,9,5
+[Auction "N"]
+2D =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: 3-way Multi"]
+[Play "W"]
+D6 DQ DA D8 
+C3 C2 C8 CA 
+S5 D5 D2 DK 
+C5 C4 S2 C9 
+HA H2 H6 H5 
+C6 C7 S9 CT 
+H3 HQ HK H9 
+CJ S3 D7 D9 
+S6 S4 H4 SK 
+H8 S7 D3 DT 
+SJ SA H7 CQ 
+-  SQ D4 -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "17"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQ8743.Q2.Q5.742 92.KT764.A7432.8 K.95.KJT98.AKQT9 JT65.AJ83.6.J653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "78488784886595365953"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  8
+N  C  8
+S NT  7
+S  S  8
+S  H  4
+S  D  8
+S  C  8
+E NT  6
+E  S  5
+E  H  9
+E  D  5
+E  C  3
+W NT  6
+W  S  5
+W  H  9
+W  D  5
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,7,1,1378,37,147,40,111,21,87,21,94,18,94,23,46,17,49,212,23,29,27,21,64,14,77,18,38,176,202,47,28,36,76,39,29,41,336,39,21,42,51,37,16,28,21,36,16,34,20,11,24,10,28,9,31,10
+[Auction "N"]
+1S Pass 2D =1= Pass 
+2S Pass 3C Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: GF"]
+[Play "E"]
+C8 CA C3 C2 
+S2 SK S5 S3 
+DA DT D6 D5 
+D2 D8 S6 DQ 
+S9 C9 C6 C4 
+H6 H5 HA H2 
+HK H9 H8 HQ 
+HT D9 H3 S4 
+D3 CT ST SA 
+D4 DJ SJ SQ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "18"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J65.K.KJT863.AK6 KQ98.J7.A5.J7532 AT2.AQ653.Q94.Q9 743.T9842.72.T84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "b99b8b99b81341513415"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H  9
+N  D 11
+N  C  8
+S NT 11
+S  S  9
+S  H  9
+S  D 11
+S  C  8
+E NT  1
+E  S  3
+E  H  4
+E  D  1
+E  C  5
+W NT  1
+W  S  3
+W  H  4
+W  D  1
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,4,2,110,137,69,252,38,34,57,36,246,32,20,23,31,11,10,14,164,30,23,15,19,24,10,22,17,17,15,7
+[Auction "E"]
+1C 1H Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+SK SA S3 S5 
+H7 H3 H2 HK 
+D5 DQ D7 D3 
+DA D9 D2 DT 
+SQ S2 S4 S6 
+S9 -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "18"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J65.K.KJT863.AK6 KQ98.J7.A5.J7532 AT2.AQ653.Q94.Q9 743.T9842.72.T84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "b99b8b99b81341513415"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H  9
+N  D 11
+N  C  8
+S NT 11
+S  S  9
+S  H  9
+S  D 11
+S  C  8
+E NT  1
+E  S  3
+E  H  4
+E  D  1
+E  C  5
+W NT  1
+W  S  3
+W  H  4
+W  D  1
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,7,1,167,130,33,397,24,117,21,41,99,25,148,52,50,36,9,47,102,38,9,16
+[Auction "E"]
+1C =1= 1H Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+C"]
+[Play "E"]
+S8 S2 S7 SJ 
+H7 H3 HT HK 
+DA D4 D2 D3 
+C3 -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "19"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A76.A9.A875.A853 T8.KJ543.T2.KJT2 J9532.Q62.K93.74 KQ4.T87.QJ64.Q96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "79787796876465664656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  8
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  5
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,4,2,156,39,70,18,166,145,128,33,104,44,124,109,16,17,111,263,30,26,37,15,13,16,56,8,20,34,80,25,169,27,222,36,6,11,38,17,12,14,16,19,30,6,9,15,9,23,13,15,5,10,10,13,9,12,8,6,8,9,6,7,15,13
+[Auction "S"]
+Pass Pass 1C 1H 
+1S 2C =1= 2S Pass 
+Pass Pass 
+[Note "1: sound raise"]
+[Play "W"]
+H7 H9 HK H2 
+D6 DA DT D3 
+S4 SA S8 S2 
+SQ S7 ST SJ 
+SK S6 H5 S3 
+H8 HA H3 H6 
+D4 D5 D2 DK 
+HT C3 H4 HQ 
+DJ D7 CT D9 
+DQ D8 C2 S5 
+C6 CA CJ C4 
+C9 C5 CK C7 
+CQ C8 HJ S9 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "19"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A76.A9.A875.A853 T8.KJ543.T2.KJT2 J9532.Q62.K93.74 KQ4.T87.QJ64.Q96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "79787796876465664656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  8
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  5
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,7,1,77,30,227,37,158,23,84,15,66,35,51,509,21,39,21,31,24,8,28,19,33,9,242,70,15,25,32,18,34,18,35,21,66,23,61,38,13,31,28,45,26,31,21,22,40,17,30,40,18,22,6
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2H =2= Pass 2S Pass 
+Pass Pass 
+[Note "1: 15/17"]
+[Note "2: ♠"]
+[Play "E"]
+DT D3 D4 DA 
+H5 H2 H8 HA 
+HK H6 H7 H9 
+D2 DK D6 D5 
+S8 S2 S4 SA 
+ST SJ SQ S7 
+C2 D9 DQ D7 
+CJ C4 C6 CA 
+H4 S3 SK S6 
+CT C7 C9 C8 
+CK -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "20"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A542.652.AJ72.T5 K.AJT84.Q986.K92 J98.K973.KT4.J83 QT763.Q.53.AQ764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "55663556638877a8877a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  3
+S NT  5
+S  S  5
+S  H  6
+S  D  6
+S  C  3
+E NT  8
+E  S  8
+E  H  7
+E  D  7
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,7,1,74,58,71,56,24,52,88,47,17,62,147,263,170,87,230,32,10,59,60,65,23,38,317,62,14,25,100,12,9,42,146,23,12,41,77,34,101,17,142,42,33,10,45,55,24,41,33,9,34,9,25
+[Auction "W"]
+1S Pass 2H =1= Pass 
+2S Pass 3NT Pass 
+Pass Pass 
+[Note "1: nat GF"]
+[Play "S"]
+C3 C6 CT CK 
+H3 HQ H2 H4 
+C8 CA C5 C2 
+S8 S3 S4 SK 
+H7 D3 H5 HA 
+HK D5 H6 HJ 
+D4 S6 DA D6 
+S9 S7 SA H8 
+DT ST D2 D8 
+DK C4 D7 D9 
+H9 -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "20"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A542.652.AJ72.T5 K.AJT84.Q986.K92 J98.K973.KT4.J83 QT763.Q.53.AQ764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "55663556638877a8877a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  3
+S NT  5
+S  S  5
+S  H  6
+S  D  6
+S  C  3
+E NT  8
+E  S  8
+E  H  7
+E  D  7
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,4,2,251,46,22,81,34,38,59,62,52,28,17,64,20,27,792,143,92,39,1834,39,27,18,43,123,26,15,173,84,971,155,139,48,18,22,27,16,25,15,63,24,16,21
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S2 SK S8 S3 
+H2 HA H3 HQ 
+H5 HJ HK S7 
+S4 D6 S9 ST 
+C5 C2 C3 CA 
+CT CK C8 C6 
+H6 HT H7 D3 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "21"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:765.Q73.QT963.J5 32.K9652.J52.A82 AQT94.A4.AK874.K KJ8.JT8..QT97643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "69392692926494b6494b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  3
+N  D  9
+N  C  2
+S NT  6
+S  S  9
+S  H  2
+S  D  9
+S  C  2
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C 11
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,7,1,123,36,65,71,117,51,110,33,80,27,34,42,65,88,59,16,147,105,31,23,94,21,16,26,43,19,12,19,25,21,10,7,25,29,18,20
+[Auction "N"]
+Pass Pass 1S 3C =1= 
+Pass 4C 4D Pass 
+4S Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+C3 C5 CA CK 
+S8 D3 D5 D4 
+CQ CJ C8 S4 
+SJ S5 S2 SA 
+SK S6 S3 S9 
+HJ HQ HK HA 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "21"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:765.Q73.QT963.J5 32.K9652.J52.A82 AQT94.A4.AK874.K KJ8.JT8..QT97643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "69392692926494b6494b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  3
+N  D  9
+N  C  2
+S NT  6
+S  S  9
+S  H  2
+S  D  9
+S  C  2
+E NT  6
+E  S  4
+E  H  9
+E  D  4
+E  C 11
+W NT  6
+W  S  4
+W  H  9
+W  D  4
+W  C 11
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,4,2,134,20,234,316,80,30,85,45,121,19,35,495,86,856,18,23,241,206,27,9,54,14,15,36,160,43,7,19,19,151,89,28,21,17,8,8,60,17,13,13,179,26,32,5
+[Auction "N"]
+Pass Pass 1S 3C =1= 
+Pass 4C 4D Pass 
+4S Pass Pass Pass 
+[Note "1:  * weak [0:12]"]
+[Play "W"]
+HJ HQ HK HA 
+C3 DQ D2 D4 
+SK S5 S2 SQ 
+CT C5 CA CK 
+S8 D3 D5 DK 
+HT H3 H6 H4 
+H8 H7 H2 S4 
+SJ S6 S3 SA 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "22"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A83.AKT53.K762.6 J74.2.J83.KT7542 K65.QJ6.AT95.QJ3 QT92.9874.Q4.A98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a9ab6a9ab63432734327"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 11
+N  C  6
+S NT 10
+S  S  9
+S  H 10
+S  D 11
+S  C  6
+E NT  3
+E  S  4
+E  H  3
+E  D  2
+E  C  7
+W NT  3
+W  S  4
+W  H  3
+W  D  2
+W  C  7
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 17,7,1,113,109,31,245,39,92,23,341,28,81,25,136,38,136,29,174,243,30,40,72,22,21,15,210,19,17,14,21,42,22,9,21,14,19,45,400,30,52,22,312,19,9,27,22,19,13,14,11,11,28,15,16,22,17,11
+[Auction "E"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1H =3= Pass 2D =4= 
+Pass 2NT Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: hearts"]
+[Note "3: 3♡"]
+[Note "4: art gf"]
+[Play "W"]
+H9 H3 H2 HQ 
+H4 HA C4 H6 
+H7 HK C7 HJ 
+H8 HT C2 S5 
+CA C6 C5 CQ 
+C9 D2 CK C3 
+C8 D6 CT CJ 
+D4 DK D8 D5 
+DQ D7 D3 DA 
+S2 H5 DJ D9 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "22"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:A83.AKT53.K762.6 J74.2.J83.KT7542 K65.QJ6.AT95.QJ3 QT92.9874.Q4.A98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a9ab6a9ab63432734327"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 11
+N  C  6
+S NT 10
+S  S  9
+S  H 10
+S  D 11
+S  C  6
+E NT  3
+E  S  4
+E  H  3
+E  D  2
+E  C  7
+W NT  3
+W  S  4
+W  H  3
+W  D  2
+W  C  7
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 17,4,2,48,224,70,159,20,158,50,37,32,170,36,51,15,29,26,133,399,11,53,41,36,17,5,71,28,12,6,60,28,18,5,28,9,95,26,21,16,16,12,22,7,16,29,172,57,14,31
+[Auction "E"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: ♡"]
+[Play "W"]
+ST S3 S4 SK 
+H4 H3 H2 HQ 
+H7 H5 C5 HJ 
+H8 HA C4 H6 
+H9 HK C2 S5 
+D4 DK D3 D5 
+DQ D2 D8 D9 
+S2 SA S7 S6 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "23"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T532.A2.AJ97.KQ9 KJ.KQ973.4.AT865 A6.86.KQT8532.J2 Q9874.JT54.6.743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "965b5965b52672826728"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  5
+N  D 11
+N  C  5
+S NT  9
+S  S  6
+S  H  5
+S  D 11
+S  C  5
+E NT  2
+E  S  6
+E  H  7
+E  D  2
+E  C  8
+W NT  2
+W  S  6
+W  H  7
+W  D  2
+W  C  8
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,7,1,130,24,116,174,134,113,206,32,64,20,81,248,15,48,39,39,27,57,31,22,43,13,32,14,41,11
+[Auction "S"]
+1D Pass 1S 2D =1= 
+3D Pass 3NT Pass 
+Pass Pass 
+[Note "1: 5H5C+"]
+[Play "E"]
+H7 H6 HT H2 
+H3 H8 HJ HA 
+D4 D2 D6 DA 
+C5 D3 C7 DJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "23"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T532.A2.AJ97.KQ9 KJ.KQ973.4.AT865 A6.86.KQT8532.J2 Q9874.JT54.6.743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "965b5965b52672826728"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  5
+N  D 11
+N  C  5
+S NT  9
+S  S  6
+S  H  5
+S  D 11
+S  C  5
+E NT  2
+E  S  6
+E  H  7
+E  D  2
+E  C  8
+W NT  2
+W  S  6
+W  H  7
+W  D  2
+W  C  8
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,4,2,205,44,160,66,55,24,31
+[Auction "S"]
+1D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+HK -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "24"]
+[West "Daisy Dillon#486481"]
+[North "Andy Hughes#"]
+[East "Hanna TUUS#149948"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K985.Q3.6532.KQT J4.K954.AT74.965 AQT73.J82..A8743 62.AT76.KQJ98.J2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "12"]
+[Score "NS 750"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "6b55b6b55b3168231682"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  5
+N  D  5
+N  C 11
+S NT  6
+S  S 11
+S  H  5
+S  D  5
+S  C 11
+E NT  3
+E  S  1
+E  H  6
+E  D  8
+E  C  2
+W NT  3
+W  S  1
+W  H  6
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 23,7,1,61,78,28,347,80,349,59,73,22,190,48,42,19,482,31,168,17,51,100,20,49,9,38,9,43,28,48,14,34,8,34,12,32,9,97,11,46,16,41,13,28,7,37,31,31,9,58,18,61,11,26,13,30,10,33,12,35,8,35,12,25,7,22,7,25,4
+[Auction "W"]
+1D Pass 1H 2NT =1= 
+3H 4S 5H Pass 
+Pass 5S X Pass 
+Pass Pass 
+[Note "1: 5+S and 5+C"]
+[Play "E"]
+DA S3 DK D2 
+S4 SA S2 S5 
+SJ SQ S6 S8 
+C5 C3 C2 CK 
+C6 C4 CJ CQ 
+C9 CA D9 CT 
+D7 C7 H6 H3 
+H4 C8 H7 HQ 
+H5 H2 HA S9 
+D4 S7 D8 D3 
+H9 H8 HT SK 
+DT ST DJ D5 
+HK HJ DQ D6 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "24"]
+[West "Peter Law#40115"]
+[North "Mike Wenble#405625"]
+[East "Jeremy Willans#43358"]
+[South "John Coleman#415553"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K985.Q3.6532.KQT J4.K954.AT74.965 AQT73.J82..A8743 62.AT76.KQJ98.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "6b55b6b55b3168231682"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  5
+N  D  5
+N  C 11
+S NT  6
+S  S 11
+S  H  5
+S  D  5
+S  C 11
+E NT  3
+E  S  1
+E  H  6
+E  D  8
+E  C  2
+W NT  3
+W  S  1
+W  H  6
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 21,4,2,100,41,26,123,46,545,134,269,214,130,16,238,180,76,12,16,55,29,17,11,79,36,13,23,302,35,82,30,19,20,52,39,64,14,27,21,1136,28,17,32,32,16,27,16,34,14,16,26,99,80,22,28
+[Auction "W"]
+1D Pass 1H 1S 
+2H 3D =1= 4D 4S 
+5D Pass Pass Pass 
+[Note "1: good ♠ raise"]
+[Play "N"]
+CK C5 C3 C2 
+CQ C6 C8 CJ 
+S5 S4 SA S6 
+SK SJ SQ S2 
+CT C9 CA DJ 
+D2 D4 C4 DK 
+H3 H4 H2 HA 
+HQ HK H8 H6 
+S8 H5 HJ H7 
+S9 D7 ST HT 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "25"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T976.KT7654.43.A 4.982.AJT82.J753 KQ32.A.K76.KT982 AJ85.QJ3.Q95.Q64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "6a9676a9677336573365"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  9
+N  D  6
+N  C  7
+S NT  6
+S  S 10
+S  H  9
+S  D  6
+S  C  7
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  5
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,7,4,377,194,423,66,87,159,249,95,86,21,40,27,63,13,473,22,21,29,21,20,57,15,123,38,12,8,16,28,15,10,54,11,13,14,51,13,14,30,111,26,14,16,15,14,10,9,14,21,24,16,9,23,11,55,13,8,9,8
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+Pass Pass 
+[Note "1: weak in a major"]
+[Note "2: Pass or correct"]
+[Play "W"]
+D5 D3 DA D6 
+SA S6 S4 SK 
+C4 CA C7 C2 
+H3 H4 H2 HA 
+D9 D4 D2 DK 
+DQ H5 D8 D7 
+HJ HK H8 C8 
+HQ H6 H9 C9 
+C6 S7 CJ CK 
+CQ H7 C3 CT 
+S5 S9 DT SQ 
+SJ ST DJ S2 
+S8 HT C5 S3 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "25"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T976.KT7654.43.A 4.982.AJT82.J753 KQ32.A.K76.KT982 AJ85.QJ3.Q95.Q64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "6a9676a9677336573365"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  9
+N  D  6
+N  C  7
+S NT  6
+S  S 10
+S  H  9
+S  D  6
+S  C  7
+E NT  7
+E  S  3
+E  H  3
+E  D  6
+E  C  5
+W NT  7
+W  S  3
+W  H  3
+W  D  6
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,2,81,15,77,57,40,15,39,47,137,24,171,50,59,19,22,32,381,243,6,18,230,32,62,37,182,45,13,6,47,15,18,36,29,44,23,5,20,23,14,5,21,10,12,32,74,12,53,32,28,24,34,6,138,12,23,1675,181,38,7,33,64,16,11,12,10,6,8,17
+[Auction "N"]
+Pass Pass 1C =1= Pass 
+1H Pass 1S Pass 
+2S Pass 3C =2= Pass 
+4S Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: feature invite"]
+[Play "W"]
+D5 D3 DA D6 
+D9 D4 D8 DK 
+C4 CA C7 C2 
+H3 H4 H2 HA 
+C6 H5 C3 CK 
+DQ S6 D2 D7 
+HQ HK H9 C8 
+HJ H6 H8 S2 
+CQ S7 C5 C9 
+SA HT S4 SQ 
+SJ S9 DT SK 
+S5 ST DJ S3 
+S8 H7 CJ CT 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "26"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q32.AT82.AT.J853 JT8.KQ3.762.AQ64 K74.J9.KQJ9843.T A965.7654.5.K972"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "85594854944884948849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  5
+S  H  4
+S  D  9
+S  C  4
+E NT  4
+E  S  8
+E  H  8
+E  D  4
+E  C  9
+W NT  4
+W  S  8
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,7,4,188,195,125,219,101,49,80,36,171,39,38,33,35,69,33,215,49,14,39,15,39,18,70,97,50,12,37,12
+[Auction "E"]
+1NT =1= 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "E"]
+D6 D3 D5 DA 
+S8 SK SA S2 
+C4 CT CK C3 
+CQ S4 C2 C8 
+CA H9 C7 C5 
+C6 -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "26"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q32.AT82.AT.J853 JT8.KQ3.762.AQ64 K74.J9.KQJ9843.T A965.7654.5.K972"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "8"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "85594854944884948849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  5
+N  D  9
+N  C  4
+S NT  8
+S  S  5
+S  H  4
+S  D  9
+S  C  4
+E NT  4
+E  S  8
+E  H  8
+E  D  4
+E  C  9
+W NT  4
+W  S  8
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,1,2,70,38,329,76,190,38,116,113,36,41,412,30,20,23,61,474,28,19,461,19,27,24,23,14,10,82,114,66,13,11,16,55,12,42,26,247,19,9,22,38,90,13,47,123,90,88,22,27,18,10,44,214,35,67,111,19,26,11,25,18,7,5,13,7,6,5
+[Auction "E"]
+1C 1D 1H Pass 
+1NT 2D Pass 3NT 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+HK H9 H5 HA 
+D2 D3 D5 DA 
+D6 DK C9 DT 
+D7 DQ H4 S3 
+C6 DJ H6 H2 
+S8 D9 S6 S2 
+ST D8 C2 SQ 
+H3 D4 S5 C5 
+HQ HJ H7 H8 
+SJ S4 S9 HT 
+C4 CT CK C3 
+CQ S7 SA C8 
+CA SK C7 CJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "27"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ3.2.KQ64.K8732 2.QT98764.32.T65 KQ97654.J3.A.QJ4 T8.AK5.JT9875.A9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5b46a5b46a3196231962"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 11
+N  H  4
+N  D  6
+N  C 10
+S NT  5
+S  S 11
+S  H  4
+S  D  6
+S  C 10
+E NT  3
+E  S  1
+E  H  9
+E  D  6
+E  C  2
+W NT  3
+W  S  1
+W  H  9
+W  D  6
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,7,4,118,129,437,264,121,51,79,165,225,192,35,33,235,39,12,51,17,33,14,11,54,110,15,11,24,20,13,9,27,16,11,9,11,17,13,18,17
+[Auction "S"]
+1S 2D 3D =1= Pass 
+4S Pass Pass Pass 
+[Note "1: good 3 card spade raise"]
+[Play "W"]
+S8 SA S2 S4 
+ST S3 H7 SK 
+D5 D4 D3 DA 
+D7 SJ H4 S5 
+D8 DK D2 H3 
+D9 DQ H6 HJ 
+CA C2 C5 CQ 
+HA -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "27"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ3.2.KQ64.K8732 2.QT98764.32.T65 KQ97654.J3.A.QJ4 T8.AK5.JT9875.A9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5b46a5b46a3196231962"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 11
+N  H  4
+N  D  6
+N  C 10
+S NT  5
+S  S 11
+S  H  4
+S  D  6
+S  C 10
+E NT  3
+E  S  1
+E  H  9
+E  D  6
+E  C  2
+W NT  3
+W  S  1
+W  H  9
+W  D  6
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,1,2,77,95,284,50,84,47,43,10,56,62,43,17,606,22,23,23,104,29,12,4,24,35,9,5,13,26,14,8,16,14,6,16,17,6,14,14,19,14,8,21,8,35,7,8
+[Auction "S"]
+1S 2D 3D =1= Pass 
+4S Pass Pass Pass 
+[Note "1: 3cd S 10+"]
+[Play "W"]
+HK H2 H4 H3 
+C9 C2 C5 CQ 
+S8 S3 S2 SK 
+D7 D4 D3 DA 
+ST SA H8 S4 
+D5 DK D2 C4 
+D8 DQ H6 CJ 
+CA C3 C6 S5 
+H5 SJ H7 HJ 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "28"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:64.Q743.KJ9765.K KJ85.JT5.Q84.J64 AQ932.62.32.AQ32 T7.AK98.AT.T9875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "78797787976564665646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  7
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,7,4,284,118,66,475,315,651,64,92,29,136,128,132,34,956,30,36,18,41,14,13,24,105,29,15,41,104,25,13,13,23,97,11,19,134,22,393,18,129,21,20,13,28,68,11,17,17,23,12,22,19,28,12,12,15,9,8,9,9,7,8,9
+[Auction "W"]
+Pass Pass Pass 2S =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 11-13; 5♠ and 4+♣"]
+[Play "W"]
+HK H3 H5 H2 
+C5 CK C6 C2 
+S7 S4 S5 SQ 
+HA H4 HT H6 
+ST S6 S8 SA 
+H8 D5 SJ S2 
+DA D6 D4 D2 
+C7 D7 CJ CA 
+DT D9 SK S3 
+C8 H7 C4 CQ 
+H9 DK D8 D3 
+C9 HQ HJ C3 
+CT DJ DQ S9 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "28"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:64.Q743.KJ9765.K KJ85.JT5.Q84.J64 AQ932.62.32.AQ32 T7.AK98.AT.T9875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "78797787976564665646"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D  9
+N  C  7
+S NT  7
+S  S  8
+S  H  7
+S  D  9
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  4
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  4
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,1,2,126,31,33,106,57,83,21,25,225,33,187,45,16,1146,27,17,8,63,16,24,12,66,20,10,5,21,15,10,7,20,19,6,62
+[Auction "W"]
+1C 1D 1S 1NT 
+Pass 2D Pass Pass 
+Pass 
+[Play "E"]
+HJ H2 HK H4 
+DQ D2 DT DJ 
+D4 D3 DA D5 
+H5 H6 HA H7 
+HT S2 H9 HQ 
+D8 C2 C5 DK 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "29"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ843.KT753.A4.5 K.Q94.J9632.KQ98 QT76.62.T5.AJT62 952.AJ8.KQ87.743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "8b9588b9585237452374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  9
+N  D  5
+N  C  8
+S NT  8
+S  S 11
+S  H  9
+S  D  5
+S  C  8
+E NT  5
+E  S  2
+E  H  3
+E  D  7
+E  C  4
+W NT  5
+W  S  2
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,7,4,106,160,273,66,71,38,125,176,36,43,484,21,108,35,75,24,44,18,27,75,19,82,60,18,52,16,127,21,29,23,66,39,8,62,13,136,35,27,26,16,47,11,29,10,29,25
+[Auction "N"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+CK CA C3 C5 
+H4 H2 H8 HK 
+H9 H6 HJ H3 
+D2 D5 DK DA 
+HQ S6 HA H5 
+SK SQ S2 S3 
+D3 DT DQ D4 
+C8 C2 C4 SJ 
+D6 ST S5 S4 
+C9 S7 S9 SA 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "29"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ843.KT753.A4.5 K.Q94.J9632.KQ98 QT76.62.T5.AJT62 952.AJ8.KQ87.743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "8b9588b9585237452374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  9
+N  D  5
+N  C  8
+S NT  8
+S  S 11
+S  H  9
+S  D  5
+S  C  8
+E NT  5
+E  S  2
+E  H  3
+E  D  7
+E  C  4
+W NT  5
+W  S  2
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,1,2,71,26,173,111,101,15,24,26,13,221,30,8,37,41,55,23,106,32,35,55,56,28,7,38,555,28,24,16,161,31,19,9,472,15,17,33
+[Auction "N"]
+1S Pass 3D =1= Pass 
+4S Pass Pass Pass 
+[Note "1: 4 cS, 6-8 pts"]
+[Play "E"]
+CK CA C3 C5 
+HQ H2 H8 HT 
+D3 D5 DQ DA 
+DJ DT D7 D4 
+H9 H6 HA H5 
+SK S6 S2 S3 
+CQ C2 C4 S4 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "30"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT62.98743.KJ5.A AKJ5.QJ.A8.JT962 73.T2.Q9763.K743 984.AK65.T42.Q85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65563645637886978869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  6
+N  C  3
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  3
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  9
+W NT  7
+W  S  8
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,1,2,184,28,246,50,16,25,30,16,22,27,21,11,46,128,102,20,78,28,30,22,463,33,22,9,18,19,12,16,156,21,15,61,16,18,5,13,11,16,13,6,18,70,19,6,37
+[Auction "E"]
+1NT =1= Pass 2C Pass 
+2S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+HT H5 H4 HQ 
+C7 CQ CA C9 
+D7 D2 DJ D8 
+D3 D4 DK DA 
+CK C5 H3 C6 
+DQ DT D5 S5 
+D9 S4 S2 SJ 
+D6 H6 H7 SA 
+H2 -  -  -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "30"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:QT62.98743.KJ5.A AKJ5.QJ.A8.JT962 73.T2.Q9763.K743 984.AK65.T42.Q85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65563645637886978869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  6
+N  C  3
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  3
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  9
+W NT  7
+W  S  8
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 10,7,4,151,78,186,247,83,36,265,184,268,48,416,57,30,178,85,23,28,29,16,56,26,25,21,17,27,39,29,30,58,49,16,51,116,20,14,34,13,13,13,62,16,28,17,12,18,47,94,14,17,50,28,17,10,17,10,25,9,11,9,24,11,9,9,34
+[Auction "E"]
+1C Pass 1D =1= Pass 
+1S Pass 2C Pass 
+3C Pass Pass Pass 
+[Note "1: no 5-card major"]
+[Play "S"]
+D6 D2 DJ DA 
+C3 C5 CA CJ 
+D3 D4 DK D8 
+D7 DT D5 C9 
+C4 C8 H9 CT 
+H2 H5 H3 HQ 
+HT HA H4 HJ 
+C7 HK H7 S5 
+CK CQ S6 C2 
+DQ S4 H8 C6 
+S3 S8 S2 SA 
+S7 S9 ST SK 
+D9 H6 SQ SJ 
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "31"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J9752.T5.Q643.Q4 T3.J873.J2.AJ975 Q84.AQ9642.875.3 AK6.K.AKT9.KT862"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "35631356319879c9879c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  3
+N  C  1
+S NT  3
+S  S  5
+S  H  6
+S  D  3
+S  C  1
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C 12
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,1,2,100,115,150,472,38,190,35,31,31,126,71,54,11,39,23,7,12,27,10,8,16,79,20,19,17,22,54,15,18,13,36,9,55,16,52,18,21,143,21,37,18,60,25,41
+[Auction "S"]
+2H =1= X Pass 2NT =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: leb"]
+[Play "S"]
+H6 HK H5 H3 
+C3 CK C4 C5 
+D8 CT CQ CA 
+D5 DA D3 DJ 
+H2 C8 S7 C9 
+H4 C2 D6 CJ 
+D7 C6 HT C7 
+H9 D9 DQ D2 
+HQ -  D4 H7 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "31"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J9752.T5.Q643.Q4 T3.J873.J2.AJ975 Q84.AQ9642.875.3 AK6.K.AKT9.KT862"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "35631356319879c9879c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  3
+N  C  1
+S NT  3
+S  S  5
+S  H  6
+S  D  3
+S  C  1
+E NT  9
+E  S  8
+E  H  7
+E  D  9
+E  C 12
+W NT  9
+W  S  8
+W  H  7
+W  D  9
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,7,4,241,309,133,40,42,50,208,54,28,152,133,60,18,35,45,42,14,490,72,24,18,57,25,27,24,63,11,42,47,29,12,41,38,150,12,46,54,24,28,33,19,33,19,77,17,22
+[Auction "S"]
+2D =1= 3NT Pass Pass 
+Pass 
+[Note "1: weak two in either major"]
+[Play "N"]
+HT H3 HA HK 
+S2 S3 S4 SA 
+C4 C5 C3 CK 
+CQ CA D8 CT 
+D3 CJ D5 C8 
+S5 C9 H6 C2 
+S7 C7 H2 C6 
+DQ DJ D7 D9 
+H5 H7 H9 S6 
+D4 H8 HQ DT 
+-  -  S8 -  
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "32"]
+[West "Peter Law#40115"]
+[North "Hanna TUUS#149948"]
+[East "Jeremy Willans#43358"]
+[South "Daisy Dillon#486481"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQ65.T96.Q.97543 KT4.KQJ732.983.8 82.85.AKJT62.AQT J973.A4.754.KJ62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "76588765885685456854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  5
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  8
+E  D  5
+E  C  4
+W NT  5
+W  S  6
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,1,2,82,34,72,70,143,39,42,80,22,12,50,10,208,9,34,16,30,9,204,21,28,6,39,45,14,11,47,21,6,14,9,15,9,6,28,14,15,8,32,21,10
+[Auction "W"]
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+DA D4 DQ D9 
+DK D5 C5 D8 
+DJ D7 C3 D3 
+CA C2 C7 C8 
+CT CK C4 S4 
+H5 H4 H6 HK 
+H8 HA H9 H2 
+S2 SJ SA ST 
+S8 -  S5 SK 
+*
+
+[Event "18 Jun Wenble vs Law"]
+[Site "RealBridge"]
+[Date "2024.06.18"]
+[Board "32"]
+[West "Mike Wenble#405625"]
+[North "Andy Hughes#"]
+[East "John Coleman#415553"]
+[South "Steve Auchterlonie#97421"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQ65.T96.Q.97543 KT4.KQJ732.983.8 82.85.AKJT62.AQT J973.A4.754.KJ62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Law team"]
+[VisitTeam "Wenble team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "76588765885685456854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  5
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  8
+E  D  5
+E  C  4
+W NT  5
+W  S  6
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,7,4,68,258,69,386,107,201,75,117,94,27,30,15,32,12,48,113,445,30,13,234,35,13,28,30,112,63,21,53,30,19,17,17,9,18,16,105,19,18,21,15,25,10,9,13,15,12,13,45,19,10,8,12,15,11,8,8,16,9,8
+[Auction "W"]
+Pass Pass 2D =1= 3D 
+Pass Pass Pass 
+[Note "1:  * multi [0:09]"]
+[Play "W"]
+HA H6 H2 H5 
+H4 H9 HK H8 
+C2 C3 C8 CA 
+S3 SQ SK S2 
+C6 HT HQ DT 
+D4 DQ D3 D2 
+S7 SA S4 S8 
+SJ S5 ST D6 
+D5 C4 D8 DA 
+D7 C5 D9 DK 
+CJ C7 H3 CT 
+CK C9 H7 CQ 
+S9 S6 HJ DJ 

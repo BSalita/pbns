@@ -1,0 +1,4012 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "1"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT832.KJ42.A52.K 975.T65.K976.T64 Q4.AQ7.Q4.AJ9732 AK6.983.JT83.Q85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aaa899aa893335333353"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  3
+W NT  3
+W  S  3
+W  H  3
+W  D  5
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,226,34,112,102,32,30,252,75,33,28,80,33,17,266,42,28,117,34,11,10,23,22,12,32,112,36,10,8,55,24,12,14,134,22,15,7,15,20,9,23,22,58,8,6
+[Auction "N"]
+1S Pass 2C Pass 
+2H Pass 3D =1= Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+D6 DQ D3 D2 
+C4 C2 C5 CK 
+H5 HA H3 H2 
+C6 CA C8 S2 
+CT C9 CQ S3 
+D7 D4 DJ DA 
+H6 HQ H9 H4 
+S5 CJ S6 D5 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "1"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT832.KJ42.A52.K 975.T65.K976.T64 Q4.AQ7.Q4.AJ9732 AK6.983.JT83.Q85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aaa899aa893335333353"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S 10
+S  H 10
+S  D  8
+S  C  9
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  3
+W NT  3
+W  S  3
+W  H  3
+W  D  5
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,110,50,60,64,42,30,188,39,93,33,271,43,33,27,34,37,203,52,57,27,279,35,14,37,25,27,16,53,25,46,25,22,81,50,42,20,164
+[Auction "N"]
+1S Pass 2C Pass 
+2H Pass 3C Pass 
+3D Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+D6 DQ D8 D2 
+C4 C2 C5 CK 
+H5 HQ H3 H2 
+C6 CA C8 S2 
+CT C3 CQ S3 
+-  -  DJ -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "2"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9632.72.Q865.JT5 Q.A98.T9743.KQ63 KJT85.T643.AKJ.9 A74.KQJ5.2.A8742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3725137251a5a8ca5a8c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  5
+N  C  1
+S NT  3
+S  S  7
+S  H  2
+S  D  5
+S  C  1
+E NT 10
+E  S  5
+E  H 10
+E  D  8
+E  C 12
+W NT 10
+W  S  5
+W  H 10
+W  D  8
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 20,0,3,72,121,249,298,23,195,41,90,20,193,66,89,76,20,72,257,17,22,29,34,7,8,92,24,7,7,22,37,18,8,15,15,16,31,25,34,7,8,13,12,17,20,9,37,8,7,16,12,11
+[Auction "E"]
+Pass 1S 1NT =1= 2S 
+3C 3S 5C Pass 
+Pass Pass 
+[Play "S"]
+DA D2 D8 D3 
+H3 H5 H7 HA 
+C9 C2 C5 CK 
+S5 C4 CT CQ 
+SK SA S6 SQ 
+S8 S4 S2 C3 
+H4 HJ H2 H8 
+ST S7 S3 C6 
+DJ C7 D5 D4 
+-  CA CJ D7 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "2"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:9632.72.Q865.JT5 Q.A98.T9743.KQ63 KJT85.T643.AKJ.9 A74.KQJ5.2.A8742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3725137251a5a8ca5a8c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D  5
+N  C  1
+S NT  3
+S  S  7
+S  H  2
+S  D  5
+S  C  1
+E NT 10
+E  S  5
+E  H 10
+E  D  8
+E  C 12
+W NT 10
+W  S  5
+W  H 10
+W  D  8
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 20,2,1,110,74,65,328,119,258,134,55,200,99,28,16,30,157,30,41,83,27,45,44,41,98,25,13,51,23,26,21,29,25,30,24,28,28,22,14,77,21,23,11,36,11,22,169
+[Auction "E"]
+Pass 1S 2C Pass 
+2S =1= Pass 3S =2= Pass 
+5C Pass Pass Pass 
+[Play "N"]
+S3 SQ SK SA 
+S2 C3 S8 S4 
+C5 CK C9 C2 
+H7 H8 H4 HK 
+S6 C6 S5 S7 
+CT CQ ST C4 
+H2 H9 H3 HQ 
+CJ D3 DJ CA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "3"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:.JT532.J6542.543 T7.A986.KQ97.KQ7 KJ963.Q4.AT8.J86 AQ8542.K7.3.AT92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "3255332553aa88aab88a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  5
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  5
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D  8
+E  C 10
+W NT 10
+W  S 11
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 4,2,1,136,56,140,157,61,95,38,77,45,13,125,53,12,23,243,32,27,9,66,17,47,9,18,22,13,9,28,185,58,10,158,74,19,9,33,27,37,9,48,46,17,26,41,199,22,16,24,24,14,9,16
+[Auction "S"]
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+DQ DA D3 D2 
+H6 HQ HK H2 
+CQ C6 C2 C4 
+CK C8 CT C3 
+C7 CJ CA C5 
+S7 S3 C9 D4 
+ST S6 SA H3 
+HA H4 H7 HT 
+H9 S9 S2 HJ 
+DK D8 S4 D5 
+H8 SJ S5 H5 
+D7 -  -  -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "3"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:.JT532.J6542.543 T7.A986.KQ97.KQ7 KJ963.Q4.AT8.J86 AQ8542.K7.3.AT92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "3255332553aa88aab88a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  5
+N  D  5
+N  C  3
+S NT  3
+S  S  2
+S  H  5
+S  D  5
+S  C  3
+E NT 10
+E  S 10
+E  H  8
+E  D  8
+E  C 10
+W NT 10
+W  S 11
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,143,83,19,68,37,399,85,354,48,36,31,257,46,705,487,65,26,28,58,30,62,840,26,15,36,365,32,16,15,49,29,20,11,24,28,26,10,166,17,22,37,166,52,47,35,456,24,12,48,76,22,23,9,26
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 4D Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+HJ H6 H4 HK 
+D2 S7 S3 SA 
+H3 HA HQ H7 
+C3 CK C6 C2 
+C4 CQ C8 C9 
+C5 C7 CJ CA 
+D4 DK DA D3 
+H2 ST SJ SQ 
+D5 D7 S6 CT 
+H5 H8 SK S2 
+-  -  S9 -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "4"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K7432.432.Q86.T4 Q65.Q865.K52.862 AJ.JT7.AJT4.AQ53 T98.AK9.973.KJ97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "78687786986564554545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,2,1,107,32,37,270,167,40,39,76,38,34,72,78,73,41,10,62,21,20,8,29,20,21,10,89,110,44,12,43,20,19,24,34,37,45,26,12,17,12,37,20,27,27,16,193,31,21,97,47,66,50,40,62,25,8,17,10,12,9,16,10,19,17,10
+[Auction "W"]
+Pass Pass Pass 2D =1= 
+Pass 2H Pass 2S =2= 
+Pass Pass Pass 
+[Play "W"]
+HA H2 H8 H7 
+HK H3 H5 HT 
+H9 H4 HQ HJ 
+CK C4 C6 CQ 
+CJ CT C8 CA 
+C7 S2 C2 C3 
+S8 S3 S5 SJ 
+S9 S4 S6 SA 
+D3 D6 DK DJ 
+ST SK H6 C5 
+D7 DQ D2 D4 
+D9 D8 D5 DA 
+C9 S7 SQ DT 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "4"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K7432.432.Q86.T4 Q65.Q865.K52.862 AJ.JT7.AJT4.AQ53 T98.AK9.973.KJ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "78687786986564554545"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  8
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  9
+S  C  8
+E NT  6
+E  S  5
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  5
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,290,38,101,83,30,177,13,26,547,140,41,51,22,40,41,30,185,52,18,23,77,20,14,27,33,15,13,15,22,11,27,18,23,54,109,12,29,40,33,12,212,34,25,15,23,28,13,15,24,14,35,26,16,17,8,12,13,11,6,10
+[Auction "W"]
+1D =1= Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+S3 S5 SA S9 
+S2 SQ SJ S8 
+C4 C2 C3 CJ 
+H2 H5 H7 HA 
+H3 H6 HJ HK 
+H4 HQ HT H9 
+CT H8 D4 D7 
+D6 C6 CA C7 
+D8 C8 CQ CK 
+S4 S6 C5 C9 
+DQ DK DA D3 
+S7 D2 DJ D9 
+SK D5 DT ST 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "5"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:854.A532.KJ92.75 AKT32.J.A54.QJT4 QJ97.QT74.3.K832 6.K986.QT876.A96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55644556448879988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,2,1,47,75,24,114,23,75,29,63,83,92,184,275,25,189,117,11,17,43,26,16,9,27,12,23,10,30,16,21,8,49,25,12,18,32,19,20,20,35,15,261,33,218,34,31,27,44,19,22,13,23,15,14,29,16,21,7,11,11,17,8,13
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2C Pass Pass 
+Pass 
+[Play "S"]
+H7 H6 HA HJ 
+D3 D6 D2 DA 
+S7 S6 S4 SA 
+S9 D7 S5 SK 
+SQ C6 S8 S2 
+H4 HK H2 D4 
+HQ H8 H3 C4 
+SJ C9 D9 S3 
+HT H9 H5 CT 
+C2 CA DJ ST 
+C3 D8 DK D5 
+CK DT C5 CJ 
+C8 DQ C7 CQ 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "5"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:854.A532.KJ92.75 AKT32.J.A54.QJT4 QJ97.QT74.3.K832 6.K986.QT876.A96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55644556448879988799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  6
+S  D  4
+S  C  4
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  9
+W NT  8
+W  S  8
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,0,3,161,45,46,60,64,21,48,36,109,51,134,15,33,188,57,26,81,325,46,59,33,13,19,14,49,32,38,6,18,16,27,8,12,15,21,17,7,14,14,22,23,17,15,14,57,13,8,19,19,28,38,7,9,19,12,6,6,16,12,6,6
+[Auction "N"]
+Pass 1S Pass 1NT =1= 
+Pass 2C Pass Pass 
+Pass 
+[Play "S"]
+D3 D8 D9 DA 
+HQ HK HA HJ 
+C2 C6 C5 C4 
+H4 H6 H2 CT 
+S7 S6 S4 SA 
+S9 D6 S5 SK 
+SJ C9 S8 S2 
+H7 H8 H3 CQ 
+SQ CA D2 S3 
+HT H9 H5 CJ 
+C3 D7 DJ ST 
+CK DT C7 D4 
+C8 DQ DK D5 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "6"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKQ874.T9.KJ97.J 965.J84.A8.AQ973 JT.Q76.632.K8542 32.AK532.QT54.T6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "78475784755586854867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  4
+S  D  7
+S  C  5
+E NT  5
+E  S  5
+E  H  8
+E  D  6
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,136,104,58,163,35,29,46,34,530,167,126,82,34,52,126,30,610,64,157,46,9,116,35,23,31,165,32,15,26,20,31,102,24,25,26,19,29,28,50,17,43,874,29,23,21,315,34,39,9,21,66,123,33,35,19,18,15
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2C 
+X Pass Pass 2D 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+S5 ST S3 S4 
+DA D2 D5 D9 
+S6 SJ S2 S7 
+D8 D3 D4 DJ 
+S9 C2 H5 SA 
+CA C4 C6 CJ 
+H4 H6 HK H9 
+C3 D6 DQ DK 
+HJ H7 H2 HT 
+H8 HQ HA D7 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "6"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AKQ874.T9.KJ97.J 965.J84.A8.AQ973 JT.Q76.632.K8542 32.AK532.QT54.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "78475784755586854867"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  4
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  4
+S  D  7
+S  C  5
+E NT  5
+E  S  5
+E  H  8
+E  D  6
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 17,0,3,84,41,56,82,362,119,40,211,29,120,37,37,68,32,21,17,23,20,26,116,40,114,31,279,22,31,63,780,43,29,45,620,42,13,17,25,13,15,19,22,29,23,28,30,17,16,15,201,25,24,14,29,15,15,21,14,28,26,16,23,11,12,10
+[Auction "E"]
+Pass Pass 1H 2S 
+4H Pass Pass X 
+Pass Pass Pass 
+[Play "N"]
+SA S5 SJ S3 
+SQ S6 ST S2 
+SK S9 D2 H2 
+CJ CQ CK CT 
+DJ DA D3 DT 
+H9 H4 H6 HA 
+HT H8 H7 HK 
+S4 CA C2 C6 
+S7 C9 C4 D4 
+S8 C7 C8 H5 
+DK D8 D6 DQ 
+D9 HJ HQ D5 
+D7 C3 C5 H3 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "7"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T8.AQ32.T974.J87 AQJ3.875.2.KQ643 K976.KJT9.KQ653. 542.64.AJ8.AT952"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "559a3559a37843a7843a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  9
+N  D 10
+N  C  3
+S NT  5
+S  S  5
+S  H  9
+S  D 10
+S  C  3
+E NT  7
+E  S  8
+E  H  4
+E  D  3
+E  C 10
+W NT  7
+W  S  8
+W  H  4
+W  D  3
+W  C 10
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 20,2,1,111,41,46,58,83,404,134,43,28,27,83,126,35,43,102,44,30,27,52,35,54,17,129,25,26,17,47,40,12,20,41,52,14,9,36,54,13,9,14,34,17,8
+[Auction "S"]
+1D Pass 1H X 
+4C =1= 5C X Pass 
+Pass Pass 
+[Play "N"]
+D7 D2 DQ DA 
+S8 SJ SK S2 
+H3 H5 HJ H4 
+HQ H7 H9 H6 
+ST SA S6 S4 
+C7 CK D6 C2 
+C8 CQ HT C5 
+CJ C3 HK CA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "7"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T8.AQ32.T974.J87 AQJ3.875.2.KQ643 K976.KJT9.KQ653. 542.64.AJ8.AT952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "559a3559a37843a7843a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  9
+N  D 10
+N  C  3
+S NT  5
+S  S  5
+S  H  9
+S  D 10
+S  C  3
+E NT  7
+E  S  8
+E  H  4
+E  D  3
+E  C 10
+W NT  7
+W  S  8
+W  H  4
+W  D  3
+W  C 10
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,0,3,135,141,50,24,285,110,55,17,43,337,34,27,137,30,11,8,172,23,24,25,326,52,6,11,68,30,73,19,108,21,8,10,39,52,16,7,23,20,12,9,32,18,13,19,17,22,11,7,10,18,5,17,24
+[Auction "S"]
+1D Pass 1H X 
+3H Pass Pass Pass 
+[Play "E"]
+CK H9 C2 C7 
+D2 DK DA D4 
+CQ HT CT CJ 
+H7 HK H4 H2 
+H5 HJ H6 H3 
+H8 DQ D8 D7 
+C4 S6 CA C8 
+C3 D3 C9 HQ 
+SA S7 S2 S8 
+SQ SK S4 ST 
+S3 D5 DJ D9 
+-  -  C5 -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "8"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:32.T9.AKJT982.43 KQ974.8.Q76.KJ62 T.KQJ73.543.Q987 AJ865.A6542..AT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "40473404749d8699d869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  0
+N  H  4
+N  D  7
+N  C  3
+S NT  4
+S  S  0
+S  H  4
+S  D  7
+S  C  4
+E NT  9
+E  S 13
+E  H  8
+E  D  6
+E  C  9
+W NT  9
+W  S 13
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 23,2,1,156,303,128,170,374,30,95,46,32,15,25,82,34,26,140,27,20,10,54,12,22,34,64,22,14,14,43,20,13,20,49,28,13,9,22,11,15,10,56,15,15,11,63,21
+[Auction "W"]
+1S 4D 4S 5D 
+5H Pass 5S Pass 
+Pass Pass 
+[Play "N"]
+DK D6 D3 S5 
+S3 S4 ST SA 
+S2 SK D4 S6 
+C4 C2 C8 CT 
+C3 C6 C7 CA 
+HT H8 H3 HA 
+H9 S7 H7 H2 
+D2 CK C9 C5 
+-  CJ CQ -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "8"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:32.T9.AKJT982.43 KQ974.8.Q76.KJ62 T.KQJ73.543.Q987 AJ865.A6542..AT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "40473404749d8699d869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  0
+N  H  4
+N  D  7
+N  C  3
+S NT  4
+S  S  0
+S  H  4
+S  D  7
+S  C  4
+E NT  9
+E  S 13
+E  H  8
+E  D  6
+E  C  9
+W NT  9
+W  S 13
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 18,0,3,94,125,38,111,41,80,17,112,29,65,66,25,32,35,42,27,48,11,45,28,23,50,22,24,14,18,26,18,18,18,16,29,16,17,52,33,17,9,58,23,25,17,110,91,19,6,15,23,15,7,12,6,13,18,24,13,9,6
+[Auction "W"]
+1S 2D 4S Pass 
+Pass Pass 
+[Play "N"]
+DA D6 D3 S5 
+S2 SK ST S6 
+D2 D7 D4 SA 
+S3 SQ H3 SJ 
+D8 DQ D5 S8 
+HT H8 H7 HA 
+H9 S4 HJ H2 
+C4 C2 C8 CT 
+D9 S7 HQ H6 
+DT S9 C7 H5 
+C3 C6 C9 CA 
+DJ CK CQ C5 
+DK CJ HK H4 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "9"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K.Q96.KJ972.J853 QJ765.A52.Q84.T6 AT943.KJ8.T.A942 82.T743.A653.KQ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "77789787896555465554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  9
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  9
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  4
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,121,148,53,47,32,33,191,62,28,29,440,40,17,21,195,423,41,36,63,33,110,46,292,47,29,30,119,45,35,33,67,18,17,186,47,94,30,16,64,30,28,50,17,23,39,8,39,100,30
+[Auction "N"]
+1D Pass 1S Pass 
+2C Pass 2H =1= Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S5 S3 S8 SK 
+C6 C9 CK C5 
+SJ SA S2 D2 
+CT CA C7 C8 
+S6 C2 CQ C3 
+DQ DT D3 DJ 
+SQ S4 D6 H6 
+HA H8 H4 H9 
+H2 HK H3 -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "9"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K.Q96.KJ972.J853 QJ765.A52.Q84.T6 AT943.KJ8.T.A942 82.T743.A653.KQ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "77789787896555465554"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  7
+N  D  8
+N  C  9
+S NT  7
+S  S  8
+S  H  7
+S  D  8
+S  C  9
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  4
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,154,24,67,144,253,30,341,43,85,26,74,28,25,151,40,22,27,101,20,32,12,27,30,34,177,25,15,34,201,36,7,7,14,64,22,9,61,21,21,13,58,35,8,12,420,34,15,13,18,37,11,6,11,29,5,12,7,32,6,11,6,7,6,10
+[Auction "N"]
+Pass Pass 1S 2D =1= 
+X Pass 2S Pass 
+2NT Pass Pass Pass 
+[Play "E"]
+D4 DT DA D2 
+D8 S3 D3 D7 
+DQ S4 D5 DK 
+H2 HJ H4 H6 
+C6 CA C7 C3 
+CT C2 CQ C5 
+S7 S9 D6 D9 
+S5 ST S8 SK 
+S6 C4 CK C8 
+SJ SA S2 H9 
+H5 C9 H3 CJ 
+SQ H8 H7 DJ 
+HA HK HT HQ 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "10"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K42.8543.973.AQ4 Q85.A2.AK82.KJT6 .KJT976.QJT64.95 AJT9763.Q.5.8732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "8"]
+[Score "NS -800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "42873428736b34a6b34a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  8
+N  D  7
+N  C  3
+S NT  4
+S  S  2
+S  H  8
+S  D  7
+S  C  3
+E NT  6
+E  S 11
+E  H  3
+E  D  4
+E  C 10
+W NT  6
+W  S 11
+W  H  3
+W  D  4
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 22,0,3,149,118,106,260,99,125,101,32,13,48,76,10,17,30,27,7,31,115,15,33,20,24,39,20,16,29,22,25,39,1354,31,19,19,27,37,38,15,20,32,41,97,30,19,19,15
+[Auction "E"]
+1C =1= 1H 1S 3H 
+3S Pass 4S Pass 
+Pass 5H Pass Pass 
+X Pass Pass Pass 
+[Play "W"]
+D5 D3 DK DT 
+S3 D7 DA D4 
+HQ D9 D2 D6 
+C8 CQ CK C5 
+C2 CA CJ C9 
+S6 H3 H2 H9 
+S7 H4 HA HK 
+-  -  S5 -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "10"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K42.8543.973.AQ4 Q85.A2.AK82.KJT6 .KJT976.QJT64.95 AJT9763.Q.5.8732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "42873428736b34a6b34a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  8
+N  D  7
+N  C  3
+S NT  4
+S  S  2
+S  H  8
+S  D  7
+S  C  3
+E NT  6
+E  S 11
+E  H  3
+E  D  4
+E  C 10
+W NT  6
+W  S 11
+W  H  3
+W  D  4
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 23,2,1,197,94,272,320,400,43,108,22,135,26,63,114,49,37,595,26,41,26,112,82,28,44,49,40,9,102,111,82,23,7,35,20,16,18,94,33,22,9,23,23,17,8,20,23,26,9,25,51,23,15
+[Auction "E"]
+1C 2NT =1= 3H =2= 4H 
+4S 5H 5S Pass 
+Pass Pass 
+[Play "S"]
+DQ D5 D3 DA 
+H6 SA S2 S5 
+H7 SJ SK SQ 
+HK HQ H4 HA 
+H9 ST S4 S8 
+C5 C2 C4 CJ 
+D4 C3 D7 DK 
+HJ S3 H3 H2 
+C9 C7 CA C6 
+D6 C8 CQ CK 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "11"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J632.AQ.J52.QT72 9.KT6542.KT8.953 AQ74.J87.943.AKJ KT85.93.AQ76.864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "77667776685577555775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 13,0,3,200,74,75,89,32,37,220,199,20,20,21,34,38,29,452,26,21,44,22,77,44,10,596,36,59,42,23,36,14,17,764,34,7,20,35,25,15,14,18,52,44,22,20,23,16,7,20,13,16,7,19,14,23,7,17,18,18,9
+[Auction "S"]
+1S Pass 3S Pass 
+Pass Pass 
+[Play "W"]
+H9 HQ HK H7 
+H3 HA H6 H8 
+S5 S2 S9 SA 
+S8 SJ H5 HJ 
+ST S3 H4 S7 
+SK S6 C3 S4 
+DA D2 D8 D9 
+D7 D5 DK D3 
+D6 DJ HT SQ 
+C4 C2 C5 CA 
+C6 C7 C9 CK 
+C8 CQ H2 CJ 
+DQ CT DT D4 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "11"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J632.AQ.J52.QT72 9.KT6542.KT8.953 AQ74.J87.943.AKJ KT85.93.AQ76.864"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "77667776685577555775"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 8,2,1,366,59,66,210,130,66,115,27,25,74,226,269,46,25,132,60,92,50,267,46,43,15,158,28,15,9,88,39,7,32,768,37,14,19,24,34,10,32,91,33,9,177,123,51,13,14,148,30,38,17,26,39,6,18,19,12,11,28,16,7,14,6
+[Auction "S"]
+1C Pass 1D =1= 2H 
+X Pass 2S Pass 
+Pass Pass 
+[Play "E"]
+C5 CJ C4 CQ 
+S9 SQ SK S2 
+DK D3 D6 DJ 
+C9 CK C6 C2 
+H5 SA S5 S3 
+C3 CA C8 C7 
+H2 H7 H9 HA 
+H4 D4 D7 CT 
+DT D9 DQ D2 
+H6 S4 S8 SJ 
+D8 S7 DA D5 
+HK H8 H3 HQ 
+HT HJ ST S6 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "12"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T8.AJ8532.Q.A975 AJ942.QT.953.Q82 Q53.K64.T42.KT43 K76.97.AKJ876.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "22929429495949459494"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  9
+N  D  2
+N  C  9
+S NT  4
+S  S  2
+S  H  9
+S  D  4
+S  C  9
+E NT  5
+E  S  9
+E  H  4
+E  D  9
+E  C  4
+W NT  5
+W  S  9
+W  H  4
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,294,50,111,110,74,24,58,31,44,59,70,21,19,23,29,7,24,19,36,20,148,24,22,9,86,27,14,11,80,24,10,35,11,6,93,30,18,46,10,36,19,22,7,4
+[Auction "W"]
+1D =1= 2H 2S Pass 
+3S Pass Pass Pass 
+[Play "S"]
+H4 H7 HA HT 
+HK H9 H2 HQ 
+C3 C6 CA C2 
+CK CJ C5 C8 
+D2 DA DQ D3 
+S3 SK S8 S2 
+SQ S6 ST SJ 
+D4 D6 H3 D9 
+S5 S7 H5 SA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "12"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T8.AJ8532.Q.A975 AJ942.QT.953.Q82 Q53.K64.T42.KT43 K76.97.AKJ876.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "22929429495949459494"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  9
+N  D  2
+N  C  9
+S NT  4
+S  S  2
+S  H  9
+S  D  4
+S  C  9
+E NT  5
+E  S  9
+E  H  4
+E  D  9
+E  C  4
+W NT  5
+W  S  9
+W  H  4
+W  D  9
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,96,58,59,90,81,51,130,35,192,18,22,18,186,168,27,20,89,24,94,22,49,23,27,16,145,53,28,25,85,73,49,19,34,11,23,26,24,16,29,20,12,47,11,260,138,23,15,19
+[Auction "W"]
+1D 1H 1S 2H 
+2S 3H Pass Pass 
+3S Pass Pass Pass 
+[Play "S"]
+H4 H7 HA HQ 
+CK C6 C5 C2 
+CT CJ CA C8 
+HK H9 HJ HT 
+C4 D6 C9 CQ 
+S3 SK S8 S2 
+SQ S6 ST SJ 
+S5 S7 H3 S9 
+D2 DA DQ D3 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "13"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q52.A92.T8.AKQJ8 AKT96.Q75.K762.5 J3.J86.AQJ943.T4 874.KT43.5.97632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "96789967893753337533"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  6
+S  H  7
+S  D  8
+S  C  9
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  3
+W NT  3
+W  S  7
+W  H  5
+W  D  3
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,65,58,70,59,54,24,116,40,20,14,16,181,43,58,153,27,7,34,14,14,8,204,12,35,7,58,13,21,6,19,14,71,8,10,25,18,13,12,22,9,90,33,15,23,7,17,50,18,8,17,25,13,11,6,19,7,20,6,7,15,4,6
+[Auction "N"]
+1C 1S 2D 2S 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S6 S3 S7 SQ 
+C5 CT C2 C8 
+H5 C4 C3 CJ 
+H7 SJ C9 CA 
+S9 H6 C7 CK 
+D2 H8 C6 CQ 
+D6 D3 D5 DT 
+D7 DA H3 D8 
+HQ HJ H4 HA 
+ST D4 HT H9 
+SK D9 HK H2 
+SA DJ S8 S2 
+DK DQ S4 S5 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "13"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q52.A92.T8.AKQJ8 AKT96.Q75.K762.5 J3.J86.AQJ943.T4 874.KT43.5.97632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "96789967893753337533"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  7
+N  D  8
+N  C  9
+S NT  9
+S  S  6
+S  H  7
+S  D  8
+S  C  9
+E NT  3
+E  S  7
+E  H  5
+E  D  3
+E  C  3
+W NT  3
+W  S  7
+W  H  5
+W  D  3
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 26,2,1,93,210,58,99,449,93,122,56,127,29,51,39,259,29,252,149,31,8,150,28,17,9,156,40,31,52,36,48,19,18,19,25,19,51,23,20,25,23,173,41,17,43,34,32,66,12,18,66,24,25
+[Auction "N"]
+1NT 2S =1= 3S =2= Pass 
+5C Pass 5D =3= Pass 
+5H Pass 6D Pass 
+Pass Pass 
+[Play "W"]
+S7 S2 SK SJ 
+S8 S5 SA S3 
+S4 SQ S6 D9 
+C2 CA C5 C4 
+D5 D8 D2 D3 
+H4 DT D6 DQ 
+C3 CK D7 CT 
+H3 H2 ST D4 
+HT H9 DK DA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "14"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:542.AQJ863.T9.96 JT876.5.KQJ2.QT3 A3.K.6543.KJ8542 KQ9.T9742.A87.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "44747447478969659596"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  4
+N  C  7
+S NT  4
+S  S  4
+S  H  7
+S  D  4
+S  C  7
+E NT  8
+E  S  9
+E  H  6
+E  D  9
+E  C  6
+W NT  5
+W  S  9
+W  H  5
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,140,237,88,30,37,114,142,71,73,24,347,81,12,7,16,19,24,30,7,6,22,39,38,16,13,19,57,41,16,13,35,14,8,9,13,28,67,30,23,26,7,16,15,13,8,35,16,83,7,30
+[Auction "E"]
+2S =1= Pass 3S =2= Pass 
+Pass Pass 
+[Play "S"]
+HK H2 H6 H5 
+D4 DA D9 D2 
+C4 CA C9 C3 
+CJ C7 C6 CT 
+D3 D7 DT DK 
+SA S9 S2 S6 
+D5 D8 S4 DJ 
+C2 H4 HA S7 
+CK SQ H3 CQ 
+D6 H7 H8 S8 
+S3 SK HJ DQ 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "14"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:542.AQJ863.T9.96 JT876.5.KQJ2.QT3 A3.K.6543.KJ8542 KQ9.T9742.A87.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "44747447478969659596"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  7
+N  D  4
+N  C  7
+S NT  4
+S  S  4
+S  H  7
+S  D  4
+S  C  7
+E NT  8
+E  S  9
+E  H  6
+E  D  9
+E  C  6
+W NT  5
+W  S  9
+W  H  5
+W  D  9
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,150,70,61,67,96,36,33,20,252,98,208,22,23,18,83,172,25,20,26,82,127,37,98,35,16,19,16,20,39,23,47,45,46,17,33,23,17,29,173,30,7,27,19,29,16,9,28,148,26,9
+[Auction "E"]
+Pass 1C Pass 2D =1= 
+Pass 2H =2= Pass Pass 
+2S 3C 3S Pass 
+Pass Pass 
+[Play "S"]
+HK H2 HA H5 
+C2 H4 HQ S6 
+C8 CA C6 C3 
+CJ C7 C9 CT 
+C4 SK H3 CQ 
+SA SQ S2 S7 
+S3 S9 S4 SJ 
+C5 H7 S5 ST 
+D6 H9 H6 S8 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "15"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ65.QT.K75.QJ53 T7.K943.94.AT982 842.86.AQ632.K74 AK93.AJ752.JT8.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "552555525587b5887b58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  5
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT  8
+E  S  7
+E  H 11
+E  D  5
+E  C  8
+W NT  8
+W  S  7
+W  H 11
+W  D  5
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 12,0,3,83,76,28,59,110,40,27,29,156,35,23,378,44,16,54,12,28,15,40,85,24,13,61,544,33,23,30,34,41,14,8,16,28,17,13,17,16
+[Auction "S"]
+Pass 1H Pass 3H 
+Pass Pass Pass 
+[Play "N"]
+SQ S7 S2 SK 
+DK D4 D2 DJ 
+SJ ST S4 SA 
+D5 D9 DQ DT 
+S5 H3 S8 S3 
+HT HK H6 H2 
+HQ H4 H8 HA 
+D7 -  -  D8 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "15"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:QJ65.QT.K75.QJ53 T7.K943.94.AT982 842.86.AQ632.K74 AK93.AJ752.JT8.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "552555525587b5887b58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  2
+N  D  5
+N  C  5
+S NT  5
+S  S  5
+S  H  2
+S  D  5
+S  C  5
+E NT  8
+E  S  7
+E  H 11
+E  D  5
+E  C  8
+W NT  8
+W  S  7
+W  H 11
+W  D  5
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,58,47,36,206,89,47,19,23,27,42,149,33,46,238,121,25,93,91,39,22,40,39,44,29,20,55,56,25,32,25,20,19,9,31,8,23,11,30,22,29,14,26,8,39,19,90,25,41,24,28,68,42,14,31,19,14,10,18,11,12,7
+[Auction "S"]
+Pass 1H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+SQ S7 S2 SA 
+D5 D4 DQ DJ 
+S5 ST S4 SK 
+D7 D9 DA D8 
+S6 H3 S8 S3 
+C5 CA C4 C6 
+C3 C2 CK H2 
+DK H4 D2 DT 
+CJ C8 C7 H5 
+SJ HK D3 S9 
+CQ C9 H8 HJ 
+HT H9 H6 HA 
+HQ CT D6 H7 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "16"]
+[West "Robert Plumley#"]
+[North "Stuart Bridge#466850"]
+[East "Alan Scott#024026"]
+[South "Roger Karn#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT85.5.KT872.KQ8 K6.KJ9764.QJ.A42 J42.A83.A954.T63 Q973.QT2.63.J975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "796b7796b74472544726"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D 11
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D 11
+S  C  7
+E NT  4
+E  S  4
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  2
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 11,0,3,64,85,52,284,105,22,40,50,148,36,7,55,38,9,19,28,21,22,14,137,34,8,32,24,23,6,27,29,21,6,26,8,16,6,23,121,21,19,15,32,17,26,29,53,19,6,27,7,13,6,15,13,18,8,6,8,13,6,7
+[Auction "W"]
+Pass 1D 1H 3D 
+Pass Pass Pass 
+[Play "E"]
+DQ DA D3 D2 
+CA C3 C7 CK 
+DJ D4 D6 DK 
+H9 HA H2 H5 
+H4 H3 HT D7 
+C2 C6 C5 CQ 
+C4 CT CJ C8 
+SK S2 S3 S5 
+HJ H8 HQ D8 
+S6 S4 S7 SA 
+H6 SJ SQ S8 
+H7 D5 S9 ST 
+HK D9 C9 DT 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "16"]
+[West "Richard Samter#106155"]
+[North "Erik Sælensminde#411440"]
+[East "Pat Davies#"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT85.5.KT872.KQ8 K6.KJ9764.QJ.A42 J42.A83.A954.T63 Q973.QT2.63.J975"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "796b7796b74472544726"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D 11
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D 11
+S  C  7
+E NT  4
+E  S  4
+E  H  7
+E  D  2
+E  C  5
+W NT  4
+W  S  4
+W  H  7
+W  D  2
+W  C  6
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 12,2,1,95,104,44,161,302,67,43,35,38,18,44,63,30,157,30,226,52,46,264,23,21,25,22,26,10,33,196,26,17,29,238,35,17,49,190,34,28,29,14,231,11,21,174,44,39,45,275,283,27,39,50,16,14,9,16,15,17,7,18,18,15,9,14,9,26,7
+[Auction "W"]
+Pass 1D 1H 1S =1= 
+2H Pass Pass 3D 
+Pass Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+H3 H2 H5 H7 
+HA HT D2 H6 
+H8 HQ D7 H4 
+S2 S3 S5 SK 
+D5 D3 DK DQ 
+DA D6 D8 DJ 
+D4 C5 DT H9 
+C3 C9 CK C2 
+C6 CJ C8 C4 
+CT C7 CQ CA 
+D9 S7 S8 HK 
+S4 S9 ST HJ 
+SJ SQ SA S6 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "17"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8742.9.A974.AQ85 Q.K876542.63.T96 AKT965.A3.KQT5.K J3.QJT.J82.J7432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "dd7dadd7da0060200602"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H  7
+N  D 13
+N  C 10
+S NT 13
+S  S 13
+S  H  7
+S  D 13
+S  C 10
+E NT  0
+E  S  0
+E  H  6
+E  D  0
+E  C  2
+W NT  0
+W  S  0
+W  H  6
+W  D  0
+W  C  2
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 28,1,3,231,49,662,340,222,112,156,47,113,28,123,94,18,14,22,73,39,19,36,34,13,9,30,14,15,6
+[Auction "N"]
+Pass 2D =1= 2S Pass 
+4H Pass 4NT Pass 
+5H Pass 6S Pass 
+Pass Pass 
+[Play "W"]
+HQ H9 H2 HA 
+S3 S2 SQ SA 
+SJ S4 H4 SK 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "17"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8742.9.A974.AQ85 Q.K876542.63.T96 AKT965.A3.KQT5.K J3.QJT.J82.J7432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS 1510"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "dd7dadd7da0060200602"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H  7
+N  D 13
+N  C 10
+S NT 13
+S  S 13
+S  H  7
+S  D 13
+S  C 10
+E NT  0
+E  S  0
+E  H  6
+E  D  0
+E  C  2
+W NT  0
+W  S  0
+W  H  6
+W  D  0
+W  C  2
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 33,2,0,117,216,285,82,230,22,351,110,73,22,170,47,101,17,572,48,174,23,231,109,22,13,357,144,11,23,43,36,10,8
+[Auction "N"]
+Pass 2D =1= X 2H =2= 
+Pass Pass 3S Pass 
+4H Pass 4NT =3= Pass 
+5H Pass 5NT =4= Pass 
+6H Pass 7S Pass 
+Pass Pass 
+[Play "W"]
+HQ H9 H2 HA 
+S3 S2 SQ SA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "18"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJT653.QT.AT2.74 K8.AK743.843.K85 A9.86.KJ7.AT9632 742.J952.Q965.QJ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "6a6796a6796376433653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  6
+N  D  7
+N  C  9
+S NT  6
+S  S 10
+S  H  6
+S  D  7
+S  C  9
+E NT  6
+E  S  3
+E  H  7
+E  D  6
+E  C  4
+W NT  3
+W  S  3
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,1,3,88,69,77,119,73,154,37,20,11,18,182,40,24,21,23,30,26,152,48,38,45,64,22,17,32,24,16,18,6,63,39,14,8,43,30,17,11,19,23,18,10
+[Auction "E"]
+1H 2C 3H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+HK H6 H5 HT 
+HA H8 H2 HQ 
+D4 D7 D9 DT 
+S8 S9 S2 S3 
+SK SA S4 S5 
+D3 DJ D6 DA 
+H4 C2 S7 SQ 
+H3 C3 H9 SJ 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "18"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJT653.QT.AT2.74 K8.AK743.843.K85 A9.86.KJ7.AT9632 742.J952.Q965.QJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "6a6796a6796376433653"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  6
+N  D  7
+N  C  9
+S NT  6
+S  S 10
+S  H  6
+S  D  7
+S  C  9
+E NT  6
+E  S  3
+E  H  7
+E  D  6
+E  C  4
+W NT  3
+W  S  3
+W  H  6
+W  D  5
+W  C  3
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 10,2,0,107,481,108,286,27,226,435,22,31,401,42,12,28,71,38,222,12,504,46,80,33,138,39,22,12,11
+[Auction "E"]
+1NT 3C Pass Pass 
+Pass 
+[Play "W"]
+S4 SQ SK SA 
+CJ C4 C8 CA 
+S7 SJ S8 S9 
+S2 S5 C5 C6 
+CQ C7 CK CT 
+-  -  HA -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "19"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A.74.A8742.T9872 KQ82.KT8.KJ3.QJ5 JT743.J963.QT.K3 965.AQ52.965.A64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44466444669996788956"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  6
+E NT  9
+E  S  9
+E  H  9
+E  D  6
+E  C  7
+W NT  8
+W  S  8
+W  H  9
+W  D  5
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,143,107,182,50,40,731,100,12,47,725,237,39,25,45,38,45,19,22,21,56,25,679,45,21,24,19,23,23,37,18,66,153,48,20,267,36,15,39,23,10,14,52,29,17,15,23,13,16,14,61,18,15,28,18,16,10,16,9,17,11,24
+[Auction "S"]
+2D =1= Pass Pass X 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+D4 DJ DQ D5 
+DA D3 DT D6 
+D8 DK S3 D9 
+H4 H8 H6 HA 
+SA S2 S4 S6 
+D7 C5 H3 C6 
+D2 CJ C3 C4 
+CT CQ CK CA 
+H7 HK H9 H2 
+C2 HT HJ HQ 
+C7 SK S7 S9 
+C8 SQ ST S5 
+C9 S8 SJ H5 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "19"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A.74.A8742.T9872 KQ82.KT8.KJ3.QJ5 JT743.J963.QT.K3 965.AQ52.965.A64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44466444669996788956"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  6
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  6
+S  C  6
+E NT  9
+E  S  9
+E  H  9
+E  D  6
+E  C  7
+W NT  8
+W  S  8
+W  H  9
+W  D  5
+W  C  6
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,186,50,61,39,91,63,28,34,39,406,17,21,39,47,288,27,19,147,29,20,46,131,27,18,10,64,63,16,19,234,41,20,16,213,38,17,10,286,38,19,26,54,23,23,70,76,23,12,22,25,22,9,8,66,23,10
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 2C Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+S3 S5 SA S2 
+CK CA CT CQ 
+H3 H2 H7 HK 
+H6 HQ H4 HT 
+S4 S6 D7 SK 
+HJ HA D2 H8 
+DQ D5 D4 DJ 
+H9 H5 D8 C5 
+SJ S9 C2 SQ 
+C3 C4 C7 CJ 
+DT D6 -  D3 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "20"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K854.J6.97632.K8 AT972.A42.54.AQ2 QJ.KQ93.AKQJ.T97 63.T875.T8.J6543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "787a5676955563755637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D 10
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  9
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,1,3,137,39,47,49,178,106,22,215,91,21,9,33,310,32,44,196,30,14,6,21,13,27,6,788,25,35,7,45,31,14,125,23,15,14,25,16,24,29,31,49,55,57,15,441,18,18,17,45,24,13,13,8,28,11,13,39,10,24,10,21,7,17,6
+[Auction "W"]
+Pass Pass 1S X 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+ST SJ S6 S4 
+D5 DJ DT D2 
+D4 DQ D8 D3 
+C2 DK C3 D6 
+S2 DA C4 D7 
+SA SQ S3 S5 
+H2 H3 H7 HJ 
+H4 C7 C5 D9 
+HA H9 H5 H6 
+CA C9 C6 C8 
+CQ CT CJ CK 
+S7 HQ H8 SK 
+S9 HK HT S8 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "20"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K854.J6.97632.K8 AT972.A42.54.AQ2 QJ.KQ93.AKQJ.T97 63.T875.T8.J6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2CX"]
+[Result "8"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "787a5676955563755637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  7
+N  D 10
+N  C  5
+S NT  6
+S  S  7
+S  H  6
+S  D  9
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  3
+E  C  7
+W NT  5
+W  S  5
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 5,2,0,62,31,88,56,102,171,27,53,32,36,22,102,133,95,10,42,97,122,25,63,45,6,11,154,126,22,20,224,35,12,539,46,26,22,48,43,30,9,12,17,19,60,14,81,30,240,46,909,17,267,14,7,21,6,18,6,18,5,47,5,10,6,9
+[Auction "W"]
+Pass Pass 1NT X 
+XX =1= Pass 2C =2= X 
+Pass Pass Pass 
+[Play "S"]
+DJ D8 D7 D5 
+CT C3 C8 CQ 
+DQ DT D3 D4 
+C7 C4 CK CA 
+C9 CJ D2 C2 
+SQ S6 S5 ST 
+DA C5 D6 H2 
+SJ S3 S4 SA 
+H3 H5 S8 S2 
+H9 C6 SK S7 
+HQ H7 H6 HA 
+DK H8 HJ S9 
+HK HT D9 H4 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "21"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ.85.J965.KJT3 T8.Q73.AK82.9876 A9654.AT.Q73.A54 732.KJ9642.T4.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "aa59aaa59a3283332833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  5
+N  D  9
+N  C 10
+S NT 10
+S  S 10
+S  H  5
+S  D  9
+S  C 10
+E NT  3
+E  S  2
+E  H  8
+E  D  3
+E  C  3
+W NT  3
+W  S  2
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,1,3,138,17,56,325,299,169,67,37,134,31,36,33,59,151,16,36,84,24,18,18,31,14,26,16,76,37,15,12,36,19,16,13,99,22,18,7,28,6,36,16,24,15,29,25,8,24,22,13,26,22,16,13,19
+[Auction "N"]
+Pass Pass 1NT 2H 
+X =1= 3H 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+S2 SJ S8 S4 
+S3 SQ ST S5 
+S7 SK D2 SA 
+C2 CT C6 C4 
+CQ C3 C7 CA 
+H2 CJ C8 C5 
+H4 CK C9 HT 
+D4 D5 DK D3 
+H6 H5 H3 HA 
+DT D6 DA DQ 
+-  -  HQ -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "21"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ.85.J965.KJT3 T8.Q73.AK82.9876 A9654.AT.Q73.A54 732.KJ9642.T4.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "aa59aaa59a3283332833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  5
+N  D  9
+N  C 10
+S NT 10
+S  S 10
+S  H  5
+S  D  9
+S  C 10
+E NT  3
+E  S  2
+E  H  8
+E  D  3
+E  C  3
+W NT  3
+W  S  2
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,2,0,135,23,79,66,50,21,534,73,41,85,26,31,65,276,9,68,151,52,12,31,12,28,23,6,14,20,15,15,43,74,11,18,20,16,8,18,32,7,15,18,123,20,27,33,12
+[Auction "N"]
+Pass Pass 1S Pass 
+2C =1= Pass 2D =2= Pass 
+4S Pass Pass Pass 
+[Play "W"]
+S7 SJ S8 S5 
+C2 C3 C8 CA 
+CQ CK C7 C5 
+S2 SK ST S4 
+S3 SQ D8 S6 
+H4 CT C6 C4 
+H2 CJ C9 HT 
+D4 D5 DK D7 
+-  -  H3 -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "22"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.J83.QJ94.T74 T943.KQ5.T83.KQJ 65.T964.K75.9863 KQ87.A72.A62.A52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54555545558988889888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  9
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  9
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,3,119,36,56,31,37,90,74,31,24,48,325,41,24,54,27,33,14,26,433,70,154,19,14,30,20,20,17,22,7,40,16,35,27,29,825,50,58,19,83,14,76,7,26,14,20,8,14,20,8,69,16,27,23,19
+[Auction "E"]
+Pass Pass 1C =1= Pass 
+1NT Pass 2C =2= Pass 
+2NT =3= Pass 3C =4= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+H9 H2 HJ HK 
+S5 SK S2 S4 
+C6 C2 C4 CQ 
+S6 SQ SA S3 
+DK D2 D4 DT 
+D7 D6 DJ D3 
+D5 DA D9 D8 
+H4 S7 SJ S9 
+H6 S8 DQ H5 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "22"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ2.J83.QJ94.T74 T943.KQ5.T83.KQJ 65.T964.K75.9863 KQ87.A72.A62.A52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54555545558988889888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  5
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  5
+S  C  5
+E NT  8
+E  S  9
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  9
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,79,40,68,35,72,99,524,23,17,18,28,727,24,24,22,48,20,20,30,55,64,80,65,32,9,14,9,13,26,19,113,93,19,67,20,30,26,35,46,49,11,18,13,62,21,10
+[Auction "E"]
+Pass Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+DQ D3 D5 DA 
+C4 CJ C6 C2 
+SA S9 S6 SQ 
+D4 D8 DK D2 
+DJ DT D7 D6 
+H3 HQ H6 H7 
+SJ ST S5 S8 
+HJ HK H4 H2 
+S2 S3 C3 SK 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "23"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJT74.Q8.9.K9862 86.T32.J52.QJ753 Q53.AKJ964.KQ6.T A92.75.AT8743.A4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "7aa57aaa573337533375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  5
+N  C  7
+S NT 10
+S  S 10
+S  H 10
+S  D  5
+S  C  7
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 7,1,3,86,328,116,30,61,41,55,14,75,257,15,19,15,59,20,18,69,21,18,41,24,16,17,15,24,20,34,6,59,36,15,6,30,17,31,6,84,22,16,12,39,37,24,6,69,40,17,7,19,34,10,13,23
+[Auction "S"]
+1H X 1S 2C 
+2H Pass Pass Pass 
+[Play "W"]
+CA C2 C3 CT 
+C4 CK C5 D6 
+H5 HQ H2 H4 
+H7 H8 H3 HA 
+D4 D9 HT HK 
+S2 S4 S8 SQ 
+S9 ST S6 S5 
+D3 C6 C7 H6 
+D7 S7 D2 DQ 
+DA SJ D5 DK 
+SA SK CJ S3 
+D8 -  -  -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "23"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KJT74.Q8.9.K9862 86.T32.J52.QJ753 Q53.AKJ964.KQ6.T A92.75.AT8743.A4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "7aa57aaa573337533375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  5
+N  C  7
+S NT 10
+S  S 10
+S  H 10
+S  D  5
+S  C  7
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  5
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,174,83,50,40,361,103,53,12,122,119,20,44,186,46,8,12,20,14,18,16,88,32,29,17,45,35,18,101,318,42,53,60,118,40,96,30,140,34,20,12,35,31,5,18,27,35,8,63,19,33,9,6,19,47,13,5,15,23,12,6
+[Auction "S"]
+1H 2D X Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+D7 D9 DJ DK 
+H7 HQ H2 H4 
+H5 H8 H3 HA 
+S2 S4 HT HK 
+C4 C2 C3 HJ 
+S9 S7 D2 H9 
+D3 ST S6 H6 
+SA SK S8 S3 
+DA C6 D5 D6 
+DT C8 C5 DQ 
+D4 SJ C7 SQ 
+D8 C9 CJ S5 
+CA CK CQ CT 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "24"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK4.Q872.AJ3.AT3 J65.JT3.K65.7654 Q98.A96.Q984.Q92 T732.K54.T72.KJ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a9aa9a9aa93433434334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,1,3,72,132,28,61,45,29,16,43,45,32,22,22,28,14,811,60,29,113,26,16,46,29,33,19,18,52,151,21,422,45,20,56,31,381,18,16,16,20,15,277,31,27,63,18,8,66,58,42,16,65,20,14,13,15,16,18,11,15,10,16,9,20,8,13,8
+[Auction "W"]
+Pass 1H Pass 2D 
+Pass 2NT Pass 3H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+C6 C2 C8 CT 
+S5 SQ S3 S4 
+DK D4 D2 DJ 
+C4 C9 CJ C3 
+C7 CQ CK CA 
+D5 D8 D7 DA 
+D6 DQ DT D3 
+C5 D9 S2 H2 
+H3 H6 H4 HQ 
+S6 S8 S7 SA 
+SJ S9 ST SK 
+HT HA H5 H7 
+HJ H9 HK H8 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "24"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AK4.Q872.AJ3.AT3 J65.JT3.K65.7654 Q98.A96.Q984.Q92 T732.K54.T72.KJ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a9aa9a9aa93433434334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  4
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,85,110,84,44,70,32,19,34,31,14,16,320,148,66,31,347,37,10,36,16,24,37,20,47,371,48,20,20,22,22,10,89,44,26,8,66,10,14,40
+[Auction "W"]
+Pass 2D =1= Pass 2S =2= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+HJ H6 H4 HQ 
+S5 SQ S3 S4 
+DK D4 D2 DJ 
+H3 H9 HK H2 
+HT HA H5 H7 
+C7 C9 CJ CA 
+C6 CQ CK C3 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "25"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A82.Q65.8542.JT9 T943.A987.76.874 QJ75.432.AJ3.K62 K6.KJT.KQT9.AQ53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "4"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "44344554548898988989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  8
+E  H  9
+E  D  8
+E  C  9
+W NT  8
+W  S  8
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,69,26,67,179,62,13,58,169,414,33,49,102,62,41,8,177,19,67,41,36,61,28,26,49,63,36,28,17,29,10,19,29,34,62,45,66,69,16,29,74,47,20,15,42,32,14,14,11,65,34,22,28,20,7,18,14,21,6,15
+[Auction "N"]
+Pass Pass 1NT X 
+Pass Pass Pass 
+[Play "W"]
+DQ D2 D7 DA 
+SK SA S4 SQ 
+S6 S2 S9 SJ 
+C5 S8 ST S5 
+DK D4 D6 DJ 
+DT D5 C7 D3 
+D9 D8 H8 C2 
+HJ H5 H7 H2 
+HT H6 H9 H3 
+HK HQ HA H4 
+CQ C9 C4 C6 
+CA CT C8 CK 
+C3 CJ S3 S7 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "25"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A82.Q65.8542.JT9 T943.A987.76.874 QJ75.432.AJ3.K62 K6.KJT.KQT9.AQ53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "44344554548898988989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  8
+E  H  9
+E  D  8
+E  C  9
+W NT  8
+W  S  8
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,50,46,87,219,62,26,32,29,157,44,50,211,43,21,9,17,23,17,8,432,35,20,10,120,33,31,34,37,28,29,10,20,100,28,25,21,8,23,10,87,27,18,8,73,20,17
+[Auction "N"]
+Pass Pass 1S 1NT 
+Pass Pass Pass 
+[Play "N"]
+S2 S3 S5 S6 
+H6 H7 H4 HK 
+H5 H8 H3 HT 
+SA S4 S7 SK 
+CJ C4 C2 CQ 
+HQ HA H2 HJ 
+D5 H9 C6 C3 
+D2 D6 D3 DQ 
+C9 C7 CK CA 
+D4 D7 -  DK 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "26"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK3.954.87632.Q4 9876.J872.KQ5.96 QJ52.AK.A4.AKJT3 T4.QT63.JT9.8752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "cc8bccc8bc1152111521"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  8
+N  D 11
+N  C 12
+S NT 12
+S  S 12
+S  H  8
+S  D 11
+S  C 12
+E NT  1
+E  S  1
+E  H  5
+E  D  2
+E  C  1
+W NT  1
+W  S  1
+W  H  5
+W  D  2
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,1,3,52,116,100,143,50,39,51,36,19,40,28,284,191,13,45
+[Auction "E"]
+Pass 2NT Pass 3C =1= 
+Pass 3D =2= Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+DJ D2 D5 DA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "26"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AK3.954.87632.Q4 9876.J872.KQ5.96 QJ52.AK.A4.AKJT3 T4.QT63.JT9.8752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 1440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "cc8bccc8bc1152111521"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H  8
+N  D 11
+N  C 12
+S NT 12
+S  S 12
+S  H  8
+S  D 11
+S  C 12
+E NT  1
+E  S  1
+E  H  5
+E  D  2
+E  C  1
+W NT  1
+W  S  1
+W  H  5
+W  D  2
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 29,2,0,59,417,106,74,87,53,106,78,13,22,31,115
+[Auction "E"]
+Pass 2NT Pass 4NT 
+Pass 6C Pass 6NT 
+Pass Pass Pass 
+[Play "W"]
+DJ -  -  -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "27"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT53.A7.9.AT9875 J8.JT3.J8643.J42 92.KQ985.KQT7.63 AQ764.642.A52.KQ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98a8998a894535445354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  3
+E  D  5
+E  C  4
+W NT  4
+W  S  5
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 7,1,3,91,71,98,21,42,74,25,23,76,38,29,11,117,142,8,30,48,73,85,55,114,46,8,15,49,59,23,39,147,40,25,7,35,39,15,26,114,57,41,20,36,23,37,9,52,13,49,14,29,57,28,14,28,19,34,13,22,17,18,7,20,12,13,6
+[Auction "S"]
+Pass 1S 2C Pass 
+Pass X Pass 2D 
+2H Pass Pass Pass 
+[Play "W"]
+CK CA C2 C3 
+DA D9 D4 D7 
+CQ C5 C4 C6 
+H2 H7 HT HQ 
+SA S3 S8 S2 
+S4 SK SJ S9 
+S6 S5 D3 H5 
+D5 C7 D6 DK 
+D2 C8 D8 DQ 
+S7 HA DJ DT 
+SQ ST HJ HK 
+H4 C9 H3 H9 
+H6 CT CJ H8 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "27"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT53.A7.9.AT9875 J8.JT3.J8643.J42 92.KQ985.KQT7.63 AQ764.642.A52.KQ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98a8998a894535445354"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  9
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  9
+E NT  4
+E  S  5
+E  H  3
+E  D  5
+E  C  4
+W NT  4
+W  S  5
+W  H  3
+W  D  5
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 12,2,0,148,112,170,20,348,40,838,29,29,36,242,171,22,14,33,29,22,37,148,21,6,8,72,959,26,27,80,43,20,10,26,15,28,43,214,39,11,9,31,23,19,5,16
+[Auction "S"]
+1H 1S 2D =1= Pass 
+2H Pass 3H Pass 
+Pass Pass 
+[Play "W"]
+CK CA C2 C6 
+DA D9 D3 DK 
+CQ C5 C4 C3 
+H2 H7 HT HK 
+H4 HA H3 H5 
+D2 C7 CJ H8 
+H6 S3 HJ HQ 
+SA S5 S8 S2 
+D5 -  -  -  
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "28"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:.JT8753.A42.AQ63 AJ762.KQ2.Q86.K5 Q985.A9.KT3.T974 KT43.64.J975.J82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "75a6975a695836458374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H 10
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H  3
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 13,1,3,70,68,47,81,42,113,15,58,45,44,19,17,186,30,60,26,54,51,7,20,251,33,7,17,17,84,8,23,126,38,16,9,29,21,24,13,19,14,25,13,131,13,40,14,13,31,18,24,9,25,6,14
+[Auction "W"]
+Pass 1H 1S 1NT 
+3S Pass Pass Pass 
+[Play "S"]
+HA H4 H3 H2 
+CT C2 C6 CK 
+S5 S3 H5 SA 
+H9 H6 H7 HK 
+S8 C8 H8 HQ 
+C4 CJ CQ C5 
+DK D5 D2 D6 
+D3 D7 DA D8 
+DT D9 D4 DQ 
+S9 ST C3 S2 
+SQ SK HT S6 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "28"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:.JT8753.A42.AQ63 AJ762.KQ2.Q86.K5 Q985.A9.KT3.T974 KT43.64.J975.J82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "75a6975a695836458374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D  6
+N  C  9
+S NT  7
+S  S  5
+S  H 10
+S  D  6
+S  C  9
+E NT  5
+E  S  8
+E  H  3
+E  D  6
+E  C  4
+W NT  5
+W  S  8
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 10,2,0,66,76,58,145,44,126,25,312,41,70,47,171,197,26,32,38,29,17,18,230,30,11,7,80,42,21,15,120,275,30,9,19,36,72,10,33,13,119,41
+[Auction "W"]
+Pass 1H 1S X 
+Pass 2C Pass 3C 
+Pass Pass Pass 
+[Play "E"]
+SA S5 S4 C3 
+H2 H9 H6 H3 
+HQ HA H4 H5 
+CK C4 C2 CQ 
+D6 DK D7 D2 
+C5 C7 C8 CA 
+HK C9 CJ HJ 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "29"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K5..AJ9754.KT862 AQJ3.K9.KT3.AQ73 .QJ6542.Q82.J954 T987642.AT873.6."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "2159921499bb843bc843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  9
+N  C  9
+S NT  2
+S  S  1
+S  H  4
+S  D  9
+S  C  9
+E NT 11
+E  S 11
+E  H  8
+E  D  4
+E  C  3
+W NT 11
+W  S 12
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 28,1,3,104,34,167,68,273,35,45,547,43,65,35,31,20,562,126,36,18,619,41,44,148,57,25,25,51
+[Auction "N"]
+1D X 1H 4S 
+Pass 4NT Pass 5NT 
+Pass 6S Pass Pass 
+Pass 
+[Play "N"]
+DA D3 D2 D6 
+D9 DT DQ S6 
+S5 S3 H2 ST 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "29"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K5..AJ9754.KT862 AQJ3.K9.KT3.AQ73 .QJ6542.Q82.J954 T987642.AT873.6."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "2159921499bb843bc843"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  9
+N  C  9
+S NT  2
+S  S  1
+S  H  4
+S  D  9
+S  C  9
+E NT 11
+E  S 11
+E  H  8
+E  D  4
+E  C  3
+W NT 11
+W  S 12
+W  H  8
+W  D  4
+W  C  3
+[OptimumScore "NS -1100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,88,111,67,309,101,230,252,41,159,50,25,29,369,26,51,38,28,402,26,44,62,17,10,19,27,10,45,70,31,16,24,41,34,26,10
+[Auction "N"]
+1D X 2D =1= 4S 
+Pass Pass Pass 
+[Play "N"]
+DA D3 D2 D6 
+D9 DT DQ S4 
+S5 SA H2 S7 
+SK SQ H4 S6 
+D7 DK D8 H3 
+C2 HK H5 H7 
+D4 H9 HQ HA 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "30"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T4.KQ.A765.86432 K76.J43.KT8.AK75 Q832.A652.J.QJT9 AJ95.T987.Q9432."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3554835548a7894a7894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  4
+N  C  8
+S NT  3
+S  S  5
+S  H  5
+S  D  4
+S  C  8
+E NT 10
+E  S  7
+E  H  8
+E  D  9
+E  C  4
+W NT 10
+W  S  7
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 6,1,3,136,130,85,35,21,49,109,31,290,55,24,40,317,299,24,8,16,31,8,12,59,38,19,18,27,19,16,28,166,33,9,14,11,30,18,46,28,18,32,9,322,26,47,22,23,345,34,19,17,29,85,10,42,51,17,20,20,15,27,9,9,19,7,16
+[Auction "E"]
+1D =1= Pass 1H Pass 
+1NT Pass 2C =2= Pass 
+2D Pass Pass Pass 
+[Play "S"]
+CQ H7 C2 CK 
+C9 H8 C3 CA 
+S3 SJ S4 S6 
+S2 S5 ST SK 
+CT D2 C4 C5 
+H5 H9 HQ H3 
+H2 HT HK H4 
+DJ DQ D5 D8 
+H6 D3 DA DT 
+CJ D4 D6 DK 
+S8 S9 D7 S7 
+SQ D9 C6 C7 
+HA SA C8 HJ 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "30"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T4.KQ.A765.86432 K76.J43.KT8.AK75 Q832.A652.J.QJT9 AJ95.T987.Q9432."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3554835548a7894a7894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  5
+N  D  4
+N  C  8
+S NT  3
+S  S  5
+S  H  5
+S  D  4
+S  C  8
+E NT 10
+E  S  7
+E  H  8
+E  D  9
+E  C  4
+W NT 10
+W  S  7
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 7,2,0,262,195,153,69,22,97,36,27,24,165,43,23,11,69,22,33,73,52,25,7,23,114,41,10,6,55,36,6,30,20,13,15,15,10,24,7,6,93,38,21,155,128,32,23,40,9,26,45,11,18,24,6,21,40,36,6,17,13,20,11,5
+[Auction "E"]
+1NT 2C =1= Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "W"]
+D3 DA D8 DJ 
+S9 S4 S6 S8 
+D2 D5 DK H2 
+SA ST S7 SQ 
+H7 HQ H3 H5 
+D4 D6 DT H6 
+S5 HK SK S3 
+SJ C2 CK CQ 
+D9 C3 CA CJ 
+H8 C4 C5 CT 
+DQ D7 C7 S2 
+H9 C6 H4 HA 
+HT C8 HJ C9 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "31"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AKT5.72.5.T98542 J962.AQT9.A2.A76 Q74.J653.KQ764.Q 83.K84.JT983.KJ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56557565568788687886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  5
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  7
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,1,3,106,35,35,59,89,61,44,51,53,24,22,136,27,6,40,22,34,27,22,194,181,19,21,16,104,43,23,232,26,20,44,37,17,51,10,32,51,10,13,13,39,17,26,15,39,21,16
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass Pass Pass 
+[Play "S"]
+D4 D8 D5 D2 
+H5 H4 H2 HA 
+CQ CK C2 C6 
+S4 S8 SA S2 
+D6 CJ CT C7 
+SQ S3 S5 S9 
+D7 D3 C4 DA 
+S7 C3 C5 CA 
+H3 HK H7 H9 
+H6 H8 ST HQ 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "31"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AKT5.72.5.T98542 J962.AQT9.A2.A76 Q74.J653.KQ764.Q 83.K84.JT983.KJ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56557565568788687886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  5
+N  C  7
+S NT  5
+S  S  6
+S  H  5
+S  D  5
+S  C  6
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  7
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,2,0,171,31,53,54,30,99,36,11,31,57,238,26,28,59,49,16,55,42,23,28,24,70,21,8,19,58,22,11,17,16,67,48,15,406,20,8,21,35,22,12,25,66,16,19,15,20,152,105,13,12,15,7,24,7,21,6,6,6,7,6,8
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 2H Pass Pass 
+Pass 
+[Play "S"]
+DK D3 D5 DA 
+SQ S3 ST S2 
+D4 D8 H2 D2 
+CQ CK C2 C6 
+S7 S8 SK S6 
+H3 C3 C4 CA 
+D6 D9 H7 H9 
+S4 H4 S5 S9 
+D7 DJ C5 HT 
+DQ HK SA SJ 
+H5 H8 C8 HA 
+H6 DT C9 HQ 
+HJ CJ CT C7 
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "32"]
+[West "Robert Plumley#"]
+[North "Pat Davies#"]
+[East "Alan Scott#024026"]
+[South "Richard Samter#106155"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK9872.943.Q52.2 QJT5.Q.9843.JT75 64.AT876.AJT7.K4 3.KJ52.K6.AQ9863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "58873789836545a6545a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  7
+N  C  3
+S NT  7
+S  S  8
+S  H  9
+S  D  8
+S  C  3
+E NT  6
+E  S  5
+E  H  4
+E  D  5
+E  C 10
+W NT  6
+W  S  5
+W  H  4
+W  D  5
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,1,3,151,141,47,251,59,49,18,27,236,24,68,29,26,46,63,18,26,249,31,33,37,23,45,27,13,27,41,11,6,27,79,34,6,126,31,9,20,31,40,24,21,20,26,71,22,22,38,12,6
+[Auction "W"]
+2C 2S 3C 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+CA C2 CJ C4 
+S3 SA S5 S4 
+DK DQ D4 D7 
+D6 D2 D8 DJ 
+H2 H3 HQ HA 
+HJ H4 C5 H6 
+CQ S2 C7 CK 
+HK H9 CT HT 
+C9 S7 ST H7 
+H5 S8 D3 H8 
+*
+
+[Event "30 May Bridge vs Plumley"]
+[Site "RealBridge"]
+[Date "2024.05.30"]
+[Board "32"]
+[West "Roger Karn#"]
+[North "Erik Sælensminde#411440"]
+[East "Stuart Bridge#466850"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK9872.943.Q52.2 QJT5.Q.9843.JT75 64.AT876.AJT7.K4 3.KJ52.K6.AQ9863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Plumley team"]
+[VisitTeam "Bridge team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "58873789836545a6545a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  7
+N  C  3
+S NT  7
+S  S  8
+S  H  9
+S  D  8
+S  C  3
+E NT  6
+E  S  5
+E  H  4
+E  D  5
+E  C 10
+W NT  6
+W  S  5
+W  H  4
+W  D  5
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,145,65,157,50,252,44,23,220,33,13,13,17,449,36,14,22,161,67,11,32,25,17,49,864,41,8,197,42,35,28,17,18,12,20,16,86,17,9,18,8,14,19,21,9,18,8,6
+[Auction "W"]
+1C 1S 2C X 
+3C 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+CJ CK CA C2 
+CT C4 CQ S2 
+D8 DJ DK D2 
+HQ HA H2 H4 
+S5 S4 S3 SK 
+ST S6 C3 SA 
+D3 D7 D6 DQ 
+D4 DT C6 D5 
+D9 DA C8 H3 
+*

@@ -1,0 +1,4074 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "1"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.JT4.KJ95.AKQT7 AKJ.97.AT43.9853 T92.AKQ532.82.42 Q76543.86.Q76.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "65b8b65b8b2815128151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H 11
+N  D  8
+N  C 11
+S NT  6
+S  S  5
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  8
+E  H  1
+E  D  5
+E  C  1
+W NT  2
+W  S  8
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,889,95,107,90,124,134,143,37,103,46,67,30,40,18,57,373,66,43,26,35,36,50,14,28,21,14,64,34,15,18,17,10,11,10,24,15,11,13,17,15,20,17,14,39,24,57,13
+[Auction "N"]
+1D =1= Pass 1H Pass 
+2C Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "W"]
+H8 HJ H9 H2 
+S3 S8 SK S2 
+H6 H4 H7 HA 
+C6 CA C5 C2 
+CJ CK C3 C4 
+S4 CQ C8 S9 
+S5 CT C9 D2 
+S6 C7 D3 D8 
+-  D5 -  -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "1"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8.JT4.KJ95.AKQT7 AKJ.97.AT43.9853 T92.AKQ532.82.42 Q76543.86.Q76.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "65b8b65b8b2815128151"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H 11
+N  D  8
+N  C 11
+S NT  6
+S  S  5
+S  H 11
+S  D  8
+S  C 11
+E NT  2
+E  S  8
+E  H  1
+E  D  5
+E  C  1
+W NT  2
+W  S  8
+W  H  1
+W  D  5
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,604,44,82,46,186,303,459,49,281,27,92,92,28,36,155,39,23,15,136,599,42,24,238,27,16,28,35,30,11,10,25,20,12,24
+[Auction "N"]
+1C Pass 1H Pass 
+2C Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+S5 S8 SK S2 
+D6 D5 DA D8 
+H6 HJ H7 H2 
+H8 H4 H9 HA 
+S3 HT SJ S9 
+D7 DK D3 D2 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "2"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:76.KJ87.AQ32.T85 QT5.5.T84.AKJ642 42.AT94.J9765.Q7 AKJ983.Q632.K.93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "11981119814b44b4b44b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  8
+N  C  1
+S NT  1
+S  S  1
+S  H  9
+S  D  8
+S  C  1
+E NT  4
+E  S 11
+E  H  4
+E  D  4
+E  C 11
+W NT  4
+W  S 11
+W  H  4
+W  D  4
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,170,44,112,111,280,87,173,139,35,22,85,323,16,31,47,16,24,6,50,29,42,13,19,14,104,17,105,21,17,8,28,17,19,9
+[Auction "E"]
+Pass Pass 1S Pass 
+4H =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: splinter"]
+[Play "N"]
+S7 S5 S4 SA 
+S6 ST S2 SK 
+C5 CA C7 C9 
+C8 CK CQ C3 
+CT CJ H9 DK 
+D2 C6 D5 H2 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "2"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:76.KJ87.AQ32.T85 QT5.5.T84.AKJ642 42.AT94.J9765.Q7 AKJ983.Q632.K.93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "11981119814b44b4b44b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  8
+N  C  1
+S NT  1
+S  S  1
+S  H  9
+S  D  8
+S  C  1
+E NT  4
+E  S 11
+E  H  4
+E  D  4
+E  C 11
+W NT  4
+W  S 11
+W  H  4
+W  D  4
+W  C 11
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,258,189,394,162,38,80,35,357,263,161,54,34,31,25,43,32,44,35,18,60,90,28,45,22,80,21,14,13,36,22,24,18,114,49,21,18
+[Auction "E"]
+2C =1= Pass 2S =2= Pass 
+4S Pass Pass Pass 
+[Note "1: weak in ♣"]
+[Note "2: constructive non-forcing"]
+[Play "N"]
+H7 H5 HA H3 
+DA D4 D6 DK 
+DQ D8 D5 S3 
+H8 S5 H4 H2 
+C8 CA C7 C3 
+C5 CK CQ C9 
+D2 DT DJ S8 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "3"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J8762.Q6.864.632 QT9.JT3.KQJ2.AKJ K.AK9842.A.QT984 A543.75.T9753.75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "7593975939674a4674a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  3
+N  C  9
+S NT  7
+S  S  5
+S  H  9
+S  D  3
+S  C  9
+E NT  6
+E  S  7
+E  H  4
+E  D 10
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D 10
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,131,75,384,332,87,37,83,701,132,265,58,28,180,128,53,55,157,32,7,19,16,23,7,10,15,34,46,20,13,52,44,10,28,42,14,7,50,24,9,36,23,18,22,7,18,64,7,12,27,17,14,8,26,18,7,7,7,18,7,6,7,15,5,8
+[Auction "S"]
+1C =1= Pass 1D Pass 
+1H Pass Pass 2D 
+2H Pass Pass Pass 
+[Note "1: 16+"]
+[Play "W"]
+D9 D4 DJ DA 
+H5 H6 H3 HA 
+H7 HQ HT H2 
+C7 C2 CK C4 
+D3 D6 DK H4 
+S3 S2 HJ HK 
+C5 C3 CJ C8 
+D5 D8 DQ H8 
+D7 C6 CA CQ 
+DT S6 D2 H9 
+S4 S7 S9 CT 
+S5 S8 ST C9 
+SA SJ SQ SK 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "3"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:J8762.Q6.864.632 QT9.JT3.KQJ2.AKJ K.AK9842.A.QT984 A543.75.T9753.75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "7593975939674a4674a3"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  3
+N  C  9
+S NT  7
+S  S  5
+S  H  9
+S  D  3
+S  C  9
+E NT  6
+E  S  7
+E  H  4
+E  D 10
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D 10
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,124,48,151,117,128,68,161,37,40,53,114,202,36,17,168,28,15,38,25,27,23,27,27,24,11,26,32,30,23,18,31,58,17,18,146,34,47,11,115,19,21,24,418,177,50,193,17,21,16,32,23,23,27,9,21,20,10,9,11,15,21,9
+[Auction "S"]
+1H Pass Pass 1NT 
+2C Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+DT D4 DJ DA 
+C5 C2 CJ C9 
+D3 D6 DK H2 
+C7 C3 CK CT 
+D5 D8 DQ H4 
+S5 C6 CA C4 
+SA S2 S9 SK 
+S4 S6 ST H8 
+S3 HQ D2 C8 
+H5 H6 HT HA 
+H7 S7 H3 HK 
+D7 S8 HJ CQ 
+D9 SJ SQ H9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "4"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:82.AQT76432.A.K5 T63.J.QJ3.AQJT42 95.K85.K9742.973 AKQJ74.9.T865.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "11941119413927939279"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  9
+S  D  4
+S  C  1
+E NT  3
+E  S  9
+E  H  2
+E  D  7
+E  C  9
+W NT  3
+W  S  9
+W  H  2
+W  D  7
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 22,2,1,233,264,95,107,39,33,325,26,31,20,67,65,31,15,148,40,70,12,98,24,10,11,132,21,52,44,24,15,28,32,43,40,32,8,11,24,10,21,14,74,9,34,11,20,8,15
+[Auction "W"]
+1S 4H 4S 5H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+S6 S5 SJ S8 
+CA C3 C8 CK 
+CQ C7 C6 C5 
+CJ C9 S4 H6 
+HJ H5 H9 HA 
+C2 H8 S7 HQ 
+D3 D2 D6 DA 
+S3 HK SA H2 
+DJ DK D5 S2 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "4"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:82.AQT76432.A.K5 T63.J.QJ3.AQJT42 95.K85.K9742.973 AKQJ74.9.T865.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "11941119413927939279"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  9
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  9
+S  D  4
+S  C  1
+E NT  3
+E  S  9
+E  H  2
+E  D  7
+E  C  9
+W NT  3
+W  S  9
+W  H  2
+W  D  7
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 22,0,3,337,113,112,358,53,44,187,25,517,58,41,162,68,29,39,41,34,13,20,23,17,9,201,55,228,91,73,32,25,19,48,23,16,22,9,49,12,42,9,18,9,18
+[Auction "W"]
+1S 4H 4S 5H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "E"]
+ST S5 SJ S8 
+CA C3 C8 CK 
+CQ C7 C6 C5 
+CJ C9 S7 H2 
+HJ H5 H9 HA 
+D3 D2 D6 DA 
+C2 HK S4 H3 
+DJ DK D5 S2 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "5"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT9875.A9.Q6.AK9 QJ4.J76.K742.843 A32.Q42.AJ5.QT65 6.KT853.T983.J72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "9c99bcc98c1144111441"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 12
+N  H  9
+N  D  9
+N  C 11
+S NT 12
+S  S 12
+S  H  9
+S  D  8
+S  C 12
+E NT  1
+E  S  1
+E  H  4
+E  D  4
+E  C  1
+W NT  1
+W  S  1
+W  H  4
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 18,2,1,370,46,261,107,730,49,199,74,226,40,91,52,31,30,171,320,34,60,91,41,20,19,20,55,29,36,103,37,23,23,17,14,8,19,160,34,18,30,22,67,26,20,26,22,19,15,11,50,13,28
+[Auction "N"]
+1C Pass 1S =1= Pass 
+2S Pass 3D =2= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 8+balanced fg"]
+[Note "2: cue 11-13"]
+[Play "W"]
+C2 C9 C3 C5 
+S6 ST SJ SA 
+H3 SK S4 S2 
+C7 CA C4 C6 
+CJ CK C8 CT 
+H5 S9 SQ S3 
+HK HA H6 HQ 
+D8 DQ DK DA 
+D3 H9 D2 CQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "5"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT9875.A9.Q6.AK9 QJ4.J76.K742.843 A32.Q42.AJ5.QT65 6.KT853.T983.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "9c99bcc98c1144111441"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 12
+N  H  9
+N  D  9
+N  C 11
+S NT 12
+S  S 12
+S  H  9
+S  D  8
+S  C 12
+E NT  1
+E  S  1
+E  H  4
+E  D  4
+E  C  1
+W NT  1
+W  S  1
+W  H  4
+W  D  4
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,0,3,171,27,134,31,137,57,642,64,357,37,52,41,123,38,162,68,265,42,30,28,52,629,56,38,65,27,22,19,203,29,167,30,45,30,19,23,920,43,23,25,282,67,45,15,15,23,9,7
+[Auction "N"]
+1S Pass 2C Pass 
+3S Pass 4D =1= Pass 
+4H Pass 4S Pass 
+4NT Pass 5H =2= Pass 
+6S Pass Pass Pass 
+[Note "1: cue agreeing ♠"]
+[Note "2: 2 without Q"]
+[Play "E"]
+D7 DA D3 D6 
+SJ SA S6 S5 
+S4 S2 H3 SK 
+C8 C5 C2 CA 
+DK D5 D8 DQ 
+C4 CQ C7 C9 
+D2 DJ D9 H9 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "6"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T98543.Q974.A2.7 .KJT653.Q87653.6 K76.A82.JT4.AQT8 AQJ2..K9.KJ95432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68645686457579875798"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  4
+N  C  5
+S NT  6
+S  S  8
+S  H  6
+S  D  4
+S  C  5
+E NT  7
+E  S  5
+E  H  7
+E  D  9
+E  C  8
+W NT  7
+W  S  5
+W  H  7
+W  D  9
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,210,76,345,132,29,286,25,38,47,25,11,79,21,20,33,11,10,24,24,24,318,38,44,12,66,285,19,44,51,157,17,9,20,38,8,101,15,206,15,8,19,17,7,68,13,12,8,7,15,10,13,18,9,9,8,7
+[Auction "E"]
+2H =1= Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+DJ D9 D2 DQ 
+H2 C2 HQ HT 
+D4 DK DA D3 
+CA C3 C7 C6 
+DT C4 S3 D5 
+C8 C5 H4 H5 
+HA C9 H7 HJ 
+CT CJ H9 HK 
+H8 S2 S4 D8 
+CQ CK S5 D6 
+S6 SA S8 D7 
+S7 SJ S9 H3 
+SK SQ ST H6 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "6"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T98543.Q974.A2.7 .KJT653.Q87653.6 K76.A82.JT4.AQT8 AQJ2..K9.KJ95432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68645686457579875798"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  4
+N  C  5
+S NT  6
+S  S  8
+S  H  6
+S  D  4
+S  C  5
+E NT  7
+E  S  5
+E  H  7
+E  D  9
+E  C  8
+W NT  7
+W  S  5
+W  H  7
+W  D  9
+W  C  8
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 10,0,3,330,133,308,126,308,81,88,292,256,64,196,41,23,20,67,25,23,118,374,50,20,26,56,24,35,31,48,26,30,16,31,123,45,43,47,57,19,22,88,49,34,50,58,26,23,20,46,35,20,12
+[Auction "E"]
+2H =1= Pass 3C =2= Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: constructive non-forcing"]
+[Play "N"]
+S9 H3 S6 SQ 
+S3 C6 S7 S2 
+DA D3 D4 DK 
+D2 DQ DJ D9 
+H7 H5 HA C2 
+C7 D5 CT C9 
+H4 D6 DT C5 
+H9 H6 C8 C4 
+S4 HT SK SA 
+S5 D7 CQ SJ 
+HQ HJ H8 C3 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "7"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K943.A754.AQT8.9 76.K862.KJ73.AKQ JT82.T.9652.T643 AQ5.QJ93.4.J8752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2738327373a5958a5a58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  3
+N  D  8
+N  C  3
+S NT  2
+S  S  7
+S  H  3
+S  D  7
+S  C  3
+E NT 10
+E  S  5
+E  H  9
+E  D  5
+E  C  8
+W NT 10
+W  S  5
+W  H 10
+W  D  5
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,62,110,448,212,78,404,52,44,39,35,20,36,26,23,330,11,23,26,30,11,76,83,24,16,71,185,19,24,24,16,46,15,13,364,23,8,28,12,15,9,13,25,16,9,17,10,13,9,22,10,19,8,48,8,22,12,7,9,10,9,7,11,14,7,7
+[Auction "S"]
+Pass Pass 1D =1= 1NT 
+Pass 2C =2= Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2 + 11 15"]
+[Note "2: sman"]
+[Play "S"]
+C3 C2 C9 CA 
+C4 C5 S4 CK 
+C6 C7 H4 CQ 
+HT HQ HA H2 
+D5 D4 D8 DJ 
+CT H3 H5 HK 
+D2 HJ H7 H8 
+D6 H9 S3 H6 
+S2 CJ DT S6 
+D9 C8 DQ S7 
+S8 SA S9 D3 
+ST S5 SK D7 
+SJ SQ DA DK 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "7"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K943.A754.AQT8.9 76.K862.KJ73.AKQ JT82.T.9652.T643 AQ5.QJ93.4.J8752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2738327373a5958a5a58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  3
+N  D  8
+N  C  3
+S NT  2
+S  S  7
+S  H  3
+S  D  7
+S  C  3
+E NT 10
+E  S  5
+E  H  9
+E  D  5
+E  C  8
+W NT 10
+W  S  5
+W  H 10
+W  D  5
+W  C  8
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,88,68,223,131,119,202,112,28,26,69,330,78,30,62,41,80,25,108,34,22,19,17,19,19,162,191,20,20,529,49,24,18,194,36,37,23,16,7
+[Auction "S"]
+Pass Pass 1H 1NT =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * 15/18 [0:16]"]
+[Play "S"]
+S2 S5 SK S7 
+ST SQ S3 S6 
+C3 C2 C9 CA 
+C4 C5 D8 CK 
+C6 C7 H5 CQ 
+HT HQ HA H2 
+D6 D4 DA D3 
+-  -  DQ -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "8"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ9.AQJ75.6.QJ52 QT5.982.AQJ97.94 K873.K4.K8.AKT63 642.T63.T5432.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cbc8ccbc8c0205002050"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 12
+N  D  8
+N  C 12
+S NT 12
+S  S 11
+S  H 12
+S  D  8
+S  C 12
+E NT  0
+E  S  2
+E  H  0
+E  D  5
+E  C  0
+W NT  0
+W  S  2
+W  H  0
+W  D  5
+W  C  0
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 25,2,1,214,62,82,108,29,286,349,609,53,39,43,117,229,38,24,105,45,23,17,82,32,7,8,22,20,10,9,22,11,152,16,22,13,10,19,19,29,50,22,30,20,8,45,13,64,15,20,11
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 4D X 6C 
+Pass Pass Pass 
+[Play "W"]
+C8 CQ C4 C3 
+C7 C2 C9 CA 
+H3 H5 H2 HK 
+H6 HA H8 H4 
+HT HQ H9 D8 
+D5 HJ D7 DK 
+D2 H7 D9 S3 
+S2 S9 ST SK 
+S4 SJ SQ S7 
+-  -  DA -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "8"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AJ9.AQJ75.6.QJ52 QT5.982.AQJ97.94 K873.K4.K8.AKT63 642.T63.T5432.87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cbc8ccbc8c0205002050"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 12
+N  D  8
+N  C 12
+S NT 12
+S  S 11
+S  H 12
+S  D  8
+S  C 12
+E NT  0
+E  S  2
+E  H  0
+E  D  5
+E  C  0
+W NT  0
+W  S  2
+W  H  0
+W  D  5
+W  C  0
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 25,0,3,80,68,40,106,50,751,43,134,46,166,40,354,66,170,72,154,53,143,102,50,14,128,45,34,21,50,42,13,10,24,17,14,24
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 2S Pass 3S 
+Pass 4C Pass 4D =1= 
+Pass 6C Pass Pass 
+Pass 
+[Note "1:  * Cue [0:07]"]
+[Play "W"]
+D3 D6 DA D8 
+D2 S9 DQ DK 
+C7 CQ C4 C3 
+C8 C2 C9 CA 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "9"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.AKJT65.A93.7 A9762.43.Q7.J964 J43.92.K85.AT853 T8.Q87.JT642.KQ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a9b89a8b892425424254"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S  8
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  4
+E  H  2
+E  D  5
+E  C  4
+W NT  2
+W  S  4
+W  H  2
+W  D  5
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,321,82,242,121,88,38,105,71,311,37,54,102,106,208,37,24,155,21,26,10,40,15,13,11,188,23,12,25,29,16,13,99,92,24,32,15,15,141,18,9,37,17,9,17,12,29,10,49,19,17,10,8,17,10,12,29,31
+[Auction "N"]
+1C =1= Pass 2C =2= Pass 
+2H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 5+cl fg"]
+[Play "E"]
+D7 D5 DT DA 
+H3 H2 H8 HA 
+H4 H9 H7 HK 
+S2 SJ ST S5 
+SA S3 S8 SK 
+DQ DK D2 D3 
+S6 S4 D4 SQ 
+C4 CA C2 C7 
+S7 D8 DJ D9 
+C6 C3 CK H5 
+C9 C5 HQ HJ 
+-  -  CQ -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "9"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ5.AKJT65.A93.7 A9762.43.Q7.J964 J43.92.K85.AT853 T8.Q87.JT642.KQ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a9b89a8b892425424254"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S  8
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  4
+E  H  2
+E  D  5
+E  C  4
+W NT  2
+W  S  4
+W  H  2
+W  D  5
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,161,33,103,71,293,66,79,46,46,35,130,176,30,15,26,26,24,38,35,24,43,19,23,51,19,24,227,47,8,31,546,44,23,37,92,22,31,25,54,22,59,13,78,22,34,25,23,24,24,22,26,27,8,21,10,15,9,15,11,9,21,13
+[Auction "N"]
+1H Pass 1NT Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+C4 CA C2 C7 
+H4 H9 H7 H5 
+H3 H2 H8 HJ 
+S2 D5 HQ HA 
+SA S3 S8 SK 
+C6 C8 CQ H6 
+S7 SJ ST S5 
+C9 C3 CK HT 
+D7 DK D2 D3 
+CJ C5 D4 HK 
+S6 S4 D6 SQ 
+DQ D8 DT DA 
+S9 CT DJ D9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "10"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:654.3.Q865.A9852 .A96.A972.KJT743 AQ92.JT85.KJT43. KJT873.KQ742..Q6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "55484554847795977959"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  8
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  8
+S  C  4
+E NT  7
+E  S  7
+E  H  9
+E  D  5
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,2,1,94,70,178,273,190,127,203,174,49,42,664,46,22,405,18,36,37,35,10,51,179,330,28,12,47,73,8,14,18,124,30,14,28,56,26,85,41,22,39,43
+[Auction "E"]
+1C X XX 1D 
+Pass 2D 3D Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+DJ S3 D6 D2 
+D4 S7 DQ D7 
+DT S8 D8 D9 
+DK ST D5 DA 
+S9 CQ CA C3 
+SA SJ S4 C4 
+D3 H2 S5 C7 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "10"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:654.3.Q865.A9852 .A96.A972.KJT743 AQ92.JT85.KJT43. KJT873.KQ742..Q6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "55484554847795977959"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  4
+N  D  8
+N  C  4
+S NT  5
+S  S  5
+S  H  4
+S  D  8
+S  C  4
+E NT  7
+E  S  7
+E  H  9
+E  D  5
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,0,3,212,94,194,437,47,160,102,194,216,77,551,66,390,49,37,379,123,41,40,129,29,171,41,100,23,14,24,341,40,45,17,648,40,18,26,894,44,31,561,557,46,75,42,149,87,35,115,103,33,51,22,37,98,26,39,29,28,25,10,11,16,9,7
+[Auction "E"]
+1C =1= X 1H =2= Pass 
+2C Pass 2H 3D 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4 or more S"]
+[Play "E"]
+H6 H8 HQ H3 
+H9 H5 H7 D5 
+C4 S2 C6 CA 
+C7 D3 CQ C2 
+HA HT H2 D6 
+CT DT S7 C5 
+C3 HJ HK S4 
+D2 S9 SJ S5 
+DA D4 S3 D8 
+D7 DJ S8 DQ 
+D9 SQ ST S6 
+CJ DK H4 C8 
+CK SA SK C9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "11"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T92.T85.KT864.74 K543.K9643.7.J62 QJ876.QJ7.A932.3 A.A2.QJ5.AKQT985"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2626026260b7b6cb7b6c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  6
+N  C  0
+S NT  2
+S  S  6
+S  H  2
+S  D  6
+S  C  0
+E NT 11
+E  S  7
+E  H 11
+E  D  6
+E  C 12
+W NT 11
+W  S  7
+W  H 11
+W  D  6
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 27,2,1,105,167,79,156,47,161,45,132,37,576,44,214,72,277,181,357,36,42,35,62,143,21,19,64,117,19,35,26,20,30,15,37,14,82,23,52,84,9,117,46,53,12,53
+[Auction "S"]
+Pass 2NT Pass 3D =1= 
+Pass 3H Pass 3S =2= 
+Pass 4NT Pass 5D =3= 
+X 5NT Pass 6H =4= 
+Pass Pass Pass 
+[Note "1:  * hearts [0:09]"]
+[Note "2: and 4S"]
+[Note "3: 1 key card"]
+[Note "4:  * shows KH [0:12]"]
+[Play "N"]
+D6 D7 DA D5 
+C7 CJ C3 C5 
+H5 H3 HQ HA 
+H8 H9 HJ H2 
+HT HK H7 DJ 
+D4 H6 S8 DQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "11"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T92.T85.KT864.74 K543.K9643.7.J62 QJ876.QJ7.A932.3 A.A2.QJ5.AKQT985"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2626026260b7b6cb7b6c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  2
+N  D  6
+N  C  0
+S NT  2
+S  S  6
+S  H  2
+S  D  6
+S  C  0
+E NT 11
+E  S  7
+E  H 11
+E  D  6
+E  C 12
+W NT 11
+W  S  7
+W  H 11
+W  D  6
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,0,3,142,270,241,99,44,427,212,129,53,105,76,54,58,42,39,537,44,187,165,15,29,55,25,62,31,103,49,24,30
+[Auction "S"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2D =3= Pass 2H =4= 
+Pass 2NT =5= Pass 3H =6= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: strong forcing & artif"]
+[Note "2: relay"]
+[Note "3: 8 playing tr based on suit other than H"]
+[Note "4: relay"]
+[Note "5: clubs"]
+[Note "6:  * nat pos [0:10]"]
+[Play "N"]
+D6 D7 DA D5 
+DK H3 D2 DJ 
+D4 S3 D9 DQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "12"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT832.KJT7.3.875 K.Q954.AKQJ7.AQ6 QJ4.A632.842.JT9 9765.8.T965.K432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "4872448724556b9556b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  7
+N  D  2
+N  C  4
+S NT  4
+S  S  8
+S  H  7
+S  D  2
+S  C  4
+E NT  5
+E  S  5
+E  H  6
+E  D 11
+E  C  9
+W NT  5
+W  S  5
+W  H  6
+W  D 11
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 6,2,1,416,66,460,45,131,403,61,102,36,48,135,26,16,81,84,17,80,114,53,11,122,24,9,7,78,19,13,11,83,27,9,50,11,20,8,7,9,9,14,9,9,7,10,13,111,24,35,23,17,16,17,9,10,17,8,15,7,54,9,45,18,10,9,7
+[Auction "W"]
+Pass Pass 1D Pass 
+Pass 1S X Pass 
+2D Pass Pass Pass 
+[Play "S"]
+SQ S5 SA SK 
+S4 S6 S2 DA 
+D2 D5 D3 DK 
+D4 D6 S3 DQ 
+D8 D9 C5 DJ 
+C9 C2 C7 CA 
+CT C3 C8 CQ 
+CJ CK H7 C6 
+HA H8 HT HQ 
+SJ S7 S8 D7 
+H2 DT HJ H4 
+H3 C4 HK H5 
+H6 S9 ST H9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "12"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AT832.KJT7.3.875 K.Q954.AKQJ7.AQ6 QJ4.A632.842.JT9 9765.8.T965.K432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "4872448724556b9556b9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  7
+N  D  2
+N  C  4
+S NT  4
+S  S  8
+S  H  7
+S  D  2
+S  C  4
+E NT  5
+E  S  5
+E  H  6
+E  D 11
+E  C  9
+W NT  5
+W  S  5
+W  H  6
+W  D 11
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 9,0,3,73,148,113,135,294,57,103,84,42,29,61,22,13,26,16,17,14,198,36,14,15,36,23,52,16,387,31,24,18,22,36,28,12,12,16,16,16,122,17,32,11,33,14,20,27,18,13,16,10,20,13,15,8,11,7,13,7,7
+[Auction "W"]
+Pass Pass 2NT =1= Pass 
+Pass Pass 
+[Note "1: 20/21"]
+[Play "S"]
+CJ C2 C5 CA 
+D2 D5 D3 DA 
+D4 D6 S3 DK 
+D8 D9 S2 DQ 
+H2 DT C7 DJ 
+H3 H8 S8 D7 
+C9 C3 C8 CQ 
+CT CK ST C6 
+H6 C4 H7 H4 
+S4 S5 SA SK 
+HA S6 HK H5 
+SJ S7 HT H9 
+SQ S9 HJ HQ 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "13"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJT975.KJ9.75.K2 4.T74.JT93.JT987 AQ6.A652.Q62.Q53 832.Q83.AK84.A64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS 800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "8a955aaa553227732277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  5
+N  C  5
+S NT 10
+S  S 10
+S  H 10
+S  D  5
+S  C  5
+E NT  3
+E  S  2
+E  H  2
+E  D  7
+E  C  7
+W NT  3
+W  S  2
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 20,2,1,163,35,121,174,49,789,51,29,115,19,37,123,45,10,25,20,65,24,515,20,18,15,52,115,17,11,21,15,18,12,385,22,80,28,189,49,8,21,9,15,7,9,7,16,7,11,7,17,7,9,10,16,45,43,18,12,18,8,8,9,8,9
+[Auction "N"]
+1S Pass 4S X 
+Pass 5C X Pass 
+Pass Pass 
+[Play "S"]
+SA S2 S9 S4 
+SQ S3 ST C7 
+C3 C4 CK CJ 
+S6 S8 SK C8 
+C5 C6 C2 CT 
+DQ DA D7 DJ 
+CQ CA S5 C9 
+D2 DK D5 D3 
+D6 D4 S7 D9 
+H6 D8 SJ DT 
+H2 H8 H9 H4 
+HA H3 HJ H7 
+H5 HQ HK HT 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "13"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJT975.KJ9.75.K2 4.T74.JT93.JT987 AQ6.A652.Q62.Q53 832.Q83.AK84.A64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "8a955aaa553227732277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  5
+N  C  5
+S NT 10
+S  S 10
+S  H 10
+S  D  5
+S  C  5
+E NT  3
+E  S  2
+E  H  2
+E  D  7
+E  C  7
+W NT  3
+W  S  2
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,0,3,147,37,105,47,79,31,81,52,126,31,55,251,41,30,72,25,40,19,32,24,26,12,260,24,31,41,56,25,25,22,188,25,29,31,106,46,16,26,68,25,11,17,19,14,11,26,23,35,10,9
+[Auction "N"]
+1S Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DJ D2 D8 D5 
+DT D6 DK D7 
+D3 DQ DA S9 
+S4 S6 S2 SK 
+C7 SQ S3 S5 
+H7 H2 H3 HJ 
+D9 SA S8 S7 
+H4 H5 H8 HK 
+HT HA HQ H9 
+CJ H6 D4 C2 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "14"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT65.KQJ9.982.A9 K.T7643.K53.QJT7 J432.A82.T64.K83 Q987.5.AQJ7.6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "87765877655567855678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  6
+N  C  5
+S NT  8
+S  S  7
+S  H  7
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,326,59,146,110,53,52,58,103,31,50,26,78,149,32,23,16,39,15,23,37,24,84,12,313,22,38,17,23,46,17,27,29,12,15,48,41,18,7,8,98,20,8,21,160,40,14,8,24,16,7,10
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2S 
+Pass Pass Pass 
+[Play "W"]
+H5 H9 HT HA 
+S8 ST SK S2 
+DJ D2 D3 D4 
+C5 CA C7 C3 
+S7 SA H7 S3 
+S9 HJ H6 H2 
+DA D8 D5 D6 
+C2 C9 CT CK 
+SQ HQ H4 H8 
+D7 D9 DK DT 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "14"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AT65.KQJ9.982.A9 K.T7643.K53.QJT7 J432.A82.T64.K83 Q987.5.AQJ7.6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS 80"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "87765877655567855678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  7
+N  D  6
+N  C  5
+S NT  8
+S  S  7
+S  H  7
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  6
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 3,0,3,59,32,33,129,37,92,47,247,133,170,828,42,29,24,36,38,31,34,18,72,12,175,18,16,9,60,18,7,17,99,25,22,37,75,57,21,32,35,20,12,25,49,39,13,9,21,8,13,90,45,22,13,12,29
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1S Pass Pass 
+Pass 
+[Play "W"]
+C5 C9 CT CK 
+S7 ST SK S2 
+DJ D2 D3 D4 
+DA D8 D5 DT 
+DQ D9 DK D6 
+C2 CA C7 C3 
+S8 SA H3 S3 
+H5 H9 HT HA 
+C4 S5 CJ C8 
+S9 HJ H4 H2 
+SQ S6 H7 S4 
+D7 -  -  -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "15"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQJ3.A87.K764.42 T964.T5.QT95.AKQ K2.KQ96.A83.8753 875.J432.J2.JT96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "99a9899a984434444344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  9
+N  C  8
+S NT  9
+S  S  9
+S  H 10
+S  D  9
+S  C  8
+E NT  4
+E  S  4
+E  H  3
+E  D  4
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,2,1,219,93,106,57,135,40,80,33,33,51,412,92,33,34,11,19,13,6,10,16,12,72,380,230,21,11,297,20,8,19,17,17,11,28,127,13,61,18,54,32,21,15,36,25,12,12,58,13,32,13,60,14,9,169,31,17,9,18,7,14,6,7
+[Auction "S"]
+1D =1= Pass 1S Pass 
+1NT =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+ds 11-15"]
+[Note "2: 11-15"]
+[Play "W"]
+CJ C2 CQ C3 
+C6 C4 CA C5 
+C9 D4 CK C7 
+S5 S3 ST SK 
+S7 SJ S4 S2 
+S8 SQ S6 D3 
+DJ SA S9 D8 
+D2 D6 D9 DA 
+H2 H7 H5 HK 
+H3 HA HT H6 
+CT DK D5 C8 
+H4 H8 DT HQ 
+HJ D7 DQ H9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "15"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQJ3.A87.K764.42 T964.T5.QT95.AKQ K2.KQ96.A83.8753 875.J432.J2.JT96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "99a9899a984434444344"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D  9
+N  C  8
+S NT  9
+S  S  9
+S  H 10
+S  D  9
+S  C  8
+E NT  4
+E  S  4
+E  H  3
+E  D  4
+E  C  4
+W NT  4
+W  S  4
+W  H  3
+W  D  4
+W  C  4
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,206,47,85,75,51,40,124,44,71,42,395,122,266,17,329,13,35,14,18,14,23,15,135,422,68,14,883,46,15,23,36,26,14,11,118,19,29,35,23,15,30,49,24,20,14,93,18,19,12,17,18,17,11,23,15,20,13,7,17,18,14,8
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2:  * Stayman [0:19]"]
+[Play "W"]
+CJ C2 CQ C5 
+C6 C4 CK C3 
+C9 D4 CA C7 
+D2 DK DT D3 
+S5 S3 S9 SK 
+S7 SJ S4 S2 
+S8 SQ S6 D8 
+DJ SA ST C8 
+CT D6 D9 DA 
+H2 HA H5 H6 
+H3 H7 HT HK 
+H4 H8 D5 HQ 
+HJ D7 DQ H9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "16"]
+[West "David Wing#"]
+[North "Celia Oram#12269"]
+[East "Cathryn Barley#"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJT98.KJ9.T2.875 A2.643.AKJ63.QJ3 Q765.AT752..K962 43.Q8.Q98754.AT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "3993639936844a6844a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  9
+N  D  3
+N  C  6
+S NT  3
+S  S  9
+S  H  9
+S  D  3
+S  C  6
+E NT  8
+E  S  4
+E  H  4
+E  D 10
+E  C  6
+W NT  8
+W  S  4
+W  H  4
+W  D 10
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,341,118,371,53,110,77,332,30,28,20,23,90,24,10,31,17,36,9,10,11,24,8,17,16,12,29,61,57,8,11,38
+[Auction "W"]
+2D =1= Pass 2NT =2= Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * wk [0:19]"]
+[Note "2: asking"]
+[Play "S"]
+H5 HQ HK H3 
+H2 H8 HJ H4 
+HT S3 H9 H6 
+HA C4 S9 C3 
+H7 S4 C5 S2 
+S5 -  -  -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "16"]
+[West "Dee Lindon#42916"]
+[North "John Osmond#429742"]
+[East "Peter Lindon#50851"]
+[South "Simon#Cocheme"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJT98.KJ9.T2.875 A2.643.AKJ63.QJ3 Q765.AT752..K962 43.Q8.Q98754.AT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "3993639936844a6844a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  9
+N  D  3
+N  C  6
+S NT  3
+S  S  9
+S  H  9
+S  D  3
+S  C  6
+E NT  8
+E  S  4
+E  H  4
+E  D 10
+E  C  6
+W NT  8
+W  S  4
+W  H  4
+W  D 10
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,0,3,321,120,290,127,310,251,70,246,56,229,38,24,75,15,31,17,43,113,59,255,68,33,35,78,91,56,16,11,14,16,33,13,24,53,22,29,33,27,8,15,12,22,20,16
+[Auction "W"]
+2D =1= Pass 2H =2= Pass 
+3D =3= Pass Pass Pass 
+[Note "1: 6D 6-10 pts"]
+[Note "2: artificial ask"]
+[Note "3: min min"]
+[Play "N"]
+SJ SA S5 S3 
+D2 DA H2 D4 
+DT DK S6 D5 
+C5 CQ CK CA 
+C7 C3 C2 CT 
+C8 CJ C6 C4 
+S8 S2 S7 S4 
+HK H3 H7 H8 
+HJ H4 HA HQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "17"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT8764.A.T65.754 Q953.T6.AJ2.AQJT K2.J7432.K7.9832 A.KQ985.Q9843.K6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2532125321b7aaba7aab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  2
+N  C  1
+S NT  2
+S  S  5
+S  H  3
+S  D  2
+S  C  1
+E NT 11
+E  S  7
+E  H 10
+E  D 10
+E  C 11
+W NT 10
+W  S  7
+W  H 10
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,579,281,154,269,77,101,64,36,44,32,108,31,84,21,65,36,22,22,57,16,55,130,38,15,7,61,43,18,21,232,56,42,27,66,12,15,38,14,10,10,24,18,32,9,15,14,11,8,14
+[Auction "N"]
+2S =1= Pass Pass X 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "S"]
+SK SA S4 S3 
+DK D3 D5 DJ 
+S2 H5 ST SQ 
+D7 D4 D6 DA 
+H2 HK HA H6 
+H3 DQ DT D2 
+C8 D9 S6 S5 
+C3 D8 S7 S9 
+H4 HQ S8 HT 
+C2 CK C4 CA 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "17"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:JT8764.A.T65.754 Q953.T6.AJ2.AQJT K2.J7432.K7.9832 A.KQ985.Q9843.K6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2532125321b7aaba7aab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  2
+N  C  1
+S NT  2
+S  S  5
+S  H  3
+S  D  2
+S  C  1
+E NT 11
+E  S  7
+E  H 10
+E  D 10
+E  C 11
+W NT 10
+W  S  7
+W  H 10
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,435,102,52,152,38,33,29,213,24,118,23,21,346,14,59,23,34,154,30,31,64,7,75,237,33,47,18,15,98,10,36,704,23,9,28,24,16,11,8,29,22,14,18,28,7,19,28,10,7,23,12,8,15,14,12,6,11,8,6,8,9,26,6
+[Auction "N"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 12-14 [0:13]"]
+[Note "2: ♡"]
+[Play "S"]
+C8 CK C4 CJ 
+DK D3 D5 DJ 
+C9 C6 C7 CT 
+H2 HK HA H6 
+C3 H5 C5 CA 
+C2 H8 S4 CQ 
+D7 D4 D6 DA 
+H3 DQ DT D2 
+H4 D9 S6 S3 
+S2 D8 S7 S5 
+H7 HQ S8 HT 
+SK SA ST S9 
+HJ H9 SJ SQ 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "18"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:4.KJT763.Q96.A95 AKQ98.A84.AK4.76 JT52..T75.KQJT42 763.Q952.J832.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75659756596868467673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  5
+N  C  9
+S NT  7
+S  S  5
+S  H  6
+S  D  5
+S  C  9
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,1,3,183,124,41,200,24,150,44,18,20,18,44,15,18,31,8,30,17,23,9,39,21,34,31,16,15,63,9,10,15,28,9,23,42,29,11,18,26,24,10,9,8,19,11,7,15,57,14,7,13,19,11,129,15,14,15,8
+[Auction "E"]
+2NT =1= Pass Pass Pass 
+[Note "1: 20/21"]
+[Play "S"]
+CK C3 CA C6 
+CT C8 C9 C7 
+CQ D2 C5 H4 
+CJ S3 H3 H8 
+C4 S6 H6 D4 
+C2 S7 S4 S8 
+SJ H2 H7 SA 
+S2 D3 HT SK 
+D5 D8 D6 DA 
+D7 DJ D9 DK 
+DT H5 HJ HA 
+S5 H9 DQ SQ 
+ST HQ HK S9 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "18"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:4.KJT763.Q96.A95 AKQ98.A84.AK4.76 JT52..T75.KQJT42 763.Q952.J832.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75659756596868467673"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  6
+N  D  5
+N  C  9
+S NT  7
+S  S  5
+S  H  6
+S  D  5
+S  C  9
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  4
+W NT  6
+W  S  7
+W  H  6
+W  D  7
+W  C  3
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 9,2,0,318,44,101,110,26,189,10,31,11,51,21,16,13,88,8,62,17,90,9,36,19,42,11,18,43,79,6,36,27,26,10,47,19,18,13,9,45,15,12,8,8,15,10,129,9,17,33,9,13,15,9
+[Auction "E"]
+2NT =1= Pass Pass Pass 
+[Note "1: 20-22"]
+[Play "S"]
+CK C3 CA C6 
+CT C8 C9 C7 
+CQ S3 C5 H4 
+CJ D2 H7 D4 
+C4 H2 S4 H8 
+C2 D3 H3 S8 
+SJ S6 H6 SA 
+D5 H9 HT HA 
+D7 D8 D6 DA 
+DT DJ D9 DK 
+S2 S7 HJ SK 
+S5 H5 -  SQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "19"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q85.A7.942.K9653 KT96.842.AJ53.T8 J72.KT963.T6.Q74 A43.QJ5.KQ87.AJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "44646446469878798787"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  6
+E NT  9
+E  S  8
+E  H  7
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H  7
+W  D  8
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,144,65,112,31,48,114,52,25,49,26,82,15,214,29,68,201,41,29,11,40,10,27,28,63,34,136,39,63,73,18,55,180,55,27,29,38,23,35,9,39,12,36,11,59,44,41,12,96,21,24,14,43,16,15,9,14,11,13,14,8,21,10,11
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 2NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 17-18"]
+[Play "N"]
+C5 C8 CQ CA 
+S5 S6 S2 SA 
+S8 S9 SJ S3 
+CK CT C7 C2 
+C9 H2 C4 CJ 
+D2 DJ D6 D7 
+D4 DA DT D8 
+D9 D3 H3 DK 
+H7 D5 S7 DQ 
+SQ SK H6 S4 
+C3 ST H9 H5 
+HA H4 HT HJ 
+C6 H8 HK HQ 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "19"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q85.A7.942.K9653 KT96.842.AJ53.T8 J72.KT963.T6.Q74 A43.QJ5.KQ87.AJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "44646446469878798787"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  6
+E NT  9
+E  S  8
+E  H  7
+E  D  8
+E  C  7
+W NT  9
+W  S  8
+W  H  7
+W  D  8
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,75,76,61,146,48,48,60,263,38,116,23,93,19,18,246,22,27,277,28,12,6,24,12,15,16,16,16,11,9,18,22,10,18,13,38,7,17,33,22,11,15,15,22,18,10
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT =1= Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * 15-17 [0:13]"]
+[Play "N"]
+C5 C8 CQ CA 
+S5 S6 S2 SA 
+S8 SK S7 S3 
+SQ ST SJ S4 
+CK CT C7 C2 
+C3 H2 C4 CJ 
+D2 DA D6 D7 
+H7 S9 H6 H5 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "20"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KJ8.AJ97532.A64. 654.KQT4.K987.J8 AQT2.86.Q52.A632 973..JT3.KQT9754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8aa8589a964334743347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H 10
+S  D  9
+S  C  6
+E NT  4
+E  S  3
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  3
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,2,0,109,295,101,62,57,84,38,30,28,71,78,28,80,153,28,618,98,29,25,44,19,62,33,10,5,130,29,19,32,42,31,57,21,21,24,31,40,38,29,11,36,20,23,9,24
+[Auction "W"]
+3C 3H Pass 3NT 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+CJ CA C4 D4 
+HT H6 C5 H2 
+C8 C2 CQ H3 
+H4 H8 C7 HA 
+HK C3 C9 H7 
+HQ C6 CT H5 
+S5 S2 S9 SJ 
+S4 D2 S3 HJ 
+S6 ST S7 SK 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "20"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KJ8.AJ97532.A64. 654.KQT4.K987.J8 AQT2.86.Q52.A632 973..JT3.KQT9754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8aa8589a964334743347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  8
+N  C  5
+S NT  8
+S  S  9
+S  H 10
+S  D  9
+S  C  6
+E NT  4
+E  S  3
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  3
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,235,126,49,174,59,498,40,42,35,287,125,94,11,35,30,631,56,501,37,24,20,29,36,9,26,33,24,9,28,192,22,35,94
+[Auction "W"]
+3C 3H Pass 3NT 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+CJ CA C7 D4 
+HT H6 C4 H2 
+C8 C2 C9 H3 
+H4 H8 C5 HA 
+HQ C3 CT H7 
+D9 DQ D3 D6 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "21"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:954.9532.3.J7432 AJT2.KT6.KT962.8 KQ873.AJ87.A8.KT 6.Q4.QJ754.AQ965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "11"]
+[Score "NS -550"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "4772547725966b8855b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  7
+N  D  2
+N  C  5
+S NT  4
+S  S  7
+S  H  7
+S  D  2
+S  C  5
+E NT  9
+E  S  6
+E  H  6
+E  D 11
+E  C  8
+W NT  8
+W  S  5
+W  H  5
+W  D 11
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 21,1,3,104,53,184,237,80,32,169,44,120,33,55,125,63,431,168,127,31,7,36,18,29,9,15,17,7,11,124,60,13,17,42,49,24,7,21,24,12,11,15,11,8,18,24,38,12,7
+[Auction "N"]
+Pass 1D X 5D 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+SK S6 S9 SA 
+DA D4 D3 D2 
+HA H4 H9 H6 
+H7 HQ H2 HT 
+D8 D5 S5 DK 
+SQ D7 S4 SJ 
+CT CA C2 C8 
+CK C5 C3 D6 
+H8 C6 H3 HK 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "21"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:954.9532.3.J7432 AJT2.KT6.KT962.8 KQ873.AJ87.A8.KT 6.Q4.QJ754.AQ965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "4772547725966b8855b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  7
+N  D  2
+N  C  5
+S NT  4
+S  S  7
+S  H  7
+S  D  2
+S  C  5
+E NT  9
+E  S  6
+E  H  6
+E  D 11
+E  C  8
+W NT  8
+W  S  5
+W  H  5
+W  D 11
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 11,2,0,164,155,129,667,158,107,49,146,43,450,39,19,373,8,20,409,30,21,20,70,45,268,19,14,27,7,15,7
+[Auction "N"]
+Pass 1D X XX =1= 
+Pass Pass 1S 3D 
+Pass Pass Pass 
+[Note "1: 10+"]
+[Play "S"]
+SK S6 S4 SA 
+D8 DQ D3 D2 
+DA D4 H3 DK 
+HA H4 H2 H6 
+H7 -  -  -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "22"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J96.J76.KJ653.J4 QT.AQ.A874.KT862 K32.K42.T9.Q9753 A8754.T9853.Q2.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "53355533557997779a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  3
+S  H  3
+S  D  5
+S  C  5
+E NT  7
+E  S  9
+E  H  9
+E  D  7
+E  C  7
+W NT  7
+W  S  9
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,1,3,283,185,115,126,181,39,357,45,438,118,129,44,17,63,78,128,53,52,226,23,11,22,20,45,18,16,19,32,108,72,51,134,10,79,23,35,25,31,26,209,25,16,752,43,53,23,63,40,15,5,15,25,11,9,15,19,12,48,9,9,20,10,8,7,8,14
+[Auction "E"]
+1C =1= Pass 1H =2= Pass 
+1NT =3= Pass 2C =4= Pass 
+2D =5= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 4 or more S"]
+[Note "3: 15/17 4+♣"]
+[Note "4: check back"]
+[Note "5: 15/16 not 3♠ nor 4♡"]
+[Play "S"]
+H2 H8 HJ HQ 
+H4 H3 H6 HA 
+C3 CA C4 C6 
+HK HT H7 C2 
+C5 S4 CJ CK 
+DT DQ DK D4 
+D9 D2 D3 D8 
+S3 S7 SJ SQ 
+C7 S5 D5 DA 
+S2 SA S6 ST 
+C9 H9 D6 D7 
+CQ H5 DJ C8 
+SK S8 S9 CT 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "22"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J96.J76.KJ653.J4 QT.AQ.A874.KT862 K32.K42.T9.Q9753 A8754.T9853.Q2.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "53355533557997779a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  3
+S  H  3
+S  D  5
+S  C  5
+E NT  7
+E  S  9
+E  H  9
+E  D  7
+E  C  7
+W NT  7
+W  S  9
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,2,0,309,82,93,48,222,69,421,130,975,39,18,25,19,396,10,44,114,14,24,66,52,188,12,44,38,19,10,17,98,13,31,29,156,540,20,11,457,291,17,10,35,28,166,19,11,36,34,11,18,61,13,8,11,21,8,19,11,15,11,59,10,15,30,7
+[Auction "E"]
+1C Pass 1S Pass 
+1NT Pass 3H Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+C5 CA C4 C2 
+HK H3 H6 HQ 
+C3 S4 CJ CK 
+H2 H5 H7 HA 
+D9 DQ DK D4 
+SK S5 S6 SQ 
+S3 SA S9 ST 
+H4 H8 HJ C6 
+S2 S7 SJ C8 
+DT D2 D5 DA 
+C7 H9 DJ D7 
+C9 S8 D6 D8 
+CQ HT D3 CT 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "23"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ53.J83.J2.KQ54 JT9872.96.43.A96 K64.AK75.KQ7.873 .QT42.AT9865.JT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "97858978684647446574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  9
+S  S  7
+S  H  8
+S  D  6
+S  C  8
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  4
+W NT  4
+W  S  6
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,283,96,245,26,120,50,102,49,37,36,34,457,33,32,308,26,13,42,18,29,13,9,122,32,36,27,56,52,27,52,172,48,23,12,10,51,62,13,86,37,31,18,107,26,14,8,29,6,25,31,30,29,13,12,22,9,16,28,11,7,16,20
+[Auction "S"]
+1C 1D 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+DT DJ D4 D7 
+H2 H3 H6 HA 
+H4 H8 H9 HK 
+HQ HJ S2 H5 
+HT C4 S7 H7 
+CJ CK CA C3 
+DA D2 D3 DK 
+D9 C5 C6 DQ 
+C2 CQ C9 C7 
+D5 S3 ST SK 
+D6 SA SJ S6 
+D8 SQ S9 S4 
+CT S5 S8 C8 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "23"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQ53.J83.J2.KQ54 JT9872.96.43.A96 K64.AK75.KQ7.873 .QT42.AT9865.JT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "97858978684647446574"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  5
+N  C  8
+S NT  9
+S  S  7
+S  H  8
+S  D  6
+S  C  8
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  4
+W NT  4
+W  S  6
+W  H  5
+W  D  7
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,166,111,100,211,129,30,86,38,29,53,65,283,97,21,65,28,19,101,309,81,24,16,69,37,15,14,279,22,12,40,86,43,53,18,57,40,53,22,125,33,9,319,31,148,41,29,27,118,22,17,25,25
+[Auction "S"]
+1NT =1= Pass 2C Pass 
+2H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+DT D2 D4 DK 
+C2 CQ C6 C7 
+H2 H3 H6 HK 
+H4 HJ H9 H5 
+DA DJ D3 D7 
+D9 C4 S8 DQ 
+D5 SA S2 S4 
+D6 S3 S9 SK 
+CT SQ S7 S6 
+HT H8 C9 HA 
+CJ -  -  C3 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "24"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q86432.AT98.6.AT AK5.KJ75.A3.J732 T.Q63.KJ98742.K9 J97.42.QT5.Q8654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "57794576848554985549"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  9
+N  C  4
+S NT  5
+S  S  7
+S  H  6
+S  D  8
+S  C  4
+E NT  8
+E  S  5
+E  H  5
+E  D  4
+E  C  9
+W NT  8
+W  S  5
+W  H  5
+W  D  4
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 6,1,3,68,139,43,303,66,81,55,103,366,25,11,60,36,37,26,319,83,21,13,14,34,41,18,28,37,35,7,62,27,15,10,285,106,20,29,30,27,15,8,14,45,30,26,37,17,15,103,23
+[Auction "W"]
+Pass 1S 1NT 2D 
+Pass Pass Pass 
+[Play "W"]
+C5 CA C3 C9 
+H4 H8 HK H3 
+D5 D6 DA D2 
+C4 CT C2 CK 
+DT S2 D3 DK 
+DQ S3 S5 DJ 
+CQ S4 CJ D4 
+H2 H9 H5 HQ 
+C6 HA H7 H6 
+C8 HT HJ ST 
+-  -  C7 -  
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "24"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q86432.AT98.6.AT AK5.KJ75.A3.J732 T.Q63.KJ98742.K9 J97.42.QT5.Q8654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "57794576848554985549"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  7
+N  D  9
+N  C  4
+S NT  5
+S  S  7
+S  H  6
+S  D  8
+S  C  4
+E NT  8
+E  S  5
+E  H  5
+E  D  4
+E  C  9
+W NT  8
+W  S  5
+W  H  5
+W  D  4
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,2,0,105,74,71,138,72,187,103,47,267,31,33,173,54,639,27,34,402,33,32,22,59,19,20,11,30,26,16,17,56,114,18,14,38,21,26,16,20,14,32,31
+[Auction "W"]
+Pass 1S 1NT 2D 
+Pass Pass X Pass 
+3C Pass Pass Pass 
+[Play "N"]
+D6 D3 DK DT 
+SQ SA ST SJ 
+CT C2 CK C6 
+HA H5 H3 H2 
+S2 SK C9 S7 
+CA DA D9 D5 
+S8 S5 D4 S9 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "25"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.AJ72.Q97.AKJ76 AKQJ93.Q8543.5.T 7542.K9.J.Q98432 86.T6.AKT86432.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "5454b5454b5978259782"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  4
+N  C 11
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C 11
+E NT  5
+E  S  9
+E  H  7
+E  D  8
+E  C  2
+W NT  5
+W  S  9
+W  H  7
+W  D  8
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 20,1,3,248,415,633,251,384,80,45,90,35,114,21,33,229,31,27,58,46,27,8,21,175,31,7,20,30,27,16,8,9,21,8,29
+[Auction "N"]
+1C 1S 4C Pass 
+5C Pass Pass Pass 
+[Play "E"]
+SK S2 S8 ST 
+H4 H9 HT HJ 
+CT C2 C5 CA 
+H5 HK H6 H2 
+S3 S4 S6 CK 
+H3 DJ D8 HA 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "25"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.AJ72.Q97.AKJ76 AKQJ93.Q8543.5.T 7542.K9.J.Q98432 86.T6.AKT86432.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "5454b5454b5978259782"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  4
+N  C 11
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C 11
+E NT  5
+E  S  9
+E  H  7
+E  D  8
+E  C  2
+W NT  5
+W  S  9
+W  H  7
+W  D  8
+W  C  2
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 23,2,0,232,199,242,74,435,138,143,135,22,59,153,14,234,14,16,79,12,11,77,37,94,10,26,105,373,51,12,28,84,18,31,15,18,19,13,86,81,69,14,13,31,22,14,15,20,11,17,146,19,10,9,212,25,11,8,8,13,9,9,10,64,8,8
+[Auction "N"]
+1D 1S 2C =1= Pass 
+5C =2= 5H Pass 5S 
+Pass Pass Pass 
+[Note "1: non forcing"]
+[Note "2: Alerted"]
+[Play "S"]
+DJ DA D7 D5 
+S2 DK D9 CT 
+C4 C5 CK S3 
+HK H6 H7 H3 
+S4 S6 ST SA 
+H9 HT HJ H4 
+C3 D2 DQ S9 
+C2 S8 H2 H5 
+C8 D3 C6 SJ 
+S5 D4 C7 SK 
+S7 D6 CJ SQ 
+C9 D8 HA HQ 
+CQ DT CA H8 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "26"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT43.AJ.J74.KT62 Q9.K98643.K96.Q4 6.QT75.AQ3.A8753 AJ8752.2.T852.J9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "5"]
+[Score "NS 800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "a799ba799b2644226442"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D  9
+N  C 11
+S NT 10
+S  S  7
+S  H  9
+S  D  9
+S  C 11
+E NT  2
+E  S  6
+E  H  4
+E  D  4
+E  C  2
+W NT  2
+W  S  6
+W  H  4
+W  D  4
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 7,1,3,394,129,33,359,35,34,861,116,218,495,20,548,276,25,50,666,33,20,41,187,23,16,22,19,15,25,8,210,28,11,14,53,23,20,29,155,89,19,39,113,26,14,31,260,16,18,15,14,24,17,20,8,27,9,6,18,14,6,8
+[Auction "E"]
+2H =1= Pass Pass X 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+S6 S8 ST SQ 
+C3 SA S3 S9 
+DA D2 D4 DK 
+CA C9 C2 CQ 
+C5 CJ CK C4 
+H5 H2 HA H3 
+C7 S2 CT H4 
+D3 D5 DJ D9 
+C8 S5 C6 H6 
+DQ D8 D7 D6 
+H7 DT HJ HK 
+HT S7 S4 H9 
+HQ SJ SK H8 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "26"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KT43.AJ.J74.KT62 Q9.K98643.K96.Q4 6.QT75.AQ3.A8753 AJ8752.2.T852.J9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "a799ba799b2644226442"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  9
+N  D  9
+N  C 11
+S NT 10
+S  S  7
+S  H  9
+S  D  9
+S  C 11
+E NT  2
+E  S  6
+E  H  4
+E  D  4
+E  C  2
+W NT  2
+W  S  6
+W  H  4
+W  D  4
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,460,56,128,249,32,362,75,79,77,60,238,125,57,106,311,125,28,445,133,57,18,123,795,32,8,22,33,16,16,39,19,20,21,354,17,11,26,331,66,10,32,28,26,29,39,44,31,8,31,19,16,21,40,49,74,9,15,7,15,22,18,12,9,6,11
+[Auction "E"]
+2H Pass Pass X 
+Pass 2NT =1= Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: lebensohl"]
+[Play "W"]
+S7 S3 SQ S6 
+SA S4 S9 H5 
+H2 HA H3 H7 
+C9 C2 C4 CA 
+CJ CK CQ C3 
+D5 D4 D6 DQ 
+S5 CT H4 C5 
+S2 SK H6 HQ 
+S8 C6 H8 C7 
+D2 ST H9 C8 
+SJ HJ HK HT 
+D8 DJ D9 D3 
+DT D7 DK DA 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "27"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J8.KJ872.743.983 AT93.9643.K6.KQ5 K752.AQ.QT98.AT6 Q64.T5.AJ52.J742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "54655546558868888678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  5
+S  C  5
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  8
+W NT  8
+W  S  8
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,1,3,202,37,92,42,97,49,310,38,172,49,41,256,27,9,17,20,9,16,18,24,9,16,16,23,9,272,33,23,22,10,27,21,19,10,10,50,26,11,534,34,69,12,69,431,40,7,92,35,25,9,11,15,8
+[Auction "S"]
+1D Pass 1H Pass 
+1NT Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+CK CA C7 C3 
+H3 HA H5 H2 
+H4 HQ HT H7 
+CQ C6 C2 C9 
+DK D8 D5 D4 
+SA S2 S4 S8 
+D6 DT DJ D7 
+C5 D9 DA D3 
+H6 DQ D2 C8 
+H9 S5 C4 HK 
+S3 CT -  HJ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "27"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J8.KJ872.743.983 AT93.9643.K6.KQ5 K752.AQ.QT98.AT6 Q64.T5.AJ52.J742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "54655546558868888678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  4
+S  H  6
+S  D  5
+S  C  5
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  8
+W NT  8
+W  S  8
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,2,0,350,45,85,48,65,39,115,210,42,487,24,51,39,44,142,392,23,25,32,81,18,12,16,42,30,15,25,20,23,142,231,36,13,34,21,11,17,13,11,12,61,29,79,37,33,147,29,22,34,40,20,27,23,70,187,36,13,15,11,8,12,14,9,12,11
+[Auction "S"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass X 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2:  * hearts [0:22]"]
+[Play "N"]
+C8 CK CA C4 
+H7 H3 HA H5 
+H2 H4 HQ HT 
+C9 CQ C6 C2 
+H8 H6 D8 S4 
+D3 D6 D9 DA 
+D4 DK DT D2 
+HJ H9 DQ S6 
+C3 C5 CT C7 
+S8 S3 S2 SQ 
+SJ SA S5 CJ 
+D7 S9 SK D5 
+HK ST S7 DJ 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "28"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:75.AT.T7652.Q542 AKQT8.73.3.K9863 9642.542.AKQ4.AJ J3.KQJ986.J98.T7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "86496864965784757847"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  4
+N  D  9
+N  C  6
+S NT  8
+S  S  6
+S  H  4
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  7
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,1,3,242,76,62,41,32,180,127,58,45,50,27,396,17,23,63,34,22,134,17,38,14,39,115,28,18,30,54,38,10,28,15,228,30,20,100,36,9,22,74,28,26,15,89,27,23,30
+[Auction "W"]
+2H =1= Pass Pass X 
+Pass 2NT =2= 3H Pass 
+Pass Pass 
+[Note "1: 6H 5-9 pts"]
+[Note "2: lebensohl"]
+[Play "N"]
+S7 SA S2 S3 
+D2 D3 DQ D8 
+S5 SK S4 SJ 
+HT SQ S6 C7 
+HA H3 H2 H6 
+C2 CK CA CT 
+C4 C3 CJ H8 
+D5 H7 D4 D9 
+C5 ST S9 DJ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "28"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:75.AT.T7652.Q542 AKQT8.73.3.K9863 9642.542.AKQ4.AJ J3.KQJ986.J98.T7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "86496864965784757847"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  4
+N  D  9
+N  C  6
+S NT  8
+S  S  6
+S  H  4
+S  D  9
+S  C  6
+E NT  5
+E  S  7
+E  H  8
+E  D  4
+E  C  7
+W NT  5
+W  S  7
+W  H  8
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,2,0,152,96,310,53,362,95,131,33,73,21,100,76,26,32,208,31,25,11,126,24,6,26,34,44,12,8,31,18,17,82
+[Auction "W"]
+2H =1= Pass 2NT =2= Pass 
+3D =3= Pass 3H Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2:  * tell me more [0:09]"]
+[Note "3: good suit poor points"]
+[Play "N"]
+C2 C3 CJ CT 
+HA H3 H2 HQ 
+HT H7 H4 HJ 
+D2 D3 H5 HK 
+S7 C6 S4 H9 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "29"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T97532.52.A92.98 K864.KT96.KQ8.65 QJ.AQ4.643.KQ742 A.J873.JT75.AJT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "47456474569698796987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  7
+S  H  4
+S  D  5
+S  C  6
+E NT  9
+E  S  6
+E  H  9
+E  D  8
+E  C  7
+W NT  9
+W  S  6
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,1,3,497,79,81,68,287,48,58,36,49,98,99,368,119,46,151,21,13,42,19,38,32,11,211,112,62,24,267,85,9,141,266,107,21,835,56,41,43,32,329,67,28,16,240,36,12,21,12,24,10,105,38,18,16,105,30,33,24,27,17,11,19,9
+[Auction "N"]
+Pass Pass 1NT Pass 
+2H =1= Pass 2S Pass 
+Pass Pass 
+[Note "1: transfer"]
+[Play "W"]
+DJ DA DQ D6 
+SA S2 S4 SJ 
+D5 D2 DK D4 
+CA C8 C6 CK 
+CJ C9 C5 CQ 
+H3 S3 S6 SQ 
+C3 S5 S8 C2 
+H7 H2 HT HQ 
+H8 H5 H6 HA 
+HJ S7 H9 H4 
+D7 S9 SK D3 
+DT D9 D8 C4 
+CT ST HK C7 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "29"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T97532.52.A92.98 K864.KT96.KQ8.65 QJ.AQ4.643.KQ742 A.J873.JT75.AJT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "47456474569698796987"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  7
+S  H  4
+S  D  5
+S  C  6
+E NT  9
+E  S  6
+E  H  9
+E  D  8
+E  C  7
+W NT  9
+W  S  6
+W  H  9
+W  D  8
+W  C  7
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,2,0,341,79,220,81,52,70,81,57,33,96,34,86,81,48,56,18,156,26,32,13,30,33,13,15,15,21,15,20,47,58,269,32,73,19,13,9,207,29,9,12,44,75,20,21,285,58,128,29,20,40,18,9,24,25,10,13,24,9,10,14,9,9,10,8
+[Auction "N"]
+Pass Pass 1D =1= Pass 
+1S Pass 1NT =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 2+ds 11-15"]
+[Note "2: 11-15"]
+[Play "E"]
+C6 CK CA C8 
+D8 D3 DJ DA 
+C5 CQ C3 C9 
+S4 SQ SA S2 
+SK C2 CJ S9 
+DK D4 D5 D2 
+DQ D6 D7 D9 
+S6 SJ H8 S3 
+S8 C7 CT S7 
+H6 HA H3 H2 
+H9 C4 DT H5 
+HT H4 H7 S5 
+HK HQ HJ ST 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "30"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J85.T9.KJ85.QJ65 A4.K8762.QT9.A94 KT62.J4.A642.T73 Q973.AQ53.73.K82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "443654436598a7898a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  6
+N  C  5
+S NT  4
+S  S  4
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 12,1,3,324,102,124,100,220,31,110,187,25,42,27,20,20,34,19,76,8,24,37,37,13,17,16,18,20,33,13,21,32,9,15,27,8,20
+[Auction "E"]
+1H Pass 3H Pass 
+Pass Pass 
+[Play "S"]
+HJ HQ H9 H6 
+DA D7 D5 D9 
+H4 H3 HT HK 
+C3 CK C5 C4 
+D4 D3 DK DT 
+C7 C2 CQ CA 
+D2 C8 D8 DQ 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "30"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J85.T9.KJ85.QJ65 A4.K8762.QT9.A94 KT62.J4.A642.T73 Q973.AQ53.73.K82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "443654436598a7898a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  6
+N  C  5
+S NT  4
+S  S  4
+S  H  3
+S  D  6
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  7
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,243,63,172,58,68,29,79,74,43,32,24,15,18,586,22,39,77,20,12,16,28,13,25,24,71,86,22,10,20,19,20,9,79,70,11,11,35,20,15,7
+[Auction "E"]
+1NT =1= Pass 2C Pass 
+2H Pass 3H Pass 
+4H Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "S"]
+C3 C2 CJ CA 
+H4 HA H9 H2 
+HJ H3 HT HK 
+S2 S3 S5 SA 
+SK S7 S8 S4 
+CT CK C5 C4 
+S6 SQ SJ C9 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "31"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:754.A8762.J3.A65 K63.KT43.9.T8732 AT982.5.Q74.KQJ9 QJ.QJ9.AKT8652.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "79647796476468664686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  4
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,1,3,112,134,474,64,61,189,72,91,34,11,73,34,22,22,383,70,309,26,668,50,56,21,295,65,11,32,15,25,20,31
+[Auction "S"]
+1S 2D 2S Pass 
+Pass Pass 
+[Play "W"]
+DK D3 D9 D7 
+DA DJ C2 D4 
+DT S7 SK DQ 
+SJ S4 S3 S8 
+SQ S5 S6 SA 
+D2 H2 H3 ST 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "31"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:754.A8762.J3.A65 K63.KT43.9.T8732 AT982.5.Q74.KQJ9 QJ.QJ9.AKT8652.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "79647796476468664686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  6
+N  D  4
+N  C  7
+S NT  7
+S  S  9
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  4
+E  H  6
+E  D  8
+E  C  6
+W NT  6
+W  S  4
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,74,159,228,91,46,214,40,84,45,15,132,16,111,19,116,54,108,19,681,32,24,27,64,22,249,16,35,20,8,20
+[Auction "S"]
+1S 2D 2S Pass 
+Pass Pass 
+[Play "W"]
+DK D3 D9 D4 
+DA DJ C8 D7 
+DT S7 SK DQ 
+H9 HA H4 H5 
+SJ S4 S3 SA 
+SQ S5 S6 ST 
+*
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "32"]
+[West "Simon#Cocheme"]
+[North "Celia Oram#12269"]
+[East "John Osmond#429742"]
+[South "Derek Oram#89416"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT432.T4.K96.KJ3 975.A9853.J3.AQ5 J8.QJ7.AT872.842 KQ6.K62.Q54.T976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "67576675766676766767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 3,2,0,60,68,143,213,114,229,341,43,15,23,55,16,13,66,33,13,14,84,32,64,24,27,28,14,14,23,18,58,14,65,55,15,7,102,21,11,8,53,30,26,19,13,21,12,23,22,43,23,20,22,17,19,35,14,13,20,8
+[Auction "W"]
+Pass 1S Pass Pass 
+Pass 
+[Play "E"]
+DJ D2 D4 DK 
+HA H7 H2 HT 
+D3 DA D5 D6 
+CA C2 C7 CK 
+H3 HJ HK H4 
+C5 D7 DQ D9 
+CQ C4 C9 CJ 
+H5 HQ H6 C3 
+S5 S8 SQ SA 
+S7 SJ SK S2 
+S9 C8 CT S4 
+H9 D8 S6 ST 
+H8 DT C6 S3 
+
+[Event "15 Feb Osmond vs Oram"]
+[Site "RealBridge"]
+[Date "2025.02.15"]
+[Board "32"]
+[West "Dee Lindon#42916"]
+[North "Cathryn Barley#"]
+[East "Peter Lindon#50851"]
+[South "David Wing#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AT432.T4.K96.KJ3 975.A9853.J3.AQ5 J8.QJ7.AT872.842 KQ6.K62.Q54.T976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Oram team"]
+[VisitTeam "Osmond team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "67576675766676766767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +80"]
+[Competition "Teams"]
+% RBDATA 5,1,3,104,128,67,82,68,56,23,131,259,243,21,38,223,13,31,21,179,24,43,9,48,13,23,23,154,37,18,29,124,26,10,16,38,78,28,20,12,48,25,34,25,38,11,34,71,15,13,23,17,27,14,8,35,15
+[Auction "W"]
+Pass Pass 1H Pass 
+2C Pass Pass Pass 
+[Play "N"]
+HT H3 H7 HK 
+C3 CQ C2 C6 
+CJ CA C4 C7 
+CK C5 C8 C9 
+H4 H5 HJ H2 
+D6 D3 DA D4 
+SA S5 SJ SK 
+DK DJ D7 D5 
+D9 S7 D2 DQ 
+S2 HA HQ H6 
+S3 H9 S8 S6 
+-  S9 D8 -  
+*

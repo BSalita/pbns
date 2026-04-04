@@ -1,0 +1,3088 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "1"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q7.KJT8.AJT743.K KT64.Q9.8.J87632 J8.65432.KQ6.AQ9 A9532.A7.952.T54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "759a5759a54821848218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D 10
+N  C  5
+S NT  7
+S  S  5
+S  H  9
+S  D 10
+S  C  5
+E NT  4
+E  S  8
+E  H  2
+E  D  1
+E  C  8
+W NT  4
+W  S  8
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 22,0,3,176,381,38,77,95,314,281,41,24,36,62,130,13,9,59,19,45,11
+[Auction "N"]
+1D Pass 1H 1S 
+3H 4S 5H Pass 
+Pass Pass 
+[Play "W"]
+SA S7 S4 SJ 
+S3 SQ SK S8 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "1"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q7.KJT8.AJT743.K KT64.Q9.8.J87632 J8.65432.KQ6.AQ9 A9532.A7.952.T54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "759a5759a54821848218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D 10
+N  C  5
+S NT  7
+S  S  5
+S  H  9
+S  D 10
+S  C  5
+E NT  4
+E  S  8
+E  H  2
+E  D  1
+E  C  8
+W NT  4
+W  S  8
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,2,1,1030,44,279,78,498,54,667,131,166,40,87,46,140,22,286,176,24,28,49,24,13,22,81,64,34,14,20,23,20,26,127
+[Auction "N"]
+1D =1= Pass 1H =2= Pass 
+2H =3= Pass 2S =4= Pass 
+3C =5= Pass 4H Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: Any 10+"]
+[Note "3: 4♡ longer ♢ 14-15"]
+[Note "4: Relay for shape"]
+[Note "5: 2452 "]
+[Play "W"]
+SA S7 ST S8 
+S2 SQ SK SJ 
+C4 CK C6 CA 
+H7 HJ HQ H2 
+-  -  H9 -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "2"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:7.J95.KJT986.A54 KQ52.AQ8.A.QJ872 984.K642.Q53.K93 AJT63.T73.742.T6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "53684536847a7597a659"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  8
+N  C  4
+S NT  5
+S  S  3
+S  H  6
+S  D  8
+S  C  4
+E NT  7
+E  S 10
+E  H  7
+E  D  5
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,244,34,126,29,252,46,507,38,185,53,17,18,29,265,17,25,24,33,23,26,52,20,30,27,72,36,28,7,142,18,11,13,13,17,28,36,948,38,7,32,55,22,14,6
+[Auction "E"]
+1C =1= Pass 1D =2= Pass 
+1S =3= Pass 2S Pass 
+4S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: mostly 0-8"]
+[Note "3: 16-18, 4+ sp"]
+[Play "S"]
+S9 S3 S7 SQ 
+C3 CT CA C2 
+D3 D2 DJ DA 
+S4 ST D8 S2 
+S8 SJ D6 S5 
+CK C6 C4 CJ 
+H2 H3 H9 HQ 
+C9 H7 C5 CQ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "2"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:7.J95.KJT986.A54 KQ52.AQ8.A.QJ872 984.K642.Q53.K93 AJT63.T73.742.T6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "53684536847a7597a659"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  8
+N  C  4
+S NT  5
+S  S  3
+S  H  6
+S  D  8
+S  C  4
+E NT  7
+E  S 10
+E  H  7
+E  D  5
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 13,2,1,220,82,32,94,163,94,60,221,177,477,84,32,49,32,52,27,19,25,18,28,29,42,15,22,29,44,17,36,26,18,20,35,29
+[Auction "E"]
+1C =1= Pass 1S Pass 
+3S =2= Pass Pass Pass 
+[Note "1:  * 2+ [0:04]"]
+[Note "2:  * 18-19 bal [0:06]"]
+[Play "N"]
+H5 H8 HK H3 
+CA C2 C3 C6 
+C5 C7 CK CT 
+C4 C8 C9 SJ 
+S7 SK S4 S3 
+D9 S2 S8 ST 
+-  -  -  SA 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "3"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q642.87652.42.T9 J8.T43.KQ987.J84 KT95.AKJ.J653.Q6 A73.Q9.AT.AK7532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1774127742a558ba558b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  7
+N  D  4
+N  C  1
+S NT  2
+S  S  7
+S  H  7
+S  D  4
+S  C  2
+E NT 10
+E  S  5
+E  H  5
+E  D  8
+E  C 11
+W NT 10
+W  S  5
+W  H  5
+W  D  8
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 6,0,3,231,201,304,371,106,382,21,57,188,8,10,475,22,7,21,11,676,13,592,15,18,17,24,245,30,6,26,215,9,11,17,7,13,10,9,11,13,10,7,18,9,11,8,47,13,17,6,32,7,8,9,12,7,8,15,11,13,6,5
+[Auction "S"]
+1NT =1= X =2= XX =3= 2D 
+Pass Pass Pass 
+[Note "1: 12-14 pts"]
+[Note "2: 14+, values, penalty orientated"]
+[Note "3: asks partner to bid 2C"]
+[Play "S"]
+HA H9 H2 H4 
+HK HQ H5 H3 
+D3 DT D2 D7 
+SK S3 S4 SJ 
+HJ DA H6 HT 
+S5 SA S2 S8 
+S9 S7 SQ D8 
+D5 C2 D4 DK 
+D6 C3 S6 DQ 
+C6 CA CT C4 
+CQ CK C9 C8 
+DJ C5 H7 CJ 
+ST C7 H8 D9 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "3"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q642.87652.42.T9 J8.T43.KQ987.J84 KT95.AKJ.J653.Q6 A73.Q9.AT.AK7532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1774127742a558ba558b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  7
+N  D  4
+N  C  1
+S NT  2
+S  S  7
+S  H  7
+S  D  4
+S  C  2
+E NT 10
+E  S  5
+E  H  5
+E  D  8
+E  C 11
+W NT 10
+W  S  5
+W  H  5
+W  D  8
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 12,2,1,268,391,421,336,348,97,50,154,62,257,45,36,100,456,376,35,78,103,17,20,237,28,7,23,55,30,11,20,13,19,45,16,401,32,123,72,23,20,6,23,25,23,13,20,53,23,16,10,29,13,11,8,16,25,17,7
+[Auction "S"]
+1D =1= 1NT 2C =2= 2D 
+2S Pass Pass X =3= 
+Pass 3C =4= Pass Pass 
+3H Pass Pass Pass 
+[Note "1: 2+♢, 11-15"]
+[Note "2: majors"]
+[Note "3:  * take out [0:12]"]
+[Note "4: better than 2n"]
+[Play "W"]
+CA C9 C4 C6 
+CK CT C8 CQ 
+DA D2 D9 D3 
+DT D4 DK D5 
+H9 S2 D7 D6 
+SA S4 S8 S5 
+S3 S6 SJ SK 
+HQ H2 H3 HA 
+C2 H5 H4 HK 
+C3 H6 HT HJ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "4"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:4.AT5.KT875.KJ96 KJ9862.2.A3.QT53 AQ53.QJ97.J.A872 T7.K8643.Q9642.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "a899aa799a3543335432"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  9
+N  D  9
+N  C 10
+S NT 10
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  3
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,0,3,159,25,68,68,56,46,47,697,103,30,33,23,40,217,15,19,61,32,12,548,1134,339,35,40,693,35,9,9,18,23,8,9,13,13,9,76,233,32,28,20,516,32,89,88,31,18,49,17,67,37,6,8,87,38,16,9,8,33,22,7,10,13,9,8
+[Auction "W"]
+Pass Pass 1S Pass 
+Pass X Pass 4H 
+X Pass Pass Pass 
+[Play "W"]
+ST S4 S2 SQ 
+D6 D5 DA DJ 
+S7 H5 SK S3 
+D2 DK D3 S5 
+H3 HA H2 H7 
+HK HT S6 HQ 
+C4 C6 CT CA 
+D4 C9 CQ C2 
+H4 D7 SJ SA 
+DQ D8 C3 H9 
+H6 CJ C5 HJ 
+H8 CK S8 C7 
+D9 DT S9 C8 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "4"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:4.AT5.KT875.KJ96 KJ9862.2.A3.QT53 AQ53.QJ97.J.A872 T7.K8643.Q9642.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "a899aa799a3543335432"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  9
+N  D  9
+N  C 10
+S NT 10
+S  S  7
+S  H  9
+S  D  9
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  3
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,2,1,141,143,163,511,94,306,85,410,54,231,42,372,58,351,39,202,78,188,117,357,272,28,39,87,104,41,49,233,591,41,55,359,144,23,27,116,19,19,17,406,26,18,56,576,509,26,24,233,26,21,65,42,120,28,23,51,44,19,20,109,16,20,7,17,44,10,12,12,15,7,11
+[Auction "W"]
+Pass 1D =1= 1S X =2= 
+Pass 2C =3= Pass 2D =4= 
+Pass 2NT =5= Pass 3C =6= 
+Pass 3D =7= Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: Any 10+"]
+[Note "3: both minors, either may be longer"]
+[Note "4: Relay for shape"]
+[Note "5: short ♠"]
+[Note "6: and again.."]
+[Note "7: 1354"]
+[Play "W"]
+ST S4 SK SA 
+D2 D5 DA DJ 
+S7 C6 S8 SQ 
+C4 H5 S2 S3 
+D4 DK D3 C2 
+H3 C9 CT CA 
+H4 HA H2 H7 
+D6 D7 S6 H9 
+D9 HT S9 S5 
+DQ D8 C3 HJ 
+H6 CJ C5 C7 
+HK CK CQ HQ 
+H8 DT SJ C8 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "5"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:97652.T4.8.AQT87 JT.J9852.AQT4.J9 AQ43.AKQ63.976.2 K8.7.KJ532.K6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7b9577b8576248662486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  9
+N  D  5
+N  C  7
+S NT  7
+S  S 11
+S  H  8
+S  D  5
+S  C  7
+E NT  6
+E  S  2
+E  H  4
+E  D  8
+E  C  6
+W NT  6
+W  S  2
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 16,0,3,112,95,37,200,60,430,83,146,26,73,51,8,38,138,889,23,10,108,15,140,18,7,172,26,28,55,28,18,6,20,23,6,65,165,15,36,26,344,41,10,17,15,6,18,46,10,21,11,7,17,6,8,8,10,7,6,15,12,10,6,7
+[Auction "N"]
+Pass Pass 1H 2NT =1= 
+Pass 4D Pass Pass 
+Pass 
+[Note "1: Minors, weak or strong"]
+[Play "S"]
+HA H7 HT H9 
+C2 CK CA C9 
+S3 C3 CQ CJ 
+H3 C4 CT DT 
+SA S8 S2 SJ 
+S4 SK S5 ST 
+H6 C5 C8 DQ 
+D6 DJ D8 D4 
+HQ C6 C7 DA 
+HK D2 H4 H2 
+D7 DK S6 H5 
+D9 D5 S7 H8 
+SQ D3 S9 HJ 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "5"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:97652.T4.8.AQT87 JT.J9852.AQT4.J9 AQ43.AKQ63.976.2 K8.7.KJ532.K6543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7b9577b8576248662486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  9
+N  D  5
+N  C  7
+S NT  7
+S  S 11
+S  H  8
+S  D  5
+S  C  7
+E NT  6
+E  S  2
+E  H  4
+E  D  8
+E  C  6
+W NT  6
+W  S  2
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 16,2,1,139,25,59,321,146,415,72,76,44,23,161,68,19,595,153,39,45,173,32,45,56,829,36,54,15,155,95,14,19,54,22,17,98,458,53,65,19,57,21,12,9,19,11,13,28,16,29,15,7,27,14
+[Auction "N"]
+Pass Pass 1H 2NT =1= 
+Pass 4D =2= Pass Pass 
+Pass 
+[Note "1: minors"]
+[Note "2:  * mixed raise type hand [0:12]"]
+[Play "S"]
+HK H7 H4 H5 
+D7 D2 D8 DQ 
+C2 CK CA CJ 
+SA S8 S7 SJ 
+D6 DJ S6 D4 
+H6 C3 CQ C9 
+S3 C4 CT DT 
+S4 SK S2 ST 
+H3 C5 C8 DA 
+HQ D3 HT H2 
+-  DK S5 -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "6"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.K7543.863.8642 K9.AJ2.AKQJ54.J3 8643.QT86.97.K97 AQJT52.9.T2.AQT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result "13"]
+[Score "NS -2220"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0050100501dd8dcdd8dc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  5
+N  D  0
+N  C  1
+S NT  0
+S  S  0
+S  H  5
+S  D  0
+S  C  1
+E NT 13
+E  S 13
+E  H  8
+E  D 13
+E  C 12
+W NT 13
+W  S 13
+W  H  8
+W  D 13
+W  C 12
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 34,0,3,139,47,248,30,99,41,69,39,59,34,210,39,85,24,148,51,256,31,221,35,297,59,517,58,920,43,480,37,65,36,14,21,458
+[Auction "E"]
+1C =1= Pass 1S =2= Pass 
+1NT =3= Pass 2C Pass 
+2D =4= Pass 2NT =5= Pass 
+3C =6= Pass 3H =7= Pass 
+3S =8= Pass 4D =9= Pass 
+4H =10= Pass 5D =11= Pass 
+5H =12= Pass 6C =13= Pass 
+7NT Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 4+♠, <4♡, 9+ GF, UNBAL"]
+[Note "3: relay"]
+[Note "4: relay"]
+[Note "5: 0-1♡"]
+[Note "6: relay"]
+[Note "7: 6-1-2-4"]
+[Note "8: control ask"]
+[Note "9: 4 controls (A=2, K=1)"]
+[Note "10: scan for high cards"]
+[Note "11: 2 top ♠, 1+ top ♣, no top ♢"]
+[Note "12: scan"]
+[Note "13: ♠ J, 2nd top ♣, no ♣J"]
+[Play "S"]
+S6 -  -  -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "6"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:7.K7543.863.8642 K9.AJ2.AKQJ54.J3 8643.QT86.97.K97 AQJT52.9.T2.AQT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS -2210"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0050100501dd8dcdd8dc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  5
+N  D  0
+N  C  1
+S NT  0
+S  S  0
+S  H  5
+S  D  0
+S  C  1
+E NT 13
+E  S 13
+E  H  8
+E  D 13
+E  C 12
+W NT 13
+W  S 13
+W  H  8
+W  D 13
+W  C 12
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 33,2,1,237,36,457,58,545,68,141,36,189,47,645,45,296,40,1015,60,18,28,57
+[Auction "E"]
+2NT =1= Pass 4D =2= Pass 
+4S Pass 4NT Pass 
+5C =3= Pass 5NT Pass 
+6D Pass 7S Pass 
+Pass Pass 
+[Note "1:  * 20-22 [0:05]"]
+[Note "2: spades"]
+[Note "3:  * 0/3 [0:04]"]
+[Play "S"]
+S4 -  -  -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "7"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ6.764.KT3.AK94 543.T.AQJ542.Q65 A98.AQ85.876.J73 KT72.KJ932.9.T82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "76667666666777667776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  7
+E  C  6
+W NT  6
+W  S  7
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 9,0,3,78,46,94,57,156,46,136,43,54,63,37,23,14,99,35,33,104,43,15,25,17,18,39,9,12,17,29,11,9,31,90,9,7,184,12,12,13,107,14,34,24,46,23,9,52,21,57,15,12,21,7,8
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+2NT Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: stayman"]
+[Note "3: no four card major"]
+[Play "E"]
+DJ D6 D9 DK 
+CQ C3 CT C4 
+DA D7 H3 D3 
+DQ D8 S2 DT 
+D5 H5 S7 H4 
+D2 S8 H2 H6 
+D4 H8 C8 H7 
+HT HQ HK S6 
+S4 HA HJ SJ 
+C5 CJ C2 C9 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "7"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QJ6.764.KT3.AK94 543.T.AQJ542.Q65 A98.AQ85.876.J73 KT72.KJ932.9.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "76667666666777667776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  7
+E  H  7
+E  D  7
+E  C  6
+W NT  6
+W  S  7
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 14,2,1,200,173,360,79,146,37,256,39,36,42,73,490,26,47,598,44,41,28,73,21,22,117,73,27,45,103,82,23,19,165,157,28,24,43,174,145,32,28,570,26,14,29,39,57,45,40,49,14,20,15,24,13,22,41,29,15,24,13,11,15,11,13
+[Auction "S"]
+1D =1= Pass 1H =2= Pass 
+1NT =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+♢, 11-15"]
+[Note "2: art, 10+, asking for more info"]
+[Note "3: 11-12 bal"]
+[Play "W"]
+H3 H4 HT HQ 
+C8 CA C5 C3 
+SK SQ S3 S8 
+HK H6 D5 H5 
+HJ H7 D2 HA 
+C2 C4 CQ CJ 
+ST SJ S4 S9 
+CT CK C6 C7 
+H2 C9 D4 H8 
+S2 S6 S5 SA 
+D9 DT DQ D6 
+H9 D3 DA D7 
+S7 DK DJ D8 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "8"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ84.8763.973.JT KT9.52.Q62.KQ654 652.KJ4.JT84.A92 A73.AQT9.AK5.873"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2323223232baaabbabab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  3
+N  C  2
+S NT  2
+S  S  3
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 10
+E  H 10
+E  D 10
+E  C 11
+W NT 11
+W  S 10
+W  H 11
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,219,31,364,44,254,33,290,58,327,32,82,71,241,43,168,47,34,19,48,336,19,27,15,32,11,17,111,16,22,29,64,20,25,6,129,16,51,52,15,133,14,23,43,20,8,87,294,22,8,32,55
+[Auction "W"]
+1C =1= Pass 2C =2= Pass 
+2D =3= Pass 2NT =4= Pass 
+3C =5= Pass 3D =6= Pass 
+3S =7= Pass 3NT =8= Pass 
+Pass Pass 
+[Note "1: mostly 16+ any distr"]
+[Note "2: 9+, 5+C"]
+[Note "3: Relay"]
+[Note "4: short (2-) H"]
+[Note "5: relay"]
+[Note "6: 3235 * with good clubs [0:28]"]
+[Note "7: 'weak relay' only go on if max"]
+[Note "8: No max with 4c"]
+[Play "S"]
+S5 S3 SJ SK 
+H4 H9 H8 H2 
+C2 C8 CT CK 
+HK HA H3 H5 
+CA C7 CJ CQ 
+S6 S7 SQ S9 
+S2 SA S8 ST 
+C9 C3 D3 C4 
+D4 -  -  -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "8"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ84.8763.973.JT KT9.52.Q62.KQ654 652.KJ4.JT84.A92 A73.AQT9.AK5.873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2323223232baaabbabab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  3
+N  C  2
+S NT  2
+S  S  3
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 10
+E  H 10
+E  D 10
+E  C 11
+W NT 11
+W  S 10
+W  H 11
+W  D 10
+W  C 11
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,1,118,72,154,796,117,69,33,32,22,123,137,240,36,133,47,29,41,16,208,36,20,19,26,26,51,39,814,49,45,67,28,173,25,24,43,72,14
+[Auction "W"]
+1NT Pass 3C =1= Pass 
+3D =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * 5 card puppet St [0:13]"]
+[Note "2: no 5CM"]
+[Play "N"]
+SQ S9 S2 SA 
+CT CQ C2 C7 
+D3 D2 D4 DA 
+CJ CK CA C3 
+H7 H2 HJ HQ 
+H3 C4 C9 C8 
+H6 -  HK HA 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "9"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K62.KQ8642.T.AK6 9543.97.3.QT7432 A.AJT.J97654.J98 QJT87.53.AKQ82.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "12"]
+[Score "NS 1210"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "a6b88a6b883725537255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D  8
+N  C  8
+S NT 10
+S  S  6
+S  H 11
+S  D  8
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  5
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 27,0,3,75,41,39,74,84,33,547,84,245,44,136,53,305,43,159,188,40,78,1439,84,186,32,17,287,25,8,9,119,42,9,16,222,26,124,17,55,15,10,17
+[Auction "N"]
+1H Pass 2D Pass 
+3H Pass 3S =1= X 
+3NT =2= Pass 4NT Pass 
+5S =3= Pass 6H X 
+Pass Pass Pass 
+[Note "1: cue"]
+[Note "2: club values"]
+[Note "3: 2 key cards plus trump queen"]
+[Play "E"]
+C2 CJ C5 C6 
+H7 HA H3 H2 
+S5 SA S8 S6 
+H9 HT H5 HQ 
+S3 HJ S7 S2 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "9"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K62.KQ8642.T.AK6 9543.97.3.QT7432 A.AJT.J97654.J98 QJT87.53.AKQ82.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "a6b88a6b883725537255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D  8
+N  C  8
+S NT 10
+S  S  6
+S  H 11
+S  D  8
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  5
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 22,2,1,307,57,306,410,703,110,518,396,130,25,155,74,151,35,126,292,61,31,809,238,50,16,70,24,12,74,259,60,12,10,211,21,16,37,82,24,15,9,13,25,21,15,18,18,9,16,12,13,17,50,26,32
+[Auction "N"]
+1C =1= Pass 2D =2= 2S 
+3H 4S Pass =3= Pass 
+X Pass 5H Pass 
+Pass Pass 
+[Note "1: any 16ish+"]
+[Note "2: GF, 5+♢, no major"]
+[Note "3: Forcing"]
+[Play "E"]
+D3 D4 DA DT 
+H7 D5 D2 H2 
+C4 C8 C5 C6 
+H9 HA H3 H4 
+C2 HJ H5 H6 
+S3 SA S7 S2 
+S4 D6 D8 H8 
+S5 HT S8 S6 
+C3 D7 DQ HQ 
+S9 -  -  HK 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "10"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJT7.52.KQJ7.KQ9 32.KQ843.A8.AJT8 A96.AJT6.653.652 K854.97.T942.743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2CX"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "78676786766575665756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  7
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  5
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 5,0,3,163,38,46,30,282,232,37,49,64,175,78,17,185,128,36,14,7,13,34,7,35,15,23,16,18,112,126,15,6,23,26,9,24,37,18,35,8,29,21,57,7,63,19,8,15,23,35,18,36,779,17,9,41,9,35,20,18,19,6,7,7
+[Auction "E"]
+1H =1= Pass Pass X 
+2C X Pass Pass 
+Pass 
+[Note "1:  * longer spades poss [0:16]"]
+[Play "S"]
+C5 C3 CQ CA 
+HA H9 H5 HQ 
+C2 C4 CK C8 
+C6 C7 C9 CT 
+HT H7 H2 H3 
+D5 D2 DJ DA 
+H6 S4 ST HK 
+HJ S5 S7 H8 
+D6 D4 DQ D8 
+D3 D9 DK CJ 
+S6 DT SQ H4 
+S9 SK SJ S2 
+SA S8 D7 S3 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "10"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJT7.52.KQJ7.KQ9 32.KQ843.A8.AJT8 A96.AJT6.653.652 K854.97.T942.743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "78676786766575665756"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  6
+S  D  7
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  5
+E  C  6
+W NT  6
+W  S  5
+W  H  7
+W  D  5
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,246,31,85,182,56,53,39,318,68,75,152,520,54,24,28,21,19,44,34,29,26,474,26,14,31,22,43,19,15,25,17,14,26,34
+[Auction "E"]
+1H Pass Pass X 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+H9 H2 H3 HT 
+D2 DK DA D3 
+C3 CQ CJ C5 
+SK SQ S2 S6 
+C7 C9 CT C2 
+C4 CK CA C6 
+-  -  C8 -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "11"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ6.92.J98754.Q2 KJT42.63.AQ2.854 .QJ74.KT6.KJT976 98753.AKT85.3.A3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "31387313879b9569b955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  8
+N  C  7
+S NT  3
+S  S  1
+S  H  3
+S  D  8
+S  C  7
+E NT  9
+E  S 11
+E  H  9
+E  D  5
+E  C  6
+W NT  9
+W  S 11
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 21,0,3,79,173,90,169,65,71,26,561,33,126,99,119,9,271,20,10,16,59,11,333,24,625,32,42,34,19,70,21,17,22,20,31,17,23,21,19,25
+[Auction "S"]
+1C 2C =1= 2D 4S 
+5D X Pass Pass 
+Pass 
+[Note "1: Both Majors"]
+[Play "E"]
+H6 HJ HK H9 
+H3 H4 HA H2 
+DQ H7 H5 D7 
+C5 C6 CA C2 
+DA HQ H8 D8 
+C4 C7 C3 CQ 
+D2 DT D3 D4 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "11"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AQ6.92.J98754.Q2 KJT42.63.AQ2.854 .QJ74.KT6.KJT976 98753.AKT85.3.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "31387313879b9569b955"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  3
+N  D  8
+N  C  7
+S NT  3
+S  S  1
+S  H  3
+S  D  8
+S  C  7
+E NT  9
+E  S 11
+E  H  9
+E  D  5
+E  C  6
+W NT  9
+W  S 11
+W  H  9
+W  D  5
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,268,369,278,106,378,37,59,39,70,33,150,116,67,203,247,42,22,26,38,61,24,59,33,56,22,1402,59,38,18
+[Auction "S"]
+2C =1= 2H 3C X 
+4C 4S Pass Pass 
+Pass 
+[Note "1: 6+♣, 11-15"]
+[Play "N"]
+CQ C4 C6 CA 
+SA S2 C7 S3 
+C2 C5 C9 C3 
+SQ C8 CT S8 
+S6 SK CJ S5 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "12"]
+[West "Rob Helle#108672"]
+[North "Colin Wilson#93813"]
+[East "Ed Hoogenkamp#411941"]
+[South "Gerald Soper#32094"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J9763.AKQT72.K6. AKQT4.5.Q8532.84 852.43.T97.KJ732 .J986.AJ4.AQT965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4562345723776aa777aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  2
+N  C  3
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  3
+E NT  7
+E  S  7
+E  H  6
+E  D 10
+E  C 10
+W NT  7
+W  S  7
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 21,0,3,220,99,190,62,643,48,662,64,191,43,18,81,41,67,61,26,65,43,10,23,282,14,9,19,15,13,12,11,29,17,25,23,585,135,8,85,746,25,12,9,11,15,23,13,29,19,13,13,16,176,46,7,8,9,6,39,10,35,7,30,9,7,10,7
+[Auction "W"]
+2C =1= X 2S Pass 
+3C =2= 3H 4D Pass 
+5D Pass Pass Pass 
+[Note "1: 11-15, 6+♣"]
+[Note "2: Min, 0-1♠"]
+[Play "S"]
+H4 H8 HT H5 
+H3 H6 HK D2 
+S2 H9 S3 SA 
+S5 HJ S6 SK 
+C2 CQ D6 C4 
+D7 DA DK D3 
+C3 CA H2 C8 
+C7 C5 H7 D5 
+S8 C6 S9 SQ 
+CJ D4 S7 S4 
+CK C9 HQ D8 
+D9 DJ SJ ST 
+DT CT HA DQ 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "12"]
+[West "Joe Sivayogan#76274"]
+[North "Roger Bryant#73720"]
+[East "Ian Draper#91338"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:J9763.AKQT72.K6. AKQT4.5.Q8532.84 852.43.T97.KJ732 .J986.AJ4.AQT965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4562345723776aa777aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  2
+N  C  3
+S NT  4
+S  S  5
+S  H  7
+S  D  2
+S  C  3
+E NT  7
+E  S  7
+E  H  6
+E  D 10
+E  C 10
+W NT  7
+W  S  7
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,2,1,235,462,118,204,93,386,129,69,300,69,162,77,174,102,105,56,28,49,150,8,98,438,51,72,22,39,13,20,14,52,59,15,10,188,26,17,24,21,35,35,26,79,31,10,58,29,32,31,17,68,80,17,17,18,20,15,88,26,22,42,9,7,13,10,10
+[Auction "W"]
+1C =1= 1NT =2= X =3= Pass 
+2C 2H 3C Pass 
+Pass 3H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Note "2: majors"]
+[Note "3:  * penalty interest [0:08]"]
+[Play "E"]
+H5 H3 H8 HT 
+ST S2 C9 S7 
+D3 D7 DA D6 
+D2 D9 D4 DK 
+D5 H4 H6 HA 
+SQ S5 C5 S3 
+C8 CJ CQ H2 
+SK S8 C6 S6 
+C4 C2 CT H7 
+S4 C3 H9 HQ 
+SA DT DJ S9 
+DQ C7 CA HK 
+D8 CK HJ SJ 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "13"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J94.AKT84.2.9762 K87.73.KJT9.AT43 QT62.J95.A754.85 A53.Q62.Q863.KQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "67845678457659876598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H  5
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,1,3,329,300,95,324,87,443,416,96,46,243,59,139,36,278,43,42,148,31,12,302,112,23,14,33,20,13,25,241,24,23,25,18,21,11,13,393,32,11,29,27,22,12
+[Auction "N"]
+Pass Pass Pass 1D =1= 
+1H 1S =2= 2H Pass 
+Pass X =3= Pass 3D 
+Pass Pass Pass 
+[Note "1: 12-15 BAL 2-5♢ OR 11-15 (3)4+♢ UNBAL"]
+[Note "2: 3- S, "]
+[Note "3: TO"]
+[Play "N"]
+HA H3 H5 H6 
+S4 S7 SQ SA 
+D2 D9 DA D3 
+S9 SK S2 S3 
+H4 DT D4 D6 
+H8 DJ D5 D8 
+-  DK D7 DQ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "13"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J94.AKT84.2.9762 K87.73.KJT9.AT43 QT62.J95.A754.85 A53.Q62.Q863.KQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "67845678457659876598"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  8
+N  D  4
+N  C  5
+S NT  6
+S  S  7
+S  H  8
+S  D  4
+S  C  5
+E NT  7
+E  S  6
+E  H  5
+E  D  9
+E  C  8
+W NT  7
+W  S  6
+W  H  5
+W  D  9
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,2,0,1660,24,251,173,86,207,59,34,71,22,49,13,50,45,88,46,15,889,658,48,13,62,30,9,12,24,54,107,14,28,17,15,8,23,20,32,46,21,97,18,16,82,68,23,11
+[Auction "N"]
+Pass Pass Pass 1NT =1= 
+Pass 2S =2= Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 12-14 pts"]
+[Note "2: 2sp -11pts no major"]
+[Play "N"]
+HA H3 H9 H6 
+S4 SK S6 S3 
+D2 DJ DA D3 
+HK H7 HJ HQ 
+HT S7 H5 H2 
+H8 C3 D4 S5 
+H4 C4 D5 D6 
+C7 CA C5 CJ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "14"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T984.AT54.J82.53 A53.K62.AKT96.QJ Q7.98.Q43.KT8764 KJ62.QJ73.75.A92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2222522225bbbb8bbbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 11
+E  S 11
+E  H 11
+E  D 11
+E  C  8
+W NT 11
+W  S 11
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,1,3,202,211,515,121,122,75,67,23,41,282,186,26,53,20,20,15,19,22,21,41,216,260,30,26,383,20,31,29,413,22,24,18,194,23,19,16,23,14,12,20,90,22,13,61
+[Auction "E"]
+1C =1= 2C 2S =2= Pass 
+4S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: (Semi)Bal with ♣ stop, GF"]
+[Play "N"]
+C5 CJ CK CA 
+D2 DA D3 D5 
+HA H2 H8 HQ 
+H4 H6 H9 HJ 
+D8 DK D4 D7 
+DJ D6 DQ S6 
+S4 S3 S7 SK 
+S8 SA SQ S2 
+S9 D9 C4 C2 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "14"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T984.AT54.J82.53 A53.K62.AKT96.QJ Q7.98.Q43.KT8764 KJ62.QJ73.75.A92"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2222522225bbbb8bbbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 11
+E  S 11
+E  H 11
+E  D 11
+E  C  8
+W NT 11
+W  S 11
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,69,49,28,82,77,104,710,125,35,65,157,74,25,25,290,915,34,23,50,34,11,69,66,21,21,50,102,20,35,22,239,24,10,32,13,22,13,10,12,22,13,6,155,70,17,7,15,32,10,17,102,18,7,33,8,17,11,46,14,16,7,25,6,13,14,8
+[Auction "E"]
+1D Pass 1H Pass 
+1NT =1= 2C X =2= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: penalty orientated"]
+[Play "S"]
+S7 SJ S4 S5 
+H8 H3 H5 HK 
+H9 HQ HA H2 
+CK CA C5 CQ 
+D3 D5 D2 DK 
+D4 D7 D8 DA 
+DQ C2 DJ D9 
+SQ SK S8 S3 
+C4 S2 S9 SA 
+C6 S6 C3 DT 
+C7 H7 H4 D6 
+C8 C9 HT CJ 
+CT HJ ST H6 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "15"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:JT4.K98532.J.A84 AKQ865.Q.K873.62 72.AJT7.A42.KQJ7 93.64.QT965.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "74b4a74b4a2729127291"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 11
+N  D  4
+N  C 10
+S NT  7
+S  S  4
+S  H 11
+S  D  4
+S  C 10
+E NT  2
+E  S  7
+E  H  2
+E  D  9
+E  C  1
+W NT  2
+W  S  7
+W  H  2
+W  D  9
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 22,1,3,142,37,497,246,368,62,75,27,50,193,109,23,19,25,21,28,56,168,74,20,20,28,20,20,44,31,21,15,16,17,15,12
+[Auction "S"]
+1NT Pass 4C =1= 4S 
+5H Pass Pass Pass 
+[Note "1:  * To play in 4H (or better) [0:12]"]
+[Play "W"]
+S9 S4 SA S2 
+S3 ST SK S7 
+D6 SJ SQ HA 
+H4 H2 HQ HJ 
+D5 DJ D3 DA 
+H6 H3 S5 HT 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "15"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:JT4.K98532.J.A84 AKQ865.Q.K873.62 72.AJT7.A42.KQJ7 93.64.QT965.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "74b4a74b4a2729127291"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 11
+N  D  4
+N  C 10
+S NT  7
+S  S  4
+S  H 11
+S  D  4
+S  C 10
+E NT  2
+E  S  7
+E  H  2
+E  D  9
+E  C  1
+W NT  2
+W  S  7
+W  H  2
+W  D  9
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 22,2,0,235,38,450,91,224,33,35,16,43,100,10,22,21,41,12,18,36,113,35,13,22,21,12,18,30,29,20,10,15,19
+[Auction "S"]
+1NT =1= Pass 4D =2= 4S 
+5H Pass Pass Pass 
+[Note "1: 13-15"]
+[Note "2: transfer to ♡"]
+[Play "W"]
+S9 SJ SQ S2 
+S3 S4 SK S7 
+D5 ST SA HA 
+H4 H2 HQ HT 
+D6 DJ D3 DA 
+H6 -  -  HJ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "16"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T643.KJT9.2.T953 9875.A542.T873.J A2.Q86.KJ654.K72 KQJ.73.AQ9.AQ864"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54655646557878878788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  5
+S NT  6
+S  S  4
+S  H  6
+S  D  5
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  8
+E  C  8
+W NT  7
+W  S  8
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 9,2,0,118,56,31,54,158,63,21,32,327,154,35,29,69,63,12,27,59,76,12,45,870,50,95,188,27,21,7,393,347,17,9,13,110,14,12,29,68,25,13,14,12,15,13,11,20,39,8,13,13,21,27,35,17,34,12,9,7,10,10,8
+[Auction "W"]
+1C Pass 1D Pass 
+2NT =1= Pass Pass Pass 
+[Note "1: 18-19 pts"]
+[Play "N"]
+S6 S7 SA SJ 
+D2 D3 D5 D9 
+C5 CJ CK C4 
+H9 HA H6 H3 
+S3 D7 D4 DQ 
+S4 S5 S2 SK 
+ST S8 D6 SQ 
+C3 H2 C2 CA 
+C9 H4 C7 CQ 
+HT D8 DJ DA 
+CT H5 DK C6 
+HK S9 H8 H7 
+HJ DT HQ C8 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "16"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T643.KJT9.2.T953 9875.A542.T873.J A2.Q86.KJ654.K72 KQJ.73.AQ9.AQ864"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54655646557878878788"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  5
+N  C  5
+S NT  6
+S  S  4
+S  H  6
+S  D  5
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  8
+E  C  8
+W NT  7
+W  S  8
+W  H  7
+W  D  8
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,283,199,259,128,376,121,130,73,66,966,43,11,106,30,116,14,239,32,13,16,220,30,18,19,44,19,22,41,59,32,47,32,373,49,20,17,19,35,16,18,25
+[Auction "W"]
+1C =1= X =2= Pass =3= 1H 
+1NT Pass Pass Pass 
+[Note "1: 16+, any distr"]
+[Note "2:  * Majors [0:05]"]
+[Note "3: 4 or 5 p"]
+[Play "N"]
+HJ H2 H6 H7 
+HK HA HQ H3 
+C3 CJ C2 C6 
+S3 S5 S2 SK 
+C5 H4 C7 CA 
+C9 H5 CK C4 
+S4 S7 SA SQ 
+H9 D3 H8 D9 
+HT -  -  -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "17"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8754.83.AJ4.AQ84 Q962.KQ9.965.532 K3.AJT7.Q873.T97 AJT.6542.KT2.KJ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77989779995543456444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  8
+N  C  9
+S NT  7
+S  S  7
+S  H  9
+S  D  9
+S  C  9
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  4
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,255,30,67,29,48,318,32,23,12,10,17,38,11,24,44,50,17,23,36,142,21,27,7,26,65,16,24,23,64,17,28,13,476,15,14,8,108,13,23,18,50,140,11,18,18,9,21,10,8,18,9,7,10,6,11,9
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 10-12"]
+[Play "E"]
+S2 SK SA S4 
+S6 S3 SJ S5 
+SQ C7 ST S7 
+S9 C9 H2 S8 
+C3 CT CK CA 
+H9 HT H4 H8 
+D5 D3 D2 DJ 
+D6 D7 DT DA 
+D9 DQ DK D4 
+C5 H7 C6 CQ 
+HQ HA H5 H3 
+C2 D8 H6 C4 
+HK HJ CJ C8 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "17"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:8754.83.AJ4.AQ84 Q962.KQ9.965.532 K3.AJT7.Q873.T97 AJT.6542.KT2.KJ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77989779995543456444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  8
+N  C  9
+S NT  7
+S  S  7
+S  H  9
+S  D  9
+S  C  9
+E NT  5
+E  S  5
+E  H  4
+E  D  3
+E  C  4
+W NT  5
+W  S  6
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,124,128,157,28,78,89,467,45,188,156,35,20,261,26,70,21,17,26,234,213,51,65,172,19,238,126,32,34,129,28,27,14,476,39,15,31,330,28,20,224,38,28,247,27,33,37,16,9,54,22,15,14,37,17,12,11,14,19,7,7
+[Auction "N"]
+1C =1= Pass 1H Pass 
+1NT Pass Pass Pass 
+[Note "1:  * could be 2, may have 5D's [0:19]"]
+[Play "E"]
+S2 SK SA S4 
+S6 S3 SJ S5 
+SQ C7 ST S7 
+S9 D3 H5 S8 
+HQ HA H4 H3 
+C5 CT CK CA 
+C3 C9 CJ C4 
+C2 D7 C6 CQ 
+D6 H7 H2 C8 
+HK HT H6 H8 
+H9 HJ D2 D4 
+D5 D8 DT DJ 
+D9 DQ DK DA 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "18"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K98.KQ753.K982.T A73.8642.65.J943 542.T9.AQ743.K62 QJT6.AJ.JT.AQ875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "34682346828965a8965a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  8
+N  C  2
+S NT  3
+S  S  4
+S  H  6
+S  D  8
+S  C  2
+E NT  8
+E  S  9
+E  H  6
+E  D  5
+E  C 10
+W NT  8
+W  S  9
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,2,0,66,25,55,173,82,140,37,241,28,156,31,187,798,19,23,22,700,42,13,11,24,13,14,11,14,22,20,171,62,7,31,76,20,16,6,191,27,6,21,35,7,15,7
+[Auction "E"]
+Pass Pass 1C 1H 
+2C 2D 3C 3D 
+Pass Pass Pass 
+[Play "W"]
+SQ SK SA S2 
+C8 CT CJ C2 
+ST S8 S7 S4 
+SJ S9 S3 S5 
+DJ D2 D5 DQ 
+HA H3 H6 H9 
+HJ HK H2 HT 
+DT DK D6 D3 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "18"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K98.KQ753.K982.T A73.8642.65.J943 542.T9.AQ743.K62 QJT6.AJ.JT.AQ875"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "34682346828965a8965a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  6
+N  D  8
+N  C  2
+S NT  3
+S  S  4
+S  H  6
+S  D  8
+S  C  2
+E NT  8
+E  S  9
+E  H  6
+E  D  5
+E  C 10
+W NT  8
+W  S  9
+W  H  6
+W  D  5
+W  C 10
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,1,3,223,45,122,172,169,54,56,375,30,29,177,28,16,38,12,142,55,53,38,26,35,24,52,50,25,15,23,20,49,26,32,30,18,58,17,47,11,17,16,17
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+H5 H2 H9 HJ 
+CT C3 C2 CA 
+D2 CJ CK C8 
+H3 H4 HT HA 
+SK SA S2 SQ 
+D9 C9 C6 C5 
+S8 C4 D3 CQ 
+S9 D5 D4 C7 
+H7 -  -  SJ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "19"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ3.K985..Q65432 .QJT63.QT43.AJT9 AT9864.A.A9652.8 K752.742.KJ87.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "6a5576a5576288562886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D  5
+N  C  7
+S NT  6
+S  S 10
+S  H  5
+S  D  5
+S  C  7
+E NT  6
+E  S  2
+E  H  8
+E  D  8
+E  C  5
+W NT  6
+W  S  2
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,117,36,359,59,201,36,28,204,63,122,21,18,18,16,170,22,14,7,52,20,30,9,28,34,16,60,120,27,15,8,15,16,15,7,32,17,16,11,72,24,17,7,65,19,6,38,14
+[Auction "S"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+S2 SQ H3 S4 
+H2 H5 H6 HA 
+D7 S3 D4 D2 
+H7 HK HJ C8 
+C7 C2 CJ S6 
+D8 C3 D3 DA 
+DJ SJ DT D5 
+CK C4 C9 S8 
+DK C5 DQ D6 
+H4 H8 HQ S9 
+-  -  -  D9 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "19"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ3.K985..Q65432 .QJT63.QT43.AJT9 AT9864.A.A9652.8 K752.742.KJ87.K7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 590"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "6a5576a5576288562886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D  5
+N  C  7
+S NT  6
+S  S 10
+S  H  5
+S  D  5
+S  C  7
+E NT  6
+E  S  2
+E  H  8
+E  D  8
+E  C  5
+W NT  6
+W  S  2
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,158,39,337,510,182,196,91,17,45,215,336,22,31,35,38,26,12,31,64,37,12,122,25,19,34,333,27,20,41,479,47,459,136,132,37,26,269,16,42,518,83,196,33,20,50,162,14,11,21,17,25,16,15,15,23,23,12,13,10,13,27
+[Auction "S"]
+1S Pass 3C =1= X =2= 
+4S X Pass Pass 
+Pass 
+[Note "1:  * limit raise with 3S [0:10]"]
+[Note "2:  * clubs [0:11]"]
+[Play "W"]
+H4 H5 HT HA 
+D7 S3 D3 D2 
+H7 HK H6 C8 
+H2 H8 HQ S4 
+D8 SJ D4 D5 
+S2 SQ C9 S6 
+SK H9 HJ S8 
+CK C2 CT S9 
+DJ C3 DQ DA 
+DK C4 DT D6 
+C7 C5 CJ ST 
+S5 C6 H3 SA 
+S7 CQ CA D9 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "20"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:953.Q53.JT7.A952 T42.JT8.KQ86.QJT K76.K976.A95.764 AQJ8.A42.432.K83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "44545445458889888898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  5
+S NT  4
+S  S  4
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,0,172,50,13,65,246,155,50,26,277,54,17,26,212,26,19,135,409,73,30,13,270,56,15,18,9,18,9,13,80,662,29,24,47,21,9,13,19,66,10,10,61,14,10,22,18,13,10,20,27,19,9,13,6,13,12,7
+[Auction "W"]
+1NT =1= Pass Pass Pass 
+[Note "1: 12-14 pts"]
+[Play "N"]
+S5 S2 SK SA 
+C2 CT C4 C3 
+CA CJ C6 CK 
+H3 HJ HK HA 
+S9 ST S7 S8 
+S3 S4 S6 SQ 
+D7 D6 D5 SJ 
+C5 CQ C7 C8 
+DJ DK DA D2 
+DT DQ D9 D3 
+H5 D8 H6 D4 
+HQ HT H7 H2 
+C9 H8 H9 H4 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "20"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:953.Q53.JT7.A952 T42.JT8.KQ86.QJT K76.K976.A95.764 AQJ8.A42.432.K83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "5"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "44545445458889888898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  5
+S NT  4
+S  S  4
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,1,3,287,34,426,217,65,203,174,73,406,63,104,80,46,208,259,23,86,26,102,23,12,358,49,19,25,50,41,24,27,74,27,30,13,30,314,79,22,14,29,20,9,12,18,8,11,10,176,463,39,19,28,17,27,16,331,27,11,11,11,25,8,8,10,12,9
+[Auction "W"]
+1D =1= Pass Pass X 
+Pass 1NT X Pass 
+Pass 2C Pass Pass 
+Pass 
+[Note "1: 12-14 BAL 2-5♢ OR 11-15 (3)4+♢ UNBAL"]
+[Play "E"]
+CQ C4 C8 CA 
+CT C6 C3 C2 
+S4 S6 SJ S5 
+DQ DA D3 DJ 
+CJ C7 CK C5 
+DK D5 D2 DT 
+S2 SK SA S3 
+ST S7 SQ S9 
+D6 H6 S8 C9 
+HT HK HA H3 
+HJ H7 H4 H5 
+H8 H9 H2 HQ 
+D8 D9 D4 D7 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "21"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T872.852.J.QJ986 K65.T76.A9832.73 QJ94.QJ4.Q74.KT2 A3.AK93.KT65.A54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "1510515105c8bd8c8bd8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  1
+N  D  0
+N  C  5
+S NT  1
+S  S  5
+S  H  1
+S  D  0
+S  C  5
+E NT 12
+E  S  8
+E  H 11
+E  D 13
+E  C  8
+W NT 12
+W  S  8
+W  H 11
+W  D 13
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 17,2,0,188,17,53,36,60,46,34,255,34,14,18,67,1597,21,10,592,22,15,388,232,315,26,12,24,70,12,13,17,14,9,17,70,19,9,24,13,16,10,12,176,34,12,18,12,17,20,22,78,26,260,40,9,26,11,16,11,25,9,8,14,10,8,8
+[Auction "N"]
+Pass Pass Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+DJ DA D4 D6 
+C6 C3 C2 C4 
+S8 S5 SJ SA 
+C9 C7 CT CA 
+C8 H6 CK C5 
+H5 H7 H4 HA 
+H2 HT HJ HK 
+S2 SK S4 S3 
+H8 D2 D7 DT 
+CQ S6 DQ H3 
+CJ D3 HQ DK 
+S7 D8 SQ H9 
+ST D9 S9 D5 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "21"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T872.852.J.QJ986 K65.T76.A9832.73 QJ94.QJ4.Q74.KT2 A3.AK93.KT65.A54"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "1510515105c8bd8c8bd8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  1
+N  D  0
+N  C  5
+S NT  1
+S  S  5
+S  H  1
+S  D  0
+S  C  5
+E NT 12
+E  S  8
+E  H 11
+E  D 13
+E  C  8
+W NT 12
+W  S  8
+W  H 11
+W  D 13
+W  C  8
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 9,1,3,197,51,133,327,43,162,50,148,30,566,167,206,88,506,45,116,347,45,21,22,21,13,25,22,42,17,299,466,50,95,18,19,97,22,15,16,30,10,76,15
+[Auction "N"]
+Pass Pass Pass 1C =1= 
+Pass 1D =2= Pass 1NT =3= 
+Pass 2S =4= X 2NT =5= 
+Pass Pass Pass 
+[Note "1: 16+, any distr"]
+[Note "2: 0-8"]
+[Note "3: 18-19 (semi)BAL"]
+[Note "4: range ask"]
+[Note "5: Minimum with a ♠ stop"]
+[Play "N"]
+S8 S5 SJ SA 
+DJ D2 D4 DK 
+H2 D3 DQ DT 
+CQ C3 CT C4 
+ST SK S4 S3 
+C6 DA D7 D5 
+-  D8 -  -  
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "22"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQJ92.J93.T972.7 T76.A8765.AJ54.8 K843.KQ2.6.T9542 5.T4.KQ83.AKQJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4852348523848aa848aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  5
+N  D  2
+N  C  3
+S NT  4
+S  S  8
+S  H  5
+S  D  2
+S  C  3
+E NT  8
+E  S  4
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S  4
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 20,2,0,54,56,34,99,31,358,424,79,17,40,89,100,73,10,357,38,33,16,18,25,8,13,7,47,19,22,604,52,10,18,16,10,14,573,28,40,9,10,94,26,13,11,18,43,9,13,13,30,7,44,39,16,8,67,13,16,6,20,11,8,8,9
+[Auction "E"]
+Pass Pass 1C 1S 
+X 4S 5C Pass 
+Pass Pass 
+[Play "N"]
+SA S6 S4 S5 
+SQ S7 S8 C3 
+C7 C8 C2 CA 
+S9 H5 C4 CK 
+D7 D4 D6 DK 
+D2 DJ C5 D3 
+H3 HA HK H4 
+SJ ST SK C6 
+S2 H6 C9 CQ 
+DT H7 CT CJ 
+D9 DA H2 D8 
+H9 D5 S3 DQ 
+HJ H8 HQ HT 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "22"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQJ92.J93.T972.7 T76.A8765.AJ54.8 K843.KQ2.6.T9542 5.T4.KQ83.AKQJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4852348523848aa848aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  5
+N  D  2
+N  C  3
+S NT  4
+S  S  8
+S  H  5
+S  D  2
+S  C  3
+E NT  8
+E  S  4
+E  H  8
+E  D 10
+E  C 10
+W NT  8
+W  S  4
+W  H  8
+W  D 10
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 20,1,3,90,69,206,154,448,107,513,62,1183,54,69,37,1863,56,47,153,26,10,14,25,8,10,20,16,111,47,177,33,13,18,45,209,17,22,83,28,25,148,55,23,21,15,99,24,19,43,72,22,13,35,15,25,10,9,29,20,51,68,21,14,10,18,9,8,9,10
+[Auction "E"]
+Pass Pass 1C =1= 1S 
+1NT =2= 3S Pass =3= Pass 
+X =4= Pass 5C Pass 
+Pass Pass 
+[Note "1: 16+, any distr"]
+[Note "2: 9+, 4+ H"]
+[Note "3: Forcing"]
+[Note "4:  * to [0:09]"]
+[Play "N"]
+DT D4 D6 DK 
+C7 C8 C2 CA 
+S9 H5 C4 CK 
+S2 H6 C5 CQ 
+SQ H7 C9 CJ 
+D2 DJ CT D8 
+SJ S6 S3 S5 
+SA S7 S4 C3 
+D7 DA H2 D3 
+D9 D5 S8 DQ 
+H3 H8 HK C6 
+H9 HA HQ H4 
+HJ ST SK HT 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "23"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K8.K942.T64.K864 93.AJT6.AJ8.AQT9 A2.Q8753.K753.72 QJT7654..Q92.J53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "63754537547a6797a679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  3
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,0,87,165,77,58,29,340,866,24,9,19,19,9,394,841,53,35,24,156,50,35,11,15,15,9,19,18,68,24,11,32,48,19,24,182,30,13,30,81,18,8,18,16,12,9,42,27,19,6,10,10,40,8,13,7,11,8,7
+[Auction "S"]
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+H2 HA H3 D9 
+SK S9 S2 S4 
+D6 D8 DK D2 
+H4 H6 H8 S5 
+S8 S3 SA ST 
+H9 HT H5 S6 
+DT HJ H7 SQ 
+C6 C9 C2 C3 
+D4 DA D3 DQ 
+HK DJ D5 C5 
+C4 CA C7 CJ 
+C8 CT HQ S7 
+CK CQ D7 SJ 
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "23"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K8.K942.T64.K864 93.AJT6.AJ8.AQT9 A2.Q8753.K753.72 QJT7654..Q92.J53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "63754537547a6797a679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  7
+N  D  5
+N  C  4
+S NT  5
+S  S  3
+S  H  7
+S  D  5
+S  C  4
+E NT  7
+E  S 10
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,3,84,71,74,1033,57,26,36,29,153,73,21,131,60,95,25,27,23,26,23,65,130,20,10,13,22,14,14,55,22,20,16,10,20,9,18
+[Auction "S"]
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+D6 D8 DK D9 
+HK HA H5 C5 
+SK S3 S2 SQ 
+DT DA D3 D2 
+S8 S9 SA S4 
+D4 DJ D5 DQ 
+C4 C9 C2 C3 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "24"]
+[West "Gerald Soper#32094"]
+[North "Roger Bryant#73720"]
+[East "Colin Wilson#93813"]
+[South "Steve Green#85164"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q75.Q843.AKJ8.A9 .A972.QT93.KQT63 63.KJ6.7642.J852 AKJT9842.T5.5.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "74787737766965669656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  3
+S  H  7
+S  D  7
+S  C  6
+E NT  6
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  6
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,366,88,27,78,232,828,40,878,29,63,303,121,25,32,23,23,37,33,36,1078,51,46,22,72,9,20,23,17,26
+[Auction "W"]
+4D =1= Pass 4S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1:  * Solid S or missing 1 top hon & A [0:39]"]
+[Play "S"]
+S6 SA S5 H2 
+S3 SK S7 H7 
+CJ C7 C9 CT 
+HK H5 H4 HA 
+C2 C4 CA CQ 
+*
+
+[Event "Soper v Bryant"]
+[Site "RealBridge"]
+[Date "2023.07.04"]
+[Board "24"]
+[West "Rob Helle#108672"]
+[North "Ian Draper#91338"]
+[East "Ed Hoogenkamp#411941"]
+[South "Joe Sivayogan#76274"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q75.Q843.AKJ8.A9 .A972.QT93.KQT63 63.KJ6.7642.J852 AKJT9842.T5.5.74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Roger Bryant"]
+[VisitTeam "Gerald Soper"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "74787737766965669656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  7
+N  D  8
+N  C  7
+S NT  7
+S  S  3
+S  H  7
+S  D  7
+S  C  6
+E NT  6
+E  S  9
+E  H  6
+E  D  5
+E  C  6
+W NT  6
+W  S  9
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,1,3,154,195,27,38,41,76,16,11,104,71,25,18,154,21,90,35,17,20,8,17,11,18,13,21,18,14,10,21
+[Auction "W"]
+4S Pass Pass Pass 
+[Play "N"]
+DA D3 D2 D5 
+H3 H2 HK H5 
+HQ HA H6 HT 
+D8 D9 D4 S2 
+S5 C3 S3 SA 
+S7 H7 S6 SK 
+*

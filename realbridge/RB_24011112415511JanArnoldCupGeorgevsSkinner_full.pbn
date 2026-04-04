@@ -1,0 +1,3052 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "1"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7432..864.T9753 J.AJ832.AQJT95.2 A6.KT75.K32.AKJ4 QT985.Q964.7.Q86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "6735a6735a66a7366a73"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  3
+N  D  5
+N  C 10
+S NT  6
+S  S  7
+S  H  3
+S  D  5
+S  C 10
+E NT  6
+E  S  6
+E  H 10
+E  D  7
+E  C  3
+W NT  6
+W  S  6
+W  H 10
+W  D  7
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,2,1,744,362,157,87,110,337,27,245,42,51,18,17,81,36,13,41,26,14,32,239,22,9,202,184,18,33,95,92,46,30,13,50,17,610,26,39,66,12,210,77,31,17,121,81,38,226,12,29,12,20,43,24,70,42,46,8,15,27,9,12,14,9,4
+[Auction "N"]
+Pass 1H 1NT 2H 
+Pass 3D Pass 3H 
+Pass Pass Pass 
+[Play "S"]
+CK C6 C3 C2 
+CA C8 C5 H2 
+H5 H4 C7 HA 
+H7 H9 D4 H3 
+D2 D7 D8 DA 
+DK H6 D6 DQ 
+SA S5 S2 SJ 
+C4 CQ C9 D5 
+S6 S8 S3 H8 
+D3 S9 S4 DJ 
+HK ST S7 DT 
+HT HQ CT HJ 
+CJ SQ SK D9 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "1"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7432..864.T9753 J.AJ832.AQJT95.2 A6.KT75.K32.AKJ4 QT985.Q964.7.Q86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS -590"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "6735a6735a66a7366a73"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  3
+N  D  5
+N  C 10
+S NT  6
+S  S  7
+S  H  3
+S  D  5
+S  C 10
+E NT  6
+E  S  6
+E  H 10
+E  D  7
+E  C  3
+W NT  6
+W  S  6
+W  H 10
+W  D  7
+W  C  3
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,808,183,216,120,156,60,85,66,82,33,260,30,68,17,249,221,30,35,59,44,29,38,214,105,20,27,226,32,39,29,170,57,32,13,31,27,148,26,175,31,49,64,29,164,63,14,37,32,35,31,30,35,34,33,26,241,95,33,23,13,20,57,14,22,11,11
+[Auction "N"]
+Pass 1H 1NT 2H 
+2S 3D Pass 4H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "S"]
+CK C6 C3 C2 
+SA S5 S7 SJ 
+CA C8 C5 H2 
+H5 H4 S2 HA 
+D3 D7 D4 DA 
+DK H6 D6 DQ 
+S6 S8 S3 H3 
+D2 S9 D8 DJ 
+C4 ST C7 DT 
+CJ CQ S4 D9 
+H7 H9 C9 D5 
+HK SQ SK HJ 
+HT HQ CT H8 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "2"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQT654.42.874.A2 KJ97.A8.AJ62.Q43 3.QJT9763.95.JT8 82.K5.KQT3.K9765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "2472324723b96aab96aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  7
+N  D  2
+N  C  3
+S NT  2
+S  S  4
+S  H  7
+S  D  2
+S  C  3
+E NT 11
+E  S  9
+E  H  6
+E  D 10
+E  C 10
+W NT 11
+W  S  9
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,228,40,53,102,28,51,89,682,40,27,33,34,28,48,67,28,63,44,439,94,18,33,15,81,35,26
+[Auction "E"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+HQ HK H2 H8 
+C8 C5 C2 CQ 
+CJ C6 CA C3 
+S3 S2 SA S7 
+H7 H5 H4 HA 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "2"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AQT654.42.874.A2 KJ97.A8.AJ62.Q43 3.QJT9763.95.JT8 82.K5.KQT3.K9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "4"]
+[Score "NS -1400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "2472324723b96aab96aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  4
+N  H  7
+N  D  2
+N  C  3
+S NT  2
+S  S  4
+S  H  7
+S  D  2
+S  C  3
+E NT 11
+E  S  9
+E  H  6
+E  D 10
+E  C 10
+W NT 11
+W  S  9
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 13,2,1,270,64,353,123,527,189,530,71,201,47,104,25,30,23,22,32,43,44,102,24,66,39,28,20,141,424,32,19,25,41,18,43,104,25,60,32,158,28,17,13,16,17,12,36,35,42,32,29,26,15,14,17,18,160,23,15,12,12,14,13
+[Auction "E"]
+1D 2H 3D 3S 
+X Pass Pass Pass 
+[Play "E"]
+DA D5 DT D4 
+D2 D9 DQ D7 
+SJ S3 S8 ST 
+D6 H3 DK D8 
+SK H6 S2 SQ 
+DJ H7 D3 S4 
+S7 H9 C6 SA 
+C3 C8 C5 CA 
+C4 CT CK C2 
+CQ CJ C7 S5 
+H8 HT HK H2 
+S9 HJ C9 S6 
+HA HQ H5 H4 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "3"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQJ3.K32.KT92.5 754.T8.85.AQT962 T986.975.AQJ7.43 2.AQJ64.643.KJ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6a5b46a5b44382943829"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D 11
+N  C  4
+S NT  6
+S  S 10
+S  H  5
+S  D 11
+S  C  4
+E NT  4
+E  S  3
+E  H  8
+E  D  2
+E  C  9
+W NT  4
+W  S  3
+W  H  8
+W  D  2
+W  C  9
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,101,69,134,230,499,55,99,58,28,13,84,142,166,25,20,24,105,17
+[Auction "S"]
+Pass 1H 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HT H5 HA H3 
+H8 H7 HJ HK 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "3"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AKQJ3.K32.KT92.5 754.T8.85.AQT962 T986.975.AQJ7.43 2.AQJ64.643.KJ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6a5b46a5b44382943829"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D 11
+N  C  4
+S NT  6
+S  S 10
+S  H  5
+S  D 11
+S  C  4
+E NT  4
+E  S  3
+E  H  8
+E  D  2
+E  C  9
+W NT  4
+W  S  3
+W  H  8
+W  D  2
+W  C  9
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,32,154,106,116,154,72,362,50,22,38,52,83,156,134,76,30,28,18,59,18,39,21,214,20,22,165,62,28,29,17,173,22,20,215,62,26,12,14,52,19,32,20
+[Auction "S"]
+Pass 1H 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HT H5 H6 HK 
+S4 S6 S2 SA 
+S5 S8 H4 SK 
+S7 S9 C8 SQ 
+D8 DA D3 D2 
+C2 C3 C7 C5 
+H8 H7 HQ H2 
+C6 H9 HA H3 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "4"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K987.AJ7543.2.AK AQ3.T98.J76.6542 6.KQ.AKQ985.JT97 JT542.62.T43.Q83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "c9ccaa9cca0400304003"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C 10
+S NT 10
+S  S  9
+S  H 12
+S  D 12
+S  C 10
+E NT  0
+E  S  4
+E  H  0
+E  D  0
+E  C  3
+W NT  0
+W  S  4
+W  H  0
+W  D  0
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 27,0,3,84,151,58,82,25,470,73,302,59,178,41,133,31,267,41,356,25,44,33,362,1051,36,22,979,83,17,11,21,24,14,45,27,24,15,27,30,23,17,18,62
+[Auction "W"]
+Pass 1H =1= Pass 2D 
+Pass 2S =2= Pass 2NT =3= 
+Pass 3H =4= Pass 4NT 
+Pass 5H =5= Pass 6H 
+Pass Pass Pass 
+[Note "1: F1R"]
+[Note "2: either 5H/4s or 6+H 14+ "]
+[Note "3: Alerted"]
+[Note "4: 6+H"]
+[Note "5: 2 of 5, no HQ"]
+[Play "E"]
+C4 CJ CQ CK 
+H8 HQ H2 H3 
+H9 HK H6 H4 
+C2 C7 C3 CA 
+HT S6 C8 HA 
+-  -  -  HJ 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "4"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K987.AJ7543.2.AK AQ3.T98.J76.6542 6.KQ.AKQ985.JT97 JT542.62.T43.Q83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "c9ccaa9cca0400304003"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H 12
+N  D 12
+N  C 10
+S NT 10
+S  S  9
+S  H 12
+S  D 12
+S  C 10
+E NT  0
+E  S  4
+E  H  0
+E  D  0
+E  C  3
+W NT  0
+W  S  4
+W  H  0
+W  D  0
+W  C  3
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 27,2,1,374,52,29,38,47,569,59,277,84,163,33,115,47,96,33,597,469,50,55,1139,47,55,44,62,23,27,72,96,33,29,35,33,37,28,147,50,41,20,86,39,39,39,30,20,50,25,45,26,20,20,12
+[Auction "W"]
+Pass 1H Pass 2D 
+Pass 3H Pass 4NT 
+Pass 5H Pass 6H 
+Pass Pass Pass 
+[Play "E"]
+HT HK H2 H3 
+SA S6 S2 SK 
+H8 HQ H6 H4 
+C5 CJ C3 CA 
+H9 C7 S4 HA 
+C2 C9 S5 HJ 
+D6 DA D3 D2 
+D7 DK D4 S7 
+DJ DQ DT S8 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "5"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT6.K9.JT92.A632 4.8432.AKQ7.KQ94 K9532.A6.653.T87 QJ87.QJT75.84.J5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "67465674656697776978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  9
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,193,127,711,96,207,200,60,29,38,66,257,22,23,29,59,38,25,162,36,48,31,22,39,29,23,19
+[Auction "N"]
+1NT =1= Pass 2H X 
+2S =2= 4H Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: shows 3s"]
+[Play "S"]
+HA H5 H9 H2 
+H6 HT HK H3 
+S5 S7 SA S4 
+C7 C5 CA C4 
+-  -  C6 -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "5"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT6.K9.JT92.A632 4.8432.AKQ7.KQ94 K9532.A6.653.T87 QJ87.QJT75.84.J5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "67465674656697776978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  9
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,204,134,116,94,80,44,22,335,127,146,116,49,520,22,21,30,16,20,66,22,95,90,55,30,144,59,22,21,68,32,23,12,330,50,230,38,269,62,22,28,134,43,16,29,285,50,25,21,61,23,16,42,52,18,18,14,14,11,13,9
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+2S Pass Pass Pass 
+[Note "1: ♠"]
+[Play "E"]
+DK D3 D8 DJ 
+DA D5 D4 D2 
+DQ D6 C5 D9 
+D7 C7 S7 DT 
+H4 HA HQ H9 
+S4 S2 SQ SA 
+C4 S3 SJ ST 
+C9 C8 CJ CA 
+H3 SK S8 S6 
+H2 S9 H5 C2 
+CQ S5 H7 C3 
+H8 H6 HT HK 
+CK CT HJ C6 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "6"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ972.9763.KQ7 AT865.84.A84.T98 73.J653.KJT5.J52 KQJ42.AT.Q2.A643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "43884438848955989559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  8
+N  C  4
+S NT  4
+S  S  3
+S  H  8
+S  D  8
+S  C  4
+E NT  8
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,148,139,68,87,349,71,240,557,49,113,109,166,58,44,983,37,16,22,95,39,19,22,183,32,22,56,86,18,17,9,372,29,102,18,409,35,18,45,52,54,25,32,10,18,10,46,22,31,9,67,19,16,12,32,14,14,20,14,17,16,10,15
+[Auction "E"]
+Pass Pass 1S Pass 
+2D =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: 4 card S raise 9-11"]
+[Play "N"]
+HQ H4 H5 HA 
+S9 S5 S3 SK 
+H7 SA S7 SJ 
+CK C8 C2 C4 
+HK H8 H3 HT 
+D7 D4 DK D2 
+D3 D8 DJ DQ 
+H2 S6 H6 SQ 
+H9 S8 D5 S4 
+C7 ST DT S2 
+D6 DA C5 C3 
+CQ C9 CJ CA 
+D9 CT HJ C6 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "6"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:9.KQ972.9763.KQ7 AT865.84.A84.T98 73.J653.KJT5.J52 KQJ42.AT.Q2.A643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "43884438848955989559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  8
+N  D  8
+N  C  4
+S NT  4
+S  S  3
+S  H  8
+S  D  8
+S  C  4
+E NT  8
+E  S  9
+E  H  5
+E  D  5
+E  C  9
+W NT  8
+W  S  9
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,140,27,83,81,333,30,45,32,28,13,60,249,6,22,26,27,23,4,145,31,43,6,98,18,18,41,318,79,40,16,574,37,13,21,93,62,19,6,22,5,22,19,24,14,21,20,30,26,13,10,65,26,5,19,22,47,19,5,12,9,13,25
+[Auction "E"]
+Pass Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+HK H4 H6 HA 
+S9 S5 S3 SK 
+H2 SA S7 S4 
+D7 D4 DK D2 
+CQ C8 C2 C3 
+D3 D8 DT DQ 
+H7 ST H3 S2 
+D6 DA D5 HT 
+C7 C9 C5 CA 
+CK CT CJ C4 
+HQ H8 H5 SQ 
+H9 S6 DJ C6 
+D9 S8 HJ SJ 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "7"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T873.K3.A976.KJ5 Q92.J86.QT8.AQ76 AKJ654.75.52.842 .AQT942.KJ43.T93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "783547835455a8855a88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  3
+N  D  5
+N  C  4
+S NT  7
+S  S  8
+S  H  3
+S  D  5
+S  C  4
+E NT  5
+E  S  5
+E  H 10
+E  D  8
+E  C  8
+W NT  5
+W  S  5
+W  H 10
+W  D  8
+W  C  8
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,426,98,652,166,125,48,38,627,43,30,27,38,344,118,30,939,63,21,38,38,244,67,39,40,17,21,27,436,93,16,32,32,31,31,14,187,36,31,27,19,32,26,14,88,29,23,19
+[Auction "S"]
+2D =1= 2H 2NT =2= 4H 
+4S Pass Pass X 
+Pass Pass Pass 
+[Note "1: multi "]
+[Note "2: enq"]
+[Play "W"]
+CT CJ CQ C4 
+HA H3 H6 H7 
+C9 C5 C6 C8 
+C3 CK CA C2 
+H2 HK H8 H5 
+D3 S3 S2 SA 
+DJ DA D8 D2 
+H9 S7 S9 SJ 
+H4 S8 SQ SK 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "7"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T873.K3.A976.KJ5 Q92.J86.QT8.AQ76 AKJ654.75.52.842 .AQT942.KJ43.T93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "783547835455a8855a88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  3
+N  D  5
+N  C  4
+S NT  7
+S  S  8
+S  H  3
+S  D  5
+S  C  4
+E NT  5
+E  S  5
+E  H 10
+E  D  8
+E  C  8
+W NT  5
+W  S  5
+W  H 10
+W  D  8
+W  C  8
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,107,217,215,27,31,514,72,47,18,43,110,14,28,208,30,50,13,133,33,28,6,31,27,61,5,489,36,9,27,355,411,9,29,22,18,31,19
+[Auction "S"]
+2S =1= Pass 3S Pass 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "N"]
+S8 S2 SJ H2 
+C5 C6 C2 CT 
+H3 H6 H5 HA 
+HK HJ H7 HQ 
+DA D8 D5 D4 
+CJ CQ C4 C3 
+S3 H8 S6 HT 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "8"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AT7.KQJ64.AKJ4 AQJ7643.QJ3.987. T985.542.32.QT87 2.K986.AT5.96532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "63588635784975449754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  5
+N  D  8
+N  C  8
+S NT  6
+S  S  3
+S  H  5
+S  D  7
+S  C  8
+E NT  4
+E  S  9
+E  H  7
+E  D  5
+E  C  4
+W NT  4
+W  S  9
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,69,187,262,78,20,137,61,503,27,94,327,514,194,350,112,19,44,300,59,110,40,42,34,28,25,30,36,72,86,81,40,26,22,23,22,58,114,30,30,31,23,22,22,26,23,33,26,17,14,13,13,16,9,12,10,13,6,11
+[Auction "W"]
+Pass 2NT =1= 3S Pass 
+Pass Pass 
+[Note "1: 20-21"]
+[Play "S"]
+C7 C2 CK S3 
+H2 H6 H7 HQ 
+H4 H8 HA HJ 
+D3 DA DK D7 
+H5 HK HT H3 
+D2 H9 SK D8 
+C8 D5 DQ D9 
+S8 DT DJ S7 
+CT C3 C4 S4 
+S5 S2 D4 SA 
+S9 C5 D6 SQ 
+ST C6 CJ SJ 
+CQ C9 CA S6 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "8"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K.AT7.KQJ64.AKJ4 AQJ7643.QJ3.987. T985.542.32.QT87 2.K986.AT5.96532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "63588635784975449754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  5
+N  D  8
+N  C  8
+S NT  6
+S  S  3
+S  H  5
+S  D  7
+S  C  8
+E NT  4
+E  S  9
+E  H  7
+E  D  5
+E  C  4
+W NT  4
+W  S  9
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 15,2,1,299,54,352,29,44,461,52,34,40,333,286,56,26,115,23,48,25,52,64,32,28,148,36,13,170,46,24,102,16,271,21,74,42,263,29,16,14,42,18,16,49,164,234,29,16,79,38,16,31,168,22,29,19,31,16,16,35,15,11,10,16
+[Auction "W"]
+Pass 1D 3S Pass 
+Pass 4C Pass Pass 
+Pass 
+[Play "E"]
+HQ H2 H8 H7 
+H3 H4 H9 HT 
+S4 C7 C2 CA 
+D7 D2 DA DK 
+SA S5 S2 SK 
+SQ S8 D5 C4 
+D8 D3 DT DQ 
+D9 S9 C3 DJ 
+S3 C8 C5 CK 
+HJ H5 H6 HA 
+S6 CT HK D4 
+S7 ST C6 CJ 
+SJ CQ C9 D6 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "9"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK83.7643.QT7.Q7 J976.AJT98.65.J6 T542.52.A42.AK98 Q.KQ.KJ983.T5432"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "78677786676566665666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  7
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA -2,1,3,885,74,129,80
+[Auction "N"]
+Pass Pass Pass Pass 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "9"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK83.7643.QT7.Q7 J976.AJT98.65.J6 T542.52.A42.AK98 Q.KQ.KJ983.T5432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "78677786676566665666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  7
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 13,2,0,292,72,80,270,139,119,36,67,304,48,35,33,309,111,128,20,15,33,7,23,371,26,6,66,22,40,7,31,15,14,11,46,18,46,9,350,45,17,49,7,91,12,27,10,55,46,18,9,74,15,26,5,17,26,5,29,7,15
+[Auction "N"]
+Pass Pass 1C Pass 
+1H Pass 1S Pass 
+3S Pass Pass Pass 
+[Play "W"]
+D8 DT D6 D2 
+SQ SA S6 S2 
+D3 SK S7 S4 
+C2 CQ C6 C8 
+C4 C7 CJ CA 
+C5 D7 S9 CK 
+HK H3 HA H2 
+HQ H4 H8 H5 
+C3 H6 SJ C9 
+D9 DQ D5 DA 
+DJ S3 H9 D4 
+-  S8 HT -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "10"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KJ9863.K94.J.632 Q5.AJ.KQ98642.75 74.T762.T7.AQT94 AT2.Q853.A53.KJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "1641515215b79c7c79c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  4
+N  D  1
+N  C  5
+S NT  1
+S  S  5
+S  H  2
+S  D  1
+S  C  5
+E NT 11
+E  S  7
+E  H  9
+E  D 12
+E  C  7
+W NT 12
+W  S  7
+W  H  9
+W  D 12
+W  C  7
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,1,3,121,83,36,109,139,91,98,55,19,41,86,401,40,24,202,42,16,43,69,56,21,18,307,36,43,27,102,57,24,11,45,34,51
+[Auction "E"]
+1D Pass 1H 2S 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S8 S5 S7 ST 
+H4 HJ H6 H5 
+DJ D2 DT DA 
+H9 HA H2 H3 
+C2 C5 CA C8 
+S3 -  S4 SA 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "10"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:KJ9863.K94.J.632 Q5.AJ.KQ98642.75 74.T762.T7.AQT94 AT2.Q853.A53.KJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "1641515215b79c7c79c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  4
+N  D  1
+N  C  5
+S NT  1
+S  S  5
+S  H  2
+S  D  1
+S  C  5
+E NT 11
+E  S  7
+E  H  9
+E  D 12
+E  C  7
+W NT 12
+W  S  7
+W  H  9
+W  D 12
+W  C  7
+[OptimumScore "NS -1440"]
+[Competition "Teams"]
+% RBDATA 14,2,0,255,20,162,100,124,31,134,39,31,22,262,228,7,24,372,21,21,7,98,7,63,24,22,6,11,107,67,7,37,26,61,6,21,23,34,148,38,105,19,8,126,38,47,9,17,15,18,9,15,24,50,19,12,6,28,14
+[Auction "E"]
+1D =1= Pass 1H 1S 
+2D Pass 3NT Pass 
+Pass Pass 
+[Note "1: D or 18-19 bal"]
+[Play "N"]
+DJ D2 D7 DA 
+H4 HJ H7 H5 
+S8 DK DT D3 
+S3 DQ CT D5 
+C2 D9 S4 C8 
+S6 D8 S7 H3 
+C3 D6 C4 CJ 
+S9 D4 C9 S2 
+H9 HA H2 H8 
+SJ S5 H6 SA 
+C6 C5 CA CK 
+-  -  HT HQ 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "11"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:863.KQT76.J53.A4 KJ942.84.62.K963 AQT.AJ32.AT987.J 75.95.KQ4.QT8752"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "a8bb6a8cb63512735127"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 11
+N  D 11
+N  C  6
+S NT 10
+S  S  8
+S  H 12
+S  D 11
+S  C  6
+E NT  3
+E  S  5
+E  H  1
+E  D  2
+E  C  7
+W NT  3
+W  S  5
+W  H  1
+W  D  2
+W  C  7
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 17,1,3,196,67,140,71,457,48,62,45,172,309,21,26,339,56,17,18,17,16,26,29,108,41,19,25,43,62,77,44,397,49,8,34,13,30,14,20,24,27,37,82,22,31,12,7,24,14
+[Auction "S"]
+1D Pass 1H 1S 
+4H Pass Pass Pass 
+[Play "E"]
+C6 CJ CQ CA 
+H4 HA H5 H6 
+H8 H2 H9 HK 
+D6 D7 DQ DJ 
+C9 H3 C2 C4 
+S2 HJ C7 HQ 
+D2 DT DK D5 
+C3 ST C5 H7 
+S4 DA D4 D3 
+-  D9 C8 -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "11"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:863.KQT76.J53.A4 KJ942.84.62.K963 AQT.AJ32.AT987.J 75.95.KQ4.QT8752"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "7"]
+[Score "NS 800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "a8bb6a8cb63512735127"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 11
+N  D 11
+N  C  6
+S NT 10
+S  S  8
+S  H 12
+S  D 11
+S  C  6
+E NT  3
+E  S  5
+E  H  1
+E  D  2
+E  C  7
+W NT  3
+W  S  5
+W  H  1
+W  D  2
+W  C  7
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 20,2,0,67,211,270,214,201,39,314,35,17,40,29,21,190,71,26,20,298,34,37,20,417,172,15,15,24,17,22,21,310,27,47,14,101,63,29,19,118,23,17,5,25
+[Auction "S"]
+1D 3C =1= 3H 5C 
+X Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+D3 D2 DA D4 
+H7 H4 HA H9 
+HT H8 H2 H5 
+S6 SK SA S5 
+D5 D6 DT DQ 
+S8 SJ SQ S7 
+S3 S2 ST C8 
+CA C3 CJ C2 
+HK -  -  -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "12"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.Q7.K953.J76542 QT.A43.T8764.AQ3 KJ73.KJ86.AQJ.T9 A98542.T952.2.K8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64567645676976569765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  7
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  7
+E NT  6
+E  S  9
+E  H  7
+E  D  6
+E  C  5
+W NT  6
+W  S  9
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 3,1,3,88,86,75,122,70,177,547,185,331,156,58,12,30,33,8,20,18,21,8,18,9,19,9,14,166,29,13,13,17,20,120,14,374,21,30,9,46,119,19,32,15,77,15,45,17,18,10,17,39,13,9,11
+[Auction "W"]
+Pass Pass 1D X 
+1S Pass Pass Pass 
+[Play "N"]
+HQ HA H8 H5 
+C6 C3 C9 CK 
+C2 CQ CT C8 
+C4 CA S3 D2 
+H7 H3 HK H2 
+C5 H4 HJ H9 
+D9 D4 DA S2 
+S6 ST H6 HT 
+D3 SQ S7 S4 
+D5 D6 DJ S5 
+C7 D7 SJ SA 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "12"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:6.Q7.K953.J76542 QT.A43.T8764.AQ3 KJ73.KJ86.AQJ.T9 A98542.T952.2.K8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64567645676976569765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  6
+N  C  7
+S NT  6
+S  S  4
+S  H  5
+S  D  6
+S  C  7
+E NT  6
+E  S  9
+E  H  7
+E  D  6
+E  C  5
+W NT  6
+W  S  9
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,389,83,284,123,53,82,48,290,52,184,8,23,173,34,13,5,14,16,11,30,69,43,39,24,115,19,73,14,77,12,14,18,79,25,91,22,258,25,32,30,37,23,23,78,27,45,13,5,9,19,104,12,57,24,29,5,14,13,11,5
+[Auction "W"]
+2D =1= Pass 2H =2= Pass 
+2S Pass Pass Pass 
+[Note "1: multi"]
+[Note "2: pass or correct"]
+[Play "N"]
+C5 C3 CT CK 
+C2 CQ C9 C8 
+C4 CA S7 D2 
+D3 D4 DA S2 
+H7 HA H8 H2 
+HQ H3 HK H5 
+C6 H4 HJ H9 
+S6 ST H6 HT 
+D5 SQ SK SA 
+C7 D6 SJ S9 
+D9 D7 DQ S4 
+CJ D8 S3 S8 
+DK DT DJ S5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "13"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT7.Q3.AKQJ65.AJ AKQ32..T98.QT432 65.AJT8762.4.876 984.K954.732.K95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "84a8584a855824758247"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H 10
+N  D  8
+N  C  5
+S NT  8
+S  S  4
+S  H 10
+S  D  8
+S  C  5
+E NT  5
+E  S  8
+E  H  2
+E  D  4
+E  C  7
+W NT  5
+W  S  8
+W  H  2
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 11,1,3,247,214,172,61,132,197,335,53,254,239,106,59,213,49,20,36,88,50,37,31,20,25,16,14,52,31,59,9,85,106,69,534,115,32,138,11,79,18,15,13,43,32,7,24,26,69,10,16
+[Auction "N"]
+1D 1S 2H 2S 
+3D Pass Pass Pass 
+[Play "E"]
+SK S5 S9 S7 
+C4 C6 CK CA 
+D8 D4 D7 DA 
+D9 C7 D3 DK 
+DT H2 D2 DQ 
+S3 H6 HK HQ 
+CQ C8 C9 CJ 
+SA S6 S8 SJ 
+CT H7 C5 D5 
+C2 HA H4 H3 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "13"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT7.Q3.AKQJ65.AJ AKQ32..T98.QT432 65.AJT8762.4.876 984.K954.732.K95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "84a8584a855824758247"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H 10
+N  D  8
+N  C  5
+S NT  8
+S  S  4
+S  H 10
+S  D  8
+S  C  5
+E NT  5
+E  S  8
+E  H  2
+E  D  4
+E  C  7
+W NT  5
+W  S  8
+W  H  2
+W  D  4
+W  C  7
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,2,0,103,92,68,51,479,522,448,44,765,249,53,59,56,8,39,9,101,12,75,26,22,10,189,40,15,51,45,92,26,205,29,19,25,6,13,23,7,14,10,12,7,35,16,13,8,31,17,30,8,13,9,16,5,13,6,14,6,10
+[Auction "N"]
+1D 1S Pass 2S 
+3S =1= X 4H Pass 
+Pass Pass 
+[Note "1:  * sorry - prob should alert -asking stop [0:32]"]
+[Play "W"]
+S8 S7 SQ S6 
+S4 ST SA S5 
+S9 SJ SK H6 
+H4 HQ C4 H2 
+HK H3 S2 HJ 
+C5 CA C2 C6 
+D3 DA D8 D4 
+D2 DK D9 C7 
+D7 DQ DT C8 
+C9 CJ CQ H7 
+H5 D5 C3 HA 
+H9 D6 CT HT 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "14"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q954.T54.T.AJ862 T8.3.98532.Q9754 A763.Q98.AKJ76.K KJ2.AKJ762.Q4.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "68676797875465554655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  7
+S  S  9
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,111,118,77,127,30,168,46,121,130,38,104,47,19,32,20,322,35,66,29,48,26,87,56,16,17,73,29,14,21,20,22,20,31,116,41,317,31,20,40,18,24,32,20,23,18,19,23,15,24
+[Auction "E"]
+Pass 1D 1H X 
+Pass 3S Pass Pass 
+Pass 
+[Play "W"]
+HK H4 H3 H9 
+HA H5 C4 H8 
+HJ HT S8 HQ 
+D4 DT D5 DA 
+S2 S4 ST SA 
+SK S5 C5 S3 
+SJ SQ C7 S6 
+C3 C2 C9 CK 
+DQ C6 D2 DK 
+H2 C8 D3 DJ 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "14"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q954.T54.T.AJ862 T8.3.98532.Q9754 A763.Q98.AKJ76.K KJ2.AKJ762.Q4.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "68676797875465554655"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  7
+N  C  6
+S NT  7
+S  S  9
+S  H  7
+S  D  8
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  5
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  5
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,75,28,230,116,52,35,40,107,26,29,69,54,27,58,8,26,21,275,7,146,9,27,7,89,17,20,6,17,34,7,13,96,16,10,30,49,27,8,42,11,82,15,420,85,23,58,6,14,83,17,24,6,21,5,16,6,13,7,12,6,13,6,11
+[Auction "E"]
+Pass 1D 1H Pass 
+Pass 1S 2H 2S 
+Pass Pass Pass 
+[Play "W"]
+HK H4 H3 H9 
+HA H5 C4 H8 
+H7 HT S8 HQ 
+D4 DT D8 DA 
+C3 C2 C5 CK 
+DQ S4 D2 D6 
+S2 S5 ST SA 
+SK S9 D3 S3 
+HJ C6 C7 S6 
+SJ SQ D5 DJ 
+CT CA C9 D7 
+H2 C8 CQ S7 
+H6 CJ D9 DK 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "15"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A9.A854.KQ75.JT5 T84.KJT.AT82.Q84 KQ632.Q6.643.973 J75.9732.J9.AK62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "77666776666676766767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 4,1,3,168,53,246,76,78,24,63,29,121,50,545,376,17,74,91,46,18,9,12,96,21,11,22,10,16,41,207,20,81,60,47,16,10,193,25,31,14,102,14,65,31,19,21,46,66,23,29,21,24,10,268,24,8,9,20,58,10,8,19,15,9,7
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1S Pass 1NT =2= Pass 
+Pass Pass 
+[Note "1:  * maybe down to 2 [0:59]"]
+[Note "2:  * 12-16 [0:17]"]
+[Play "E"]
+D2 D3 DJ DQ 
+S4 S2 S5 SA 
+S8 SK S7 S9 
+ST SQ SJ H4 
+HT S6 H9 C5 
+C4 S3 H2 D5 
+C8 C3 CK CT 
+D8 D4 D9 D7 
+HK H6 H7 H5 
+CQ C7 C2 CJ 
+DA D6 H3 DK 
+DT HQ C6 H8 
+HJ C9 CA HA 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "15"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A9.A854.KQ75.JT5 T84.KJT.AT82.Q84 KQ632.Q6.643.973 J75.9732.J9.AK62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "77666776666676766767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  6
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  6
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 8,2,0,36,47,102,85,71,265,74,63,93,60,589,209,51,28,163,63,20,37,698,60,25,35,107,40,26,37,83,27,18,29,244,31,125,157,61,38,27,17,15,39,39,18,95,89,19,28,296,45,26,52,27,45,33,21,40,21,20,9,18,15,12,9
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2H =2= Pass 2S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: ♠"]
+[Play "E"]
+S4 S2 SJ SA 
+HK H6 H7 H4 
+D2 D3 DJ DK 
+HT HQ H3 H5 
+S8 SK S7 S9 
+ST SQ S5 D5 
+C4 C3 CA C5 
+D8 D4 D9 D7 
+HJ D6 H9 HA 
+DA S3 C6 DQ 
+C8 C7 CK CT 
+CQ C9 C2 CJ 
+DT S6 H2 H8 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "16"]
+[West "Espen Erichsen#117763"]
+[North "Sue Morgan#52959"]
+[East "Helen Erichsen#400071"]
+[South "Terry Goldsmith#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T97.Q964.T52.QT8 8652.A7.QJ3.K975 KQJ3.T82.8764.A6 A4.KJ53.AK9.J432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "55553555538888a8888a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  8
+E  S  8
+E  H  8
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,1,3,188,41,384,98,107,101,42,47,28,61,17,41,498,277,41,26,306,37,177,72,366,64,60,20,79,37,25,30,93,24,30,76,335,30,78,20,36,30,40,69,33,20,12,15,51,35,8,13,17,19,9,13,20,20,16,12,22,12,11,12,14,10,12,14
+[Auction "W"]
+1NT =1= Pass 3C =2= Pass 
+3D =3= Pass 3H =4= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2:  * 5 card stayman [0:16]"]
+[Note "3: no 5Maj"]
+[Note "4:  * 4 spades [0:09]"]
+[Play "N"]
+H4 H7 HT HJ 
+C8 C9 CA C3 
+H6 HA H8 H3 
+CQ C5 C6 CJ 
+ST S2 S3 S4 
+S9 S5 SQ SA 
+CT CK H2 C4 
+D5 C7 D4 C2 
+D2 DQ D8 D9 
+DT D3 D6 DK 
+S7 DJ D7 DA 
+H9 S6 SJ HK 
+HQ S8 SK H5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "16"]
+[West "keith george#400799"]
+[North "Jill Skinner#29231"]
+[East "Robin George#401944"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T97.Q964.T52.QT8 8652.A7.QJ3.K975 KQJ3.T82.8764.A6 A4.KJ53.AK9.J432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "55553555538888a8888a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  5
+N  D  5
+N  C  3
+S NT  5
+S  S  5
+S  H  5
+S  D  5
+S  C  3
+E NT  8
+E  S  8
+E  H  8
+E  D  8
+E  C 10
+W NT  8
+W  S  8
+W  H  8
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,0,353,24,197,39,64,31,91,87,29,60,171,379,13,46,478,23,81,19,111,41,70,18,481,22,5,36,159,8,155,30,128,137,7,58,57,26,15,14,40,49,5,51,53
+[Auction "W"]
+1C =1= Pass 1H =2= Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: c or bal forcing"]
+[Note "2: 4+S, 0-10"]
+[Play "N"]
+H4 H7 HT HJ 
+C8 CK CA C2 
+S9 S2 S3 S4 
+H6 HA H8 H5 
+CQ C7 C6 CJ 
+HQ C5 H2 HK 
+CT C9 SK C4 
+H9 S5 D4 H3 
+S7 -  -  -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "17"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T73.AK73.AQ4.976 J65.JT.JT3.KJT54 AK942.642.75.Q82 Q8.Q985.K9862.A3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88767888675557655576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  7
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,178,49,227,57,170,16,69,51,295,258,26,43,26,46,16,17,200,27,28,22,236,97,19,108,100,59,21,37,155,77,16,9,56,25,27,91,124,41,42,26,97,288,43,21,18,35,32,16,20,20,7,13
+[Auction "N"]
+1NT =1= Pass 2H =2= Pass 
+2S Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: transf"]
+[Play "E"]
+DJ D5 D2 DQ 
+S5 SA S8 S3 
+S6 SK SQ S7 
+SJ S2 D6 ST 
+DT D7 D8 DA 
+HJ H2 H5 HA 
+HT H4 HQ H3 
+C4 H6 H9 HK 
+CJ CQ CA C6 
+CT C2 C3 C7 
+CK C8 D9 C9 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "17"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T73.AK73.AQ4.976 J65.JT.JT3.KJT54 AK942.642.75.Q82 Q8.Q985.K9862.A3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88767888675557655576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  6
+N  C  7
+S NT  8
+S  S  8
+S  H  8
+S  D  6
+S  C  7
+E NT  5
+E  S  5
+E  H  5
+E  D  7
+E  C  6
+W NT  5
+W  S  5
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 10,2,1,135,41,68,50,305,27,20,185,86,175,32,41,46,19,224,20,11,65,63,56,12,524,67,60,42,130,26,22,10,112,13,15,22,28,19,11,39,245,15,21,24,31,34,30,17,233,32,6,12,68,18,29,24,23,21,15,277,12,20,7,8,29,6,7,15
+[Auction "N"]
+1NT =1= Pass 2H =2= Pass 
+2S Pass Pass X 
+Pass 3C Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: ♠"]
+[Play "S"]
+SK S8 S3 S5 
+D7 D2 DQ D3 
+CQ CA C6 CT 
+C2 C3 C7 CJ 
+C8 H5 C9 CK 
+D5 D6 D4 DJ 
+SA SQ S7 S6 
+H6 H8 HK HT 
+S2 D8 ST SJ 
+S4 D9 H3 C5 
+H4 H9 HA HJ 
+H2 DK DA DT 
+S9 HQ H7 C4 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "18"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:942.A876.86.AQ74 KQJ6.Q94.JT72.63 AT873.53.9.JT952 5.KJT2.AKQ543.K8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "78549785496489464894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  4
+S  C  9
+E NT  6
+E  S  4
+E  H  8
+E  D  9
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,129,17,72,49,92,25,181,60,94,25,496,29,35,17,242,98,5,27,679,45,24,9,23,26,59,21,31,51,27,37,38,40,15,24,79,26,6,24,40
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 2H Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+C4 C3 C9 CK 
+S2 SK SA S5 
+C7 C6 CJ C8 
+CQ D2 C2 H2 
+CA S6 C5 HT 
+HA H4 H5 HK 
+H6 -  -  -  
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "18"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:942.A876.86.AQ74 KQJ6.Q94.JT72.63 AT873.53.9.JT952 5.KJT2.AKQ543.K8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "78549785496489464894"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  4
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  4
+S  C  9
+E NT  6
+E  S  4
+E  H  8
+E  D  9
+E  C  4
+W NT  6
+W  S  4
+W  H  8
+W  D  9
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 21,0,3,118,81,57,68,69,239,41,39,641,79,340,428,70,72,177,62,66,147,45,55,152,46,95,59,19,527,387,169,76,26,65,36,21,43,62,30,39,9,29,17,14,12,74,26,48,9,49,19,24,36,24,31
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 2H Pass 
+3C =1= Pass 3NT Pass 
+4D =2= Pass 4H =3= Pass 
+4S Pass 4NT Pass 
+5C =4= Pass 5D Pass 
+Pass Pass 
+[Note "1: 4SF"]
+[Note "2:  * slam try [0:15]"]
+[Note "3: cu"]
+[Note "4: 0 or 3"]
+[Play "N"]
+D6 D2 D9 DA 
+S2 SK SA S5 
+CA C3 CT CK 
+CQ C6 C2 C8 
+HA H4 H3 HT 
+H6 H9 H5 HJ 
+D8 -  -  DK 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "19"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ3.JT7.QJ432.J6 765.94.T986.QT98 KQ2.A8653.7.5432 T984.KQ2.AK5.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "55665557658756887568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  5
+E  D  6
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 3,2,1,40,155,39,49,85,163,103,6,56,149,13,57,48,54,22,5,22,18,25,23,24,78,123,15,5,13,24,63,27,6,30,21,21,18,24,13,4
+[Auction "S"]
+Pass 1S Pass Pass 
+Pass 
+[Play "N"]
+D3 DT D7 D5 
+SJ S5 S2 S4 
+D4 D6 SQ DK 
+H7 H4 H5 HK 
+S3 S6 SK ST 
+HJ H9 HA H2 
+C6 C8 C4 CA 
+SA S7 C2 S9 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "19"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ3.JT7.QJ432.J6 765.94.T986.QT98 KQ2.A8653.7.5432 T984.KQ2.AK5.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "55665557658756887568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  6
+N  D  6
+N  C  5
+S NT  5
+S  S  5
+S  H  7
+S  D  6
+S  C  5
+E NT  8
+E  S  7
+E  H  5
+E  D  6
+E  C  8
+W NT  8
+W  S  7
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 0,0,3,98,105,156,79,132,184,131,15,61,296,46,10,56,406,40,33,19,86,33,14,34,16,126,25,30,14,55,14,20,52,19,32,10,14,10,23,10,17,21,15,10,27,19,43,23
+[Auction "S"]
+Pass 1C =1= Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "N"]
+DQ D6 D7 DA 
+H7 H4 HA HK 
+HT H9 H5 HQ 
+HJ C8 H3 H2 
+D2 D8 S2 DK 
+D3 D9 C3 D5 
+S3 S5 SQ S4 
+SA S6 SK S8 
+SJ S7 H6 S9 
+DJ DT H8 C7 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "20"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A65.Q943.AJ76.T4 93.K82.9543.AJ96 JT82.J75.T.87532 KQ74.AT6.KQ82.KQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "455354553588798987a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  3
+N  C  5
+S NT  4
+S  S  5
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,314,30,121,26,73,34,33,16,49,421,26,14,147,23,17,7,169,81,23,5,53,164,17,74,19,26,12,7,601,53,31,8,28,13,68,41,27,8,40,232,25,22,22,27,45,27,6,10,22,55,7,73,39,17,6,8,17,11,7,9
+[Auction "W"]
+1S Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+C7 CK C4 C6 
+C2 CQ CT C9 
+DT DK DA D3 
+HJ HA H3 H2 
+C3 DQ D6 D4 
+H7 H6 H9 HK 
+C5 S4 S5 CA 
+C8 D2 S6 CJ 
+S8 SQ SA S3 
+H5 HT HQ H8 
+S2 D8 H4 S9 
+ST S7 DJ D5 
+SJ SK D7 D9 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "20"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:A65.Q943.AJ76.T4 93.K82.9543.AJ96 JT82.J75.T.87532 KQ74.AT6.KQ82.KQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "455354553588798987a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  3
+N  C  5
+S NT  4
+S  S  5
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  8
+E  H  7
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,141,64,298,111,35,42,22,59,50,156,74,41,198,68,40,20,115,19,32,34,33,18,22,193,940,53,18,164,759,46,106,11,84,20,25,14,56,33,23,35,46,22,22,57,42,46,29,46
+[Auction "W"]
+1D Pass 3C =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: 4D 6-9 hcp"]
+[Play "N"]
+H3 H2 HJ HA 
+CT C6 C2 CK 
+C4 CA C5 CQ 
+D6 D3 DT DK 
+DA D4 H5 DQ 
+DJ D5 C3 D2 
+D7 D9 C7 D8 
+SA S3 S2 SK 
+S6 S9 ST SQ 
+HQ HK H7 HT 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "21"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.KT9753.KQJ.K4 J5.AQ862.942.QT8 T986.J4.AT3.9653 Q7432..8765.AJ72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "87a7687a765636656367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  7
+N  C  6
+S NT  8
+S  S  7
+S  H 10
+S  D  7
+S  C  6
+E NT  5
+E  S  6
+E  H  3
+E  D  6
+E  C  6
+W NT  5
+W  S  6
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,2,1,148,49,33,41,220,42,113,46,32,22,279,133,43,36,108,39,39,38,25,125,96,46,16,57,23,45,70,135,25,20,60,47,19,31,505,39,58,131,207,31,203,189,35,24,16,14,18,13,175,24,49,47,37,42,57,20,16,15,12,15,14,13
+[Auction "N"]
+1H Pass 1S Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+C8 C3 C2 CK 
+D2 DA D6 DJ 
+HQ HJ S2 H3 
+SJ S6 S3 SA 
+HA H4 D5 HK 
+S5 S8 S4 SK 
+H2 D3 D7 HT 
+H6 C5 S7 H9 
+D4 DT D8 DK 
+D9 S9 C7 DQ 
+H8 ST CJ H7 
+CT C6 CA C4 
+CQ C9 SQ H5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "21"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.KT9753.KQJ.K4 J5.AQ862.942.QT8 T986.J4.AT3.9653 Q7432..8765.AJ72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "87a7687a765636656367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H 10
+N  D  7
+N  C  6
+S NT  8
+S  S  7
+S  H 10
+S  D  7
+S  C  6
+E NT  5
+E  S  6
+E  H  3
+E  D  6
+E  C  6
+W NT  5
+W  S  6
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 7,0,3,251,58,2211,53,164,39,404,1178,530,270,775,112,32,34,28,41,16,28,30,154,52,77,18,27,9,28,40,72,15,55,137,32,9,15,24,53,228,24,347,34,72,35,19,21,31,57,31,24,13,9,12,20,14,8,14,23,13,8,17,17,16,7
+[Auction "N"]
+1H =1= Pass 1S =2= Pass 
+2C =3= Pass 2H =4= Pass 
+Pass Pass 
+[Note "1: F1R"]
+[Note "2: ♣"]
+[Note "3: asking"]
+[Note "4: weak up to 5 pts * 2 hearts [0:20] * else 6+ i go 2D [3:06]"]
+[Play "E"]
+SJ S6 S2 SA 
+D2 DA D7 DJ 
+HQ HJ S3 H3 
+S5 S8 S4 SK 
+HA H4 C2 HK 
+C8 C3 CA C4 
+H8 S9 SQ H7 
+H6 C5 S7 HT 
+H2 D3 D6 H9 
+D4 DT D5 DK 
+D9 C6 D8 DQ 
+CT C9 C7 CK 
+CQ ST CJ H5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "22"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ9.A84.KQT62.Q6 753.K62.AJ8.AJ85 JT84.QJT9.953.K2 A62.753.74.T9743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68885688857555775557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  5
+E  H  5
+E  D  5
+E  C  7
+W NT  7
+W  S  5
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,258,38,131,173,43,107,47,197,32,29,30,45,80,163,21,33,35,7,69,113,11,59,8,204,20,27,70,18,32,9,19,28,13,8,79,121,20,18,8,27,15,8,13,8,32,7,25,7,20,17,45,12,17,16,7,20,19,50,12,10,8,7,14
+[Auction "E"]
+1C =1= Pass Pass 1D 
+Pass 1H Pass 2H 
+Pass Pass Pass 
+[Note "1: may be down to 2"]
+[Play "W"]
+CT C6 C8 CK 
+H5 H4 HK HQ 
+C7 CQ CA C2 
+H3 H8 H6 H9 
+S2 SK S3 S8 
+SA SQ S5 S4 
+H7 HA H2 HT 
+S6 S9 S7 SJ 
+C3 D2 C5 ST 
+D7 DK DA D3 
+C4 D6 CJ HJ 
+D4 DQ D8 D9 
+C9 DT DJ D5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "22"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ9.A84.KQT62.Q6 753.K62.AJ8.AJ85 JT84.QJT9.953.K2 A62.753.74.T9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68885688857555775557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  8
+N  D  8
+N  C  5
+S NT  6
+S  S  8
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  5
+E  H  5
+E  D  5
+E  C  7
+W NT  7
+W  S  5
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,194,98,166,58,66,214,42,97,68,147,147,27,17,224,341,41,15,42,119,28,23,31,76,20,10,23,12,121,79,31,27,36,13,140,54,13,15
+[Auction "E"]
+1C =1= Pass Pass 1D 
+Pass 2D Pass Pass 
+Pass 
+[Note "1: can be 2"]
+[Play "E"]
+S3 S4 SA SK 
+H2 H9 H5 HA 
+D8 D3 D4 DQ 
+S5 SJ S6 S9 
+DJ D9 D7 D6 
+DA D5 H7 D2 
+C5 C2 C9 CQ 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "23"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A4.J83.7652.KT74 T72.KQT964.9.J52 KQJ9653.2.Q84.A6 8.A75.AKJT3.Q983"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "29224292244498944989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  9
+N  H  2
+N  D  2
+N  C  4
+S NT  2
+S  S  9
+S  H  2
+S  D  2
+S  C  4
+E NT  4
+E  S  4
+E  H  9
+E  D  8
+E  C  9
+W NT  4
+W  S  4
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,47,118,77,149,58,93,154,29,19,16,79,116,29,317,58,26,25,5,33,74,38,400,30,14,27,22,111,20,13,46,22,11,7,35,19,27,5
+[Auction "S"]
+1S 2D Pass 2H 
+2S 4H Pass Pass 
+Pass 
+[Play "S"]
+SK S8 S4 S2 
+CA C3 C7 C5 
+C6 C8 CK CJ 
+H2 C9 C4 C2 
+S3 H5 SA S7 
+S5 HA H3 H4 
+S6 H7 H8 H9 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "23"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A4.J83.7652.KT74 T72.KQT964.9.J52 KQJ9653.2.Q84.A6 8.A75.AKJT3.Q983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "29224292244498944989"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  9
+N  H  2
+N  D  2
+N  C  4
+S NT  2
+S  S  9
+S  H  2
+S  D  2
+S  C  4
+E NT  4
+E  S  4
+E  H  9
+E  D  8
+E  C  9
+W NT  4
+W  S  4
+W  H  9
+W  D  8
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,283,72,175,129,58,43,30,40,31,84,168,43,39,18,97,20,132,49,235,58,92,30,19,15,83,51,25,26
+[Auction "S"]
+1S =1= 2D 2S Pass 
+4S Pass Pass Pass 
+[Note "1: forcing"]
+[Play "W"]
+DK D2 D9 DQ 
+DA D5 H4 D4 
+DJ D6 ST D8 
+H5 H3 HK H2 
+H7 H8 H6 S9 
+*
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "24"]
+[West "Terry Goldsmith#"]
+[North "Jill Skinner#29231"]
+[East "Sue Morgan#52959"]
+[South "Jeremy Willans#43358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J7.KQ764.T5.A965 AQ8.AJ.K84.KJ832 T965432.8.632.Q4 K.T9532.AQJ97.T7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "2531325313b79bab79ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  3
+S  D  1
+S  C  3
+E NT 11
+E  S  7
+E  H  9
+E  D 11
+E  C 10
+W NT 11
+W  S  7
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 26,2,1,338,31,151,69,45,88,509,81,45,68,163,79,150,80,235,43,35,29,258,219,18,61,94,31,15,4,109,35,23,6,183,32,48,7,53,20,24,26,227,16,20,117,28,10,14,113,29,8,16,391,66,15,105,23,39,38,16,5,45,16,5,13,17,15,15,5,11,14,15,7
+[Auction "W"]
+1H Pass 2C Pass 
+2D Pass 2S Pass 
+3D Pass 4NT Pass 
+5D =1= Pass 6D Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "N"]
+D5 D4 D2 D9 
+DT D8 D3 DQ 
+S7 S8 S2 SK 
+HQ HA H8 H2 
+SJ SA S3 C7 
+C6 DK D6 D7 
+C5 SQ S4 CT 
+H4 HJ S5 H3 
+C9 CK C4 DJ 
+HK C2 S6 HT 
+CA C3 CQ DA 
+H6 C8 S9 H9 
+H7 CJ ST H5 
+
+[Event "11 Jan Arnold Cup George vs Skinner"]
+[Site "RealBridge"]
+[Date "2024.01.11"]
+[Board "24"]
+[West "Espen Erichsen#117763"]
+[North "Robin George#401944"]
+[East "Helen Erichsen#400071"]
+[South "keith george#400799"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:J7.KQ764.T5.A965 AQ8.AJ.K84.KJ832 T965432.8.632.Q4 K.T9532.AQJ97.T7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Skinner team"]
+[VisitTeam "George team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "2531325313b79bab79ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  3
+N  D  1
+N  C  3
+S NT  2
+S  S  5
+S  H  3
+S  D  1
+S  C  3
+E NT 11
+E  S  7
+E  H  9
+E  D 11
+E  C 10
+W NT 11
+W  S  7
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,111,135,160,143,101,83,170,95,335,99,214,40,299,60,49,62,207,28,489,408,30,37,184,43,35,59,186,82,67,71,119,42,30,440,308,24,52,31,30,29,29,93,34,36,14,31
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1D =2= Pass 2NT =3= Pass 
+3C =4= Pass 3D =5= Pass 
+3S =6= Pass 3NT Pass 
+Pass Pass 
+[Note "1: can be 2"]
+[Note "2: hearts"]
+[Note "3: denies 3H"]
+[Note "4: ask partner to bid 3d"]
+[Note "5: forced"]
+[Note "6: cue for D normally shortage"]
+[Play "S"]
+S9 SK S7 S8 
+CQ CT C5 C2 
+H8 H2 HQ HA 
+S3 H3 H4 HJ 
+D2 DA D5 D4 
+D3 HT HK C3 
+C4 C7 CA C8 
+*

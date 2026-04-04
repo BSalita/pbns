@@ -1,0 +1,4083 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "1"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:54.A54.AQ8542.A5 KQ.KJT76.3.QJT43 98762.32.J9.K986 AJT3.Q98.KT76.72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57485574855694856948"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  8
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  8
+S  C  5
+E NT  5
+E  S  6
+E  H  9
+E  D  4
+E  C  8
+W NT  5
+W  S  6
+W  H  9
+W  D  4
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,170,406,287,81,31,260,224,51,20,303,75,27,34,714,50,18,20,46,20,19,32,16,22,41,15,8,99,14,16,54,23,15,13,26,34,16,9,82,17,12,12,10,14,10,10,12,11,10,13,13,15,10,10,10,10,9,9
+[Auction "N"]
+1NT =1= 2H Pass Pass 
+Pass 
+[Note "1: 15-17"]
+[Play "S"]
+DJ DK DA D3 
+CK C2 C5 CJ 
+S6 S3 S4 SK 
+H2 H8 HA H6 
+C8 C7 CA C3 
+D9 D6 DQ H7 
+H3 H9 H4 HJ 
+S2 HQ H5 HK 
+S7 SA S5 SQ 
+S8 SJ D2 C4 
+S9 ST D4 CT 
+C6 D7 D5 HT 
+C9 DT D8 CQ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "1"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:54.A54.AQ8542.A5 KQ.KJT76.3.QJT43 98762.32.J9.K986 AJT3.Q98.KT76.72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57485574855694856948"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  8
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D  8
+S  C  5
+E NT  5
+E  S  6
+E  H  9
+E  D  4
+E  C  8
+W NT  5
+W  S  6
+W  H  9
+W  D  4
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 12,2,1,722,287,253,156,119,92,41,39,57,43,138,38,15,97,37,35,54,55,38,9,263,352,113,54,12,146,23,11,15,502,75,13,17,15,19,25,13,70,13,60,30,19,19,21,21,10,11,9,15,11,19,10,8
+[Auction "N"]
+1D =1= 1H Pass 2H 
+3D 3H Pass Pass 
+Pass 
+[Note "1: natural or 15-17nt (could be 5 in any suit)"]
+[Play "S"]
+DJ D6 D2 D3 
+D9 DT DQ H6 
+H2 H8 HA HJ 
+S2 D7 D4 HT 
+H3 H9 H4 HK 
+CK C2 C5 CQ 
+C6 C7 CA CT 
+C8 DK DA H7 
+S6 S3 S4 SK 
+S7 SA S5 SQ 
+C9 HQ H5 C3 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "2"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:92.A954.J5.KJ942 AK7.K72.A96432.3 Q43.QJT6.K7.AQ86 JT865.83.QT8.T75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "74949749494849448494"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  4
+N  C  9
+S NT  7
+S  S  4
+S  H  9
+S  D  4
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,98,70,73,188,75,493,58,46,31,133,87,29,17,129,26,11,25,37,23,11,13,75,25,11,19,30,14,18,43,37,62,7,22
+[Auction "E"]
+1D X Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+SA S3 S8 S2 
+DA D7 D8 D5 
+SK S4 S5 S9 
+D4 DK DT DJ 
+HK HQ H3 H4 
+D6 C6 DQ H5 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "2"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:92.A954.J5.KJ942 AK7.K72.A96432.3 Q43.QJT6.K7.AQ86 JT865.83.QT8.T75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "74949749494849448494"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  4
+N  C  9
+S NT  7
+S  S  4
+S  H  9
+S  D  4
+S  C  9
+E NT  4
+E  S  8
+E  H  4
+E  D  9
+E  C  4
+W NT  4
+W  S  8
+W  H  4
+W  D  9
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,76,165,84,232,67,63,50,64,42,40,154,42,23,31,23,15,39,149,30,12,17,12,46,14,20,96,26,15,10,56,43,24,16,41,126,17,38,37,42,22,15,14,33,16,11,18,39,14,23,16
+[Auction "E"]
+1D X Pass 1H 
+2D 2H Pass Pass 
+Pass 
+[Play "E"]
+C3 CA C7 C2 
+HK HQ H3 H4 
+DA D7 DT D5 
+D2 DK D8 DJ 
+H2 HJ H8 H5 
+H7 H6 S6 HA 
+D4 CQ C5 C4 
+D3 C6 CT CK 
+D6 C8 S5 CJ 
+S7 S3 S8 C9 
+-  -  -  S2 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "3"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A653.T7.AQ52.QJ3 J87.KQJ6.T74.AK2 KT42.A84.KJ3.T75 Q9.9532.986.9864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "89797897975464554645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,94,47,47,171,93,173,58,51,287,64,93,41,39,350,48,16,80,28,18,15,26,19,44,17,44,17,63,15,262,29,48,21,41,22,17,48,40,19,8,56,43,53,19,9,15
+[Auction "S"]
+Pass Pass 1D 1H 
+1S 2H 2S Pass 
+3S Pass Pass Pass 
+[Play "W"]
+H5 H7 HJ HA 
+S9 SA S8 S2 
+SQ S3 S7 ST 
+H2 HT HQ H4 
+H3 S5 SJ SK 
+C4 CQ CA C5 
+H9 S6 HK H8 
+C6 C3 CK C7 
+-  -  H6 -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "3"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A653.T7.AQ52.QJ3 J87.KQJ6.T74.AK2 KT42.A84.KJ3.T75 Q9.9532.986.9864"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "89797897975464554645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  4
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  4
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,97,42,403,540,658,71,550,47,86,152,676,50,42,212,34,17,205,38,16,13,16,13,20,25,78,26,17,10,27,21,21,13,51,23,18,12,36,94,18,32,86,35,18,22,204,22,33,12,21,33,28,18,24,25,8,22,16,20,15,15
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+2C =2= Pass 2S =3= Pass 
+3S Pass Pass Pass 
+[Note "1: nat or 2+ (12-14 or 18-19 nt) could contain 5d"]
+[Note "2: staymanic 11+ pts"]
+[Note "3: 12-14 with 4 spades"]
+[Play "E"]
+HK HA H2 H7 
+S8 S2 S9 SA 
+S7 SK SQ S3 
+D7 DK D8 D2 
+D4 DJ D6 D5 
+DT D3 D9 DA 
+H6 H4 H3 DQ 
+C2 CT C4 C3 
+CK C5 C6 CJ 
+SJ S4 H5 S5 
+HQ H8 H9 HT 
+CA C7 C8 CQ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "4"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQ8764.K4.K9.Q85 J3.J62.AJ864.AK9 K.A9853.7.JT7632 T952.QT7.QT532.4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5884a5884a6548265482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  4
+N  C 10
+S NT  5
+S  S  8
+S  H  8
+S  D  4
+S  C 10
+E NT  6
+E  S  5
+E  H  4
+E  D  8
+E  C  2
+W NT  6
+W  S  5
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,0,3,68,48,102,166,41,61,73,313,53,428,110,58,28,46,30,226,45,35,30,43,17,9,96,25,54,16,99,19,24,8,32,18,198,18,84,37,37,11,62,12,10,31,8,20,14,21,12,30,15,13
+[Auction "W"]
+Pass 1S X Pass 
+2D Pass Pass 2H 
+Pass 2S 3D Pass 
+Pass Pass 
+[Play "N"]
+HK H2 H9 H7 
+H4 H6 HA HT 
+S8 S3 SK S2 
+D9 HJ H8 HQ 
+SA SJ C2 S5 
+S7 D8 C3 S9 
+C8 CA C6 C4 
+C5 C9 CJ D2 
+DK DA D7 D3 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "4"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQ8764.K4.K9.Q85 J3.J62.AJ864.AK9 K.A9853.7.JT7632 T952.QT7.QT532.4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5884a5884a6548265482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  4
+N  C 10
+S NT  5
+S  S  8
+S  H  8
+S  D  4
+S  C 10
+E NT  6
+E  S  5
+E  H  4
+E  D  8
+E  C  2
+W NT  6
+W  S  5
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 8,2,1,99,213,136,139,65,97,38,39,32,22,129,20,34,68,66,22,86,511,31,15,16,36,25,34,21,52,14,63,24,109,31,21,56,134,48,29,19,367,25,25,21,567,25,23,69,141,17,17,37,19,24,12,24,12,17,25,18,23,12,16,8
+[Auction "W"]
+Pass 1S Pass 1NT =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 6-11 non forcing"]
+[Play "E"]
+CK C2 C4 C8 
+S3 SK S2 S4 
+H6 H3 H7 HK 
+SJ H5 S5 SA 
+D6 H8 S9 SQ 
+CA C3 D5 CQ 
+H2 HA HT H4 
+DA D7 D2 DK 
+HJ H9 HQ S6 
+C9 CJ ST C5 
+D4 C6 DQ D9 
+D8 C7 D3 S7 
+DJ CT DT S8 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "5"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K74.AK2.JT97.AJ6 A962.76.Q3.K8754 JT5.985.A52.QT32 Q83.QJT43.K864.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "96797967874664546645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  7
+N  D  9
+N  C  7
+S NT  9
+S  S  6
+S  H  7
+S  D  8
+S  C  7
+E NT  4
+E  S  6
+E  H  6
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,0,3,148,83,69,97,71,338,18,19,12,64,22,53,24,30,22,13,65,18,21,8,249,24,21,67,126,545,19,12,23,35,48,18,33,32,22,6,349,57,14,6,27,59,9,79,118,22,42,24,11,18,5,16,10,11,9,5
+[Auction "N"]
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+C5 C2 C9 CJ 
+D3 D2 DK DJ 
+H6 H5 HQ HA 
+DQ DA D4 DT 
+SA SJ SQ SK 
+S2 ST S3 S4 
+C4 CQ H3 CA 
+C7 D5 D6 D9 
+S9 S5 S8 S7 
+S6 H8 H4 C6 
+CK C3 D8 H2 
+H7 H9 HT HK 
+C8 CT HJ D7 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "5"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K74.AK2.JT97.AJ6 A962.76.Q3.K8754 JT5.985.A52.QT32 Q83.QJT43.K864.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "96797967874664546645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  7
+N  D  9
+N  C  7
+S NT  9
+S  S  6
+S  H  7
+S  D  8
+S  C  7
+E NT  4
+E  S  6
+E  H  6
+E  D  4
+E  C  5
+W NT  4
+W  S  6
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,2,1,369,64,371,65,143,66,38,45,155,204,32,36,39,30,38,45,270,115,189,28,42,29,21,25,76,21,34,158,176,48,18,16,490,20,15,65,32,37,14,33,275,165,16,9,150,26,48,17,33,11,22,10,17,24,17,11,18,11,16,12
+[Auction "N"]
+1D =1= Pass 1H =2= Pass 
+1NT =3= Pass Pass Pass 
+[Note "1: nat or 15-17nt(which could have 5 in any suit)"]
+[Note "2: relay 3+H's"]
+[Note "3: 15-17"]
+[Play "E"]
+C8 C2 C9 CJ 
+DQ DA D4 DJ 
+CK CQ S8 C6 
+H6 H5 HT HK 
+D3 D2 D6 DT 
+C7 C3 S3 CA 
+H7 H8 HJ H2 
+C4 H9 H3 HA 
+SA S5 SQ SK 
+S2 ST H4 S4 
+S6 SJ D8 S7 
+C5 CT HQ D7 
+S9 D5 DK D9 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "6"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T95.JT8763.4.KJ7 AQ82.Q.Q85.AT865 76.AK9.KJ963.943 KJ43.542.AT72.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "73843738436a49a6a479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  8
+N  D  4
+N  C  3
+S NT  7
+S  S  3
+S  H  8
+S  D  4
+S  C  3
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C 10
+W NT  6
+W  S 10
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,133,49,88,63,70,39,199,47,19,25,35,479,68,144,1075,40,13,7,95,11,18,12,481,57,15,35,67,29,18,55,46,13,251,18,1100,34,18,36,570,335,18,28,62,14,27,46,18,40,11,59,30,19,15,14,17,86,54,22,13,10,8,16
+[Auction "E"]
+1C =1= 1D 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+D4 D5 DJ DA 
+S9 S2 S6 SK 
+S5 SA S7 S3 
+ST SQ D3 S4 
+CK C5 C3 CQ 
+H7 HQ HK H2 
+H6 S8 HA H4 
+H3 DQ DK D2 
+HT C6 H9 H5 
+HJ C8 C4 SJ 
+C7 CA C9 C2 
+H8 D8 D6 D7 
+CJ CT D9 DT 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "6"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T95.JT8763.4.KJ7 AQ82.Q.Q85.AT865 76.AK9.KJ963.943 KJ43.542.AT72.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "73843738436a49a6a479"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  8
+N  D  4
+N  C  3
+S NT  7
+S  S  3
+S  H  8
+S  D  4
+S  C  3
+E NT  6
+E  S 10
+E  H  4
+E  D  9
+E  C 10
+W NT  6
+W  S 10
+W  H  4
+W  D  7
+W  C  9
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 8,2,1,144,63,89,150,37,38,236,40,32,558,27,92,170,46,18,9,41,14,18,10,28,10,16,19,83,23,22,45,43,36,18,38,32,47,23,77,199,54,22,8,57,30,39,8,52,11,18,38
+[Auction "E"]
+1C 1D 1S Pass 
+2S Pass Pass Pass 
+[Play "N"]
+D4 D5 DJ DA 
+S5 S2 S7 SK 
+S9 SA S6 S3 
+ST SQ D6 S4 
+H3 DQ DK D2 
+H6 HQ HK H2 
+H7 D8 D9 DT 
+H8 C5 D3 D7 
+CJ CA C4 C2 
+CK C6 C3 CQ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "7"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:.QJ97.AK83.T8764 AKQT765.A43.J5.Q 942.KT82.QT94.J3 J83.65.762.AK952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "22997229979b4469b446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  9
+N  D  9
+N  C  7
+S NT  2
+S  S  2
+S  H  9
+S  D  9
+S  C  7
+E NT  9
+E  S 11
+E  H  4
+E  D  4
+E  C  6
+W NT  9
+W  S 11
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,83,36,82,178,47,125,36,195,110,36,78,87,31,14,15,115,23,20,12,125,26,11,23,81,15,10,62,333,19,35,17,50,28,14,59
+[Auction "S"]
+Pass Pass Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+CJ C2 C8 CQ 
+S4 S3 D3 SA 
+S2 S8 H7 S5 
+C3 CA C4 D5 
+S9 CK C6 DJ 
+D4 D2 DK S6 
+H2 H5 H9 H3 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "7"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:.QJ97.AK83.T8764 AKQT765.A43.J5.Q 942.KT82.QT94.J3 J83.65.762.AK952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "22997229979b4469b446"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  9
+N  D  9
+N  C  7
+S NT  2
+S  S  2
+S  H  9
+S  D  9
+S  C  7
+E NT  9
+E  S 11
+E  H  4
+E  D  4
+E  C  6
+W NT  9
+W  S 11
+W  H  4
+W  D  4
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,63,92,179,44,40,146,31,174,38,26,23,23,121,14,76,113,26,20,45,22,22,25,66,82,44,13,13,24,11,11,16,13,25,10,9,26,14,14,12
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+S2 S3 D3 ST 
+C3 C2 C6 CQ 
+S4 S8 D8 S5 
+CJ C5 C7 SA 
+S9 SJ H7 S6 
+H2 CA C4 D5 
+D4 CK C8 DJ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "8"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:5.K876.97632.K95 AJT87.Q5.A8.A742 K932.AJ9432.KJ.6 Q64.T.QT54.QJT83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "74a6354a635936a59369"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  6
+N  C  3
+S NT  5
+S  S  4
+S  H 10
+S  D  6
+S  C  3
+E NT  5
+E  S  9
+E  H  3
+E  D  6
+E  C 10
+W NT  5
+W  S  9
+W  H  3
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,84,67,53,75,92,96,36,201,49,48,25,81,29,41,17,135,23,27,11,14,15,27,16,85,33,23,15,264,43,13,29,28,27,18,10,16,17,9,74,38,31,18,38,12,40,10,15,15,41,9,15,16,70,8,10,11,45,10,9,9,21,8,6
+[Auction "W"]
+Pass Pass 1S 2H 
+2S 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S6 S5 SA S2 
+D4 D2 DA DJ 
+D5 D3 D8 DK 
+S4 H6 S7 S3 
+HT H7 H5 HA 
+SQ H8 S8 S9 
+CQ HK HQ H2 
+DT D6 C2 H3 
+C3 D7 C4 HJ 
+C8 C5 SJ H9 
+CT C9 ST SK 
+DQ D9 C7 H4 
+CJ CK CA C6 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "8"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:5.K876.97632.K95 AJT87.Q5.A8.A742 K932.AJ9432.KJ.6 Q64.T.QT54.QJT83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "74a6354a635936a59369"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  6
+N  C  3
+S NT  5
+S  S  4
+S  H 10
+S  D  6
+S  C  3
+E NT  5
+E  S  9
+E  H  3
+E  D  6
+E  C 10
+W NT  5
+W  S  9
+W  H  3
+W  D  6
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 22,0,3,87,40,47,63,416,222,132,144,130,78,60,61,38,32,83,102,78,12,338,26,39,16,159,40,12,18,679,36,39,16,64,30,23,16,428,21,20,13,34,25,34,12,40,30,10,9,46,23,11,10,15,13,8,8
+[Auction "W"]
+Pass Pass 1S 2H 
+2S 3H 3S 4H 
+4S 5H X Pass 
+Pass Pass 
+[Play "W"]
+S4 S5 SA S3 
+D4 D2 DA DJ 
+D5 D3 D8 DK 
+S6 H6 S7 S2 
+DT D6 C2 H2 
+HT HK H5 H3 
+DQ D7 C4 H4 
+C3 H7 HQ HA 
+SQ H8 S8 S9 
+C8 D9 C7 C6 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "9"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T9653.T984.K53.5 AJ.KJ62.QJT8.K82 Q8742.3.97.QT643 K.AQ75.A642.AJ97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1711217112c6ccbc6ccb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  1
+N  D  1
+N  C  2
+S NT  1
+S  S  7
+S  H  1
+S  D  1
+S  C  2
+E NT 12
+E  S  6
+E  H 12
+E  D 12
+E  C 11
+W NT 12
+W  S  6
+W  H 12
+W  D 12
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 27,0,3,74,115,48,366,39,35,27,717,65,21,55,168,249,35,64,47,33,39,10,50,16,18,42,174,86,17,61,20,17,20,52,24,24,18,27,20,20,22,29,92,19,12,21
+[Auction "N"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2H Pass 6H 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2:  * Stayman [0:06]"]
+[Play "S"]
+C4 C7 C5 C2 
+H3 HA H4 H2 
+S4 H5 H8 HK 
+C3 HQ H9 H6 
+S2 H7 HT HJ 
+D7 D2 DK DQ 
+S7 SK S5 SJ 
+D9 D4 D3 DJ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "9"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T9653.T984.K53.5 AJ.KJ62.QJT8.K82 Q8742.3.97.QT643 K.AQ75.A642.AJ97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1711217112c6ccbc6ccb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  1
+N  D  1
+N  C  2
+S NT  1
+S  S  7
+S  H  1
+S  D  1
+S  C  2
+E NT 12
+E  S  6
+E  H 12
+E  D 12
+E  C 11
+W NT 12
+W  S  6
+W  H 12
+W  D 12
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 27,2,1,70,158,52,157,93,437,45,531,56,147,34,345,35,295,73,46,32,90,109,52,166,80,26,105,42,24,44,15,28,11,12,502,40,14,9,58,14,22,144,17,27,31,30,26,31,11,18,48,24,14,14,21,15,11,17,23,78,19,14,29,14,11,14,13,10,17,15,16,10,19,9
+[Auction "N"]
+Pass 1H Pass 2NT =1= 
+Pass 3D =2= Pass 4NT 
+Pass 5H =3= Pass 5NT 
+Pass 6C =4= Pass 6H 
+Pass Pass Pass 
+[Note "1: game forcing raise"]
+[Note "2: 15+ pts no singleton"]
+[Note "3: 2 of 5 no Q trumps"]
+[Note "4: Either KC or Both spades and Diiam Ks"]
+[Play "S"]
+H3 H5 H8 HK 
+S7 SK S6 SJ 
+C4 HA H4 H2 
+S2 HQ H9 H6 
+S4 H7 HT HJ 
+D7 D4 DK DQ 
+S8 C7 ST SA 
+D9 DA D3 D8 
+C3 D2 D5 DJ 
+SQ D6 S3 DT 
+C6 C9 C5 CK 
+CT CJ S5 C2 
+CQ CA S9 C8 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "10"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:4.A862.JT754.532 92.QJ74.Q9.KQT64 AQ876.T9.AK86.97 KJT53.K53.32.AJ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76594765946773867738"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  9
+N  C  4
+S NT  7
+S  S  6
+S  H  5
+S  D  9
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  3
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  3
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,98,38,44,90,55,554,108,285,64,79,286,417,322,24,30,119,21,63,40,70,41,17,7,131,33,18,11,13,54,16,10,525,35,28,42,33,36,19,24,18,17,27,7,41,16,30,29,242,42,23,30,36,15,16,10
+[Auction "E"]
+Pass 1S Pass 1NT =1= 
+Pass 2C =2= Pass 2D =3= 
+Pass Pass Pass 
+[Note "1:  * up to 10 [0:12]"]
+[Note "2: art either wk or 5S and 4C invit"]
+[Note "3: I would pass 2D if he had bid it"]
+[Play "E"]
+CK C7 C8 C3 
+H4 H9 HK HA 
+HJ HT H3 H2 
+S9 SA S3 S4 
+C4 C9 CA C2 
+C6 D6 CJ C5 
+S2 S6 ST D4 
+H7 D8 H5 H6 
+D9 S7 S5 D5 
+HQ DK SJ H8 
+DQ DA D2 D7 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "10"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:4.A862.JT754.532 92.QJ74.Q9.KQT64 AQ876.T9.AK86.97 KJT53.K53.32.AJ8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76594765946773867738"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  9
+N  C  4
+S NT  7
+S  S  6
+S  H  5
+S  D  9
+S  C  4
+E NT  6
+E  S  7
+E  H  7
+E  D  3
+E  C  8
+W NT  6
+W  S  7
+W  H  7
+W  D  3
+W  C  8
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,101,224,100,473,52,78,40,262,42,62,172,35,36,458,59,13,33,14,38,11,26,73,36,23,77,36,32,21,18,79,34,20,13,245,28,31,15,18,24,10,25,11,13,10,19,17,27,8,11,10
+[Auction "E"]
+Pass 2S =1= Pass 3C =2= 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: 5S's+ minor4+, 6/7 losers, typically 11-14pts"]
+[Note "2: pass or correct"]
+[Play "W"]
+D2 DT DQ DK 
+CJ C2 C6 C9 
+D3 D4 D9 DA 
+C8 C3 CT C7 
+CA C5 C4 D6 
+H5 H2 HJ HT 
+S5 S4 S2 SA 
+H3 HA H4 H9 
+HK H6 H7 D8 
+S3 D5 S9 S6 
+-  DJ -  -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "11"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8743.A9872.AT.93 Q652.J.92.KQ8542 AJT9.5.KJ84.AJT7 K.KQT643.Q7653.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "ab889ab8893255332543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 10
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  3
+E  S  2
+E  H  5
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 11,2,1,217,403,174,104,45,47,66,29,111,57,20,192,93,29,21,11,31,39,10,13,31,37,28,11,24,36,13,22,24,32,42,91,52,19,13,54,26,23,28,60,21,9,11,14,37
+[Auction "S"]
+1C =1= 2NT =2= Pass 3D 
+Pass Pass Pass 
+[Note "1: 2+ may have 5D's"]
+[Note "2: hearts and diamonds"]
+[Play "S"]
+H5 H3 HA HJ 
+D4 H4 H2 S2 
+CA C6 C9 C2 
+SA SK S3 S6 
+SJ H6 S4 SQ 
+D8 D3 DT D2 
+DJ HT H7 D9 
+DK D5 DA C4 
+C7 HQ H8 C5 
+-  DQ C3 -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "11"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:8743.A9872.AT.93 Q652.J.92.KQ8542 AJT9.5.KJ84.AJT7 K.KQT643.Q7653.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2HX"]
+[Result "5"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "ab889ab8893255332543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 10
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  3
+E  S  2
+E  H  5
+E  D  5
+E  C  3
+W NT  3
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 7,0,3,160,513,73,52,62,54,35,67,25,244,51,15,25,16,10,26,12,45,35,30,20,234,52,28,30,32,1307,27,210,18,36,12,64,16,10,8,74,206,39,17,53,23,15,8,16,12,11,11,13,12,11,23
+[Auction "S"]
+1D 2H =1= Pass Pass 
+X Pass Pass Pass 
+[Note "1: Weak"]
+[Play "N"]
+DA D2 D4 D7 
+HA HJ H5 H3 
+DT D9 DK D3 
+H2 C2 DJ DQ 
+S8 S2 SA SK 
+C3 C4 D8 D5 
+C9 C5 CA C6 
+H7 C8 CJ D6 
+S3 S5 S9 H4 
+H8 S6 C7 HK 
+H9 SQ CT HQ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "12"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ98.KT75.T984.A K42.Q86.A72.KT84 75.J43.3.QJ97532 AT63.A92.KQJ65.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3343633436a98a7aa8a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  6
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  6
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C  7
+W NT 10
+W  S 10
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,113,69,44,37,128,52,338,37,31,34,76,30,25,26,20,110,54,27,18,48,12,30,23,15,12,14,10,81,16,14,39,15,11,21,30,12,17,45,20,19,18,31,49,31,12,11,12,28,21,77,23,29,11,8,12,16,13,8
+[Auction "W"]
+1D Pass 2C Pass 
+2S Pass 3D =1= Pass 
+3H =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: forcing ( ihope)"]
+[Note "2:  * 4sf [0:08]"]
+[Play "S"]
+H3 H2 HK H6 
+H4 H9 H5 HQ 
+D3 D5 D4 DA 
+C5 DK D8 D2 
+C2 DQ D9 D7 
+S5 DJ DT S2 
+C3 D6 S8 C4 
+S7 S3 S9 SK 
+HJ SA SJ S4 
+C7 HA H7 H8 
+C9 C6 CA C8 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "12"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:QJ98.KT75.T984.A K42.Q86.A72.KT84 75.J43.3.QJ97532 AT63.A92.KQJ65.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3343633436a98a7aa8a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  3
+N  C  6
+S NT  3
+S  S  3
+S  H  4
+S  D  3
+S  C  6
+E NT 10
+E  S  9
+E  H  8
+E  D 10
+E  C  7
+W NT 10
+W  S 10
+W  H  8
+W  D 10
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,115,66,396,72,204,45,18,31,824,235,75,46,15,94,32,31,26,21,19,7,27,50,14,8,27,8,17,15,27,9,39,42,37,14,105,21,39,11,22,24,90,233,14,12,42,20,24,31,37,21,12,10,19,8,14,11,11,7,15,9
+[Auction "W"]
+1D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+CQ C6 CA C4 
+H4 H2 HT HQ 
+D3 D5 D4 DA 
+C2 DK D8 D2 
+C3 DQ D9 D7 
+C5 DJ DT H6 
+C7 D6 H5 C8 
+S5 S3 S8 S2 
+S7 S6 SQ SK 
+C9 H9 H7 CK 
+H3 HA HK H8 
+CJ SA S9 S4 
+HJ ST SJ CT 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "13"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J.864.AJT742.Q95 KQ43.KJ97.96.K76 A8765.AQ3.Q8.J83 T92.T52.K53.AT42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "988a7988a74553445534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D 10
+N  C  7
+S NT  9
+S  S  8
+S  H  8
+S  D 10
+S  C  7
+E NT  4
+E  S  5
+E  H  5
+E  D  3
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,2,1,214,186,40,35,81,31,143,17,38,43,23,21,56,54,14,22,18,14,24,121,20,135,68,14,12,90,28,17,18,21,19,11,23,19,29,11,11,27,28,16,16,13,55,17,12,20,11,12,22
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "S"]
+S6 ST SJ SK 
+H3 HT H6 H7 
+HA H2 H4 HJ 
+SA S2 H8 S3 
+DQ D3 D2 D6 
+HQ H5 C5 HK 
+S5 S9 D4 S4 
+C3 C2 C9 CK 
+S7 D5 D7 SQ 
+D8 DK DT H9 
+C8 CA CQ C6 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "13"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J.864.AJT742.Q95 KQ43.KJ97.96.K76 A8765.AQ3.Q8.J83 T92.T52.K53.AT42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "5"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "988a7988a74553445534"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D 10
+N  C  7
+S NT  9
+S  S  8
+S  H  8
+S  D 10
+S  C  7
+E NT  4
+E  S  5
+E  H  5
+E  D  3
+E  C  4
+W NT  4
+W  S  5
+W  H  5
+W  D  3
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 10,0,3,174,97,73,1039,38,134,58,83,232,30,22,98,100,39,6,15,13,8,8,11,399,45,23,54,10,42,21,179,151,955,284,27,32,52,16,292,16,7,153,76,21,9,46,66,10,13,10,69,54,55,27
+[Auction "N"]
+2D =1= X Pass 3C 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+SJ SK SA S2 
+DA D6 DQ DK 
+DJ D9 D8 D3 
+DT C6 C8 D5 
+C5 S3 S8 S9 
+D7 H7 CJ CA 
+C9 CK C3 C2 
+D2 S4 S5 ST 
+H6 H9 HQ HT 
+H4 HJ HA H2 
+CQ SQ S6 H5 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "14"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K3.T63.874.K8432 A.Q974.AQJ32.T97 QT942.AK5.K9.AJ6 J8765.J82.T65.Q5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "8875a8875a3467234672"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  5
+N  C 10
+S NT  8
+S  S  8
+S  H  7
+S  D  5
+S  C 10
+E NT  3
+E  S  4
+E  H  6
+E  D  7
+E  C  2
+W NT  3
+W  S  4
+W  H  6
+W  D  7
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 6,2,1,214,68,48,85,276,42,33,56,25,28,17,111,14,17,48,26,12,10,24,26,7,24,52,30,16,77,19,20,29,11,16,37,19,27,26,20,12,10,14,11,21,12,14,197,31,13,12,27,21,14,12,9
+[Auction "E"]
+1D 1S Pass Pass 
+X Pass 2D Pass 
+Pass Pass 
+[Play "S"]
+HA H2 H6 H4 
+HK H8 H3 H7 
+H5 HJ HT H9 
+CA CQ CK C7 
+CJ C5 C2 C9 
+ST S6 SK SA 
+D9 D5 D4 DA 
+DK D6 D7 D2 
+C6 DT C3 CT 
+S2 S5 S3 D3 
+S4 -  -  DQ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "14"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K3.T63.874.K8432 A.Q974.AQJ32.T97 QT942.AK5.K9.AJ6 J8765.J82.T65.Q5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "8875a8875a3467234672"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  7
+N  D  5
+N  C 10
+S NT  8
+S  S  8
+S  H  7
+S  D  5
+S  C 10
+E NT  3
+E  S  4
+E  H  6
+E  D  7
+E  C  2
+W NT  3
+W  S  4
+W  H  6
+W  D  7
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 4,0,3,154,104,30,53,90,132,367,57,34,44,41,222,11,8,381,39,52,15,147,14,24,36,694,45,159,28,49,24,16,12,35,35,37,17,19,17,89,22,99,25,8,20,562,38,20,9,10,28,18,87,54,14
+[Auction "E"]
+1D 1S Pass Pass 
+X Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+SK SA S4 S5 
+D8 D2 D9 DT 
+D4 DQ DK D5 
+C3 C7 CJ CQ 
+D7 DA H5 D6 
+S3 DJ S2 S6 
+C2 D3 S9 S7 
+C4 C9 CA C5 
+CK CT C6 H2 
+C8 H4 ST S8 
+H3 H7 -  -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "15"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J86.J982.AQ3.A96 5.A.T742.KJT8752 KT43.KT65.K965.3 AQ972.Q743.J8.Q4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "58974589745545955459"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  9
+N  D  7
+N  C  4
+S NT  5
+S  S  8
+S  H  9
+S  D  7
+S  C  4
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  9
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,2,1,54,63,81,354,41,81,74,34,81,41,30,24,34,28,148,125,38,12,13,14,48,87,18,23,33,10,52,63,38,14,19,24,47,13,15,12,71,13,15
+[Auction "S"]
+Pass 1S Pass 3C =1= 
+Pass Pass Pass 
+[Note "1: Non Forcing"]
+[Play "S"]
+H5 H3 HJ HA 
+D5 D8 DQ D2 
+C3 C4 CA C2 
+S3 CQ C6 C5 
+H6 H4 H2 C7 
+D6 S2 C9 CK 
+DK DJ D3 D4 
+D9 S7 DA D7 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "15"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J86.J982.AQ3.A96 5.A.T742.KJT8752 KT43.KT65.K965.3 AQ972.Q743.J8.Q4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "58974589745545955459"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  9
+N  D  7
+N  C  4
+S NT  5
+S  S  8
+S  H  9
+S  D  7
+S  C  4
+E NT  5
+E  S  5
+E  H  4
+E  D  5
+E  C  9
+W NT  5
+W  S  5
+W  H  4
+W  D  5
+W  C  9
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,0,3,88,102,50,83,36,33,33,93,39,69,57,136,159,203,66,88,33,10,169,118,24,15,15,13,37,85,17,22,63,14,28,22,24,29,12,326,28,24,12,19,14,15,22,22,27,10,18
+[Auction "S"]
+Pass 1S Pass 2C 
+Pass 2H Pass 3C 
+Pass Pass Pass 
+[Play "S"]
+D5 D8 DQ D2 
+C3 CQ C6 C2 
+D6 DJ DA D4 
+H5 C4 CA C5 
+D9 S2 D3 D7 
+DK H3 H2 DT 
+ST SA S8 S5 
+S3 S7 S6 CK 
+S4 H4 C9 CJ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "16"]
+[West "Keith Joules#504710"]
+[North "Tim Smith#74912"]
+[East "David Waxman#20349"]
+[South "David Willis#18529"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q53.T65.K973 AK92.92.9873.QT8 J65.KT4.J2.J6542 T43.AJ876.AKQ4.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2221522225abbb8abbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 10
+E  S 11
+E  H 11
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 21,2,1,162,86,34,38,51,30,54,33,98,54,333,41,254,50,27,13,168,502,17,38,601,39,21,17,21,18,41,35,26,43,10,621,230,11,52,18,94,34,11,10,39,16,23,8,40,29,21,9,20,39,22,8,15,30,9,7,13,30,18,16
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 3D Pass 
+3S Pass 4H Pass 
+5D Pass Pass Pass 
+[Play "N"]
+D5 D3 DJ DA 
+S8 SA S6 S3 
+HQ H9 HT HJ 
+D6 D7 D2 D4 
+H3 H2 H4 H6 
+DT D8 C6 DK 
+H5 C8 HK HA 
+C3 S2 C2 H8 
+C7 S9 C4 H7 
+S7 SK S5 S4 
+C9 CT CJ CA 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "16"]
+[West "Simon Taylor#111691"]
+[North "Frank Dixon#34239"]
+[East "James Clark#104421"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q53.T65.K973 AK92.92.9873.QT8 J65.KT4.J2.J6542 T43.AJ876.AKQ4.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2221522225abbb8abbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  1
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  2
+S  C  5
+E NT 10
+E  S 11
+E  H 11
+E  D 11
+E  C  8
+W NT 10
+W  S 11
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,117,40,40,42,214,28,792,54,21,38,99,150,34,19,425,22,40,53,1301,38,23,22,30,27,23,69,26,21,11,18,69,23,19,17,25,19,18,11,144,12,11,126,21,13,20,163,34,33,11,10,19,17,8,14,10,11,15,15,13,9,8,10
+[Auction "W"]
+1H Pass 1S Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C4 CA C3 C8 
+SJ ST S7 S2 
+C2 H6 CK CT 
+C5 H7 C9 CQ 
+S5 S3 S8 SA 
+D2 DA D6 D3 
+DJ DK D5 D7 
+H4 DQ DT D8 
+S6 D4 C7 D9 
+C6 S4 SQ SK 
+CJ H8 H3 S9 
+HT HA H5 H2 
+HK HJ HQ H9 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "17"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T5.AJ43.A3.QJT85 QJ3.KT.KQ2.97642 872.9875.JT974.3 AK964.Q62.865.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "22755227559b6889b688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  5
+N  C  5
+S NT  2
+S  S  2
+S  H  7
+S  D  5
+S  C  5
+E NT  9
+E  S 11
+E  H  6
+E  D  8
+E  C  8
+W NT  9
+W  S 11
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 14,0,2,884,44,315,59,47,278,44,130,40,219,36,29,75,30,12,15,48,20,36,205,21,11,15,42,16,109,22,12,36,9,13,11,16,10,12,22,149,35,76,12,26,9,270,25,14,10,35,13,10,14,6,33,28,11,7,22,13,10,6,9,7,8,7
+[Auction "N"]
+1C Pass Pass 1S 
+Pass 2C =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: good raise in S"]
+[Play "N"]
+CQ C2 C3 CA 
+D3 DQ D7 D5 
+HA HK H5 H2 
+C5 C4 S7 CK 
+S5 SJ S2 S4 
+ST SQ S8 S6 
+H3 S3 D4 SK 
+C8 HT H7 SA 
+H4 C6 H8 S9 
+HJ C7 H9 HQ 
+CT C9 D9 H6 
+DA D2 DT D6 
+CJ DK DJ D8 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "17"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:T5.AJ43.A3.QJT85 QJ3.KT.KQ2.97642 872.9875.JT974.3 AK964.Q62.865.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "22755227559b6889b688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  7
+N  D  5
+N  C  5
+S NT  2
+S  S  2
+S  H  7
+S  D  5
+S  C  5
+E NT  9
+E  S 11
+E  H  6
+E  D  8
+E  C  8
+W NT  9
+W  S 11
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,3,1,657,54,114,105,64,92,167,51,44,88,82,34,32,42,437,23,37,743,42,22,23,39,15,44,16,25,9,23,258,79,25,21,19,36,27,16,14,18,75,23,9,80,58,18,47,33,16,20,5,38,21,100,26,34,31,17,5,15,7,9,15,22,18,5,13
+[Auction "N"]
+1C =1= Pass Pass X 
+Pass 1NT Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "N"]
+CQ C2 C3 CA 
+S5 SQ S2 S4 
+ST SJ S7 S6 
+H3 S3 S8 SK 
+H4 HK H5 H2 
+C5 C4 D4 CK 
+D3 DK D7 D5 
+C8 C6 D9 S9 
+DA D2 DT D6 
+CJ C7 H7 SA 
+HJ DQ DJ D8 
+CT C9 H8 H6 
+HA HT H9 HQ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "18"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T8643.Q9.AK7.J83 KQJ7.JT.QT964.K2 A952.K864.3.A976 .A7532.J852.QT54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "78647786476569665696"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  9
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  9
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,2,612,84,96,154,60,103,330,70,104,79,30,189,32,9,8,506,13,17,29,11,35,24,28,90,45,37,67,62,17,73,163,39,14,53,13,15,15,117,17,14,28,9,18,32
+[Auction "E"]
+1D =1= X 1H 2S 
+Pass Pass Pass 
+[Note "1: nat or 15-17nt (which could have any 5cd suit)"]
+[Play "E"]
+HJ H4 H5 HQ 
+S7 SA H2 S3 
+D6 D3 D2 DA 
+HT HK HA H9 
+CK CA C4 C3 
+SJ H8 H3 C8 
+SQ S2 D5 S4 
+SK S5 C5 S6 
+C2 C6 CQ CJ 
+-  -  H7 -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "18"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T8643.Q9.AK7.J83 KQJ7.JT.QT964.K2 A952.K864.3.A976 .A7532.J852.QT54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "78647786476569665696"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  4
+N  C  7
+S NT  7
+S  S  8
+S  H  6
+S  D  4
+S  C  7
+E NT  6
+E  S  5
+E  H  6
+E  D  9
+E  C  6
+W NT  6
+W  S  5
+W  H  6
+W  D  9
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 21,3,1,76,70,417,135,42,130,34,159,190,79,24,21,21,223,37,61,35,149,19,115,68,14,11,685,25,47,11,424,54,19,14,35,21,18,26,33,10,43,24,116,32,19,18
+[Auction "E"]
+1D X 5D X 
+Pass Pass Pass 
+[Play "S"]
+D3 D2 DK D6 
+S2 D5 DA DT 
+S5 D8 D7 D9 
+HK H2 H9 HJ 
+CA C4 C8 C2 
+C6 C5 CJ CK 
+S9 H3 S6 SK 
+SA H5 S3 SJ 
+C7 CQ C3 S7 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "19"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ96.J.K863.QJT8 854.K42.A.A97653 K72.A976.QJ754.4 AT3.QT853.T92.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "574a5574a58593885938"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D 10
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D 10
+S  C  5
+E NT  8
+E  S  5
+E  H  9
+E  D  3
+E  C  8
+W NT  8
+W  S  5
+W  H  9
+W  D  3
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,0,2,105,33,209,92,109,43,159,52,160,21,40,39,138,251,21,23,93,30,20,65,61,86,34,22,26,78,37,21,117,21,9,13,23,32,8,39,427,43,22,11,98,17,29,24,30,32,16,7,21,33,21,8,13,20,17,16,13,19,18,11,5,8,7,5
+[Auction "S"]
+Pass Pass 1D 2C 
+X Pass 2S Pass 
+3D Pass Pass Pass 
+[Play "E"]
+H2 HA H5 HJ 
+H4 H6 H8 D3 
+S5 SK SA S6 
+DA D4 D2 D6 
+CA C4 C2 C8 
+S4 S2 ST SQ 
+C3 DQ D9 D8 
+C5 D5 DT DK 
+S8 S7 S3 SJ 
+C6 H7 H3 S9 
+C7 H9 CK CT 
+HK D7 HT CJ 
+C9 DJ HQ CQ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "19"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ96.J.K863.QJT8 854.K42.A.A97653 K72.A976.QJ754.4 AT3.QT853.T92.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "574a5574a58593885938"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D 10
+N  C  5
+S NT  5
+S  S  7
+S  H  4
+S  D 10
+S  C  5
+E NT  8
+E  S  5
+E  H  9
+E  D  3
+E  C  8
+W NT  8
+W  S  5
+W  H  9
+W  D  3
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,3,1,111,35,78,42,402,59,120,28,93,49,30,36,153,80,18,51,33,415,31,19,319,35,13,14,15,14,13,19,39,16,17,23,23,35,37,48,137,28,21,17,71,17,19,54,74,38,23,96,99,33,12,14,25,19,13,28,64,19,48,11,15,8,10,11
+[Auction "S"]
+Pass Pass 1D 2C 
+X Pass 2S Pass 
+3D Pass Pass Pass 
+[Play "E"]
+CA C4 C2 C8 
+C6 D4 CK CT 
+H4 HA H5 HJ 
+H2 H6 H3 D3 
+DA D5 D2 D6 
+C3 DQ H8 CJ 
+S5 S2 S3 SJ 
+S4 SK SA S6 
+HK H7 HT D8 
+C7 D7 D9 DK 
+C5 H9 DT CQ 
+C9 DJ HQ S9 
+S8 S7 ST SQ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "20"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ86.J2.K9.JT863 A973.KT6.862.952 5.A7543.AQJ74.AK JT42.Q98.T53.Q74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "99aaa99aaa4332243322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D 10
+N  C 10
+S NT  9
+S  S  9
+S  H 10
+S  D 10
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  2
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,0,2,60,41,54,60,44,124,60,97,35,144,25,68,28,491,417,10,110,50,53,21,8,34,15,22,11,53,10,44,17,20,135,55,38,20,8,25,27,18,10,17,14,11,10,11,161,15,11,12,16,27,7,34,18,93,18,8,12,23,20,7,9,8,13,9,7
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1S Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+S3 S5 ST SQ 
+D2 D4 D3 DK 
+D6 DA D5 D9 
+D8 DQ DT C3 
+C5 DJ C7 C6 
+C2 D7 C4 H2 
+C9 CA CQ C8 
+H6 CK S2 CJ 
+HT HA H8 HJ 
+HK H3 H9 S6 
+SA H4 S4 S8 
+S7 H5 SJ SK 
+S9 H7 HQ CT 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "20"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ86.J2.K9.JT863 A973.KT6.862.952 5.A7543.AQJ74.AK JT42.Q98.T53.Q74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "99aaa99aaa4332243322"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 10
+N  D 10
+N  C 10
+S NT  9
+S  S  9
+S  H 10
+S  D 10
+S  C 10
+E NT  4
+E  S  3
+E  H  3
+E  D  2
+E  C  2
+W NT  4
+W  S  3
+W  H  3
+W  D  2
+W  C  2
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,3,1,96,46,23,50,50,83,47,45,55,145,48,109,43,47,172,42,65,300,32,32,33,215,27,25,136,220,32,28,25,77,93,66,25,147,32,11,35,14,20,26,27,17,13,46,15,15,44,12,32,16,34,12,36,13,21,9,11,8,19,9,11,28,12,11,10
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1S Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+C5 CK C7 C3 
+SA S5 S2 SQ 
+C2 CA C4 C6 
+HK H3 H9 HJ 
+D8 D4 DT DK 
+S7 H4 S4 SK 
+D2 DA D3 D9 
+D6 DQ D5 S6 
+S3 DJ ST C8 
+S9 D7 SJ S8 
+H6 HA H8 H2 
+HT H5 HQ CT 
+C9 H7 CQ CJ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "21"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQT98.Q3.K94.K72 J5.AT.A8532.QJ43 2.KJ7654.QJT.965 K7643.982.76.AT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "87965879655636756367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  6
+N  C  5
+S NT  8
+S  S  7
+S  H  9
+S  D  6
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  6
+E  C  7
+W NT  5
+W  S  6
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,3,1,112,106,103,40,66,55,279,551,17,28,16,38,50,12,521,31,36,38,17,37,28,12,17,21,20,31,92,13,9,21,13,13,7,46,19,31,15,52,12,41,9,12,25,17,11,11,14,18,34,11,11,15,10,13,11,14,9,9
+[Auction "N"]
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+H8 HQ HA H7 
+H2 H3 HT HK 
+D6 D4 DA DT 
+CA C2 C3 C5 
+CT CK C4 C6 
+D7 DK D2 DJ 
+H9 D9 D3 DQ 
+S4 S8 CQ HJ 
+C8 S9 S5 H6 
+S3 C7 D5 H5 
+S6 ST D8 H4 
+S7 SA SJ S2 
+SK SQ CJ C9 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "21"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQT98.Q3.K94.K72 J5.AT.A8532.QJ43 2.KJ7654.QJT.965 K7643.982.76.AT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "87965879655636756367"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  9
+N  D  6
+N  C  5
+S NT  8
+S  S  7
+S  H  9
+S  D  6
+S  C  5
+E NT  5
+E  S  6
+E  H  3
+E  D  6
+E  C  7
+W NT  5
+W  S  6
+W  H  3
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,0,2,122,189,334,34,313,45,705,38,4811,180,85,19,14,154,31,15,41,18,22,8,77,27,113,27,11,38,17,9,16,15,10,9,12,10,65,12,18,60,8,9,21
+[Auction "N"]
+1S 2D X Pass 
+2NT =1= Pass Pass Pass 
+[Note "1: 13/14"]
+[Play "E"]
+D3 DT D6 DK 
+HT H4 H8 HQ 
+HA H5 H2 H3 
+CQ C5 C8 CK 
+DA DJ D7 D4 
+C3 C6 CA C2 
+CJ C9 CT C7 
+C4 H6 H9 S8 
+S5 -  -  -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "22"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ96.42.KJT92.T7 8.A8763.A63.8432 AK43.QT5.754.QJ5 T752.KJ9.Q8.AK96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "573625736286a5a86a7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  5
+S  S  7
+S  H  3
+S  D  6
+S  C  2
+E NT  8
+E  S  6
+E  H 10
+E  D  5
+E  C 10
+W NT  8
+W  S  6
+W  H 10
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,3,1,141,162,104,90,36,93,33,58,42,45,143,45,34,73,33,18,24,152,35,16,25,14,28,17,47,153,29,25,35,20,25,16,13,85,14,9,36,24,46,12,27,20,18,36,13,13,43,11,15,11,20,8,19,11,31,9,11,14,16,10,8
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Note "1:  * Could be only 2c [0:14]"]
+[Play "E"]
+C2 C5 CK C7 
+C4 CJ CA CT 
+DA D4 DQ DK 
+D6 D5 D8 DT 
+S8 SA S2 S6 
+H8 S3 S5 SQ 
+H3 S4 S7 SJ 
+H7 SK ST S9 
+C3 CQ C6 H2 
+D3 D7 C9 DJ 
+H6 H5 H9 D9 
+C8 HT HJ D2 
+HA HQ HK H4 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "22"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:QJ96.42.KJT92.T7 8.A8763.A63.8432 AK43.QT5.754.QJ5 T752.KJ9.Q8.AK96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "573625736286a5a86a7b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  6
+N  C  2
+S NT  5
+S  S  7
+S  H  3
+S  D  6
+S  C  2
+E NT  8
+E  S  6
+E  H 10
+E  D  5
+E  C 10
+W NT  8
+W  S  6
+W  H 10
+W  D  7
+W  C 11
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,0,2,327,133,71,83,71,59,25,34,54,131,183,19,13,78,49,37,14,37,17,14,25,16,20,25,12,9,31,17,30,29,27,26,19,38,8,9,47,13,8,9,116,18,109,11,9
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "E"]
+C4 CQ CK C7 
+DA D4 D8 DK 
+C2 C5 CA CT 
+D3 D5 DQ D2 
+C3 CJ C6 H2 
+S8 SA S2 S6 
+H7 SK S5 S9 
+H3 S3 S7 SQ 
+H6 S4 ST SJ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "23"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.AKQT62.AJT76.6 AKT43.753.94.AKT 875.J98.K532.J53 QJ92.4.Q8.Q98742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "21bb221bb22a21a2a21a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H 11
+N  D 11
+N  C  2
+S NT  2
+S  S  1
+S  H 11
+S  D 11
+S  C  2
+E NT  2
+E  S 10
+E  H  2
+E  D  1
+E  C 10
+W NT  2
+W  S 10
+W  H  2
+W  D  1
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 17,3,1,69,47,135,36,127,113,335,50,64,40,71,45,36,80,23,57,49,19,86,28,25,15,15,21,18,50,24,35,9,14,29,14,16,40,28,34,59,12,56,27,20,27,28,22,24,12
+[Auction "S"]
+Pass Pass 1H 1S 
+2H 2S 3D Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "E"]
+SK S5 S2 S6 
+CK C3 C2 C6 
+CA C5 C4 H2 
+H5 H8 H4 HA 
+H3 HJ C7 H6 
+H7 H9 C8 HK 
+D4 DK D8 D6 
+D9 D2 DQ DA 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "23"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.AKQT62.AJT76.6 AKT43.753.94.AKT 875.J98.K532.J53 QJ92.4.Q8.Q98742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "21bb221bb22a21a2a21a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H 11
+N  D 11
+N  C  2
+S NT  2
+S  S  1
+S  H 11
+S  D 11
+S  C  2
+E NT  2
+E  S 10
+E  H  2
+E  D  1
+E  C 10
+W NT  2
+W  S 10
+W  H  2
+W  D  1
+W  C 10
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 22,0,2,67,58,53,60,85,55,42,106,381,26,59,207,31,51,154,72,35,20,48,20,10,15,88,33,8,35,450,37,48,11,99,23,43,41,69,29,43,8,49,31,34,8,230,29,23,11,19,20,18,15
+[Auction "S"]
+Pass Pass 1H 1S 
+Pass 2S 3D 3S 
+4H 4S 5H Pass 
+Pass Pass 
+[Play "E"]
+CA C3 C7 C6 
+SA S5 S2 S6 
+CK C5 C2 H2 
+H3 H8 H4 H6 
+S3 S7 SQ HT 
+H5 H9 C4 HA 
+H7 HJ C8 HK 
+D4 DK D8 D6 
+D9 D2 DQ DA 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "24"]
+[West "Keith Joules#504710"]
+[North "James Clark#104421"]
+[East "David Waxman#20349"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:98743.A75.T6.KQ3 AKT2.Q9643.Q9.A2 J65.KJ.AKJ8752.4 Q.T82.43.JT98765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "88593885933573735737"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  5
+N  D  9
+N  C  3
+S NT  8
+S  S  8
+S  H  5
+S  D  9
+S  C  3
+E NT  3
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  3
+W  S  5
+W  H  7
+W  D  3
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 16,3,1,284,66,58,278,34,186,25,78,413,23,10,18,23,25,13,45,15,52,9,35,14,25,14,89,138,63,21,17,32,8,10,168,28,9,10
+[Auction "W"]
+3C Pass 3NT 4D 
+Pass Pass Pass 
+[Play "W"]
+CJ CK CA C4 
+SQ S3 SA S5 
+C5 S4 SK S6 
+D3 S7 S2 SJ 
+H8 H5 HQ HK 
+D4 D6 D9 DA 
+C6 DT DQ DK 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "24"]
+[West "David Willis#18529"]
+[North "Frank Dixon#34239"]
+[East "Tim Smith#74912"]
+[South "Paul Brereton#94086"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:98743.A75.T6.KQ3 AKT2.Q9643.Q9.A2 J65.KJ.AKJ8752.4 Q.T82.43.JT98765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "88593885933573735737"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  5
+N  D  9
+N  C  3
+S NT  8
+S  S  8
+S  H  5
+S  D  9
+S  C  3
+E NT  3
+E  S  5
+E  H  7
+E  D  3
+E  C  7
+W NT  3
+W  S  5
+W  H  7
+W  D  3
+W  C  7
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 11,0,2,63,32,295,541,271,61,179,54,405,17,20,42,388,21,8,24,21,17,12,125,18,75,25,13,130,20,19,198,19,16,17,19,25,19,11,46,14,12,11,25,15
+[Auction "W"]
+Pass Pass 1H 3D =1= 
+Pass Pass Pass 
+[Note "1:  * wk [0:23]"]
+[Play "W"]
+SQ S3 S2 S6 
+CJ CK CA C4 
+H8 S4 SA S5 
+C5 S7 SK SJ 
+C6 S8 ST DJ 
+H2 HA H3 HJ 
+D3 DT DQ DA 
+D4 D6 D9 DK 
+C7 -  -  D8 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "25"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A.K842.QT32.AKQ9 743.A93.K64.JT64 JT8.QT65.J87.853 KQ9652.J7.A95.72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "55a8855a886834568345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H 10
+N  D  8
+N  C  8
+S NT  5
+S  S  5
+S  H 10
+S  D  8
+S  C  8
+E NT  6
+E  S  8
+E  H  3
+E  D  4
+E  C  5
+W NT  6
+W  S  8
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,2,223,46,107,38,96,51,33,26,37,163,16,22,90,51,23,8,749,22,15,34,44,44,182,23,40,26,21,14,26,35,19,9,24,23,13,32,30,49,30,25,22,24,27,11,43,18,8,13,20,62,12,9
+[Auction "N"]
+1H Pass 2H 2S 
+4H Pass Pass Pass 
+[Play "E"]
+S4 SJ SQ SA 
+H3 HT H7 H2 
+C4 C3 C2 CQ 
+H9 H5 HJ H4 
+C6 C5 C7 CA 
+HA H6 S2 H8 
+CJ C8 S5 CK 
+D6 DJ DA D2 
+DK D7 D5 DT 
+D4 D8 D9 DQ 
+S3 S8 S6 D3 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "25"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A.K842.QT32.AKQ9 743.A93.K64.JT64 JT8.QT65.J87.853 KQ9652.J7.A95.72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "55a8855a886834568345"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H 10
+N  D  8
+N  C  8
+S NT  5
+S  S  5
+S  H 10
+S  D  8
+S  C  8
+E NT  6
+E  S  8
+E  H  3
+E  D  4
+E  C  5
+W NT  6
+W  S  8
+W  H  3
+W  D  4
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,3,0,112,37,109,93,159,53,55,33,91,333,9,41,23,27,11,30,658,36,36,12,36,21,34,12,26,33,11,30,227,36,64,23,230,48,9,13,199,86,16,16,10,22,12,10
+[Auction "N"]
+1D Pass 1H 1S 
+4H Pass Pass Pass 
+[Play "W"]
+SK SA S7 S8 
+HJ H2 H3 HT 
+D5 D2 DK D7 
+DA D3 D6 D8 
+D9 DT D4 DJ 
+SQ H4 S4 SJ 
+H7 HK HA H5 
+C2 CA CJ C3 
+S2 H8 H9 HQ 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "26"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q82.A7.A87.K9763 T9.KQ85.J4.AQJT5 J643.J32.KQT952. AK75.T964.63.842"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "775a5775956683866838"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D 10
+N  C  5
+S NT  7
+S  S  7
+S  H  5
+S  D  9
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  3
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  3
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,1,2,426,357,126,295,53,54,270,56,28,77,117,104,30,20,77,42,61,47,30,28,11,40,155,31,16,11,73,135,40,67,101,60,18,35,30,10,21,20,71,14,27,21,22,25,19,43,42,36,27,12,16,33,36,11
+[Auction "E"]
+1C =1= 2D =2= X 3D 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: nat or 2+ (12-14 or 18-19 nt) could contain 5d"]
+[Note "2: weak"]
+[Play "S"]
+D2 D3 DA D4 
+H2 C2 C7 CT 
+D5 D6 D7 DJ 
+H3 H4 HA HK 
+HJ C4 C3 C5 
+S3 SA S8 S9 
+D9 HT H7 H5 
+DT C8 C9 CJ 
+DQ S5 C6 CA 
+DK H9 CK CQ 
+S4 H6 D8 H8 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "26"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q82.A7.A87.K9763 T9.KQ85.J4.AQJT5 J643.J32.KQT952. AK75.T964.63.842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "775a5775956683866838"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D 10
+N  C  5
+S NT  7
+S  S  7
+S  H  5
+S  D  9
+S  C  5
+E NT  6
+E  S  6
+E  H  8
+E  D  3
+E  C  8
+W NT  6
+W  S  6
+W  H  8
+W  D  3
+W  C  8
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 9,3,0,247,148,89,419,55,69,39,860,162,18,48,36,16,24,16,57,27,20,18,45,17,13,564,47,360,22,16,42,35,44,58,39,23,70,15,24,12,12,20,50,23,25,11,70,26,10,12,11,14,10,10,10,17,8,11,9,12,10,11
+[Auction "E"]
+1C =1= 2D =2= Pass 2NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: Weak"]
+[Play "E"]
+CQ S3 C8 CK 
+D4 DQ D3 D7 
+DJ D2 D6 DA 
+H5 DK C2 D8 
+H8 DT H4 S2 
+C5 D9 H6 C3 
+S9 D5 H9 H7 
+HQ H2 HT HA 
+CT H3 C4 C6 
+CA HJ S5 C7 
+CJ S4 S7 C9 
+HK S6 SK S8 
+ST SJ SA SQ 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "27"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK9643.JT3.Q5.74 JT752.98.J732.QJ 8.AKQ76542.AK8.2 Q..T964.AKT98653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 16 EW -16"]
+[DoubleDummyTricks "58c5458c540407904079"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H 12
+N  D  5
+N  C  4
+S NT  5
+S  S  8
+S  H 12
+S  D  5
+S  C  4
+E NT  0
+E  S  4
+E  H  0
+E  D  7
+E  C  9
+W NT  0
+W  S  4
+W  H  0
+W  D  7
+W  C  9
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 27,1,2,441,168,211,66,119,37,143,27,55,17,25,77,16,21,50,21,11
+[Auction "S"]
+2C =1= 4C 4S Pass 
+5H Pass 6H Pass 
+Pass Pass 
+[Note "1: game force or 20/21 bal"]
+[Play "W"]
+CK C4 CJ C2 
+CA C7 CQ -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "27"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AK9643.JT3.Q5.74 JT752.98.J732.QJ 8.AKQ76542.AK8.2 Q..T964.AKT98653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6SX"]
+[Result "9"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -16 EW 16"]
+[DoubleDummyTricks "58c5458c540407904079"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H 12
+N  D  5
+N  C  4
+S NT  5
+S  S  8
+S  H 12
+S  D  5
+S  C  4
+E NT  0
+E  S  4
+E  H  0
+E  D  7
+E  C  9
+W NT  0
+W  S  4
+W  H  0
+W  D  7
+W  C  9
+[OptimumScore "NS +800"]
+[Competition "Teams"]
+% RBDATA 28,3,0,194,221,471,119,163,78,48,55,42,297,150,46,53,271,25,20,18,49,18,16,15,26,22,12,18,15,18,31,22,42,19,12,18,19,13,25,16,39,34,9,25,20,19,21,9,25,18,30,17,22,21,9,34,10,11,15,9,10,8,10,8
+[Auction "S"]
+2C =1= 5C 6S Pass 
+Pass X Pass Pass 
+Pass 
+[Note "1:  * GF [0:06]"]
+[Play "E"]
+D2 D8 D9 DQ 
+S2 S8 SQ SA 
+S5 H2 C3 SK 
+D3 DK D4 D5 
+D7 DA D6 C4 
+H8 H4 C5 HJ 
+H9 HA C6 H3 
+S7 HK C8 HT 
+CQ C2 CA C7 
+CJ H5 CK S3 
+ST H6 DT S4 
+SJ H7 C9 S6 
+DJ HQ CT S9 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "28"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:84.532.KT8432.95 QJ2.KT9.AJ75.KT3 AK953.864.Q6.AJ7 T76.AQJ7.9.Q8642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "45374453748795987959"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  8
+E  S  7
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  7
+W  H  9
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,1,2,72,68,163,72,100,53,744,49,91,67,35,40,58,132,15,15,61,17,9,16,103,15,24,25,38,32,21,17,59,10,27,11,29,37,142,31,19,28,9,14,10,37,9,16,27,24,14,33
+[Auction "W"]
+Pass Pass 1C =1= 1S 
+X Pass 2D Pass 
+3C Pass Pass Pass 
+[Note "1: nat or 2+ (12-14 or 18-19 nt) could contain 5d"]
+[Play "S"]
+SK S6 S4 S2 
+SA S7 S8 SJ 
+S3 ST C5 SQ 
+D6 D9 DT DA 
+C7 CQ C9 C3 
+CJ C2 D4 CT 
+CA C4 H5 CK 
+H8 HA H2 H9 
+S5 C8 D8 D5 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "28"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:84.532.KT8432.95 QJ2.KT9.AJ75.KT3 AK953.864.Q6.AJ7 T76.AQJ7.9.Q8642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "45374453748795987959"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  7
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  7
+S  C  4
+E NT  8
+E  S  7
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  7
+W  H  9
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,3,0,91,38,51,49,52,56,51,49,38,70,49,135,19,143,73,30,21,17,252,28,13,13,11,16,8,11,12,16,10,11,18,21,27,7,453,48,19,16,37,212,34,10,130,14,9,15,16,24,42,10,6,14,55,11,11,15,8,9,14,19,5,11
+[Auction "W"]
+Pass Pass 1D 1S 
+X Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 12-14 [0:12]"]
+[Play "S"]
+S5 S6 S4 SJ 
+C7 CQ C5 C3 
+H4 H7 H5 HK 
+H6 HJ H2 HT 
+H8 HQ H3 H9 
+D6 HA D2 D5 
+DQ D9 DT DA 
+SK S7 S8 S2 
+SA ST D3 SQ 
+S9 C2 D4 D7 
+S3 C4 D8 DJ 
+CA C6 C9 CT 
+CJ C8 DK CK 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "29"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT.A75.J62.AT54 K5.843.KT84.J962 42.KQJT96.Q93.KQ J98763.2.A75.873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a7b89a7b892625326253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S  7
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  6
+E  H  2
+E  D  5
+E  C  3
+W NT  2
+W  S  6
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,1,2,84,87,109,45,93,32,123,35,104,23,32,419,41,41,92,69,13,17,25,34,12,13,37,25,10,15,8,12,11,19,25,37,13,23,27,21,17,11,110,29,30,31,29
+[Auction "N"]
+1C Pass 1H Pass 
+1NT =1= Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "W"]
+S7 SA S5 S2 
+H2 H5 H4 HK 
+S3 H7 H3 HQ 
+C7 C4 C2 CK 
+C3 C5 C6 CQ 
+S6 HA H8 H6 
+C8 CA C9 S4 
+DA D2 D4 D9 
+S8 -  -  -  
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "29"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT.A75.J62.AT54 K5.843.KT84.J962 42.KQJT96.Q93.KQ J98763.2.A75.873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a7b89a7b892625326253"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 11
+N  D  8
+N  C  9
+S NT 10
+S  S  7
+S  H 11
+S  D  8
+S  C  9
+E NT  2
+E  S  6
+E  H  2
+E  D  5
+E  C  3
+W NT  2
+W  S  6
+W  H  2
+W  D  5
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,3,0,112,33,172,70,45,36,70,49,43,64,97,152,33,64,62,37,35,16,45,16,14,23,20,31,13,10,41,30,18,13,145,21,63,20,25,11,12,9,91,23,16,34,59,22,22,13
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2:  * TF [0:06]"]
+[Play "E"]
+H3 HK H2 H5 
+H4 HQ S3 H7 
+H8 H6 S6 HA 
+C2 CQ C8 C4 
+C6 CK C3 C5 
+S5 S2 S7 SA 
+C9 S4 C7 CA 
+D4 D9 DA D2 
+DK D3 D5 D6 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "30"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T2.AJ85.T7.KQ865 9873.QT4.Q64.T73 J6.K932.J953.A94 AKQ54.76.AK82.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "54858548586948569485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  8
+N  D  5
+N  C  8
+S NT  5
+S  S  4
+S  H  8
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  4
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,1,2,53,50,39,94,438,39,61,47,224,35,78,27,65,28,19,40,75,11,87,14,22,9,86,88,22,12,22,16,15,10,101,38,14,12,10,18,9,8
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass 3D Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+CK C3 C9 CJ 
+C6 C7 CA C2 
+CQ CT C4 H6 
+HA H4 H2 H7 
+S2 S7 SJ SQ 
+ST S3 S6 SK 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "30"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T2.AJ85.T7.KQ865 9873.QT4.Q64.T73 J6.K932.J953.A94 AKQ54.76.AK82.J2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "54858548586948569485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  8
+N  D  5
+N  C  8
+S NT  5
+S  S  4
+S  H  8
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  4
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,3,0,55,31,40,94,46,50,180,48,18,25,15,35,58,97,23,29,74,25,11,15,34,68,46,16,286,18,14,9,72,36,11,20,17,21,9,9,14,16,9,9
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass 3D Pass 
+3S Pass Pass Pass 
+[Play "N"]
+CK C3 C4 C2 
+C6 C7 CA CJ 
+CQ CT C9 H6 
+HA H4 H2 H7 
+H5 HT HK S4 
+S2 S3 S6 SA 
+ST S7 SJ SK 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "31"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T93.J43.AQJT2.KQ A8..98765.AT8653 7542.Q9852..J972 KQJ6.AKT76.K43.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "54544545448989989899"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  9
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,2,125,49,50,308,55,47,32,291,29,13,32,56,247,19,15,34,92,162,27,23,38,21,16,297,37,18,13,23,41,39,44,58,78,22,25,186,12,19,66,16,16,12,37,17,15,17,31,16,9,33,52,30,78,9,19,27,54,10,13,12,17,9,9
+[Auction "S"]
+Pass 1H Pass 1NT =1= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: wide ranging but non forcing"]
+[Play "S"]
+S2 S6 S9 SA 
+S4 D3 DT D9 
+C2 C4 CK CA 
+C7 H6 CQ CT 
+S5 SJ S3 S8 
+S7 SQ ST D5 
+H5 SK D2 C3 
+H2 HA H4 D6 
+H8 HK H3 D7 
+HQ H7 HJ D8 
+CJ D4 DJ C5 
+C9 DK DQ C6 
+H9 HT DA C8 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "31"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:T93.J43.AQJT2.KQ A8..98765.AT8653 7542.Q9852..J972 KQJ6.AKT76.K43.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "54544545448989989899"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  4
+N  C  4
+S NT  5
+S  S  4
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  9
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,3,0,74,79,129,639,80,483,57,565,162,35,22,24,59,51,42,131,23,26,11,17,28,9,18,24,36,10,9,11,298,16,41,25,20,9,19,11,21,11,10,19,14,13,15,98,19,9,11,22,17,32,14,7,10,12,16,18,11,7,8
+[Auction "S"]
+Pass 1H Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1:  * up to 10 [0:14]"]
+[Play "S"]
+S5 S6 S9 SA 
+S2 D3 DT D7 
+C2 C4 CK CA 
+S4 SJ S3 S8 
+S7 SQ ST C3 
+H2 SK CQ D5 
+H5 HA H4 D6 
+H8 HK H3 D8 
+H9 H6 HJ D9 
+C7 D4 DA C5 
+C9 DK D2 C6 
+HQ H7 DJ C8 
+CJ HT DQ CT 
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "32"]
+[West "David Willis#18529"]
+[North "David Waxman#20349"]
+[East "Tim Smith#74912"]
+[South "Keith Joules#504710"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q.T32.AJT54.AT74 AJ762.AK987..953 T983.J6.Q876.Q62 K54.Q54.K932.KJ8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "33375333759aa589aa58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D  5
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D  5
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,1,2,199,103,191,131,102,80,54,65,17,121,79,174,12,26,13,32,52,33,75,11,25,21,20,9,192,37,269,32,14,10,15,23,16,18,87,33,15,13,29,218
+[Auction "W"]
+1C =1= 1D 1S 3D 
+3S 4C 4S Pass 
+Pass Pass 
+[Note "1: 2+ may have 5D's"]
+[Play "S"]
+C6 C8 CA C3 
+C2 CJ C4 C5 
+S3 SK SQ S2 
+S8 S4 D5 SJ 
+H6 HQ H3 H7 
+HJ H4 H2 HA 
+S9 S5 D4 SA 
+ST -  -  HK 
+*
+
+[Event "20 Dec Crockfords Waxman vs Clark"]
+[Site "RealBridge"]
+[Date "2023.12.20"]
+[Board "32"]
+[West "Paul Brereton#94086"]
+[North "James Clark#104421"]
+[East "Frank Dixon#34239"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q.T32.AJT54.AT74 AJ762.AK987..953 T983.J6.Q876.Q62 K54.Q54.K932.KJ8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Clark team"]
+[VisitTeam "Waxman team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "33375333759aa589aa58"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  5
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  5
+E NT  9
+E  S 10
+E  H 10
+E  D  5
+E  C  8
+W NT  9
+W  S 10
+W  H 10
+W  D  5
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,3,0,102,53,30,38,25,62,312,41,385,58,21,129,38,140,47,24,47,30,21,37,823,45,19,36,19,32,21,40,308,47,37,64,297,31,11,21,12,14,19,11
+[Auction "W"]
+1D Pass 1S Pass 
+1NT Pass 3H Pass 
+4S Pass Pass Pass 
+[Play "S"]
+S3 S4 SQ SA 
+S8 SK C4 S2 
+S9 S5 D5 SJ 
+C2 CJ CA C5 
+C6 CK CT C3 
+H6 H4 H3 HA 
+HJ HQ H2 H7 
+*

@@ -1,0 +1,4062 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "1"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K73.AT94.J82.854 AQ4.KQ.Q95.QT976 J865.863.KT763.J T92.J752.A4.AK32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3536235362a897b8897b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  6
+S  C  2
+E NT 10
+E  S  8
+E  H  9
+E  D  7
+E  C 11
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,632,98,150,62,83,79,55,32,78,24,34,71,257,202,36,153,34,16,24,20,42,16,32,102,33,22,26,28,17,27,18,119,30,62,26,138,34,19,37,23,48,19,12,18,47,21,31,30,22,18,40,13,45,14,15
+[Auction "N"]
+Pass 1C =1= Pass 1H 
+Pass 1NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: 15-17"]
+[Play "S"]
+D6 D4 DJ DQ 
+CJ CA C4 C6 
+H3 H2 H4 HK 
+H6 H5 HA HQ 
+D3 DA D8 D5 
+H8 HJ HT D9 
+D7 C2 C5 CQ 
+S5 C3 C8 CT 
+DT CK D2 C7 
+S6 ST S3 SA 
+S8 S2 S7 C9 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "1"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K73.AT94.J82.854 AQ4.KQ.Q95.QT976 J865.863.KT763.J T92.J752.A4.AK32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3536235362a897b8897b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  3
+N  D  6
+N  C  2
+S NT  3
+S  S  5
+S  H  3
+S  D  6
+S  C  2
+E NT 10
+E  S  8
+E  H  9
+E  D  7
+E  C 11
+W NT  8
+W  S  8
+W  H  9
+W  D  7
+W  C 11
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,133,630,57,71,40,35,38,81,62,178,36,15,960,262,108,54,36,123,22,25,24,15,27,16,53,163,249,66,33,20,76,24,12,87,32,13,79,35,22,25,61,17,20,12,231,17,21,11,37,19,50,71,17,14,22,10,10,11,16,12,12,12,13,6,10
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3S =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * 4♡ GF [0:11]"]
+[Play "S"]
+D3 D4 DJ DQ 
+CJ CA C5 C6 
+H6 H2 H4 HK 
+H3 CK C4 C7 
+H8 H5 HA HQ 
+D6 DA D8 D5 
+S5 HJ HT S4 
+S6 C2 C8 CQ 
+S8 C3 S3 CT 
+SJ H7 D2 C9 
+D7 S2 S7 SA 
+DT S9 H9 D9 
+DK ST SK SQ 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "2"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQJ5.73.JT54.862 9742.Q42.A63.K94 6.KJ9865.Q72.J73 AT83.AT.K98.AQT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "44553445539988999889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  5
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H  8
+E  D  8
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,1,77,227,135,103,97,35,122,25,26,121,77,27,245,85,7,25,147,26,7,19,16,23,14,155,36,24,130,18,10,17,231,18,17,17,92,16,163,34,20,26,15,19,8,8,28,11,8,9
+[Auction "E"]
+Pass 2D =1= 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: Weak 2M 4-8"]
+[Play "N"]
+H7 H2 HJ HA 
+C6 C4 C7 CA 
+S5 S2 S6 SA 
+SJ S4 H5 S3 
+SQ S7 H6 S8 
+SK S9 H8 ST 
+H3 H4 HK HT 
+C2 HQ H9 D8 
+C8 CK C3 C5 
+D4 C9 CJ CQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "2"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQJ5.73.JT54.862 9742.Q42.A63.K94 6.KJ9865.Q72.J73 AT83.AT.K98.AQT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "44553445539988999889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  5
+N  C  3
+S NT  4
+S  S  4
+S  H  5
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H  8
+E  D  8
+E  C  9
+W NT  9
+W  S  9
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,0,3,84,146,156,119,37,135,530,40,158,63,107,300,46,23,49,1426,42,33,35,43,10,20,691,36,17,31,40,20,23,20,322,37,18,12,27,43,33,14,16,76,71,24,128,46,25,7,11,53,24,9,368,30,17,29,8,11,6,24,29,16,9,6
+[Auction "E"]
+Pass Pass 1C =1= Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Note "1: can be 2 if 15+ bal"]
+[Play "S"]
+S6 S3 SQ S2 
+DQ DK D4 D3 
+H8 SA S5 S4 
+C3 CA C2 C4 
+C7 C5 C6 CK 
+D2 D8 D5 DA 
+CJ CQ C8 C9 
+H5 CT SJ D6 
+H6 ST SK S7 
+D7 D9 DJ S9 
+HK HA H7 HQ 
+HJ HT H3 H2 
+H9 S8 DT H4 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "3"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K96.762.J98764.A T5.AKQT9.A.T6532 QJ8432.54.32.QJ9 A7.J83.KQT5.K874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "382523825295b8b95b8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  8
+S  H  2
+S  D  5
+S  C  2
+E NT  9
+E  S  5
+E  H 11
+E  D  8
+E  C 11
+W NT  9
+W  S  5
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 20,2,1,348,88,486,300,41,327,472,97,51,97,54,123,321,25,16,30,34,11,10,26,27,283,41,246,22,30,9,31,27,35,10,15,23,24,10
+[Auction "S"]
+2D =1= Pass Pass 2H 
+Pass 4H 4S 5C 
+Pass Pass Pass 
+[Note "1: weak 2M c4-8 5+M"]
+[Play "S"]
+SJ SA S6 S5 
+D2 D5 D4 DA 
+C9 CK CA C3 
+S2 S7 SK ST 
+H5 H3 H2 HA 
+CJ C4 D9 C2 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "3"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:K96.762.J98764.A T5.AKQT9.A.T6532 QJ8432.54.32.QJ9 A7.J83.KQT5.K874"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "382523825295b8b95b8b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  2
+N  D  5
+N  C  2
+S NT  3
+S  S  8
+S  H  2
+S  D  5
+S  C  2
+E NT  9
+E  S  5
+E  H 11
+E  D  8
+E  C 11
+W NT  9
+W  S  5
+W  H 11
+W  D  8
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,157,124,114,93,149,35,67,52,36,916,47,353,31,18,69,49,122,22,14,42,88,25,14,161,39,9,21,61,22,13,12,45,25,9,10,17,60,11,19,45,15,29,23,11,42,13,22,12,20,11,17
+[Auction "S"]
+Pass 1NT =1= Pass 2D =2= 
+Pass 2H Pass 3C 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Hs"]
+[Play "N"]
+CA C2 C9 C4 
+S6 S5 SJ SA 
+H2 HA H5 H3 
+H6 HK H4 H8 
+D4 DA D3 D5 
+H7 H9 S2 HJ 
+D6 ST D2 DK 
+D7 C3 CJ CK 
+D8 C5 CQ C7 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "4"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K96.AJ732.75.A42 AJ532.5.K862.T65 874.KQ98.AT.KQ87 QT.T64.QJ943.J93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "a6b5aa6a5a3728337283"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D  5
+N  C 10
+S NT 10
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  8
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  8
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 14,0,3,202,159,35,102,36,39,24,76,134,34,33,49,32,18,23,29,34,15,11,23,38,22,50,21,43,16,396,38,31,16,44,41,23,12,14
+[Auction "W"]
+Pass 1NT =1= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12 14"]
+[Play "E"]
+S3 S7 SQ SK 
+H5 HK H4 H2 
+D2 HQ H6 H3 
+C5 H9 HT HA 
+D6 H8 D9 HJ 
+C6 S4 D3 H7 
+CT C7 C3 CA 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "4"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K96.AJ732.75.A42 AJ532.5.K862.T65 874.KQ98.AT.KQ87 QT.T64.QJ943.J93"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW 0"]
+[DoubleDummyTricks "a6b5aa6a5a3728337283"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D  5
+N  C 10
+S NT 10
+S  S  6
+S  H 10
+S  D  5
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  8
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  8
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA -44,2,1
+[Auction "W"]
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "5"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A954.5.T864.KQ98 T3.QJ83.AQ953.T4 KJ7.AKT9.KJ.A652 Q862.7642.72.J73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bb99cbb99c2224122241"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  9
+N  D  9
+N  C 12
+S NT 11
+S  S 11
+S  H  9
+S  D  9
+S  C 12
+E NT  2
+E  S  2
+E  H  2
+E  D  4
+E  C  1
+W NT  2
+W  S  2
+W  H  2
+W  D  4
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,0,3,72,25,58,34,53,41,57,88,130,26,185,138,38,33,112,40,16,8,95,13,22,18,42,16,21,19,42,498,42,27,57,19,18,10,112,37,65,8,25,10,14,6,35,18,18,7,28,15,21,9,28,24,39,16,18,23
+[Auction "N"]
+Pass Pass 1H Pass 
+1S Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S2 S4 ST SJ 
+C3 C8 C4 CA 
+C7 CQ CT C6 
+CJ CK D5 C2 
+D2 C9 H3 C5 
+D7 D4 D3 DJ 
+H4 H5 H8 HA 
+H2 D6 HJ HK 
+S6 S5 S3 SK 
+S8 SA D9 S7 
+SQ S9 DQ DK 
+H7 D8 -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "5"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A954.5.T864.KQ98 T3.QJ83.AQ953.T4 KJ7.AKT9.KJ.A652 Q862.7642.72.J73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bb99cbb99c2224122241"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  9
+N  D  9
+N  C 12
+S NT 11
+S  S 11
+S  H  9
+S  D  9
+S  C 12
+E NT  2
+E  S  2
+E  H  2
+E  D  4
+E  C  1
+W NT  2
+W  S  2
+W  H  2
+W  D  4
+W  C  1
+[OptimumScore "NS +1370"]
+[Competition "Teams"]
+% RBDATA 14,2,1,708,41,186,26,221,52,231,35,258,71,90,19,168,27,30,557,22,76,258,22,14,9,20,21,19,11,353,36,14,13,36,10,16,111,60,28,14,38,317,22,19,33,45,216,18,42,55,22,32,45,97,71,13,10,29,9,33,11,20,9
+[Auction "N"]
+Pass Pass 2NT =1= Pass 
+3C =2= Pass 3D =3= Pass 
+3H =4= Pass 3NT =5= Pass 
+Pass Pass 
+[Note "1: 19+ - 21"]
+[Note "2: puppet"]
+[Note "3: shows 4M[s]"]
+[Note "4: ♠"]
+[Note "5:  * not 4S [0:23]"]
+[Play "W"]
+S2 S4 S3 S7 
+C3 CK C4 C5 
+D2 D4 D3 DJ 
+C7 C8 CT CA 
+CJ CQ H8 C2 
+D7 C9 D5 C6 
+H7 D6 DA DK 
+S6 S5 ST SK 
+S8 S9 D9 SJ 
+H2 H5 HQ HA 
+H4 D8 H3 HK 
+H6 -  -  HT 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "6"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:654.AK9.KJ4.QJ98 AJ83.QJT.AQ85.75 9.8654.7632.KT62 KQT72.732.T9.A43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "43647436479a7869a786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  6
+N  D  4
+N  C  7
+S NT  4
+S  S  3
+S  H  6
+S  D  4
+S  C  7
+E NT  9
+E  S 10
+E  H  7
+E  D  8
+E  C  6
+W NT  9
+W  S 10
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,156,54,77,56,267,61,759,62,30,34,23,45,22,45,144,833,47,20,40,54,11,26,276,39,20,17,197,112,15,13,476,37,6,24,8,24,14,28,41,22,146,22,20,42,8,41,65,23,15,8,52,31,7,19
+[Auction "E"]
+1NT =1= Pass 2H =2= Pass 
+3C =3= Pass 3H =4= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: tfr"]
+[Note "3: dblton C, 4S near Max"]
+[Note "4: retransfer"]
+[Play "S"]
+S9 S2 S4 SA 
+D2 SK S5 S3 
+D3 D9 D4 DQ 
+H4 ST S6 S8 
+C2 CA C9 C5 
+C6 C3 CJ C7 
+CK C4 CQ SJ 
+H5 H2 HA HQ 
+D6 DT DK DA 
+H6 H3 HK HJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "6"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:654.AK9.KJ4.QJ98 AJ83.QJT.AQ85.75 9.8654.7632.KT62 KQT72.732.T9.A43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "43647436479a7869a786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  6
+N  D  4
+N  C  7
+S NT  4
+S  S  3
+S  H  6
+S  D  4
+S  C  7
+E NT  9
+E  S 10
+E  H  7
+E  D  8
+E  C  6
+W NT  9
+W  S 10
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,183,31,42,32,33,45,47,21,25,49,391,34,32,51,185,22,27,19,104,27,11,240,41,53,53,15,10,21,11,47,81,27,13,27,11,25,15,15
+[Auction "E"]
+1NT Pass 2H =1= Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "S"]
+D3 D9 DK DA 
+S9 SK S6 S3 
+C2 S2 S5 SJ 
+H4 S7 S4 SA 
+H5 H2 HK HT 
+C6 CA CQ C7 
+H6 H3 HA HJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "7"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K43.A2.KQJ65.Q76 A8.QJT865..AKJ52 QT52.K43.742.T94 J976.97.AT983.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56274552627796977969"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  2
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  2
+S  D  6
+S  C  2
+E NT  7
+E  S  7
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,58,48,91,293,180,471,53,59,58,759,36,21,28,45,204,38,11,39,26,10,21,18,20,22,9,23,19,18,10,75,21,21,37,243,21,42,17,10,64,10,13,20,18,22,10,17,33,11,33,21
+[Auction "S"]
+Pass Pass 1D 2NT =1= 
+Pass 3C Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: H&C"]
+[Play "S"]
+D2 DA D6 S8 
+C4 C3 C6 CA 
+C9 C8 C7 CK 
+CT H7 CQ C2 
+HK H9 H2 HQ 
+D4 D3 D5 H5 
+H4 S6 HA H6 
+D7 D8 DK H8 
+H3 S7 DQ HJ 
+-  -  -  HT 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "7"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K43.A2.KQJ65.Q76 A8.QJT865..AKJ52 QT52.K43.742.T94 J976.97.AT983.83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56274552627796977969"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  2
+N  D  7
+N  C  4
+S NT  5
+S  S  5
+S  H  2
+S  D  6
+S  C  2
+E NT  7
+E  S  7
+E  H  9
+E  D  6
+E  C  9
+W NT  7
+W  S  7
+W  H  9
+W  D  6
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,53,80,127,635,64,315,69,34,41,26,28,141,64,77,10,13,29,9,42,6,22,10,8,8,18,7,14,58,39,35,60,67,17,27,9,14,29,5,65
+[Auction "S"]
+Pass Pass 1NT =1= 3D =2= 
+Pass 3H =3= Pass 4H 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: h or both black suits"]
+[Note "3: Pass or correct"]
+[Play "N"]
+DK S8 D7 DA 
+C7 CA CT C3 
+C6 CK C4 C8 
+CQ C2 C9 H7 
+H2 H5 HK H9 
+S4 SA S2 S6 
+HA HQ H3 D3 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "8"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKJ6.AT53..AKQ63 9.K987.AKJ.JT987 Q732.QJ42.Q654.4 T854.6.T98732.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "aab6aaab6a3326333263"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 11
+N  D  6
+N  C 10
+S NT 10
+S  S 10
+S  H 11
+S  D  6
+S  C 10
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  3
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,3,100,471,68,109,65,45,51,193,39,238,43,44,405,22,28,32,36,91,125,70,33,18,147,189,38,48,19,79,16,23,18,46,17,24,9,28,56,26,16,68,31,37,8,37,9,15,20,155,8,24,15,28,21,16,9,14
+[Auction "W"]
+Pass 2C =1= Pass 2D 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: Gf or 23+bal"]
+[Play "W"]
+DT H3 DA D4 
+D7 H5 DK D5 
+D3 C3 DJ DQ 
+S5 SK S9 S2 
+S4 SA H9 S3 
+S8 SJ H7 S7 
+ST S6 C7 SQ 
+C5 CK C8 C4 
+C2 CA C9 D6 
+D2 CQ CT H2 
+H6 HA H8 H4 
+-  HT -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "8"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKJ6.AT53..AKQ63 9.K987.AKJ.JT987 Q732.QJ42.Q654.4 T854.6.T98732.52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "aab6aaab6a3326333263"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H 11
+N  D  6
+N  C 10
+S NT 10
+S  S 10
+S  H 11
+S  D  6
+S  C 10
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  3
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 28,2,1,46,108,304,192,31,1067,110,284,40,144,72,39,25,37,229,38,34,132,13,14,12,152,16,28,10,675,26,30,19,1121,38,136,33,32,37,12,29,608,26,48,16,20,33,35,16,80
+[Auction "W"]
+Pass 1C =1= 1H X =2= 
+Pass 4D =3= Pass 4S 
+Pass 6S Pass Pass 
+Pass 
+[Note "1:  * 2+ [0:05]"]
+[Note "2: 4+S"]
+[Note "3: void"]
+[Play "W"]
+H6 HA H7 H2 
+C2 CA C7 C4 
+C5 C3 CT S2 
+S4 SJ S9 S3 
+D2 C6 CJ SQ 
+S8 SA DJ S7 
+D3 H3 HK HJ 
+S5 CQ C9 D4 
+ST -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "9"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT95.A87.AJT.QJ3 Q864.J65.95.KT96 AK2.KQ4.KQ7.A752 73.T932.86432.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "cbabbcbabb1222212222"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 11
+N  C 11
+S NT 12
+S  S 11
+S  H 10
+S  D 11
+S  C 11
+E NT  1
+E  S  2
+E  H  2
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  2
+W  D  2
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 29,0,3,439,34,210,39,51,33,689,507,37,61,115,41,18,34,58,61,18,23,266,40,14,23,60,23,21,10,88,24,85,27,16,23,15,32,48,26,13,10,35,49,18,23,18,15,17,16,30,17,11,8,13,9,23,12,9,15,10,7
+[Auction "N"]
+1NT =1= Pass 6NT Pass 
+Pass Pass 
+[Note "1: 12 14"]
+[Play "E"]
+S4 S2 S7 S9 
+D5 DK D2 DT 
+CK C2 C4 CQ 
+S6 SK S3 S5 
+S8 SA D3 SJ 
+D9 DQ D4 DJ 
+H5 D7 D6 DA 
+H6 HK H3 H8 
+HJ HQ H2 H7 
+C6 H4 H9 HA 
+C9 C5 C8 CJ 
+CT CA D8 C3 
+SQ C7 HT ST 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "9"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT95.A87.AJT.QJ3 Q864.J65.95.KT96 AK2.KQ4.KQ7.A752 73.T932.86432.84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "cbabbcbabb1222212222"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 10
+N  D 11
+N  C 11
+S NT 12
+S  S 11
+S  H 10
+S  D 11
+S  C 11
+E NT  1
+E  S  2
+E  H  2
+E  D  2
+E  C  2
+W NT  1
+W  S  2
+W  H  2
+W  D  2
+W  C  2
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 29,2,1,132,37,415,29,207,43,138,48,179,25,378,36,77,30,313,573,23,19,192,26,14,41,41,136,9,18,39,19,18,18,554,23,18,20,71,21,18,10,74,18,18,15,19,29,26,11,25,33,14,7,139,22,14,27,342,16,26,13,10,61,13,5,5,9,9,12
+[Auction "N"]
+1C =1= Pass 2D =2= Pass 
+2S =3= Pass 2NT =4= Pass 
+3NT Pass 6NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: 15+ bal usually no 4M"]
+[Note "3: bal 11-13 / 17-18"]
+[Note "4: Baron"]
+[Play "W"]
+HT H7 H5 HK 
+C8 CQ CK C2 
+H2 H8 HJ HQ 
+S3 S5 S6 SA 
+C4 CJ C6 C5 
+D4 C3 C9 CA 
+D2 DJ D5 D7 
+S7 SJ S4 S2 
+D3 S9 S8 SK 
+H3 HA H6 H4 
+D6 DA D9 DQ 
+D8 DT SQ DK 
+H9 ST CT C7 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "10"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q.Q9872.53.QJ432 A87.A.AKJ8.KT985 KJ95.KT653.42.A7 T6432.J4.QT976.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6483664836794a7794a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  8
+N  D  3
+N  C  6
+S NT  6
+S  S  4
+S  H  8
+S  D  3
+S  C  6
+E NT  7
+E  S  9
+E  H  4
+E  D 10
+E  C  7
+W NT  7
+W  S  9
+W  H  4
+W  D 10
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,211,113,35,195,100,47,50,63,35,32,54,160,42,10,339,85,92,40,175,43,28,13,19,35,9,36,305,27,9,44,16,37,20,28,57,15
+[Auction "E"]
+1C =1= 1H Pass 4H 
+X Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+H7 HA H3 H4 
+SQ S7 S9 ST 
+H2 S8 H5 HJ 
+H8 SA S5 S2 
+D5 DJ D2 DQ 
+CJ CK CA C6 
+-  -  SK S3 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "10"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q.Q9872.53.QJ432 A87.A.AKJ8.KT985 KJ95.KT653.42.A7 T6432.J4.QT976.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6483664836794a7794a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  8
+N  D  3
+N  C  6
+S NT  6
+S  S  4
+S  H  8
+S  D  3
+S  C  6
+E NT  7
+E  S  9
+E  H  4
+E  D 10
+E  C  7
+W NT  7
+W  S  9
+W  H  4
+W  D 10
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 21,2,1,141,117,84,90,95,63,214,43,45,56,44,78,40,11,39,50,8,20,8,27,126,25,42,9,81,6,22,62,32,7,93,34,30,8,15,20,12,27,7
+[Auction "E"]
+1C 2C =1= Pass 4H 
+X Pass 5D Pass 
+Pass Pass 
+[Note "1: 54MM"]
+[Play "N"]
+SQ SA S5 S2 
+D3 D8 D4 D9 
+C3 CK CA C6 
+H7 S7 SK S3 
+H2 S8 SJ S4 
+C2 C5 C7 D6 
+H8 HA H5 H4 
+-  C8 -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "11"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T83.AT7.KT96.532 J72.KQ62.Q3.AK97 Q4.9854.J854.T84 AK965.J3.A72.QJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "1124111241bba9bccb9c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  2
+S  D  4
+S  C  1
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C 11
+W NT 12
+W  S 12
+W  H 11
+W  D  9
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 18,2,1,162,103,44,155,40,35,28,80,41,13,23,106,157,36,10,25,24,9,15,75,20,7,11,33,19,7,132,11,23,15,24
+[Auction "S"]
+Pass 1NT Pass 2C =1= 
+Pass 2S =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: puppet"]
+[Note "2:  * 5 [0:05]"]
+[Play "N"]
+C2 C7 C8 CQ 
+S3 S2 S4 SA 
+S8 S7 SQ SK 
+ST SJ D8 S5 
+HA H2 H4 HJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "11"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T83.AT7.KT96.532 J72.KQ62.Q3.AK97 Q4.9854.J854.T84 AK965.J3.A72.QJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "1124111241bba9bccb9c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  4
+N  C  1
+S NT  1
+S  S  1
+S  H  2
+S  D  4
+S  C  1
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C 11
+W NT 12
+W  S 12
+W  H 11
+W  D  9
+W  C 12
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 18,0,3,63,177,77,154,49,43,92,39,72,141,78,215,250,83,64,244,40,19,24,19,76,15,34,62,63,13,20
+[Auction "S"]
+Pass 1S Pass 1NT =1= 
+Pass 2C =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: forcing"]
+[Note "2:  * may be les than 4 [0:17]"]
+[Play "N"]
+S3 S2 SQ SK 
+S8 SJ S4 S5 
+ST S7 D4 SA 
+HA H2 H4 HJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "12"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A98.J6.86543.KT5 543.Q753.972.943 KJT76.AK42.J.QJ8 Q2.T98.AKQT.A762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8a8778a8775255552555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  2
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  2
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 8,2,1,84,32,96,116,22,203,33,75,26,59,24,21,131,10,20,11,73,71,13,124,17,12,19,15,16,13,9,21,11,12,16,130,23,13,13,33,10,49,22,31,9,13,7,266,20,12,25,25,22,8,16,17,13
+[Auction "W"]
+1NT Pass Pass 2C =1= 
+Pass 2D =2= Pass 2S 
+Pass Pass Pass 
+[Note "1: MM"]
+[Note "2: relay"]
+[Play "W"]
+DA D3 D9 DJ 
+C2 CK C9 C8 
+H9 H6 H5 HA 
+HT HJ H3 HK 
+H8 S8 H7 H2 
+DQ D4 D7 S6 
+DK S9 HQ H4 
+S2 SA S3 S7 
+CA C5 C4 CQ 
+C6 CT C3 CJ 
+SQ -  -  SK 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "12"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:A98.J6.86543.KT5 543.Q753.972.943 KJT76.AK42.J.QJ8 Q2.T98.AKQT.A762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8a8778a8775255552555"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  7
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  7
+E NT  5
+E  S  2
+E  H  5
+E  D  5
+E  C  5
+W NT  5
+W  S  2
+W  H  5
+W  D  5
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,374,92,65,80,410,56,54,282,88,332,45,34,18,17,123,12,15,727,63,46,64,67,34,66,9,26,17,29,8,31,27,51,23,249,21,26,79,54,146,119,10,44,19,30,28,223,17,27,51,241,37,6,20,158,23,16,5
+[Auction "W"]
+1C =1= Pass Pass X 
+Pass 1NT Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: can be 2"]
+[Play "W"]
+DA D3 D2 DJ 
+C2 C5 C9 CQ 
+H8 H6 H3 HA 
+H9 HJ H5 HK 
+HT S8 H7 H4 
+DT D4 D7 S6 
+C6 S9 HQ H2 
+S2 SA S3 S7 
+CA CT C3 C8 
+DK D5 D9 ST 
+SQ D6 S4 SK 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "13"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q.AJ85.AJT7.AQ83 T9853.KT93.Q98.K AJ764.Q2.52.JT92 K2.764.K643.7654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a99aba99ab3433234332"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D 10
+N  C 11
+S NT 10
+S  S  9
+S  H  9
+S  D 10
+S  C 11
+E NT  3
+E  S  4
+E  H  3
+E  D  3
+E  C  2
+W NT  3
+W  S  4
+W  H  3
+W  D  3
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,235,90,223,30,73,65,117,33,203,90,318,21,96,26,173,84,31,184,395,25,21,27,115,23,294,30,270,24,22,11,217,23,22,5,10,14,10,12,612,78,22,6,67,8,175,16,18,6,46,11
+[Auction "N"]
+1D Pass 1S Pass 
+1NT =1= Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: ♣"]
+[Play "E"]
+H3 HQ H4 H5 
+DQ D2 D3 DJ 
+ST S4 S2 SQ 
+CK C2 C4 CA 
+S5 C9 C5 C3 
+D8 D5 D4 DT 
+H9 CT C6 C8 
+S3 SA SK D7 
+S9 SJ H6 H8 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "13"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q.AJ85.AJT7.AQ83 T9853.KT93.Q98.K AJ764.Q2.52.JT92 K2.764.K643.7654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a99aba99ab3433234332"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D 10
+N  C 11
+S NT 10
+S  S  9
+S  H  9
+S  D 10
+S  C 11
+E NT  3
+E  S  4
+E  H  3
+E  D  3
+E  C  2
+W NT  3
+W  S  4
+W  H  3
+W  D  3
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,227,58,52,53,195,44,216,82,51,28,228,21,106,228,173,29,142,47,24,23,84,31,24,19,493,51,10,32,37,75,11,8,1015,46,11,30,141,24,12,8,239,846,45,8,42,84,12,16,27,132,35,8,30,17,24,8,23,43,10,7,13,13,12,9
+[Auction "N"]
+1H Pass 1S Pass 
+3C Pass 3D =1= Pass 
+3NT Pass Pass Pass 
+[Note "1:  * fourth suit [0:31]"]
+[Play "E"]
+ST S4 S2 SQ 
+H3 HQ H4 H5 
+CK CJ C5 C3 
+D8 D2 DK DA 
+DQ D5 D3 DJ 
+D9 S6 D4 DT 
+H9 H2 H6 HA 
+S3 C2 C4 CA 
+HT C9 C6 CQ 
+HK CT C7 C8 
+S5 SA SK D7 
+S8 SJ D6 H8 
+S9 S7 H7 HJ 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "14"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J4.876.T87.98765 A.QT43.5432.QT42 T96.J2.AKQ96.AJ3 KQ87532.AK95.J.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "22176221767bb557bb55"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  7
+N  C  6
+S NT  2
+S  S  2
+S  H  1
+S  D  7
+S  C  6
+E NT  7
+E  S 11
+E  H 11
+E  D  5
+E  C  5
+W NT  7
+W  S 11
+W  H 11
+W  D  5
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,83,114,105,40,59,47,23,51,710,32,227,20,32,10,172,21,10,8,16,22,5,28,10,40,7,20,8,22,6,13,7,38,18,11
+[Auction "E"]
+Pass 1NT =1= 4S Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Play "N"]
+C5 C2 CA CK 
+D8 D2 DK DJ 
+D7 D3 DA S2 
+S4 SA S6 S3 
+C6 C4 C3 S7 
+SJ D4 S9 SK 
+H8 D5 ST SQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "14"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J4.876.T87.98765 A.QT43.5432.QT42 T96.J2.AKQ96.AJ3 KQ87532.AK95.J.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "22176221767bb557bb55"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  1
+N  D  7
+N  C  6
+S NT  2
+S  S  2
+S  H  1
+S  D  7
+S  C  6
+E NT  7
+E  S 11
+E  H 11
+E  D  5
+E  C  5
+W NT  7
+W  S 11
+W  H 11
+W  D  5
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,100,52,440,110,49,54,52,77,39,27,63,67,30,12,33,33,9,29,70,109,23,24,77,28,15,25,66,34,62,43,70,37,13,46,45,100,17,24,13,28,10,23,20,15,19,26
+[Auction "E"]
+Pass 1D 4S Pass 
+Pass Pass 
+[Play "N"]
+D7 D2 DQ DJ 
+D8 D3 DK S5 
+S4 SA S6 S2 
+C5 C2 C3 CK 
+SJ C4 S9 SK 
+C6 CT ST SQ 
+C7 D4 D6 S8 
+C8 D5 D9 S7 
+H6 H3 H2 HA 
+H7 H4 HJ HK 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "15"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K4.9865.K5.AJ543 Q932.Q42.AT93.72 J76.K7.7642.KT98 AT85.AJT3.QJ8.Q6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "43438434388a9958a995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  3
+N  C  8
+S NT  4
+S  S  3
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S 10
+E  H  9
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 8,2,1,101,62,61,150,38,55,34,40,38,19,30,195,57,104,57,40,19,16,21,6,12,13,19,19,14,12,15,11,10,24,26,9,14,3,109,8,18,6,27,27,11
+[Auction "S"]
+Pass 1NT Pass 2C =1= 
+Pass 2D =2= Pass 2H =3= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: puppet"]
+[Note "2: no 5M"]
+[Note "3:  * 4sp inv [0:21]"]
+[Play "N"]
+H6 HQ HK HA 
+S4 S2 S6 SA 
+SK S3 S7 S5 
+H9 H2 H7 HJ 
+C3 SQ SJ S8 
+H5 H4 C8 HT 
+DK DA D2 DQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "15"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K4.9865.K5.AJ543 Q932.Q42.AT93.72 J76.K7.7642.KT98 AT85.AJT3.QJ8.Q6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "43438434388a9958a995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  4
+N  D  3
+N  C  8
+S NT  4
+S  S  3
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S 10
+E  H  9
+E  D  9
+E  C  5
+W NT  8
+W  S 10
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 4,0,3,87,296,80,98,48,45,129,28,28,42,68,44,14,14,150,32,308,50,47,39,191,61,307,24,27,16,126,58,21,705,63,23,15,16,40
+[Auction "S"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12 14"]
+[Play "N"]
+C4 C2 CK C6 
+CA C7 CT CQ 
+CJ S2 C8 S5 
+C5 H2 C9 H3 
+SK S3 S6 S8 
+C3 H4 S7 HT 
+S4 S9 SJ SA 
+DK -  -  DQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "16"]
+[West "Daniel McIntosh#47140"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Andrew Southwell#75845"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:.KQT9532.AKT5.T6 K986.6.QJ9763.Q3 QT432.AJ7.82.K95 AJ75.84.4.AJ8742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "74a4494b444828849289"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  4
+N  C  4
+S NT  9
+S  S  4
+S  H 11
+S  D  4
+S  C  4
+E NT  4
+E  S  8
+E  H  2
+E  D  8
+E  C  8
+W NT  4
+W  S  9
+W  H  2
+W  D  8
+W  C  9
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,79,244,170,987,43,837,40,118,19,63,21,307,45,227,19,48,20,22,9,339,19,11,16,34,34,19,30,24,31,20,9,15,18,7,13,11,16,8,12,16,174,27,15,10,27,9,51,24,74,45,10,11,19,11,59,37,5,12,5,9,19,8,13
+[Auction "W"]
+1C =1= 1D =2= 1H =3= 2D =4= 
+2S 4H 4S X 
+Pass Pass Pass 
+[Note "1: 3+"]
+[Note "2: ♡"]
+[Note "3: sp"]
+[Note "4: Good 3xH raise"]
+[Play "N"]
+HQ H6 H7 H4 
+DK D3 D2 D4 
+DA D6 D8 S5 
+H3 SK S3 S7 
+C6 CQ CK CA 
+CT C3 C5 CJ 
+H2 S6 C9 C2 
+D5 DQ S2 SJ 
+H9 S8 HJ H8 
+DT DJ S4 SA 
+H5 D7 ST C4 
+HT S9 SQ C7 
+HK D9 HA C8 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "16"]
+[West "Peter Lee#52156"]
+[North "Robert Plumley#33074"]
+[East "David Norman#26282"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:.KQT9532.AKT5.T6 K986.6.QJ9763.Q3 QT432.AJ7.82.K95 AJ75.84.4.AJ8742"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "74a4494b444828849289"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  4
+N  C  4
+S NT  9
+S  S  4
+S  H 11
+S  D  4
+S  C  4
+E NT  4
+E  S  8
+E  H  2
+E  D  8
+E  C  8
+W NT  4
+W  S  9
+W  H  2
+W  D  8
+W  C  9
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,160,106,491,92,288,46,23,110,40,42,26,81,206,23,12,276,279,34,32,871,54,36,35,1429,47,18,24,22,24,14,32,269,27,36,38,182,32,21,22,223,454,57,33,26,36,36,47,76,30,272,35,118,18,9,21,9,13,10,25,28,20,11,9
+[Auction "W"]
+1C =1= 4H X =2= Pass 
+4S Pass Pass X 
+Pass Pass Pass 
+[Note "1: can be 2"]
+[Note "2: values"]
+[Play "N"]
+DA D3 D8 D4 
+CT CQ CK CA 
+HT SK S2 S5 
+H2 S9 ST SJ 
+C6 C3 C5 CJ 
+H3 S8 C9 C8 
+H5 H6 HA H4 
+DK D6 D2 H8 
+HK S6 H7 C2 
+D5 DQ S3 S7 
+DT D7 S4 SA 
+H9 D9 SQ C7 
+HQ DJ HJ C4 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "17"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK.4.AKJ763.A864 Q4.QJ97.854.Q532 T9875.T852.Q92.J J632.AK63.T.KT97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "976b5976b54662746627"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 11
+N  C  5
+S NT  9
+S  S  7
+S  H  6
+S  D 11
+S  C  5
+E NT  4
+E  S  6
+E  H  6
+E  D  2
+E  C  7
+W NT  4
+W  S  6
+W  H  6
+W  D  2
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 11,4,7,182,92,378,62,88,158,314,32,88,37,102,8,176,40,15,16,14,26,6,7,5,18,6,6,7,22,6,28,6,35,6,6,6,19,6,24,9,21,5,32,7,25,6,113,6,25,6,26,9,14,13,17,8,53,17,82,8,10,5,7
+[Auction "N"]
+1D Pass Pass X 
+3D Pass Pass Pass 
+[Play "E"]
+HQ H2 H6 H4 
+D4 D2 DT DJ 
+C2 CJ C7 CA 
+C3 D9 C9 C4 
+S4 S5 S3 SK 
+C5 DQ CT C6 
+SQ S7 S2 SA 
+D5 H5 H3 DA 
+D8 S8 S6 DK 
+H9 S9 HK D7 
+H7 H8 HA D6 
+HJ ST SJ D3 
+CQ HT CK C8 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "17"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AK.4.AKJ763.A864 Q4.QJ97.854.Q532 T9875.T852.Q92.J J632.AK63.T.KT97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "976b5976b54662746627"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  6
+N  D 11
+N  C  5
+S NT  9
+S  S  7
+S  H  6
+S  D 11
+S  C  5
+E NT  4
+E  S  6
+E  H  6
+E  D  2
+E  C  7
+W NT  4
+W  S  6
+W  H  6
+W  D  2
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 18,6,5,762,66,327,113,242,52,372,79,114,47,88,55,28,154,39,12,317,1121,21,11,26,25,9,43,18,7,18,12,93,29,17,78,23,80,33,11,49,107,16,14,23,24,27,48,11,18,35,29,21
+[Auction "N"]
+2D =1= Pass 2H =2= Pass 
+3D =3= Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: w/2 in H or various strong"]
+[Note "2: to play opp wk 2h"]
+[Note "3: acol-2 ♢"]
+[Play "W"]
+HA H4 H7 H2 
+DT DA D4 D2 
+S2 SA S4 S5 
+S3 SK SQ S7 
+S6 D3 D5 DQ 
+HK C4 H9 H5 
+H3 D6 HJ H8 
+H6 C6 HQ HT 
+SJ D7 D8 D9 
+CT -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "18"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.J62.7632.AJ98 K9652.943.AKJT8. J874.AKQ7.Q5.T52 Q3.T85.94.KQ7643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "76867757576757567575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,4,7,113,147,69,54,60,276,118,35,53,38,227,297,13,14,69,26,8,16,86,25,5,18,89,41,19,32,83,24,10,6,18,13,12,3,24,43,35,14,29,45,30,7,22,13,11,10,177,16,17,40,120,41,6,20,7,42,22,9,17,9,3,10
+[Auction "E"]
+1S Pass 1NT Pass 
+2D X 2S Pass 
+Pass Pass 
+[Play "S"]
+HK H5 H2 H3 
+HQ H8 H6 H4 
+HA HT HJ H9 
+C5 CQ CA S2 
+D5 D4 D2 DA 
+DQ D9 D3 DK 
+C2 C3 D6 D8 
+S4 SQ D7 DJ 
+CT CK C8 DT 
+S7 C4 C9 S5 
+H7 C6 SA S6 
+SJ C7 CJ S9 
+S8 S3 ST SK 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "18"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AT.J62.7632.AJ98 K9652.943.AKJT8. J874.AKQ7.Q5.T52 Q3.T85.94.KQ7643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "76867757576757567575"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  6
+N  C  7
+S NT  7
+S  S  5
+S  H  7
+S  D  5
+S  C  7
+E NT  6
+E  S  7
+E  H  5
+E  D  7
+E  C  5
+W NT  6
+W  S  7
+W  H  5
+W  D  7
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,6,5,132,72,455,111,39,91,72,25,35,230,17,66,9,12,64,13,19,9,17,10,16,8,867,74,39,104,227,18,25,33,105,403,51,15,11,93,21,15,29,226,19,10,35,207,73,28,21,416,25,19,20,27,9,14,197,26,12,21,11,17,8,8
+[Auction "E"]
+1S Pass 1NT =1= Pass 
+2D Pass 2S Pass 
+Pass Pass 
+[Note "1: 6-12"]
+[Play "S"]
+HA H5 H2 H4 
+HK H8 H6 H3 
+HQ HT HJ H9 
+D5 D9 D2 D8 
+DQ D4 D3 DA 
+S4 SQ D6 DT 
+C2 C3 CJ S2 
+S7 C4 D7 DJ 
+H7 C6 C8 S5 
+S8 C7 C9 DK 
+C5 CQ CA S6 
+SJ S3 ST S9 
+CT CK SA SK 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "19"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ972.8752.K5.JT KT853.JT9..AQ874 64.A4.T87432.K96 J.KQ63.AQJ96.532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "56564555648787987869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  6
+N  C  4
+S NT  5
+S  S  5
+S  H  5
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 3,6,5,98,162,55,90,163,443,75,607,50,13,26,26,19,22,34,164,23,8,16,9,15,15,13,22,15,10,180,24,18,9,85,15,16,32,15,19,11,7,9,16,17,9,15,12,8,9,29,12,16,8,34,17,7,5,43,15,9,9
+[Auction "S"]
+Pass 1D 1S Pass 
+Pass Pass 
+[Play "E"]
+HJ HA H3 H7 
+H9 H4 HQ H2 
+S3 S4 SJ SA 
+HT S6 H6 H5 
+C4 D2 DA D5 
+C7 D3 HK H8 
+S5 D4 D6 DK 
+CA C6 C5 CT 
+C8 CK C3 CJ 
+CQ C9 C2 S2 
+S8 D7 D9 S7 
+SK D8 DJ S9 
+ST DT DQ SQ 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "19"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AQ972.8752.K5.JT KT853.JT9..AQ874 64.A4.T87432.K96 J.KQ63.AQJ96.532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "56564555648787987869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  6
+N  C  4
+S NT  5
+S  S  5
+S  H  5
+S  D  6
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 20,4,7,102,84,37,96,176,252,27,587,88,17,17,62,789,14,23,8,44,252,24,4761,36,17,14,57,29,6,20,145,48,21,6,38,20,10,15
+[Auction "S"]
+Pass 1D 1S 2C 
+Pass 3C Pass 5C 
+Pass Pass Pass 
+[Play "S"]
+S6 SJ SA S3 
+CK C2 CT CQ 
+HA H3 H2 HJ 
+C6 C3 CJ CA 
+S4 C5 S2 S5 
+D2 D6 DK C4 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "20"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ2.84.98532.JT9 AKT5.AK973.AK.62 63.J62.QJT7.AKQ4 9874.QT5.64.8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "22275222759bb679bb67"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  7
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  7
+S  C  5
+E NT  9
+E  S 11
+E  H 11
+E  D  6
+E  C  7
+W NT  9
+W  S 11
+W  H 11
+W  D  6
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 2,6,5,106,26,35,64,94,305,125,61,14,18,291,14,10,26,156,28,8,20,13,31,10,6,17,22,16,15,32,35,12,12,14,22,8,7,14,17,9,12,31,38,9,9,17
+[Auction "W"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "S"]
+CA C3 CJ C2 
+CK C5 CT C6 
+C4 C7 C9 H3 
+H2 H5 H4 HA 
+H6 HQ H8 H7 
+HJ HT D2 HK 
+S6 S4 S2 SA 
+S3 S7 SJ SK 
+D7 S8 SQ S5 
+-  -  D9 -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "20"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:QJ2.84.98532.JT9 AKT5.AK973.AK.62 63.J62.QJT7.AKQ4 9874.QT5.64.8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "22275222759bb679bb67"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  7
+N  C  5
+S NT  2
+S  S  2
+S  H  2
+S  D  7
+S  C  5
+E NT  9
+E  S 11
+E  H 11
+E  D  6
+E  C  7
+W NT  9
+W  S 11
+W  H 11
+W  D  6
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 2,4,7,54,21,202,126,86,27,91,74,8,14,130,25,7,11,207,22,9,18,42,24,15,4,88,26,14,7,70,26,19,5,42,22,27,12,32,139,29,10,24,74
+[Auction "W"]
+Pass Pass 1H Pass 
+Pass Pass 
+[Play "S"]
+CA C3 CJ C2 
+CK C5 C9 C6 
+DQ D4 D2 DK 
+H2 H5 H4 HA 
+S6 S4 S2 SK 
+H6 HQ H8 H3 
+HJ HT D3 HK 
+S3 C7 CT H9 
+C4 -  -  SA 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "21"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:.K6.Q763.AJT8643 QJ742.QT75.J95.Q 953.AJ43.T82.K52 AKT86.982.AK4.97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "6468b6468b3864239652"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C 11
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C 11
+E NT  3
+E  S  8
+E  H  6
+E  D  4
+E  C  2
+W NT  3
+W  S  9
+W  H  6
+W  D  5
+W  C  2
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,4,7,114,108,195,493,59,63,225,34,29,32,44,98,586,17,19,448,88,122,21,247,30,44,6,328,29,26,6,213,18,14,12,69,8,22,41,8,36,25,15,100
+[Auction "N"]
+1C =1= 1S X 2C =2= 
+3C Pass Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: Good S raise to 2+"]
+[Play "S"]
+C2 C7 CA CQ 
+CK C9 CJ SJ 
+S3 S8 C6 SQ 
+S5 SK C4 S2 
+S9 SA C3 S4 
+H4 H9 HK H5 
+HJ H2 H6 HT 
+HA -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "21"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:.K6.Q763.AJT8643 QJ742.QT75.J95.Q 953.AJ43.T82.K52 AKT86.982.AK4.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "6468b6468b3864239652"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  8
+N  C 11
+S NT  6
+S  S  4
+S  H  6
+S  D  8
+S  C 11
+E NT  3
+E  S  8
+E  H  6
+E  D  4
+E  C  2
+W NT  3
+W  S  9
+W  H  6
+W  D  5
+W  C  2
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 20,6,5,128,83,61,109,237,41,255,117,42,41,117,70,692,31,21,172,29,32,9,714,55,22,20,75,47,12,10,902,30,14,33,26,9,19,39,32,22,25,39,19,22,24,26,34,154,41,12,10,19,12,13,26
+[Auction "N"]
+1C =1= 1S X 4S 
+4NT =2= Pass 5C X 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2: not natural"]
+[Play "E"]
+S2 S3 SK C3 
+CQ CK C7 C4 
+S4 S5 S6 CT 
+S7 C2 C9 CA 
+H5 H3 H2 HK 
+H7 HA H9 H6 
+D9 D2 D4 D7 
+SQ S9 S8 C6 
+D5 D8 DK D3 
+DJ DT DA D6 
+-  -  H8 -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "22"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT93.542.QJ72.K5 AQ.QT86.AK6.AQ73 J654.K.985.JT982 872.AJ973.T43.64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2514425134b8c99b8c99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  1
+N  D  4
+N  C  4
+S NT  2
+S  S  5
+S  H  1
+S  D  3
+S  C  4
+E NT 11
+E  S  8
+E  H 12
+E  D  9
+E  C  9
+W NT 11
+W  S  8
+W  H 12
+W  D  9
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 17,4,7,206,84,104,27,258,81,283,22,36,31,20,26,47,449,13,33,277,29,42,9,217,22,18,72,95,8,17,92,225,15,33,14,48,15,34,7,58,14,16,20,36,28,14,5,221,22,16,6,111
+[Auction "E"]
+2NT =1= Pass 3D =2= Pass 
+3NT =3= Pass 4D =4= Pass 
+4H Pass Pass Pass 
+[Note "1: 19-21"]
+[Note "2: Hs"]
+[Note "3: superaccept no singleton"]
+[Note "4: re-xfer"]
+[Play "S"]
+CJ C4 C5 CQ 
+HK HA H2 HQ 
+C2 H7 H4 H6 
+D5 H9 H5 H8 
+C8 C6 CK CA 
+C9 H3 S3 C3 
+D8 D3 D2 DA 
+D9 D4 D7 DK 
+CT DT DJ C7 
+S4 -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "22"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT93.542.QJ72.K5 AQ.QT86.AK6.AQ73 J654.K.985.JT982 872.AJ973.T43.64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2514425134b8c99b8c99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  1
+N  D  4
+N  C  4
+S NT  2
+S  S  5
+S  H  1
+S  D  3
+S  C  4
+E NT 11
+E  S  8
+E  H 12
+E  D  9
+E  C  9
+W NT 11
+W  S  8
+W  H 12
+W  D  9
+W  C  9
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 14,6,5,390,57,1442,98,95,42,420,61,162,41,121,39,32,299,32,28,14,39,28,9,43,45,26,80,15,124,16,24,18,84,26,49,48,32,12,97,83,37,20,24,73,32,12,98,156,46,75,26,13,38,9,7,10,35,13,58,16,27,8,8,15,21,12,8
+[Auction "E"]
+2C =1= Pass 2S =2= Pass 
+2NT Pass 3C =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: strong"]
+[Note "2: trf to 2N - often with heart suit"]
+[Note "3: game try + with 5H"]
+[Play "S"]
+CJ C4 CK CA 
+HK HA H2 HQ 
+D5 H3 H4 HT 
+D8 HJ H5 H8 
+S5 H9 S9 H6 
+C2 H7 C5 D6 
+S4 S2 S3 SQ 
+C8 C6 D7 C3 
+CT S7 D2 CQ 
+D9 D3 DJ DA 
+S6 D4 DQ DK 
+SJ S8 ST SA 
+C9 DT SK C7 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "23"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K952.AT8.9832.AJ AQT3.K3.AKJT75.4 874.964.64.K9532 J6.QJ752.Q.QT876"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "3332433324aa9a9aa9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  2
+N  C  4
+S NT  3
+S  S  3
+S  H  3
+S  D  2
+S  C  4
+E NT 10
+E  S 10
+E  H  9
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,4,7,131,153,151,237,80,432,31,145,83,22,37,229,602,26,29,410,36,35,6,29,17,22,74,33,19,22,6,23,143,43,9,20,261,39,9,25,128,19,27,22,47,19,9,32,24,13,6,29,46,11,11,13,16,17,11,5,23,96,22,4,16,12,10
+[Auction "S"]
+Pass 2H =1= Pass 2NT =2= 
+Pass 3H =3= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 5H4+m weak"]
+[Note "2: Asks range and m"]
+[Note "3: Cs, 8-10ish"]
+[Play "S"]
+S7 SJ SK SA 
+D6 DQ D2 D5 
+S8 S6 S2 SQ 
+D4 H2 D3 DA 
+C2 C6 D8 DK 
+C3 C7 D9 DJ 
+C5 H5 H8 DT 
+H4 H7 CJ D7 
+S4 HJ S5 ST 
+H6 HQ HA H3 
+C9 C8 CA C4 
+CK CT S9 S3 
+H9 CQ HT HK 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "23"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K952.AT8.9832.AJ AQT3.K3.AKJT75.4 874.964.64.K9532 J6.QJ752.Q.QT876"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "3332433324aa9a9aa9a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  2
+N  C  4
+S NT  3
+S  S  3
+S  H  3
+S  D  2
+S  C  4
+E NT 10
+E  S 10
+E  H  9
+E  D 10
+E  C  9
+W NT 10
+W  S 10
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 17,6,5,99,146,134,165,249,116,108,169,57,61,80,656,62,39,52,136,82,109,34,84,727,48,15,32,24,13,121,20,25,22,18,35,44,13,9,22,20,13,9
+[Auction "S"]
+Pass Pass 1NT =1= X 
+XX =2= Pass 2C =3= 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: requests 2c with 1 suiter"]
+[Note "3: forced"]
+[Play "N"]
+CA C4 C9 C7 
+CJ H3 C3 C8 
+HA HK H4 H2 
+D2 D5 D6 DQ 
+H8 S3 H6 HQ 
+HT ST H9 HJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "24"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:53.JT5432.K4.QJ6 KQ76.Q.J876.K972 984.AK986.2.T854 AJT2.7.AQT953.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "62725627257b5b77b5b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  7
+N  D  2
+N  C  5
+S NT  6
+S  S  2
+S  H  7
+S  D  2
+S  C  5
+E NT  7
+E  S 11
+E  H  5
+E  D 11
+E  C  7
+W NT  7
+W  S 11
+W  H  5
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,4,7,105,68,73,199,101,35,58,164,18,241,35,22,64,16,7,10,18,4,20,15,157,28,6,9,55,31,49,14,27
+[Auction "W"]
+1D 1H X 4H 
+4S Pass Pass Pass 
+[Play "N"]
+CQ C2 C5 CA 
+S3 S6 S4 SA 
+S5 SK S8 S2 
+H2 SQ S9 ST 
+DK DJ D2 D3 
+H3 -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "24"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:53.JT5432.K4.QJ6 KQ76.Q.J876.K972 984.AK986.2.T854 AJT2.7.AQT953.A3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "62725627257b5b77b5b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  7
+N  D  2
+N  C  5
+S NT  6
+S  S  2
+S  H  7
+S  D  2
+S  C  5
+E NT  7
+E  S 11
+E  H  5
+E  D 11
+E  C  7
+W NT  7
+W  S 11
+W  H  5
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 22,6,5,206,195,51,406,87,89,73,264,157,142,40,38,53,20,31,81,14,8,56,11,22,8,68,45,56,30,21,18,19,9,105,47,17,42,17,29,19,11,12,29,8,9,8,9,31,11
+[Auction "W"]
+1D 2H =1= X 3NT 
+4S Pass Pass 5H 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+SK S4 S2 S3 
+S6 S8 SA S5 
+S7 S9 SJ H2 
+HQ HA H7 H3 
+D8 HK D3 HJ 
+D6 D2 DA D4 
+C2 C4 CA C6 
+CK C5 C3 CJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "25"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT87532.A4.AKJ.4 Q9.J93.9653.9653 AK64.Q6.T84.AKQJ .KT8752.Q72.T872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS 1510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "dd8acdd9cd0041000410"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H  8
+N  D 10
+N  C 12
+S NT 13
+S  S 13
+S  H  9
+S  D 12
+S  C 13
+E NT  0
+E  S  0
+E  H  4
+E  D  1
+E  C  0
+W NT  0
+W  S  0
+W  H  4
+W  D  1
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 33,4,7,97,30,327,61,249,42,288,34,56,34,174,30,82,39,209,26,32,44,50,24,163
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 4C Pass 
+4NT =3= Pass 5D Pass 
+5NT =4= Pass 6C Pass 
+7S Pass Pass Pass 
+[Note "1: game force in sp"]
+[Note "2: Short Club"]
+[Note "3: Alerted"]
+[Note "4: Alerted"]
+[Play "E"]
+S9 -  -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "25"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT87532.A4.AKJ.4 Q9.J93.9653.9653 AK64.Q6.T84.AKQJ .KT8752.Q72.T872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "dd8acdd9cd0041000410"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 13
+N  S 13
+N  H  8
+N  D 10
+N  C 12
+S NT 13
+S  S 13
+S  H  9
+S  D 12
+S  C 13
+E NT  0
+E  S  0
+E  H  4
+E  D  1
+E  C  0
+W NT  0
+W  S  0
+W  H  4
+W  D  1
+W  C  0
+[OptimumScore "NS +1520"]
+[Competition "Teams"]
+% RBDATA 28,6,5,80,28,1498,170,483,46,494,85,327,56,744,64,363,67,58,18,69,94,43,31,92,37,13,102,44,12,10,18
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3C =2= Pass 4C =3= Pass 
+4D =4= Pass 5S Pass 
+6S Pass Pass Pass 
+[Note "1:  * various things [0:12]"]
+[Note "2: ask"]
+[Note "3: raise  to 5s or more cue"]
+[Note "4: cue"]
+[Play "E"]
+H3 HQ HK HA 
+S9 SA C7 S2 
+SQ SK C8 S5 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "26"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:98.Q.AQ95.AK9765 AJ764.AK85.KJ43. T53.T974.T8.J843 KQ2.J632.762.QT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "33238332389aba59aba5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  3
+N  C  8
+S NT  3
+S  S  3
+S  H  2
+S  D  3
+S  C  8
+E NT  9
+E  S 10
+E  H 11
+E  D 10
+E  C  5
+W NT  9
+W  S 10
+W  H 11
+W  D 10
+W  C  5
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,4,7,71,72,150,30,74,139,178,21,201,46,20,28,149,925,22,41,55,43,28,6,38,17,199,33,633,32,23,7,42,8,21,13,14,93,44,21,51,54,19,15,28,31,33,7,197,45,16,6,24,12,21,20
+[Auction "E"]
+1S Pass 1NT 2C 
+X Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+C4 CT CK S4 
+S3 SK S8 S6 
+D8 D2 D5 DJ 
+S5 SQ S9 S7 
+DT D6 DA D4 
+ST D7 D9 DK 
+CJ C2 C6 SJ 
+H7 H2 HQ HA 
+C3 S2 DQ D3 
+H4 H3 C5 HK 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "26"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:98.Q.AQ95.AK9765 AJ764.AK85.KJ43. T53.T974.T8.J843 KQ2.J632.762.QT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "33238332389aba59aba5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  3
+N  C  8
+S NT  3
+S  S  3
+S  H  2
+S  D  3
+S  C  8
+E NT  9
+E  S 10
+E  H 11
+E  D 10
+E  C  5
+W NT  9
+W  S 10
+W  H 11
+W  D 10
+W  C  5
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,6,5,84,39,249,66,100,127,55,26,22,36,15,147,24,165,274,43,14,8,16,39,16,27,33,30,30,11,497,48,14,7,43,29,15,9,13,33,123,15,634,60,74,30,267,79,14,28,53,23,22,12,11,75,13,20,30,59,20,16,8,10,7,10
+[Auction "E"]
+1S Pass 2S 3C 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+C3 C2 CK H5 
+S3 SK S8 S7 
+C4 CT C5 H8 
+H4 H2 HQ HA 
+H7 H3 C6 HK 
+S5 SQ S9 S4 
+ST S2 C7 SA 
+H9 CQ C9 S6 
+CJ H6 CA D3 
+D8 D2 DA D4 
+DT D6 D5 DJ 
+HT HJ D9 SJ 
+C8 D7 DQ DK 
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "27"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ7.KJT92.J2.A76 Q96.Q874.6.KJT32 KT54.A653.875.Q9 832..AKQT943.854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "3"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "69a556aa543338733387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  5
+N  C  5
+S NT  6
+S  S 10
+S  H 10
+S  D  5
+S  C  4
+E NT  3
+E  S  3
+E  H  3
+E  D  8
+E  C  7
+W NT  3
+W  S  3
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,4,7,182,715,31,135,89,17,86,341,28,88,136,55,7,157,42,7,9,8,16,12,39,8,16,10,28,6,52,84,20,9,21,20,6,9,82,31,8,10,17,10,6,14,20,3,10,13
+[Auction "S"]
+Pass 3NT =1= Pass Pass 
+Pass 
+[Note "1: solid minor, no A or K outside"]
+[Play "N"]
+CA C2 CQ C4 
+HJ HQ HA C5 
+H9 H4 H3 S2 
+HK H7 H5 D3 
+HT H8 H6 D4 
+H2 C3 C9 D9 
+SA S6 S5 S3 
+SJ S9 S4 S8 
+S7 SQ SK DT 
+C6 CT ST DQ 
+-  -  D5 -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "27"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ7.KJT92.J2.A76 Q96.Q874.6.KJT32 KT54.A653.875.Q9 832..AKQT943.854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "69a556aa543338733387"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  5
+N  C  5
+S NT  6
+S  S 10
+S  H 10
+S  D  5
+S  C  4
+E NT  3
+E  S  3
+E  H  3
+E  D  8
+E  C  7
+W NT  3
+W  S  3
+W  H  3
+W  D  8
+W  C  7
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 11,6,5,98,809,129,22,68,33,136,34,16,18,27,12,15,19,16,60,12,46,37,18,14,63,63,15,142,23,33,27,26,453,42,36,13,14,20,7,27,28,36,21,11,12
+[Auction "S"]
+Pass 3D Pass Pass 
+Pass 
+[Play "N"]
+HJ H4 H6 D3 
+D2 D6 D5 DA 
+DJ H7 D7 DK 
+H2 H8 D8 DQ 
+H9 HQ S5 DT 
+C6 CT CQ C8 
+CA C2 C9 C5 
+SA S6 S4 S2 
+SJ SQ SK S3 
+-  -  ST -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "28"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:765.87.AQT84.A94 K2.AKJT5.K65.T82 QJT98.Q963.J.K75 A43.42.9732.QJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "68666686666576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  6
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,4,7,54,43,69,3248,87,90,164,977,40,497,15,20,17,17,21,77,46,20,8,9,17,28,30,7,25,14,42,11,21,13,8,6,17,59,21,8,82,19,16,20,20,23,10,7,6,57
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+S6 S2 S8 SA 
+H7 HJ HQ H2 
+S5 SK SQ S3 
+H8 HA H3 H4 
+D4 HK H6 D2 
+D8 HT H9 C3 
+DT H5 DJ C6 
+CA C2 C5 CQ 
+DA D5 C7 D3 
+S7 D6 -  -  
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "28"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:765.87.AQT84.A94 K2.AKJT5.K65.T82 QJT98.Q963.J.K75 A43.42.9732.QJ63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "68666686666576765767"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  6
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  7
+E  D  6
+E  C  7
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,6,5,102,40,73,116,89,189,81,117,80,159,49,69,82,42,27,820,474,31,20,14,43,21,45,34,24,24,17,64,70,37,24,159,18,9,19,128,41,12,11,119,26,15,21,11
+[Auction "W"]
+Pass Pass 1H 1S 
+X 2H =1= X 2S 
+Pass Pass Pass 
+[Note "1: good raise"]
+[Play "W"]
+H4 H7 HK H6 
+C3 C4 CT CK 
+D7 D4 DK DJ 
+H2 H8 HA H3 
+S3 S5 H5 H9 
+D2 DA D5 C5 
+C6 CA C2 C7 
+CJ C9 C8 S8 
+-  -  -  HQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "29"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J86.JT93.AQ98.84 AKT75.864.42.KQ5 Q43.K5.KJT7.A732 92.AQ72.653.JT96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "64575645757875778757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  4
+S  H  5
+S  D  7
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  5
+E  C  7
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,4,7,40,148,80,38,19,207,208,21,27,93,36,20,12,43,41,12,7,22,35,6,133,45,13,29,36,24,31,66,44,15,12,15,18,10,13
+[Auction "N"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 12-14 pos singleton"]
+[Play "S"]
+C2 C6 C8 CQ 
+C3 C9 C4 CK 
+CA CT S6 C5 
+C7 CJ S8 H4 
+S3 S2 SJ S5 
+HK HA HJ H6 
+S4 S9 D8 SA 
+SQ -  -  SK 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "29"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J86.JT93.AQ98.84 AKT75.864.42.KQ5 Q43.K5.KJT7.A732 92.AQ72.653.JT96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "64575645757875778757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  5
+N  D  7
+N  C  5
+S NT  6
+S  S  4
+S  H  5
+S  D  7
+S  C  5
+E NT  7
+E  S  8
+E  H  7
+E  D  5
+E  C  7
+W NT  7
+W  S  8
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,6,5,88,125,62,135,53,71,119,27,179,20,35,32,27,18,210,30,153,17,12,20,25,22,10,138,21,26,10,202,21,9,12,229,36,12,78,38,25,9,10,30,126,13,8,12,15,16,12,12,16,10
+[Auction "N"]
+Pass 1S Pass 1NT =1= 
+Pass Pass Pass 
+[Note "1: 6-12"]
+[Play "N"]
+HJ H4 HK HA 
+C8 CK C3 C6 
+C4 CQ CA CT 
+D8 D2 DJ D3 
+D9 D4 D7 D5 
+DA S5 DT D6 
+DQ S7 DK H2 
+H3 H6 H5 HQ 
+S6 C5 C2 CJ 
+S8 H8 C7 C9 
+SJ SA -  S9 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "30"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T.T73.QJ876.AT97 A76.AQJ962.3.KJ4 KJ52.K4.A952.532 Q9843.85.KT4.Q86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "64486644867885678856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  4
+S  D  8
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  5
+E  C  6
+W NT  7
+W  S  8
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,4,7,88,200,53,24,154,67,202,30,21,37,107,338,10,30,9,258,28,21,171,26,17,6,25,5,21,22,114,29,6,18,235,40,8,15,20,9,18,14,84,18,10,6,22,5,18,14
+[Auction "E"]
+1H Pass 1S Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+C3 C6 CA C4 
+S5 S3 ST SA 
+C2 CQ C7 CJ 
+HK H5 H7 HQ 
+SK S4 D8 S6 
+S2 S8 HT S7 
+C5 C8 CT CK 
+H4 H8 H3 H2 
+SJ SQ C9 D3 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "30"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T.T73.QJ876.AT97 A76.AQJ962.3.KJ4 KJ52.K4.A952.532 Q9843.85.KT4.Q86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "64486644867885678856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  8
+N  C  6
+S NT  6
+S  S  4
+S  H  4
+S  D  8
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  5
+E  C  6
+W NT  7
+W  S  8
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,6,5,104,54,447,122,75,81,69,34,110,106,49,14,15,141,28,35,48,23,10,27,69,27,15,16,124,25,11,53,24,23,19,19,19,23,12,7,22,41,23,8,46,41,9,28
+[Auction "E"]
+1H X XX =1= 2D 
+3H Pass Pass Pass 
+[Note "1: 4+ spades 6+hcp"]
+[Play "S"]
+DA D4 D8 D3 
+D2 DK D7 S6 
+HK H5 H3 HQ 
+D9 DT DJ H2 
+C2 C6 CA CK 
+S5 S3 ST SA 
+H4 H8 H7 HA 
+S2 S4 HT HJ 
+SK S8 D6 S7 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "31"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT7.A9.J952.T953 J93.KJ72.AK6.QJ2 K852.QT643.QT.84 Q64.85.8743.AK76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "56655566558668886688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  6
+S  H  6
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  8
+E  C  8
+W NT  8
+W  S  6
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,4,7,108,39,26,83,58,25,35,22,35,23,118,45,23,139,110,7,17,6,16,11,19,302,37,23,31,318,32,11,6,22,12,5,8,17,34,17,6,29,7,45,50,17,8,17,15,9,12,6,6
+[Auction "S"]
+Pass Pass Pass 1H 
+Pass 1NT Pass Pass 
+Pass 
+[Play "N"]
+S7 S3 SK S4 
+SA S9 S2 S6 
+ST SJ S5 SQ 
+H9 HK H3 H5 
+C3 CQ C8 C6 
+C5 CJ C4 C7 
+C9 C2 H4 CK 
+CT H2 H6 CA 
+D2 DA DT D3 
+D5 DK DQ D4 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "31"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT7.A9.J952.T953 J93.KJ72.AK6.QJ2 K852.QT643.QT.84 Q64.85.8743.AK76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "56655566558668886688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  5
+N  C  5
+S NT  5
+S  S  6
+S  H  6
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  6
+E  D  8
+E  C  8
+W NT  8
+W  S  6
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,6,5,85,169,39,103,57,67,38,26,21,15,100,13,23,8,132,48,26,92,47,11,29,1138,29,15,33,130,126,12,14,64,59,22,11,89,24,15,14,82,66,51,40,32,21,13,8
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+H4 H5 HA H2 
+HQ H8 H9 HJ 
+HT S4 S7 HK 
+DT D3 D5 DA 
+SK S6 ST S3 
+H6 D4 C5 H7 
+S2 SQ SA S9 
+C4 C6 CT CQ 
+S5 D7 C3 SJ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "32"]
+[West "David Norman#26282"]
+[North "Daniel McIntosh#47140"]
+[East "David Dawson#115191"]
+[South "Andy Hall#39131"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQT.AQ.92.AQJT87 J73.6543.QJT65.5 85.9872.K87.K964 K9642.KJT.A43.32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a676ba676b2756137672"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  7
+N  D  6
+N  C 11
+S NT 10
+S  S  6
+S  H  7
+S  D  6
+S  C 11
+E NT  2
+E  S  7
+E  H  5
+E  D  6
+E  C  1
+W NT  3
+W  S  7
+W  H  6
+W  D  7
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,4,7,194,32,49,79,145,148,79,76,25,66,104,24,6,207,18,18,7,328,62,13,14,899,26,26,12
+[Auction "W"]
+1S X 2S Pass 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+DQ D7 D4 D2 
+DJ D8 D3 D9 
+D6 DK DA ST 
+S7 S5 S9 SQ 
+*
+
+[Event "08 July Plumley vs Norman"]
+[Site "RealBridge"]
+[Date "2025.07.08"]
+[Board "32"]
+[West "Robert Plumley#33074"]
+[North "Richard Fedrick#110508"]
+[East "Rune Hauge#111671"]
+[South "Peter Lee#52156"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQT.AQ.92.AQJT87 J73.6543.QJT65.5 85.9872.K87.K964 K9642.KJT.A43.32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Norman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a676ba676b2756137672"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H  7
+N  D  6
+N  C 11
+S NT 10
+S  S  6
+S  H  7
+S  D  6
+S  C 11
+E NT  2
+E  S  7
+E  H  5
+E  D  6
+E  C  1
+W NT  3
+W  S  7
+W  H  6
+W  D  7
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,6,5,230,105,39,91,83,586,43,798,42,103,161,77,161,38,11,594,40,48,25,164,41,19,36,11,25,17,67,68,100,9,30,14,30,8,117,16,30,9,11,11,32,11,10,23,29,52,42,44,65,10,9,26,28,8,9,14,20,17
+[Auction "W"]
+1S X 2S Pass 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+DQ D7 D3 D2 
+S3 S5 SK SA 
+C5 CK C3 C7 
+H5 H2 HT HQ 
+H6 C4 C2 CA 
+H4 C6 S6 CQ 
+H3 C9 S4 CJ 
+D5 H7 S2 CT 
+D6 S8 D4 C8 
+DT H8 HJ HA 
+S7 H9 S9 SQ 
+DJ D8 -  D9 
+*

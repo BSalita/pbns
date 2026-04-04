@@ -1,0 +1,3098 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "1"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:.K83.Q97652.JT74 J964.JT74.K3.AQ8 K53.A9.AJT.K9532 AQT872.Q652.84.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "646bc646bc5971158711"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D 11
+N  C 12
+S NT  6
+S  S  4
+S  H  6
+S  D 11
+S  C 12
+E NT  5
+E  S  9
+E  H  7
+E  D  1
+E  C  1
+W NT  5
+W  S  8
+W  H  7
+W  D  1
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,931,91,339,41,114,38,69,121,50,29,10,12,10,26,8,180,22,19,9,8,15,19,9,374,33,38,12,20,23,13,30,15,21
+[Auction "N"]
+2D =1= X 2NT 4S 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+D6 DK DA D4 
+D2 D3 DJ D8 
+H3 H4 HA H6 
+HK H7 H9 H2 
+D5 S4 DT H5 
+D7 S9 S3 S2 
+-  SJ SK -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "1"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:.K83.Q97652.JT74 J964.JT74.K3.AQ8 K53.A9.AJT.K9532 AQT872.Q652.84.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "646bc646bc5971158711"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D 11
+N  C 12
+S NT  6
+S  S  4
+S  H  6
+S  D 11
+S  C 12
+E NT  5
+E  S  9
+E  H  7
+E  D  1
+E  C  1
+W NT  5
+W  S  8
+W  H  7
+W  D  1
+W  C  1
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 21,2,1,1215,214,262,50,1261,118,224,189,27,43,334,108,33,33,240,28,10,31,143,43,18,19,152,16,18,22,127,24,21,18,15,39,15,14,22,17,23,15,43,13,91,30,21,13,15,37
+[Auction "N"]
+2D =1= Pass 2NT =2= 3S 
+3NT =3= 4S 5D Pass 
+Pass Pass 
+[Note "1: weak, 6+D or 5D/5C"]
+[Note "2: asking"]
+[Note "3: min with 6D"]
+[Play "E"]
+S9 S3 SQ D2 
+D3 DT D4 D5 
+H7 H9 H2 HK 
+DK DA D8 D6 
+S4 S5 S7 D7 
+CA C2 C6 CJ 
+S6 SK SA D9 
+C8 C3 S2 CT 
+CQ CK S8 C7 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "2"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT3.AJ.KQT4.A74 .Q532.J96532.J65 J97.8764.A87.K93 Q86542.KT9..QT82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "a8786a86862445435454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  7
+N  D  8
+N  C  6
+S NT 10
+S  S  8
+S  H  6
+S  D  8
+S  C  6
+E NT  2
+E  S  4
+E  H  4
+E  D  5
+E  C  4
+W NT  3
+W  S  5
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,45,155,134,128,28,501,23,315,46,68,13,21,110,171,46,639,36,28,42,42,22,26,33,32,92,35,58,61,153,55,8,11,31,27,9,80,22,26,9,38,48,28,7,19,19,16,15,16,14,20,21,16,71
+[Auction "E"]
+Pass Pass 2S =1= X 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Note "1: 6-13 5+♠"]
+[Play "W"]
+S5 S3 D2 S7 
+S8 DK D3 D7 
+C2 DT DJ DA 
+SQ SA D5 SJ 
+S2 SK H2 S9 
+S4 ST C6 H4 
+H9 DQ D6 D8 
+C8 CA C5 C3 
+CT C4 CJ CK 
+HT HA H3 H6 
+-  C7 H5 -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "2"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKT3.AJ.KQT4.A74 .Q532.J96532.J65 J97.8764.A87.K93 Q86542.KT9..QT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "a8786a86862445435454"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H  7
+N  D  8
+N  C  6
+S NT 10
+S  S  8
+S  H  6
+S  D  8
+S  C  6
+E NT  2
+E  S  4
+E  H  4
+E  D  5
+E  C  4
+W NT  3
+W  S  5
+W  H  4
+W  D  5
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,126,65,166,233,30,188,35,64,24,49,21,137,103,126,44,27,48,13,159,157,37,12,58,26,37,22,40,179,29,9,54,66,32,17,13,10,51,41,20,15,33,23,20,26,16,8,112,20,19,10,15,44,14,20,37,9,14,9,13,5,13,6,8
+[Auction "E"]
+Pass Pass 2S =1= X 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+D9 D7 S2 DT 
+D2 DA C2 D4 
+H2 S9 S4 S3 
+C5 SJ SQ SA 
+HQ H4 H9 HJ 
+CJ C3 C8 CA 
+C6 S7 S5 SK 
+H3 H6 S6 ST 
+D3 D8 S8 DQ 
+H5 H7 HT HA 
+D5 H8 CT DK 
+D6 CK CQ C4 
+DJ C9 HK C7 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "3"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:97.A873.AJ963.A7 QJ653.52.54.KT85 A82.Q6.KQT82.Q42 KT4.KJT94.7.J963"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "867a5867a54762747627"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D 10
+N  C  5
+S NT  8
+S  S  6
+S  H  7
+S  D 10
+S  C  5
+E NT  4
+E  S  7
+E  H  6
+E  D  2
+E  C  7
+W NT  4
+W  S  7
+W  H  6
+W  D  2
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,279,32,284,267,250,29,104,44,56,14,25,111,30,51,18,130,28,14,15,20,105,62,187,35,31,9,46,19,17,13,295,10,44,54,396,53,25,7,120,18,15,6,24,17,14,6,45,21,12,9,47,19,8,7
+[Auction "S"]
+1D 1H 2H =1= Pass 
+3D Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * good ♢ supp [0:20]"]
+[Play "E"]
+H5 HQ HK H3 
+H2 H6 H9 H7 
+S6 S2 HT HA 
+D4 DK D7 D3 
+D5 DQ S4 D6 
+C5 D2 C6 DA 
+S3 DT C3 DJ 
+C8 D8 C9 D9 
+CT C2 CJ CA 
+CK C4 H4 C7 
+SQ SA ST S7 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "3"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:97.A873.AJ963.A7 QJ653.52.54.KT85 A82.Q6.KQT82.Q42 KT4.KJT94.7.J963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "867a5867a54762747627"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D 10
+N  C  5
+S NT  8
+S  S  6
+S  H  7
+S  D 10
+S  C  5
+E NT  4
+E  S  7
+E  H  6
+E  D  2
+E  C  7
+W NT  4
+W  S  7
+W  H  6
+W  D  2
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,2,1,194,66,111,62,54,55,56,25,50,27,96,92,21,43,299,42,55,14,37,15,23,58,121,78,27,17,26,36,21,43,31,25,31,9,78,72,19,183,32,52,22,49,30,222,47,41,31,31,89,22,30,22,26,36,27,51,21,18,19,17,11,16
+[Auction "S"]
+1NT =1= Pass 2C =2= Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: stayman"]
+[Play "W"]
+HJ H3 H5 HQ 
+D7 DA D4 D8 
+C3 DJ D5 D2 
+C6 C7 CK C2 
+S4 S7 SQ SA 
+C9 CA C5 C4 
+CJ D3 H2 DT 
+H4 D6 S3 DQ 
+ST D9 S5 DK 
+H9 H7 C8 CQ 
+HT HA S6 H6 
+HK H8 SJ S2 
+SK S9 CT S8 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "4"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK9652.T6.K7.987 JT43.J4.AT643.KJ Q8.AK852.QJ98.42 7.Q973.52.AQT653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "69875698757456874568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  7
+N  C  5
+S NT  6
+S  S  9
+S  H  8
+S  D  7
+S  C  5
+E NT  7
+E  S  4
+E  H  5
+E  D  6
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,72,157,58,176,192,37,73,107,17,29,78,61,31,20,42,127,18,33,17,37,66,20,17,25,56,25,41,23,12,8,23,26,34,11,62,11,35,26,23,19,44,17,27,11,35,11,33,14,28,9,23,11,26,12,37,15,22,23,17,20,7,27
+[Auction "W"]
+Pass 2S =1= Pass Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+SQ S7 S2 S3 
+S8 D2 SK S4 
+H5 H3 SA ST 
+C2 H7 S9 SJ 
+C4 C3 C8 CK 
+H2 CA C7 CJ 
+H8 CQ C9 H4 
+D8 CT S5 D3 
+D9 C6 H6 D4 
+DJ C5 HT D6 
+DQ D5 D7 DA 
+HK H9 S6 HJ 
+HA HQ DK DT 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "4"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK9652.T6.K7.987 JT43.J4.AT643.KJ Q8.AK852.QJ98.42 7.Q973.52.AQT653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "69875698757456874568"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  7
+N  C  5
+S NT  6
+S  S  9
+S  H  8
+S  D  7
+S  C  5
+E NT  7
+E  S  4
+E  H  5
+E  D  6
+E  C  8
+W NT  7
+W  S  4
+W  H  5
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,123,283,121,153,132,478,35,42,9,160,16,17,10,22,26,12,23,17,120,13,34,27,17,24,14,27,21,10,22,35,15,10,14,10,20,6,27,25,24,6,18,11,66,6,43,21,15,27,7,5,18,7,55,21,10,13,6
+[Auction "W"]
+Pass 2S =1= Pass Pass 
+Pass 
+[Note "1: weak, 6+S or 5S/5m"]
+[Play "E"]
+DA D8 D5 D7 
+D3 D9 D2 DK 
+S3 SQ S7 S2 
+S4 S8 H3 SA 
+ST H2 C3 SK 
+H4 HA H7 H6 
+D4 DJ C5 C7 
+D6 DQ C6 C8 
+HJ HK H9 HT 
+CJ C2 CT C9 
+CK C4 CA S5 
+SJ H5 CQ S6 
+DT H8 HQ S9 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "5"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:6.QT9.KJ3.AJT654 AKJ5.J82.T9854.7 973.AK43.Q762.Q8 QT842.765.A.K932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "7498a7498a5834258342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  8
+N  C 10
+S NT  7
+S  S  4
+S  H  9
+S  D  8
+S  C 10
+E NT  5
+E  S  8
+E  H  3
+E  D  4
+E  C  2
+W NT  5
+W  S  8
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 13,0,3,119,105,248,37,178,298,341,26,97,27,96,117,76,42,10,64,46,9,40,9,27,59,20,14,15,13,29,13,24,15,9,9,22,8,35,10,19,18,13,7,16,7,62,11,66,22,11,10,15
+[Auction "N"]
+1C Pass 1D 1S 
+2C 3C =1= X 3S 
+Pass Pass Pass 
+[Note "1: good raise"]
+[Play "N"]
+D3 D4 DQ DA 
+CT C7 C8 C2 
+S6 S5 S9 ST 
+C4 SJ CQ C3 
+DJ D5 D2 S2 
+CJ SK H3 C9 
+DK D8 D6 S4 
+CA SA D7 CK 
+C5 D9 H4 S8 
+C6 -  -  SQ 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "5"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:6.QT9.KJ3.AJT654 AKJ5.J82.T9854.7 973.AK43.Q762.Q8 QT842.765.A.K932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3SX"]
+[Result "9"]
+[Score "NS -530"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "7498a7498a5834258342"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  9
+N  D  8
+N  C 10
+S NT  7
+S  S  4
+S  H  9
+S  D  8
+S  C 10
+E NT  5
+E  S  8
+E  H  3
+E  D  4
+E  C  2
+W NT  5
+W  S  8
+W  H  3
+W  D  4
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 13,2,1,103,102,123,62,137,57,133,42,92,56,126,19,117,29,292,223,56,25,23,23,19,27,277,39,18,44,31,40,80,21,154,22,24,34,110,27,34,10,22,22,23,30,22,18,41,18,32,33,20,42,26,57,30,139,35,14,21,18,17,23,8,13,13,11,12,8
+[Auction "N"]
+1C Pass 1H 1S 
+2H 2S X Pass 
+3C 3S X Pass 
+Pass Pass 
+[Play "N"]
+H9 H2 HK H5 
+D3 D4 D2 DA 
+CT C7 CQ C9 
+DK D5 D6 S2 
+C4 S5 C8 C2 
+DJ D8 D7 S8 
+C5 SJ H3 C3 
+C6 D9 DQ ST 
+CA SK H4 CK 
+CJ DT S9 SQ 
+HT HJ HA H6 
+S6 SA S3 S4 
+HQ H8 S7 H7 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "6"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT7.AJT5.K.AK82 63.Q9643.A854.J3 98542.82.JT.Q965 AJ.K7.Q97632.T74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "5964a5964a7379373793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  6
+N  D  4
+N  C 10
+S NT  5
+S  S  9
+S  H  6
+S  D  4
+S  C 10
+E NT  7
+E  S  3
+E  H  7
+E  D  9
+E  C  3
+W NT  7
+W  S  3
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,66,57,48,124,44,117,168,35,175,436,22,292,33,28,48,51,25,253,35,22,27,27,28,20,31,66,29,70,12,68,21,17,19,23,21,20,7,25,32,25,7,14,31,15,7,11,16,20,78,38
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass Pass 1D X 
+3D 3S Pass Pass 
+Pass 
+[Play "W"]
+D6 DK DA DT 
+SA S7 S3 S2 
+SJ SK S6 S4 
+C7 C2 C3 CQ 
+DQ ST D4 DJ 
+C4 CA CJ C5 
+CT CK H3 C6 
+D2 C8 D5 C9 
+H7 HT HQ H2 
+-  -  H4 -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "6"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQT7.AJT5.K.AK82 63.Q9643.A854.J3 98542.82.JT.Q965 AJ.K7.Q97632.T74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "5964a5964a7379373793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  6
+N  D  4
+N  C 10
+S NT  5
+S  S  9
+S  H  6
+S  D  4
+S  C 10
+E NT  7
+E  S  3
+E  H  7
+E  D  9
+E  C  3
+W NT  7
+W  S  3
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,79,74,42,166,46,207,59,203,51,309,100,53,36,64,38,174,88,45,98,107,30,10,32,29,17,21,9,199,17,36,10,252,19,18,49,19,25,7,15,91,44,11,48
+[Auction "E"]
+Pass Pass Pass 2NT =1= 
+Pass 3H =2= Pass 4C 
+Pass 4H =3= Pass 4S 
+Pass Pass Pass 
+[Note "1: 20-21"]
+[Note "2: Ss"]
+[Note "3: re-transfer or cue bid"]
+[Play "E"]
+H4 H2 HK HA 
+S3 S2 SA SQ 
+HQ H8 H7 HJ 
+DA DT D7 DK 
+D4 DJ DQ S7 
+S6 S4 SJ SK 
+H3 C5 D6 HT 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "7"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT.AT875.865.T8 653.94.AJT.J9752 9.J32.KQ732.AQ43 QJ8742.KQ6.94.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a6aa8a6aa83723537235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  6
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,0,3,189,51,147,80,143,20,262,60,43,18,38,143,19,30,490,45,11,14,17,18,18,16,150,31,23,8,24,16,45,34,211,39,35,6,168,48,34,20
+[Auction "S"]
+1D 1S 2H 2S 
+3H 3S 4H Pass 
+Pass Pass 
+[Play "E"]
+S6 S9 SJ SA 
+S5 H2 S8 ST 
+H4 HJ HQ HA 
+DJ DK D4 D5 
+H9 H3 H6 HT 
+DA D2 D9 D6 
+DT DQ HK D8 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "7"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AKT.AT875.865.T8 653.94.AJT.J9752 9.J32.KQ732.AQ43 QJ8742.KQ6.94.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a6aa8a6aa83723537235"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 10
+N  D 10
+N  C  8
+S NT 10
+S  S  6
+S  H 10
+S  D 10
+S  C  8
+E NT  3
+E  S  7
+E  H  2
+E  D  3
+E  C  5
+W NT  3
+W  S  7
+W  H  2
+W  D  3
+W  C  5
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 17,2,1,103,107,134,119,110,46,80,22,25,79,30,26,723,29,11,54,583,32,25,16,157,62,19,16,56,30,8,55,9,148,311,18,194,23,19,19,28,21,14,35,10,29,14,16,31,31,67,15,6,20,12,220,27,8,19,7,10,14,6,12
+[Auction "S"]
+1D 1S 2H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+S5 S9 SJ SA 
+C5 CQ CK C8 
+CJ CA C6 CT 
+H4 HJ HQ HA 
+S6 H2 S2 ST 
+H9 H3 H6 HT 
+DT DK D4 D5 
+C2 C3 S4 H5 
+DA D2 D9 D6 
+S3 D3 SQ SK 
+DJ DQ HK D8 
+C7 D7 S8 H7 
+C9 C4 S7 H8 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "8"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q7653.AK97.63.Q7 KJT9.84.KQ974.64 A4.653.AJ.AKJT52 82.QJT2.T852.983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "a9b6ba9b6b1426114261"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  6
+N  C 11
+S NT 10
+S  S  9
+S  H 11
+S  D  6
+S  C 11
+E NT  1
+E  S  4
+E  H  2
+E  D  6
+E  C  1
+W NT  1
+W  S  4
+W  H  2
+W  D  6
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,3,45,50,66,119,26,53,46,416,26,45,45,29,118,30,42,87,21,18,7,27,20,20,9,39,10,27,17,40,33,61,53,41,13,30,15,60,16,13,63,71,16,46,18,15,22,12,14,22,27,23,19,18,15,17,12,34,64,12,7,13,14,9,8
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+HQ HK H4 H3 
+C9 CQ C4 C2 
+C8 C7 C6 CA 
+C3 D3 D4 CK 
+S8 S3 S9 CJ 
+D5 H7 D7 CT 
+H2 S5 H8 C5 
+S2 SQ SK S4 
+D8 D6 DK DA 
+D2 S6 ST SA 
+HT HA D9 H5 
+HJ H9 SJ H6 
+DT S7 DQ DJ 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "8"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q7653.AK97.63.Q7 KJT9.84.KQ974.64 A4.653.AJ.AKJT52 82.QJT2.T852.983"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "a9b6ba9b6b1426114261"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D  6
+N  C 11
+S NT 10
+S  S  9
+S  H 11
+S  D  6
+S  C 11
+E NT  1
+E  S  4
+E  H  2
+E  D  6
+E  C  1
+W NT  1
+W  S  4
+W  H  2
+W  D  6
+W  C  1
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 29,2,1,59,51,50,400,71,180,24,276,27,133,24,265,25,127,28,587,61,121,20,75,393,20,92,302,19,23,37,21,17,29,21,48,28,44,23,67,207,81,15,36,316,66,17,76,115,147,32,372,35,20,19,37,83,51,44,24,56,160,36,15
+[Auction "W"]
+Pass 1S Pass 3C =1= 
+Pass 3H Pass 3S 
+Pass 4S Pass 5C =2= 
+Pass 5H Pass 6NT 
+Pass Pass Pass 
+[Note "1: natural and at least GF (strong hand)"]
+[Note "2: cue"]
+[Play "W"]
+HQ HA H8 H5 
+C3 CQ C4 C5 
+C8 C7 C6 CK 
+C9 D3 H4 CA 
+D2 S3 D4 CJ 
+S2 H7 D7 CT 
+H2 H9 S9 C2 
+S8 S5 ST SA 
+D5 S6 SJ S4 
+HT S7 SK H3 
+-  -  DK -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "9"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:874.T95.J94.AJT6 QT6.KJ42.AKQT2.9 A52.A6.865.KQ875 KJ93.Q873.73.432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "733377333769aa669aa6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  3
+N  C  7
+S NT  7
+S  S  3
+S  H  3
+S  D  3
+S  C  7
+E NT  6
+E  S  9
+E  H 10
+E  D 10
+E  C  6
+W NT  6
+W  S  9
+W  H 10
+W  D 10
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,0,3,40,186,136,77,130,58,245,20,32,129,118,42,30,187,34,7,38,102,56,17,10,99,21,4,68,56,26,19,10,51,66,73,17,59,15,20,47
+[Auction "N"]
+Pass 1D =1= 2C X 
+4C 4H Pass Pass 
+Pass 
+[Note "1: any 14-15 no 5cM"]
+[Play "S"]
+CK C2 C6 C9 
+C5 C3 CA H2 
+HA H3 H5 HK 
+CQ C4 CT H4 
+H6 H7 HT HJ 
+S5 S9 S4 S6 
+S2 HQ H9 D2 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "9"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:874.T95.J94.AJT6 QT6.KJ42.AKQT2.9 A52.A6.865.KQ875 KJ93.Q873.73.432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "733377333769aa669aa6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  3
+N  C  7
+S NT  7
+S  S  3
+S  H  3
+S  D  3
+S  C  7
+E NT  6
+E  S  9
+E  H 10
+E  D 10
+E  C  6
+W NT  6
+W  S  9
+W  H 10
+W  D 10
+W  C  6
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,87,139,95,116,440,48,118,124,45,17,67,54,66,217,11,12,57,87,12,569,28,13,8,33,26,10,6,59,25,33,8,145,37,11,8,18,31,8,36,98,42,11,8,73,26,15,13,59,10,12,37,50,25,7,15,22,7,9,19,16,6,8,19
+[Auction "N"]
+Pass 1D 2C X 
+3C 3H 4C 4H 
+Pass Pass Pass 
+[Play "S"]
+CQ C2 CA C9 
+C5 C3 CT H2 
+D8 D3 D9 DA 
+D5 D7 D4 DK 
+D6 C4 DJ DQ 
+HA H3 HT HK 
+S2 S3 S8 ST 
+H6 H7 H5 HJ 
+C7 HQ H9 H4 
+SA S9 S4 SQ 
+S5 SK S7 S6 
+C8 SJ C6 D2 
+CK H8 CJ DT 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "10"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A865.A86.AKQ32.J KJ943.KT92.654.8 QT2.54.JT8.AQ976 7.QJ73.97.KT5432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "996a8996a83462534625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D 10
+N  C  8
+S NT  9
+S  S  9
+S  H  6
+S  D 10
+S  C  8
+E NT  3
+E  S  4
+E  H  6
+E  D  2
+E  C  5
+W NT  3
+W  S  4
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,52,108,22,154,31,374,36,197,28,102,18,43,110,31,149,300,48,19,8,41,12,26,17,60,21,14,57,16,160,26,20,20,56,67,8,13,81,39,8,72,81,25,8,14,18,16,6,12,12,21,8,16
+[Auction "E"]
+Pass Pass Pass 1D 
+1S 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C4 CJ C8 C6 
+D7 D2 D6 DJ 
+D9 D3 D4 DT 
+C2 H6 S3 CA 
+H3 DQ D5 D8 
+C3 DK H2 H4 
+C5 DA H9 C7 
+H7 HA HK H5 
+S7 SA S4 S2 
+CT S5 SK ST 
+-  -  HT -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "10"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A865.A86.AKQ32.J KJ943.KT92.654.8 QT2.54.JT8.AQ976 7.QJ73.97.KT5432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "996a8996a83462534625"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D 10
+N  C  8
+S NT  9
+S  S  9
+S  H  6
+S  D 10
+S  C  8
+E NT  3
+E  S  4
+E  H  6
+E  D  2
+E  C  5
+W NT  3
+W  S  4
+W  H  6
+W  D  2
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,91,74,43,47,174,229,40,401,44,201,36,367,26,77,24,62,80,46,17,94,17,44,13,61,68,16,11,64,21,17,80,292,33,14,16,15,18,7,20,19,134,21,8,21,21,10,13,61,23,13,17,8,37,10,24,9,68,9,36,7,16,6,38,10,6,17,6
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 2C Pass 2S 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+H2 H4 HJ H8 
+HT H5 H3 H6 
+HK C6 H7 HA 
+C8 C7 C2 CJ 
+D5 D8 D7 DA 
+D4 DT D9 D2 
+D6 DJ C3 D3 
+S3 CA C4 S6 
+S4 S2 S7 SA 
+S9 C9 C5 DQ 
+SJ CQ CT DK 
+SK ST CK S5 
+H9 SQ HQ S8 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "11"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K32.A982.83.K754 A7654.3.AT65.A63 98.KJT75.K42.QJ2 QJT.Q64.QJ97.T98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "64948649484938449384"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  4
+N  C  8
+S NT  6
+S  S  4
+S  H  9
+S  D  4
+S  C  8
+E NT  4
+E  S  9
+E  H  3
+E  D  8
+E  C  4
+W NT  4
+W  S  9
+W  H  3
+W  D  8
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,128,19,75,78,317,143,162,29,263,21,57,25,58,238,11,15,105,21,7,9,371,30,6,30,228,30,155,9,281,15,11,27,105,9,201,17,718,45,10,9,54,8,13,13,128,15,10,56,15,55,7,7,10,28,18,13
+[Auction "S"]
+Pass Pass 1H 1S 
+2S =1= X =2= 3H Pass 
+4H Pass Pass Pass 
+[Note "1: st supp hearts"]
+[Note "2: raising to 2S"]
+[Play "E"]
+SA S8 SQ S2 
+CA C2 CT C7 
+S4 S9 ST SK 
+S5 HT SJ S3 
+H3 HK H4 H2 
+D5 H5 H6 H9 
+C6 CJ C8 C4 
+C3 CQ C9 C5 
+S7 H7 HQ HA 
+S6 D2 D7 CK 
+D6 DK D9 D3 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "11"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:K32.A982.83.K754 A7654.3.AT65.A63 98.KJT75.K42.QJ2 QJT.Q64.QJ97.T98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "64948649484938449384"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  9
+N  D  4
+N  C  8
+S NT  6
+S  S  4
+S  H  9
+S  D  4
+S  C  8
+E NT  4
+E  S  9
+E  H  3
+E  D  8
+E  C  4
+W NT  4
+W  S  9
+W  H  3
+W  D  8
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,2,1,126,114,63,35,79,40,119,49,39,173,28,416,56,26,39,95,43,151,16,529,30,15,63,144,47,27,16,372,35,8,8,36,30,14,7,110,21,8,14,126,27,17,16,28,35,7,25,74,19,19,7,6,15,20,11,22,78,9,16,16,16,7,6
+[Auction "S"]
+Pass Pass Pass 1S 
+2H 2S 3H 3S 
+Pass Pass Pass 
+[Play "S"]
+HT H4 H2 H3 
+HJ H6 H9 S4 
+S8 ST SK S5 
+H5 HQ HA S6 
+D4 D7 D3 DA 
+DK D9 D8 D5 
+CQ C8 C4 CA 
+S9 SJ S3 S7 
+D2 DJ S2 D6 
+C2 C9 CK C3 
+CJ CT C5 C6 
+HK DQ H8 SA 
+H7 SQ C7 DT 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "12"]
+[West "Ivan Leung#524083"]
+[North "Josh Santinelli-Clarke#489475"]
+[East "David Owen#55911"]
+[South "Pamela Pope#453237"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q872.A3.Q653.T86 J54.Q86.K8.AK732 9.KJT942.94.J954 AKT63.75.AJT72.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "51624516247a6997a699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  6
+N  D  2
+N  C  4
+S NT  5
+S  S  1
+S  H  6
+S  D  2
+S  C  4
+E NT  7
+E  S 10
+E  H  6
+E  D  9
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,64,88,115,77,21,37,108,41,17,33,248,62,84,11,12,16,9,66,30,15,8,67,13,26,15,13,10,25,7,24,11,13,7,19,150,33,637,20,27,13,118,53,24,18,11,28,10,27,7,16,8,23,7,29,13,7,44,9,10,5,11,6
+[Auction "W"]
+1S Pass 2C =1= Pass 
+2D Pass 4S Pass 
+Pass Pass 
+[Note "1:  * nat and gf [0:13]"]
+[Play "N"]
+C8 C2 CJ CQ 
+S2 S4 S9 SA 
+S7 S5 H2 SK 
+D3 DK D4 D2 
+C6 CA C4 H5 
+CT CK C5 H7 
+D5 D8 D9 DA 
+D6 H6 H4 DJ 
+DQ SJ H9 D7 
+H3 H8 HT S3 
+S8 C3 HJ DT 
+SQ C7 C9 S6 
+HA HQ HK ST 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "12"]
+[West "Helen Mason#400066"]
+[North "Mike Rawlins#94613"]
+[East "David Mathews#400023"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q872.A3.Q653.T86 J54.Q86.K8.AK732 9.KJT942.94.J954 AKT63.75.AJT72.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "51624516247a6997a699"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  6
+N  D  2
+N  C  4
+S NT  5
+S  S  1
+S  H  6
+S  D  2
+S  C  4
+E NT  7
+E  S 10
+E  H  6
+E  D  9
+E  C  9
+W NT  7
+W  S 10
+W  H  6
+W  D  9
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 23,2,1,105,35,341,90,281,80,193,73,146,33,17,35,1017,92,24,23,10,84,31,20,54,202,55,18,107,44,92,23,68,23,18,28,73,23,16,38,122,21,18,22,32,20,21,31,25,25,18,9,85,21,19,10,32,35,18,26,89,17,61,22,5,15,18,11
+[Auction "W"]
+1S Pass 2NT Pass 
+4NT Pass 5C Pass 
+5S Pass Pass Pass 
+[Play "N"]
+HA H6 H2 H5 
+H3 H8 H9 H7 
+S8 HQ HK S6 
+C8 C2 C5 CQ 
+S2 S4 S9 SA 
+S7 S5 HT SK 
+D3 DK D4 D2 
+C6 CA C4 D7 
+CT CK C9 DT 
+D5 D8 D9 DA 
+DQ SJ H4 DJ 
+SQ C7 CJ S3 
+D6 C3 HJ ST 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "13"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J7.KJ.KQJ8642.42 QT9.A93.T.KQJ875 AK8432.T76.A95.T 65.Q8542.73.A963"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "6a4b46a4b44381943819"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D 11
+N  C  4
+S NT  6
+S  S 10
+S  H  4
+S  D 11
+S  C  4
+E NT  4
+E  S  3
+E  H  8
+E  D  1
+E  C  9
+W NT  4
+W  S  3
+W  H  8
+W  D  1
+W  C  9
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 21,2,0,237,59,219,66,46,25,18,58,196,29,82,23,69,32,34,19,37,22,51,23,13,11,86,25,22,10,31,25,15,14
+[Auction "N"]
+3D X 5D Pass 
+Pass Pass 
+[Play "E"]
+CK CT C3 C4 
+HA H6 H5 HJ 
+H3 H7 HQ HK 
+DT D5 D3 DK 
+C5 D9 D7 DQ 
+C7 DA C6 C2 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "13"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J7.KJ.KQJ8642.42 QT9.A93.T.KQJ875 AK8432.T76.A95.T 65.Q8542.73.A963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "6a4b46a4b44381943819"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  4
+N  D 11
+N  C  4
+S NT  6
+S  S 10
+S  H  4
+S  D 11
+S  C  4
+E NT  4
+E  S  3
+E  H  8
+E  D  1
+E  C  9
+W NT  4
+W  S  3
+W  H  8
+W  D  1
+W  C  9
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 18,1,3,285,64,183,139,347,31,33,17,16,135,24,28,44,108,33,22,38,77,9,18,80,14,17,63,67,9,17,19,81,21,26,38,88,33,8,18,29,9,18,38
+[Auction "N"]
+1D 2C 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+CA C2 CK CT 
+H4 HJ HA H6 
+C3 C4 CJ S8 
+S5 S7 ST SA 
+S6 SJ S9 SK 
+D3 D2 SQ S4 
+D7 D4 DT DA 
+H2 DK C5 D5 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "14"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T52.Q987432.93.K Q6.J5.KJ8542.653 AJ9743.T6.A76.AQ K8.AK.QT.JT98742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "89a4489a445339953399"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  4
+N  C  4
+S NT  8
+S  S  9
+S  H 10
+S  D  4
+S  C  4
+E NT  5
+E  S  3
+E  H  3
+E  D  9
+E  C  9
+W NT  5
+W  S  3
+W  H  3
+W  D  9
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,2,0,110,284,207,192,26,52,107,32,18,128,99,82,27,324,42,19,27,372,38,8,34,62,39,20,9,31,20,19,7,28,36,37,7,25,8,27,45,160,135,21,81,58,12,50,28,37,26,17,7
+[Auction "E"]
+2D =1= 2S 3D 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "W"]
+HA H2 HJ HT 
+HK H3 H5 H6 
+DQ D3 D2 DA 
+C2 CK C5 CA 
+C4 D9 C3 CQ 
+DT S2 D4 D6 
+SK S5 S6 S9 
+CJ ST C6 D7 
+C7 HQ D5 SJ 
+S8 H4 SQ SA 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "14"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T52.Q987432.93.K Q6.J5.KJ8542.653 AJ9743.T6.A76.AQ K8.AK.QT.JT98742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "89a4489a445339953399"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  4
+N  C  4
+S NT  8
+S  S  9
+S  H 10
+S  D  4
+S  C  4
+E NT  5
+E  S  3
+E  H  3
+E  D  9
+E  C  9
+W NT  5
+W  S  3
+W  H  3
+W  D  9
+W  C  9
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 18,1,3,83,59,42,257,697,117,84,28,20,16,97,29,26,123,31,20,34,26,19,22,14,30,16,17,7,19,12,18,14,100,37,23,15,19,39,22,23,52,21,19,19,41,22,8,32,46,15,16,42,20,20,9,16,20,7,15,11,15,4,16,9
+[Auction "E"]
+Pass 1S 2C 2S 
+3C 4S Pass Pass 
+Pass 
+[Play "W"]
+HK H2 H5 H6 
+CJ CK C6 CA 
+C2 D3 C3 CQ 
+DT D9 D2 DA 
+DQ S2 D4 D6 
+S8 S5 S6 SA 
+C4 ST D5 D7 
+HA H3 HJ HT 
+CT H4 C5 S3 
+SK H7 SQ S9 
+C9 H8 D8 S4 
+C7 H9 DJ SJ 
+C8 HQ DK S7 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "15"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT63.QT2.J2.KJ52 J94.K873.K43.AQ7 8752.96.QT75.T86 KQ.AJ54.A986.943"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "453454534598a9898a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,485,57,106,55,73,74,37,91,37,24,26,213,245,33,14,30,27,78,12,134,52,14,26,11,31,15,21,115,32,24,11,45,48,10,6,34,18,7,26,12,13,9,31,10,26,8,20
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+S5 SQ SA S4 
+C8 C3 C2 CQ 
+H6 H4 H2 HK 
+H9 HJ HQ H3 
+C6 C4 C5 CA 
+S8 HA HT H7 
+S2 SK S3 S9 
+D5 D6 D2 DK 
+S7 C9 S6 SJ 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "15"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AT63.QT2.J2.KJ52 J94.K873.K43.AQ7 8752.96.QT75.T86 KQ.AJ54.A986.943"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "453454534598a9898a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,92,171,345,31,43,122,205,63,38,14,22,216,211,26,50,34,38,16,16,12,32,28,42,131,40,27,30,43,84,26,15,21,18,16,38,120,247,29,34,59,32,17,11,300,18,21,17,21,31,29,23,22,26,14,23,13,34,17,14,17,20,18,9
+[Auction "S"]
+Pass 1D =1= Pass 1H 
+Pass 2S =2= Pass 4H 
+Pass Pass Pass 
+[Note "1: 14-15, no 5cM, can have 0♢"]
+[Note "2: 14-15, 4♡"]
+[Play "S"]
+D5 D6 DJ DK 
+H6 H4 H2 HK 
+H9 HJ HQ H3 
+C6 C3 C2 CQ 
+S7 HA HT H7 
+S2 SK SA S4 
+C8 C4 CK CA 
+S5 SQ S3 S9 
+D7 DA D2 D3 
+DT D9 C5 D4 
+DQ D8 S6 H8 
+S8 C9 ST SJ 
+CT H5 CJ C7 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "16"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T872.J82.QJ32.J3 AKJ.T4.KT.QT9842 4.K763.A54.AK765 Q9653.AQ95.9876."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "53666536667a7778a777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  3
+S  H  6
+S  D  6
+S  C  6
+E NT  7
+E  S 10
+E  H  7
+E  D  7
+E  C  7
+W NT  8
+W  S 10
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,2,0,75,88,74,107,130,33,64,38,91,58,88,36,46,52,80,215,55,22,212,45,116,31,166,108,25,22,270,39,24,17,149,29,23,20,468,26,17,26,17,17,36,32,31,26,10,25,11,23,19,16,14,9,11,30,58,15,12,22,9,29,17,14,13,7,9,13
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2C Pass 
+2H Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+DJ DK DA D6 
+DQ DT D5 D7 
+S2 SA S4 S3 
+S8 SK C5 S5 
+H8 H4 H3 HQ 
+S7 SJ C6 S6 
+H2 HT H6 HA 
+ST C2 C7 SQ 
+D2 C4 D4 D9 
+D3 C8 CK D8 
+HJ C9 H7 H5 
+C3 CQ CA S9 
+CJ CT HK H9 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "16"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T872.J82.QJ32.J3 AKJ.T4.KT.QT9842 4.K763.A54.AK765 Q9653.AQ95.9876."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "53666536667a7778a777"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  6
+N  D  6
+N  C  6
+S NT  5
+S  S  3
+S  H  6
+S  D  6
+S  C  6
+E NT  7
+E  S 10
+E  H  7
+E  D  7
+E  C  7
+W NT  8
+W  S 10
+W  H  7
+W  D  7
+W  C  7
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 5,1,3,68,28,322,151,25,107,39,148,59,59,35,55,15,23,109,77,29,17,57,15,16,32,20,128,118,9,32,25,44,18,18,21,15,24,65,187,21,71,31,319,17,20,93,16,17,27,53,11,25,27,22,17,10,10,12,19,16,7
+[Auction "W"]
+Pass Pass 2C =1= Pass 
+Pass Pass 
+[Note "1: 6-13 5+♣s"]
+[Play "S"]
+S4 S3 S7 SA 
+C5 D6 CJ C8 
+C6 S5 S2 SK 
+D4 D7 DJ DK 
+CK H5 C3 C9 
+DA D8 D2 DT 
+D5 D9 DQ C2 
+CA H9 D3 CT 
+H7 HQ H8 H4 
+H3 HA H2 HT 
+C7 S6 S8 SJ 
+HK S9 HJ C4 
+H6 SQ ST CQ 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "17"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:92.JT4.T73.AJ876 K764.A632.AQ42.5 QJ53.KQ97.986.Q3 AT8.85.KJ5.KT942"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54535545358989889898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  3
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,2,0,76,66,87,52,46,253,36,98,61,62,42,41,28,119,416,37,41,185,41,28,16,47,67,23,29,84,21,27,16,27,13,43,20,32,10,14,25,40,26,156,12,30,29,45,361,30,57,29,77,83,23,65,30,30,62,10,10,24,20,21,10,6,16,16,7
+[Auction "N"]
+Pass 1D Pass 2C 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+HJ H2 H7 H5 
+HT H3 HQ H8 
+H4 HA H9 C2 
+D7 D2 D9 DK 
+D3 D4 D6 DJ 
+DT DA D8 D5 
+C6 DQ S5 C4 
+CA C5 CQ CK 
+S9 S4 SJ SA 
+S2 S6 SQ ST 
+C7 H6 HK S8 
+CJ S7 C3 C9 
+C8 SK S3 CT 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "17"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:92.JT4.T73.AJ876 K764.A632.AQ42.5 QJ53.KQ97.986.Q3 AT8.85.KJ5.KT942"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54535545358989889898"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  3
+N  C  5
+S NT  5
+S  S  4
+S  H  5
+S  D  3
+S  C  5
+E NT  8
+E  S  9
+E  H  8
+E  D  9
+E  C  8
+W NT  8
+W  S  9
+W  H  8
+W  D  9
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,3,72,217,65,187,34,289,35,16,19,29,203,18,63,41,16,113,18,24,29,10,28,35,47,480,31,132,18,13,19,51,15,65,20,24,9,17,18,32,222,39,15,101,29,33,25,118,518,50,31,28,27,14,41,25,28,11,8,20,16,9,8
+[Auction "N"]
+Pass 1NT =1= Pass 2S =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 11-13 "]
+[Note "2: range ask"]
+[Play "S"]
+H7 H8 HT H2 
+HQ H5 HJ H3 
+HK C2 H4 HA 
+SJ SA S2 S4 
+D6 DK D3 D2 
+D8 DJ D7 D4 
+D9 D5 DT DA 
+S3 C4 C6 DQ 
+C3 CK CA C5 
+SQ S8 S9 S6 
+CQ C9 C7 S7 
+H9 CT C8 H6 
+S5 ST CJ SK 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "18"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T.AQJT7642.J8.T2 AKJ86.K3.KQT.AK8 753..96542.J6543 Q942.985.A73.Q97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "1173311733cc6aacb6aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  7
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  7
+S  D  3
+S  C  3
+E NT 12
+E  S 12
+E  H  6
+E  D 10
+E  C 10
+W NT 12
+W  S 11
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 28,1,3,276,83,92,237,80,64,40,74,53,22,165,26,281,40,18,21,40,46,76,10,74,11,23,8
+[Auction "E"]
+1C =1= Pass 1S =2= 2H 
+2S Pass 4S Pass 
+4NT =3= Pass 5C =4= Pass 
+6S Pass Pass Pass 
+[Note "1: any 16+"]
+[Note "2: 8+HCP, BAL"]
+[Note "3:  * 1430 [0:13]"]
+[Note "4: 1/4"]
+[Play "N"]
+HA H3 C6 H9 
+H7 HK S3 H5 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "18"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T.AQJT7642.J8.T2 AKJ86.K3.KQT.AK8 753..96542.J6543 Q942.985.A73.Q97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "1173311733cc6aacb6aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  7
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  7
+S  D  3
+S  C  3
+E NT 12
+E  S 12
+E  H  6
+E  D 10
+E  C 10
+W NT 12
+W  S 11
+W  H  6
+W  D 10
+W  C 10
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 28,2,0,147,85,247,379,351,121,161,93,391,51,610,54,620,48,1083,55,117,58,756,92,84,51,50,72,1060,272,47,45,69,22,28,21,105,36,19,103,220,37,24,19,243,35,10,12,17,26,20,26,84,29,44,17,38,22,48,19,26,24,14,26,42,19,20,16,9
+[Auction "E"]
+2C =1= Pass 2D =2= 2H 
+X =3= Pass 2S =4= 3H 
+X =5= Pass 3S Pass 
+4C =6= Pass 4D Pass 
+4NT Pass 5NT Pass 
+6S Pass Pass Pass 
+[Note "1:  * strong [0:05]"]
+[Note "2: relay"]
+[Note "3: takeout"]
+[Note "4: relay"]
+[Note "5:  * pens I think [0:12]"]
+[Note "6:  * cue [0:04]"]
+[Play "N"]
+CT C8 C6 CQ 
+ST SA S7 S2 
+H2 S6 S3 SQ 
+H4 SK S5 S4 
+C2 CA C3 C7 
+D8 DK D5 D3 
+DJ DQ D4 D7 
+H6 CK C4 C9 
+H7 DT D2 DA 
+HA H3 C5 H5 
+HQ -  -  -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "19"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT8432.J97.A9.6 A75.K.JT8752.J94 6.QT864.K3.AQ872 Q9.A532.Q64.KT53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "8a9468a9464348643486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S 10
+S  H  9
+S  D  4
+S  C  6
+E NT  4
+E  S  3
+E  H  4
+E  D  8
+E  C  6
+W NT  4
+W  S  3
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,146,24,270,64,128,23,28,15,24,117,45,29,113,18,55,48,51,85,17,17,72,81,57,202,169,34,15,8,146,24,31,37,39,27,21,31,69,29,11,21,24,24,18,9,253,20,17,11,74,75,12,28,30,10,16,9,7,21,8,12
+[Auction "S"]
+1H Pass 2H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+C3 C6 CJ CQ 
+H2 H7 HK H4 
+D4 DA DJ D3 
+H3 H9 D5 H6 
+D6 D9 DT DK 
+C5 HJ C4 C2 
+SQ ST S5 S6 
+DQ S2 D2 H8 
+CT S3 C9 CA 
+CK S4 S7 C8 
+S9 SJ SA HT 
+H5 S8 D7 C7 
+HA SK D8 HQ 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "19"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT8432.J97.A9.6 A75.K.JT8752.J94 6.QT864.K3.AQ872 Q9.A532.Q64.KT53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "8a9468a9464348643486"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  9
+N  D  4
+N  C  6
+S NT  8
+S  S 10
+S  H  9
+S  D  4
+S  C  6
+E NT  4
+E  S  3
+E  H  4
+E  D  8
+E  C  6
+W NT  4
+W  S  3
+W  H  4
+W  D  8
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,134,129,108,123,76,87,250,41,55,31,197,77,47,7,149,78,93,10,12,25,22,19,29,33,144,46,20,23,36,9,23,17,46,11,179,22,36,30
+[Auction "S"]
+1H Pass 1S Pass 
+2C Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HK H4 H2 HJ 
+C4 CA C5 C6 
+SA S6 S9 SJ 
+C9 C2 CK S2 
+S5 H6 SQ SK 
+S7 H8 H3 ST 
+D2 HQ HA H7 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "20"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK86.JT2.964.Q74 9752.Q6.Q83.A983 JT4.8753.T52.KT2 Q3.AK94.AKJ7.J65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "45444454449899998999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  4
+S NT  4
+S  S  5
+S  H  4
+S  D  4
+S  C  4
+E NT  9
+E  S  8
+E  H  9
+E  D  9
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,99,68,164,111,72,42,153,51,74,30,189,137,17,31,29,26,243,153,63,9,146,57,20,27,47,17,27,13,19,13,17,7,77,557,30,9,64,19,26,7,35,16,12,30,8
+[Auction "W"]
+1C =1= Pass 1S =2= Pass 
+1NT =3= Pass 2C =4= Pass 
+2NT =5= Pass 3H =6= Pass 
+3NT Pass Pass Pass 
+[Note "1: 16+ any hand"]
+[Note "2: balanced 8+ gf"]
+[Note "3: ask HCP range"]
+[Note "4: 8-10 hcp"]
+[Note "5: ask for 4cM"]
+[Note "6: 4♠s but not 4♡s"]
+[Play "N"]
+HJ HQ H7 H4 
+CQ C3 C2 CJ 
+SA S2 S4 S3 
+SK S5 ST SQ 
+S6 S7 SJ C6 
+H2 H6 H3 HA 
+D4 DQ D2 D7 
+-  S9 -  -  
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "20"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AK86.JT2.964.Q74 9752.Q6.Q83.A983 JT4.8753.T52.KT2 Q3.AK94.AKJ7.J65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "45444454449899998999"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  4
+S NT  4
+S  S  5
+S  H  4
+S  D  4
+S  C  4
+E NT  9
+E  S  8
+E  H  9
+E  D  9
+E  C  9
+W NT  9
+W  S  8
+W  H  9
+W  D  9
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,339,42,28,80,118,37,26,33,21,26,123,358,39,32,68,33,12,18,17,29,28,26,29,48,46,13,45,31,9,26,781,43,46,11,25,24,20,27,25,29,23,16,40,43,14,21,51,23,11,27
+[Auction "W"]
+1D Pass 1S Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+HJ HQ H8 H4 
+C7 CA C2 C5 
+C4 C3 CK C6 
+H2 H6 H7 HK 
+CQ C8 CT CJ 
+SK S2 S4 S3 
+SA S5 ST SQ 
+S6 S9 SJ H9 
+HT S7 H5 HA 
+D6 DQ D5 D7 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "21"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ73.A.A965.Q642 A.765.KQ843.AKT3 J85.KT983.J.J985 T9642.QJ42.T72.7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "67648676486479564795"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  4
+E  H  7
+E  D  9
+E  C  5
+W NT  6
+W  S  4
+W  H  7
+W  D  9
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,268,103,197,22,48,31,79,19,140,234,242,167,33,21,53,172,17,138,79,49,19,9,112,57,21,9,218,176,18,244,20,63,29,76,52,151,9,17,34,46,17,146,53,35,22,118,323,28,9,22,175,18,17,19,13,37,8,13,12,16,5,13
+[Auction "N"]
+1D Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "W"]
+D2 D5 DQ DJ 
+DT DA D4 H3 
+H2 HA H7 H8 
+C7 C2 CK C5 
+HJ S3 H6 HT 
+D7 D9 DK C8 
+ST D6 D8 H9 
+S2 C4 D3 S5 
+S9 CQ CA C9 
+S4 C6 C3 CJ 
+S6 S7 SA SJ 
+H4 SQ CT S8 
+HQ SK H5 HK 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "21"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ73.A.A965.Q642 A.765.KQ843.AKT3 J85.KT983.J.J985 T9642.QJ42.T72.7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "67648676486479564795"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  6
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  6
+E  S  4
+E  H  7
+E  D  9
+E  C  5
+W NT  6
+W  S  4
+W  H  7
+W  D  9
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,106,29,78,36,110,51,165,41,239,114,45,43,312,39,12,62,162,27,54,10,40,66,15,144,129,31,9,13,8,33,10,176,213,44,89,8,47,86,35,23,64,30,9,22,26,39,12,13,10,21,11,12,14,35,7,9,10,5,17,6
+[Auction "N"]
+1D Pass 1H Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+C3 C8 C7 C4 
+SA S5 S2 SK 
+DK DJ D2 D5 
+D3 H3 DT DA 
+H6 H8 H2 HA 
+CK C5 D7 C2 
+DQ H9 S4 D6 
+D4 HT H4 D9 
+H5 SJ S6 S3 
+H7 HK HJ C6 
+CT S8 S9 SQ 
+D8 C9 ST S7 
+CA CJ HQ CQ 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "22"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ4.T72.9875.Q54 AJT6.954.A63.962 987.AK863.KQ4.AT 532.QJ.JT2.KJ873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "98986989864534745347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  6
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 4,1,3,59,142,21,80,62,37,204,46,39,151,21,20,17,58,15,21,24,43,14,14,9,75,23,20,17,53,20,19,27,63,42,17,40,46,19,77,17,21,194,21,80,18,26,15,25,18,12,16,7,17,26,7,19,8,15,4,26
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 15/17"]
+[Play "W"]
+C7 C4 C9 CT 
+HJ H2 H5 HA 
+HQ H7 H4 HK 
+S5 HT H9 H3 
+D2 D5 D3 DQ 
+S3 SQ SA S7 
+C3 C5 C6 CA 
+S2 S4 S6 H8 
+DJ CQ D6 H6 
+C8 SK ST S9 
+DT D7 DA D4 
+CJ D8 SJ S8 
+CK D9 C2 DK 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "22"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ4.T72.9875.Q54 AJT6.954.A63.962 987.AK863.KQ4.AT 532.QJ.JT2.KJ873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "98986989864534745347"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  6
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  6
+E NT  4
+E  S  5
+E  H  3
+E  D  4
+E  C  7
+W NT  4
+W  S  5
+W  H  3
+W  D  4
+W  C  7
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 4,2,0,149,131,72,75,37,240,72,257,135,82,90,110,64,41,7,49,41,36,9,69,20,20,11,27,13,16,15,200,26,11,35,1113,48,12,24,20,33,14,75,12,17,19,12
+[Auction "E"]
+Pass 1H Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+S6 S7 S2 S4 
+H5 HA HQ H2 
+H4 H3 HJ H7 
+SA S8 S5 SK 
+SJ S9 S3 SQ 
+D3 DK D2 D5 
+H9 H6 C3 HT 
+DA D4 DT D7 
+ST CT C7 C4 
+*
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "23"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K9532.AT.A86.AT6 6.J543.J9542.942 J8.K8762.KT73.KQ AQT74.Q9.Q.J8753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "b9aa8b9aa82332423324"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D 10
+N  C  8
+S NT 11
+S  S  9
+S  H 10
+S  D 10
+S  C  8
+E NT  2
+E  S  3
+E  H  3
+E  D  2
+E  C  4
+W NT  2
+W  S  3
+W  H  3
+W  D  2
+W  C  4
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,1,3,170,153,787,50,102,24,302,88,47,15,25,318,303,43,36,118,43,26,321,14,21,26,253,30,9,20,44,25,13,10,172,15,49,22,99,30,57,14,305,16,70,28,110,53,15,19,31,23,10,16,17,112,6,12,20,18,12,6,7,13,11,7
+[Auction "S"]
+1H 1S X Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S6 SJ SA S2 
+C4 CQ C5 C6 
+D2 D3 DQ DA 
+C2 CK C3 CT 
+D4 DK C7 D6 
+H3 H2 H9 HA 
+H4 HK HQ HT 
+D5 S8 ST SK 
+DJ D7 S4 D8 
+HJ H6 S7 S3 
+C9 DT C8 CA 
+H5 H7 SQ S5 
+D9 H8 CJ S9 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "23"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K9532.AT.A86.AT6 6.J543.J9542.942 J8.K8762.KT73.KQ AQT74.Q9.Q.J8753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "b9aa8b9aa82332423324"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 10
+N  D 10
+N  C  8
+S NT 11
+S  S  9
+S  H 10
+S  D 10
+S  C  8
+E NT  2
+E  S  3
+E  H  3
+E  D  2
+E  C  4
+W NT  2
+W  S  3
+W  H  3
+W  D  2
+W  C  4
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,2,0,128,52,456,38,104,59,93,33,60,39,430,586,40,66,111,189,12,12,386,22,10,15,65,13,56,30,1083,32,27,50,10,329,18,33,39,17,9,12,19,13,11,6,13,38,69,13,29,35,15,15,15,37,11,8,9,29,10,8,6,11,6,8
+[Auction "S"]
+1H 1S X Pass 
+2D Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S6 S8 SA S3 
+C2 SJ SQ SK 
+H3 H2 H9 HA 
+H5 H6 HQ HT 
+C4 D3 ST S2 
+D2 DK DQ D6 
+C9 CK C3 C6 
+D4 CQ C5 CT 
+H4 HK C7 S5 
+D5 D7 S4 DA 
+D9 H7 C8 CA 
+HJ H8 S7 S9 
+DJ DT CJ D8 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "24"]
+[West "Ivan Leung#524083"]
+[North "David Mathews#400023"]
+[East "David Owen#55911"]
+[South "Helen Mason#400066"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:42.A873.K52.Q973 QT8.K954.96.J862 A95.QT6.T83.AT54 KJ763.J2.AQJ74.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "64758647586968569585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,58,28,260,63,124,45,145,39,30,26,293,35,92,17,359,26,94,12,19,26,10,55,163,214,57,11,85,15,26,7,64,22,21,9,27,32,8,18,211,40,34,54,16,16,8,13,20,15,30,19,39,32,7,17,9,34,7,16,7,11,8,12
+[Auction "W"]
+1S Pass 1NT =1= Pass 
+3D =2= Pass 3S Pass 
+Pass Pass 
+[Note "1: relay forcing 1 round"]
+[Note "2: 14-15 5S5D"]
+[Play "N"]
+C3 C2 CA CK 
+C7 C6 C4 S6 
+S2 SQ SA S3 
+CQ C8 C5 H2 
+HA H4 H6 HJ 
+H8 HK HT D4 
+DK D6 D3 DQ 
+H7 H9 HQ S7 
+D2 D9 D8 DA 
+D5 ST DT D7 
+S4 S8 S5 SK 
+C9 H5 S9 SJ 
+H3 CJ CT DJ 
+
+[Event "17 Feb Santinelli-Clarke vs Rawlins"]
+[Site "RealBridge"]
+[Date "2025.02.17"]
+[Board "24"]
+[West "Pamela Pope#453237"]
+[North "Mike Rawlins#94613"]
+[East "Josh Santinelli-Clarke#489475"]
+[South "Naomi Gibbs#430704"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:42.A873.K52.Q973 QT8.K954.96.J862 A95.QT6.T83.AT54 KJ763.J2.AQJ74.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Rawlins team"]
+[VisitTeam "Santinell-Clarke team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "64758647586968569585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  7
+N  D  5
+N  C  8
+S NT  6
+S  S  4
+S  H  7
+S  D  5
+S  C  8
+E NT  6
+E  S  9
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,148,36,47,56,102,84,144,237,33,20,69,28,159,42,198,22,20,47,43,30,33,21,392,40,19,9,344,169,27,14,162,30,21,41,97,33,31,29,698,25,11,10,577,15,9,40,24,22,21,18,10,21,9,19,11,9,8,20
+[Auction "W"]
+1S Pass 2S Pass 
+Pass Pass 
+[Play "N"]
+C7 C2 CA CK 
+C9 C6 C5 S3 
+S2 ST SA S6 
+CQ C8 C4 H2 
+HA H4 H6 HJ 
+S4 SQ S5 S7 
+DK D6 D8 DJ 
+H3 HK HT D4 
+D2 D9 D3 DA 
+D5 S8 DT D7 
+H7 H5 HQ SK 
+C3 H9 S9 SJ 
+H8 CJ CT DQ 

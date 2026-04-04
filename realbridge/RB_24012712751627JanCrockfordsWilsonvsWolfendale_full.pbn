@@ -1,0 +1,4103 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "1"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT43.T92.AKQJ8.6 K52.J874.52.KJ75 AJ987.KQ6.6.Q832 6.A53.T9743.AT94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8b7878b7974254632546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S 11
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  2
+E  H  5
+E  D  4
+E  C  6
+W NT  3
+W  S  2
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,1490,43,357,113,310,48,126,42,30,25,96,43,172,19,180,18,20,9,9,15,33,11,88,24,7,31,10,19,12,69,9,31,23,7
+[Auction "N"]
+1D Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+CA C6 C5 C2 
+HA H2 H4 H6 
+H5 H9 HJ HK 
+D3 DA D5 D6 
+D7 DK D2 HQ 
+S6 SQ SK SA 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "1"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:QT43.T92.AKQJ8.6 K52.J874.52.KJ75 AJ987.KQ6.6.Q832 6.A53.T9743.AT94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8b7878b7974254632546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 11
+N  H  7
+N  D  8
+N  C  7
+S NT  8
+S  S 11
+S  H  7
+S  D  9
+S  C  7
+E NT  4
+E  S  2
+E  H  5
+E  D  4
+E  C  6
+W NT  3
+W  S  2
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,698,123,249,874,204,71,466,58,53,18,121,513,22,13,40,24,40,19,113,30,39,116,180,76,41,11,39,58,32,26,110,21,33,15,60
+[Auction "N"]
+1D =1= Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: almost always at least 3D; may have longer clubs"]
+[Play "W"]
+DT DA D2 D6 
+S6 SQ S2 S8 
+CT S3 S5 SJ 
+C4 S4 SK SA 
+C9 C6 CJ C2 
+HA H2 H4 HQ 
+H5 -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "2"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K82.AKJ52.QT52.T T54.83.K876.A973 AJ963..943.K8654 Q7.QT9764.AJ.QJ2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "89797897975364553645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  3
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  3
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,87,142,48,105,60,85,91,77,52,31,78,265,45,178,176,20,16,263,35,107,15,91,86,23,26,27,19,75,17,170,169,24,27,72,23,17,13,423,22,68,39,35,32,21,25,102,23,23,79
+[Auction "E"]
+Pass Pass 1H Pass 
+1NT Pass 2H Pass 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+CQ CT CA C4 
+DA D2 D6 D3 
+DJ DQ DK D4 
+S7 D5 D8 D9 
+HT HA H8 C5 
+SQ SK S4 S3 
+H4 S2 S5 SJ 
+C2 S8 C3 C6 
+H6 DT D7 C8 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "2"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K82.AKJ52.QT52.T T54.83.K876.A973 AJ963..943.K8654 Q7.QT9764.AJ.QJ2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "89797897975364553645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  7
+N  D  9
+N  C  7
+S NT  8
+S  S  9
+S  H  7
+S  D  9
+S  C  7
+E NT  5
+E  S  3
+E  H  6
+E  D  4
+E  C  5
+W NT  5
+W  S  3
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,70,410,154,390,80,38,31,55,522,35,16,16,31,6,17,34,26,15,19,69,22,59,10,680,40,33,14,42,21,30,27,10,25,115,27,177,29,10,9,104,1294,87,9,1463,24,9,34,55,16,41,17,20,15,48
+[Auction "E"]
+Pass 2S =1= Pass 4S 
+Pass Pass Pass 
+[Note "1: 5S 5m < opening bid"]
+[Play "W"]
+HT HA H8 D3 
+H9 HK H3 D4 
+C2 CT CA C4 
+DA D2 D6 D9 
+DJ DQ DK S3 
+CJ H2 C3 CK 
+CQ S2 C7 C5 
+S7 SK S4 S6 
+H7 H5 C9 S9 
+H4 S8 ST C6 
+SQ D5 D7 C8 
+HQ HJ D8 -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "3"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT84.76.T982.J32 A97.T9853.K4.A98 K63.AKJ.QJ65.K75 J52.Q42.A73.QT64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "67586675866685766857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  8
+S  C  6
+E NT  6
+E  S  6
+E  H  8
+E  D  5
+E  C  7
+W NT  6
+W  S  6
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,217,84,157,81,108,58,506,46,139,121,13,30,33,156,39,20,142,17,14,15,17,175,18,9,122,241,30,153,907,28,32,33,55,33,16,17,114,56,10,12
+[Auction "S"]
+1C =1= Pass 1D =2= Pass 
+1NT =3= Pass Pass Pass 
+[Note "1: 2-way"]
+[Note "2: most 0-7; or 8-11 bal"]
+[Note "3: 17-19 bal"]
+[Play "W"]
+C4 C2 CA C5 
+CQ C3 C9 C7 
+CT CJ C8 CK 
+DA D2 D4 DQ 
+C6 D8 S9 S3 
+H2 H6 H8 HJ 
+D7 D9 DK D5 
+S2 S4 SA S6 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "3"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QT84.76.T982.J32 A97.T9853.K4.A98 K63.AKJ.QJ65.K75 J52.Q42.A73.QT64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "67586675866685766857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  8
+S  C  6
+E NT  6
+E  S  6
+E  H  8
+E  D  5
+E  C  7
+W NT  6
+W  S  6
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 11,2,1,165,41,54,112,73,116,111,37,28,29,224,56,86,19,177,30,29,12,73,23,10,20,73,55,16,34,16,30,8,25,9,17,18,34,110,28,8,16,9,16,18,23,120,597,23,8,26,26,6,13,6,16,5,9
+[Auction "S"]
+1D Pass Pass 1H 
+1NT 2H 3D Pass 
+Pass Pass 
+[Play "W"]
+D3 D2 DK D5 
+H2 H6 HT HA 
+DA D8 D4 DQ 
+D7 D9 H5 D6 
+S2 S4 S7 SK 
+S5 ST S9 S6 
+H4 H7 H8 HK 
+SJ SQ SA S3 
+CT C2 C8 CK 
+HQ DT H3 HJ 
+C4 S8 C9 C5 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "4"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT84.AJ32.764.A8 J97.5.AQT93.JT53 Q32.T64.J2.KQ972 K65.KQ987.K85.64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "68658686586578575785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  8
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,250,128,113,71,202,851,37,39,85,44,60,32,39,18,25,54,52,26,12,93,51,64,24,112,51,46,29,41,31,19,17,51,666,61,7,24,28,36,10,32,22,33,18,9,27,29,7,13,19,14,13,8,17,15,7,10
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+S4 S7 SQ SK 
+D4 DQ D2 D8 
+D6 D3 DJ DK 
+D7 DA S3 D5 
+S8 D9 H4 H8 
+C8 DT H6 H9 
+HA H5 HT HK 
+H2 C3 C2 H7 
+H3 C5 C7 HQ 
+SA S9 S2 S5 
+HJ CT C9 S6 
+CA CJ CK C4 
+ST SJ CQ C6 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "4"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AT84.AJ32.764.A8 J97.5.AQT93.JT53 Q32.T64.J2.KQ972 K65.KQ987.K85.64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "7"]
+[Score "NS -80"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "68658686586578575785"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  5
+N  C  8
+S NT  6
+S  S  8
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+W NT  7
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 2,2,1,250,63,283,135,123,224,20,30,23,8,28,27,25,49,9,24,90,24,427,22,40,282,508,14,35,26,23,11,32,16,7,14,8,17,308,1024,74,74,21,35,53,29,19,19,55,38,18,5,11,19,6,15,11,4,9,9
+[Auction "W"]
+1H Pass Pass Pass 
+[Play "N"]
+D6 DA D2 D5 
+HA H5 H4 HK 
+D7 D3 DJ DK 
+H2 D9 H6 HQ 
+H3 C3 HT H9 
+CA C5 C2 C6 
+C8 CT CQ C4 
+D4 CJ CK H8 
+HJ DT C7 D8 
+S4 S9 SQ SK 
+SA S7 S3 S5 
+S8 SJ S2 S6 
+ST DQ C9 H7 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "5"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J873.JT8.Q5.9732 A.AK75.KJ976.Q84 KQ64.96.AT3.JT65 T952.Q432.842.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "451254512597bb797bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  1
+N  D  2
+N  C  5
+S NT  4
+S  S  5
+S  H  1
+S  D  2
+S  C  5
+E NT  9
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT  9
+W  S  7
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,187,87,156,65,61,183,46,109,49,38,548,54,25,83,41,103,35,384,27,43,16,35,36,24,631,22,25,34,15,26,24,14,42,87,25,22,34,13,24,23,19,15
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+C7 C8 CJ CA 
+D5 D6 DT D8 
+C3 C4 C5 CK 
+DQ DK DA D2 
+H8 D7 D3 D4 
+C2 CQ C6 S2 
+HJ H5 H6 HQ 
+HT HA H9 H4 
+-  HK -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "5"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J873.JT8.Q5.9732 A.AK75.KJ976.Q84 KQ64.96.AT3.JT65 T952.Q432.842.AK"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "451254512597bb797bb7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  1
+N  D  2
+N  C  5
+S NT  4
+S  S  5
+S  H  1
+S  D  2
+S  C  5
+E NT  9
+E  S  7
+E  H 11
+E  D 11
+E  C  7
+W NT  9
+W  S  7
+W  H 11
+W  D 11
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,193,85,56,142,97,63,22,311,80,206,29,219,95,791,33,298,112,190,34,101,266,82,29,335,493,33,17,379,45,12,23,12,15,9,10,855,21,16,39,347,51,17,10,12,19,8,19,10,14,18,18,239,64,41
+[Auction "N"]
+Pass 1C =1= Pass 1NT =2= 
+Pass 2C =3= Pass 2H =4= 
+Pass 2S =5= Pass 3C =6= 
+Pass 3H =7= Pass 3S =8= 
+Pass 4D =9= Pass 4H =10= 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: bal, GF"]
+[Note "3: relay"]
+[Note "4: 44Maj or mins"]
+[Note "5: relay"]
+[Note "6: dblton ♣, so 4432"]
+[Note "7: relay"]
+[Note "8: art, not slammy, no extras"]
+[Note "9: forces 4♡"]
+[Note "10: forced"]
+[Play "N"]
+C7 C4 CT CK 
+H8 HA H6 H2 
+HT H5 H9 HQ 
+D5 DJ D3 D2 
+HJ HK S6 H3 
+C2 C8 C5 CA 
+DQ DK DA D4 
+S3 -  DT D8 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "6"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT2..KQT863.AJ86 J8.J8743.AJ2.QT2 AQ9763.65.95.K73 54.AKQT92.74.954"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6c5ba6c5ba5182351823"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  5
+N  D 11
+N  C 10
+S NT  6
+S  S 12
+S  H  5
+S  D 11
+S  C 10
+E NT  5
+E  S  1
+E  H  8
+E  D  2
+E  C  3
+W NT  5
+W  S  1
+W  H  8
+W  D  2
+W  C  3
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,0,3,115,145,88,260,85,38,31,83,278,48,19,29,42,21,9,68,69,36,30,520,29,11,9,39,21,325,36,161,28,16,20,25,14
+[Auction "E"]
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+HK S2 H3 H5 
+D7 DK DA D5 
+C9 CJ C2 C3 
+D4 DQ D2 D9 
+H2 D3 DJ S9 
+S4 SK S8 S3 
+-  ST SJ -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "6"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT2..KQT863.AJ86 J8.J8743.AJ2.QT2 AQ9763.65.95.K73 54.AKQT92.74.954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6c5ba6c5ba5182351823"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 12
+N  H  5
+N  D 11
+N  C 10
+S NT  6
+S  S 12
+S  H  5
+S  D 11
+S  C 10
+E NT  5
+E  S  1
+E  H  8
+E  D  2
+E  C  3
+W NT  5
+W  S  1
+W  H  8
+W  D  2
+W  C  3
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,151,158,444,393,211,36,31,40,48,23,30,161,148,163,28,805,478,41,19,1180,38,22,7,1186,807,31,12,78,22,11,37,17,31,26,13,46,22,9,27,7,20,13,39,8,12,7,10,7,20
+[Auction "E"]
+Pass 2D =1= 2H Pass 
+4H Pass Pass 4S 
+Pass Pass Pass 
+[Note "1: 3 way multi"]
+[Play "E"]
+H4 H5 HQ S2 
+D2 D5 D7 DQ 
+DJ D9 D4 D6 
+CQ CK C4 C8 
+S8 S3 S4 SK 
+SJ SA S5 ST 
+C2 C3 C5 CA 
+DA S6 H2 DT 
+CT C7 C9 CJ 
+H3 -  -  DK 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "7"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT95.AQ65.AQ4.T3 AK7642.T7.K53.94 3.K92.J82.AQJ765 J8.J843.T976.K82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9798a9798a3645346453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,162,139,326,62,142,79,121,57,53,34,56,423,25,46,258,174,32,54,28,82,25,86,19,69,49,25,24
+[Auction "S"]
+2C Pass 2D =1= 2S 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: asking; usually inv+"]
+[Play "E"]
+SK S3 SJ S5 
+HT H2 H4 HQ 
+C4 C5 CK CT 
+SA D2 S8 SQ 
+H7 -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "7"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:QT95.AQ65.AQ4.T3 AK7642.T7.K53.94 3.K92.J82.AQJ765 J8.J843.T976.K82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9798a9798a3645346453"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  9
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C 10
+E NT  3
+E  S  6
+E  H  4
+E  D  5
+E  C  3
+W NT  4
+W  S  6
+W  H  4
+W  D  5
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,101,48,150,281,68,82,44,36,39,52,94,230,16,52,66,36,16,18,17,16,43,14,32,47,30,9
+[Auction "S"]
+1C Pass 1H 2S 
+Pass Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+S6 S3 SJ SQ 
+C9 C5 CK CT 
+SK D2 S8 ST 
+SA D8 C8 S5 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "8"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT83.2.942.K8754 954.AQ9763.8.AQJ A7.K85.AKT75.T93 QJ62.JT4.QJ63.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "57589565888685486854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  8
+N  C  9
+S NT  5
+S  S  6
+S  H  5
+S  D  8
+S  C  8
+E NT  8
+E  S  6
+E  H  8
+E  D  5
+E  C  4
+W NT  8
+W  S  6
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 11,0,3,167,70,77,162,107,95,73,34,47,79,51,227,35,50,37,253,111,28,24,33,246,48,21,75,45,29,18,102,59,352,40,80,33,25,39,52,23,23,45,40,31,54,31,42,37,219,2017,61,73,46,11,40,24,15,101,93,26,14,50,67,23,22,18,25,7,62,9
+[Auction "W"]
+Pass Pass 1H 1NT 
+Pass Pass 2H Pass 
+Pass X Pass 3D 
+Pass Pass Pass 
+[Play "W"]
+HJ H2 HA H5 
+D3 D2 D8 DA 
+HT D4 H3 H8 
+D6 D9 H6 DK 
+C6 C4 CJ CT 
+H4 S3 H9 HK 
+C2 C5 CQ C9 
+DJ C7 HQ D5 
+DQ C8 H7 D7 
+S2 S8 S9 SA 
+S6 CK S4 DT 
+SJ SK S5 S7 
+SQ ST CA C3 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "8"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KT83.2.942.K8754 954.AQ9763.8.AQJ A7.K85.AKT75.T93 QJ62.JT4.QJ63.62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "57589565888685486854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  8
+N  C  9
+S NT  5
+S  S  6
+S  H  5
+S  D  8
+S  C  8
+E NT  8
+E  S  6
+E  H  8
+E  D  5
+E  C  4
+W NT  8
+W  S  6
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,2,1,77,87,26,62,72,177,79,35,61,59,36,181,29,12,159,55,18,32,6,51,16,18,30,28,11,41,14,31,32,55,331,17,9,8,29,9,58,26,40,31,20,9,9
+[Auction "W"]
+Pass Pass 1H 2D 
+2H 3D 3H Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D2 D8 
+SA S2 S8 S5 
+S7 SJ SK S9 
+H5 S6 S3 S4 
+C9 C2 C4 CJ 
+C3 C6 C5 CA 
+CT HT C7 CQ 
+HK HJ H2 H3 
+H8 -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "9"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:64.5432.AJ84.983 AJ9853.7.Q652.A5 QT72.96.KT73.K42 K.AKQJT8.9.QJT76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "441614416198b7b98b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  1
+N  D  6
+N  C  1
+S NT  4
+S  S  4
+S  H  1
+S  D  6
+S  C  1
+E NT  9
+E  S  8
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  8
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,86,128,69,65,67,42,40,108,74,31,24,625,61,125,31,543,55,115,142,67,51,528,56,10,16,202,48,9,41,292,26,47,17,670,43,32,531,37,39,17,19,259,25,31,13,15,20,7,31,25,39,9,19,213,17,22,17,15,24,10,40,13,15,16,8,8,12,7,9
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3C 
+Pass 3NT Pass 4C 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+H9 HA H5 H7 
+H6 HK H4 D2 
+S2 HQ H3 D5 
+D3 D9 DA D6 
+DK SK D4 DQ 
+CK CQ C3 C5 
+C4 C6 C8 CA 
+S7 C7 S4 SA 
+ST H8 S6 S8 
+DT CT DJ S3 
+SQ HT C9 SJ 
+D7 CJ D8 S5 
+C2 HJ H2 S9 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "9"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:64.5432.AJ84.983 AJ9853.7.Q652.A5 QT72.96.KT73.K42 K.AKQJT8.9.QJT76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "441614416198b7b98b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  1
+N  D  6
+N  C  1
+S NT  4
+S  S  4
+S  H  1
+S  D  6
+S  C  1
+E NT  9
+E  S  8
+E  H 11
+E  D  7
+E  C 11
+W NT  9
+W  S  8
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 22,2,1,110,44,26,158,49,70,31,136,88,234,31,127,134,169,34,687,74,125,33,1273,87,1276,49,306,347,32,19,13,17,11,10,48,13,69,14,64,13,21,45,24,75,18,33,54,126,15,35,15,19,12,13,12,13,19,37,79
+[Auction "N"]
+Pass 1S Pass 1NT =1= 
+Pass 2D Pass 2H =2= 
+Pass 2NT =3= Pass 3C =4= 
+Pass 3H =5= Pass 3S =6= 
+Pass 4D =7= Pass 5H =8= 
+Pass Pass Pass 
+[Note "1: art, relay, asking"]
+[Note "2: another asking relay"]
+[Note "3: shortage in H"]
+[Note "4: another asking relay"]
+[Note "5: 6-1-4-2"]
+[Note "6: asking for AKs"]
+[Note "7: 4 ctls"]
+[Note "8: meant as signoff"]
+[Play "N"]
+C8 CA C4 C6 
+H4 H7 H6 HA 
+H2 S3 H9 HK 
+H3 S5 C2 HQ 
+H5 D2 D3 HJ 
+D4 S8 S2 HT 
+S4 SA S7 SK 
+C3 C5 CK C7 
+-  -  D7 -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "10"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A4.KJ7.QJ.QT8542 KQT985.A953.43.6 72.QT84.AT972.KJ J63.62.K865.A973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54889548897954379543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  8
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H  8
+S  D  8
+S  C  9
+E NT  7
+E  S  9
+E  H  5
+E  D  4
+E  C  3
+W NT  7
+W  S  9
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,699,68,167,73,52,89,56,98,87,97,74,13,34,39,18,33,50,22,75,19,52,28,7,26,17,20,95,44,38,55,17,56,20,24,10,74,107,26,36,15,25,23,7,25,26,19,7,21,15,26,20,19,14,25,19,7,16,8,7,17
+[Auction "E"]
+2D =1= Pass 2H Pass 
+2S Pass Pass Pass 
+[Note "1: multi : Weak M , 2 strong options"]
+[Play "S"]
+CK CA C5 C6 
+HT H2 H7 H9 
+CJ C3 C4 S5 
+H4 H6 HJ HA 
+H8 S6 HK H3 
+D2 C7 C8 S8 
+HQ SJ SA H5 
+D7 C9 CQ ST 
+S2 S3 S4 SK 
+S7 D5 C2 SQ 
+DA D6 DJ D3 
+D9 DK DQ D4 
+DT D8 CT S9 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "10"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:A4.KJ7.QJ.QT8542 KQT985.A953.43.6 72.QT84.AT972.KJ J63.62.K865.A973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54889548897954379543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  8
+N  D  8
+N  C  9
+S NT  5
+S  S  4
+S  H  8
+S  D  8
+S  C  9
+E NT  7
+E  S  9
+E  H  5
+E  D  4
+E  C  3
+W NT  7
+W  S  9
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,274,60,247,87,368,42,24,101,66,544,37,91,21,41,9,13,99,22,29,33,90,30,16,27,95,19,23,22,59,15,24,16,105,35,12,21,40,41,12,8,104,91,24,26,15,17,9,78,19,9,18,11
+[Auction "E"]
+1S Pass 2H =1= Pass 
+2S Pass Pass Pass 
+[Note "1: sound 3cd raise in ♠"]
+[Play "S"]
+S2 S6 SA S5 
+S7 S3 S4 SQ 
+H4 H6 H7 H3 
+CJ CA C5 C6 
+CK C3 C4 S9 
+D9 DK DJ D3 
+D2 C7 CT ST 
+DT D8 DQ D4 
+H8 C9 CQ S8 
+HT H2 HJ HA 
+HQ SJ HK H5 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "11"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ53.975.J.J9852 T.A432.QT874.AKQ KQ874.KQJ.653.T7 962.T86.AK92.643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "4943749437848a6848a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  4
+N  D  3
+N  C  7
+S NT  4
+S  S  9
+S  H  4
+S  D  3
+S  C  7
+E NT  8
+E  S  4
+E  H  8
+E  D 10
+E  C  6
+W NT  8
+W  S  4
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 21,0,3,159,70,389,678,200,77,75,77,61,333,53,35,24,137,326,106,44,504,52,58,20,314,28,26,55,52,15,15,165,302,43,9,22,28,26,10,26,47,17,8,20,10,9,10,19,10,12,9,26,10,11,8,19,10,15,22,28,39,23,32,8,13,10,9,6
+[Auction "S"]
+1S Pass 3C =1= X 
+Pass 3D Pass 4D 
+Pass 5D Pass Pass 
+Pass 
+[Note "1: \"mixed raise\" with clubs"]
+[Play "N"]
+SA ST S8 S2 
+S3 D4 S4 S6 
+DJ DQ D3 D2 
+C2 D7 D5 DA 
+S5 D8 D6 DK 
+SJ DT S7 S9 
+C5 CQ C7 C3 
+C8 CK CT C4 
+C9 CA SQ C6 
+H5 HA HJ H6 
+H7 H2 HQ H8 
+H9 H3 SK D9 
+CJ H4 HK HT 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "11"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:AJ53.975.J.J9852 T.A432.QT874.AKQ KQ874.KQJ.653.T7 962.T86.AK92.643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "4943749437848a6848a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H  4
+N  D  3
+N  C  7
+S NT  4
+S  S  9
+S  H  4
+S  D  3
+S  C  7
+E NT  8
+E  S  4
+E  H  8
+E  D 10
+E  C  6
+W NT  8
+W  S  4
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 16,2,1,66,43,68,231,30,316,294,492,96,59,36,27,28,155,116,29,14,222,40,13,46,136,31,24,12
+[Auction "S"]
+Pass Pass Pass 1D =1= 
+1S 2D 3S 4C 
+Pass 4D Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "S"]
+SK S2 S5 ST 
+S7 S6 SA D4 
+D3 DA DJ D7 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "12"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:832.6.KJ8.AJT963 J6.KT95.97542.KQ QT954.J87.T3.842 AK7.AQ432.AQ6.75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "462384623897aa597ba5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  3
+N  C  8
+S NT  4
+S  S  6
+S  H  2
+S  D  3
+S  C  8
+E NT  9
+E  S  7
+E  H 10
+E  D 10
+E  C  5
+W NT  9
+W  S  7
+W  H 11
+W  D 10
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,466,204,298,93,129,57,21,85,86,245,37,27,641,45,10,12,36,15,10,67,39,91,29,6,171,33,9,6,18,36,19,6,236,24,5,12,25,20,83,46
+[Auction "W"]
+1H 2C 3H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+S3 SJ SQ SA 
+H6 HK H7 H2 
+CJ H5 H8 HA 
+C3 H9 HJ HQ 
+D8 D2 D3 DA 
+CA CQ C2 C5 
+C6 CK C4 C7 
+DK D4 DT DQ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "12"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:832.6.KJ8.AJT963 J6.KT95.97542.KQ QT954.J87.T3.842 AK7.AQ432.AQ6.75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "462384623897aa597ba5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  3
+N  C  8
+S NT  4
+S  S  6
+S  H  2
+S  D  3
+S  C  8
+E NT  9
+E  S  7
+E  H 10
+E  D 10
+E  C  5
+W NT  9
+W  S  7
+W  H 11
+W  D 10
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,210,231,226,122,87,64,40,32,22,43,195,334,20,24,63,18,48,6,23,20,80,9,28,12,18,11,132,58,14,5,13,11,18,6,153,7,18,20,9,47,10,7,43,18,5,14,15,8,151,17,9,15,6,12,17,28,9,8,10,7,9,4
+[Auction "W"]
+1C =1= 2C X =2= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: any 16ish +"]
+[Note "2: 8+"]
+[Play "N"]
+S3 SJ SQ SA 
+H6 H5 H7 HA 
+C6 HK H8 H2 
+C3 HT HJ HQ 
+S2 S6 S4 SK 
+S8 H9 S9 S7 
+D8 D2 D3 DA 
+CA CQ C2 C5 
+C9 CK C4 C7 
+DJ D4 DT D6 
+CT D5 C8 H4 
+CJ D7 S5 H3 
+DK D9 ST DQ 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "13"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:973.A762.2.AKT86 AT865.J985.K8.53 KQJ.T4.AQT763.J9 42.KQ3.J954.Q742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "978aa978aa3543335433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D 10
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,271,102,239,70,108,57,107,52,235,39,191,50,145,63,234,66,167,22,319,150,23,38,65,44,20,15,36,23,30,19,121,28,14,26,17,59,25,16,19,57,21,46,34,28,45,12,82,24,12,9,20,244,36,18,79,31,9,33,31,8,17,48,19,14,10,6,8,9,6,7
+[Auction "N"]
+2C =1= Pass 2D =2= Pass 
+2H =3= Pass 2NT =4= Pass 
+3C =5= Pass 3D =6= Pass 
+3H =7= Pass 3NT Pass 
+Pass Pass 
+[Note "1: Prec. (c10-15; 6+C or 5C+4M)"]
+[Note "2: asks"]
+[Note "3: 4H"]
+[Note "4: asks"]
+[Note "5: (10)11-13"]
+[Note "6: asks"]
+[Note "7: 0/1 D"]
+[Play "W"]
+D4 D2 DK DA 
+C7 C6 C3 CJ 
+C2 CT C5 C9 
+C4 CA S5 D3 
+CQ CK S6 H4 
+D5 C8 S8 D6 
+S4 S3 ST SJ 
+S2 S7 SA SK 
+DJ H2 D8 DT 
+HK HA H8 HT 
+D9 S9 H5 SQ 
+H3 H6 H9 DQ 
+HQ H7 HJ D7 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "13"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:973.A762.2.AKT86 AT865.J985.K8.53 KQJ.T4.AQT763.J9 42.KQ3.J954.Q742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "978aa978aa3543335433"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D 10
+N  C 10
+S NT  9
+S  S  7
+S  H  8
+S  D 10
+S  C 10
+E NT  3
+E  S  5
+E  H  4
+E  D  3
+E  C  3
+W NT  3
+W  S  5
+W  H  4
+W  D  3
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,112,117,120,65,243,41,63,48,46,16,103,89,133,18,109,35,108,11,126,21,9,17,16,12,17,22,70,1063,17,124,7,24,16,30,15,42,63,278,90,27,67,47,17
+[Auction "N"]
+1C 1S 2D Pass 
+2H Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S4 S3 SA SQ 
+S2 S7 S5 SK 
+C2 C6 C5 CJ 
+C4 CT C3 C9 
+C7 CA D8 D3 
+CQ CK DK D6 
+D5 C8 S6 H4 
+D9 D2 H9 D7 
+HK -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "14"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q964.975.AQ.9752 A875.AT4.T7.AQ63 2.K32.J853.KJT84 KJT3.QJ86.K9642."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "54447544477998569985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  4
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,0,3,228,158,118,72,31,116,37,58,25,21,233,182,96,26,1406,47,19,32,100,29,20,58,58,150,28,22,410,37,27,31,251,197,24,211,76,74,62,47,63,215,26,15,36,22,228,20,47,47,20,16,35,34,24,7,73,15,21,13,11,15,21,11
+[Auction "E"]
+1NT =1= Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Play "S"]
+H2 HQ H5 H4 
+S2 S3 S4 SA 
+D5 DK DA D7 
+CK ST C7 CQ 
+D3 D2 DQ DT 
+C4 H6 C5 CA 
+C8 SK S6 S5 
+D8 D4 S9 C3 
+CT SJ SQ S7 
+HK H8 H7 HT 
+CJ D6 C2 C6 
+H3 HJ H9 HA 
+DJ D9 C9 S8 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "14"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q964.975.AQ.9752 A875.AT4.T7.AQ63 2.K32.J853.KJT84 KJT3.QJ86.K9642."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "54447544477998569985"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  4
+S  H  4
+S  D  4
+S  C  7
+E NT  7
+E  S  9
+E  H  9
+E  D  8
+E  C  5
+W NT  6
+W  S  9
+W  H  9
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,199,77,247,118,97,49,124,42,45,26,35,62,15,34,124,702,44,30,92,423,41,17,15,110,15,24,133,42,13,12,716,19,14,19,28,10,204,69,64,28,7,70,66,47,37,9
+[Auction "E"]
+1D =1= Pass 1H =2= Pass 
+1NT =3= Pass 2C =4= Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Note "2: art, asking, unlimited, 10+pts"]
+[Note "3: 13-15"]
+[Note "4: stayman"]
+[Play "S"]
+D3 D2 DQ D7 
+HK H6 H7 H4 
+DJ DK DA DT 
+H2 H8 H5 HA 
+S2 S3 S4 SA 
+C8 ST SQ S5 
+H3 HJ H9 HT 
+D5 D4 C5 S7 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "15"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K76.3.AQT84.T543 84.AJT54.K52.876 QJ953.72.J9763.9 AT2.KQ986..AKQJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2808128081b5d4bb5d4b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  0
+N  D  8
+N  C  1
+S NT  2
+S  S  8
+S  H  0
+S  D  8
+S  C  1
+E NT 11
+E  S  5
+E  H 13
+E  D  4
+E  C 11
+W NT 11
+W  S  5
+W  H 13
+W  D  4
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 27,0,3,199,519,1049,95,43,293,154,135,54,38,49,138,216,56,13,80,31,16,28,55,16,8,126,45,63,15,49,27,19,8,39,39,18,20,94
+[Auction "S"]
+2S 4C =1= 4S 5H 
+Pass 5S Pass 6H 
+Pass Pass Pass 
+[Note "1:  * clubs and hearts [1:47]"]
+[Play "S"]
+C9 CA C5 C6 
+H2 H6 H3 HJ 
+H7 H8 S6 HA 
+S3 CK C3 C7 
+S5 CQ C4 C8 
+D3 CJ CT S4 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "15"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K76.3.AQT84.T543 84.AJT54.K52.876 QJ953.72.J9763.9 AT2.KQ986..AKQJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2808128081b5d4bb5d4b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  0
+N  D  8
+N  C  1
+S NT  2
+S  S  8
+S  H  0
+S  D  8
+S  C  1
+E NT 11
+E  S  5
+E  H 13
+E  D  4
+E  C 11
+W NT 11
+W  S  5
+W  H 13
+W  D  4
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 27,2,1,60,142,116,403,250,1322,221,291,60,77,55,26,24,1027,57,276,26,91,62,27,28,739,452,39,32,191,21,15,6,37,31,16,7
+[Auction "S"]
+Pass 1C =1= 1D 1H =2= 
+1S Pass =3= 2S Pass 
+Pass 3H Pass 4H 
+Pass 4NT =4= Pass 5D =5= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: any 16ish +"]
+[Note "2: 9+ 4+♡"]
+[Note "3: forcing, asking for more info"]
+[Note "4: Blkwd"]
+[Note "5: 1 or 4"]
+[Play "S"]
+SQ SA S6 S8 
+H2 HK H3 H4 
+H7 H6 D4 HJ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "16"]
+[West "Bill Charlwood#70374"]
+[North "Alan Wilson#72359"]
+[East "Dick Davey#"]
+[South "Nick Smith#59134"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK54.J83.JT73.A6 763.Q6.Q62.KT974 T8.T7542.AK95.J3 QJ92.AK9.84.Q852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "77995779956644766447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  9
+N  C  5
+S NT  7
+S  S  7
+S  H  9
+S  D  9
+S  C  5
+E NT  6
+E  S  6
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  6
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,337,74,65,117,300,258,32,9,428,27,38,10,138,55,61,15,64,27,41,57,208,58,8,101,559,46,9,9,63,35,54,32,54,30,19,6
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+D3 DQ DK D4 
+D7 D2 DA D8 
+SK S3 ST SJ 
+DJ D6 D5 C5 
+DT S6 D9 C2 
+SA S7 S8 S2 
+S4 C4 C3 S9 
+CA C7 CJ C8 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "16"]
+[West "Roger Bryant#73720"]
+[North "Nigel Wolfendale#48556"]
+[East "Gareth Roberts#64240"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK54.J83.JT73.A6 763.Q6.Q62.KT974 T8.T7542.AK95.J3 QJ92.AK9.84.Q852"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "77995779956644766447"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  9
+N  D  9
+N  C  5
+S NT  7
+S  S  7
+S  H  9
+S  D  9
+S  C  5
+E NT  6
+E  S  6
+E  H  4
+E  D  4
+E  C  7
+W NT  6
+W  S  6
+W  H  4
+W  D  4
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,1,235,191,73,275,45,69,315,331,66,50,14,118,18,54,13,369,22,7,74,71,15,40,123,692,21,21,25,14,15,121,10,20,17,14,13,49
+[Auction "W"]
+1D =1= 1S Pass 1NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+C2 C6 CK C3 
+C5 CA C4 CJ 
+H9 H3 H6 H7 
+CQ S4 C7 S8 
+HA H8 HQ H2 
+HK HJ S3 H4 
+C8 D3 C9 D5 
+-  -  CT -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "17"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQT94.3.KT942.87 82.AJ6.AQ7.KJ964 763.98542.86.A52 KJ5.KQT7.J53.QT3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "3846338463749598497a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  4
+N  D  6
+N  C  3
+S NT  3
+S  S  8
+S  H  4
+S  D  6
+S  C  3
+E NT  7
+E  S  4
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  4
+W  H  9
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 13,1,3,522,97,234,192,187,42,55,191,60,145,39,21,186,51,37,20,30,193,11,12,70,18,21,33,60,49,8,60,135,29,33,19,81,26,32,39,13,19,33,15,9,33,30,9
+[Auction "N"]
+1S X 2S =1= 3H 
+3S Pass Pass Pass 
+[Note "1: weak raise"]
+[Play "E"]
+S8 S3 SK SA 
+D7 D8 DJ D2 
+S2 S6 S5 S9 
+DQ D6 D3 D9 
+DA S7 D5 D4 
+H6 H2 HQ H3 
+C9 CA C3 C7 
+HA H4 H7 ST 
+C4 H5 SJ SQ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "17"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AQT94.3.KT942.87 82.AJ6.AQ7.KJ964 763.98542.86.A52 KJ5.KQT7.J53.QT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "3846338463749598497a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  8
+N  H  4
+N  D  6
+N  C  3
+S NT  3
+S  S  8
+S  H  4
+S  D  6
+S  C  3
+E NT  7
+E  S  4
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  4
+W  H  9
+W  D  7
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,0,957,186,108,713,45,179,29,204,76,1665,31,20,34,123,140,18,37,32,23,17,7,22,13,48,10,35,49,28,7,21,132,33,12,52,327,10,14,55,17,88,22,54,7,30,37,29,12,7,10,41,10,18,24,15,39,23,5,17,26,38,6,9,15,18,7
+[Auction "N"]
+2S =1= X Pass 2NT =2= 
+Pass 3C =3= Pass 3S =4= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1:  * weak with 5S and 4+ minor [0:51]"]
+[Note "2: t'fer"]
+[Note "3: the expected bid"]
+[Note "4: = 4 Hs + S stop, I think"]
+[Play "N"]
+DT D7 D6 DJ 
+C8 C4 C2 CQ 
+C7 C6 C5 CT 
+D2 C9 CA C3 
+S9 S2 S7 S5 
+D4 DA D8 D3 
+S4 CK H2 D5 
+ST CJ S3 SK 
+H3 HA H4 H7 
+D9 H6 H8 HQ 
+SQ HJ H5 HK 
+SA S8 H9 HT 
+DK DQ S6 SJ 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "18"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T853.KJ.T63.K542 KJ4.Q9654.7.T876 2.A872.AQ9852.93 AQ976.T3.KJ4.AQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "45594455949874898748"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  9
+N  C  4
+S NT  4
+S  S  5
+S  H  5
+S  D  9
+S  C  4
+E NT  9
+E  S  8
+E  H  7
+E  D  4
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D  4
+W  C  8
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,1,3,110,162,122,103,45,44,171,58,18,32,221,458,13,29,89,181,59,10,1699,32,15,21,99,28,27,8,213,95,135,20,51,39,9,7,31,21,11,134,37,45,7,19,22,16,19,24,19
+[Auction "E"]
+Pass 1D =1= 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+D6 D7 DA D4 
+CK C6 C9 CQ 
+HK H4 H8 H3 
+HJ HQ HA HT 
+DT H5 H2 SQ 
+S3 S4 S2 SA 
+S5 SJ D5 S6 
+S8 SK C3 S7 
+ST H9 H7 DJ 
+C2 -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "18"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T853.KJ.T63.K542 KJ4.Q9654.7.T876 2.A872.AQ9852.93 AQ976.T3.KJ4.AQJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3DX"]
+[Result "9"]
+[Score "NS 670"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "45594455949874898748"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  9
+N  C  4
+S NT  4
+S  S  5
+S  H  5
+S  D  9
+S  C  4
+E NT  9
+E  S  8
+E  H  7
+E  D  4
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D  4
+W  C  8
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 11,2,0,483,87,407,78,60,166,116,93,72,34,89,626,45,11,23,30,18,23,95,251,28,45,350,36,7,51,46,59,25,9,32,458,29,36,32,19,27,19,225,40,14,26,133
+[Auction "E"]
+2D =1= Pass 2H =2= Pass 
+Pass 3D X =3= Pass 
+Pass Pass 
+[Note "1: Weak 2H; 16+ 4441; or 24+bal"]
+[Note "2: P/C"]
+[Note "3:  * pen-oriented [0:16]"]
+[Play "W"]
+HT HK H4 H2 
+H3 HJ HQ HA 
+S6 D3 H5 H7 
+S7 S3 SK S2 
+D4 D6 D7 DA 
+DJ S5 H6 H8 
+SA S8 S4 D2 
+CA C2 C8 C3 
+DK -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "19"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT75.9432.KT8.A8 Q643.T76.QJ742.3 82.AKQJ5.3.KQT76 KJ9.8.A965.J9542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a8b59a8b593517335183"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 11
+N  D  5
+N  C  9
+S NT 10
+S  S  8
+S  H 11
+S  D  5
+S  C  9
+E NT  3
+E  S  5
+E  H  1
+E  D  7
+E  C  3
+W NT  3
+W  S  5
+W  H  1
+W  D  8
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,0,143,224,169,107,216,43,43,27,93,48,86,91,28,32,12,23,20,66,28,31,213,28,8,518,66,68,23,48,113,36,10,190,267
+[Auction "S"]
+1H Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+C4 C8 C3 C6 
+H8 H2 H7 HA 
+C2 H3 H6 HK 
+C5 CA HT C7 
+SJ SA S3 S2 
+S9 S5 S4 S8 
+C9 -  -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "19"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AT75.9432.KT8.A8 Q643.T76.QJ742.3 82.AKQJ5.3.KQT76 KJ9.8.A965.J9542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a8b59a8b593517335183"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 11
+N  D  5
+N  C  9
+S NT 10
+S  S  8
+S  H 11
+S  D  5
+S  C  9
+E NT  3
+E  S  5
+E  H  1
+E  D  7
+E  C  3
+W NT  3
+W  S  5
+W  H  1
+W  D  8
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 27,1,3,310,123,91,46,157,87,319,98,366,155,153,50,357,56,377,39,1383,49,366,68,226,58,65,25,88,1295,24,32,416,21,13,15,27,37,23,9,296,24,54,11,912,21,529,65,373,35,29,50,71,26,958,50,101,20,9,40,47,17,59,88,21,29,33,49,18,16,17,37,9,17,8,32,37,7,8,8
+[Auction "S"]
+1C =1= Pass 1NT =2= Pass 
+2C =3= Pass 2H =4= Pass 
+2S =5= Pass 3C =6= Pass 
+3D =7= Pass 4C =8= Pass 
+4D =9= Pass 4S =10= Pass 
+6H Pass Pass Pass 
+[Note "1: any 16ish +"]
+[Note "2:  * 9+ balanced [0:11]"]
+[Note "3: art, asking"]
+[Note "4: either boyj majors or noth minors"]
+[Note "5: art, asking"]
+[Note "6: 4-4-3-2"]
+[Note "7: asking for AKs"]
+[Note "8: 5 ctls"]
+[Note "9: asking for cue"]
+[Note "10: A or K in S but not H"]
+[Play "E"]
+C3 CT CJ CA 
+H6 HA H8 H2 
+H7 HK D6 H3 
+HT HQ D5 H4 
+DJ D3 D9 DT 
+S3 S2 SJ SA 
+D2 H5 DA DK 
+D4 CK C2 C8 
+S4 CQ C4 S5 
+D7 C6 C9 H9 
+DQ HJ C5 D8 
+S6 C7 S9 S7 
+SQ S8 SK ST 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "20"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:4.AJ4.KT65.KQJ52 J865.K53.J872.A3 AK973.962.A.T876 QT2.QT87.Q943.94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9997b9897b4445144451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D  7
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  7
+S  C 11
+E NT  4
+E  S  4
+E  H  4
+E  D  5
+E  C  1
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 20,2,0,96,162,76,88,26,174,60,391,79,467,67,106,26,518,65,591,33,197,56,466,212,9,36,594,23,24,79,59,25,7,28,115,38,9,10,18,31,9,25,24,7,23,26,95,24,8,7,43,24,13,26,48,21,7,13,9,19,11,9,8,10,9,22
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2C Pass 4C 
+Pass 4D Pass 4S 
+Pass 4NT Pass 5C 
+Pass Pass Pass 
+[Play "E"]
+D2 DA D4 D5 
+CA C6 C4 CQ 
+C3 C7 C9 CK 
+S5 SA S2 S4 
+S6 SK ST H4 
+S8 S3 SQ C2 
+D7 C8 D3 D6 
+SJ S7 H7 C5 
+D8 H2 D9 DK 
+DJ CT DQ DT 
+H3 S9 H8 HJ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "20"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:4.AJ4.KT65.KQJ52 J865.K53.J872.A3 AK973.962.A.T876 QT2.QT87.Q943.94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9997b9897b4445144451"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  9
+N  D  7
+N  C 11
+S NT  9
+S  S  8
+S  H  9
+S  D  7
+S  C 11
+E NT  4
+E  S  4
+E  H  4
+E  D  5
+E  C  1
+W NT  4
+W  S  4
+W  H  4
+W  D  5
+W  C  1
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,92,74,49,243,66,367,55,170,60,233,75,89,49,57,38,189,57,64,86,522,68,64,41,147,281,85,27,135,31,22,87,491,77,22,33,63,155,72,10,438,25,22,14,70,25,14,11,15,36,34,12
+[Auction "W"]
+Pass 1D =1= Pass 1H =2= 
+Pass 2C =3= Pass 2D =4= 
+Pass 2H =5= Pass 2S =6= 
+Pass 2NT =7= Pass 3C =8= 
+Pass 3D =9= Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 2+ [0:41]"]
+[Note "2: art relay, 10+pts"]
+[Note "3: shows both minors and around 13+"]
+[Note "4: relay, art, asking"]
+[Note "5: shows exactly 4D and loger C"]
+[Note "6: relay, art, asking"]
+[Note "7:  * short♠ [0:08]"]
+[Note "8: relay, art, asking"]
+[Note "9:  * 1-3-4-5 [0:08]"]
+[Play "E"]
+S5 SA ST S4 
+CA C6 C4 CQ 
+H3 H2 HQ H4 
+HK H6 H7 HJ 
+H5 H9 HT HA 
+D7 DA D4 D5 
+S6 SK S2 D6 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "21"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:86.AK3.AKQT.9843 9.J984.J95.KQJ65 K53.T652.8742.AT AQJT742.Q7.63.72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "86897868975754657546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 13,2,0,350,62,46,480,472,74,133,151,73,193,38,77,167,15,15,34,16,8,13,302,24,26,8,160,23,14,25,273,35,21,20,26,25,15,11,42,66,11,107,28,11,32,25,110,17,28,10,23,12,11,9
+[Auction "N"]
+Pass Pass Pass 2S 
+X Pass 2NT =1= 3S 
+Pass Pass Pass 
+[Note "1: Leb"]
+[Play "N"]
+DK D5 D7 D3 
+DA D9 D4 D6 
+HA H4 H2 H7 
+DQ DJ D8 S2 
+C9 CK CA C2 
+HK H8 H5 HQ 
+H3 HJ H6 C7 
+S6 S9 S3 S4 
+C3 C5 CT S7 
+S8 C6 S5 SA 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "21"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:86.AK3.AKQT.9843 9.J984.J95.KQJ65 K53.T652.8742.AT AQJT742.Q7.63.72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "86897868975754657546"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  8
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  5
+E  S  7
+E  H  5
+E  D  4
+E  C  6
+W NT  5
+W  S  7
+W  H  5
+W  D  4
+W  C  6
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,1,3,102,488,131,233,156,102,118,46,36,29,171,118,19,24,222,38,16,17,9,18,8,8,16,14,20,132,157,27,48,58,841,27,15,8,317,21,10,15,271,24,22,11,67,43,11,12,27,11,9,7,9,14,10,24,22,11,10,6,8,12,8,5
+[Auction "N"]
+1C =1= Pass 1D =2= 3S 
+Pass Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * 16+ [0:05]"]
+[Note "2: neg"]
+[Play "W"]
+SQ S6 S9 SK 
+D6 DA D5 D2 
+D3 DK D9 D4 
+S2 DQ DJ D7 
+S4 DT C5 D8 
+H7 HA H8 H6 
+HQ HK H4 H5 
+C7 H3 HJ H2 
+C2 C3 C6 CA 
+S7 S8 H9 HT 
+ST C4 CK CT 
+SJ C8 CJ S3 
+SA C9 CQ S5 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "22"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T85.JT75.QT7.AQ9 92.Q864.J9.KJ863 KQJ764.K9.K8.542 A3.A32.A65432.T7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "79555795555488854887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  5
+N  C  5
+S NT  7
+S  S  9
+S  H  5
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  8
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,0,120,44,128,302,75,61,140,51,274,63,9,11,28,10,45,51,20,42,9,174,13,363,11,597,118,50,7,112,14,33,5,104,18,23
+[Auction "E"]
+Pass 1S 2D 2S 
+Pass Pass Pass 
+[Play "W"]
+CT CA C6 C2 
+SA S5 S2 SQ 
+C7 C9 CJ C4 
+H3 CQ CK C5 
+DA D7 DJ DK 
+HA H5 H4 H9 
+D3 DT D9 -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "22"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:T85.JT75.QT7.AQ9 92.Q864.J9.KJ863 KQJ764.K9.K8.542 A3.A32.A65432.T7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "79555795555488854887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  5
+N  D  5
+N  C  5
+S NT  7
+S  S  9
+S  H  5
+S  D  5
+S  C  5
+E NT  5
+E  S  4
+E  H  8
+E  D  8
+E  C  8
+W NT  5
+W  S  4
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,1,3,111,87,153,123,50,79,77,158,107,10,22,122,30,12,16,127,38,14,10,131,27,9,7,43,18,23,180,76,17,74,23,16,35,35,12
+[Auction "E"]
+Pass 1S 2D 2S 
+Pass Pass Pass 
+[Play "W"]
+DA D7 D9 D8 
+D6 DT DJ DK 
+S3 S5 S2 SJ 
+SA S8 S9 SQ 
+D5 DQ C8 C2 
+HA H5 H6 H9 
+CT CQ CK C4 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "23"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.K87.T87.KT6543 KJT73.JT953.A5.9 842.6.KQJ943.Q87 AQ95.AQ42.62.AJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "21189211898bb548bb54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  1
+N  D  8
+N  C  9
+S NT  2
+S  S  1
+S  H  1
+S  D  8
+S  C  9
+E NT  8
+E  S 11
+E  H 11
+E  D  5
+E  C  4
+W NT  8
+W  S 11
+W  H 11
+W  D  5
+W  C  4
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,2,0,136,56,176,225,39,61,30,48,22,203,409,20,28,78,12,192,45,21,28,11,8,95,22,20,37,169,24,19,9
+[Auction "S"]
+3D X Pass 4D =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: majors"]
+[Play "N"]
+S6 ST S2 S5 
+H8 HJ H6 HA 
+HK H3 D9 H2 
+D7 DA D3 D2 
+H7 HT D4 H4 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "23"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:6.K87.T87.KT6543 KJT73.JT953.A5.9 842.6.KQJ943.Q87 AQ95.AQ42.62.AJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "21189211898bb548bb54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  1
+N  D  8
+N  C  9
+S NT  2
+S  S  1
+S  H  1
+S  D  8
+S  C  9
+E NT  8
+E  S 11
+E  H 11
+E  D  5
+E  C  4
+W NT  8
+W  S 11
+W  H 11
+W  D  5
+W  C  4
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 27,1,3,148,110,67,713,72,498,44,142,67,195,104,21,35,397,708,28,32,17,36,15,5,46,132,31,15,119,29,11,21,53,48,7,22
+[Auction "S"]
+Pass 1H Pass 3S =1= 
+Pass 3NT =2= Pass 4C =3= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: game raise with undisclosed singleton"]
+[Note "2: which singleton?"]
+[Note "3: singleton C"]
+[Play "N"]
+S6 S3 S8 S9 
+H7 H3 H6 HA 
+HK H5 DK H2 
+D8 DA DQ D2 
+H8 H9 D3 HQ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "24"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQT973.KJ.AT7.KQ J.97632.K983.AJ6 K42.QT.J42.T9854 865.A854.Q65.732"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "89579895794486444864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  5
+S  D  7
+S  C  9
+E NT  4
+E  S  4
+E  H  8
+E  D  6
+E  C  4
+W NT  4
+W  S  4
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,53,128,96,122,35,83,59,34,25,128,203,50,13,86,26,112,12,1338,38,20,14,416,25,26,47,944,47,19,26,76,59,24,19,57,21,214,62,182,20,19,12,11,59,9,7,10,54,7,39,9,20,6,31,10,23,22,9,10,16,7,7
+[Auction "W"]
+Pass 1S Pass 2S 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+H7 HT HA HK 
+CA C4 C3 CK 
+H6 HQ H4 HJ 
+SJ S2 S5 SA 
+C6 C5 C7 CQ 
+H2 SK S6 ST 
+CJ C8 C2 D7 
+D3 D2 DQ DA 
+D8 S4 S8 SQ 
+D9 C9 H5 S9 
+H3 D4 H8 S7 
+H9 CT D5 S3 
+DK DJ D6 DT 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "24"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AQT973.KJ.AT7.KQ J.97632.K983.AJ6 K42.QT.J42.T9854 865.A854.Q65.732"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "89579895794486444864"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H  5
+N  D  7
+N  C  9
+S NT  8
+S  S  9
+S  H  5
+S  D  7
+S  C  9
+E NT  4
+E  S  4
+E  H  8
+E  D  6
+E  C  4
+W NT  4
+W  S  4
+W  H  8
+W  D  6
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,1,3,233,49,96,104,47,334,38,642,55,626,64,77,43,90,181,48,50,422,43,21,21,324,26,33,70,44,282,24,62,137,28,11,11,552,37,43,22,126,26,24,74,70,582,27,44,17,27,9,11,18,31,6,23,12,171,12,55,21,25,9,10,16,16,11,7
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1H =3= Pass 2D =4= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * 16+ [0:06]"]
+[Note "2: neg"]
+[Note "3: 19+ artificial"]
+[Note "4: bal 6-8"]
+[Play "E"]
+H7 HT HA HK 
+H3 HQ H4 HJ 
+CA C4 C2 CK 
+SJ S2 S5 SQ 
+C6 C5 C3 CQ 
+H2 SK S6 S7 
+DK D2 D5 DT 
+D9 D4 D6 DA 
+H6 S4 S8 SA 
+H9 C8 H5 ST 
+D3 DJ H8 S9 
+D8 C9 C7 S3 
+CJ CT DQ D7 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "25"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q732.642.AK43.J4 KT9.JT85.T52.963 J85.AQ973.86.AKT A64.K.QJ97.Q8752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "78976789765546755467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,410,51,74,40,92,76,43,73,99,26,165,41,16,41,71,23,30,10,22,56,9,43,10,21,21,58,46,155,22,21,14,50,28,29,18,30,108,46,102,29,24,29,8,18,12,20,15
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1:  * 11-14 [0:12]"]
+[Play "W"]
+C5 C4 C9 CT 
+HK H2 H5 H3 
+CQ CJ C6 CA 
+D7 DA D2 D6 
+S4 H4 H8 H9 
+S6 H6 HJ HA 
+D9 S2 HT HQ 
+C2 S3 S9 H7 
+C7 D3 C3 CK 
+DJ DK D5 D8 
+-  S7 -  -  
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "25"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q732.642.AK43.J4 KT9.JT85.T52.963 J85.AQ973.86.AKT A64.K.QJ97.Q8752"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "78976789765546755467"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  9
+N  D  7
+N  C  6
+S NT  7
+S  S  8
+S  H  9
+S  D  7
+S  C  6
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  6
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,162,56,271,71,85,29,132,40,131,30,37,29,80,327,31,11,665,29,30,17,72,62,8,26,1118,26,29,36,32,26,38,10,23,19,26,45,391,23,17,13,24,18,47,9,566,35,18,24,29,18,62,25,33,43,43,45,24,29,6,7,7,17,5,8
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: xfer to ♡"]
+[Play "E"]
+C6 CA C8 C4 
+H5 H3 HK H2 
+D2 D6 DQ DA 
+C9 CK C2 CJ 
+C3 CT CQ H6 
+HJ HA C5 H4 
+D5 D8 D9 DK 
+DT H7 D7 D3 
+SK SJ S4 S2 
+ST S5 SA S7 
+S9 H9 DJ D4 
+H8 HQ S6 S3 
+HT S8 C7 SQ 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "26"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q83.K.QT976.K874 J7.J872.82.AJ532 AT6.AQ43.AJ43.T9 K9542.T965.K5.Q6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "977a7977a74653646536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D 10
+N  C  7
+S NT  9
+S  S  7
+S  H  7
+S  D 10
+S  C  7
+E NT  4
+E  S  6
+E  H  5
+E  D  3
+E  C  6
+W NT  4
+W  S  6
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,134,104,143,164,110,114,26,164,68,37,49,327,106,66,24,38,33,18,37,14,40,12,248,331,129,47,91,33,34,8,29,12,321,15,78,14,26,11,25,10,10,9,28,15,33,7,19,8,28,7,23,7,45,7,10,12,24,16,8,7,5,14,7
+[Auction "E"]
+Pass 1H 1S X 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S4 S3 SJ SA 
+H6 HK H2 H3 
+DK DT D8 D3 
+S2 S8 S7 S6 
+D5 D6 D2 DA 
+H5 D7 C2 DJ 
+H9 C4 H7 HA 
+HT C7 H8 HQ 
+S5 DQ C3 D4 
+S9 D9 C5 H4 
+SK SQ CJ ST 
+C6 CK CA C9 
+CQ C8 HJ CT 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "26"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:Q83.K.QT976.K874 J7.J872.82.AJ532 AT6.AQ43.AJ43.T9 K9542.T965.K5.Q6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "977a7977a74653646536"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  7
+N  D 10
+N  C  7
+S NT  9
+S  S  7
+S  H  7
+S  D 10
+S  C  7
+E NT  4
+E  S  6
+E  H  5
+E  D  3
+E  C  6
+W NT  4
+W  S  6
+W  H  5
+W  D  3
+W  C  6
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,1,3,109,200,73,808,43,317,263,48,29,22,35,15,8,15,28,10,63,59,30,9,21,232,23,10,7,27,22,9,7,13,20,9,8,10,86,15,30,8,38,8,22,8,13,10,35,39,24,10,31,13,24,7,9,9,13,7,10
+[Auction "E"]
+Pass 1NT =1= Pass Pass 
+Pass 
+[Note "1: 13-15"]
+[Play "W"]
+S4 S3 SJ SA 
+H6 HK H2 H4 
+DK DT D8 D3 
+S2 S8 S7 ST 
+H5 C4 H7 HA 
+H9 C7 H8 HQ 
+D5 D6 D2 DA 
+S5 D7 C2 DJ 
+S9 DQ C3 D4 
+HT D9 C5 H3 
+CQ C8 CJ C9 
+SK SQ HJ S6 
+C6 CK CA CT 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "27"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:4.AJT982.KJ64.73 J86.7.AQT95.AK98 KQ.K653.873.JT65 AT97532.Q4.2.Q42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "71754717546b6886b688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  1
+N  H  7
+N  D  5
+N  C  4
+S NT  7
+S  S  1
+S  H  7
+S  D  5
+S  C  4
+E NT  6
+E  S 11
+E  H  6
+E  D  8
+E  C  8
+W NT  6
+W  S 11
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,0,60,188,351,66,32,18,29,101,409,23,31,68,10,25,9,316,17,18,11,41,16,44,52,238,35,14,7,13,22
+[Auction "S"]
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+C7 CA C6 C2 
+S4 S6 SQ SA 
+D4 DA D3 D2 
+D6 D9 D7 S5 
+H2 H7 HK H4 
+-  -  SK S3 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "27"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:4.AJT982.KJ64.73 J86.7.AQT95.AK98 KQ.K653.873.JT65 AT97532.Q4.2.Q42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "71754717546b6886b688"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  1
+N  H  7
+N  D  5
+N  C  4
+S NT  7
+S  S  1
+S  H  7
+S  D  5
+S  C  4
+E NT  6
+E  S 11
+E  H  6
+E  D  8
+E  C  8
+W NT  6
+W  S 11
+W  H  6
+W  D  8
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 23,1,3,138,137,312,69,186,42,33,130,286,35,65,28,81,178,10,15,218,59,30,21,177,9,28,12
+[Auction "S"]
+Pass 3S 4H 4S 
+5H Pass Pass 5S 
+X Pass Pass Pass 
+[Play "N"]
+HA H7 H3 H4 
+D6 DA D3 D2 
+S4 S8 SQ SA 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "28"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K.8743.Q876.7432 AQT832.J5.AKJ4.A 76.AKQT962.5.QJ6 J954..T932.KT985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "10902109026d4d96d4d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  9
+N  D  0
+N  C  2
+S NT  1
+S  S  0
+S  H  9
+S  D  0
+S  C  2
+E NT  6
+E  S 13
+E  H  4
+E  D 13
+E  C  9
+W NT  6
+W  S 13
+W  H  4
+W  D 13
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 28,2,0,154,102,161,226,65,248,172,34,248,62,807,261,36,58,346,29,14,51,207,267,20,60,214,11,20,192,90,11,17,44
+[Auction "W"]
+Pass Pass 1C =1= 3H 
+Pass Pass 3S Pass 
+4H Pass 5C =2= Pass 
+5H Pass 6S Pass 
+Pass Pass 
+[Note "1: most 16+; or 11-13 bal with 4M"]
+[Note "2: cue (1st or 2nd)"]
+[Play "S"]
+D5 DT DQ DA 
+S6 S4 SK SA 
+S7 S5 H4 SQ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "28"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K.8743.Q876.7432 AQT832.J5.AKJ4.A 76.AKQT962.5.QJ6 J954..T932.KT985"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "10902109026d4d96d4d9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  9
+N  D  0
+N  C  2
+S NT  1
+S  S  0
+S  H  9
+S  D  0
+S  C  2
+E NT  6
+E  S 13
+E  H  4
+E  D 13
+E  C  9
+W NT  6
+W  S 13
+W  H  4
+W  D 13
+W  C  9
+[OptimumScore "NS -1510"]
+[Competition "Teams"]
+% RBDATA 18,1,3,137,30,65,381,92,143,105,25,30,66,17,92,21,17,65,12,20,26,231,44,10,28,40,34,10,16,21,28,8,19,40,25,22,12,19,16,14,11,24,26,13,15
+[Auction "W"]
+Pass Pass 1S 2H 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+HK S4 H8 H5 
+S6 S9 SK SA 
+S7 S5 H3 SQ 
+D5 D2 D8 DA 
+C6 C5 C4 CA 
+HQ SJ H4 HJ 
+CJ CK C2 D4 
+H2 D3 D6 DJ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "29"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J85.J63.QT63.A76 AT.KQT5.42.KQT32 K64.84.J875.J984 Q9732.A972.AK9.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2225322253abb8aabb8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  5
+N  C  3
+S NT  2
+S  S  2
+S  H  2
+S  D  5
+S  C  3
+E NT 10
+E  S 11
+E  H 11
+E  D  8
+E  C 10
+W NT 10
+W  S 11
+W  H 11
+W  D  8
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,2,0,208,147,53,82,69,70,277,262,52,35,28,306,441,42,38,520,55,20,16,186,54,12,40,261,24,28,8,43,33,21,27,77,31,30,9,427,26,17,9,59,12,19,11,28,32,22,6
+[Auction "N"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2H =3= Pass 4H 
+Pass Pass Pass 
+[Note "1: Prec. (c10-15; 6+C or 5C+4M)"]
+[Note "2: asks"]
+[Note "3: 4H"]
+[Play "S"]
+S4 S2 SJ SA 
+SK S3 S8 ST 
+D8 DA D6 D2 
+C4 C5 CA C2 
+DJ DK D3 D4 
+H4 H2 H3 HK 
+H8 H7 H6 HQ 
+D5 HA HJ H5 
+D7 D9 DQ HT 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "29"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J85.J63.QT63.A76 AT.KQT5.42.KQT32 K64.84.J875.J984 Q9732.A972.AK9.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2225322253abb8aabb8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  5
+N  C  3
+S NT  2
+S  S  2
+S  H  2
+S  D  5
+S  C  3
+E NT 10
+E  S 11
+E  H 11
+E  D  8
+E  C 10
+W NT 10
+W  S 11
+W  H 11
+W  D  8
+W  C 10
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,102,92,68,53,52,134,50,196,80,52,52,518,58,61,39,25,39,98,134,174,27,53,57,21,21,1179,97,17,49,70,19,18,34,282,21,183,29,583,29,14,26,61,26,15,16,23,19,18,8,32,12,32,22,28
+[Auction "N"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 2D =1= 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: FG checkback"]
+[Play "S"]
+D5 DA DT D2 
+C9 C5 CA C2 
+H8 H9 H3 H5 
+H4 H2 H6 HK 
+C4 H7 C7 C3 
+D7 HA HJ HT 
+S4 S2 S5 SA 
+C8 S3 C6 CK 
+CJ D9 D3 CQ 
+-  -  -  CT 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "30"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KJ954.QT842..AJ8 T8.97.QJ842.KQ63 A72.63.AT95.T975 Q63.AKJ5.K763.42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "79857798575448564585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  5
+N  C  7
+S NT  7
+S  S  9
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  5
+W NT  6
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,93,69,121,149,351,72,299,180,161,40,75,254,515,25,19,33,27,22,53,67,33,59,16,249,29,19,19,46,36,9,119,348,43,37,19,23,26,117,18,120,19,26,33,24,31,20,21,70,20,22,44,194,33,35,31,17,17,19,7,11,7,7,8
+[Auction "E"]
+Pass Pass 1C =1= 1S 
+1NT =2= 2S 3D =3= 4S 
+Pass Pass Pass 
+[Note "1: 2-way"]
+[Note "2: 5+D; 8+pts or equiv"]
+[Note "3: 11-13 inc Ds"]
+[Play "E"]
+DQ DA D7 C8 
+H9 H3 HK H2 
+CQ C5 C4 CJ 
+C3 C7 C2 CA 
+H7 H6 HA HQ 
+D2 D5 D3 S4 
+S8 SA H5 H8 
+ST S2 S3 SK 
+D4 S7 HJ H4 
+D8 D9 D6 S5 
+C6 C9 SQ S9 
+DJ DT DK SJ 
+CK CT S6 HT 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "30"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:KJ954.QT842..AJ8 T8.97.QJ842.KQ63 A72.63.AT95.T975 Q63.AKJ5.K763.42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "79857798575448564585"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  5
+N  C  7
+S NT  7
+S  S  9
+S  H  8
+S  D  5
+S  C  7
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  5
+W NT  6
+W  S  4
+W  H  5
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,81,141,52,476,194,231,41,420,44,477,38,44,37,106,334,37,25,19,34,20,13,409,31,28,10,16,19,9,29,9,48,24,9,115,16,13,8,94,38,35,36,23,16,9,21,81,21,10,30,22,128,23,23,10,20,10,28,12,19,8,8,11,10,8,9
+[Auction "E"]
+Pass Pass 1NT 2D =1= 
+X =2= 2S 3D 3H =3= 
+Pass 3S Pass Pass 
+Pass 
+[Note "1: S+ other"]
+[Note "2: diamonds"]
+[Note "3: game try"]
+[Play "W"]
+D3 C8 DJ DA 
+HK H4 H9 H6 
+C4 CA C6 C5 
+S3 S4 S8 SA 
+HA H2 H7 H3 
+C2 CJ CQ C7 
+DK S5 D2 DT 
+S6 SK ST S2 
+H5 H8 D4 S7 
+HJ S9 C3 CT 
+SQ HQ D8 D5 
+D7 SJ DQ D9 
+D6 HT CK C9 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "31"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:3.Q542.852.KT732 8765.K873.QJT64. A4.JT9.AK93.QJ96 KQJT92.A6.7.A854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "52668526686b6756b675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  2
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S 11
+E  H  6
+E  D  7
+E  C  5
+W NT  6
+W  S 11
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,0,106,71,424,191,59,234,35,65,937,22,22,34,17,21,14,31,22,12,7,25,26,11,11,22,8,25,8,80,13,29,8,171,18,31,14
+[Auction "S"]
+1C 1S 3C 4S 
+Pass Pass Pass 
+[Play "N"]
+C3 S5 C6 C4 
+H2 H3 H9 HA 
+C2 S6 C9 C5 
+H4 HK HT H6 
+H5 H7 HJ S9 
+C7 S7 CJ C8 
+S3 S8 S4 SJ 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "31"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:3.Q542.852.KT732 8765.K873.QJT64. A4.JT9.AK93.QJ96 KQJT92.A6.7.A854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "52668526686b6756b675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  2
+N  H  6
+N  D  6
+N  C  8
+S NT  5
+S  S  2
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S 11
+E  H  6
+E  D  7
+E  C  5
+W NT  6
+W  S 11
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,1,3,276,177,146,93,40,24,62,413,599,28,22,129,52,17,36,47,48,39,41,272,44,29,11,10,25,238,19,48,647,62,95,37,16,22,7,51,32,11,10,110,26,11,14,157,33,15,175,32,359,46,11,51,18,14,7,9,9,14,6
+[Auction "S"]
+1NT =1= 2S =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: 13-15"]
+[Note "2: nat"]
+[Play "N"]
+C3 S5 C9 C5 
+H5 H3 HJ HA 
+C2 S6 C6 C4 
+S3 S7 SA S2 
+D2 S8 S4 S9 
+D8 H7 D9 SK 
+C7 D4 D3 SQ 
+H2 D6 HT SJ 
+D5 DT DK D7 
+CT DJ CQ CA 
+CK DQ DA ST 
+H4 HK H9 H6 
+HQ H8 CJ C8 
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "32"]
+[West "Nick Smith#59134"]
+[North "Nigel Wolfendale#48556"]
+[East "Alan Wilson#72359"]
+[South "Robert HOLDER#9988067"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q73.Q853.T98 6.K852.AK96.A654 J953.964.742.Q73 AKT42.AJT.JT.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -1390"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "0200002000dbddddbddd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  0
+S  C  0
+E NT 13
+E  S 11
+E  H 13
+E  D 13
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 25,2,0,140,57,202,26,193,105,354,47,234,52,382,24,139,105,206,27,578,38,352,39,104,38,761,882,33,23,612,28,12,6,34,14,18,6,35,16,27,12,729,32,24,6,51,17,11,10,1376,10,19,24,59,8,47,12,171,17,22,14,37,32,22,6
+[Auction "W"]
+1C =1= Pass 2D =2= Pass 
+2S =3= Pass 3C =4= Pass 
+3NT Pass 4C Pass 
+4H Pass 4NT Pass 
+5C Pass 6C Pass 
+Pass Pass 
+[Note "1: 2-way"]
+[Note "2: 14+bal"]
+[Note "3: nat, 16+, asks"]
+[Note "4: spades worse than Qxx; 4+controls (A=2, K=1)"]
+[Play "N"]
+D3 D6 D7 DT 
+S7 S6 S3 SA 
+S8 C4 S5 S2 
+CT C5 C3 CJ 
+SQ C6 S9 S4 
+C9 CA C7 C2 
+D8 DA D2 DJ 
+D5 DK D4 HT 
+H3 H2 H4 HA 
+C8 H5 CQ CK 
+*
+
+[Event "27 Jan Crockfords Wilson vs Wolfendale"]
+[Site "RealBridge"]
+[Date "2024.01.27"]
+[Board "32"]
+[West "Bill Charlwood#70374"]
+[North "Gareth Roberts#64240"]
+[East "Dick Davey#"]
+[South "Roger Bryant#73720"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:Q87.Q73.Q853.T98 6.K852.AK96.A654 J953.964.742.Q73 AKT42.AJT.JT.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS -720"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Wolfendale team"]
+[VisitTeam "Wilson team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "0200002000dbddddbddd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  2
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  2
+S  H  0
+S  D  0
+S  C  0
+E NT 13
+E  S 11
+E  H 13
+E  D 13
+E  C 13
+W NT 13
+W  S 11
+W  H 13
+W  D 13
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 14,1,3,78,38,79,66,114,48,226,52,40,38,168,301,45,33,314,40,19,34,221,32,13,6,26,23,39,8,260,14,18,15,60,14,35,9,262,20,22,21,154,31,12,31,46,18,9,11,10,8,12,42
+[Auction "W"]
+1S Pass 2C Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-19 fg"]
+[Play "N"]
+D3 D6 D2 DJ 
+D5 D9 D4 DT 
+H3 H2 H4 HA 
+HQ HK H6 HJ 
+D8 DK D7 S2 
+DQ DA S3 S4 
+C8 C4 C3 CJ 
+H7 H5 H9 HT 
+C9 CA C7 C2 
+CT H8 S5 ST 
+*

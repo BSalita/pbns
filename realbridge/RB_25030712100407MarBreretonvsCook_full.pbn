@@ -1,0 +1,4029 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "1"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J752.853.AT82.94 Q4.AT764.K.87653 AK98.9.QJ7.KQJT2 T63.KQJ2.96543.A"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "7a4997a4995184451844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  4
+N  D  9
+N  C  9
+S NT  7
+S  S 10
+S  H  4
+S  D  9
+S  C  9
+E NT  5
+E  S  1
+E  H  8
+E  D  4
+E  C  4
+W NT  5
+W  S  1
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,429,244,143,239,124,227,95,147,55,119,268,728,33,38,40,28,8,12,31,12,12,13,90,27,8,111,316,59,27,16,18,10,10,90,17
+[Auction "N"]
+Pass Pass 1C =1= X 
+1S 3H 4S Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+DK DJ D3 DA 
+S4 SA S6 S2 
+SQ SK S3 S5 
+H4 S8 ST SJ 
+H6 DQ D4 D2 
+H7 D7 D5 D8 
+-  -  -  DT 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "1"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J752.853.AT82.94 Q4.AT764.K.87653 AK98.9.QJ7.KQJT2 T63.KQJ2.96543.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "7a4997a4995184451844"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H  4
+N  D  9
+N  C  9
+S NT  7
+S  S 10
+S  H  4
+S  D  9
+S  C  9
+E NT  5
+E  S  1
+E  H  8
+E  D  4
+E  C  4
+W NT  5
+W  S  1
+W  H  8
+W  D  4
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,420,172,369,46,130,21,502,66,420,8,95,22,55,10,27,515,41,26,21,13,47,12,42,50,22,43,16,63,22,11,25,68,29,9,44,166,19,21,116,17,17,17,27,17,132,111,26,13,17,11,9,21,12,8,6,11,18,7,5
+[Auction "N"]
+Pass 2H =1= X 4H 
+Pass Pass Pass 
+[Note "1: 5H 4+ minor weak"]
+[Play "S"]
+CK CA C4 C6 
+D7 D3 DA DK 
+H9 HK H3 H4 
+DQ D4 D2 H6 
+C2 H2 C9 C3 
+DJ D5 D8 H7 
+CJ HJ S2 C5 
+S8 D6 DT HT 
+CT HQ S5 C7 
+S9 D9 H8 HA 
+CQ S3 S7 C8 
+SA S6 SJ S4 
+SK ST H5 SQ 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "2"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KT2.AJ95.J952.92 653.QT.KQ.AKQ865 AQ7.7643.A643.J3 J984.K82.T87.T74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56885568857755877558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  8
+N  D  8
+N  C  5
+S NT  5
+S  S  6
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  5
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 0,0,3,230,22,93,98,41,78,74,30,268,25,18,21,77,15,17,9,98,20,15,291,85,29,21,16,15,25,20,23,108,99,12,151
+[Auction "E"]
+1C Pass Pass Pass 
+[Play "S"]
+H6 H2 HJ HQ 
+C3 C4 C2 CA 
+CJ C7 C9 CK 
+H3 H8 HA HT 
+DA D7 D2 DK 
+D3 D8 D9 DQ 
+D4 CT D5 C5 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "2"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KT2.AJ95.J952.92 653.QT.KQ.AKQ865 AQ7.7643.A643.J3 J984.K82.T87.T74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56885568857755877558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  8
+N  D  8
+N  C  5
+S NT  5
+S  S  6
+S  H  8
+S  D  8
+S  C  5
+E NT  7
+E  S  7
+E  H  5
+E  D  5
+E  C  8
+W NT  7
+W  S  7
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 10,2,1,71,88,43,134,28,49,25,152,84,126,46,20,45,24,9,28,891,22,61,11,51,20,31,13,20,22,7,8,8,19,10,9,18,84,10,125,13,22,7,17
+[Auction "E"]
+1C Pass 1S Pass 
+3C Pass Pass Pass 
+[Play "S"]
+H6 H2 HJ HQ 
+H3 H8 HA HT 
+DA D7 D2 DK 
+D3 D8 D9 DQ 
+C3 C4 C2 CA 
+CJ C7 C9 CK 
+H4 CT H5 C5 
+H7 HK H9 S5 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "3"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q765.4.AQ987642. AK.AQ852.53.A752 J83.KJ63.KJ.J964 T942.T97.T.KQT83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "5"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "553a3553a35793a5793a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D 10
+N  C  3
+S NT  5
+S  S  5
+S  H  3
+S  D 10
+S  C  3
+E NT  5
+E  S  7
+E  H  9
+E  D  3
+E  C 10
+W NT  5
+W  S  7
+W  H  9
+W  D  3
+W  C 10
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 23,0,3,53,43,234,630,95,140,41,92,35,58,174,18,17,194,51,17,26,231,22,10,12,16,16,11,17,36,18,11,83,129,19,135,33,24,78,15,31,18,23,20,284,33,24,158,20,30,8,15,53,17,20,15,11,10,26,19,22,10,16,10,18
+[Auction "S"]
+Pass Pass 5D X 
+Pass 5S Pass Pass 
+Pass 
+[Play "N"]
+DA D3 DJ DT 
+DQ D5 DK S2 
+S5 SA S8 S4 
+S6 SK S3 S9 
+S7 C2 C4 CK 
+D9 H2 H3 ST 
+H4 CA C6 C3 
+SQ C5 C9 CT 
+D8 H5 CJ H7 
+D7 H8 H6 H9 
+D6 HQ HJ C8 
+D4 C7 HK CQ 
+D2 HA SJ HT 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "3"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:Q765.4.AQ987642. AK.AQ852.53.A752 J83.KJ63.KJ.J964 T942.T97.T.KQT83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "553a3553a35793a5793a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  3
+N  D 10
+N  C  3
+S NT  5
+S  S  5
+S  H  3
+S  D 10
+S  C  3
+E NT  5
+E  S  7
+E  H  9
+E  D  3
+E  C 10
+W NT  5
+W  S  7
+W  H  9
+W  D  3
+W  C 10
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 21,2,1,113,31,945,134,97,171,135,23,77,35,9,58,24,10,10,21,31,18,46,203,43,10,38,88,23,71,9,126,28,10,14,11,21,10,135,24,11,13,98,64,24,17,11,19
+[Auction "S"]
+Pass Pass 5D X 
+Pass Pass Pass 
+[Play "E"]
+SK S3 S2 S7 
+SA S8 S4 S6 
+CA C4 C3 D2 
+D3 DK DT D4 
+D5 DJ C8 D6 
+C2 C6 CT DQ 
+C5 H3 S9 DA 
+H8 C9 ST D9 
+HA H6 HT H4 
+C7 -  -  -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "4"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T73.AK92.AT762.J AQ52.4.Q9543.T32 K86.QT8753..8765 J94.J6.KJ8.AKQ94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "74a5474a546828968288"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  5
+N  C  4
+S NT  7
+S  S  4
+S  H 10
+S  D  5
+S  C  4
+E NT  6
+E  S  8
+E  H  2
+E  D  8
+E  C  9
+W NT  6
+W  S  8
+W  H  2
+W  D  8
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 9,0,3,192,52,92,66,179,41,301,30,84,33,477,72,17,34,204,33,51,16,126,71,39,13,27,18,8,85,24,23,89,16,22,28,153,13,12,27,17,28,107,41,12,22,17,48,24,20,29,16,10,14,18,8,10,15
+[Auction "W"]
+1C Pass 1D Pass 
+1NT Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+HA H4 H3 H6 
+H2 C2 HQ HJ 
+HK S2 H8 S4 
+H9 D3 HT S9 
+D6 D4 H7 D8 
+S7 S5 H5 C4 
+CJ C3 C8 CA 
+DA D5 S6 DK 
+S3 SA S8 SJ 
+D7 DQ C5 DJ 
+ST CT C6 CK 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "4"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T73.AK92.AT762.J AQ52.4.Q9543.T32 K86.QT8753..8765 J94.J6.KJ8.AKQ94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "74a5474a546828968288"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H 10
+N  D  5
+N  C  4
+S NT  7
+S  S  4
+S  H 10
+S  D  5
+S  C  4
+E NT  6
+E  S  8
+E  H  2
+E  D  8
+E  C  9
+W NT  6
+W  S  8
+W  H  2
+W  D  8
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 14,2,1,107,52,108,111,95,117,95,40,173,63,12,20,1273,244,110,44,98,28,21,10,28,223,16,36,25,139,14,12,29,369,23,20,19,56,22,18,43,26,21,15,60,28,30,9,34,8,28,8,154,38,10,15,33,20,12,8,12,22,21,8,10,9,11,7
+[Auction "W"]
+1C 1D 1S Pass 
+1NT =1= Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+D6 D3 H3 D8 
+CJ C2 C5 CA 
+D2 C3 C6 CK 
+S7 CT C7 CQ 
+D7 H4 C8 C9 
+S3 D4 S6 C4 
+ST SQ SK S4 
+H2 S2 H7 H6 
+HA D5 H5 HJ 
+HK D9 H8 S9 
+DA DQ S8 DJ 
+H9 S5 HQ SJ 
+DT SA HT DK 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "5"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ64.Q954.85.K74 K3.A82.AJT742.T3 QT975.J6.3.AQJ92 82.KT73.KQ96.865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "59549595497479474794"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  5
+N  D  4
+N  C  9
+S NT  5
+S  S  9
+S  H  5
+S  D  4
+S  C  9
+E NT  7
+E  S  4
+E  H  7
+E  D  9
+E  C  4
+W NT  7
+W  S  4
+W  H  7
+W  D  9
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,95,59,250,141,228,37,193,27,37,31,32,153,7,32,37,21,36,39,67,28,14,41,278,84,9,34,53,29,18,10
+[Auction "N"]
+Pass 1D 1S 3D =1= 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: Weaker than limit raise"]
+[Play "W"]
+DK D5 D2 D3 
+D9 D8 DA S7 
+S2 S4 SK S9 
+S8 S6 S3 ST 
+C8 CK C3 C2 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "5"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ64.Q954.85.K74 K3.A82.AJT742.T3 QT975.J6.3.AQJ92 82.KT73.KQ96.865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "59549595497479474794"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  5
+N  D  4
+N  C  9
+S NT  5
+S  S  9
+S  H  5
+S  D  4
+S  C  9
+E NT  7
+E  S  4
+E  H  7
+E  D  9
+E  C  4
+W NT  7
+W  S  4
+W  H  7
+W  D  9
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 21,0,3,54,171,66,186,265,56,191,53,93,420,352,35,30,24,29,16,134,78,37,16,419,28,131,25,35,19,7,13,108,20,10,25,110,19,17,8,180,19,19,16,94,31,31,39,71,43,12,17,45,56,22,145,54,25,16,9,14,17,21,11
+[Auction "N"]
+Pass 1D 1S X =1= 
+2NT =2= Pass 3C 3D 
+4S 5D Pass Pass 
+X Pass Pass Pass 
+[Note "1: 4H 7+"]
+[Note "2: 4+S inv+"]
+[Play "S"]
+S7 S2 SA S3 
+C9 C5 C4 C3 
+CA C6 C7 CT 
+CQ C8 CK D2 
+D3 DK D5 D4 
+S5 D6 D8 DT 
+C2 DQ S4 D7 
+S9 S8 S6 SK 
+CJ D9 SJ DA 
+H6 H3 H4 HA 
+HJ HK H5 H2 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "6"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AK8.AT53.82.T762 J9742.Q2.QJ.AQ93 Q63.K98764.43.KJ T5.J.AKT9765.854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "56a4656a464639646396"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H 10
+N  D  4
+N  C  6
+S NT  5
+S  S  6
+S  H 10
+S  D  4
+S  C  6
+E NT  4
+E  S  6
+E  H  3
+E  D  9
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  9
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 16,2,1,158,82,52,116,34,60,28,39,26,55,93,45,26,30,23,44,28,35,41,374,23,43,356,177,21,26,86,37,42,41,132,24,22,15,26,21,13,37,24,192,29,32,120,33,10,22,27,15,15,11,16,26,12,11,23,14,13,13,7,9,7,22
+[Auction "E"]
+1S Pass 1NT Pass 
+2C Pass 2D Pass 
+Pass 2H Pass Pass 
+3D Pass Pass 3H 
+Pass Pass 4D Pass 
+Pass Pass 
+[Play "N"]
+D8 DJ D3 D5 
+SK S2 S6 ST 
+HA H2 H4 HJ 
+H3 HQ HK D6 
+S8 S9 SQ S5 
+D2 DQ D4 D7 
+SA S4 S3 D9 
+C2 CA CJ C4 
+H5 SJ H6 C5 
+HT S7 H7 C8 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "6"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AK8.AT53.82.T762 J9742.Q2.QJ.AQ93 Q63.K98764.43.KJ T5.J.AKT9765.854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "56a4656a464639646396"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H 10
+N  D  4
+N  C  6
+S NT  5
+S  S  6
+S  H 10
+S  D  4
+S  C  6
+E NT  4
+E  S  6
+E  H  3
+E  D  9
+E  C  6
+W NT  4
+W  S  6
+W  H  3
+W  D  9
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,199,79,79,156,165,40,33,497,30,38,22,40,75,21,13,80,21,16,18,68,74,17,27,130,25,23,28,143,165,16,22,232,22,15,26,85,29,18,24
+[Auction "E"]
+Pass 2H =1= 3D 3H 
+4D Pass Pass 4H 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "W"]
+DA D2 DQ D3 
+DK D8 DJ D4 
+ST SA S2 S3 
+HJ H3 H2 HK 
+D7 HA HQ H4 
+C4 C2 C3 CJ 
+D5 HT S4 H6 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "7"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.T842.654.JT76 AT3.AK9.QT87.K42 K76.QJ75.32.A953 J9842.63.AKJ9.Q8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2262622626ab6b7ab6b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  2
+N  C  6
+S NT  2
+S  S  2
+S  H  6
+S  D  2
+S  C  6
+E NT 10
+E  S 11
+E  H  6
+E  D 11
+E  C  7
+W NT 10
+W  S 11
+W  H  6
+W  D 11
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,219,33,52,37,48,186,81,32,38,22,32,133,228,46,23,20,28,30,106,29,28,28,21,657,32,27,14,26,13,11,103
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 2S =1= Pass 4S 
+Pass Pass Pass 
+[Note "1: S suit + D fit"]
+[Play "N"]
+CJ C2 C3 CQ 
+S5 ST SK S2 
+D5 D7 D3 DA 
+SQ SA S6 SJ 
+H2 S3 S7 S9 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "7"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q5.T842.654.JT76 AT3.AK9.QT87.K42 K76.QJ75.32.A953 J9842.63.AKJ9.Q8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2262622626ab6b7ab6b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  6
+N  D  2
+N  C  6
+S NT  2
+S  S  2
+S  H  6
+S  D  2
+S  C  6
+E NT 10
+E  S 11
+E  H  6
+E  D 11
+E  C  7
+W NT 10
+W  S 11
+W  H  6
+W  D 11
+W  C  7
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,108,97,44,396,71,30,29,186,35,78,103,193,45,25,35,23,22,422,186,20,29,20,29,11,16,18,14,31,17
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1S Pass 1NT 
+Pass 2C =1= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: CB"]
+[Play "N"]
+H2 HA H5 H6 
+S5 SA S7 S2 
+SQ S3 S6 S8 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "8"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKT7.KQ6.6.AJ864 QJ.JT9.AT8532.95 52.A87432.4.KQT7 98643.5.KQJ97.32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "79c5c79c5c0408004080"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H 12
+N  D  5
+N  C 12
+S NT  7
+S  S  9
+S  H 12
+S  D  5
+S  C 12
+E NT  0
+E  S  4
+E  H  0
+E  D  8
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  8
+W  C  0
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 8,2,1,196,629,55,383,173,155,20,24,73,30,19,15,203,26,15,16,29,26,18,13,28,19,60,25,69,72,18,152,551,30,10,26,27,18,10,8,21,26,19,14,21
+[Auction "W"]
+2S =1= Pass Pass Pass 
+[Note "1: 5-4+ S + minor, 5-10"]
+[Play "N"]
+D6 D2 D4 DK 
+SK SJ S2 S3 
+SA SQ S5 S4 
+HK H9 H2 H5 
+H6 HT HA S6 
+S7 D3 C7 DQ 
+CA C5 CT C2 
+C4 C9 CQ C3 
+C6 D5 CK S8 
+-  -  -  DJ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "8"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AKT7.KQ6.6.AJ864 QJ.JT9.AT8532.95 52.A87432.4.KQT7 98643.5.KQJ97.32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "79c5c79c5c0408004080"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H 12
+N  D  5
+N  C 12
+S NT  7
+S  S  9
+S  H 12
+S  D  5
+S  C 12
+E NT  0
+E  S  4
+E  H  0
+E  D  8
+E  C  0
+W NT  0
+W  S  4
+W  H  0
+W  D  8
+W  C  0
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 27,0,3,109,38,152,82,41,197,273,199,47,752,229,321,58,311,37,33,135,46,68,96,11,55,144,17,23
+[Auction "W"]
+Pass 1C 1D 1H 
+1S X =1= Pass 3H 
+4D 4NT =2= 5D Pass =3= 
+Pass 6H Pass Pass 
+Pass 
+[Note "1: shows 3H"]
+[Note "2: 5AB"]
+[Note "3: 1 or 4"]
+[Play "W"]
+DK D6 D5 D4 
+H5 H6 HT HA 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "9"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q4.AT.KQ832.J764 T96.9632.654.AKQ A7532.75.A7.T982 KJ8.KQJ84.JT9.53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78589785894484465854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  8
+E  D  4
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,1,3,152,127,52,76,55,218,120,48,45,71,70,108,36,24,29,13,31,38,18,17,14,54,14,67,23,9,11,10,37,25,17,29,21,15,6,15,23,8,9,13,20,10,12,17,6,15,32
+[Auction "N"]
+1D Pass 1S 2H 
+Pass 2S =1= Pass 3H 
+Pass Pass Pass 
+[Note "1:  * h raise [0:21]"]
+[Play "N"]
+DK D4 DA D9 
+DQ D5 D7 DJ 
+D8 D6 H5 DT 
+S4 S6 SA S8 
+SQ S9 S3 SK 
+C4 CQ C2 C5 
+C6 CK C8 C3 
+C7 CA C9 SJ 
+HA H2 H7 HK 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "9"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q4.AT.KQ832.J764 T96.9632.654.AKQ A7532.75.A7.T982 KJ8.KQJ84.JT9.53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78589785894484465854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  5
+N  D  8
+N  C  9
+S NT  7
+S  S  8
+S  H  5
+S  D  8
+S  C  9
+E NT  4
+E  S  4
+E  H  8
+E  D  4
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,2,0,90,31,192,24,156,45,171,19,57,144,67,90,21,238,31,7,9,14,10,27,13,51,22,82,12,135,21,10,10,7,20,16,28,466,102,43,32
+[Auction "N"]
+1D Pass 1S 2H 
+Pass 3H Pass Pass 
+Pass 
+[Play "N"]
+SQ S6 SA SK 
+D2 D4 DA DT 
+DQ D5 D7 DJ 
+DK D6 S7 D9 
+S4 S9 S2 S8 
+HA H2 H5 HK 
+D8 ST H7 H8 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "10"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:542.984.9852.T42 K7.KJT72.4.QJ985 863.Q5.AKQJT7.63 AQJT9.A63.63.AK7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "12"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "00060000607cc7c7cc7c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  6
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  6
+S  C  0
+E NT  7
+E  S 12
+E  H 12
+E  D  7
+E  C 12
+W NT  7
+W  S 12
+W  H 12
+W  D  7
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 15,1,3,212,44,108,53,515,47,80,38,163,37,73,40,988,106,290,94,22,12,84,19,7,18,68,10,20,11,52,10,11,18,41,9,10,28
+[Auction "E"]
+1H 2D 2S Pass 
+3C Pass 3D Pass 
+3S Pass 4C Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D2 D4 
+DA D6 D8 C5 
+C3 CA C4 C8 
+C6 CK C2 C9 
+DT C7 CT CQ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "10"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:542.984.9852.T42 K7.KJT72.4.QJ985 863.Q5.AKQJT7.63 AQJT9.A63.63.AK7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "00060000607cc7c7cc7c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  6
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  6
+S  C  0
+E NT  7
+E  S 12
+E  H 12
+E  D  7
+E  C 12
+W NT  7
+W  S 12
+W  H 12
+W  D  7
+W  C 12
+[OptimumScore "NS -1430"]
+[Competition "Teams"]
+% RBDATA 27,2,0,255,133,533,181,48,45,202,47,109,35,53,25,102,69,310,45,21,24,75,242,10,18,42,27,7,17,99,21,17,10,17,17,16,27,115,38,22
+[Auction "E"]
+1H 2D 3D =1= Pass 
+3H Pass 4C =2= Pass 
+4D Pass 4NT =3= Pass 
+5D Pass 6H Pass 
+Pass Pass 
+[Note "1: 3H, raise to at least 3"]
+[Note "2: cue"]
+[Note "3:  * rkc in H [0:12]"]
+[Play "S"]
+DK D3 D2 D4 
+DA D6 D5 H2 
+H5 HA H4 H7 
+HQ H3 H8 HJ 
+C6 C7 CT -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "11"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ9754.52.762.J4 AQ2.K93.AKJ854.5 6.AJT64.3.A98763 T83.Q87.QT9.KQT2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "2652626526b78b6b78a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  5
+N  D  2
+N  C  6
+S NT  2
+S  S  6
+S  H  5
+S  D  2
+S  C  6
+E NT 11
+E  S  7
+E  H  8
+E  D 11
+E  C  6
+W NT 11
+W  S  7
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,1,3,676,67,726,154,61,516,61,44,34,34,297,38,37,154,26,24,12,39,19,15,23,279,30,13,9,107,16,19,11,79,13,8,32,20,20
+[Auction "S"]
+2H =1= Pass Pass X 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 5 Hts 4+ minor"]
+[Play "N"]
+S4 S2 S6 S8 
+D7 DA D3 DT 
+C4 C5 C3 CK 
+S5 SQ H6 S3 
+H2 H3 HA H8 
+CJ H9 C7 CQ 
+D2 -  -  DQ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "11"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KJ9754.52.762.J4 AQ2.K93.AKJ854.5 6.AJT64.3.A98763 T83.Q87.QT9.KQT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "2652626526b78b6b78a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  5
+N  D  2
+N  C  6
+S NT  2
+S  S  6
+S  H  5
+S  D  2
+S  C  6
+E NT 11
+E  S  7
+E  H  8
+E  D 11
+E  C  6
+W NT 11
+W  S  7
+W  H  8
+W  D 10
+W  C  6
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,259,32,389,64,76,43,153,72,92,20,25,91,155,28,22,275,37,10,30,45,38,45,10,493,21,9,42,83,15,13,16,18,19,62,10,27,18,18,39,19,27,27,109,69,15,13,9,118,35,7,13,25,20,16,15,13,10,16,7,11,9,8,8
+[Auction "S"]
+1H Pass 1S 2D 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+C7 CK C4 C5 
+D3 D9 D6 DJ 
+HT HQ H2 H3 
+C3 DQ D2 D4 
+C6 DT D7 DA 
+C8 S3 S4 DK 
+C9 S8 S5 D8 
+H4 C2 S7 D5 
+S6 ST S9 SA 
+H6 H7 SK SQ 
+HJ H8 SJ S2 
+HA CT H5 H9 
+CA CQ CJ HK 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "12"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T76.32.KQ52.9643 984.AQ97.AJT3.87 Q32.KT854.74.AKQ AKJ5.J6.986.JT52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "54646546468979789797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  4
+N  C  6
+S NT  5
+S  S  4
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  7
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 3,1,3,70,30,154,104,36,31,33,241,67,409,16,29,24,17,23,19,426,117,14,20,30,43,14,6,35,10,9,18,14,19,6,12,24,51,10,13,26,31,15,6,28,13,67,9,41,14,9,7,21,6,18,11,42,22,13,15,11,10,8,7
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass Pass Pass 
+[Play "N"]
+DK DA D4 D6 
+C3 C7 CQ C5 
+S7 S4 S2 SA 
+D2 D3 D7 D9 
+DQ DT H5 D8 
+C4 C8 CK C2 
+S6 S8 S3 SK 
+C6 S9 CA CT 
+D5 DJ H4 H6 
+H2 HA H8 HJ 
+H3 H7 HT S5 
+C9 H9 SQ CJ 
+ST HQ HK SJ 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "12"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T76.32.KQ52.9643 984.AQ97.AJT3.87 Q32.KT854.74.AKQ AKJ5.J6.986.JT52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS -80"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "54646546468979789797"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  4
+N  C  6
+S NT  5
+S  S  4
+S  H  6
+S  D  4
+S  C  6
+E NT  8
+E  S  9
+E  H  7
+E  D  9
+E  C  7
+W NT  8
+W  S  9
+W  H  7
+W  D  9
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 3,2,0,65,30,158,106,51,57,49,135,300,122,302,17,69,11,25,11,14,35,11,16,53,19,43,18,85,25,10,24,17,16,21,15,297,93,14,19,49,11,10,23,57,36,11,14,25,27,10,63,19
+[Auction "W"]
+Pass Pass 1D 1H 
+1S Pass Pass Pass 
+[Play "N"]
+H3 H7 HK H6 
+H2 H9 H4 HJ 
+C3 C7 CQ CT 
+S6 HQ H5 D6 
+C4 C8 CK C2 
+S7 HA H8 D8 
+C6 S4 CA C5 
+ST S8 S2 SA 
+D2 S9 S3 SK 
+C9 D3 SQ CJ 
+-  -  HT -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "13"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT9743.943.AQ8.6 852.AT875.T9.QJ4 J6.J6.KJ76.97532 AK.KQ2.5432.AKT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "261542615496b8996b89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  1
+N  D  5
+N  C  4
+S NT  2
+S  S  6
+S  H  1
+S  D  5
+S  C  4
+E NT  9
+E  S  6
+E  H 11
+E  D  8
+E  C  9
+W NT  9
+W  S  6
+W  H 11
+W  D  8
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,2,0,126,43,65,95,47,32,20,179,82,45,23,25,36,12,19,28,15,25,26,11,12,9,77,19,174,59,19
+[Auction "N"]
+2S Pass Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+S9 S2 SJ SA 
+C6 CQ C3 C8 
+H4 CJ C2 CT 
+H3 C4 C5 CA 
+D8 D9 C7 CK 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "13"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT9743.943.AQ8.6 852.AT875.T9.QJ4 J6.J6.KJ76.97532 AK.KQ2.5432.AKT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "261542615496b8996b89"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  1
+N  D  5
+N  C  4
+S NT  2
+S  S  6
+S  H  1
+S  D  5
+S  C  4
+E NT  9
+E  S  6
+E  H 11
+E  D  8
+E  C  9
+W NT  9
+W  S  6
+W  H 11
+W  D  8
+W  C  9
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,183,58,164,565,80,133,34,130,37,21,20,17,115,43,13,178,28,16,6,110,10,14,8,72,17,9,100
+[Auction "N"]
+2D =1= Pass Pass X 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: Weak 2 in major, 5-9"]
+[Play "S"]
+SJ SK S3 S5 
+H6 HK H4 H5 
+HJ HQ H3 H7 
+C5 H2 H9 HA 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "14"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T.865.AK743.AKJ3 9.T97.T952.87542 Q8752.AJ2.J8.QT6 AKJ643.KQ43.Q6.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76689877995664456644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  8
+N  C  9
+S NT  8
+S  S  7
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  6
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  6
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,0,71,66,36,91,36,119,35,466,26,89,38,50,177,10,34,366,113,54,30,14,17,19,32,181,99,20,12,254,20,22,33,169,12,23,76,47,566,30,17,315,28,7,12
+[Auction "E"]
+Pass Pass 1S 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+SK ST S9 S2 
+C9 CA C2 C6 
+DQ D3 D2 DJ 
+D6 DA D5 D8 
+H3 DK D9 S5 
+S3 D4 DT H2 
+HQ H5 HT HJ 
+SA H6 C4 S7 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "14"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T.865.AK743.AKJ3 9.T97.T952.87542 Q8752.AJ2.J8.QT6 AKJ643.KQ43.Q6.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76689877995664456644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  6
+N  D  8
+N  C  9
+S NT  8
+S  S  7
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  6
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  6
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,1,3,53,49,26,55,117,277,176,65,41,35,44,100,114,43,46,244,50,33,65,543,35,19,26,18,16,18,22,114,63,9,9,11,47,22,23,452,24,8,10,27,21,8,53,26,23,8,14,43,23,9
+[Auction "E"]
+Pass Pass 1S X 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H3 H5 H7 HJ 
+DQ D3 D5 DJ 
+HK H6 H9 HA 
+D6 DA D2 D8 
+C9 C3 C2 CQ 
+S6 CJ C4 C6 
+S3 CK C5 CT 
+S4 CA C7 H2 
+SJ DK D9 S2 
+-  ST S9 S5 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "15"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A742.KT53.AKQ.QT KQT.Q9.T6532.J52 J9865.A42.J9.983 3.J876.874.AK764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "79767797676456664566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  9
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  6
+W  S  4
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,65,40,44,62,58,36,43,36,106,35,20,137,18,36,67,22,13,7,68,34,15,13,56,21,6,13,10,23,20,50,33,27,12,9
+[Auction "S"]
+Pass Pass 1H Pass 
+1S Pass 3S Pass 
+Pass Pass 
+[Play "W"]
+CK CT C2 C3 
+CA CQ C5 C8 
+C6 S2 CJ C9 
+S3 SA ST S5 
+C4 S4 SQ S6 
+D4 S7 SK S8 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "15"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A742.KT53.AKQ.QT KQT.Q9.T6532.J52 J9865.A42.J9.983 3.J876.874.AK764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "79767797676456664566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  6
+N  C  7
+S NT  7
+S  S  9
+S  H  7
+S  D  6
+S  C  7
+E NT  6
+E  S  4
+E  H  5
+E  D  6
+E  C  6
+W NT  6
+W  S  4
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,72,78,164,33,91,88,327,45,83,50,565,141,27,44,19,19,15,33,32,79,13,8,155,21,10,11,14,22,16,13,17,24,12,16,36,21,12,12,41,12,13,11
+[Auction "S"]
+Pass Pass 1C =1= Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Note "1:  * 2+ [0:08]"]
+[Play "W"]
+CK CT C2 C8 
+CA CQ C5 C9 
+D7 DQ D6 D9 
+S3 SA ST S5 
+D8 S2 SQ S6 
+D4 S4 SK S8 
+C6 DK D2 DJ 
+C4 DA D3 H2 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "16"]
+[West "Frank Dixon#34239"]
+[North "Chris Childs#523209"]
+[East "Paul Brereton#94086"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T76.AKJ6.QT932.Q KQ4.95.87.KJ9763 A953.Q8432..AT42 J82.T7.AKJ654.85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "89a7689a765426754266"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  2
+E  D  6
+E  C  7
+W NT  5
+W  S  4
+W  H  2
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 6,2,0,223,63,43,50,30,235,41,26,49,58,17,157,32,92,15,242,25,14,29,186,44,52,21,108,20,33,20,41,173,36,17,78,138,14,47,13,65,11,24,13,28,12,42
+[Auction "W"]
+2D =1= Pass Pass X 
+Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+HK H5 H4 H7 
+CQ CK CA C8 
+D2 C3 C2 C5 
+ST SK SA S8 
+H6 H9 HQ HT 
+D3 C6 C4 S2 
+HA D7 H2 SJ 
+D9 D8 H3 DA 
+DT C7 CT DK 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "16"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:T76.AKJ6.QT932.Q KQ4.95.87.KJ9763 A953.Q8432..AT42 J82.T7.AKJ654.85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "89a7689a765426754266"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 10
+N  D  7
+N  C  6
+S NT  8
+S  S  9
+S  H 10
+S  D  7
+S  C  6
+E NT  5
+E  S  4
+E  H  2
+E  D  6
+E  C  7
+W NT  5
+W  S  4
+W  H  2
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,157,65,89,114,211,69,44,115,52,47,47,404,1041,40,9,18,18,8,41,26,29,8,47,25,9,16,20,76,25,9,18,28,12,12,37,26,31,9,10,258,24,18,25,170,16,9,7,940,60,12,11,16,12,18,9,9,15,8,11,7,19,7,12
+[Auction "W"]
+Pass 1D 2C X 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+C7 CA C5 CQ 
+C6 C2 C8 H6 
+S4 SA S2 S6 
+C3 C4 S8 HK 
+D8 H2 D4 D2 
+C9 CT SJ HA 
+H5 H3 H7 HJ 
+SQ S3 D5 S7 
+SK S5 D6 ST 
+CK H4 HT D3 
+D7 H8 DA D9 
+H9 HQ DJ DT 
+CJ S9 DK DQ 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "17"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q65.KJ86.54.J543 J9.A432.Q982.AQ8 83.T7.AKT763.K72 AKT742.Q95.J.T96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "54667546676876678766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  8
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,88,90,84,265,79,20,42,39,33,18,21,82,117,88,9,270,284,26,9,30,33,28,26,36,22,11,26,57,9,28,13,109,36,28,15,70,26,12,35,15,47,19,14,9,23,28,16,26,30,14,17
+[Auction "N"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Spades"]
+[Play "S"]
+DK DJ D4 D2 
+HT H5 H6 H2 
+H7 H9 HJ HA 
+S3 S2 SQ S9 
+C2 HQ HK H3 
+CK C6 C3 C8 
+S8 S4 S5 SJ 
+D3 S7 H8 H4 
+D6 SA S6 D8 
+D7 SK D5 D9 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "17"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q65.KJ86.54.J543 J9.A432.Q982.AQ8 83.T7.AKT763.K72 AKT742.Q95.J.T96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "54667546676876678766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  6
+N  D  6
+N  C  7
+S NT  5
+S  S  4
+S  H  6
+S  D  6
+S  C  7
+E NT  6
+E  S  8
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  8
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,0,3,200,114,62,236,44,28,26,25,27,16,20,16,141,18,33,134,388,72,25,120,579,115,21,170,26,57,26,203,36,29,10,119,13,29,19,108,34,52,13,73,14,25,23,25,36,62,28,39,110,44,23,41,8,47,38,13,13,16,20,11,10,14,7
+[Auction "N"]
+Pass 1NT Pass 2H =1= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: S"]
+[Play "S"]
+DK DJ D5 D2 
+S3 S2 SQ SJ 
+CK C6 C5 C8 
+C7 C9 CJ CQ 
+D3 S4 D4 D8 
+S8 S7 S5 S9 
+DT ST H6 D9 
+C2 CT C3 CA 
+H7 HQ HK H2 
+D6 SK S6 H3 
+D7 SA C4 DQ 
+HT H5 H8 HA 
+DA H9 HJ H4 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "18"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ2.T863.K852.54 653.AK.A74.KT983 AJ4.52.JT93.QJ72 T987.QJ974.Q6.A6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "45485454858885788857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  8
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  8
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  5
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,2,1,119,54,105,44,38,33,94,46,34,66,50,729,66,26,127,26,9,64,18,15,13,9,493,26,19,12,17,57,24,62,87,21,21,8,103,38,24,7,16,22,21,32,22,28,121,15,29,22,12,64,15,16,16,13,9,11,20,37,33,7,11,7
+[Auction "E"]
+1NT =1= Pass 2C =2= Pass 
+2D Pass 2H =3= Pass 
+Pass Pass 
+[Note "1: ♢12-14"]
+[Note "2: Stayman"]
+[Note "3: To play"]
+[Play "N"]
+C5 C8 CJ CA 
+H3 HK H2 H4 
+H6 HA H5 H7 
+S2 S3 SA S7 
+DK D4 DJ DQ 
+SQ S5 S4 S8 
+D2 DA D3 D6 
+D5 D7 D9 H9 
+H8 C3 C2 HQ 
+HT S6 DT HJ 
+C4 CK C7 C6 
+D8 C9 CQ S9 
+SK CT SJ ST 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "18"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ2.T863.K852.54 653.AK.A74.KT983 AJ4.52.JT93.QJ72 T987.QJ974.Q6.A6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "45485454858885788857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  8
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  8
+S  C  5
+E NT  8
+E  S  8
+E  H  8
+E  D  5
+E  C  7
+W NT  8
+W  S  8
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,0,3,176,35,197,37,27,30,21,42,194,32,177,625,36,11,20,20,9,14,16,9,13,12,37,11,9,13,23,26,15,194,34,30,74,35,13,376,14,24,10,18,5,18,32,47,12,28,12,15,13,18,91,14,9,18,10,17,9,12,9,9,9,9
+[Auction "E"]
+1NT Pass 2C =1= Pass 
+2D Pass 2H Pass 
+Pass Pass 
+[Note "1: non-prom stayman"]
+[Play "N"]
+C5 CK C2 C6 
+H3 HA H2 H4 
+H6 HK H5 H7 
+C4 C3 C7 CA 
+H8 S3 CJ HQ 
+HT C8 D3 HJ 
+SQ S5 S4 S9 
+D2 D4 D9 DQ 
+SK S6 SA ST 
+D5 DA DJ D6 
+D8 D7 DT H9 
+S2 C9 SJ S7 
+DK CT CQ S8 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "19"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQJ83.974.874.76 542.T52.AQJ6.AK9 T6.AKQ83.2.QJ543 A97.J6.KT953.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56947569478648586485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  9
+N  D  4
+N  C  7
+S NT  5
+S  S  6
+S  H  9
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  4
+E  D  8
+E  C  5
+W NT  8
+W  S  6
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 7,2,1,115,31,138,28,126,43,82,32,213,40,20,111,73,17,24,69,54,38,34,26,24,13,19,18,19,18,50,34,31,16,22,23,15,25,311,94,24,74,70,21,19,10,17,15,12,26,33,38,10,7
+[Auction "S"]
+1H Pass 1S Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Play "W"]
+DT D4 DA D2 
+D5 D7 DQ H3 
+S9 SK S5 S6 
+C8 C6 CK C3 
+H6 H4 H2 HA 
+C2 C7 CA CJ 
+D3 D8 D6 H8 
+CT H7 C9 C4 
+HJ H9 H5 HK 
+S7 S3 HT HQ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "19"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KQJ83.974.874.76 542.T52.AQJ6.AK9 T6.AKQ83.2.QJ543 A97.J6.KT953.T82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56947569478648586485"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  9
+N  D  4
+N  C  7
+S NT  5
+S  S  6
+S  H  9
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  4
+E  D  8
+E  C  5
+W NT  8
+W  S  6
+W  H  4
+W  D  8
+W  C  5
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,0,3,103,48,84,82,82,60,48,53,53,81,479,17,304,22,52,10,13,27,12,14,13,44,15,13,283,32,56,17,46,47,14,26,145,34,17,10,155,22,38,19,26,19,9,20,22,36,9,13,11,15,14,16,22,37,18,12,26,9,62,11
+[Auction "S"]
+1H Pass 2H Pass 
+3H Pass Pass Pass 
+[Play "W"]
+DT D4 D6 D2 
+D5 D7 DJ H3 
+S7 SK S2 S6 
+C2 C6 CK C3 
+DK D8 DA H8 
+C8 C7 CA CJ 
+H6 H4 H2 HA 
+CT H9 C9 C4 
+HJ H7 H5 HK 
+S9 S3 HT HQ 
+D3 S8 S4 CQ 
+D9 SJ S5 C5 
+SA SQ DQ ST 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "20"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T95.QJ72.A3.KQJ7 AK6.43.JT854.A43 J83.AT85.K976.65 Q742.K96.Q2.T982"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66856668566657766577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  6
+S  H  8
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,50,90,78,72,32,188,59,81,40,77,163,14,14,18,27,32,9,18,12,13,14,39,80,22,59,58,18,11,28,17,17,7,14,101,25,12,47,66,21,13,8
+[Auction "W"]
+Pass 1C =1= Pass 1H 
+Pass 2H Pass Pass 
+Pass 
+[Note "1:  * 2+ [0:18]"]
+[Play "W"]
+CT CK CA C6 
+S2 S5 SK S8 
+S4 S9 SA S3 
+D2 DA DJ D6 
+HK HQ H3 H5 
+SQ ST S6 SJ 
+H6 H2 H4 H8 
+H9 H7 D4 HA 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "20"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:T95.QJ72.A3.KQJ7 AK6.43.JT854.A43 J83.AT85.K976.65 Q742.K96.Q2.T982"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66856668566657766577"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  6
+S  H  8
+S  D  5
+S  C  6
+E NT  6
+E  S  6
+E  H  5
+E  D  7
+E  C  7
+W NT  6
+W  S  6
+W  H  5
+W  D  7
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,0,3,82,133,129,59,73,40,37,47,101,30,222,19,27,53,20,19,35,151,34,28,9,25,66,12,356,21
+[Auction "W"]
+Pass 1C =1= Pass 1H 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 2+"]
+[Play "W"]
+H6 HQ H3 H5 
+HK HJ H4 H8 
+H9 H2 D4 HA 
+C9 CK CA C5 
+-  -  S6 -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "21"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:853.QT.AQ3.AKJ42 QT6.K7543.874.65 J972.J986.5.T987 AK4.A2.KJT962.Q3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "77648776485579555795"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  9
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  9
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,152,46,139,877,46,29,71,94,114,36,11,893,38,14,47,42,62,29,14,65,18,47,8,233,21,11,8
+[Auction "N"]
+1NT Pass Pass 3D 
+Pass Pass Pass 
+[Play "N"]
+CK C5 C7 C3 
+D3 D8 D5 D2 
+DQ D4 C8 D9 
+DA D7 C9 D6 
+CA C6 CT CQ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "21"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:853.QT.AQ3.AKJ42 QT6.K7543.874.65 J972.J986.5.T987 AK4.A2.KJT962.Q3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "77648776485579555795"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  4
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  4
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  9
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  9
+W  C  5
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,0,3,278,72,42,248,58,66,34,46,132,12,9,295,13,8,10,338,28,11,46,19,19,9,29
+[Auction "N"]
+1NT =1= Pass Pass 3D 
+Pass Pass Pass 
+[Note "1: 15-17 may have sing"]
+[Play "N"]
+CK C5 C7 C3 
+CA C6 C8 CQ 
+D3 D4 D5 D9 
+DA D7 C9 DK 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "22"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.K842.AJ43.KJ94 Q9752.J7.K72.A76 JT83.QT96.T85.83 AK6.A53.Q96.QT52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "65775657757856878668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  7
+E  S  8
+E  H  5
+E  D  6
+E  C  8
+W NT  7
+W  S  8
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,69,35,46,157,34,38,88,59,111,70,39,49,20,35,20,33,168,325,36,14,190,23,25,32,85,26,8,15,30,190,18,35,18,25,45,21,29,25,53,25,20,12,38,8,26,17,9,13,73,20,16,23,14,18,28,60,24,20,7,9,15,27,21,8,11,8,12,23
+[Auction "E"]
+Pass Pass 1C Pass 
+1S Pass 1NT =1= Pass 
+2C =2= Pass 2S Pass 
+4S Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: Tell me more"]
+[Play "S"]
+H9 H3 HK H7 
+HQ HA H2 HJ 
+S3 SA S4 S2 
+S8 SK C4 S5 
+ST S6 D3 SQ 
+C3 CT CJ C6 
+H6 H5 H4 S7 
+C8 C2 C9 CA 
+D5 DQ DA D2 
+HT D6 H8 S9 
+D8 D9 D4 DK 
+DT C5 CK C7 
+SJ CQ DJ D7 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "22"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:4.K842.AJ43.KJ94 Q9752.J7.K72.A76 JT83.QT96.T85.83 AK6.A53.Q96.QT52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "65775657757856878668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  7
+S  D  7
+S  C  5
+E NT  7
+E  S  8
+E  H  5
+E  D  6
+E  C  8
+W NT  7
+W  S  8
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 8,0,3,227,24,81,63,318,43,21,29,28,31,180,121,19,31,397,30,19,14,17,11,14,182,35,32,39,9,47,64,11,31,156,142,60,11,324,77,25,32,68,66,16,13,141,16,18,10,123,8,20,26,12,11,26,10,36
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+2H Pass 2S Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Play "N"]
+C4 C6 C8 CT 
+S4 SQ S3 S6 
+D3 S2 S8 SA 
+C9 CA C3 C2 
+CJ C7 H6 C5 
+CK H7 D5 CQ 
+HK HJ H9 HA 
+H2 S5 ST SK 
+D4 DK D8 D6 
+DA D2 DT DQ 
+DJ D7 HT D9 
+H4 -  -  -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "23"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ2.KQ8.Q52.KQ98 KQ.A6542.A873.54 T874.J.J964.AJT3 9653.T973.KT.762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "98588985884574445744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,72,27,90,97,247,36,131,27,138,28,54,23,34,22,12,424,30,13,947,32,10,15,106,21,10,21,21,21,11,31,390,34,22,19,152,30,30,18,31,25,8,16,41,25,19,18,11,23,9,16,16,170,14,12,12,56,16,9,15,20,18,7,11,15,6,8
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C =1= Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * Stayman [0:09]"]
+[Play "E"]
+H6 HJ H3 H8 
+C4 C3 C7 CK 
+C5 CT C2 CQ 
+D3 CJ C6 C8 
+SQ ST S3 S2 
+H2 D4 H7 HQ 
+D7 CA H9 C9 
+SK S4 S5 SJ 
+HA D6 HT HK 
+H5 S7 S6 D2 
+H4 S8 S9 D5 
+DA D9 DT DQ 
+D8 DJ DK SA 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "23"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AJ2.KQ8.Q52.KQ98 KQ.A6542.A873.54 T874.J.J964.AJT3 9653.T973.KT.762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "98588985884574445744"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  5
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  4
+E  S  5
+E  H  7
+E  D  4
+E  C  4
+W NT  4
+W  S  5
+W  H  7
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 7,0,3,81,35,80,439,107,131,32,77,73,80,20,246,32,17,14,39,14,26,14,21,28,7,21,86,19,16,18,18,25,13,12,24,13,22,14,892,16,12,18,195,41,22,17,42,39,42,21,39,27,14,21,62,38,20,7,16,11,11,7
+[Auction "S"]
+Pass Pass 1NT =1= 2H =2= 
+Pass Pass Pass 
+[Note "1: 15-17 may have sing"]
+[Note "2: 5H+m"]
+[Play "S"]
+S8 S3 SA SQ 
+C3 C2 CK C4 
+CT C6 C8 C5 
+CA C7 C9 H2 
+D4 DK D2 D3 
+D6 DT D5 DA 
+D9 H3 DQ D7 
+S4 S5 S2 SK 
+HJ H7 H8 H4 
+DJ H9 HQ D8 
+S7 S6 SJ H5 
+CJ HT HK HA 
+ST S9 CQ H6 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "24"]
+[West "Richard Pike#72126"]
+[North "Chris Childs#523209"]
+[East "David Waxman#20349"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ94.K432.94.T75 65.QJ9865.T876.4 A73.T.AK532.KQ83 KT82.A7.QJ.AJ962"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "87578885885485555855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 8,2,1,112,78,100,172,48,321,25,164,34,46,171,73,23,99,28,15,10,8,476,43,38,301,36,10,10,19,14,28,12,66,16,16,7,23,9,15,8,629,22,132,20,10,35,46,17,76,12,27,12
+[Auction "W"]
+1C Pass 2H =1= X 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: ♡Weak"]
+[Play "E"]
+C4 CK CA C5 
+H5 HT HA H2 
+H6 S3 H7 H3 
+S5 SA S2 S4 
+S6 S7 S8 SQ 
+D6 DA DJ D4 
+D7 DK DQ D9 
+D8 D2 C2 S9 
+H8 CQ C6 C7 
+DT D3 C9 SJ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "24"]
+[West "Dennis Haines#510544"]
+[North "Paul Brereton#94086"]
+[East "Ian Cook#92002"]
+[South "Frank Dixon#34239"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QJ94.K432.94.T75 65.QJ9865.T876.4 A73.T.AK532.KQ83 KT82.A7.QJ.AJ962"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "87578885885485555855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  7
+N  C  8
+S NT  8
+S  S  8
+S  H  5
+S  D  8
+S  C  8
+E NT  5
+E  S  4
+E  H  8
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,266,29,124,140,42,118,60,55,24,54,33,57,16,18,39,18,10,16,123,924,77,18,94,33,16,20,69,38,12,11,14,26,33,37,30,136,36,8,40,52,83,8,189,20,21,11,43,10,37,21
+[Auction "W"]
+1C Pass Pass 1D 
+1S Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+DK DJ D4 D7 
+DA DQ D9 D6 
+D5 H7 HK D8 
+HT HA H2 H5 
+C3 CA C5 C4 
+C8 C2 CT H8 
+D3 S2 H3 HQ 
+CQ C6 H4 HJ 
+D2 C9 S4 DT 
+S7 SK S9 S5 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "25"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJT97.QJ.K.JT763 Q654.AKT64.T42.A A3.972.QJ876.KQ4 82.853.A953.9852"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "67569675697587475874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  6
+N  C  9
+S NT  6
+S  S  7
+S  H  5
+S  D  6
+S  C  9
+E NT  7
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 18,2,0,144,201,422,238,76,24,438,45,460,27,110,42,33,22,15,85,34,9,36,19,10,8,61,21,13,10,280,25,10,12,12,19,14,24,59,38,10,64,88,23,182,17,19,24,11,14,17,27,8,30,33,18,17,9,64,18,32,11
+[Auction "N"]
+1S 2H X Pass 
+3C Pass 3H Pass 
+4C Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HK H2 H5 HQ 
+HA H7 H3 HJ 
+HT H9 H8 S7 
+S4 SA S2 S9 
+SQ S3 S8 ST 
+H6 D6 D3 SJ 
+CA CK C2 C3 
+H4 D7 D5 SK 
+S5 CQ C5 C6 
+D4 D8 DA DK 
+S6 C4 C9 CT 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "25"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJT97.QJ.K.JT763 Q654.AKT64.T42.A A3.972.QJ876.KQ4 82.853.A953.9852"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "67569675697587475874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  6
+N  C  9
+S NT  6
+S  S  7
+S  H  5
+S  D  6
+S  C  9
+E NT  7
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  7
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,1,3,446,207,139,66,68,35,267,60,1531,29,28,31,57,22,48,74,44,119,19,156,37,9,16,67,22,16,11,51,16,74,17,74,15,64,13,30,22,9,20,863,29,66,11,102,21,8,29,193,14,14,9,21,31,13,8,22,6,13,7
+[Auction "N"]
+1S 2H 3D 3H 
+Pass Pass Pass 
+[Play "S"]
+CK C2 C7 CA 
+D8 DA DK D2 
+S3 S2 SJ S4 
+H7 H3 HQ HA 
+SA S8 S7 S5 
+DQ D3 C3 D4 
+DJ D5 S9 DT 
+CQ C5 C6 H4 
+H9 C8 ST S6 
+D6 D9 HJ HK 
+H2 H5 CT HT 
+C4 H8 SK SQ 
+D7 C9 CJ H6 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "26"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ853.85.J752.AT KT72.J964.KT6.53 A.AKT3.Q83.KQ984 964.Q72.A94.J762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "98899988994454344543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,137,152,34,47,35,34,153,281,48,57,59,37,22,58,120,810,26,21,45,14,39,8,17,17,17,11,25,11,104,55,28,59,166,143,36,25,25,135,20,16,7,29,14,73,165,22,33,100,34,104,23,15,11,17,29,9,12,16,20,17,6,29,15,11,5
+[Auction "E"]
+Pass 1C Pass 1S 
+Pass 2H Pass 3D =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 4th suit F GF"]
+[Play "W"]
+S6 S3 ST SA 
+C2 CA C5 C4 
+C6 CT C3 CK 
+C7 S5 S2 CQ 
+CJ H5 S7 C9 
+S9 SQ SK H3 
+H2 H8 H9 HA 
+S4 S8 D6 C8 
+D4 D2 DT D3 
+H7 D5 H4 HK 
+DA D7 DK DQ 
+HQ SJ H6 HT 
+D9 DJ HJ D8 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "26"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ853.85.J752.AT KT72.J964.KT6.53 A.AKT3.Q83.KQ984 964.Q72.A94.J762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "98899988994454344543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  3
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,2,0,62,115,27,80,19,327,78,324,41,123,62,99,33,47,27,661,509,49,139,714,43,149,40,30,40,25,49,327,12,17,26,1008,133,12,33,109,30,26,41,58,17,79,54,54,26,24,17,15,23,53,14
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 2NT Pass 3D 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1:  * 2+ [0:31]"]
+[Play "W"]
+D4 D2 DT DQ 
+D9 DJ DK D8 
+H7 H5 H4 HA 
+DA D5 D6 D3 
+HQ H8 H6 HK 
+C2 CA C3 C4 
+CJ CT C5 C8 
+H2 S3 HJ H3 
+S4 S5 H9 HT 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "27"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T.QJ7.AJ9542.Q75 K643.AK9643.T86. QJ975.8.Q3.JT864 A82.T52.K7.AK932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "452663526688a6698a66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  6
+S  C  6
+E NT  8
+E  S  8
+E  H 10
+E  D  6
+E  C  6
+W NT  9
+W  S  8
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,115,141,191,191,83,154,44,39,37,26,26,52,385,26,16,18,15,15,10,442,65,23,10,19,22,12,14,20,60,13,10,98,90,13,13,25
+[Auction "S"]
+Pass 1C =1= 2D =2= 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Note "2:  * weak [0:08]"]
+[Play "S"]
+DQ DK DA D6 
+D3 D7 DJ D8 
+S5 S2 ST SK 
+H8 H2 H7 HA 
+S7 H5 HJ HK 
+S9 HT HQ H3 
+-  -  D9 -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "27"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T.QJ7.AJ9542.Q75 K643.AK9643.T86. QJ975.8.Q3.JT864 A82.T52.K7.AK932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "452663526688a6698a66"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  2
+N  D  6
+N  C  6
+S NT  3
+S  S  5
+S  H  2
+S  D  6
+S  C  6
+E NT  8
+E  S  8
+E  H 10
+E  D  6
+E  C  6
+W NT  9
+W  S  8
+W  H 10
+W  D  6
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,194,242,151,279,42,33,36,58,36,22,31,78,703,48,112,53,33,10,8,23,17,16,6,27,281,43,16,188,18,14,14,241,14,10,86,114,50,1315,38,39,37,7,19,14,10,16,21,16,33,9,6,27
+[Auction "S"]
+2S =1= 2NT =2= Pass 3D =3= 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 5spades 4+ minor"]
+[Note "2: 15-17"]
+[Note "3:  * H [0:07]"]
+[Play "N"]
+ST S3 S7 SA 
+C7 D6 C8 CA 
+C5 D8 C4 CK 
+D2 SK S5 S2 
+H7 HA H8 H2 
+D4 S4 SJ S8 
+DA DT DQ D7 
+DJ S6 D3 DK 
+HJ HK S9 H5 
+HQ H3 SQ HT 
+CQ -  -  -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "28"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ75.8.K7632.KJ3 JT3.K3.JT98.QT75 A984.AJT9765.4.2 62.Q42.AQ5.A9864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "7aa867aa863335733357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  8
+N  C  6
+S NT  7
+S  S 10
+S  H 10
+S  D  8
+S  C  6
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  7
+W NT  3
+W  S  3
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 7,2,0,275,129,413,133,65,939,40,151,129,20,11,214,51,102,14,192,18,15,19,56,28,13,20,20,20,46,8,106,12,16,16,29,68,14,8,82,35,16,7,12,62,20,12,88,18,20,13,39,10,18,8
+[Auction "W"]
+1C =1= 1D 1NT 2H 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "W"]
+CA C3 C5 C2 
+C6 CK C7 D4 
+HQ H8 H3 HJ 
+C4 CJ CQ H5 
+H2 D2 HK HA 
+H4 D3 CT HT 
+C8 D6 D8 H9 
+D5 D7 D9 H7 
+C9 DK DT H6 
+S2 SK SJ S4 
+S6 S5 ST SA 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "28"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ75.8.K7632.KJ3 JT3.K3.JT98.QT75 A984.AJT9765.4.2 62.Q42.AQ5.A9864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "7aa867aa863335733357"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  8
+N  C  6
+S NT  7
+S  S 10
+S  H 10
+S  D  8
+S  C  6
+E NT  3
+E  S  3
+E  H  3
+E  D  5
+E  C  7
+W NT  3
+W  S  3
+W  H  3
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,1,3,161,79,35,201,42,427,273,57,41,54,18,126,104,35,24,24,27,6,23,22,32,14,21,288,21,25,18,11,17,27,8,14,30,25,8,12,40,15,9,10,12,14,60
+[Auction "W"]
+1NT =1= Pass Pass 2H 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Play "W"]
+S6 S5 ST SA 
+H2 H8 H3 HA 
+H4 D2 HK H6 
+DA D3 DJ D4 
+CA C3 C5 C2 
+C4 CK C7 S4 
+C6 CJ CQ H5 
+HQ S7 S3 HJ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "29"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ987.K95.92.542 AT4.Q63.J85.KJ86 6.J842.AQT7643.Q Q532.AT7.K.AT973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "45683456837864a7864a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  8
+N  C  3
+S NT  4
+S  S  5
+S  H  6
+S  D  8
+S  C  3
+E NT  7
+E  S  8
+E  H  6
+E  D  4
+E  C 10
+W NT  7
+W  S  8
+W  H  6
+W  D  4
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 11,1,3,65,56,96,273,43,56,129,98,253,13,186,10,34,12,33,19,110,10,97,23,6,19,154,39,61,17,27,36,32,11,16,120,18,9,20,23,10,65,66,19,17,12,12,16,7,14,18
+[Auction "N"]
+Pass Pass 3D Pass 
+Pass Pass 
+[Play "W"]
+S2 S7 ST S6 
+CA C2 C6 CQ 
+CT C4 C8 D3 
+DK D2 D5 DA 
+H7 HK H3 H4 
+C3 D9 D8 DT 
+C7 C5 DJ DQ 
+HT H5 H6 H2 
+C9 S8 CK D4 
+HA H9 HQ H8 
+S3 -  -  -  
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "29"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ987.K95.92.542 AT4.Q63.J85.KJ86 6.J842.AQT7643.Q Q532.AT7.K.AT973"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "45683456837864a7864a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  8
+N  C  3
+S NT  4
+S  S  5
+S  H  6
+S  D  8
+S  C  3
+E NT  7
+E  S  8
+E  H  6
+E  D  4
+E  C 10
+W NT  7
+W  S  8
+W  H  6
+W  D  4
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 18,2,0,92,57,165,83,79,273,61,52,44,217,26,18,22,54,135,36,14,227,78,27,18,24,33,22,23,339,25,15,18,884,22,34,31,110,24,90,75,15,49,63,19,184,23,14,13,32,18,7,11,26,10,20,11,20,29,13,10,26,13,11,14,15,14,9,6
+[Auction "N"]
+Pass Pass 2D =1= X 
+Pass 3D Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: weak"]
+[Play "N"]
+D9 D5 DA DK 
+HK H3 H2 H7 
+D2 D8 DT S2 
+S7 ST S6 S3 
+S8 DJ DQ S5 
+H9 H6 HJ HA 
+SK SA D3 SQ 
+C4 CK CQ C3 
+C2 CJ D4 C7 
+C5 C8 D6 C9 
+S9 C6 D7 CA 
+SJ S4 H4 CT 
+H5 HQ H8 HT 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "30"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T63.QJ9743.Q8.K8 842.K62.K9.QJ653 KJ75.85.J3.AT742 AQ9.AT.AT76542.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2561425614b86c8b86c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  6
+N  D  1
+N  C  4
+S NT  2
+S  S  5
+S  H  6
+S  D  1
+S  C  4
+E NT 11
+E  S  8
+E  H  6
+E  D 12
+E  C  8
+W NT 11
+W  S  8
+W  H  6
+W  D 12
+W  C  8
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,1,3,91,60,35,116,77,83,228,42,565,37,27,42,11,667,45,18,31,18,23,15,17,9,63,8,331,79,10,66,28,14,16,7,127,10,26,8,35,10,28,16,316,25,21,23,40,123,24,18,17,28,63,12,43,25,17,13,33,11,20,8,8,13,8,15
+[Auction "E"]
+Pass Pass 1D 2H =1= 
+Pass Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: Weak"]
+[Play "S"]
+H5 HA H3 H2 
+D3 D2 D8 DK 
+DJ DA DQ D9 
+C7 DT H4 C3 
+H8 D4 H7 C5 
+C2 D5 S6 S2 
+S5 D6 S3 S4 
+CA C9 C8 CQ 
+S7 SA ST S8 
+SJ D7 H9 C6 
+SK HT HJ HK 
+C4 S9 HQ H6 
+CT SQ CK CJ 
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "30"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T63.QJ9743.Q8.K8 842.K62.K9.QJ653 KJ75.85.J3.AT742 AQ9.AT.AT76542.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2561425614b86c8b86c8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  5
+N  H  6
+N  D  1
+N  C  4
+S NT  2
+S  S  5
+S  H  6
+S  D  1
+S  C  4
+E NT 11
+E  S  8
+E  H  6
+E  D 12
+E  C  8
+W NT 11
+W  S  8
+W  H  6
+W  D 12
+W  C  8
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,2,0,81,81,39,154,106,104,141,49,197,96,16,34,55,843,25,13,18,27,10,15,29,20,22,14,168,25,12,36,84,19,8,11,20,62,31,37,54,17,12,12
+[Auction "E"]
+Pass Pass 1D 2H =1= 
+Pass Pass 3D Pass 
+3NT Pass Pass Pass 
+[Note "1: weak"]
+[Play "S"]
+H8 HT HJ HK 
+D3 D2 D8 DK 
+DJ DA DQ D9 
+CA C9 C8 CQ 
+H5 HA H3 H2 
+C2 DT S6 S2 
+S5 SA S3 S4 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "31"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A762.AT43.AT9.A5 Q.8.K8764.KQT963 KT4.J765.Q53.J74 J9853.KQ92.J2.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "88966778655546755477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 12,1,3,44,91,45,196,141,49,38,259,82,96,81,21,13,43,18,9,175,83,27,9,20,125,21,45,676,94,18,18,32,63,368,46,151,20,15,8,174,18,18,15,86,215,24,16,19,18,11,32,8,38,9,11
+[Auction "S"]
+Pass Pass 1H 2NT =1= 
+3H Pass Pass Pass 
+[Note "1: mm"]
+[Play "E"]
+CK C4 C8 CA 
+CQ C7 C2 C5 
+SQ S4 S3 SA 
+H8 ST S5 S2 
+D4 DQ D2 D9 
+C3 CJ H9 DT 
+D6 D3 DJ DA 
+C6 SK S8 S6 
+C9 H5 H2 H3 
+D7 H6 HK HA 
+CT H7 S9 S7 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "31"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A762.AT43.AT9.A5 Q.8.K8764.KQT963 KT4.J765.Q53.J74 J9853.KQ92.J2.82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "88966778655546755477"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  8
+S  D  6
+S  C  5
+E NT  5
+E  S  5
+E  H  4
+E  D  6
+E  C  7
+W NT  5
+W  S  5
+W  H  4
+W  D  7
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,0,405,30,77,162,493,47,44,42,52,195,10,18,386,26,36,18,158,33,25,19,1030,37,26,92,22,26,18,16,23,18,63,432,15,42,25,14,40,476,27,11,22,26,14,8,259,23,13,10,49
+[Auction "S"]
+Pass Pass 1NT 2NT =1= 
+3NT Pass Pass Pass 
+[Note "1: minors"]
+[Play "E"]
+CK C4 C2 CA 
+SQ SK S3 S2 
+H8 HJ HQ HA 
+D6 H5 H9 H3 
+CQ C7 C8 C5 
+C3 CJ D2 S6 
+D4 H6 HK H4 
+D7 D3 DJ DA 
+D8 H7 H2 HT 
+C6 S4 S5 SA 
+-  -  -  D9 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "32"]
+[West "Dennis Haines#510544"]
+[North "Richard Pike#72126"]
+[East "Ian Cook#92002"]
+[South "David Waxman#20349"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQ4.KJ983.98.AKQ 65.T4.T74.J86432 K932.752.A532.75 JT87.AQ6.KQJ6.T9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "99b8799b872425644256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  8
+N  C  7
+S NT  9
+S  S  9
+S  H 11
+S  D  8
+S  C  7
+E NT  2
+E  S  4
+E  H  2
+E  D  5
+E  C  6
+W NT  4
+W  S  4
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,1,3,202,47,349,100,44,77,35,75,51,174,34,67,32,28,23,147,723,45,8,16,74,24,22,23,21,18,11,314,26,10,14,59,18,10,22
+[Auction "W"]
+1NT =1= X XX =2= Pass 
+2C Pass Pass X 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: 5+suit somewhere"]
+[Play "E"]
+S6 SK S7 S4 
+H4 H2 HA H3 
+S5 S2 SJ SA 
+HT H5 H6 HK 
+C4 S3 S8 SQ 
+*
+
+[Event "07 Mar Brereton vs Cook"]
+[Site "RealBridge"]
+[Date "2025.03.07"]
+[Board "32"]
+[West "Paul Brereton#94086"]
+[North "Chris Childs#523209"]
+[East "Frank Dixon#34239"]
+[South "Terence Read#60841"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AQ4.KJ983.98.AKQ 65.T4.T74.J86432 K932.752.A532.75 JT87.AQ6.KQJ6.T9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Cook team"]
+[VisitTeam "Brereton team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "99b8799b872425644256"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H 11
+N  D  8
+N  C  7
+S NT  9
+S  S  9
+S  H 11
+S  D  8
+S  C  7
+E NT  2
+E  S  4
+E  H  2
+E  D  5
+E  C  6
+W NT  4
+W  S  4
+W  H  2
+W  D  5
+W  C  6
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,0,102,329,55,87,39,146,25,137,43,141,22,117,22,42,26,33,205,12,191,380,42,7,33,58,40,175,12,63,14,13,9,16,8,13,10,17,10,12,132,339,201,33,31,20,50,18,9,184,23,7,25,26,108,66,13,43,13,52,19,19,11,12,14,12,23,8,9
+[Auction "W"]
+1D X Pass 1S 
+Pass 2H Pass 3H 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+DK D8 D7 D2 
+DQ D9 D4 DA 
+H6 HK H4 H2 
+C9 CQ C2 C5 
+CT CK C3 C7 
+S7 CA C4 H7 
+SJ S4 S5 SK 
+HQ H3 HT H5 
+DJ SQ DT D3 
+HA H8 S6 S9 
+D6 SA C6 D5 
+S8 H9 C8 S2 
+ST HJ CJ S3 

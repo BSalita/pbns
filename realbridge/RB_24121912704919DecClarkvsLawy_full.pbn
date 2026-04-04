@@ -1,0 +1,4047 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "1"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT95.A7.43.QT983 J8.KJ84.T9652.42 Q7432.Q653.7.J76 K6.T92.AKQJ8.AK5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "4853848438858a5858a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  5
+N  D  3
+N  C  8
+S NT  4
+S  S  8
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S  5
+E  H  8
+E  D 10
+E  C  5
+W NT  8
+W  S  5
+W  H  8
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,367,171,65,69,53,199,50,107,110,148,50,143,74,37,22,21,27,12,13,14,413,17,16,9,170,19,49,10,95,11,10,12,156,19,7,10,23,13,19,122,21,15,8,27,12,22,7,20,17,4,14,37,26,5,8,22
+[Auction "N"]
+1C =1= Pass 1S Pass 
+2S Pass Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+ST SJ SQ SK 
+D3 DT D7 D8 
+D4 D2 S2 DA 
+C3 D5 S3 DK 
+C8 D6 S4 DQ 
+C9 D9 C7 DJ 
+H7 HJ HQ H2 
+S9 S8 S7 S6 
+SA H4 H3 C5 
+S5 C2 H5 HT 
+HA H8 H6 H9 
+CT -  -  -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "1"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT95.A7.43.QT983 J8.KJ84.T9652.42 Q7432.Q653.7.J76 K6.T92.AKQJ8.AK5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "4853848438858a5858a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  5
+N  D  3
+N  C  8
+S NT  4
+S  S  8
+S  H  4
+S  D  3
+S  C  8
+E NT  8
+E  S  5
+E  H  8
+E  D 10
+E  C  5
+W NT  8
+W  S  5
+W  H  8
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,2,1,112,557,168,889,78,286,150,55,44,90,39,105,32,23,248,39,34,32,45,16,15,173,26,28,27,17,28,68,18,214,24,16,33,64,13,17,59,17,14,18,121,560,14,64,58,22,28,12,124,21
+[Auction "N"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3D 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 20-22 contains a five card suit"]
+[Note "2:  * what is 5 card suit [0:09]"]
+[Play "N"]
+CT C2 C6 CK 
+H7 H4 H3 HT 
+HA H8 H5 H9 
+C9 C4 CJ CA 
+D3 D2 D7 DA 
+D4 DT S7 DK 
+S5 D9 S2 DQ 
+S9 D5 C7 DJ 
+ST D6 S3 D8 
+-  -  -  H2 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "2"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K3.JT652.72.KT73 AQ86.AK83.95.QJ2 42.Q97.KQT863.A8 JT975.4.AJ4.9654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "43764436649967999679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  4
+S NT  4
+S  S  3
+S  H  6
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 18,0,3,453,111,111,40,1033,68,31,54,53,29,76,98,31,22,62,32,17,30,10,129,21,14,24,11,17,8,175,26,11,19,11,77,30,12,25,29,28,11,21,27,15,14,26
+[Auction "E"]
+1NT =1= Pass 2H =2= Pass 
+2NT =3= Pass 4S Pass 
+Pass Pass 
+[Note "1: 14.5-17"]
+[Note "2: spades"]
+[Note "3: GOOD BREAK 3 SUIT WOULD BR 5CARDS"]
+[Play "N"]
+H5 HA H7 H4 
+H2 H3 HQ S5 
+SK SA S2 SJ 
+S3 SQ S4 S7 
+H6 H8 H9 S9 
+C3 CQ CA C5 
+D2 D5 DK DA 
+CK C2 C8 C4 
+D7 -  -  -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "2"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K3.JT652.72.KT73 AQ86.AK83.95.QJ2 42.Q97.KQT863.A8 JT975.4.AJ4.9654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "43764436649967999679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  6
+N  C  4
+S NT  4
+S  S  3
+S  H  6
+S  D  6
+S  C  4
+E NT  9
+E  S  9
+E  H  6
+E  D  7
+E  C  9
+W NT  9
+W  S  9
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 8,2,1,205,526,383,104,83,60,333,68,18,80,34,235,18,35,53,33,34,7,307,22,17,14,116,42,34,29,32,32,9,22,22,40,12,23,8,28,16,22
+[Auction "E"]
+1D =1= 2D Pass Pass 
+X Pass 2S Pass 
+Pass Pass 
+[Note "1: 2+. may have 5 of ANY suit if 15/17 bal"]
+[Play "N"]
+D7 D5 DQ DA 
+SK SA S4 SJ 
+S3 S6 S2 ST 
+C7 CJ CA C4 
+D2 D9 DK D4 
+CK C2 C8 C5 
+C3 CQ D3 C6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "3"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A54.J84.AJ75.AJ3 KQJ92.AK3.986.98 T6.T975.T43.K762 873.Q62.KQ2.QT54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "55777557776865678656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  7
+N  C  7
+S NT  5
+S  S  5
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  8
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,1,81,174,38,39,175,70,38,67,76,14,32,11,25,14,35,71,17,15,27,24,25,31,207,30,30,10,35,16,18,27,56,27,17,12,9,25,55,15,9,66,22,28,11,27,16,15,17
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+SK S6 S8 S5 
+SQ ST S3 S4 
+SJ D3 S7 SA 
+H3 H5 HQ H8 
+D8 D4 DK DA 
+HK H7 H2 HJ 
+HA H9 H6 H4 
+S9 C2 C4 D5 
+S2 DT C5 C3 
+D6 C6 DQ D7 
+-  -  D2 -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "3"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A54.J84.AJ75.AJ3 KQJ92.AK3.986.98 T6.T975.T43.K762 873.Q62.KQ2.QT54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "55777557776865678656"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  7
+N  D  7
+N  C  7
+S NT  5
+S  S  5
+S  H  7
+S  D  7
+S  C  7
+E NT  6
+E  S  8
+E  H  6
+E  D  5
+E  C  6
+W NT  7
+W  S  8
+W  H  6
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,59,95,94,168,120,33,102,330,10,32,78,29,16,25,159,32,6,14,321,80,56,27,198,225,51,17,90,72,9,4,34,29,7,86,31,484,19,20,44,13,74,13,102,14,13,15,14,34,8,6,12,25,9,7,11,9,7,17
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+SK S6 S8 S5 
+SQ ST S3 S4 
+SJ D3 S7 SA 
+H3 H7 HQ H4 
+C9 C2 C4 CJ 
+HK H5 H6 HJ 
+S9 D4 H2 D5 
+S2 H9 D2 H8 
+HA HT C5 D7 
+D6 DT DQ DA 
+C8 C6 CT CA 
+D8 CK CQ C3 
+D9 C7 DK DJ 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "4"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT73.K96.A75.975 5.A875432.QJ.QJ3 AK842.QJ.K4.AT42 Q96.T.T98632.K86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "99668996684467544675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D  6
+N  C  8
+S NT  9
+S  S  9
+S  H  6
+S  D  6
+S  C  8
+E NT  4
+E  S  4
+E  H  6
+E  D  7
+E  C  5
+W NT  4
+W  S  4
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 11,0,3,99,43,525,137,54,96,60,501,29,71,390,71,50,86,35,33,82,24,35,14,26,28,11,9,206,20,42,9,18
+[Auction "W"]
+Pass Pass 1H 1S 
+X 2S Pass Pass 
+3D Pass Pass Pass 
+[Play "N"]
+SJ S5 SK S6 
+DA DJ D4 D3 
+D5 DQ DK D2 
+S7 H2 SA S9 
+-  -  S2 -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "4"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT73.K96.A75.975 5.A875432.QJ.QJ3 AK842.QJ.K4.AT42 Q96.T.T98632.K86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "99668996684467544675"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  9
+N  H  6
+N  D  6
+N  C  8
+S NT  9
+S  S  9
+S  H  6
+S  D  6
+S  C  8
+E NT  4
+E  S  4
+E  H  6
+E  D  7
+E  C  5
+W NT  4
+W  S  4
+W  H  6
+W  D  7
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 18,2,1,79,32,128,108,28,141,17,32,35,25,57,29,18,30,22,83,30,309,125,13,24,23,50,51,7,20,18,165,9,858,93,23,11,27,23,22,31,342,18,21,27,18,29,21,13,58,10,52,25,14,46,58,18,9,18,15,7,42,27,7,8
+[Auction "W"]
+Pass Pass 3H 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+HT H6 HA HJ 
+S6 H9 H4 HQ 
+C6 C7 CJ CA 
+S9 S7 S5 SA 
+SQ ST H3 SK 
+D2 SJ H2 S2 
+D3 HK H5 C2 
+D6 D5 DQ DK 
+D8 DA DJ D4 
+D9 D7 H7 S4 
+C8 C9 CQ C4 
+CK C5 C3 CT 
+DT S3 H8 S8 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "5"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J65.A94.Q85.AQ93 K987.K753.9762.6 AQT3.T82.AK3.754 42.QJ6.JT4.KJT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a9989a98893444434444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D  8
+N  C  9
+S NT 10
+S  S  9
+S  H  8
+S  D  8
+S  C  9
+E NT  3
+E  S  4
+E  H  4
+E  D  4
+E  C  4
+W NT  3
+W  S  4
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,2,1,99,49,65,56,41,32,83,73,42,22,34,211,31,16,87,24,16,12,17,15,14,19,88,26,21,69,54,40,15,15,17,39,20,14,152,37,30,13,221,20,24,22,30,25,26,54,212
+[Auction "N"]
+1C Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+H3 H8 HJ H4 
+H5 H2 HQ H9 
+H7 HT H6 HA 
+S7 ST S2 S6 
+D2 D3 DT DQ 
+SK SA S4 SJ 
+C6 C4 CT CQ 
+S8 SQ D4 S5 
+D6 C5 CJ C3 
+-  -  CK -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "5"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J65.A94.Q85.AQ93 K987.K753.9762.6 AQT3.T82.AK3.754 42.QJ6.JT4.KJT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a9989a98893444434444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  9
+N  D  8
+N  C  9
+S NT 10
+S  S  9
+S  H  8
+S  D  8
+S  C  9
+E NT  3
+E  S  4
+E  H  4
+E  D  4
+E  C  4
+W NT  3
+W  S  4
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,143,162,150,45,44,170,51,20,35,74,137,289,34,24,22,21,66,17,175,115,58,25,451,59,17,6,160,146,37,102,60,83,17,7,76,18,13,42,17,10,17,22,13,8,14,21,37,35,9,2,24,46,17,12,52,11,10,43,7,26,6,8
+[Auction "N"]
+1C =1= Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Note "1: 2+"]
+[Play "E"]
+H3 H2 HJ H4 
+H5 H8 HQ H9 
+C6 C4 CJ CQ 
+SK SA S2 SJ 
+D2 C5 C2 C9 
+S9 SQ S4 S5 
+D7 DA D4 D5 
+D6 DK DT D8 
+D9 D3 DJ DQ 
+H7 HT H6 HA 
+S7 ST C8 S6 
+S8 C7 CT CA 
+HK S3 CK C3 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "6"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT653.6.AQ98.974 Q72.K53.T764.J52 A98.AT872.K52.AK K4.QJ94.J3.QT863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9b9a89b9a83243532435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  9
+N  D 10
+N  C  8
+S NT  9
+S  S 11
+S  H  9
+S  D 10
+S  C  8
+E NT  3
+E  S  2
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  2
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,60,129,50,40,31,66,37,122,54,273,55,44,23,22,29,60,162,42,32,37,22,18,78,325,52,11,18,149,27,10,9,29,29,11,10,34,35,9,12,17,22,12,12,10,11,9,80,19,21,8,8,46,32,26,14
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2NT Pass 3D 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+D7 D2 DJ DA 
+S2 S8 SK S3 
+C5 CK C6 C7 
+S7 SA S4 S5 
+C2 CA C3 C4 
+H5 HA H4 H6 
+H3 H2 H9 S6 
+CJ S9 C8 C9 
+D4 DK D3 D8 
+D6 D5 HJ DQ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "6"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:JT653.6.AQ98.974 Q72.K53.T764.J52 A98.AT872.K52.AK K4.QJ94.J3.QT863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9b9a89b9a83243532435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  9
+N  D 10
+N  C  8
+S NT  9
+S  S 11
+S  H  9
+S  D 10
+S  C  8
+E NT  3
+E  S  2
+E  H  4
+E  D  3
+E  C  5
+W NT  3
+W  S  2
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,413,40,20,38,65,124,35,106,93,81,33,66,152,40,15,233,150,34,48,238,27,16,31,63,19,63,31,28,29,23,67,209,23,18,28,25,18,86,32,78,34,58,74,21,24,79,14,19,27,10,29,13,11,16,37,20,123,11,11,43,14,6,16,11,22,7,4
+[Auction "E"]
+Pass 1H Pass 1S 
+Pass 2NT Pass 3D 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+CJ CK C6 C4 
+C2 CA C3 C7 
+D4 D2 D3 DA 
+C5 S8 CQ C9 
+D6 DK DJ D8 
+D7 D5 H4 DQ 
+DT S9 SK D9 
+S2 SA S4 S3 
+H5 HA H9 H6 
+H3 H2 HJ S5 
+SQ H7 C8 ST 
+HK H8 HQ S6 
+S7 HT CT SJ 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "7"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:8654.J8.JT842.T9 AQ.QT93.K63.AQJ6 T732.AK75..K8542 KJ9.642.AQ975.73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "45445454459799696885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  4
+S  C  5
+E NT  9
+E  S  7
+E  H  9
+E  D  9
+E  C  6
+W NT  9
+W  S  6
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,86,48,71,215,45,73,39,58,54,163,38,11,35,120,66,17,17,265,33,9,28,38,120,55,20,117,33,14,21,14,29,53,13,90,35,21,15,17,27,14,9,13,14,50,21,8,10,8,41
+[Auction "S"]
+1C Pass Pass X 
+Pass 1D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+HA H2 H8 H3 
+H5 H4 HJ HQ 
+C5 DQ D2 D3 
+CK C3 CT CJ 
+HK H6 C9 H9 
+H7 D5 D4 HT 
+S2 S9 S6 SA 
+S3 SK S4 SQ 
+ST SJ S5 C6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "7"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:8654.J8.JT842.T9 AQ.QT93.K63.AQJ6 T732.AK75..K8542 KJ9.642.AQ975.73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "45445454459799696885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  4
+S  C  5
+E NT  9
+E  S  7
+E  H  9
+E  D  9
+E  C  6
+W NT  9
+W  S  6
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,70,48,54,595,236,40,50,163,143,33,35,35,31,532,245,43,63,150,104,116,34,126,27,33,39,38,47,17,32,180,38,41,16,52,13,32,167,135,288,40,56,124,234,36,23,120,30,19,8,38,42,39,7
+[Auction "S"]
+Pass Pass Pass 1C =1= 
+Pass 1D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2+ can have 5 anywhere"]
+[Play "S"]
+C4 C3 C9 CQ 
+S2 DA D4 D6 
+HK H2 H8 HT 
+C2 C7 CT CJ 
+S3 DQ D2 D3 
+HA H4 HJ HQ 
+C8 D5 D8 CA 
+S7 D7 DT DK 
+ST S9 S4 SA 
+H5 SK S5 SQ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "8"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:975.AQ73.A94.AK2 KT62.K82.JT75.T6 QJ843.JT9.86.Q85 A.654.KQ32.J9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "79846798465458654586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  4
+N  C  6
+S NT  7
+S  S  9
+S  H  8
+S  D  4
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  8
+E  C  6
+W NT  5
+W  S  4
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,138,38,20,203,46,49,12,38,55,81,77,23,10,276,36,22,12,16,27,10,216,96,36,23,9,18,20,26,26,86,36,10,32,12,30,19,25,18,44,16,64,22,27,31,11,14,40,7,8
+[Auction "W"]
+Pass 1NT Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Play "E"]
+DJ D6 D2 D4 
+D5 D8 DQ DA 
+S2 S8 SA S5 
+C6 C5 C4 CA 
+S6 SJ H6 S7 
+HK H9 H5 H7 
+CT C8 C3 CK 
+SK S3 C7 S9 
+DT S4 D3 D9 
+ST SQ H4 H3 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "8"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:975.AQ73.A94.AK2 KT62.K82.JT75.T6 QJ843.JT9.86.Q85 A.654.KQ32.J9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "79846798465458654586"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  4
+N  C  6
+S NT  7
+S  S  9
+S  H  8
+S  D  4
+S  C  6
+E NT  5
+E  S  4
+E  H  5
+E  D  8
+E  C  6
+W NT  5
+W  S  4
+W  H  5
+W  D  8
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,207,79,73,345,43,59,73,51,17,159,138,26,31,107,44,20,12,18,29,88,13,23,74,142,11,124,14,14,99,413,22,19,228,1108,24,9,16,16,48,14,25,129,33,12,14,16,63,11,15
+[Auction "W"]
+1C =1= 1NT Pass 2H =2= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 2+. can have 5 any suit"]
+[Note "2: spades"]
+[Play "E"]
+CT C5 C3 CA 
+S2 SJ SA S5 
+C6 C8 C4 CK 
+S6 S8 D2 S7 
+HK HJ H6 H3 
+DJ D6 D3 D4 
+D5 D8 DQ DA 
+SK S3 H4 S9 
+H2 H9 H5 H7 
+ST SQ C7 D9 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "9"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ62.T653.AJ75.Q AK7.J84.Q864.AJ6 53.KQ92.K32.T974 T984.A7.T9.K8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65764557647867978679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  6
+N  C  4
+S NT  5
+S  S  5
+S  H  7
+S  D  6
+S  C  4
+E NT  7
+E  S  8
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S  8
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,115,250,60,100,47,369,51,26,77,136,65,27,44,270,347,34,51,468,23,35,26,65,21,24,213,41,24,238,26,121,30,13,31,26,47,37,9,53,24,19,8,43,36,26,8,22,11,23,7
+[Auction "N"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2D =3= Pass 2S 
+Pass 2NT =4= Pass Pass 
+Pass 
+[Note "1: 14.5=17"]
+[Note "2: 5 card stayman"]
+[Note "3: no 5 cars maj"]
+[Note "4: nf"]
+[Play "S"]
+H2 H7 HT HJ 
+C4 C3 CQ CA 
+C7 C2 S2 CJ 
+C9 C5 D5 C6 
+H9 HA H3 H4 
+CT CK H5 H8 
+S3 C8 D7 D4 
+S5 ST SJ SA 
+D2 S4 S6 SK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "9"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ62.T653.AJ75.Q AK7.J84.Q864.AJ6 53.KQ92.K32.T974 T984.A7.T9.K8532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65764557647867978679"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  7
+N  D  6
+N  C  4
+S NT  5
+S  S  5
+S  H  7
+S  D  6
+S  C  4
+E NT  7
+E  S  8
+E  H  6
+E  D  7
+E  C  9
+W NT  7
+W  S  8
+W  H  6
+W  D  7
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,1,56,184,43,353,59,55,95,247,36,102,155,29,41,15,152,856,31,20,14,47,22,54,77,31,74,9,33,34,39,29,197,38,119,23,157,149,18,25,91,62,20,8,105,34,17,14,21,144,31,174,31,23,67,279,36,9,28,16,21,10,16,15,13,8,17,17
+[Auction "N"]
+Pass 1D =1= Pass 1S =2= 
+Pass 1NT =3= Pass Pass 
+X Pass 2H Pass 
+Pass Pass 
+[Note "1: 2+. may have 5 of ANY suit if 15/17 bal"]
+[Note "2: 3+S (<3H) 0+pts"]
+[Note "3:  * 15/17 [0:18]"]
+[Play "W"]
+DT D5 D4 DK 
+S4 SQ SK S3 
+HA H3 H4 HK 
+H7 H5 H8 H9 
+S8 S2 S7 S5 
+ST S6 SA H2 
+C2 H6 HJ HQ 
+C3 CQ CA C4 
+C5 D7 CJ C7 
+CK HT C6 C9 
+S9 SJ D6 D2 
+D9 DA D8 D3 
+C8 DJ DQ CT 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "10"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ73.AQ852.J654. AT9.K974.T7.AK64 K54.J3.KQ832.T92 862.T6.A9.QJ8753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "478a4477a48553985539"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D 10
+N  C  4
+S NT  4
+S  S  7
+S  H  7
+S  D 10
+S  C  4
+E NT  8
+E  S  5
+E  H  5
+E  D  3
+E  C  9
+W NT  8
+W  S  5
+W  H  5
+W  D  3
+W  C  9
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 16,2,1,137,68,299,263,49,34,152,111,43,75,139,105,283,15,20,146,14,33,95,77,77,9,21,174,45,29,33,103,41,14,36,10,53,17,74,99,15,14,15,21,9,28,17
+[Auction "E"]
+1C =1= 1D 2C 2H 
+3C Pass Pass 4D 
+Pass Pass Pass 
+[Note "1: 2+ may have 5D's"]
+[Play "W"]
+CQ D4 C4 C2 
+DA D5 D7 DK 
+D9 DJ DT D2 
+S6 S3 ST SK 
+H6 H2 HK HJ 
+C3 D6 CA C9 
+HT HA H4 H3 
+C5 HQ H7 CT 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "10"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:QJ73.AQ852.J654. AT9.K974.T7.AK64 K54.J3.KQ832.T92 862.T6.A9.QJ8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "478a4477a48553985539"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D 10
+N  C  4
+S NT  4
+S  S  7
+S  H  7
+S  D 10
+S  C  4
+E NT  8
+E  S  5
+E  H  5
+E  D  3
+E  C  9
+W NT  8
+W  S  5
+W  H  5
+W  D  3
+W  C  9
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 14,0,3,512,52,32,59,86,76,17,366,37,25,260,31,36,45,132,83,44,17,47,21,23,79,55,16,37,15,43,70,25,6,215,42,111,25,74,57,256,555,231,19,140,56,87,47,10,48,10,31,6,54,6,47,5,28,6,33,5,14
+[Auction "E"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+D3 D9 DJ D7 
+D8 DA D4 DT 
+C2 C3 H5 CA 
+C9 C5 H2 CK 
+CT CQ S3 C6 
+S5 CJ D5 C4 
+H3 C8 H8 H7 
+HJ C7 HQ H4 
+S4 H6 HA H9 
+DQ S2 D6 S9 
+DK S6 S7 ST 
+D2 S8 SJ HK 
+SK HT SQ SA 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "11"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT542.6.T873.T52 AQJ.QJ7.AK96.763 9863.AK93.J5.KQJ 7.T8542.Q42.A984"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "47445474459698896988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  4
+N  C  5
+S NT  4
+S  S  7
+S  H  4
+S  D  4
+S  C  5
+E NT  9
+E  S  6
+E  H  9
+E  D  8
+E  C  8
+W NT  9
+W  S  6
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 8,2,1,152,50,49,32,164,96,46,102,125,58,44,12,30,50,27,20,27,23,13,10,30,77,17,19,50,20,14,10,203,37,9,12,14,38,13,10,13,14,14,10,16,31,25,18,21,30,17,14,15,172,26,16,7
+[Auction "S"]
+1C Pass Pass X 
+Pass 1H 1S Pass 
+2S Pass Pass Pass 
+[Play "E"]
+DA D5 D2 D8 
+DK DJ D4 D3 
+D6 S8 DQ D7 
+C7 CJ CA CT 
+C3 CQ C4 C5 
+H7 HA H5 H6 
+HJ HK H2 DT 
+SJ S3 S7 ST 
+C6 CK C8 C2 
+SQ S6 H4 S2 
+SA -  -  -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "11"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KT542.6.T873.T52 AQJ.QJ7.AK96.763 9863.AK93.J5.KQJ 7.T8542.Q42.A984"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "47445474459698896988"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  4
+N  C  5
+S NT  4
+S  S  7
+S  H  4
+S  D  4
+S  C  5
+E NT  9
+E  S  6
+E  H  9
+E  D  8
+E  C  8
+W NT  9
+W  S  6
+W  H  9
+W  D  8
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 17,0,3,287,89,89,247,48,91,51,188,119,93,60,106,63,49,209,44,10,27,42,20,22,17,93,27,11,87,11,16,11,21,37,33,39,18,15,9,10,101,27,17,10
+[Auction "S"]
+1C =1= Pass Pass X 
+Pass 1H 1S 1NT 
+2S 4H Pass Pass 
+Pass 
+[Note "1: 2+ clubs"]
+[Play "N"]
+S4 SA S8 S7 
+H6 HQ HK H4 
+C5 C3 CK C4 
+C2 C6 CQ CA 
+S2 HJ HA H2 
+CT C7 CJ C8 
+S5 SJ S3 H5 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "12"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.T2.AQJT4.QT7 Q642.9863.9.K983 T83.KQJ54.85.J52 K95.A7.K7632.A64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "76876768766655667567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  7
+N  C  6
+S NT  7
+S  S  6
+S  H  8
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,463,101,34,126,56,48,13,52,25,31,72,133,32,106,14,21,129,539,59,16,11,18,32,11,17,10,16,9,11,27,31,22,15,30,30,59,22,31,44,110,23,34,66,19,8
+[Auction "W"]
+1C =1= 1NT Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: could be 2 may contain 5d in 12-14 or 18-19NT"]
+[Play "E"]
+D9 D5 DK DA 
+H3 HJ HA H2 
+C3 C2 CA CT 
+CK C5 C6 C7 
+C8 CJ C4 CQ 
+H6 H4 H7 HT 
+H8 D8 D6 DQ 
+H9 HK S9 S7 
+S2 HQ D2 SJ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "12"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AJ7.T2.AQJT4.QT7 Q642.9863.9.K983 T83.KQJ54.85.J52 K95.A7.K7632.A64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "76876768766655667567"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  8
+N  D  7
+N  C  6
+S NT  7
+S  S  6
+S  H  8
+S  D  7
+S  C  6
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C  6
+W NT  6
+W  S  7
+W  H  5
+W  D  6
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,329,84,74,51,131,74,19,78,59,32,12,22,13,21,11,43,95,18,6,11,35,18,235,3,183,18,26,34,33,20,5,16,64,47,13,5,15,17,11,6,22,10,14,23,17,4,26,21,16,17,4,10,10,10,5,7
+[Auction "W"]
+1NT =1= Pass Pass Pass 
+[Note "1: good 14-17"]
+[Play "N"]
+DQ D9 D8 DK 
+S7 SQ S3 S5 
+C7 C3 C5 C6 
+DA H3 D5 D3 
+DJ H6 ST D2 
+HT H8 H4 H7 
+H2 H9 HJ HA 
+CT C8 C2 CA 
+CQ CK CJ C4 
+D4 C9 S8 S9 
+SA S2 H5 SK 
+SJ S4 HQ D6 
+DT S6 HK D7 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "13"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT4.KJ42.Q64.J74 73.83.A3.AK98652 AQ982.AQT5.KJ.T3 J65.976.T98752.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "5aa655aa653326833268"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 10
+N  D  6
+N  C  5
+S NT  5
+S  S 10
+S  H 10
+S  D  6
+S  C  5
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  8
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,61,81,79,52,125,51,53,25,45,13,103,104,15,21,56,30,12,21,11,28,140,251,12,19,97,18,133,38,12,14,48,18,16,8,54,8,18,14
+[Auction "N"]
+Pass 1C =1= 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+ may have 5D's"]
+[Play "W"]
+CQ C4 C2 C3 
+DT D4 DA DJ 
+H7 C7 CK CT 
+H6 CJ CA SQ 
+S6 S4 S3 S8 
+S5 ST S7 S2 
+SJ SK C5 S9 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "13"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT4.KJ42.Q64.J74 73.83.A3.AK98652 AQ982.AQT5.KJ.T3 J65.976.T98752.Q"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "5aa655aa653326833268"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H 10
+N  D  6
+N  C  5
+S NT  5
+S  S 10
+S  H 10
+S  D  6
+S  C  5
+E NT  3
+E  S  3
+E  H  2
+E  D  6
+E  C  8
+W NT  3
+W  S  3
+W  H  2
+W  D  6
+W  C  8
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,71,534,100,31,189,170,96,33,37,83,100,113,15,46,545,52,7,22,268,71,7,22,181,73,18,19,68,32,40,22,70,31,26,33,29,17,13,103,28,32,10,6
+[Auction "N"]
+Pass 1C =1= X 1D 
+2H 3C 4H Pass 
+Pass Pass 
+[Note "1: 2+etc"]
+[Play "E"]
+CK C3 CQ C7 
+CA CT D8 C4 
+DA DJ D2 D4 
+C6 HT D5 CJ 
+H3 HA H6 H2 
+H8 HQ H7 H4 
+C2 H5 H9 HK 
+D3 DK D7 D6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "14"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q2.K642.62.KQ974 AK96.T973.AKQ97. T43.J5.JT53.T862 J875.AQ8.84.AJ53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2122521225acbb7bcbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  2
+S  D  2
+S  C  5
+E NT 10
+E  S 12
+E  H 11
+E  D 11
+E  C  7
+W NT 11
+W  S 12
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,129,57,175,125,35,153,370,45,13,21,22,83,27,50,46,22,9,7,70,14,10,9,36,32,10,7,35,22,9,6,32,32,16,8,43,16,53,9,220,29,10,60,10,64,61,27,14,36,19,16,25,12,21,10,12,6,8,10,8,6,8,13
+[Auction "E"]
+1D =1= Pass 1H =2= Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Note "1: 2+. may have 5 of ANY suit if 15/17 bal"]
+[Note "2: 3+H 0+pts"]
+[Play "S"]
+S3 S5 S2 S6 
+S4 S7 SQ SK 
+ST S8 C4 SA 
+D5 D4 D6 DK 
+D3 D8 D2 DQ 
+DT C3 H6 DA 
+DJ SJ C7 D9 
+C6 C5 CQ S9 
+C2 CJ C9 D7 
+H5 HQ HK H3 
+C8 CA CK H7 
+HJ HA H2 H9 
+CT H8 H4 HT 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "14"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q2.K642.62.KQ974 AK96.T973.AKQ97. T43.J5.JT53.T862 J875.AQ8.84.AJ53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2122521225acbb7bcbb8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  2
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  2
+S  D  2
+S  C  5
+E NT 10
+E  S 12
+E  H 11
+E  D 11
+E  C  7
+W NT 11
+W  S 12
+W  H 11
+W  D 11
+W  C  8
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 28,0,3,369,39,36,60,227,49,394,55,739,80,32,56,720,44,16,19,81,181,63,25,51,32,9,11,12,8,9,16,145,31,9,16,12,5,12,12,18,6,28,43,155,27,21,177,18,84,15,26,96,18,20,49,12,216,16,18,22,16,6,10,12,10,12,5,15,10,5,7
+[Auction "E"]
+1D Pass 1S X 
+4C Pass 4H Pass 
+5C =1= Pass 5S Pass 
+6S Pass Pass Pass 
+[Note "1: alert"]
+[Play "N"]
+CK S6 C6 C5 
+S2 SA S3 S5 
+SQ SK S4 S7 
+D2 DA D3 D4 
+D6 DK D5 D8 
+C4 DQ DT C3 
+H2 D7 DJ S8 
+C7 S9 C2 CJ 
+C9 D9 ST SJ 
+HK H3 H5 HQ 
+CQ H7 C8 CA 
+H4 H9 HJ HA 
+H6 HT CT H8 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "15"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J6.T3.A6.AQT9762 AT943.AQJ.K92.85 872.K94.J54.KJ43 KQ5.87652.QT873."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "71229712295bbb45bbb4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  1
+N  H  2
+N  D  2
+N  C  9
+S NT  7
+S  S  1
+S  H  2
+S  D  2
+S  C  9
+E NT  5
+E  S 11
+E  H 11
+E  D 11
+E  C  4
+W NT  5
+W  S 11
+W  H 11
+W  D 11
+W  C  4
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,51,95,39,69,243,53,37,12,53,81,192,30,21,294,32,9,33,13,29,12,28,15,28,8,9,142,29,15,8,11,28,18,16,27,22,9,9,105,28,10,6,64,19,12,9,8,7,9,32
+[Auction "S"]
+Pass Pass 3C 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "S"]
+S2 S5 SJ SA 
+C4 SQ C2 C5 
+HK H2 HT HJ 
+S7 SK S6 S3 
+D4 D3 DA D2 
+H4 H5 H3 HQ 
+S8 H6 C6 S9 
+D5 D7 D6 DK 
+DJ DQ C7 D9 
+C3 DT C9 C8 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "15"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:J6.T3.A6.AQT9762 AT943.AQJ.K92.85 872.K94.J54.KJ43 KQ5.87652.QT873."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "11"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "71229712295bbb45bbb4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  1
+N  H  2
+N  D  2
+N  C  9
+S NT  7
+S  S  1
+S  H  2
+S  D  2
+S  C  9
+E NT  5
+E  S 11
+E  H 11
+E  D 11
+E  C  4
+W NT  5
+W  S 11
+W  H 11
+W  D 11
+W  C  4
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,112,156,219,182,615,20,39,85,217,36,83,13,29,26,18,21,15,15,11,14,11,21,7,14,263,32,96,10
+[Auction "S"]
+Pass 2H =1= 3C 4H 
+X Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+DA D2 D5 D7 
+D6 D9 DJ DQ 
+H3 HA H4 H2 
+HT HQ HK H5 
+C2 C5 C3 H6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "16"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT743.K87.984.32 52.AQJ54.QJ.T954 A986.T62.AK653.7 KJ.93.T72.AKQJ86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2737127171a6a6aa6a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  3
+N  D  7
+N  C  1
+S NT  2
+S  S  7
+S  H  1
+S  D  7
+S  C  1
+E NT 10
+E  S  6
+E  H 10
+E  D  6
+E  C 10
+W NT 10
+W  S  6
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 18,2,1,421,74,50,131,442,43,36,56,79,53,14,235,43,12,9,17,91,22,9,196,31,10,12,16,33,20,18,11,17,8,12,35,18,59,22,18,22,8,15,12,33,15,8,50,20,11,13
+[Auction "W"]
+1C =1= 1S 2H 4S 
+Pass Pass Pass 
+[Note "1: could be 2 may contain 5d in 12-14 or 18-19NT"]
+[Play "E"]
+DQ DA D7 D4 
+S2 SA SJ S4 
+S5 S6 SK S7 
+CT C7 CA C3 
+HJ H2 H9 H8 
+HA H6 H3 H7 
+H4 HT C6 HK 
+C4 S8 C8 C2 
+DJ DK D2 D8 
+H5 D3 DT D9 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "16"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT743.K87.984.32 52.AQJ54.QJ.T954 A986.T62.AK653.7 KJ.93.T72.AKQJ86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2737127171a6a6aa6a6a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  3
+N  D  7
+N  C  1
+S NT  2
+S  S  7
+S  H  1
+S  D  7
+S  C  1
+E NT 10
+E  S  6
+E  H 10
+E  D  6
+E  C 10
+W NT 10
+W  S  6
+W  H 10
+W  D  6
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,139,40,382,121,47,180,322,186,64,111,39,89,27,35,64,30,259,18,31,12,503,32,15,39,20,31,11,22,9,103,13,11,8,67,9,92,80,16,11,183,16,36,10,4,15,61,16,66,18,11,11,6,10,10,8,6
+[Auction "W"]
+1NT =1= Pass 2D =2= X 
+Pass 2S 3C 3S 
+3NT Pass Pass Pass 
+[Note "1: good 14-17"]
+[Note "2: hts"]
+[Play "N"]
+S4 S2 SA SJ 
+D9 DJ DA D7 
+S3 S5 S6 SK 
+C2 CT C7 C6 
+C3 C9 S8 CA 
+D4 C5 D3 CK 
+D8 C4 S9 CQ 
+S7 H4 H2 CJ 
+ST DQ D5 C8 
+H7 HQ H6 H3 
+H8 HA HT H9 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "17"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7543.9.KQ85.K65 J.T73.T7642.AJ98 T8.AQJ2.AJ3.Q732 AQ962.K8654.9.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88688886885575455754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,2,1,107,28,83,80,55,33,239,36,64,29,60,115,63,13,629,745,20,50,150,96,15,59,70,56,174,19,107,51,20,292,25,573,24,116,61,33,122,23,10,311,43,27,38,133,27,7,22,8,22,92
+[Auction "N"]
+1S Pass 2C Pass 
+2D Pass 2NT Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+D9 D5 D4 DJ 
+H6 H9 H7 HJ 
+S9 SK SJ S8 
+SQ S3 D2 ST 
+CT C5 C8 C2 
+C4 C6 CA C3 
+H4 S4 HT HA 
+S6 CK C9 C7 
+H5 D8 D6 DA 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "17"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7543.9.KQ85.K65 J.T73.T7642.AJ98 T8.AQJ2.AJ3.Q732 AQ962.K8654.9.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88688886885575455754"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  8
+N  C  8
+S NT  8
+S  S  8
+S  H  6
+S  D  8
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  5
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 14,0,3,110,148,321,38,50,198,258,48,79,202,136,39,39,67,76,338,72,19,82,47,24,15,532,409,51,37,45,30,14,256,17,276,1763,29,27,75,17,27,187,28,10,35
+[Auction "N"]
+1S Pass 2C Pass 
+2D Pass 2H =1= X 
+3C Pass 3NT Pass 
+Pass Pass 
+[Note "1: 4sf"]
+[Play "W"]
+S6 S3 SJ S8 
+HK H9 HT HQ 
+D9 D5 D4 DA 
+SA S4 D2 ST 
+CT C5 CA C2 
+H4 S5 H7 HA 
+H5 S7 H3 HJ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "18"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T42.6.A983.A7542 AJ85.AK9752.7.JT 73.Q83.QJ4.KQ986 KQ96.JT4.KT652.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "73379733796aa646aa64"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  7
+N  C  9
+S NT  7
+S  S  3
+S  H  3
+S  D  7
+S  C  9
+E NT  6
+E  S 10
+E  H 10
+E  D  6
+E  C  4
+W NT  6
+W  S 10
+W  H 10
+W  D  6
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,485,40,30,44,176,50,43,35,42,20,50,117,21,36,26,45,9,16,11,25,23,10,22,113,22,15,10,19,10,50,11,5,13,77
+[Auction "E"]
+1H Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+H6 HA H3 HJ 
+S4 S5 S3 SK 
+S2 SJ S7 S6 
+ST SA C6 S9 
+C5 HK H8 H4 
+D3 H2 HQ HT 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "18"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T42.6.A983.A7542 AJ85.AK9752.7.JT 73.Q83.QJ4.KQ986 KQ96.JT4.KT652.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "73379733796aa646aa64"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  7
+N  C  9
+S NT  7
+S  S  3
+S  H  3
+S  D  7
+S  C  9
+E NT  6
+E  S 10
+E  H 10
+E  D  6
+E  C  4
+W NT  6
+W  S 10
+W  H 10
+W  D  6
+W  C  4
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,221,71,559,49,229,42,67,37,12,40,35,440,36,214,124,41,15,21,67,33,16,13,156,28,19,16,104,28,17,11,37,31,19,15,27,57,13,18,24,37,25,15,20,33,14,18
+[Auction "E"]
+1H Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+H6 HA H3 HT 
+S2 S5 S3 SQ 
+S4 S8 S7 SK 
+ST SA C6 S6 
+C2 HK H8 H4 
+C4 H2 HQ HJ 
+C5 CT CK C3 
+C7 CJ CQ S9 
+DA D7 DQ DK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "19"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A6543.4.8543.K74 98.AKQT9.T7.A653 J7.J765.KJ96.Q82 KQT2.832.AQ2.JT9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "343533435399a7a99a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  5
+N  C  3
+S NT  3
+S  S  4
+S  H  3
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H 10
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 7,2,1,44,296,61,210,61,320,57,46,54,49,14,78,29,29,19,37,16,13,20,47,19,7,17,10,20,7,9,41,24,10,29,28,25,15,6,75,22,10,46,69,22,12,8,15,8,10,9,23,14,7,7
+[Auction "S"]
+Pass 1C =1= 1S 2H 
+Pass Pass Pass 
+[Note "1: could be 2 may contain 5d in 12-14 or 18-19NT"]
+[Play "S"]
+SJ SQ SA S8 
+CQ C9 C4 C3 
+C8 CT C7 C5 
+H5 H2 H4 HQ 
+H6 H3 S3 HK 
+H7 H8 D5 HA 
+S7 S2 S4 S9 
+HJ D2 S5 H9 
+D9 DA D3 D7 
+C2 SK S6 DT 
+D6 ST D4 C6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "19"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A6543.4.8543.K74 98.AKQT9.T7.A653 J7.J765.KJ96.Q82 KQT2.832.AQ2.JT9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "343533435399a7a99a7a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  5
+N  C  3
+S NT  3
+S  S  4
+S  H  3
+S  D  5
+S  C  3
+E NT  9
+E  S  9
+E  H 10
+E  D  7
+E  C 10
+W NT  9
+W  S  9
+W  H 10
+W  D  7
+W  C 10
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 14,0,3,94,153,77,461,63,134,32,612,41,28,26,28,40,109,149,31,84,389,17,34,20,15,50,16,49,938,32,26,551,18,33,16,26,25,23,8,30,14,12,9,20,81,46,14,95,16,48,8,18,309
+[Auction "S"]
+Pass 1C =1= 1S 2H 
+Pass 2NT Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: 2+can have 5 any suit"]
+[Play "N"]
+D5 D7 DK D2 
+D3 DT DJ DA 
+C4 C3 CQ CJ 
+D4 H9 D9 DQ 
+C7 C5 C2 C9 
+H4 HA H5 H2 
+S5 HK H6 H3 
+SA S8 S7 SK 
+D8 HT D6 S2 
+S3 -  -  -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "20"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQJ8.QJ5.KT5.Q94 T42.A987.A7.AK72 A76.K2.J832.T865 953.T643.Q964.J3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "87678876785576555765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  7
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,166,45,109,85,52,35,68,75,23,23,65,41,31,24,23,28,20,9,27,11,240,10,15,77,24,10,15,25,9,13,15,73,11,9,26,37,23,33,28,9,17,8,35,41,9,12,21,35,20,20,7,23,8,6,8,6,8,14
+[Auction "W"]
+Pass 1C 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15/17"]
+[Play "S"]
+C5 CJ CQ CA 
+H2 H3 HJ H7 
+S6 S3 SK S2 
+S7 S5 SQ S4 
+C6 C3 C9 CK 
+HK H4 H5 HA 
+D8 H6 HQ H8 
+C8 D4 C4 C7 
+SA S9 S8 ST 
+CT D6 SJ C2 
+D2 DQ DK DA 
+D3 HT D5 H9 
+DJ D9 DT D7 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "20"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQJ8.QJ5.KT5.Q94 T42.A987.A7.AK72 A76.K2.J832.T865 953.T643.Q964.J3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "87678876785576555765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  6
+N  D  7
+N  C  8
+S NT  8
+S  S  7
+S  H  6
+S  D  7
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  6
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 7,0,3,353,89,674,287,81,82,55,1084,110,422,40,78,91,33,24,14,65,12,133,19,30,35,10,20,28,32,28,33,136,34,21,39,22,31,12,87,240,30,28,8,30,14,29,7,57,56,13,66,27,13,73,25,51,66,26,6,10,17,7,24
+[Auction "W"]
+Pass 1C =1= 1H 1NT 
+2H Pass Pass Pass 
+[Note "1: 2+"]
+[Play "S"]
+C5 CJ CQ CA 
+D2 D4 D5 DA 
+D3 D6 DT D7 
+S6 S5 SK S4 
+S7 S3 SJ S2 
+SA S9 S8 ST 
+C6 C3 C9 CK 
+H2 H3 H5 HA 
+HK H4 HJ H7 
+D8 D9 DK H8 
+C8 H6 C4 C2 
+DJ DQ HQ C7 
+CT HT SQ H9 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "21"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K.AKQ8763.A9742. 9432.T.K.AQT9854 AJ876.9.QT63.K63 QT5.J542.J85.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "89bc589bc52321823218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 11
+N  D 12
+N  C  5
+S NT  8
+S  S  9
+S  H 11
+S  D 12
+S  C  5
+E NT  2
+E  S  3
+E  H  2
+E  D  1
+E  C  8
+W NT  2
+W  S  3
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 27,2,1,77,75,127,77,625,38,62,58,57,336,49,10,22,33,446,36,15,31,62,14,17,32,8,16,14,16,25,16,10,12,18,47,21,22,14,22
+[Auction "N"]
+1H 3C =1= X Pass 
+6H Pass Pass Pass 
+[Note "1:  * weak [0:07]"]
+[Play "E"]
+S9 SA S5 SK 
+DK DQ D8 D4 
+S4 S8 ST H3 
+HT H9 H2 HA 
+C4 S6 H4 HK 
+C5 C3 H5 HQ 
+C8 D3 D5 DA 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "21"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K.AKQ8763.A9742. 9432.T.K.AQT9854 AJ876.9.QT63.K63 QT5.J542.J85.J72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "89bc589bc52321823218"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  9
+N  H 11
+N  D 12
+N  C  5
+S NT  8
+S  S  9
+S  H 11
+S  D 12
+S  C  5
+E NT  2
+E  S  3
+E  H  2
+E  D  1
+E  C  8
+W NT  2
+W  S  3
+W  H  2
+W  D  1
+W  C  8
+[OptimumScore "NS +1100"]
+[Competition "Teams"]
+% RBDATA 27,0,3,274,396,429,35,418,197,43,30,115,118,9,92,134,47,70,10,65,99,59,8,34,50,96,35,38,42,21,15,129,36,402,12,18,115,56,22,205,45,14,12,30,23,7,36
+[Auction "N"]
+1H 3C X 3NT 
+6H Pass Pass Pass 
+[Play "E"]
+CA C3 C2 H3 
+HT H9 H2 HA 
+C4 C6 H4 HK 
+C5 D3 H5 HQ 
+S2 S6 S5 SK 
+C8 S7 HJ H8 
+DK D6 D5 D2 
+S3 SA ST D4 
+C9 CK C7 D7 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "22"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ54.KQ9753.74.3 9.842.JT98.AQJ74 JT7.AT.A52.K9865 A8632.J6.KQ63.T2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "88956889563428734287"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  5
+N  C  6
+S NT  8
+S  S  8
+S  H  9
+S  D  5
+S  C  6
+E NT  3
+E  S  4
+E  H  2
+E  D  8
+E  C  7
+W NT  3
+W  S  4
+W  H  2
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,2,1,91,198,101,57,34,129,66,54,40,98,31,22,77,43,27,20,21,33,19,158,20,37,10,20,39,14,22,18,19,8,27,11,16,11,10,9,23,8,17
+[Auction "E"]
+Pass 1C Pass 1H 
+Pass 1NT Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+S9 SJ SA S5 
+H2 S7 S6 S4 
+CA C5 CT C3 
+CQ C6 C2 H3 
+H4 HA H6 H5 
+H8 HT HJ HQ 
+D8 C8 D3 HK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "22"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KQ54.KQ9753.74.3 9.842.JT98.AQJ74 JT7.AT.A52.K9865 A8632.J6.KQ63.T2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "88956889563428734287"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  9
+N  D  5
+N  C  6
+S NT  8
+S  S  8
+S  H  9
+S  D  5
+S  C  6
+E NT  3
+E  S  4
+E  H  2
+E  D  8
+E  C  7
+W NT  3
+W  S  4
+W  H  2
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 9,0,3,267,123,92,87,258,1262,144,257,135,616,31,380,124,410,28,12,54,85,34,80,23,30,17,104,27,20,166,25,25,8,38,14,12,16,29
+[Auction "E"]
+Pass 1C =1= 1S 2H 
+Pass 2S =2= Pass 2NT 
+Pass Pass Pass 
+[Note "1: 2+c"]
+[Note "2:  * forcing [0:13]"]
+[Play "E"]
+S9 S7 SA S4 
+D8 D2 D3 D4 
+DJ D5 D6 D7 
+D9 DA DQ C3 
+H4 HA H6 H3 
+H2 HT HJ HK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "23"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:3.KQ4.JT8632.JT5 AT76542.53.4.A92 KJ9.976.Q97.Q874 Q8.AJT82.AK5.K63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "21375313758ba688ba68"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  3
+N  D  7
+N  C  5
+S NT  3
+S  S  1
+S  H  3
+S  D  7
+S  C  5
+E NT  8
+E  S 11
+E  H 10
+E  D  6
+E  C  8
+W NT  8
+W  S 11
+W  H 10
+W  D  6
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,62,617,57,167,67,45,36,89,45,24,32,17,35,79,25,196,101,26,11,39,43,9,22,23,12,16,62,40,12,24,55,31,21,6,11,136,27,8,8,8,20,60,18
+[Auction "S"]
+Pass 1D =1= Pass 1S =2= 
+Pass 1NT Pass 2H =3= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: natural 0r 2+in 15-17nt which could have 5 of any suit"]
+[Note "2: relay, 3+S, <3H's"]
+[Note "3: t/fer to S"]
+[Play "S"]
+H6 HA H4 H3 
+D7 DA D6 D4 
+D9 DK D2 H5 
+SK SQ S3 S2 
+DQ D5 D3 S4 
+C7 CK C5 C2 
+S9 S8 D8 SA 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "23"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:3.KQ4.JT8632.JT5 AT76542.53.4.A92 KJ9.976.Q97.Q874 Q8.AJT82.AK5.K63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "21375313758ba688ba68"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  3
+N  D  7
+N  C  5
+S NT  3
+S  S  1
+S  H  3
+S  D  7
+S  C  5
+E NT  8
+E  S 11
+E  H 10
+E  D  6
+E  C  8
+W NT  8
+W  S 11
+W  H 10
+W  D  6
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 28,0,3,55,450,64,487,56,24,32,125,46,83,66,35,37,82,108,18,26,101,27,29,35,26,17,13,25,118,60,26,10,19,13,11,12,41,20,12,10,13,12,6,55,125,27,49,11,14,22,8,20,8,7,21,39,11,5,12,54,16,10,8,10,12,10,9,10
+[Auction "S"]
+Pass 1NT =1= Pass 2H =2= 
+Pass 2S Pass 4D 
+Pass 6S Pass Pass 
+Pass 
+[Note "1: good 14-17"]
+[Note "2: spa"]
+[Play "N"]
+DJ D4 D7 DA 
+S3 SA S9 S8 
+D6 S2 SK SQ 
+H4 H3 H7 HA 
+D2 H5 D9 DK 
+D3 S4 DQ D5 
+D8 S5 SJ H2 
+CT CA C4 C3 
+HQ ST H6 HT 
+DT S7 H9 H8 
+C5 S6 C7 C6 
+CJ C2 C8 CK 
+HK C9 CQ HJ 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "24"]
+[West "Tim Smith#74912"]
+[North "Stefan Lindfors#990018"]
+[East "David Willis#18529"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K753.K.T95.KT642 Q98.JT9842.K76.8 T42.A76.J842.973 AJ6.Q53.AQ3.AQJ5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3434534345a8a87a9a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  4
+S  H  3
+S  D  4
+S  C  5
+E NT 10
+E  S  8
+E  H 10
+E  D  8
+E  C  7
+W NT 10
+W  S  9
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,2,1,620,68,77,46,33,38,106,55,60,34,45,48,28,33,108,67,101,23,47,32,18,9,22,18,13,12,22,25,47,13,26,19,10,120,12,37,12,12,15,33,8,23
+[Auction "W"]
+2D =1= Pass 2H =2= Pass 
+2NT Pass 3D =3= Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: multi : 20-22 bal (no 5 card suit) or wl 2 in M (6card or 5card + (4+)c)"]
+[Note "2: pass or convert"]
+[Note "3: t/fer to H"]
+[Play "S"]
+S2 S6 SK S8 
+D4 D3 DT DK 
+H6 H3 HK H8 
+D2 DQ D5 D6 
+HA HQ C2 H2 
+C3 CA C4 C8 
+H7 H5 S3 H9 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "24"]
+[West "Dave Robinson#27142"]
+[North "James Clark#104421"]
+[East "TONY SOWTER#98214"]
+[South "Simon Taylor#111691"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K753.K.T95.KT642 Q98.JT9842.K76.8 T42.A76.J842.973 AJ6.Q53.AQ3.AQJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3434534345a8a87a9a87"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  3
+N  D  4
+N  C  5
+S NT  3
+S  S  4
+S  H  3
+S  D  4
+S  C  5
+E NT 10
+E  S  8
+E  H 10
+E  D  8
+E  C  7
+W NT 10
+W  S  9
+W  H 10
+W  D  8
+W  C  7
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 17,0,3,258,53,1020,47,64,27,45,34,46,28,61,169,26,26,25,32,11,10,78,66,16,26,32,59,8,83,72,17,6,104,23,21,40,12,39,15,24,4,21,24,23,17,10,21,11,19,48
+[Auction "W"]
+2NT Pass 3D =1= Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: hts"]
+[Play "N"]
+DT D6 D2 DQ 
+HK H2 H6 HQ 
+D5 DK D4 D3 
+C6 HJ H7 H3 
+D9 HT HA H5 
+S3 D7 D8 DA 
+C2 C8 C7 CA 
+CK H4 C3 CQ 
+SK S8 S2 SJ 
+S7 -  -  -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "25"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A83.K74.T65.A952 Q976.J3.AJ9432.T J2.QT8.KQ.KJ7643 KT54.A9652.87.Q8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "8464a8464a4979349793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  6
+N  D  4
+N  C 10
+S NT  8
+S  S  4
+S  H  6
+S  D  4
+S  C 10
+E NT  4
+E  S  9
+E  H  7
+E  D  9
+E  C  3
+W NT  4
+W  S  9
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 4,2,0,70,73,472,68,88,56,97,101,72,133,24,22,47,38,12,33,33,38,13,23,13,113,13,37,11,69,11,31,12,8,14,28,9,18,8,17,19,15,11,16,58,15,15,5,17,15,8,23,20,24,7,9,6,50,8,34,10,19,6,9
+[Auction "N"]
+Pass Pass 1C Pass 
+1NT Pass Pass Pass 
+[Play "E"]
+D4 DQ D7 D6 
+CT C3 C8 CA 
+S6 CK CQ C5 
+H3 CJ D8 C9 
+S7 C7 H5 C2 
+S9 C4 H2 S8 
+D2 C6 S4 S3 
+HJ H8 H6 HK 
+SQ S2 S5 SA 
+D3 HT HA H4 
+D9 SJ SK H7 
+DJ DK ST D5 
+DA HQ H9 DT 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "25"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A83.K74.T65.A952 Q976.J3.AJ9432.T J2.QT8.KQ.KJ7643 KT54.A9652.87.Q8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "8464a8464a4979349793"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  6
+N  D  4
+N  C 10
+S NT  8
+S  S  4
+S  H  6
+S  D  4
+S  C 10
+E NT  4
+E  S  9
+E  H  7
+E  D  9
+E  C  3
+W NT  4
+W  S  9
+W  H  7
+W  D  9
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 10,1,3,105,301,230,108,146,210,194,113,248,271,70,45,62,156,101,108,101,35,20,21,88,27,40,29,289,33,15,108,137,23,20,15,15,20,36,52,25,22,24,16,14,25,149,16,20,53,15,5
+[Auction "N"]
+Pass Pass 1C =1= 1H 
+1NT Pass 2C Pass 
+3C Pass Pass Pass 
+[Note "1: could be 2 may contain 5d in 12-14 or 18-19NT"]
+[Play "W"]
+S4 SA S6 S2 
+C8 CA CT C3 
+CQ C2 D2 CK 
+H2 H4 HJ H8 
+SK S3 S7 SJ 
+ST S8 SQ C4 
+HA H7 H3 HT 
+H5 HK D3 HQ 
+D7 D5 DA DQ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "26"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:432.J3.AKQ2.Q985 85.A7.JT985.KJ72 QT97.QT8542.6.64 AKJ6.K96.743.AT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "3453434534a96a9a96a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  3
+N  C  4
+S NT  3
+S  S  4
+S  H  5
+S  D  3
+S  C  4
+E NT 10
+E  S  9
+E  H  6
+E  D 10
+E  C  9
+W NT 10
+W  S  9
+W  H  6
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,2,0,166,41,117,44,88,31,13,32,114,135,9,11,97,813,26,8,21,130,23,15,22,133,33,43,279,22,23,162,10,28,12,352,13,42,42,80,133,275,55,27,92,25,9,10,48,14,10,18,9,15,13,5,14,12,5,9,3,8,6,9
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+DA D5 D6 D3 
+HJ HA H2 H6 
+DQ D8 H4 D4 
+H3 H7 HT H9 
+C9 C2 HQ HK 
+DK D9 H5 D7 
+D2 DT H8 S6 
+S2 DJ S9 SJ 
+C5 CK C6 C3 
+CQ C7 C4 CT 
+C8 CJ S7 CA 
+S3 S5 ST SA 
+S4 S8 SQ SK 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "26"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:432.J3.AKQ2.Q985 85.A7.JT985.KJ72 QT97.QT8542.6.64 AKJ6.K96.743.AT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "3453434534a96a9a96a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  4
+N  H  5
+N  D  3
+N  C  4
+S NT  3
+S  S  4
+S  H  5
+S  D  3
+S  C  4
+E NT 10
+E  S  9
+E  H  6
+E  D 10
+E  C  9
+W NT 10
+W  S  9
+W  H  6
+W  D 10
+W  C  9
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 9,1,3,367,75,60,121,694,61,117,31,159,42,23,25,26,32,35,10,102,130,85,11,35,24,29,8,14,73,10,16,32,25,37,22,14,54,16,103
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+2C =2= Pass 2D =3= Pass 
+2NT Pass Pass Pass 
+[Note "1:  * good 14-17 [0:08]"]
+[Note "2: ask for 5 card kau"]
+[Note "3: no 5M"]
+[Play "N"]
+DK D5 D6 D4 
+HJ H7 H5 H6 
+H3 HA H2 H9 
+DQ D8 C4 D3 
+S4 S5 SQ SA 
+D2 D9 H4 D7 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "27"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J853.AT4.K9.AT87 64.QJ987.AJ73.Q9 QT72.K65.QT6.643 AK9.32.8542.KJ52"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "68556685566588765887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  6
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  6
+E NT  6
+E  S  5
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 13,2,0,77,39,34,92,202,434,103,46,120,27,79,456,61,26,18,38,25,7,95,35,29,81,62,29,18,15,181,56,15,19,23,98,14,17,167,19,10,10,18,14,17,8,18,23,13,17,334,27
+[Auction "S"]
+Pass Pass 1C 1H 
+1S 2NT 3S Pass 
+Pass Pass 
+[Play "W"]
+H3 H4 H7 HK 
+S9 S3 S4 ST 
+D2 DK DA D6 
+SK S5 S6 S2 
+SA S8 H8 S7 
+H2 HA H9 H5 
+D4 D9 D3 DT 
+D5 HT D7 DQ 
+C2 C7 C9 C3 
+-  -  HQ H6 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "27"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J853.AT4.K9.AT87 64.QJ987.AJ73.Q9 QT72.K65.QT6.643 AK9.32.8542.KJ52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "68556685566588765887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  5
+N  D  5
+N  C  6
+S NT  6
+S  S  8
+S  H  5
+S  D  5
+S  C  6
+E NT  6
+E  S  5
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 6,1,3,669,205,62,195,64,35,16,175,52,42,25,93,803,20,23,511,20,113,61,26,40,12,28,78,24,26,63,293,37,43,22,21,126,48,29,337,78,20,15,69,75,34,18,64,471,15,57,34,44,20,10
+[Auction "S"]
+Pass 1C =1= Pass 1H 
+Pass 1NT Pass 2D 
+Pass Pass Pass 
+[Note "1: 2+. can have 5 any suit"]
+[Play "S"]
+S2 SA S3 S4 
+DQ D2 D9 DJ 
+S7 SK S5 S6 
+C6 C2 C7 CQ 
+C3 CK CA C9 
+ST S9 SJ D3 
+H6 H3 HA HJ 
+HK H2 HT HQ 
+C4 C5 C8 D7 
+D6 D4 DK DA 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "28"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:7.J74.T765.KQT85 QJT542.A96.QJ.64 K6.Q2.AK9842.973 A983.KT853.3.AJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "42298422987aa447aa45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  9
+N  C  8
+S NT  4
+S  S  2
+S  H  2
+S  D  9
+S  C  8
+E NT  7
+E  S 10
+E  H 10
+E  D  4
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  4
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,0,70,42,51,54,58,191,57,34,21,27,23,59,15,25,199,85,47,13,9,16,11,93,97,28,12,17,20,52,21,8,65,12,22,18,154,18,40,24,26,18,15,33,14
+[Auction "W"]
+1H Pass 1S 2D 
+2S 3D 4S Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D5 DJ 
+C9 C2 CT C4 
+C7 CA CQ C6 
+HQ H3 H4 HA 
+SK SA S7 SQ 
+S6 S3 C5 SJ 
+H2 HK H7 H6 
+D2 H5 HJ H9 
+-  -  CK -  
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "28"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:7.J74.T765.KQT85 QJT542.A96.QJ.64 K6.Q2.AK9842.973 A983.KT853.3.AJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "42298422987aa447aa45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  2
+N  H  2
+N  D  9
+N  C  8
+S NT  4
+S  S  2
+S  H  2
+S  D  9
+S  C  8
+E NT  7
+E  S 10
+E  H 10
+E  D  4
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  4
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,3,96,108,255,141,42,42,90,40,32,15,79,120,11,36,151,1588,32,21,37,20,20,34,40,16,35,18,110,18,26,12
+[Auction "W"]
+1H Pass 1S 2D 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "S"]
+DK D3 D5 DJ 
+C7 CA C8 C4 
+H2 H3 H7 HA 
+S6 S3 S7 SQ 
+SK SA D6 S2 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "29"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT83.T9843.A.J9 42.A6.KJT8632.85 K9765.K2.94.QT32 J.QJ75.Q75.AK764"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "6a7366a736635a7635a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  7
+N  D  3
+N  C  6
+S NT  6
+S  S 10
+S  H  7
+S  D  3
+S  C  6
+E NT  6
+E  S  3
+E  H  5
+E  D 10
+E  C  7
+W NT  6
+W  S  3
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 21,2,0,73,50,103,137,123,26,114,14,62,83,38,18,26,48,113,13,57,12,25,14,108,24,47,12,17,46,74,14,49,24,21,8
+[Auction "N"]
+1S 3D 4S 5D 
+X Pass Pass Pass 
+[Play "S"]
+SK SJ SA S4 
+HK H5 H3 H6 
+H2 H7 H8 HA 
+D4 DQ DA D2 
+S5 HJ HT DT 
+D9 D5 S3 DK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "29"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT83.T9843.A.J9 42.A6.KJT8632.85 K9765.K2.94.QT32 J.QJ75.Q75.AK764"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "6a7366a736635a7635a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  7
+N  D  3
+N  C  6
+S NT  6
+S  S 10
+S  H  7
+S  D  3
+S  C  6
+E NT  6
+E  S  3
+E  H  5
+E  D 10
+E  C  7
+W NT  6
+W  S  3
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS +200"]
+[Competition "Teams"]
+% RBDATA 23,1,3,206,574,111,58,259,81,52,16,107,60,13,21,24,64,11,7,56,28,9,12,13,54,23,17,110,24,12,35,13,39,12,15,17,28,29,8,66,18,15,11
+[Auction "N"]
+1S 3D 4S 5D 
+5S Pass Pass Pass 
+[Play "E"]
+DJ D4 D5 DA 
+S2 S5 SJ SQ 
+S4 S6 C4 SA 
+H6 HK H5 H3 
+D6 D9 DQ S3 
+C5 C2 CA C9 
+HA H2 HJ H4 
+C8 C3 CK CJ 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "30"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J7.KJT5.KQ984.65 AT6.4.AJT53.QJT8 K85.A98762.72.A7 Q9432.Q3.6.K9432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "73a7373a735a36959369"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H 10
+N  D  7
+N  C  3
+S NT  7
+S  S  3
+S  H 10
+S  D  7
+S  C  3
+E NT  5
+E  S 10
+E  H  3
+E  D  6
+E  C  9
+W NT  5
+W  S  9
+W  H  3
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,0,107,40,204,62,141,127,39,62,34,36,25,55,106,59,59,204,91,42,23,159,21,21,30,119,157,26,38,44,112,66,29,491,22,16,34,148,289,28,20
+[Auction "E"]
+1D 1H X 2D 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+D6 DK DA D7 
+C2 C5 CQ CA 
+H3 HK H4 H7 
+HQ HJ C8 HA 
+C3 DQ D3 D2 
+C4 C6 CT C7 
+S2 S7 S6 SK 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "30"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J7.KJT5.KQ984.65 AT6.4.AJT53.QJT8 K85.A98762.72.A7 Q9432.Q3.6.K9432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "73a7373a735a36959369"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H 10
+N  D  7
+N  C  3
+S NT  7
+S  S  3
+S  H 10
+S  D  7
+S  C  3
+E NT  5
+E  S 10
+E  H  3
+E  D  6
+E  C  9
+W NT  5
+W  S  9
+W  H  3
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,1,3,304,152,141,76,290,84,34,21,101,87,17,397,87,13,121,216,30,31,34,126,22,17,117,34,51,14,36,272,32,38,49,28,509,56,15,298,34,20,58,22,29,19,28,19,104,23,12
+[Auction "E"]
+1D 1H 1S =1= 3H 
+Pass Pass Pass 
+[Note "1: can be 4"]
+[Play "W"]
+D6 DQ DA D2 
+C2 C5 CQ CA 
+HQ H5 H4 HA 
+H3 HT D3 H2 
+C3 C6 CT C7 
+S2 DK DJ D7 
+S3 D9 DT H6 
+C4 HJ S6 H7 
+C9 D8 D5 S5 
+S4 D4 C8 S8 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "31"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A2.KT732.7.87652 93.A965.A94.AKQ3 KT8754.J4.JT5.J9 QJ6.Q8.KQ8632.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2662526625b77b8b77b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  2
+N  C  5
+S NT  2
+S  S  6
+S  H  6
+S  D  2
+S  C  5
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  8
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,0,116,138,83,84,48,276,45,289,106,21,98,18,22,154,182,14,16,12,19,138,32,41,52,50,86,648,33,16,21,79,13,49,15,276,33,13,11,12,11,17,11,68,26,9,15
+[Auction "S"]
+2D Pass 2S X 
+Pass 3D Pass 3S =1= 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: asking"]
+[Play "N"]
+SA S3 S4 S6 
+S2 S9 SK SJ 
+H2 H5 ST SQ 
+D7 DA D5 D2 
+C2 D9 DT DK 
+C5 CA C9 C4 
+H3 D4 DJ DQ 
+H7 H6 S8 D8 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "31"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:A2.KT732.7.87652 93.A965.A94.AKQ3 KT8754.J4.JT5.J9 QJ6.Q8.KQ8632.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2662526625b77b8b77b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  6
+N  H  6
+N  D  2
+N  C  5
+S NT  2
+S  S  6
+S  H  6
+S  D  2
+S  C  5
+E NT 11
+E  S  7
+E  H  7
+E  D 11
+E  C  8
+W NT 11
+W  S  7
+W  H  7
+W  D 11
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 21,1,3,273,192,83,1135,70,14,17,18,43,17,21,10,18,19,19,478,46,22,12,15,32,10,16
+[Auction "S"]
+2D =1= 3D Pass 5D 
+Pass Pass Pass 
+[Note "1: multi : 20-22 bal (no 5 card suit) or wl 2 in M (6card or 5card + (4+)c)"]
+[Play "N"]
+SA S3 S4 S6 
+S2 S9 SK SQ 
+HK HA HJ HQ 
+D7 DA D5 D2 
+*
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "32"]
+[West "Simon Taylor#111691"]
+[North "Stefan Lindfors#990018"]
+[East "James Clark#104421"]
+[South "Rob Lawy#65531"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK63.8652.J6.K42 Q94.AQT3.AK7.JT6 J52.KJ9.QT82.Q87 T87.74.9543.A953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "66665666656667866678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,0,59,26,63,30,64,62,111,472,52,55,62,44,35,25,249,27,23,13,16,36,24,13,62,13,15,12,13,16,20,14,9,62,232,233,11,274,55,14,15,35,8,29,27,21,21,8,22,7,51,49,128,9,25,17,14,13,9,8
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+D2 D3 DJ DK 
+C7 C3 C2 CT 
+C8 C5 CK CJ 
+SJ S7 S3 S4 
+S5 S8 SK S9 
+S2 ST SA SQ 
+D8 D4 S6 H3 
+HK H4 H6 HQ 
+DQ D5 D6 DA 
+CQ CA C4 C6 
+H9 C9 H2 D7 
+HJ H7 H8 HA 
+DT D9 H5 HT 
+
+[Event "19 Dec Clark vs Lawy"]
+[Site "RealBridge"]
+[Date "2024.12.19"]
+[Board "32"]
+[West "Dave Robinson#27142"]
+[North "David Willis#18529"]
+[East "TONY SOWTER#98214"]
+[South "Tim Smith#74912"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK63.8652.J6.K42 Q94.AQT3.AK7.JT6 J52.KJ9.QT82.Q87 T87.74.9543.A953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Lawy team"]
+[VisitTeam "Clark team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "66665666656667866678"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  6
+N  C  5
+S NT  6
+S  S  6
+S  H  6
+S  D  6
+S  C  5
+E NT  6
+E  S  6
+E  H  6
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  6
+W  D  7
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,1,3,104,83,553,79,33,36,156,443,13,353,104,57,38,21,262,209,65,55,166,183,11,111,69,28,12,35,214,26,1413,32,71,10,85,16,51,22,31,62,46,96,14,218,105,43,8,35,96,47,25,8,16,37,7,25,13,23,7,12
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 14+ 17"]
+[Play "S"]
+D2 D3 DJ DA 
+C8 C3 C4 CT 
+CQ C5 C2 CJ 
+D8 D4 D6 D7 
+DT D5 H2 DK 
+C7 CA CK C6 
+S5 C9 H5 H3 
+HK H4 H6 HQ 
+DQ D9 H8 HT 
+HJ H7 S3 HA 
+SJ S7 S6 S4 
+H9 S8 SK S9 
+S2 ST SA SQ 

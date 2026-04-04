@@ -1,0 +1,6116 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "1"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q742.AJ2.6.AT643 A5.63.J92.J98752 JT6.KT85.KQ7543. K983.Q974.AT8.KQ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78875788756555765557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,0,3,150,117,346,116,128,144,128,28,30,82,68,176,50,116,53,33,21,28,39,24,8,19,65,57,13,29,70,31,28,15,164,52,30,47,20,25,30,31,31,20,11,23,16,14,30,31
+[Auction "N"]
+1C Pass 2C =1= X 
+Pass Pass 2D Pass 
+Pass Pass 
+[Note "1:  * diamonds [0:23]"]
+[Play "W"]
+CK CA C7 S6 
+DA D6 D2 DK 
+CQ C3 C2 D3 
+SK S2 S5 SJ 
+S9 S4 SA ST 
+D8 C4 C9 H5 
+H4 H2 H6 H8 
+DT C6 D9 DQ 
+H7 CT DJ D4 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "1"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q742.AJ2.6.AT643 A5.63.J92.J98752 JT6.KT85.KQ7543. K983.Q974.AT8.KQ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78875788756555765557"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  8
+N  D  7
+N  C  5
+S NT  7
+S  S  8
+S  H  8
+S  D  7
+S  C  5
+E NT  6
+E  S  5
+E  H  5
+E  D  5
+E  C  7
+W NT  6
+W  S  5
+W  H  5
+W  D  5
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 6,2,1,69,507,152,81,80,781,465,106,53,412,133,938,1674,195,26,37,20,45,20,52,15,34,19,24,43,17,273,89,17,12,335,18,10,15,20,25,30,14,23,23,17,12,18,35,25,15,20,15,8,17,14,15,9,7,22,8,7,10,10,10,5,8
+[Auction "N"]
+1C Pass 1D X 
+1S Pass 2D Pass 
+Pass Pass 
+[Play "W"]
+CK CA C5 H5 
+DA D6 D2 DK 
+CQ C3 C9 D3 
+D8 C4 D9 DQ 
+SK S2 S5 SJ 
+S3 S4 SA S6 
+DT C6 C8 D4 
+S9 S7 DJ ST 
+S8 CT CJ D5 
+H4 HA H3 H8 
+H7 SQ C2 HT 
+H9 H2 H6 HK 
+HQ HJ C7 D7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "2"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ954.87.Q7653.2 AT8.92.JT2.AQT63 K73.AQ543.AK84.4 62.KJT6.9.KJ9875"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "698a3698a37353a7353a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D 10
+N  C  3
+S NT  6
+S  S  9
+S  H  8
+S  D 10
+S  C  3
+E NT  7
+E  S  3
+E  H  5
+E  D  3
+E  C 10
+W NT  7
+W  S  3
+W  H  5
+W  D  3
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,281,79,136,87,75,157,36,124,167,31,28,31,18,14,17,53,19,56,27,59,17,34,24,26,32,18,20,27,19,179,23,44,30,43,70,22
+[Auction "E"]
+1D =1= 1H 1NT Pass 
+Pass Pass 
+[Note "1: 11-15 pts, 1+ D"]
+[Play "N"]
+H8 H2 H4 HJ 
+C2 CQ C4 C5 
+D7 CA H3 C8 
+D6 CT S3 CJ 
+S4 C6 D4 CK 
+S5 C3 H5 C9 
+H7 H9 HQ C7 
+S9 -  -  S2 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "2"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ954.87.Q7653.2 AT8.92.JT2.AQT63 K73.AQ543.AK84.4 62.KJT6.9.KJ9875"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "698a3698a37353a7353a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D 10
+N  C  3
+S NT  6
+S  S  9
+S  H  8
+S  D 10
+S  C  3
+E NT  7
+E  S  3
+E  H  5
+E  D  3
+E  C 10
+W NT  7
+W  S  3
+W  H  5
+W  D  3
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,131,88,386,152,29,69,31,46,21,29,24,24,247,42,19,52,34,10,16,23,35,15,22,73,27,29,9,17,18,15,17
+[Auction "E"]
+1NT =1= X XX =2= 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: 10-12"]
+[Note "2: clubs or D & H"]
+[Play "E"]
+H9 HQ HK H7 
+D2 DA D9 D3 
+SA S3 S6 SQ 
+H2 HA H6 H8 
+S8 SK S2 S4 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "3"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T2.J86.K87.QJ982 65.QT9542.AJ2.74 J93.A3.964.AT653 AKQ874.K7.QT53.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "32227322277bab67bab6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  2
+N  D  2
+N  C  7
+S NT  3
+S  S  2
+S  H  2
+S  D  2
+S  C  7
+E NT  7
+E  S 11
+E  H 10
+E  D 11
+E  C  6
+W NT  7
+W  S 11
+W  H 10
+W  D 11
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 8,0,3,174,96,103,103,61,23,47,35,147,26,25,461,44,55,228,20,16,197,18,52,14,16,24,13,13,14,15,12,23,18,19,71,15,27,23,16,38,41,28,12,159,20,24,15,72,191,20,15,9,34
+[Auction "S"]
+Pass 1C =1= Pass 1D =2= 
+Pass 1S Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Note "1:  * strong [0:05]"]
+[Note "2: 0-7"]
+[Play "N"]
+CQ C4 CA CK 
+C2 C7 C3 S4 
+S2 S5 S3 SA 
+ST S6 S9 SK 
+C8 H2 SJ SQ 
+H6 H5 HA HK 
+CJ H4 C5 S8 
+H8 HQ H3 H7 
+D7 DA D4 D3 
+-  DJ -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "3"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T2.J86.K87.QJ982 65.QT9542.AJ2.74 J93.A3.964.AT653 AKQ874.K7.QT53.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "32227322277bab67bab6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  2
+N  D  2
+N  C  7
+S NT  3
+S  S  2
+S  H  2
+S  D  2
+S  C  7
+E NT  7
+E  S 11
+E  H 10
+E  D 11
+E  C  6
+W NT  7
+W  S 11
+W  H 10
+W  D 11
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 23,2,1,93,214,117,61,127,208,104,26,697,64,258,56,18,402,25,57,10,8,18,72,14,46,36,9,7,9,10,9,7
+[Auction "S"]
+Pass 1C =1= 3C 3H 
+5C 5S Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Play "N"]
+CQ C4 CA CK 
+H6 H2 HA H7 
+H8 H4 H3 HK 
+S2 S5 S3 SA 
+ST S6 S9 SK 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "4"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ53.J5.A93.764 97.K9876.754.532 QT642.Q32.KQT.AJ 8.AT4.J862.KQT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9a6769a6764375743757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D  7
+N  C  6
+S NT  9
+S  S 10
+S  H  6
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  7
+E  D  5
+E  C  7
+W NT  4
+W  S  3
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,107,44,52,284,48,219,38,65,24,21,25,420
+[Auction "W"]
+Pass 1S Pass 2NT =1= 
+Pass 3S =2= Pass 4S 
+Pass Pass Pass 
+[Note "1: 7hp+ and 4+sp"]
+[Note "2: min"]
+[Play "E"]
+S7 -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "4"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ53.J5.A93.764 97.K9876.754.532 QT642.Q32.KQT.AJ 8.AT4.J862.KQT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9a6769a6764375743757"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D  7
+N  C  6
+S NT  9
+S  S 10
+S  H  6
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  7
+E  D  5
+E  C  7
+W NT  4
+W  S  3
+W  H  7
+W  D  5
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,326,49,29,243,52,65,62,48,271,26,101,751
+[Auction "W"]
+Pass 1S Pass 3NT =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: spade raise"]
+[Play "E"]
+H6 H2 HT -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "5"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ7.63.AT432.T84 AK986.A2.Q7.A652 4.QJT8754.KJ8.K7 T532.K9.965.QJ93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "63973539737a45a7a45a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  7
+N  C  3
+S NT  5
+S  S  3
+S  H  9
+S  D  7
+S  C  3
+E NT  7
+E  S 10
+E  H  4
+E  D  5
+E  C 10
+W NT  7
+W  S 10
+W  H  4
+W  D  5
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,48,231,977,76,171,48,51,25,27,25,31,21,307,23,15,19,30,10,6,21,61,10,12,1273,53,8,10,11,23,23,24,35,25,8,13,20,14,20,15,8,19,7,18,69
+[Auction "N"]
+Pass 1C =1= 3D =2= Pass 
+3H 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: hearts or both black suits"]
+[Play "S"]
+HQ H9 H6 HA 
+S4 S2 S7 SA 
+H5 S3 SJ SK 
+H4 HK H3 H2 
+CK CQ C4 C5 
+D8 D5 DA D7 
+DK D6 D3 DQ 
+DJ D9 D2 S8 
+-  -  -  CA 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "5"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ7.63.AT432.T84 AK986.A2.Q7.A652 4.QJT8754.KJ8.K7 T532.K9.965.QJ93"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "63973539737a45a7a45a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  7
+N  C  3
+S NT  5
+S  S  3
+S  H  9
+S  D  7
+S  C  3
+E NT  7
+E  S 10
+E  H  4
+E  D  5
+E  C 10
+W NT  7
+W  S 10
+W  H  4
+W  D  5
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,81,82,190,485,125,35,46,65,49,87,33,29,41,17,454,54,25,16,39,21,10,23,56,22,27,190,35,37,12,51,36,20,38,1061,33,45,28,50,9,18,33,39,10,17,8,122,31,25,9,28,21,8,14,13,13,12,9
+[Auction "N"]
+Pass 1C =1= 2H X =2= 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 16+"]
+[Note "2: balanced 5-7"]
+[Play "S"]
+HQ H9 H3 HA 
+S4 S2 S7 SA 
+H8 S3 SJ SK 
+H7 HK H6 H2 
+DK D5 D2 DQ 
+CK C3 C4 CA 
+C7 CQ C8 C2 
+HT CJ CT C5 
+H5 C9 D3 C6 
+D8 D6 DA D7 
+H4 S5 SQ S6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "6"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q3.A8.K7652.K743 AKT87.K7.J.AQ862 942.Q962.AT984.5 J65.JT543.Q3.JT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "5"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "33593324927a74a7a74a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  9
+N  C  3
+S NT  3
+S  S  2
+S  H  4
+S  D  9
+S  C  2
+E NT  7
+E  S 10
+E  H  7
+E  D  4
+E  C 10
+W NT  7
+W  S 10
+W  H  7
+W  D  4
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 10,0,3,239,473,68,186,604,87,140,196,310,18,24,52,116,36,12,29,19,21,39,73,20,15,9,66,19,7,21,65,28,7,8,20,16,25,9,429,32,13,20,18,34,19,13,17,24,42,8,18,24,18,18,12,23,8,10,8,16,8,10
+[Auction "E"]
+1C =1= 1NT =2= Pass 3C =3= 
+Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: two suits same colour"]
+[Note "3: Alerted"]
+[Play "E"]
+DJ D4 D3 DK 
+S7 DA DQ D5 
+SK S2 S5 SQ 
+SA S4 S6 S3 
+ST S9 SJ C3 
+H7 H2 H3 HA 
+HK H6 H4 H8 
+C2 C5 C9 CK 
+C6 D8 CT C4 
+C8 D9 CJ C7 
+CQ H9 HJ D2 
+CA DT H5 D6 
+S8 HQ HT D7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "6"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q3.A8.K7652.K743 AKT87.K7.J.AQ862 942.Q962.AT984.5 J65.JT543.Q3.JT9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "33593324927a74a7a74a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  9
+N  C  3
+S NT  3
+S  S  2
+S  H  4
+S  D  9
+S  C  2
+E NT  7
+E  S 10
+E  H  7
+E  D  4
+E  C 10
+W NT  7
+W  S 10
+W  H  7
+W  D  4
+W  C 10
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 18,2,1,114,51,248,112,83,75,513,68,122,36,28,28,26,134,70,25,125,26,8,31,18,23,8,11,30,19,11,12,185,17,12,59,43,56,22,13,105,24,10,16,39,35
+[Auction "E"]
+1C =1= Pass 1D =2= Pass 
+1S =3= Pass 2S =4= Pass 
+4S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2: 0-7 or any 4441"]
+[Note "3: F1"]
+[Note "4: 5-7 3 spades"]
+[Play "S"]
+C5 C9 CK CA 
+S4 S5 S3 SA 
+S2 S6 SQ SK 
+S9 SJ D2 S7 
+D4 CJ C3 C2 
+H6 HJ HA H7 
+H2 H3 H8 HK 
+D8 -  -  C6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "7"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q94.K753.Q.85432 T8.Q864.643.AKQ6 KJ76..AKJT72.JT7 A532.AJT92.985.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "78398783985584555845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  3
+N  D  9
+N  C  8
+S NT  7
+S  S  8
+S  H  3
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,0,3,101,149,124,188,108,22,184,70,98,23,70,36,78,46,23,22,14,139,22,49,16,319,19,60,31,19,23,47,25,14,25,31,26,28,25,20,16,127,15,14,57,20,39
+[Auction "S"]
+1D 1H Pass 2D =1= 
+2S Pass Pass 3H 
+Pass Pass Pass 
+[Note "1: good h raise"]
+[Play "N"]
+DQ D4 DA D5 
+C5 D3 DK D8 
+C4 D6 DJ D9 
+S4 S8 S6 SA 
+C3 CK C7 C9 
+HK H8 D2 H2 
+SQ ST SK S2 
+C2 CA CJ S3 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "7"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q94.K753.Q.85432 T8.Q864.643.AKQ6 KJ76..AKJT72.JT7 A532.AJT92.985.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "78398783985584555845"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  3
+N  D  9
+N  C  8
+S NT  7
+S  S  8
+S  H  3
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  5
+W NT  5
+W  S  5
+W  H  8
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 17,2,1,94,707,379,178,105,230,52,17,28,26,82,64,27,37,18,38,20,23,17,37,21,92,29,9,26,54,17,88,36,176,29,17,12,13,15,19,33,54,20,23,25,12,15,12,21,37
+[Auction "S"]
+1D 2D =1= Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 44+ H & S 6+hcp"]
+[Play "S"]
+DA D5 DQ D3 
+DK D8 C2 D4 
+DJ D9 C3 D6 
+CJ C9 C4 CK 
+D7 H2 H3 H8 
+SJ SA S4 S8 
+SK S2 S9 ST 
+S7 S3 SQ H4 
+C7 H9 C5 C6 
+-  S5 -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "8"]
+[West "David Jones#32640"]
+[North "Erik Sælensminde#411440"]
+[East "Miles Cowling#18302"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A42.J.AK63.AKQ82 KQJ73.Q8543.85.T T86.AKT76.Q97.97 95.92.JT42.J6543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "c99ccc99cc1421114211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H  9
+N  D 12
+N  C 12
+S NT 12
+S  S  9
+S  H  9
+S  D 12
+S  C 12
+E NT  1
+E  S  4
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 19,0,3,82,98,28,146,37,269,83,462,25,83,27,42,24,70,47,373,29,374,226,19,21,37,27,12,26,90,23,124,22,29,26,30,19,145,22,7,19,13,10,9,56,20,117,12,12,25,14,9,8,34,15,19,8,15,22,7,8,9,33,43,13,8,27,7,9,8,15,8,10
+[Auction "W"]
+Pass 1C Pass 1H =1= 
+Pass 2D =2= Pass 2S 
+Pass 2NT Pass 3NT 
+Pass 4NT Pass Pass 
+Pass 
+[Note "1: 5hearts"]
+[Note "2: 3hearts  strong or nat strong"]
+[Play "E"]
+SK S6 S9 S2 
+SQ S8 S5 S4 
+SJ ST H2 SA 
+H3 H6 H9 HJ 
+D8 D7 D2 DA 
+D5 D9 D4 DK 
+H4 DQ DT D3 
+H5 HA C3 C2 
+H8 HK C4 D6 
+CT C7 C5 CQ 
+S3 C9 C6 CK 
+S7 H7 CJ CA 
+HQ HT DJ C8 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "8"]
+[West "Robert Plumley#33074"]
+[North "David Kendrick#94543"]
+[East "Alan Scott#24026"]
+[South "Malcolm Pryor#65457"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A42.J.AK63.AKQ82 KQJ73.Q8543.85.T T86.AKT76.Q97.97 95.92.JT42.J6543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "c99ccc99cc1421114211"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S  9
+N  H  9
+N  D 12
+N  C 12
+S NT 12
+S  S  9
+S  H  9
+S  D 12
+S  C 12
+E NT  1
+E  S  4
+E  H  2
+E  D  1
+E  C  1
+W NT  1
+W  S  4
+W  H  2
+W  D  1
+W  C  1
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 21,2,1,75,56,191,199,186,141,31,135,37,69,34,89,48,435,33,450,46,19,255,25,18,1367,31,9,38,26,13,8,19,1102,38,8,63,161,22,9,33,13,10,11,17,22,32,8,15,16,62,53,14,359,29,11,39,18,26,15,23,20,14,8,8,16,11
+[Auction "W"]
+Pass 2C Pass 2H =1= 
+Pass 3C Pass 3D 
+Pass 4D Pass 5C 
+Pass 5D Pass Pass 
+Pass 
+[Note "1: positive with hearts"]
+[Play "W"]
+S9 SA S3 S8 
+D2 D3 D5 DQ 
+D4 DA D8 D7 
+DT DK S7 D9 
+H2 HJ H3 HA 
+H9 S2 H4 HK 
+C3 CA CT C7 
+C4 CK SJ C9 
+S5 S4 SQ S6 
+C5 D6 SK ST 
+C6 CQ H5 H6 
+-  C8 H8 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "9"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:32.KQ85.KT9.KT43 JT4.92.Q65432.92 75.A74.A87.AQJ75 AKQ986.JT63.J.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "75a7b75a7b2735227352"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D  7
+N  C 11
+S NT  7
+S  S  5
+S  H 10
+S  D  7
+S  C 11
+E NT  2
+E  S  7
+E  H  3
+E  D  5
+E  C  2
+W NT  2
+W  S  7
+W  H  3
+W  D  5
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 14,0,4,110,580,331,261,97,100,76,178,128,46,36,38,70,105,17,18,16,22,23,8,14,24,9,18,15,20,27,11,16,21,12,8,19
+[Auction "N"]
+1C Pass 2S =1= X 
+3C Pass 3S Pass 
+3NT Pass Pass Pass 
+[Note "1: club support and 9+hp"]
+[Play "E"]
+SJ S5 SQ S3 
+S4 S7 SK S2 
+ST H4 SA C3 
+D2 D7 S9 C4 
+D3 C5 S8 D9 
+-  -  S6 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "9"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:32.KQ85.KT9.KT43 JT4.92.Q65432.92 75.A74.A87.AQJ75 AKQ986.JT63.J.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "75a7b75a7b2735227352"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 10
+N  D  7
+N  C 11
+S NT  7
+S  S  5
+S  H 10
+S  D  7
+S  C 11
+E NT  2
+E  S  7
+E  H  3
+E  D  5
+E  C  2
+W NT  2
+W  S  7
+W  H  3
+W  D  5
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 20,3,1,266,186,162,107,119,83,126,147,316,29,80,45,44,27,31,108,15,11,40,89,19,15,200,66,20,18,290,34,14,16,480,29,17,27,37,20,16,44,23,15,12,29,112,40,20,17,92,16,13,10,482,28,12,28,12,19,15,17,63,13,28,15,8,9,15,7
+[Auction "N"]
+1D =1= Pass 2C 2S 
+3C Pass 3S =2= X =3= 
+Pass Pass 5C Pass 
+Pass Pass 
+[Note "1: 11-15 pts, 1+D"]
+[Note "2:  * asking  [0:06]"]
+[Note "3: lead s"]
+[Play "W"]
+SA S3 SJ S5 
+SK S2 S4 S7 
+C8 C4 C2 CJ 
+C6 CK C9 C5 
+SQ CT ST CA 
+S9 C3 D5 CQ 
+S8 D9 D6 C7 
+H3 HK H2 H4 
+DJ DK D2 D7 
+H6 H5 H9 HA 
+HT HQ D3 H7 
+S6 DT D4 DA 
+HJ H8 DQ D8 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "10"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8653.T7.AKT3.K5 Q7.J32.J9754.T73 T9.AQ9654.Q82.A8 AK42.K8.6.QJ9642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "98a8498a844535945359"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  4
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  4
+E NT  4
+E  S  5
+E  H  3
+E  D  5
+E  C  9
+W NT  4
+W  S  5
+W  H  3
+W  D  5
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 12,0,4,54,121,98,78,50,123,189,106,96,85,69,35,43,202,36,42,72,14,17,420,168,16,26,23,18,18,153,130,215,29,10,18,20,34,10,64,46,11,20,13,35,13,9,26,49,13,191,16,126,11,268,47,34,21,16,37,24,9,17,9,30,11,5,10,5,9,8
+[Auction "E"]
+Pass 1H 2C X 
+Pass 2H 2S X 
+3C Pass Pass 3H 
+Pass Pass Pass 
+[Play "W"]
+SA S3 S7 S9 
+D6 DA D5 D8 
+HK H7 H2 H9 
+CQ CK C3 C8 
+H8 HT H3 H4 
+C2 C5 CT CA 
+C6 S5 HJ HA 
+C4 S6 D4 HQ 
+S2 S8 SQ H6 
+S4 SJ C7 H5 
+C9 D3 D9 DQ 
+CJ DK D7 D2 
+SK DT DJ ST 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "10"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:J8653.T7.AKT3.K5 Q7.J32.J9754.T73 T9.AQ9654.Q82.A8 AK42.K8.6.QJ9642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "98a8498a844535945359"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  8
+N  C  4
+S NT  9
+S  S  8
+S  H 10
+S  D  8
+S  C  4
+E NT  4
+E  S  5
+E  H  3
+E  D  5
+E  C  9
+W NT  4
+W  S  5
+W  H  3
+W  D  5
+W  C  9
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 17,3,1,59,61,101,636,31,71,36,173,28,62,39,22,128,22,12,43,25,16,33,18,18,58,16,21,141,25,22,24,17,15,117,39,77,21,12,23,14,13,8,37,92,19,21,18,23,24,16,13,21,15,54,15,41,20,13
+[Auction "E"]
+Pass 1H 2C 2S 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+CQ CK C3 C8 
+HK HT H2 H5 
+H8 H7 HJ HA 
+C6 S5 H3 HQ 
+C4 S6 D5 H9 
+S2 C5 C7 H6 
+C2 S3 CT CA 
+S4 S8 S7 H4 
+D6 DA D4 D2 
+C9 D3 D9 DQ 
+SK DK D7 D8 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "11"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:72.AJ87.KQJ98.T5 Q.Q942.T765.QJ74 A93.T63.A43.AK32 KJT8654.K5.2.986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a6bbaa6bba3722337223"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D 11
+N  C 10
+S NT 10
+S  S  6
+S  H 11
+S  D 11
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  2
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  2
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,3,1,66,481,368,35,94,51,64,21,92,42,31,40,70,139,28,22,27,32,17,25,14,32,86,19,15,23,146,31,24,20,22,12,89,33,32,18,16,14,21,9,16,39,23,14,19,127,24,42,117,14,28,8,22,14,13,16,11,14,11,7,8,10,7,6
+[Auction "S"]
+1NT =1= 2S 3C =2= Pass 
+3D Pass 3H Pass 
+3NT Pass Pass Pass 
+[Note "1:  * 14-16 [0:06]"]
+[Note "2: Xfer to D"]
+[Play "W"]
+C9 CT CJ CK 
+H5 H8 H9 H3 
+SK S2 SQ S3 
+SJ S7 D7 SA 
+D2 DQ D5 D3 
+S6 D8 D6 DA 
+S5 DK DT D4 
+S4 DJ C4 C2 
+C6 D9 H2 S9 
+C8 C5 C7 CA 
+HK HA H4 H6 
+S8 H7 HQ HT 
+ST HJ CQ C3 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "11"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:72.AJ87.KQJ98.T5 Q.Q942.T765.QJ74 A93.T63.A43.AK32 KJT8654.K5.2.986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a6bbaa6bba3722337223"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  6
+N  H 11
+N  D 11
+N  C 10
+S NT 10
+S  S  6
+S  H 11
+S  D 11
+S  C 10
+E NT  3
+E  S  7
+E  H  2
+E  D  2
+E  C  3
+W NT  3
+W  S  7
+W  H  2
+W  D  2
+W  C  3
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,0,4,164,247,440,269,181,37,57,127,84,57,32,28,197,226,11,46,312,46,95,10,40,24,35,20,646,38,23,34,27,20,15,11,130,16,16,92,71,39,28,11,114,6,104,50,57,20,96,76,79,15,10,13,31,13,11,32,32,11,13,11,13,10,25,6
+[Auction "S"]
+1NT 2D =1= X 2S =2= 
+Pass Pass 3S X 
+3NT Pass Pass Pass 
+[Note "1: One Major"]
+[Note "2: p/c"]
+[Play "W"]
+SJ S2 SQ S3 
+C6 C5 CQ CA 
+H5 HJ HQ H6 
+C8 CT CJ CK 
+D2 DK D5 D4 
+S6 D8 D6 DA 
+S4 DQ D7 D3 
+S5 DJ DT C3 
+S8 D9 C4 C2 
+HK HA H2 H3 
+C9 H7 H4 HT 
+ST S7 H9 SA 
+SK H8 C7 S9 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "12"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8.Q876.97.976543 KJ6.KT4.QJT653.A QT952.A532.8.QT8 A743.J9.AK42.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "1431614316c98c7c98c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  3
+N  D  1
+N  C  6
+S NT  1
+S  S  4
+S  H  3
+S  D  1
+S  C  6
+E NT 12
+E  S  9
+E  H  8
+E  D 12
+E  C  7
+W NT 12
+W  S  9
+W  H  8
+W  D 12
+W  C  7
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 14,0,4,176,44,375,40,21,25,93,178,50,26,136,21,20,27,93,27,19,24,105,21,30,15,29,25,13,12,25,22,8,14,9,48,13,15,16,19,8,13,17,12,29,9,21,7,10,34,20,14,6,9,28,12,17,10,10,10,6,10
+[Auction "W"]
+1NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+C7 CA C8 C2 
+D9 D6 D8 DA 
+S8 SJ SQ S3 
+C9 H4 CQ CK 
+C3 HT CT CJ 
+D7 D3 H5 DK 
+H6 DQ H2 D2 
+C4 DJ H3 D4 
+C5 DT S2 H9 
+C6 D5 S5 HJ 
+H7 SK ST S4 
+H8 S6 S9 SA 
+HQ HK HA S7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "12"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:8.Q876.97.976543 KJ6.KT4.QJT653.A QT952.A532.8.QT8 A743.J9.AK42.KJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS -920"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "1431614316c98c7c98c7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  4
+N  H  3
+N  D  1
+N  C  6
+S NT  1
+S  S  4
+S  H  3
+S  D  1
+S  C  6
+E NT 12
+E  S  9
+E  H  8
+E  D 12
+E  C  7
+W NT 12
+W  S  9
+W  H  8
+W  D 12
+W  C  7
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 26,3,1,395,44,31,47,174,29,481,37,123,39,36,72,150,55,96,20,216,654,30,26,103,28,26,15,162,33,53,9,63,29,16,16,191,436,56,8,89,24,528,58
+[Auction "W"]
+1D =1= Pass 2D Pass 
+2S Pass 4C =2= Pass 
+4D Pass 4H Pass 
+6D Pass Pass Pass 
+[Note "1: 2+ D"]
+[Note "2: splinter"]
+[Play "N"]
+S8 SJ SQ SA 
+D7 DQ D8 D2 
+D9 DJ S2 DA 
+C6 CA C8 C2 
+C3 D3 H5 D4 
+H7 H4 HA H9 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "13"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ752.KJ84.KJ5.A 9843.9.973.KQT82 KQ6.QT2.T864.954 T.A7653.AQ2.J763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "79874798744344943559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  7
+N  C  4
+S NT  7
+S  S  9
+S  H  8
+S  D  7
+S  C  4
+E NT  4
+E  S  3
+E  H  4
+E  D  4
+E  C  9
+W NT  4
+W  S  3
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,0,4,117,47,117,262,79,73,40,16,78,213,17,20,14,19,131,22,38,25,8,17,19,20,35,22,81,71,16,12,48,28,7,6,11,20,8,13,20,16,19,16
+[Auction "N"]
+1S Pass 2S X 
+4S Pass Pass Pass 
+[Play "E"]
+H9 H2 HA H4 
+S3 HT H7 H8 
+D7 D4 DA D5 
+S4 HQ H6 HJ 
+CK C4 C3 CA 
+S8 S6 ST SA 
+S9 SQ H5 S5 
+D9 D6 D2 DJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "13"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ752.KJ84.KJ5.A 9843.9.973.KQT82 KQ6.QT2.T864.954 T.A7653.AQ2.J763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "79874798744344943559"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  7
+N  C  4
+S NT  7
+S  S  9
+S  H  8
+S  D  7
+S  C  4
+E NT  4
+E  S  3
+E  H  4
+E  D  4
+E  C  9
+W NT  4
+W  S  3
+W  H  5
+W  D  5
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,3,1,181,51,52,71,105,42,109,43,182,29,32,22,77,70,29,21,126,30,17,21,890,41,9,22,98,23,35,8,297,33,13,15,27,50,195,18,83,24,8,14,14,27,7,67,20,26,8,7,21,11,12,33,11,17,7,7,9,16,16,7,9,17,10,8
+[Auction "N"]
+1C =1= Pass 1D =2= Pass 
+1S Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: 16+"]
+[Note "2:  * 0-7 [0:06]"]
+[Play "E"]
+CK C4 C3 CA 
+S3 SK ST S2 
+H9 HQ HA H8 
+C2 C5 C6 S5 
+S8 SQ H3 S7 
+D3 D4 D2 DK 
+S4 S6 C7 SA 
+S9 C9 CJ SJ 
+C8 HT H5 H4 
+CT H2 H6 HK 
+D7 D6 H7 HJ 
+D9 DT DQ D5 
+CQ D8 DA DJ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "14"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A6.97653.AQ32.A6 Q4.KQJ4.KT84.Q85 J953.2.J75.KJT32 KT872.AT8.96.974"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "76788767885664456644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  6
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 7,0,4,240,53,254,159,125,126,21,379,110,15,20,13,234,22,22,35,29,25,17,394,32,21,13,43,30,37,7,18,25,15,15,146,44,15,23,30,26,52,11
+[Auction "E"]
+1D =1= Pass 1S 2H 
+Pass =2= Pass Pass 
+[Note "1: <16, 2+D, can have more C, any bal12-14"]
+[Note "2: not 3 sp"]
+[Play "E"]
+SQ S3 S2 SA 
+H4 H2 H8 H3 
+DK D5 D9 D3 
+S4 S9 ST S6 
+D4 D7 D6 DA 
+HJ C2 HT H6 
+DT DJ HA D2 
+HQ S5 SK H5 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "14"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A6.97653.AQ32.A6 Q4.KQJ4.KT84.Q85 J953.2.J75.KJT32 KT872.AT8.96.974"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "76788767885664456644"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  8
+N  C  8
+S NT  7
+S  S  6
+S  H  7
+S  D  8
+S  C  8
+E NT  5
+E  S  6
+E  H  6
+E  D  4
+E  C  4
+W NT  5
+W  S  6
+W  H  6
+W  D  4
+W  C  4
+[OptimumScore "NS +90"]
+[Competition "Teams"]
+% RBDATA 7,3,1,226,37,40,197,159,38,80,78,66,41,126,35,94,15,20,791,25,7,20,7,16,17,13,23,10,21,10,110,27,79,23,53,36,16,35,79,25,8,21,39,29,26,19,25,193,30,9,12,25,52,20,60,19,15,5,12,28,7,18,9,26,6,9
+[Auction "E"]
+1D =1= Pass 1S Pass 
+1NT =2= Pass Pass 2H 
+Pass Pass Pass 
+[Note "1: 10-16 2+D"]
+[Note "2: 13-16"]
+[Play "E"]
+SQ S3 S2 SA 
+C5 C2 C4 CA 
+C8 CJ C7 C6 
+CQ CK C9 S6 
+D4 CT H8 D3 
+D8 D5 D9 DA 
+HJ H2 HT H6 
+S4 S9 ST H3 
+HQ C3 HA H7 
+DT S5 SK H5 
+DK D7 D6 D2 
+HK DJ S8 H9 
+H4 SJ S7 DQ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "15"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ52.K97.A83.Q98 986.J3.T652.K743 KJ.Q54.K974.JT65 T743.AT862.QJ.A2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "98899988994454444544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  4
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,4,157,31,90,36,361,63,46,32,37,18,23,244,27,44,37,25,25,38,22,38,183,51,20,73,14,36,384,23,13,13,15,19,24,11,97,19,47,13,22,18,30,8,30,11,122,10,795,13,38,15,54,18,12,4
+[Auction "S"]
+Pass 1H X Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H6 H7 HJ HQ 
+C2 C8 CK C6 
+HA H9 H3 H5 
+H2 HK C3 H4 
+S3 S2 S6 SK 
+S4 S5 S8 SJ 
+DQ DA D2 D7 
+S7 SQ S9 C5 
+ST SA C4 CT 
+DJ D8 D5 DK 
+CA C9 C7 CJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "15"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AQ52.K97.A83.Q98 986.J3.T652.K743 KJ.Q54.K974.JT65 T743.AT862.QJ.A2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "98899988994454444544"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  8
+N  D  9
+N  C  9
+S NT  9
+S  S  8
+S  H  8
+S  D  9
+S  C  9
+E NT  4
+E  S  4
+E  H  5
+E  D  4
+E  C  4
+W NT  4
+W  S  4
+W  H  5
+W  D  4
+W  C  4
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,3,1,177,58,121,39,571,50,412,54,23,32,16,151,29,20,633,45,22,19,31,13,42,19,45,25,48,9,18,21,155,12,21,46,19,10,39,15,75,22,104,30,12,37,417,19,13,7,15,74,19,15,52
+[Auction "S"]
+Pass 1H X Pass 
+2NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+H2 H7 HJ HQ 
+S3 S2 S6 SK 
+S4 S5 S8 SJ 
+DQ DA D2 D4 
+ST SA S9 H4 
+S7 SQ H3 C5 
+DJ D8 D5 D9 
+HA H9 C4 H5 
+CA C8 C3 C6 
+C2 C9 CK CJ 
+-  -  D6 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "16"]
+[West "Trevor Ward#63728"]
+[North "Erik Sælensminde#411440"]
+[East "Rob Cliffe#16537"]
+[South "Rune Hauge#111671"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT43.A963.A82.K9 K98.KQ72.KQ.A732 J5.J84.T97643.J8 A762.T5.J5.QT654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "7"]
+[Score "NS -800"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "65673656736875968759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  7
+N  C  3
+S NT  6
+S  S  5
+S  H  6
+S  D  7
+S  C  3
+E NT  6
+E  S  8
+E  H  7
+E  D  5
+E  C  9
+W NT  6
+W  S  8
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 21,0,4,46,74,53,282,139,72,218,44,93,160,14,24,95,36,16,12,1715,40,94,9,17,16,15,9,82,121,19,39,702,26,15,38,23,24,16,13,20,24,8,14,8,9,13,9
+[Auction "W"]
+Pass 1D X 5D 
+X Pass Pass Pass 
+[Play "E"]
+DK D3 D5 DA 
+DQ D4 DJ D2 
+CA C8 C5 C9 
+C2 CJ CQ CK 
+SK S5 S2 S3 
+H2 H4 HT HA 
+S8 SJ SA S4 
+HQ H8 H5 H3 
+HK HJ C4 H6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "16"]
+[West "Robert Plumley#33074"]
+[North "Miles Cowling#18302"]
+[East "Alan Scott#24026"]
+[South "David Jones#32640"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QT43.A963.A82.K9 K98.KQ72.KQ.A732 J5.J84.T97643.J8 A762.T5.J5.QT654"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "65673656736875968759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  6
+N  D  7
+N  C  3
+S NT  6
+S  S  5
+S  H  6
+S  D  7
+S  C  3
+E NT  6
+E  S  8
+E  H  7
+E  D  5
+E  C  9
+W NT  6
+W  S  8
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,3,1,191,196,35,99,112,178,32,23,257,39,16,15,40,15,44,18,20,7,14,83,26,11,13,78,1794,31,10,19,458,30,9,48
+[Auction "W"]
+Pass 1D =1= X 3D =2= 
+Pass Pass Pass 
+[Note "1: 11-15 pts, 1+D"]
+[Note "2:  * weak [0:15]"]
+[Play "E"]
+DK D3 D5 DA 
+SK S5 S7 S3 
+DQ D4 DJ D2 
+S8 SJ SA S4 
+HQ H4 HT H3 
+CA C8 C4 C9 
+C2 -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "17"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K8.AKQ62.Q54.943 A.J8.A73.AKQ8752 T972.94.KJT962.T QJ6543.T753.8.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "45592455929763a9763a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  9
+N  C  2
+S NT  4
+S  S  5
+S  H  5
+S  D  9
+S  C  2
+E NT  9
+E  S  7
+E  H  6
+E  D  3
+E  C 10
+W NT  9
+W  S  7
+W  H  6
+W  D  3
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 15,1,4,315,486,86,97,53,453,60,22,38,25,85,20,44,82,18,19,22,189,67,19,13,47,19,7,8,18,18,13,9,21,15,7,24,15,17,7,7,26,16,48,22,13,23,7,7,8,19,8,6,17,16,8,6,12,10,10,6,11,10,7,5
+[Auction "N"]
+1H 3H =1= Pass 3S 
+Pass 4C Pass Pass 
+Pass 
+[Note "1: ask for H stop"]
+[Play "S"]
+H9 H3 HQ H8 
+H4 H5 HA HJ 
+D2 H7 HK CQ 
+D6 D8 D4 DA 
+D9 C6 D5 D3 
+S7 S3 S8 SA 
+DT CJ DQ D7 
+S2 S4 SK C5 
+CT S5 C3 CA 
+S9 S6 C4 CK 
+ST SJ C9 C8 
+DJ HT H2 C2 
+DK SQ H6 C7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "17"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K8.AKQ62.Q54.943 A.J8.A73.AKQ8752 T972.94.KJT962.T QJ6543.T753.8.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "45592455929763a9763a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  9
+N  C  2
+S NT  4
+S  S  5
+S  H  5
+S  D  9
+S  C  2
+E NT  9
+E  S  7
+E  H  6
+E  D  3
+E  C 10
+W NT  9
+W  S  7
+W  H  6
+W  D  3
+W  C 10
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 20,2,0,2052,224,263,288,53,54,134,20,35,26,91,28,20,28,19,12,10,36,551,66,18,187,32,8,9,10,27,23,20,13,23,11,31,10,19,16,24,15,12,35,18,22,10,7,10,8,30,9,8,32,14,8,12,14
+[Auction "N"]
+1H 3H =1= Pass 4S 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: ask stop"]
+[Play "S"]
+H9 H3 HQ H8 
+H4 H5 HA HJ 
+DJ H7 H6 CQ 
+D2 D8 D4 DA 
+D6 C6 D5 D3 
+ST S3 S8 SA 
+D9 CJ DQ D7 
+S2 S4 SK C7 
+CT S5 C3 CA 
+S7 S6 C4 CK 
+S9 SJ C9 C8 
+-  -  HK -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "18"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:8.QJT8652.T953.A J62.3.KJ864.9642 AQT943.K4.7.KQJ5 K75.A97.AQ2.T873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "69b6669b666427764277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 11
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H 11
+S  D  6
+S  C  6
+E NT  6
+E  S  4
+E  H  2
+E  D  7
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,1,4,45,84,36,618,71,49,32,48,51,151,17,74,57,63,31,111,73,9,67,18,27,18
+[Auction "E"]
+Pass 1S Pass 2H 
+Pass 3C Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+D6 D7 DA D5 
+H3 HK HA H5 
+D4 -  H7 HQ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "18"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:8.QJT8652.T953.A J62.3.KJ864.9642 AQT943.K4.7.KQJ5 K75.A97.AQ2.T873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "69b6669b666427764277"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 11
+N  D  6
+N  C  6
+S NT  6
+S  S  9
+S  H 11
+S  D  6
+S  C  6
+E NT  6
+E  S  4
+E  H  2
+E  D  7
+E  C  7
+W NT  6
+W  S  4
+W  H  2
+W  D  7
+W  C  7
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,0,58,61,438,93,229,152,62,50,65,113,193,19,38,95,27,48,10,35,40,42,9,292,42,32,21,21,20,16,1201,17
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+S5 S8 SJ SQ 
+S7 H2 S2 SA 
+SK H5 S6 ST 
+C8 CA C6 C5 
+HA H6 H3 HK 
+C3 -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "19"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:854.AQ73.K6.AQ85 KQ.954.Q872.JT63 J7.J862.AJT543.2 AT9632.KT.9.K974"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "75ba575ba54612846228"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D 10
+N  C  5
+S NT  7
+S  S  5
+S  H 11
+S  D 10
+S  C  5
+E NT  4
+E  S  6
+E  H  1
+E  D  2
+E  C  8
+W NT  4
+W  S  6
+W  H  2
+W  D  2
+W  C  8
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 11,1,4,79,40,107,81,301,68,193,34,54,35,36,63,134,82,79,11,27,28,20,12,25,10,23,17,24,28,28,7,128,28,24,37,14,29,19,13,14,20,22,22,16,13,19,61,26,36,8,23,14
+[Auction "S"]
+Pass 1S X 1NT 
+2D 2S Pass Pass 
+3D Pass Pass Pass 
+[Play "W"]
+C4 CA C3 C2 
+D9 DK D2 D3 
+S2 D6 D8 DT 
+S3 S4 D7 DA 
+HT HQ H5 H2 
+C7 C5 CT D4 
+HK HA H4 H6 
+C9 H3 H9 HJ 
+S6 H7 DQ H8 
+-  -  SK -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "19"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:854.AQ73.K6.AQ85 KQ.954.Q872.JT63 J7.J862.AJT543.2 AT9632.KT.9.K974"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "75ba575ba54612846228"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H 11
+N  D 10
+N  C  5
+S NT  7
+S  S  5
+S  H 11
+S  D 10
+S  C  5
+E NT  4
+E  S  6
+E  H  1
+E  D  2
+E  C  8
+W NT  4
+W  S  6
+W  H  2
+W  D  2
+W  C  8
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,0,98,89,112,117,174,84,597,179,61,37,53,27,175,99,138,18,25,29,312,46,49,32,256,224,1027,35,80,37,115,25,22,13,31,25,21,19,13,25,38,22,31,30,23,20,30,17,11,32
+[Auction "S"]
+Pass 1S X Pass 
+3D Pass 3S =1= X 
+4H Pass Pass Pass 
+[Note "1: stop ask"]
+[Play "W"]
+S2 S4 SQ S7 
+SA S5 SK SJ 
+ST S8 H9 HJ 
+C4 CQ C6 C2 
+C7 C5 CT H2 
+D9 DK D7 D3 
+CK C8 C3 H6 
+HT HQ H4 H8 
+HK HA H5 D4 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "20"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQJT4.A43.84.AJ3 K653.T852.K63.T8 8.KJ96.JT.KQ9642 972.Q7.AQ9752.75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3DX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "7aa6b7aa6b2326023260"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  6
+N  C 11
+S NT  7
+S  S 10
+S  H 10
+S  D  6
+S  C 11
+E NT  2
+E  S  3
+E  H  2
+E  D  6
+E  C  0
+W NT  2
+W  S  3
+W  H  2
+W  D  6
+W  C  0
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 11,1,4,131,77,143,213,30,74,28,42,179,22,24,53,35,18,8,211,27,40,40,339,21,18,13,23,19,30,12,14,17,14,14,223,20,8,25,41,114,8,17,81,23,20,11,64,22,5,8,13,14,8,12
+[Auction "W"]
+2D =1= 2S 3D X =2= 
+Pass Pass Pass 
+[Note "1: Weak"]
+[Note "2: values i hope"]
+[Play "N"]
+D8 D3 DJ DQ 
+D4 DK DT D2 
+HA H2 H6 HQ 
+C3 C8 CQ C5 
+H4 H5 HJ H7 
+CJ CT C2 C7 
+SA S3 S8 S9 
+SQ SK C4 S2 
+H3 HT HK D7 
+ST S5 C6 S7 
+SJ S6 C9 D5 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "20"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AQJT4.A43.84.AJ3 K653.T852.K63.T8 8.KJ96.JT.KQ9642 972.Q7.AQ9752.75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "7aa6b7aa6b2326023260"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  6
+N  C 11
+S NT  7
+S  S 10
+S  H 10
+S  D  6
+S  C 11
+E NT  2
+E  S  3
+E  H  2
+E  D  6
+E  C  0
+W NT  2
+W  S  3
+W  H  2
+W  D  6
+W  C  0
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 14,2,0,183,128,44,102,41,105,22,77,62,61,28,171,299,38,37,196,30,14,8,34,21,25,14,53,24,15,12,37,11,20,10,33,51,66,22
+[Auction "W"]
+Pass 1NT =1= Pass 2C 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+H5 H9 HQ HA 
+C8 C2 C5 CA 
+CT C4 C7 CJ 
+H2 HJ H7 H4 
+H8 HK D2 H3 
+S3 CK D5 C3 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "21"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT42.Q.A92.KJT93 7.T962.JT76.8752 AQ953.AJ753.5.Q6 K86.K84.KQ843.A4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7b8597b8595247352473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  8
+N  D  5
+N  C  9
+S NT  7
+S  S 11
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  2
+E  H  4
+E  D  7
+E  C  3
+W NT  5
+W  S  2
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,1,4,321,74,103,47,98,52,476,258,287,38,34,36,25,38,134,154,20,21,28,39,13,73,145,38,16,47,68,18,17,15,17,15,13,14,36
+[Auction "N"]
+2C =1= Pass 2D =2= X 
+2S Pass 4D =3= Pass 
+4H Pass 4S Pass 
+Pass Pass 
+[Note "1: 5C + 4cM or 6C"]
+[Note "2: asking"]
+[Note "3: splinter for S"]
+[Play "E"]
+DJ D5 D4 DA 
+S7 S3 SK SJ 
+D6 SA S6 S2 
+D7 SQ S8 S4 
+C2 CQ CA C3 
+-  -  C4 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "21"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT42.Q.A92.KJT93 7.T962.JT76.8752 AQ953.AJ753.5.Q6 K86.K84.KQ843.A4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7b8597b8595247352473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 11
+N  H  8
+N  D  5
+N  C  9
+S NT  7
+S  S 11
+S  H  8
+S  D  5
+S  C  9
+E NT  5
+E  S  2
+E  H  4
+E  D  7
+E  C  3
+W NT  5
+W  S  2
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 18,2,0,142,35,59,264,72,208,167,126,48,19,26,171,24,43,115,30,20,23,33,18,111,27,16,59,12,7,17,11,18,7
+[Auction "N"]
+1C Pass 1S 2D 
+2S 4D 4S Pass 
+Pass Pass 
+[Play "W"]
+DK DA DJ D5 
+S6 SJ S7 S3 
+S8 S2 D6 SA 
+C4 C3 C5 CQ 
+CA C9 C2 C6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "22"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q74.972.763.T932 A2.J6.AKJT5.KQJ7 KJT63.KT43.4.854 985.AQ85.Q982.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS -640"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "1520115201c8adcc8adc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  2
+N  D  0
+N  C  1
+S NT  1
+S  S  5
+S  H  2
+S  D  0
+S  C  1
+E NT 12
+E  S  8
+E  H 10
+E  D 13
+E  C 12
+W NT 12
+W  S  8
+W  H 10
+W  D 13
+W  C 12
+[OptimumScore "NS -2000"]
+[Competition "Teams"]
+% RBDATA 21,1,4,333,119,98,81,581,37,37,36,209,44,279,157,234,28,149,44,276,382,41,16,38,35,19,21,70,69,12,7,83,30,22,7
+[Auction "E"]
+1C =1= Pass 2S =2= Pass 
+3D Pass 4D Pass 
+4S =3= X Pass Pass 
+5D Pass Pass Pass 
+[Note "1: ART 16+ or equiv (not 20-22 bal)"]
+[Note "2: 12-14, BAL"]
+[Note "3:  * cue [0:19]"]
+[Play "S"]
+D4 D2 D6 DT 
+S6 D8 D7 DK 
+S3 D9 D3 DJ 
+HK HA H2 HJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "22"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q74.972.763.T932 A2.J6.AKJT5.KQJ7 KJT63.KT43.4.854 985.AQ85.Q982.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -1370"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "1520115201c8adcc8adc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  5
+N  H  2
+N  D  0
+N  C  1
+S NT  1
+S  S  5
+S  H  2
+S  D  0
+S  C  1
+E NT 12
+E  S  8
+E  H 10
+E  D 13
+E  C 12
+W NT 12
+W  S  8
+W  H 10
+W  D 13
+W  C 12
+[OptimumScore "NS -2000"]
+[Competition "Teams"]
+% RBDATA 25,2,0,161,224,120,130,332,80,233,42,356,63,535,47,112,56,102,39,1953,67,268,129,81,27,21,31,8,10,19,8,11,16,18,17,10,9,17,82,14,7,45,48,24,13
+[Auction "E"]
+2C =1= 3S X Pass 
+4D Pass 4NT Pass 
+5D Pass 5S Pass 
+5NT Pass 6C Pass 
+Pass Pass 
+[Note "1: Alerted"]
+[Play "S"]
+D4 D2 D6 DJ 
+C4 CA C2 C7 
+C5 C6 C3 CQ 
+C8 S5 C9 CK 
+S3 S8 CT CJ 
+HK HA H2 HJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "23"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQJ72.AJ7..A5432 865.962.K976.J96 T.KQT3.AJ8543.QT K943.854.QT2.K87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "abbabbbbbb2212222122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 11
+N  D 10
+N  C 11
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C 11
+E NT  2
+E  S  2
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  2
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,1,4,180,33,86,53,67,28,140,66,42,31,54,26,25,151,34,27,14,73,292,26,20,14,10,16,20,14,11,9,67,119,15,22,38,149,17,10,13,142,11,37,111,24,32,24,16,97,10,35,22,47,9,177,20,18,8,6,19,16,16,9,8,5,8,6
+[Auction "S"]
+1D =1= Pass 1S Pass 
+2D Pass 3C Pass 
+3NT Pass Pass Pass 
+[Note "1: 10-15 2+D"]
+[Play "W"]
+H5 H7 H9 HQ 
+SK SA S6 ST 
+S3 SQ S5 D3 
+S4 SJ S8 D4 
+S9 S2 D7 D5 
+H8 HA H2 H3 
+C7 S7 D6 D8 
+CK C2 C9 CT 
+H4 HJ H6 HK 
+C8 C3 D9 HT 
+D2 C4 DK DA 
+DT CA C6 CQ 
+DQ C5 CJ DJ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "23"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQJ72.AJ7..A5432 865.962.K976.J96 T.KQT3.AJ8543.QT K943.854.QT2.K87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "abbabbbbbb2212222122"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 11
+N  H 11
+N  D 10
+N  C 11
+S NT 11
+S  S 11
+S  H 11
+S  D 11
+S  C 11
+E NT  2
+E  S  2
+E  H  1
+E  D  2
+E  C  2
+W NT  2
+W  S  2
+W  H  1
+W  D  2
+W  C  2
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,2,0,111,42,101,34,164,128,288,70,93,39,28,61,269,396,26,72,26,211,34,9,20,20,10,20,54,20,12,34,22,52,16,124,18,93,11,22,46,29,21,13,45,29,16,38,19,53,18,246,36,21,14,7,72,40,11,7,11,16,8,10,9,33,6,9
+[Auction "S"]
+1D Pass 1S Pass 
+2D Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H8 H7 H9 HQ 
+SK SA S5 ST 
+S4 SQ S6 D3 
+S3 SJ S8 D4 
+S9 S2 H6 D5 
+H5 HA H2 H3 
+H4 S7 D7 D8 
+C7 HJ D6 HK 
+C8 C2 D9 HT 
+D2 C3 DK DA 
+DQ C4 C6 DJ 
+DT C5 C9 CT 
+CK CA CJ CQ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "24"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q4.73.862.AT6432 T95.K8.KQT543.J5 AKJ32.AJ9652.9.Q 876.QT4.AJ7.K987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7aa587aa586236462364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  5
+N  C  8
+S NT  7
+S  S 10
+S  H 10
+S  D  5
+S  C  8
+E NT  6
+E  S  2
+E  H  3
+E  D  6
+E  C  4
+W NT  6
+W  S  2
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,4,46,59,53,241,45,43,19,55,61,21,20,18,12,153,33,498,25,16,23,32,20,8,5,91,27,8,14,65
+[Auction "W"]
+Pass 3C Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+S7 SQ ST S2 
+HT H3 H8 H9 
+S8 S4 S5 SA 
+H4 H7 HK HA 
+HQ C2 D3 H2 
+DA -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "24"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q4.73.862.AT6432 T95.K8.KQT543.J5 AKJ32.AJ9652.9.Q 876.QT4.AJ7.K987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7aa587aa586236462364"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S 10
+N  H 10
+N  D  5
+N  C  8
+S NT  7
+S  S 10
+S  H 10
+S  D  5
+S  C  8
+E NT  6
+E  S  2
+E  H  3
+E  D  6
+E  C  4
+W NT  6
+W  S  2
+W  H  3
+W  D  6
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,72,53,74,67,508,118,45,131,63,35,63,138,95,8,33,43,48,8,41,401,36,14,19,19,19,31,22,236,26,21,63,130,23,9,8,220,38,9,15
+[Auction "W"]
+Pass Pass 1D 2D 
+2S =1= Pass 3D 4H 
+Pass Pass Pass 
+[Note "1: diamond support ,9+hp"]
+[Play "W"]
+DA D2 D3 D9 
+DJ D6 DQ H2 
+S6 SQ S5 S3 
+HQ H3 H8 HJ 
+D7 D8 DT H5 
+H4 H7 HK HA 
+S7 S4 S9 SA 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "25"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q843.J7.KQ85.T53 952.KQ93.732.KJ6 AT6.A.AJT6.Q9742 KJ7.T86542.94.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "6959a6959a5483354833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  9
+N  C 10
+S NT  6
+S  S  9
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  4
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  4
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 5,1,3,570,34,165,46,95,55,208,26,391,112,87,117,115,24,23,19,14,15,11,23,37,25,82,29,17,21,58,18,17,17,17,30,22,16,79,27,9,7,10,14,12,68,70,24,9,6,9,15,17,8,16,26,11,11,17,15,8,14,8,12,14,8
+[Auction "N"]
+Pass Pass 1D =1= Pass 
+1S Pass 2C =2= Pass 
+Pass Pass 
+[Note "1: 10-15 2+D"]
+[Note "2: C as long as or longer than D"]
+[Play "W"]
+H8 H7 HQ HA 
+D4 DK D2 D6 
+CA C3 C6 C9 
+H6 HJ HK C2 
+D9 DQ D3 DT 
+C8 CT CJ CQ 
+H4 D5 D7 DJ 
+H2 D8 H3 DA 
+S7 S3 S2 SA 
+SK S4 S5 S6 
+SJ SQ S9 ST 
+H5 C5 CK C4 
+HT S8 H9 C7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "25"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q843.J7.KQ85.T53 952.KQ93.732.KJ6 AT6.A.AJT6.Q9742 KJ7.T86542.94.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "6959a6959a5483354833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  5
+N  D  9
+N  C 10
+S NT  6
+S  S  9
+S  H  5
+S  D  9
+S  C 10
+E NT  5
+E  S  4
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  4
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 21,2,0,159,89,51,404,102,202,95,84,141,33,298,49,34,29,38,106,25,29,140,37,15,9,32,27,37,30,19,303,31,62,88,31,20,9,12,31,33,14,26,25,13,12
+[Auction "N"]
+Pass Pass 1C 1H 
+X 2NT =1= 3D 3H 
+4D Pass 5D Pass 
+Pass Pass 
+[Note "1: 4+hearts"]
+[Play "W"]
+H6 H7 HQ HA 
+D4 DK D2 DJ 
+CA C3 C6 C9 
+S7 S3 S2 ST 
+D9 D5 D3 DA 
+H2 DQ D7 D6 
+C8 CT CK C2 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "26"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:85.A7.AQJ65.Q753 Q6.QJ862.843.AT9 AT42.T94.97.J864 KJ973.K53.KT2.K2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "65588655886784467854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  8
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  4
+E  C  4
+W NT  6
+W  S  7
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,2,0,87,48,91,77,55,51,19,42,40,112,161,31,24,31,48,30,36,27,8,7,10,77,11,36,20,17,10,7,23,27,18,131,89,25,25,8,18,6,30,20,23,29,15,7,38,22,8,13,10,22
+[Auction "E"]
+Pass Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+HT H3 HA H2 
+D9 DK DQ D3 
+H4 HK H7 H6 
+H9 H5 S5 HQ 
+ST S3 C3 HJ 
+S2 S7 C5 H8 
+C6 CK C7 CT 
+C4 C2 CQ CA 
+SA S9 S8 SQ 
+CJ SJ D5 C9 
+D7 D2 -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "26"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:85.A7.AQJ65.Q753 Q6.QJ862.843.AT9 AT42.T94.97.J864 KJ973.K53.KT2.K2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "65588655886784467854"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  8
+N  C  8
+S NT  6
+S  S  5
+S  H  5
+S  D  8
+S  C  8
+E NT  6
+E  S  7
+E  H  8
+E  D  4
+E  C  4
+W NT  6
+W  S  7
+W  H  8
+W  D  5
+W  C  4
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 12,1,3,402,35,24,536,127,180,76,91,37,94,69,40,59,34,24,105,54,15,85,26,20,17,16,37,30,18,18,25,754,30,212,305,22,84,21,25,12,32,13,17,12,11,46,33,10,18,8,37
+[Auction "E"]
+Pass Pass 1S 2C =1= 
+2H Pass Pass X 
+Pass 3C 3H Pass 
+Pass Pass 
+[Note "1: 44+ C & D 6+hcp"]
+[Play "S"]
+D9 DT DJ D4 
+SA S3 S8 S6 
+D7 D2 DQ D8 
+CJ DK DA D3 
+C4 C2 C3 C9 
+H4 H3 HA HJ 
+C6 CK C5 CT 
+H9 HK H7 H2 
+-  H5 D5 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "27"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T4.T864.T63.Q765 KQ86.AK9.Q52.K42 972.QJ32.87.AT83 AJ53.75.AKJ94.J9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "2152521525bc7b7bc7b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  5
+S  D  2
+S  C  5
+E NT 11
+E  S 12
+E  H  7
+E  D 11
+E  C  7
+W NT 11
+W  S 12
+W  H  7
+W  D 11
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 28,2,0,55,66,59,37,38,81,128,164,56,131,61,51,49,48,36,707,65,38,37,34,44,20,33,29,71,36,21,148,39,14,18,15,13,13,41,144,52,15,585,25,45,12,19,58,17,8,33,9,114,10,34,15,122,12,16,10,7,9,128,13,16,18,18,22
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 3S Pass 3NT =1= 
+Pass 4D Pass 4H 
+Pass 4S Pass 4NT 
+Pass 5H Pass 6S 
+Pass Pass Pass 
+[Note "1: bal slam try"]
+[Play "S"]
+H2 H5 HT HK 
+S7 SA S4 S6 
+S2 S3 ST SQ 
+S9 S5 C5 SK 
+D8 DK D3 D2 
+D7 D4 D6 DQ 
+C8 DA DT D5 
+C3 DJ H4 C2 
+CT D9 C6 C4 
+CA CJ C7 CK 
+HQ -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "27"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T4.T864.T63.Q765 KQ86.AK9.Q52.K42 972.QJ32.87.AT83 AJ53.75.AKJ94.J9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "2152521525bc7b7bc7b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  5
+N  D  2
+N  C  5
+S NT  2
+S  S  1
+S  H  5
+S  D  2
+S  C  5
+E NT 11
+E  S 12
+E  H  7
+E  D 11
+E  C  7
+W NT 11
+W  S 12
+W  H  7
+W  D 11
+W  C  7
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,1,3,49,256,62,28,41,63,44,387,33,30,31,29,25,27,26,69,30,17,137,38,14,26,34,7,18,8,31,23,11,43,85,16,10,16,17,8,28,12,17,10,10,14,23,9,5,17,39,11,11,8,7,13,18,31,20,7,21,7,20,8,6,12,13,9,19,8,8,6,8
+[Auction "S"]
+Pass 1D =1= Pass 1S 
+Pass 3S Pass 4C 
+Pass 4D Pass 4H 
+Pass 4S Pass Pass 
+Pass 
+[Note "1:  * may be 1 [0:07]"]
+[Play "S"]
+HQ H5 H4 HA 
+S2 S3 ST SK 
+S9 SJ S4 S6 
+S7 S5 H6 SQ 
+D7 DA D3 D2 
+D8 D4 DT DQ 
+C8 DK D6 D5 
+H2 DJ C5 C2 
+C3 D9 C6 C4 
+H3 H7 H8 HK 
+HJ SA HT H9 
+CA C9 C7 CK 
+CT CJ CQ S8 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "28"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q9.K643.Q986.Q84 A762.Q975.KT.AK3 43.AJT.AJ752.962 KJT85.82.43.JT75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "43784437845965959659"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  8
+N  C  4
+S NT  4
+S  S  3
+S  H  7
+S  D  8
+S  C  4
+E NT  5
+E  S  9
+E  H  6
+E  D  5
+E  C  9
+W NT  5
+W  S  9
+W  H  6
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,508,97,37,46,34,36,11,344,65,10,435,32,21,11,50,21,21,15,30,22,9,13,60,51,27,35,278,24,36,27,92,27,15,10,13,14,26,33
+[Auction "W"]
+2S =1= Pass 4S Pass 
+Pass Pass 
+[Note "1: 5sp and a minor suit,no opening"]
+[Play "N"]
+D6 DK DA D4 
+H6 H5 HA H8 
+DQ DT D5 D3 
+HK H7 HJ H2 
+H3 H9 HT S5 
+C4 C3 C2 CJ 
+S9 SA S3 S8 
+SQ S2 S4 ST 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "28"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:Q9.K643.Q986.Q84 A762.Q975.KT.AK3 43.AJT.AJ752.962 KJT85.82.43.JT75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "43784437845965959659"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  3
+N  H  7
+N  D  8
+N  C  4
+S NT  4
+S  S  3
+S  H  7
+S  D  8
+S  C  4
+E NT  5
+E  S  9
+E  H  6
+E  D  5
+E  C  9
+W NT  5
+W  S  9
+W  H  6
+W  D  5
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,1,3,98,89,164,33,89,56,219,31,38,198,28,30,12,19,20,80,38,26,137,44,32,26,559,22,19,20,71,27,8,31,487,29,8,40,18,16,11,8,216,29,17,24,101,35,15,27,25,19,8,30,29,19,58,21
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+2H =2= Pass 2NT Pass 
+3H =3= Pass 3S Pass 
+Pass Pass 
+[Note "1: 14-16"]
+[Note "2:  * spades [0:05]"]
+[Note "3:  * retransfer [0:07]"]
+[Play "S"]
+S4 SJ S9 S2 
+HT H2 H6 H9 
+D2 D3 DQ DK 
+S3 S5 SQ SA 
+HJ H8 H3 H5 
+DA D4 D6 DT 
+HA S8 H4 H7 
+C2 C5 C4 CA 
+D5 ST HK HQ 
+C6 CJ C8 C3 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "29"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T8652.Q542.KJ9.9 Q7.AT3.QT.QJT753 K9.97.A8753.K842 AJ43.KJ86.642.A6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "56473565738786a8785a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  7
+N  C  3
+S NT  5
+S  S  6
+S  H  5
+S  D  7
+S  C  3
+E NT  8
+E  S  7
+E  H  8
+E  D  6
+E  C 10
+W NT  8
+W  S  7
+W  H  8
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 14,1,3,99,220,43,22,39,116,47,28,44,17,29,62,156,26,16,45,34,16,31,298,23,10,24,18,22,21,34,14,19,15,23,24,145,23,18,55,41,13,13,14,15,16,8,121,44,21,17,45,46,12,8,14,40,9,6,11,18,18,7,8,18,7,12
+[Auction "N"]
+Pass 2C =1= Pass 2D =2= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: 11-15 pts, 6C or 5C+M"]
+[Note "2:  * relay [0:05]"]
+[Play "N"]
+S2 S7 SK SA 
+C9 CJ C2 C6 
+S5 SQ S9 S3 
+H4 HA H7 H6 
+HQ HT H9 H8 
+ST C5 C4 SJ 
+H2 H3 D8 HK 
+H5 C3 D3 HJ 
+D9 C7 C8 CA 
+DK DT D5 D2 
+S8 CT D7 S4 
+S6 CQ CK D4 
+DJ DQ DA D6 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "29"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T8652.Q542.KJ9.9 Q7.AT3.QT.QJT753 K9.97.A8753.K842 AJ43.KJ86.642.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "56473565738786a8785a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  4
+N  D  7
+N  C  3
+S NT  5
+S  S  6
+S  H  5
+S  D  7
+S  C  3
+E NT  8
+E  S  7
+E  H  8
+E  D  6
+E  C 10
+W NT  8
+W  S  7
+W  H  8
+W  D  5
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,2,0,96,36,60,41,74,30,257,39,44,42,48,178,40,34,47,99,27,21,33,98,364,15,45,525,24,27,49,895,43,18,15,473,39,8,12,22,77,85,18,985,28,18,19,124,32,20,8,35,28,7,12,171,29,44,48,10,27,15,8,24,12,8,14,8,9,14,10,16,6,7,10
+[Auction "N"]
+Pass 1C 1D X =1= 
+2D X Pass 2S 
+Pass 3C Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1:  * hearts [0:14]"]
+[Play "S"]
+SK SA S2 S7 
+H7 H6 H2 HT 
+C2 C6 C9 CQ 
+C4 CA H4 C3 
+DA D2 D9 DT 
+D5 D4 DK DQ 
+D7 D6 DJ H3 
+H9 H8 H5 HA 
+C8 S3 HQ CJ 
+S9 S4 S5 SQ 
+CK HJ S6 C5 
+D3 HK S8 C7 
+D8 SJ ST CT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "30"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A64.J653.T6.AQT9 T73.A7.AK98.K653 KJ82.K8.Q543.J72 Q95.QT942.J72.84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78668776686577565765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  6
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 7,1,3,206,41,35,36,26,40,19,37,94,209,13,15,22,23,15,9,63,24,6,20,17,21,20,10,53,166,36,18,715,34,20,23,73,76,29,11,25,20,8,27,42,80,24,17,13,77,20,142,19,12,20,21,14,21,11,14,8,8,7,11
+[Auction "E"]
+1NT =1= Pass 2D =2= Pass 
+2H Pass Pass Pass 
+[Note "1: 14-16"]
+[Note "2:  * hearts [0:05]"]
+[Play "S"]
+C2 C4 CA C3 
+C7 C8 CT CK 
+H8 H2 H3 HA 
+HK H4 H5 H7 
+CJ H9 C9 C5 
+DQ D2 D6 D9 
+D3 DJ DT D8 
+S2 HQ H6 C6 
+D5 D7 HJ DA 
+D4 HT CQ S3 
+SJ S5 S4 ST 
+S8 S9 SA S7 
+SK SQ S6 DK 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "30"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:A64.J653.T6.AQT9 T73.A7.AK98.K653 KJ82.K8.Q543.J72 Q95.QT942.J72.84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78668776686577565765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  6
+N  C  8
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  8
+E NT  6
+E  S  5
+E  H  7
+E  D  7
+E  C  5
+W NT  6
+W  S  5
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 8,2,0,75,95,146,213,50,67,212,69,49,38,155,29,19,70,44,9,22,23,25,69,11,17,13,92,12,39,42,14,28,28,12,23,9,56,16,29,20,96,40,23,21,31,29,10,7
+[Auction "E"]
+1C 1S Pass 2C =1= 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: spade raise"]
+[Play "W"]
+C8 CQ CK C7 
+H2 H3 HA H8 
+D7 D6 DK D3 
+D2 DT DA D4 
+H4 H5 H7 HK 
+S5 SA S3 S2 
+SQ S4 S7 SJ 
+C4 C9 C3 CJ 
+S9 S6 ST SK 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "31"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:974.K85.T42.AK84 J653.AT9763.9.T2 82.Q.AJ85.QJ9753 AKQT.J42.KQ763.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "73368733685aa755aa75"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  6
+N  C  8
+S NT  7
+S  S  3
+S  H  3
+S  D  6
+S  C  8
+E NT  5
+E  S 10
+E  H 10
+E  D  7
+E  C  5
+W NT  5
+W  S 10
+W  H 10
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,482,79,401,298,42,134,96,20,39,24,51,93,35,477,33,22,14,18,46,14,137,22,38,17,32,21,54,26,31,13,24,8,10
+[Auction "S"]
+2C =1= X XX =2= 3H 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 6+C or 5+ Major 10-15"]
+[Note "2: 8+"]
+[Play "S"]
+CQ C6 C4 CT 
+DA D3 D2 D9 
+D5 DK D4 C2 
+HQ H2 H5 HA 
+C3 HJ HK H3 
+C5 D6 CA H6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "31"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:974.K85.T42.AK84 J653.AT9763.9.T2 82.Q.AJ85.QJ9753 AKQT.J42.KQ763.6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "73368733685aa755aa75"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  3
+N  D  6
+N  C  8
+S NT  7
+S  S  3
+S  H  3
+S  D  6
+S  C  8
+E NT  5
+E  S 10
+E  H 10
+E  D  7
+E  C  5
+W NT  5
+W  S 10
+W  H 10
+W  D  7
+W  C  5
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 20,2,0,137,66,215,193,144,145,35,25,28,23,97,18,15,15,15,11,10,15,20,8,15,236,29,16,19,24,54,105,13,145,48,61,20,22,39,20,7,93,22
+[Auction "S"]
+1C X 2NT =1= 4H 
+5C X Pass Pass 
+Pass 
+[Note "1: good club raise"]
+[Play "W"]
+SA S4 S6 S2 
+SK S7 S3 S8 
+SQ S9 S5 C5 
+H2 H5 HA HQ 
+DK D2 D9 D5 
+C6 C4 CT CQ 
+D6 CA C2 C7 
+-  D4 H3 -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "32"]
+[West "David Jones#32640"]
+[North "Robert Plumley#33074"]
+[East "Miles Cowling#18302"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:8543.KJ973.A9.42 6.Q8.J85432.AT65 AKJ9.T5.QT7.9873 QT72.A642.K6.KQJ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "68756687567558775587"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  8
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  5
+E  H  5
+E  D  8
+E  C  7
+W NT  7
+W  S  5
+W  H  5
+W  D  8
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,1,3,79,48,356,32,105,35,94,28,132,283,30,15,25,41,15,7,10,23,28,64,64,32,11,19,39,21,11,34,106,17,17,14,104,18,33,13,56,47,25,41,77
+[Auction "W"]
+1NT =1= Pass 2NT =2= Pass 
+3D =3= Pass Pass Pass 
+[Note "1:  * 14-16 [0:06]"]
+[Note "2: xfer to D"]
+[Note "3:  * not a fit [0:15]"]
+[Play "N"]
+C4 C5 C9 CQ 
+HK H8 H5 H2 
+C2 C6 C8 CJ 
+H3 HQ HT H4 
+DA D3 D7 DK 
+S3 S6 SK S2 
+D9 CT C3 CK 
+H7 CA DT HA 
+-  -  DQ -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "32"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:8543.KJ973.A9.42 6.Q8.J85432.AT65 AKJ9.T5.QT7.9873 QT72.A642.K6.KQJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "68756687567558775587"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  7
+N  D  5
+N  C  6
+S NT  6
+S  S  8
+S  H  7
+S  D  5
+S  C  6
+E NT  7
+E  S  5
+E  H  5
+E  D  8
+E  C  7
+W NT  7
+W  S  5
+W  H  5
+W  D  8
+W  C  7
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,2,0,215,106,320,175,126,39,95,104,20,28,32,86,18,9,31,44,39,19,77,21,27,8,17,25,21,25,68,31,58,8,14,43,6,6,9,21,19,42
+[Auction "W"]
+1NT Pass 2NT =1= Pass 
+3C Pass 3D =2= Pass 
+Pass Pass 
+[Note "1: 1 or both minore ,weak or gf"]
+[Note "2: to play"]
+[Play "S"]
+SK S2 S4 S6 
+HT H2 HK H8 
+H5 H4 H7 HQ 
+D7 DK DA D3 
+S9 S7 S3 D2 
+C8 CJ C4 C5 
+DQ D6 D9 DJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "33"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7.Q7432.T62.J52 93.J6.QJ754.QT63 JT864.KT8.3.K984 AQ52.A95.AK98.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "3562435624a87a8987a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  2
+N  C  4
+S NT  3
+S  S  5
+S  H  6
+S  D  2
+S  C  4
+E NT 10
+E  S  8
+E  H  7
+E  D 10
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,939,46,108,55,75,52,61,46,38,19,39,18,358,62,52,27,46,30,16,11,22,34,73,25,11,28,10,14,10,12,65,17,11,30,17,29,14,9,34,19,53,13,15,34,24,18,19,22,96,32,45,15,9,17,7
+[Auction "N"]
+Pass Pass 1S X 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H3 HJ HK H5 
+H2 H6 HT H9 
+H7 C3 H8 HA 
+D2 D4 D3 DA 
+D6 D5 C4 DK 
+DT DQ S4 D9 
+C2 DJ C8 D8 
+C5 D7 S6 S2 
+SK S3 ST SQ 
+HQ S9 C9 S5 
+H4 C6 CK C7 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "33"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K7.Q7432.T62.J52 93.J6.QJ754.QT63 JT864.KT8.3.K984 AQ52.A95.AK98.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "3562435624a87a8987a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  6
+N  D  2
+N  C  4
+S NT  3
+S  S  5
+S  H  6
+S  D  2
+S  C  4
+E NT 10
+E  S  8
+E  H  7
+E  D 10
+E  C  8
+W NT  9
+W  S  8
+W  H  7
+W  D 10
+W  C  8
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,1,4,400,617,432,335,188,118,32,74,121,26,29,20,184,36,23,191,33,21,25,236,42,52,28,363,22,55,25,17,129,16,13,169,19,13,9,42,10,59,16,108,26,13,51,102,64,14,15,18,22,25,14,20,22,21,18
+[Auction "N"]
+Pass Pass 2S =1= X 
+Pass 2NT =2= Pass 3NT 
+Pass Pass Pass 
+[Note "1: 5S, 4+C/D less than opening hand "]
+[Note "2: Leb"]
+[Play "S"]
+C4 C7 CJ CQ 
+S6 SQ SK S3 
+C8 CA C5 C3 
+HK H5 H2 HJ 
+SJ SA S7 S9 
+D3 DA D2 D4 
+C9 DK D6 D5 
+S4 D8 DT DQ 
+H8 D9 H3 DJ 
+HT S2 H4 D7 
+S8 HA H7 H6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "34"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q972.8765.54.Q84 KT5.QJ932.QT3.A3 J86.AKT.K872.K96 A43.4.AJ96.JT752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "46544465448779977799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  7
+E  H  7
+E  D  9
+E  C  9
+W NT  7
+W  S  7
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 14,2,0,115,117,283,68,30,113,141,291,24,39,44,671,25,8,17,23,23,44,21,55,18,14,58,42,128,25,326,71,11,101,71,16,162,54,251,69,8,13,16,8,9,53,18,7,11,13,265,17,17,30,19
+[Auction "E"]
+1H Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+SJ SA S7 S5 
+C6 C2 C4 CA 
+D2 D6 D5 DT 
+C9 C5 C8 C3 
+D7 D9 D4 D3 
+CK C7 CQ H2 
+D8 DA H5 DQ 
+HT CT H6 H3 
+S6 CJ H7 H9 
+S8 S3 S2 ST 
+-  -  -  SK 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "34"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q972.8765.54.Q84 KT5.QJ932.QT3.A3 J86.AKT.K872.K96 A43.4.AJ96.JT752"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "46544465448779977799"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  5
+N  D  4
+N  C  4
+S NT  4
+S  S  6
+S  H  5
+S  D  4
+S  C  4
+E NT  8
+E  S  7
+E  H  7
+E  D  9
+E  C  9
+W NT  7
+W  S  7
+W  H  7
+W  D  9
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,1,4,73,157,102,86,57,30,151,65,102,32,208,358,28,40,105,45,93,21,19,22,42,14,109,19,29,14,34,28,20,13,19,10,14,10,14,15,8,80,21,11,14,7,240,24,16,18,14,84,14,30,14,15,9,11,10,15,34,11,7,25,8,11
+[Auction "E"]
+1H X XX 1S 
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+S7 S5 S6 SA 
+H6 H9 HT H4 
+S2 ST SJ S3 
+S9 SK S8 S4 
+D5 DQ DK DA 
+D4 DT D2 D6 
+H5 D3 D7 D9 
+H7 H2 D8 DJ 
+C4 CA C6 CJ 
+C8 C3 CK C2 
+H8 H3 HA C5 
+SQ HJ HK C7 
+CQ HQ C9 CT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "35"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ3.AJ9.863.AQ62 94.8654.AKJ7.J74 K86.KT72.Q942.53 QT752.Q3.T5.KT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "a8aa9a8aa93533435334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S  8
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 4,2,0,56,92,161,83,154,98,39,743,26,7,265,75,27,52,65,28,12,9,37,19,10,16,13,216,27,11,24,23,20,73,37,24,14,38,13,34,79,7,59,12,7,9,12,8,12,8,20,30,10,12,9,14,18,6,12,8,6,8
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Play "E"]
+DA D2 D5 D6 
+C4 C3 CK CA 
+H5 H2 H3 HA 
+H4 H7 HQ HJ 
+C7 C5 CT C2 
+CJ D4 C9 CQ 
+H6 HT S5 H9 
+H8 HK S2 C6 
+S4 SK S7 S3 
+S9 S6 ST SA 
+DK D9 DT D3 
+D7 DQ C8 D8 
+DJ S8 SQ SJ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "35"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ3.AJ9.863.AQ62 94.8654.AKJ7.J74 K86.KT72.Q942.53 QT752.Q3.T5.KT98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "11"]
+[Score "NS 210"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "a8aa9a8aa93533435334"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  8
+N  H 10
+N  D 10
+N  C  9
+S NT 10
+S  S  8
+S  H 10
+S  D 10
+S  C  9
+E NT  3
+E  S  5
+E  H  3
+E  D  3
+E  C  4
+W NT  3
+W  S  5
+W  H  3
+W  D  3
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 4,1,4,54,37,121,33,127,81,63,238,14,27,458,42,13,36,237,30,33,20,10,16,17,29,32,13,9,13,319,39,19,10,72,24,29,26,64,17,17,7,42,38,23,8,29,31,13,6,85,16,10,10,20,7,26,36,16,6,10,5
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 14 16"]
+[Play "E"]
+DA D2 D5 D6 
+C4 C5 CK CA 
+H4 HK H3 H9 
+H5 H2 HQ HA 
+H6 H7 S2 HJ 
+DK D4 DT D3 
+CJ C3 CT CQ 
+D7 D9 S5 D8 
+DJ DQ C8 C2 
+H8 HT C9 C6 
+S9 SK S7 S3 
+S4 S8 ST SJ 
+C7 S6 SQ SA 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "36"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q962.95.KT97.A93 AJ85.AKT8.AJ3.76 74.J763.Q8.KQ852 KT3.Q42.6542.JT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44456444568988689885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  9
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  9
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 4,2,0,62,45,69,50,26,66,81,78,36,19,11,18,30,9,12,9,10,55,17,14,34,65,36,14,8,8,67,22,31,11,18,24,7,8,8,12,9,112,217,21,9,39,10,11,20,18,18,13,8,9,9,12,7,9,7,9,6,6
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "S"]
+C5 CT CA C7 
+CQ C4 C9 C6 
+CK CJ C3 D3 
+C8 D2 S2 S5 
+C2 D4 H5 DJ 
+DQ D5 D9 DA 
+H3 H2 H9 HK 
+H6 HQ D7 H8 
+S7 SK S6 S8 
+S4 S3 S9 SJ 
+D8 ST SQ SA 
+H7 H4 DT HA 
+HJ D6 DK HT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "36"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q962.95.KT97.A93 AJ85.AKT8.AJ3.76 74.J763.Q8.KQ852 KT3.Q42.6542.JT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44456444568988689885"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  5
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  5
+S  C  6
+E NT  8
+E  S  9
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  9
+W  H  8
+W  D  8
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,4,47,50,259,43,113,60,118,40,41,60,23,20,19,297,50,22,14,22,20,13,19,43,8,35,22,22,67,52,25,23,8,32,31,28,9,18,85,22,16,46,109,20,18,102,30,25,11,6,23,23,12,11,15,10,8,19,25,20,6,46,7,10,6,7
+[Auction "W"]
+Pass Pass 1C =1= Pass 
+1D =2= Pass 1NT =3= Pass 
+3NT Pass Pass Pass 
+[Note "1: ART 16+ or equiv (not 20-22 bal)"]
+[Note "2: 0-7 any"]
+[Note "3: 18-19"]
+[Play "S"]
+C2 CJ CA C6 
+CQ C4 C9 C7 
+CK CT C3 D3 
+C8 D2 H5 DJ 
+C5 D4 H9 S5 
+D8 D5 DK DA 
+H3 H2 S2 HA 
+H6 H4 D7 HT 
+H7 HQ D9 H8 
+S4 SK S6 S8 
+S7 S3 S9 SJ 
+HJ D6 SQ HK 
+DQ ST DT SA 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "37"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:643.AQJ.T752.982 AQ97.4.AK986.A63 52.KT98653.3.QT4 KJT8.72.QJ4.KJ75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "00700007006c6cc6c6cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  7
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  7
+S  D  0
+S  C  0
+E NT  6
+E  S 12
+E  H  6
+E  D 12
+E  C 12
+W NT  6
+W  S 12
+W  H  6
+W  D 12
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,2,0,66,54,57,32,212,38,93,870,37,30,68,21,134,16,7,89,33,35,22,17,22,10,27
+[Auction "N"]
+Pass 1D 2H X 
+3H 4H Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+HA H4 H6 H7 
+C8 C3 CQ CK 
+S3 S7 S2 SJ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "37"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:643.AQJ.T752.982 AQ97.4.AK986.A63 52.KT98653.3.QT4 KJT8.72.QJ4.KJ75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "00700007006c6cc6c6cc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  7
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  7
+S  D  0
+S  C  0
+E NT  6
+E  S 12
+E  H  6
+E  D 12
+E  C 12
+W NT  6
+W  S 12
+W  H  6
+W  D 12
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,1,4,48,194,228,247,78,337,40,217,153,111,32,68,40,28,22,36,227,41,15,18,19,46,22,26,24,20,12,72,24,8,14,13,20,15,14,31,25,8,10
+[Auction "N"]
+Pass 1C =1= 1H X =2= 
+2H X =3= Pass 3H =4= 
+X =5= 3S Pass 4S 
+Pass Pass Pass 
+[Note "1: ART 16+ or equiv (not 20-22 bal)"]
+[Note "2: Either 5-7 any or 8+ BAL w/o H stop"]
+[Note "3: t/o"]
+[Note "4: 8+ BAL w/o H stop"]
+[Note "5: lead h"]
+[Play "S"]
+H6 H2 HA H4 
+H3 H7 HQ S9 
+S2 ST S3 SA 
+S5 S8 S4 SQ 
+H8 SJ S6 S7 
+D3 DQ D2 D6 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "38"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J6.A98.A52.T7542 K74.42.J874.K986 AQT985.KQ75.T9.A 32.JT63.KQ63.QJ3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "bbb78bbb782226522255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D  7
+N  C  8
+S NT 11
+S  S 11
+S  H 11
+S  D  7
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  6
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 17,2,0,53,63,57,56,63,176,32,262,28,30,87,32,392,23,14,28,30,20,17,27,27,26,22,22,23,10,6,12,19,16,9,14,26,16,15
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+DK D2 D4 D9 
+DQ DA D7 DT 
+S2 SJ SK SA 
+H3 H8 H2 HK 
+H6 HA H4 H5 
+HT H9 C6 HQ 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "38"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J6.A98.A52.T7542 K74.42.J874.K986 AQT985.KQ75.T9.A 32.JT63.KQ63.QJ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "bbb78bbb782226522255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H 11
+N  D  7
+N  C  8
+S NT 11
+S  S 11
+S  H 11
+S  D  7
+S  C  8
+E NT  2
+E  S  2
+E  H  2
+E  D  6
+E  C  5
+W NT  2
+W  S  2
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +460"]
+[Competition "Teams"]
+% RBDATA 18,1,4,42,167,29,999,72,90,85,323,73,239,94,90,24,90,171,54,25,21,24,12,10,24,15,23,14,26,29,35,7,315,49,48,37,79,21,14,11,140,19,17,20,19,87
+[Auction "E"]
+Pass 1C =1= Pass 1NT =2= 
+Pass 2C =3= Pass 2S =4= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 16+ or equiv"]
+[Note "2: balanced 8+"]
+[Note "3: ask"]
+[Note "4: 8 10 no 4 card major"]
+[Play "E"]
+H4 H5 HT HA 
+S4 S5 S2 SJ 
+S7 S8 S3 S6 
+SK SA D3 C2 
+C6 SQ D6 C4 
+H2 HK H3 H8 
+D4 DT DQ DA 
+C8 -  -  H9 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "39"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q3.AJ64.A542.A83 AKJ76.52.QT73.K2 852.T73.J98.9765 T94.KQ98.K6.QJT4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "3"]
+[Score "NS -1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "33543335439a889aa89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 4,2,0,80,358,107,64,120,63,33,49,53,41,10,596,34,11,27,29,21,8,536,62,24,115,35,231,25,8,12,11,33,22,32,70,27,19,104,111,24,34,9,41,21,19,10,17,9,31,9,17,12,19,13,11,13,15,7,17,13,8,7
+[Auction "S"]
+Pass 1C 1NT X 
+Pass Pass Pass 
+[Play "E"]
+SA S2 ST S3 
+CK C5 C4 C3 
+C2 C6 CT C8 
+H5 C7 CJ CA 
+H2 H3 H9 HA 
+D7 HT HQ H4 
+D3 C9 CQ D2 
+DT H7 HK H6 
+SK S5 S9 SQ 
+SJ S8 S4 D4 
+S7 D8 H8 D5 
+S6 D9 D6 HJ 
+DQ DJ DK DA 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "39"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q3.AJ64.A542.A83 AKJ76.52.QT73.K2 852.T73.J98.9765 T94.KQ98.K6.QJT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "33543335439a889aa89a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  4
+N  C  3
+S NT  3
+S  S  3
+S  H  5
+S  D  4
+S  C  3
+E NT  9
+E  S 10
+E  H  8
+E  D  8
+E  C  9
+W NT 10
+W  S 10
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 18,1,4,60,140,308,106,36,226,46,341,33,109,43,34,32,15,37,26,106,43,13,40,431,29,11,19,50,22,78,115,50,19,12,317,22,9,67,92,24,11,9,48,20,6,19,9,11,8,12,16,105,11,18,26,26,14,17,21,52,14,8,21,17,13,9,16,7,12,8
+[Auction "S"]
+Pass 1D =1= X 1S 
+Pass 1NT Pass 2C =2= 
+Pass 2S =3= Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+D, 11-15"]
+[Note "2: simple checkback"]
+[Note "3: 3S"]
+[Play "S"]
+H3 HK HA H5 
+S2 S4 S3 SA 
+C7 C4 CA CK 
+S5 S9 SQ SK 
+S8 ST C3 S6 
+H7 HQ H4 H2 
+C5 CT C8 C2 
+C6 CJ D2 D3 
+C9 CQ H6 D7 
+D8 D6 D4 DQ 
+HT H8 D5 SJ 
+D9 H9 HJ S7 
+DJ DK DA DT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "40"]
+[West "Rune Hauge#111671"]
+[North "Malcolm Pryor#65457"]
+[East "Erik Sælensminde#411440"]
+[South "David Kendrick#94543"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QT9.K9653.A754.4 852.J.KQJ86.KJT3 764.QT74.T9.A982 AKJ3.A82.32.Q765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "63843638437a59a7a59a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  8
+N  D  4
+N  C  3
+S NT  6
+S  S  3
+S  H  8
+S  D  4
+S  C  3
+E NT  7
+E  S 10
+E  H  5
+E  D  9
+E  C 10
+W NT  7
+W  S 10
+W  H  5
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 20,2,0,168,46,297,106,371,86,98,83,205,37,56,69,288,50,15,83,44,21,41,35,11,29,90,38,14,22,205,45,18,29,79,18,23,27,342,47,14,29,13,86,16,31,971,20,11,46,53,157,24,9,50,19,11,15,25,16,21,11
+[Auction "W"]
+1C 1H 2C =1= 3H 
+Pass Pass 4C Pass 
+4H Pass 5C Pass 
+Pass Pass 
+[Note "1: diamonds"]
+[Play "N"]
+H5 HJ HQ HA 
+C4 CJ C2 C5 
+H6 CT C8 C6 
+ST S2 S4 SA 
+D4 DK DT D3 
+DA DQ D9 D2 
+S9 S5 S6 SJ 
+H3 C3 H4 H2 
+D5 DJ C9 CQ 
+H9 CK H7 H8 
+D7 D8 CA S3 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "40"]
+[West "Trevor Ward#63728"]
+[North "Robert Plumley#33074"]
+[East "Rob Cliffe#16537"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:QT9.K9653.A754.4 852.J.KQJ86.KJT3 764.QT74.T9.A982 AKJ3.A82.32.Q765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "63843638437a59a7a59a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  8
+N  D  4
+N  C  3
+S NT  6
+S  S  3
+S  H  8
+S  D  4
+S  C  3
+E NT  7
+E  S 10
+E  H  5
+E  D  9
+E  C 10
+W NT  7
+W  S 10
+W  H  5
+W  D  9
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 20,1,4,132,100,345,83,991,78,36,23,22,288,44,33,73,41,14,17,302,35,18,26,112,31,9,42,37,19,16,12,22,143,21,65,143,292,23,9,169,96,15,33,642,30,20,43,136,33,20,22,13,13,20,7,13,20,6,6,11,8,5,8
+[Auction "W"]
+1D =1= 1H 3C =2= 3H 
+5C Pass Pass Pass 
+[Note "1: 2+D, 11-15"]
+[Note "2: clubs and diamonds * inv+ [1:43]"]
+[Play "S"]
+H7 HA H3 HJ 
+D9 D2 D5 DK 
+C2 C5 C4 CK 
+S4 SA ST S5 
+DT D3 DA D6 
+HT H2 HK C3 
+S7 H8 D4 D8 
+C8 C6 H5 CJ 
+S6 SJ SQ S8 
+C9 S3 S9 S2 
+CA C7 D7 CT 
+HQ CQ H6 DJ 
+H4 SK H9 DQ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "41"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K43.97.T9852.T92 A9875.JT4.763.A6 QT.Q86.AKQJ4.Q53 J62.AK532..KJ874"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "21171211728bc6b8bc6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  1
+N  D  7
+N  C  1
+S NT  2
+S  S  1
+S  H  1
+S  D  7
+S  C  2
+E NT  8
+E  S 11
+E  H 12
+E  D  6
+E  C 11
+W NT  8
+W  S 11
+W  H 12
+W  D  6
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 7,1,2,211,34,173,337,120,107,40,24,58,53,164,46,10,12,15,10,22,28,19,17,25,13,10,45,21,105,51,20,13,19,12,9,13
+[Auction "N"]
+Pass Pass 1NT =1= 2C =2= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 14-16"]
+[Note "2: a major and a minor"]
+[Play "S"]
+DK H2 D2 D3 
+C3 C4 C9 CA 
+C5 CK C2 C6 
+CQ C7 CT HJ 
+HQ HA H7 HT 
+H6 HK H9 H4 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "41"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K43.97.T9852.T92 A9875.JT4.763.A6 QT.Q86.AKQJ4.Q53 J62.AK532..KJ874"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "21171211728bc6b8bc6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  1
+N  H  1
+N  D  7
+N  C  1
+S NT  2
+S  S  1
+S  H  1
+S  D  7
+S  C  2
+E NT  8
+E  S 11
+E  H 12
+E  D  6
+E  C 11
+W NT  8
+W  S 11
+W  H 12
+W  D  6
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 17,4,0,45,33,72,307,172,175,74,52,21,21,18,79,154,19,33,472,31,30,16,227,23,24,17,821,20,33,23,568,29,14,5,71,11,42,13,205,23,22,26,21,78,20,8,65,139,10,15,35,25,66,16,67,12,14,6,13,12,10,9,9,20,6,8
+[Auction "N"]
+Pass Pass 1NT =1= 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "N"]
+DT D3 DJ H2 
+CT CA C5 C4 
+H9 HJ H6 H3 
+H7 H4 H8 HA 
+C2 C6 C3 CK 
+C9 HT CQ C7 
+D5 D6 DQ H5 
+D2 S5 HQ HK 
+D8 S7 D4 CJ 
+S4 D7 DK C8 
+S3 SA ST S2 
+SK S8 SQ S6 
+D9 S9 DA SJ 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "42"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K92.A4.T8742.KJ2 3.KQJT72.AKQ5.A4 QJ876.986.93.QT3 AT54.53.J6.98765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "272452724586b88a6b88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  4
+N  C  5
+S NT  2
+S  S  7
+S  H  2
+S  D  4
+S  C  5
+E NT  8
+E  S  6
+E  H 11
+E  D  8
+E  C  8
+W NT 10
+W  S  6
+W  H 11
+W  D  8
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 27,1,2,163,147,113,38,23,42,208,43,126,107,18,40,26,32,49,35,85,33,10,33,27,165,37,24,12,62,21,34,325,41,201,36,41,34,41,59,21,20,18,26,31,21,15,9,30,23,11,9,17,11,13,10,14,22,43,78,29,18,13,103,87,17,25,11
+[Auction "E"]
+2C Pass 2D =1= Pass 
+2H Pass 3H Pass 
+3S Pass 4S Pass 
+4NT Pass 5D Pass 
+6H Pass Pass Pass 
+[Note "1: nearly all hands"]
+[Play "S"]
+H9 H3 HA H2 
+H6 H5 H4 HK 
+H8 S4 S2 HQ 
+S6 C5 D2 HJ 
+S7 S5 D4 HT 
+S8 C6 D7 H7 
+D3 DJ D8 D5 
+D9 D6 DT DA 
+SJ C7 C2 DK 
+SQ C8 CJ DQ 
+C3 SA S9 S3 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "42"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K92.A4.T8742.KJ2 3.KQJT72.AKQ5.A4 QJ876.986.93.QT3 AT54.53.J6.98765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "272452724586b88a6b88"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  4
+N  C  5
+S NT  2
+S  S  7
+S  H  2
+S  D  4
+S  C  5
+E NT  8
+E  S  6
+E  H 11
+E  D  8
+E  C  8
+W NT 10
+W  S  6
+W  H 11
+W  D  8
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,4,0,130,87,99,96,40,29,143,231,34,84,143,32,127,32,37,29,277,107
+[Auction "E"]
+2C =1= Pass 2D Pass 
+2H =2= Pass 2S =3= Pass 
+3D Pass 3S Pass 
+4H Pass Pass Pass 
+[Note "1: Alerted"]
+[Note "2: Alerted"]
+[Note "3: rele"]
+[Play "S"]
+H9 H3 -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "43"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J.AKT.K9842.Q975 AQ953.83.QT5.T86 K2.QJ75.J63.AKJ2 T8764.9642.A7.43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "7"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "96aaa96aaa3733337333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D 10
+N  C 10
+S NT  9
+S  S  6
+S  H 10
+S  D 10
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  3
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,1,2,332,31,436,77,65,524,134,44,27,31,26,90,44,18,195,32,24,20,24,26,57,9,27,12,13,19,88,28,36,12,22,19,6,17,18,22,11,4
+[Auction "S"]
+1D =1= Pass 2D =2= 2S 
+2NT 4S X Pass 
+Pass Pass 
+[Note "1: 10-16 2+D"]
+[Note "2: 10+ 5+D"]
+[Play "S"]
+CK C3 C5 C6 
+D3 D7 DK DT 
+H7 H2 HA H3 
+H5 H4 HK H8 
+CA C4 CQ C8 
+HQ H6 HT S3 
+S2 S4 SJ SA 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "43"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J.AKT.K9842.Q975 AQ953.83.QT5.T86 K2.QJ75.J63.AKJ2 T8764.9642.A7.43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3SX"]
+[Result "7"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "96aaa96aaa3733337333"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 10
+N  D 10
+N  C 10
+S NT  9
+S  S  6
+S  H 10
+S  D 10
+S  C 10
+E NT  3
+E  S  7
+E  H  3
+E  D  3
+E  C  3
+W NT  3
+W  S  7
+W  H  3
+W  D  3
+W  C  3
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 13,4,0,147,49,374,61,324,326,156,43,453,37,214,379,30,11,80,54,19,72,221,36,16,12,148,15,11,9,37,14,31,12,60,25,13,15,221,50,17,70,48,19,12,30,119,24,16,17
+[Auction "S"]
+1NT =1= Pass 2S =2= X 
+2NT =3= 3S X Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: invNT / weak m / str mm * not 5-5 mm [1:52]"]
+[Note "3: min"]
+[Play "N"]
+SJ SA S2 S4 
+HT H3 HJ H4 
+C5 C6 CK C4 
+C7 C8 CA C3 
+C9 CT C2 S6 
+HK H8 H5 H6 
+HA S3 H7 H2 
+D4 S5 SK S7 
+DK D5 D3 D7 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "44"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AK972.AT86.3.AT9 QJ64.97532.J.K86 53.J4.AKT98.Q753 T8.KQ.Q76542.J42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "a989aa989a3454334543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D  9
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  4
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,1,2,195,184,71,219,94,120,39,43,28,84,43,29,22,19,115,13,30,471,60,13,13,15,35,61,11,438,52,8,10,17,15,43,22,10,577,42,10,324,77,16,14,107,11,36,49,109,21,10,71,52,21,8,15,17,12,7,8,16,10,6,11,7,7,7,7
+[Auction "W"]
+Pass 1C =1= 1S 2D =2= 
+Pass 2S Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Note "2: +ve, D"]
+[Play "E"]
+H7 H4 HQ HA 
+H2 HJ HK H6 
+S4 S3 ST SA 
+C6 C3 C2 CA 
+C8 C5 CJ C9 
+SJ S5 S8 S9 
+DJ DA D4 D3 
+H5 DK D2 S2 
+CK C7 C4 CT 
+H3 D8 D5 H8 
+H9 D9 D6 HT 
+S6 DT D7 SK 
+SQ CQ DQ S7 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "44"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AK972.AT86.3.AT9 QJ64.97532.J.K86 53.J4.AKT98.Q753 T8.KQ.Q76542.J42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "a989aa989a3454334543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  9
+N  C 10
+S NT 10
+S  S  9
+S  H  8
+S  D  9
+S  C 10
+E NT  3
+E  S  4
+E  H  5
+E  D  4
+E  C  3
+W NT  3
+W  S  4
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,4,0,149,154,379,164,92,93,42,56,30,111,41,37,35,33,343,26,30,221,55,24,31,15,39,9,15,214,56,25,18,29,274,14,24,83,24,11,9,73,22,13,11,209,26,18,29,31,38,8,32,53,14,19,13,21,11,11,8,35,16,9,9,16,8,7,8
+[Auction "W"]
+Pass 1C =1= Pass 2C =2= 
+Pass 2S Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Note "1: ART 16+ or equiv (not 20-22 bal)"]
+[Note "2: 5+D, 8+ HCP"]
+[Play "E"]
+H5 H4 HQ HA 
+S6 S3 S8 S2 
+H3 HJ HK H6 
+CK C3 C4 C9 
+C8 C5 C2 CT 
+S4 S5 ST SA 
+SJ D8 D2 SK 
+SQ D9 D4 S9 
+DJ DA D5 D3 
+H2 DK D6 H8 
+C6 C7 CJ CA 
+H7 CQ D7 S7 
+H9 DT DQ HT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "45"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:642.Q98.75432.Q3 .KJ642.AJT6.J987 A93.T753.Q8.K652 KQJT875.A.K9.AT4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "1123311232bba9abbaaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C 10
+W NT 11
+W  S 11
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 14,1,2,268,51,48,70,38,132,36,23,40,31,60,164,36,250,207,31,34,200,36,12,17,14,26,35,43,70,11,80
+[Auction "N"]
+Pass 1H Pass 2S 
+Pass 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass 
+[Play "S"]
+C5 C4 CQ C8 
+H7 HA H8 H6 
+S3 SK S2 H4 
+-  SQ S4 H2 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "45"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:642.Q98.75432.Q3 .KJ642.AJT6.J987 A93.T753.Q8.K652 KQJT875.A.K9.AT4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "9"]
+[Score "NS 300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "1123311232bba9abbaaa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  2
+N  D  3
+N  C  3
+S NT  1
+S  S  1
+S  H  2
+S  D  3
+S  C  2
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C 10
+W NT 11
+W  S 11
+W  H 10
+W  D 10
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 28,4,0,50,74,28,64,43,72,81,373,100,39,40,641,49,30,38,878,342,18,22,66,43,19,7,197,57,11,13,14,12,58,17,20,22,19,16,305,36,14,57,24,23,29,17,59
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2D Pass 3C 
+Pass 3NT Pass 6S 
+Pass Pass Pass 
+[Play "N"]
+C3 C7 CK CA 
+H8 H2 H3 HA 
+D2 D6 D8 DK 
+D3 DT DQ D9 
+CQ C8 C2 C4 
+H9 HK H5 CT 
+S6 C9 C5 S5 
+HQ -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "46"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:642.J643.K75.QT3 K93.9752.J9.K742 T7.AQ.QT8432.965 AQJ85.KT8.A6.AJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "33373333738a96a8a96a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  3
+E NT  8
+E  S 10
+E  H  9
+E  D  6
+E  C 10
+W NT  8
+W  S 10
+W  H  9
+W  D  6
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 18,1,2,61,22,335,43,41,36,19,28,28,26,15,121,26,25,332,55,14,19,57,27,18,39,18,114,23,9,221,23,10,9,291,19,18,34,27,26,10,7,20,27,7,18,10
+[Auction "E"]
+Pass Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+S2 S3 ST SJ 
+S6 S9 S7 S5 
+H6 H2 HA H8 
+D5 D9 D4 DA 
+S4 SK D2 S8 
+H3 H5 HQ HK 
+HJ H7 D3 HT 
+DK DJ D8 D6 
+D7 -  -  -  
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "46"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:642.J643.K75.QT3 K93.9752.J9.K742 T7.AQ.QT8432.965 AQJ85.KT8.A6.AJ8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "33373333738a96a8a96a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D  7
+N  C  3
+S NT  3
+S  S  3
+S  H  3
+S  D  7
+S  C  3
+E NT  8
+E  S 10
+E  H  9
+E  D  6
+E  C 10
+W NT  8
+W  S 10
+W  H  9
+W  D  6
+W  C 10
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,4,0,72,73,756,100,119,90,78,35,23,18,26,361,39,9,17,35,29,22,20,23,20,23,70,26,60,9,284,111,16,18,23,21,23,18,149,21,8,6,17,10,11,17,113,193,25,8,189,21,57,15,19,58,18,28,11,18,7,8,5,11,7,9
+[Auction "E"]
+Pass 2D =1= X 3D 
+3H Pass 4H Pass 
+Pass Pass 
+[Note "1: Weak"]
+[Play "S"]
+D4 DA D5 D9 
+S7 S5 S2 SK 
+HA H8 H3 H2 
+DQ D6 D7 DJ 
+C9 CJ CQ CK 
+HQ HK H4 H5 
+ST SA S4 S3 
+D3 SQ S6 S9 
+D2 SJ H6 H7 
+C6 CA C3 C4 
+D8 S8 HJ C2 
+C5 C8 CT C7 
+DT HT DK H9 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "47"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK96.854.KQ9.Q42 5432.AK72.52.AKJ QJT87.96.J86.T93 .QJT3.AT743.8765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "461224612286cab86cab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  1
+N  D  2
+N  C  2
+S NT  4
+S  S  6
+S  H  1
+S  D  2
+S  C  2
+E NT  8
+E  S  6
+E  H 12
+E  D 10
+E  C 11
+W NT  8
+W  S  6
+W  H 12
+W  D 10
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 7,1,2,52,36,207,51,154,86,157,132,31,61,156,7,20,675,40,8,15,10,51,12,34,25,11,8,15,36,20,6,20,57,20,8,37,48,21,10,15,15,18,18,10,49,20,14,17,50,17,7,7,8,8,8,7,14,12,7,9,12,9,6,6
+[Auction "S"]
+Pass Pass 1D =1= X 
+1H =2= 2H Pass Pass 
+Pass 
+[Note "1: 2+ D"]
+[Note "2: xfer to spades"]
+[Play "N"]
+SA S2 S7 H3 
+C2 CA C3 C6 
+S6 S3 ST HT 
+C4 CK C9 C5 
+S9 S4 S8 HJ 
+D9 D2 D6 DA 
+DQ D5 D8 D3 
+H4 H2 H9 HQ 
+DK H7 DJ D4 
+H5 HA H6 C8 
+H8 HK SJ C7 
+CQ CJ CT D7 
+SK S5 SQ DT 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "47"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AK96.854.KQ9.Q42 5432.AK72.52.AKJ QJT87.96.J86.T93 .QJT3.AT743.8765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "461224612286cab86cab"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  1
+N  D  2
+N  C  2
+S NT  4
+S  S  6
+S  H  1
+S  D  2
+S  C  2
+E NT  8
+E  S  6
+E  H 12
+E  D 10
+E  C 11
+W NT  8
+W  S  6
+W  H 12
+W  D 10
+W  C 11
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 12,4,0,48,63,112,50,94,92,125,268,62,150,66,79,76,39,73,123,161,15,11,62,37,10,88,60,22,20,14,9,27,9,13,64,19,23,13,19,18,13,8,57,21,11,6,39,12,13,13,39,20,9,5,19,13,11,6,60,11,10,8,8,17,4,10
+[Auction "S"]
+Pass Pass 1D =1= X 
+1S 2H 2S =2= 3H 
+Pass Pass Pass 
+[Note "1: <16, 2+D, can have more C, any bal12-14"]
+[Note "2: 4 sp"]
+[Play "N"]
+SA S2 S8 H3 
+DQ D2 D8 DT 
+S6 S3 ST HJ 
+C2 CA C9 C7 
+SK S4 S7 HT 
+C4 CK C3 C6 
+S9 S5 SJ HQ 
+D9 D5 D6 DA 
+DK H2 DJ D3 
+H4 HA H6 D4 
+H5 HK H9 D7 
+CQ CJ CT C5 
+H8 H7 SQ C8 
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "48"]
+[West "Malcolm Pryor#65457"]
+[North "Robert Plumley#33074"]
+[East "David Kendrick#94543"]
+[South "Alan Scott#24026"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK.Q.QT7652.AKQ8 98763.A8.AK43.63 QT.J973.J9.J9742 J542.KT6542.8.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "744aa744aa5983359833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D 10
+N  C 10
+S NT  7
+S  S  4
+S  H  4
+S  D 10
+S  C 10
+E NT  5
+E  S  9
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 11,1,2,123,174,84,122,60,101,63,75,31,106,91,10,18,36,49,27,12,18,14,23,7,33,18,6,11,44,47,13,9,18,23,6,22,16,35,12,31
+[Auction "W"]
+Pass 1C =1= 1S X =2= 
+2S 3D Pass Pass 
+Pass 
+[Note "1: any 16+"]
+[Note "2: 5-8"]
+[Play "E"]
+S9 ST SJ SA 
+D3 D9 D8 D2 
+DK DJ H5 D5 
+S3 SQ S2 SK 
+DA H3 H2 DQ 
+S8 H7 S4 D6 
+D4 H9 H4 DT 
+*
+
+[Event "Silver Plate Final"]
+[Site "RealBridge"]
+[Date "2025.01.04"]
+[Board "48"]
+[West "Rune Hauge#111671"]
+[North "Rob Cliffe#16537"]
+[East "Erik Sælensminde#411440"]
+[South "Trevor Ward#63728"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:AK.Q.QT7652.AKQ8 98763.A8.AK43.63 QT.J973.J9.J9742 J542.KT6542.8.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "David Jones"]
+[VisitTeam "Robert Plumley"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "744aa744aa5983359833"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  4
+N  D 10
+N  C 10
+S NT  7
+S  S  4
+S  H  4
+S  D 10
+S  C 10
+E NT  5
+E  S  9
+E  H  8
+E  D  3
+E  C  3
+W NT  5
+W  S  9
+W  H  8
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 15,4,0,121,107,71,114,225,129,264,87,29,81,29,292,59,828,31,31,70,16,8,257,35,7,9,12,28,78,12,46,24,51,20,24,10,10,9
+[Auction "W"]
+Pass 1C =1= Pass 1D =2= 
+1H 2D 2H Pass 
+Pass 3C Pass 4C 
+Pass Pass Pass 
+[Note "1: ART 16+ or equiv (not 20-22 bal)"]
+[Note "2: 0-7 any"]
+[Play "E"]
+HA H3 H2 HQ 
+DA D9 D8 D2 
+DK DJ H4 D5 
+D3 CJ H6 D6 
+C3 C2 C5 CA 
+*

@@ -1,0 +1,3065 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "1"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J.85.986543.T876 KQ72.KQJT.AQ2.J3 A98.A76432.T7.52 T6543.9.KJ.AKQ94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2255122551bb889bb889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  5
+N  D  5
+N  C  1
+S NT  2
+S  S  2
+S  H  5
+S  D  5
+S  C  1
+E NT 11
+E  S 11
+E  H  8
+E  D  8
+E  C  9
+W NT 11
+W  S 11
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 18,0,3,524,279,156,36,26,168,41,31,32,57,38,19,22,43,46,77,43,573,38,6,46,126,17,32,10,17,8,30,61,539,47,14,21,36,19,8,6,47,9,14,5
+[Auction "N"]
+Pass 1D =1= 1H 1S 
+Pass 2H =2= Pass 3C 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 3 if 4432"]
+[Note "2: genreal force"]
+[Play "N"]
+H8 HT HA H9 
+H5 HJ H7 C4 
+D3 D2 D7 DJ 
+SJ SK SA S3 
+CT CJ C5 C9 
+D4 SQ S8 S4 
+D5 S2 S9 ST 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "1"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:J.85.986543.T876 KQ72.KQJT.AQ2.J3 A98.A76432.T7.52 T6543.9.KJ.AKQ94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2255122551bb889bb889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  5
+N  D  5
+N  C  1
+S NT  2
+S  S  2
+S  H  5
+S  D  5
+S  C  1
+E NT 11
+E  S 11
+E  H  8
+E  D  8
+E  C  9
+W NT 11
+W  S 11
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 23,2,1,75,227,440,35,66,64,205,1142,49,133,308,20,63,22,22,37,9,444,42,34,13,77,34,7,26,7,33,11,25,22,90,31
+[Auction "N"]
+Pass 1D =1= 1H 1S 
+Pass 4S Pass 4NT =2= 
+Pass 5S =3= Pass Pass 
+Pass 
+[Note "1: 3+"]
+[Note "2: Alerted"]
+[Note "3: 2/wQ"]
+[Play "N"]
+H8 HT HA H9 
+H5 HJ H7 C4 
+D3 D2 D7 DJ 
+SJ SK SA S3 
+D4 -  H6 C9 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "2"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ43.642.AJT6.87 96.JT87.K54.AJT3 AT72.AKQ53..Q965 K85.9.Q98732.K42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "79856798565448754487"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  5
+N  C  6
+S NT  7
+S  S  9
+S  H  8
+S  D  5
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  7
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 17,0,3,52,109,30,125,25,265,31,24,15,39,658,27,40,55,22,27,54,336,63,23,36,91,46,14,33,3624,72,51,29,57,50,10,19,31,9,22,112,58,24,53,31,112,35,56,9,293,94,58,14,38,16,12,6,17
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+D3 DA D4 C5 
+SK SQ S6 S2 
+D9 DT DK H3 
+C4 C7 CT C6 
+D2 D6 D5 H5 
+CK C8 C3 C9 
+DQ DJ S9 HQ 
+C2 H6 CA CQ 
+S5 S3 H7 S7 
+H9 S4 CJ ST 
+S8 SJ H8 SA 
+-  -  HJ -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "2"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:QJ43.642.AJT6.87 96.JT87.K54.AJT3 AT72.AKQ53..Q965 K85.9.Q98732.K42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "79856798565448754487"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  8
+N  D  5
+N  C  6
+S NT  7
+S  S  9
+S  H  8
+S  D  5
+S  C  6
+E NT  5
+E  S  4
+E  H  4
+E  D  8
+E  C  7
+W NT  5
+W  S  4
+W  H  4
+W  D  8
+W  C  7
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,57,4769,43,241,28,86,23,228,44,234,24,43,16,319,69,15,48,234,37,11,21,104,23,22,10,90,31,10,20,25,13,17,34,530,590,17,94,344,32,23,7,16,67,10,32,15,77,21,47,33,7,36,8,53,9,45,9,37,8,26,6,39,6,26,5
+[Auction "E"]
+Pass 1H Pass 2H 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "W"]
+H9 H2 H7 HK 
+C4 C7 CT C9 
+S5 H4 H8 HA 
+D9 DA D5 C5 
+SK SJ S6 S2 
+D3 DT DK S7 
+CK C8 CA CQ 
+S8 H6 HJ HQ 
+C2 S3 C3 C6 
+D2 D6 D4 ST 
+D8 S4 HT H5 
+DQ DJ S9 SA 
+D7 SQ CJ H3 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "3"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A843.A953.64.Q83 J6.KJT.T87.KT965 T92.8762.AKQ5.J7 KQ75.Q4.J932.A42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "67766677667667776677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,58,98,50,106,324,52,24,48,1211,14,19,104,51,134,56,1839,64,19,5,115,22,6,23,84,96,50,320,43,23,15,707,10,45,46,48,186,43,23,9,14,74,12,11,49
+[Auction "S"]
+Pass 1D X 1NT 
+Pass Pass Pass 
+[Play "S"]
+DA D2 D6 D8 
+H7 H4 H3 HT 
+DQ D3 D4 DT 
+H6 HQ HA HJ 
+H2 C2 H9 HK 
+S2 S5 SA SJ 
+H8 S7 H5 C5 
+CJ C4 C3 CK 
+DK D9 S3 D7 
+ST -  -  -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "3"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:A843.A953.64.Q83 J6.KJT.T87.KT965 T92.8762.AKQ5.J7 KQ75.Q4.J932.A42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "67766677667667776677"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  7
+N  D  6
+N  C  6
+S NT  6
+S  S  7
+S  H  7
+S  D  6
+S  C  6
+E NT  7
+E  S  6
+E  H  6
+E  D  7
+E  C  7
+W NT  7
+W  S  6
+W  H  6
+W  D  7
+W  C  7
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 7,2,1,91,17,75,38,55,11,105,49,146,20,40,45,101,338,15,34,26,20,27,60,557,93,16,33,1277,18,530,22,460,289,16,205,19,233,334,32,20,29,15,19,18,31,8,17,31,13,74,10,36,8,20,8,23,12,16,6,23,5,17,5,15,5,13,5
+[Auction "S"]
+Pass 1D =1= Pass 1NT 
+Pass Pass X Pass 
+2H Pass Pass Pass 
+[Note "1:  * 3+ [0:08]"]
+[Play "W"]
+D2 D4 DT DK 
+H4 H5 HT H2 
+HQ HA HJ H6 
+SK S3 S6 S9 
+CA C3 C5 C7 
+C4 C8 CK CJ 
+C2 H3 HK H7 
+D3 D6 D8 DA 
+D9 S4 D7 DQ 
+DJ H9 C6 D5 
+S5 CQ C9 S2 
+S7 SA SJ ST 
+SQ S8 CT H8 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "4"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT2.654.KJ8.K752 AQ6.9.AQT74.QT43 K84.AQ72.9.AJ986 9753.KJT83.6532."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "8563874637587a5587a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D  3
+N  C  8
+S NT  7
+S  S  4
+S  H  6
+S  D  3
+S  C  7
+E NT  5
+E  S  8
+E  H  7
+E  D 10
+E  C  5
+W NT  5
+W  S  8
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 10,2,1,32,65,42,3064,68,108,59,47,52,135,25,26,647,12,20,30,15,67,15,357,141,19,14,418,80,7,22,514,13,25,18,92,51,12,24,262,13,11,10,16,8,11,10,13,25,41,15,21,15,26,10,33,18,11,30,35,9,11,14,5,16,3,48
+[Auction "W"]
+Pass Pass 1D X 
+1H 2C Pass 3C 
+Pass Pass Pass 
+[Play "E"]
+H9 HA H3 H5 
+C3 C6 H8 CK 
+SA S4 S3 SJ 
+C4 C8 D6 C2 
+DQ D9 D3 DJ 
+CT CJ D2 C5 
+S6 SK S5 S2 
+SQ S8 S9 ST 
+CQ CA S7 C7 
+D4 H2 HT H6 
+DT C9 D5 D8 
+D7 H7 HJ H4 
+DA HQ HK DK 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "4"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT2.654.KJ8.K752 AQ6.9.AQT74.QT43 K84.AQ72.9.AJ986 9753.KJT83.6532."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "8563874637587a5587a5"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  6
+N  D  3
+N  C  8
+S NT  7
+S  S  4
+S  H  6
+S  D  3
+S  C  7
+E NT  5
+E  S  8
+E  H  7
+E  D 10
+E  C  5
+W NT  5
+W  S  8
+W  H  7
+W  D 10
+W  C  5
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 15,0,3,83,33,118,83,65,73,129,378,73,65,69,185,24,45,29,22,21,13,82,230,73,14,3729,168,12,321,276,18,14,90,1387,297,16,68,411,44,5,29,6,89,8,59,9,2682,26,16,548,28,8,27,44,33,29,12,18,13,16,10,48,17,5,30,10,18,9,8,4,12,4,7
+[Auction "W"]
+Pass Pass 1D =1= X 
+1H 2C Pass 3C 
+3D Pass Pass 4C 
+Pass Pass X Pass 
+Pass Pass 
+[Note "1: 3 if 4432"]
+[Play "E"]
+H9 H2 H8 H4 
+C3 C8 D6 C2 
+DQ D9 D2 DJ 
+CT CJ H3 C5 
+C4 CA D3 C7 
+CQ C6 D5 CK 
+SQ SK S3 SJ 
+D4 H7 HT H5 
+SA S4 S5 S2 
+S6 S8 S9 ST 
+D7 HA HJ H6 
+DT C9 S7 D8 
+DA HQ HK DK 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "5"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J532.K2.8765.AJ6 KQ7.T984.K943.87 A94.A7653.J2.T92 T86.QJ.AQT.KQ543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "56656566568678686786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  5
+S  C  6
+E NT  8
+E  S  6
+E  H  7
+E  D  8
+E  C  6
+W NT  8
+W  S  6
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,0,3,88,174,79,54,46,28,27,35,34,23,24,86,65,110,30,193,38,18,37,103,106,302,26,215,12,21,278,45,27,9,6,11,7,32,66,39,133,10,7,38,34,14,12,28,29,13,18,23,52,6,84,10,13,18,26,20
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1H Pass 1NT 
+Pass Pass Pass 
+[Play "N"]
+D7 D3 DJ DQ 
+HK H4 H7 HQ 
+S2 S7 S9 ST 
+H2 H8 H3 HJ 
+D5 D4 D2 DA 
+D6 DK C2 DT 
+D8 D9 H6 C3 
+S5 H9 HA C4 
+CA C7 CT CK 
+CJ C8 C9 CQ 
+S3 SQ SA S6 
+-  -  S4 -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "5"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J532.K2.8765.AJ6 KQ7.T984.K943.87 A94.A7653.J2.T92 T86.QJ.AQT.KQ543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "56656566568678686786"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  5
+N  C  6
+S NT  5
+S  S  6
+S  H  6
+S  D  5
+S  C  6
+E NT  8
+E  S  6
+E  H  7
+E  D  8
+E  C  6
+W NT  8
+W  S  6
+W  H  7
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,59,32,2540,125,97,25,108,17,36,29,80,356,148,26,30,141,29,13,12,51,63,6,37,1128,650,30,9,15,15,41,14,16,36,8,29,130,34,8,15,12,12,16,12,68,20,7,21,10,23,7,11,9,17,11,15,5,16,3,15,12,4,11,4
+[Auction "N"]
+Pass Pass Pass 1C =1= 
+Pass 1H Pass 1NT 
+Pass Pass Pass 
+[Note "1:  * 3+ [1:02]"]
+[Play "N"]
+D7 D3 D2 DT 
+D5 D4 DJ DA 
+HK H4 H7 HQ 
+S2 SK SA S6 
+SJ SQ S9 ST 
+H2 H8 H3 HJ 
+CA C7 C2 CQ 
+S5 S7 S4 S8 
+D6 DK H5 DQ 
+D8 D9 H6 C3 
+C6 C8 C9 CK 
+CJ H9 CT C5 
+S3 HT HA C4 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "6"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQT7.AQ7.T864.AK .J943.A952.J9852 KJ852.T52.J.T764 9643.K86.KQ73.Q3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "9b7789b7784256542565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D  7
+N  C  8
+S NT  9
+S  S 11
+S  H  7
+S  D  7
+S  C  8
+E NT  4
+E  S  2
+E  H  5
+E  D  6
+E  C  5
+W NT  4
+W  S  2
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,124,50,25,186,31,44,18,52,30,41,28,88,157,16,92,29,25,19,7,751,28,5,20,54,10,20,18,31,11,20,5,26,7,41,12,139,93,24,25,23,8,32,8,168,14,18,11,11,17,13,5,19,11,14,5,20,22,20,5,3,17,3,20
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1S Pass 4S 
+Pass Pass Pass 
+[Play "W"]
+S3 S7 C9 S2 
+D3 D4 DA DJ 
+C3 CK C2 C4 
+D7 D6 D5 S5 
+CQ CA C5 C7 
+DK D8 D9 S8 
+H6 ST C8 C6 
+DQ DT D2 SJ 
+S4 SA H3 SK 
+S6 SQ H4 CT 
+H8 HA H9 H2 
+HK HQ HJ H5 
+S9 H7 CJ HT 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "6"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AQT7.AQ7.T864.AK .J943.A952.J9852 KJ852.T52.J.T764 9643.K86.KQ73.Q3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "9b7789b7784256542565"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D  7
+N  C  8
+S NT  9
+S  S 11
+S  H  7
+S  D  7
+S  C  8
+E NT  4
+E  S  2
+E  H  5
+E  D  6
+E  C  5
+W NT  4
+W  S  2
+W  H  5
+W  D  6
+W  C  5
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,52,73,23,174,40,91,34,145,72,350,34,141,37,18,19,729,112,29,15,12,1702,8,29,28,13,34,18,21,32,9,7,45,25,10,21,11,21,10,8,43,23,16,66,18,14,7,7,9,23,4,39,5,15,8,15
+[Auction "E"]
+Pass Pass Pass 1C =1= 
+Pass 1H =2= Pass 3D =3= 
+Pass 4H =4= Pass 4S 
+Pass Pass Pass 
+[Note "1: 2+, may have 5♢"]
+[Note "2: spades"]
+[Note "3: 18-19 bal, 4♠"]
+[Note "4: transfer to 4S"]
+[Play "E"]
+C2 C4 CQ CK 
+DA DJ D3 D4 
+H4 H2 HK HA 
+D2 S2 D7 D6 
+H3 H5 H6 HQ 
+D5 S5 DQ D8 
+C5 S8 S3 ST 
+D9 SJ DK DT 
+C8 SK S4 S7 
+C9 C6 C3 CA 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "7"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K754.J976.54.653 632.KT82.AJ832.T AT9.A5.K976.K874 QJ8.Q43.QT.AQJ92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "56545565458788886888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  4
+N  C  5
+S NT  5
+S  S  6
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,122,24,63,38,95,66,44,35,78,42,17,14,706,33,17,27,144,20,20,7,19,6,22,156,132,222,27,29,598,24,13,17
+[Auction "S"]
+1NT =1= Pass Pass Pass 
+[Note "1: 14-16"]
+[Play "W"]
+CQ C5 CT CK 
+C9 C3 S6 C8 
+H3 H6 H8 HA 
+SJ SK S2 ST 
+S8 S5 S3 SA 
+H4 H7 HT H5 
+DT D4 D3 DK 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "7"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K754.J976.54.653 632.KT82.AJ832.T AT9.A5.K976.K874 QJ8.Q43.QT.AQJ92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "56545565458788886888"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  5
+N  D  4
+N  C  5
+S NT  5
+S  S  6
+S  H  5
+S  D  4
+S  C  5
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  8
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  8
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 7,0,3,186,121,69,107,295,89,41,91,51,174,30,1724,97,861,77,739,29,70,31,26,23,449,30,46,28,431,32,6,36,260,12,23,31,91,18,9,30,60,18,9,42,113,98,658,36,32,88,16,19,51,13,26,11,143,12,28,12,17,6,8,5,4,17,5,9
+[Auction "S"]
+1C =1= Pass 1D =2= X =3= 
+Pass =4= 1H =5= Pass 2D 
+Pass 2H =6= Pass Pass 
+Pass 
+[Note "1: 2+, could have 5 diamonds"]
+[Note "2: 4+♡"]
+[Note "3: diamonds"]
+[Note "4: weak nt, 2 hearts"]
+[Note "5:  * f1 [0:06]"]
+[Note "6:  * f1 [0:09]"]
+[Play "N"]
+S4 S2 SA S8 
+SK S3 ST SQ 
+D5 D2 DK DQ 
+S5 S6 S9 SJ 
+D4 DJ D7 DT 
+C3 CT C4 C2 
+H6 DA D6 C9 
+S7 D3 HA CJ 
+C5 D8 D9 HQ 
+H7 H8 H5 H3 
+H9 HK C7 H4 
+HJ H2 C8 CQ 
+C6 HT CK CA 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "8"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A982.A4.875.T852 T6.KQJT65.4.K943 KQ54.98732.QJ2.Q J73..AKT963.AJ76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "57443574438689a8689a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  3
+E NT  8
+E  S  6
+E  H  8
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 7,2,1,36,35,174,37,131,38,274,281,229,55,93,188,23,18,49,18,22,10,87,22,18,17,53,27,13,23,22,84,21,39,17,23,5,17,7,28,12,156,172,20,13,109,15,21,11,14,11,17,10,39,11,20,9,4,32,9,3,18,5,9,3,11
+[Auction "W"]
+1D =1= Pass 1H Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Note "1:  * 3+ [0:05]"]
+[Play "S"]
+SK S3 S2 S6 
+S4 S7 SA ST 
+SQ SJ S9 H5 
+H3 C6 HA HQ 
+S5 D3 S8 H6 
+H2 D6 H4 HK 
+H9 C7 C2 HJ 
+H7 D9 C5 HT 
+CQ CA C8 C3 
+H8 CJ CT CK 
+DQ DA D5 D4 
+D2 DK D7 C4 
+DJ DT D8 C9 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "8"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A982.A4.875.T852 T6.KQJT65.4.K943 KQ54.98732.QJ2.Q J73..AKT963.AJ76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "57443574438689a8689a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  3
+E NT  8
+E  S  6
+E  H  8
+E  D  9
+E  C 10
+W NT  8
+W  S  6
+W  H  8
+W  D  9
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 17,0,3,88,39,41,34,22,39,220,27,34,18,160,884,14,18,35,20,9,15,47,8,20,16,61,16,254,48,399,30,6,23,52,17,27,25,55,44,97,21,22,17,6,24,17,16,19,7,16,13,11,10,21,16
+[Auction "W"]
+1D Pass 1H Pass 
+2C Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+CQ CA C5 C3 
+D2 DA D7 D4 
+DJ DK D5 S6 
+DQ DT D8 ST 
+S4 S3 SA H5 
+H2 D3 HA HT 
+H3 C6 C2 C9 
+SK S7 S2 H6 
+H7 SJ H4 HK 
+H8 D6 S8 HQ 
+H9 -  -  HJ 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "9"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.K98742.KQ3.7 QJ3.63.T8.AKT954 K972.QT5.9642.86 654.AJ.AJ75.QJ32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "58863588638546985469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  6
+N  C  3
+S NT  5
+S  S  8
+S  H  8
+S  D  6
+S  C  3
+E NT  8
+E  S  5
+E  H  4
+E  D  6
+E  C  9
+W NT  8
+W  S  5
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 19,2,1,77,234,61,56,172,87,34,320,41,27,33,633,108,21,14,18,91,8,16,6,13,10,729,24,68,7,33,7,60,7,28,10,22,14,12,32,28,6,83,241,24,9,16,31,26,12,17,13,5,21,5
+[Auction "N"]
+1H 2C 2H 3NT 
+4H Pass Pass 4NT 
+Pass Pass Pass 
+[Play "N"]
+H7 H3 HQ HA 
+C7 CA C6 C3 
+H2 C4 C8 CQ 
+ST CK S2 CJ 
+S8 CT D2 C2 
+D3 C9 D4 S4 
+H4 C5 H5 S5 
+DQ DT D6 DA 
+SA S3 S7 S6 
+HK H6 HT HJ 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "9"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.K98742.KQ3.7 QJ3.63.T8.AKT954 K972.QT5.9642.86 654.AJ.AJ75.QJ32"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "58863588638546985469"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  8
+N  D  6
+N  C  3
+S NT  5
+S  S  8
+S  H  8
+S  D  6
+S  C  3
+E NT  8
+E  S  5
+E  H  4
+E  D  6
+E  C  9
+W NT  8
+W  S  5
+W  H  4
+W  D  6
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,0,3,44,44,336,50,425,113,141,29,36,59,455,68,11,7,318,9,9,9,41,26,12,28,271,18,27,13,76,51,15,28,8,24,9,20,8,21,12,9,25
+[Auction "N"]
+1H Pass 1S Pass 
+2C =1= Pass 2H Pass 
+Pass Pass 
+[Note "1: 6+♡ up to 14/17+ or various string hands"]
+[Play "E"]
+CK C6 C2 C7 
+CA C8 C3 H2 
+H3 HQ HA H4 
+H6 H5 HJ HK 
+SQ SK S6 ST 
+S3 S2 S4 SA 
+SJ S7 S5 S8 
+DT -  -  -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "10"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T764.K82.J842.A8 52.954.AKQ93.QT7 AJ98.AQJT6.T.K62 KQ3.73.765.J9543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "8aa668aa665337753377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  6
+N  C  6
+S NT  8
+S  S 10
+S  H 10
+S  D  6
+S  C  6
+E NT  5
+E  S  3
+E  H  3
+E  D  7
+E  C  7
+W NT  5
+W  S  3
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 12,2,1,162,57,29,385,46,117,24,413,19,40,22,39,66,94,22,95,44,7,13,42,19,15,27,15,19,31,15,45,29,12,29,27,10,10,11,20,8,18,7,56,10,31,12,13,10,16,190,256,34,14,10
+[Auction "E"]
+1D 1H Pass 2H 
+Pass 2S Pass 3H 
+Pass Pass Pass 
+[Play "W"]
+D5 D2 DK DT 
+D7 D4 DA H6 
+C5 CA C7 C2 
+SQ S4 S2 SJ 
+D6 D8 D9 HT 
+C3 C8 CT CK 
+CJ H8 CQ C6 
+S3 S7 S5 SA 
+SK S6 D3 S9 
+C9 HK DQ S8 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "10"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:T764.K82.J842.A8 52.954.AKQ93.QT7 AJ98.AQJT6.T.K62 KQ3.73.765.J9543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "8aa668aa665337753377"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H 10
+N  D  6
+N  C  6
+S NT  8
+S  S 10
+S  H 10
+S  D  6
+S  C  6
+E NT  5
+E  S  3
+E  H  3
+E  D  7
+E  C  7
+W NT  5
+W  S  3
+W  H  3
+W  D  7
+W  C  7
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 18,0,3,497,168,50,75,52,271,51,206,44,131,24,17,26,80,175,182,27,1164,149,57,53,156,32,21,66,57,59,30,117,88,40,17,9,17,23,12,13,32,8,44,31,129,64,27,54,25,25,17,20,17,102,8,9,23,12
+[Auction "E"]
+1D =1= 1H Pass 2H 
+Pass 2S =2= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 3 if 4432"]
+[Note "2: long-suit game try"]
+[Play "W"]
+D5 D2 DQ DT 
+C9 CA C7 C2 
+SK ST S5 S8 
+D6 D8 D9 S9 
+C3 C8 CT CK 
+C4 S7 CQ C6 
+SQ S4 S2 SJ 
+D7 DJ DK SA 
+H3 HK H4 H6 
+S3 S6 D3 HT 
+-  H2 H5 -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "11"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T984.652.AQ4.A97 J732.K974.J75.J6 AK5.T.98632.T853 Q6.AQJ83.KT.KQ42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "67586675866685666856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  8
+S  C  6
+E NT  6
+E  S  6
+E  H  8
+E  D  5
+E  C  6
+W NT  6
+W  S  6
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,73,12,239,168,83,19,43,13,36,139,600,27,16,44,42,7,17,522,24,7,41,53,27,26,5,106,14,44,33,14,26,6,27,17,74,21,8,14,20,9,15,13,22,6,20,162,16
+[Auction "S"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "N"]
+H6 H4 HT HA 
+C9 CJ C3 C2 
+C7 C6 C8 C4 
+DA D5 D6 DK 
+H5 H7 D9 H3 
+DQ D7 D2 DT 
+H2 HK D8 HJ 
+D4 DJ D3 S6 
+S4 S2 SA SQ 
+-  -  SK H8 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "11"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T984.652.AQ4.A97 J732.K974.J75.J6 AK5.T.98632.T853 Q6.AQJ83.KT.KQ42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "67586675866685666856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  8
+N  C  6
+S NT  6
+S  S  7
+S  H  5
+S  D  8
+S  C  6
+E NT  6
+E  S  6
+E  H  8
+E  D  5
+E  C  6
+W NT  6
+W  S  6
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,55,90,32,163,38,69,25,17,24,15,103,10,41,280,17,24,59,50,53,30,41,311,23,23,20,71,22,72,40,218,124,14,18,5,15,12,7,5,21,18,13,54,51
+[Auction "S"]
+Pass 1H Pass 3H =1= 
+Pass 4H Pass Pass 
+Pass 
+[Note "1: 0-6 preemptive"]
+[Play "N"]
+H2 H4 HT HQ 
+H5 H9 D9 H3 
+ST S2 SK S6 
+CA C6 C8 C2 
+S9 S3 SA SQ 
+DQ D5 D6 DT 
+DA D7 D3 DK 
+C7 CJ C5 C4 
+-  H7 S5 -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "12"]
+[West "Giles Ip#415797"]
+[North "Clive Owen#24687"]
+[East "Steve Raine#117012"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K5.AK4.AKQT43.76 962.T532.J765.85 AJT74.986.92.AKJ Q83.QJ7.8.QT9432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cdbc9cdbc91021310214"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 13
+N  H 11
+N  D 12
+N  C  9
+S NT 12
+S  S 13
+S  H 11
+S  D 12
+S  C  9
+E NT  1
+E  S  0
+E  H  2
+E  D  1
+E  C  3
+W NT  1
+W  S  0
+W  H  2
+W  D  1
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 29,2,1,26,240,23,153,19,312,20,63,25,93,20,38,26,215,171,13,24,73,22,29,12,25,21,17,20,1358,25,19,8,113,16,22,9,95,30,10,32,367,14,23,9,235,12,37,11,32,14,69,20,29,10,30,34,62,13,15,8,12,8,75,18,7,20,3,16
+[Auction "W"]
+Pass 2NT Pass 3H =1= 
+Pass 3NT Pass 4NT 
+Pass 6NT Pass Pass 
+Pass 
+[Note "1: Ss"]
+[Play "E"]
+H5 H9 HQ HA 
+D5 D2 D8 DA 
+D7 D9 C2 DK 
+D6 S4 C3 DQ 
+DJ S7 C4 DT 
+C8 CA C9 C6 
+C5 CK CT C7 
+H3 H6 H7 HK 
+S2 H8 HJ D3 
+H2 CJ CQ D4 
+S6 ST S3 SK 
+S9 SJ SQ S5 
+HT SA S8 H4 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "12"]
+[West "John Sansom#63310"]
+[North "Andy Cope#"]
+[East "Jason Hackett#035424"]
+[South "Jack Ronayne#474846"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:K5.AK4.AKQT43.76 962.T532.J765.85 AJT74.986.92.AKJ Q83.QJ7.8.QT9432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cdbc9cdbc91021310214"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 13
+N  H 11
+N  D 12
+N  C  9
+S NT 12
+S  S 13
+S  H 11
+S  D 12
+S  C  9
+E NT  1
+E  S  0
+E  H  2
+E  D  1
+E  C  3
+W NT  1
+W  S  0
+W  H  2
+W  D  1
+W  C  4
+[OptimumScore "NS +2210"]
+[Competition "Teams"]
+% RBDATA 29,0,3,62,436,99,330,31,76,35,300,33,101,34,221,53,45,47,1207,88,26,20,19,30,4,9,8,26,7,7,239,47,12,10,78,25,6,42,1154,18,33,35,34,49,11,26,238,30,7,19,28,16,175,28,9,77,31,30,14,24,20,21,12,12,5,10,7,7,4,11
+[Auction "W"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2NT =3= Pass 3H =4= 
+Pass 3NT =5= Pass 6NT 
+Pass Pass Pass 
+[Note "1: 22+ bal or art gf"]
+[Note "2: waiting"]
+[Note "3: 22-23 bal"]
+[Note "4: spades"]
+[Note "5: no fit"]
+[Play "E"]
+H5 H6 HQ HK 
+D5 D2 D8 DA 
+D6 D9 C2 DK 
+D7 H8 C3 DQ 
+DJ S4 C4 D3 
+H2 H9 HJ HA 
+H3 S7 H7 DT 
+C5 CA C9 C7 
+S2 SJ S8 SK 
+C8 ST S3 D4 
+S6 CK CT C6 
+S9 SA SQ S5 
+HT CJ CQ H4 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "13"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A7.KQJ8.J62.A753 KT.T962.T973.Q42 Q543.753.K8.KJT9 J9862.A4.AQ54.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "97859978594647346473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  5
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 4,2,0,390,20,157,230,147,299,306,102,60,31,18,19,122,18,16,32,62,20,24,13,64,7,23,218,235,72,61,29,190,178,34,5,29,24,22,14,45,13,25,25,36,24,9,19,8,21,48,23,29,13,18,7,6,16,5,12
+[Auction "N"]
+1NT Pass Pass Pass =1= 
+[Note "1: spades + minor"]
+[Play "E"]
+H9 H3 HA H8 
+H2 H5 H4 HK 
+C4 C9 C6 C3 
+C2 CT C8 CA 
+CQ CK D4 C5 
+HT CJ S9 C7 
+H6 H7 D5 HQ 
+D7 S3 S2 HJ 
+D3 DK DA D2 
+SK S4 S6 S7 
+ST S5 S8 SA 
+D9 D8 DQ D6 
+DT SQ SJ DJ 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "13"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A7.KQJ8.J62.A753 KT.T962.T973.Q42 Q543.753.K8.KJT9 J9862.A4.AQ54.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "97859978594647346473"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  7
+N  H  8
+N  D  5
+N  C  9
+S NT  9
+S  S  7
+S  H  8
+S  D  5
+S  C  9
+E NT  4
+E  S  6
+E  H  4
+E  D  7
+E  C  3
+W NT  4
+W  S  6
+W  H  4
+W  D  7
+W  C  3
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,1,3,116,41,151,31,86,84,28,34,85,23,13,22,217,484,26,18,12,49,35,21,244,34,11,22,16,18,14,78,3142,103,35,16,44,14,54,7,133,16,31
+[Auction "N"]
+1NT =1= Pass 3C =2= Pass 
+3D =3= Pass 3H =4= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: 5 card puppet "]
+[Note "3: no 5 cM"]
+[Note "4: 4♠"]
+[Play "E"]
+H2 H7 HA H8 
+H6 H3 H4 HQ 
+C2 CK C6 C3 
+CQ C9 C8 C5 
+DT D8 DQ D6 
+D9 DK DA D2 
+SK -  S6 S7 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "14"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J97.A843.AQT4.53 QT2.Q5.98763.872 K86.KT9762..AJ64 A543.J.KJ52.KQT9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "98a6898a684537545375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  6
+N  C  8
+S NT  9
+S  S  8
+S  H 10
+S  D  6
+S  C  8
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  5
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,32,40,47,366,40,181,34,31,69,34,22,439,40,6,23,32,38,14,13,64,27,16,22,20,14,22,31
+[Auction "E"]
+Pass 1H X 4H 
+Pass Pass Pass 
+[Play "W"]
+CK C3 C8 C4 
+HJ H3 H5 HK 
+S3 HA HQ HT 
+D2 DA D8 S6 
+SA S7 ST SK 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "14"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:J97.A843.AQT4.53 QT2.Q5.98763.872 K86.KT9762..AJ64 A543.J.KJ52.KQT9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "98a6898a684537545375"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H 10
+N  D  6
+N  C  8
+S NT  9
+S  S  8
+S  H 10
+S  D  6
+S  C  8
+E NT  4
+E  S  5
+E  H  3
+E  D  7
+E  C  5
+W NT  4
+W  S  5
+W  H  3
+W  D  7
+W  C  5
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,92,11,42,370,61,563,45,201,56,27,22,42,55,185,17,157,33,12,13,10,96,11,30,17,21,14,30,28,15,31,10,62,21,5,10,6,17,5,23
+[Auction "E"]
+Pass 1H X 2NT =1= 
+Pass 3S =2= Pass 4H 
+Pass Pass Pass 
+[Note "1: 4c H raise"]
+[Note "2: non-min, short ♢"]
+[Play "W"]
+CK C3 C8 CA 
+HJ H3 H5 HK 
+S3 HA HQ HT 
+C9 C5 C7 C4 
+D5 DQ D3 S6 
+D2 DA D6 S8 
+SA S7 S2 SK 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "15"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q83.QJT9643.82.8 A5..AQ763.AK7542 KT9762.K87.JT.Q6 J4.A52.K954.JT93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "13"]
+[Score "NS -440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "0780007800d65ddd65dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  8
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  8
+S  D  0
+S  C  0
+E NT 13
+E  S  6
+E  H  5
+E  D 13
+E  C 13
+W NT 13
+W  S  6
+W  H  5
+W  D 13
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 20,2,0,114,68,155,70,59,213,33,12,27,45,177,34,31,32,93,20,20,36,20,24,23,132,41,16,25
+[Auction "S"]
+2S =1= Pass 3S 4NT =2= 
+Pass 5C Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: minors"]
+[Play "N"]
+S3 SA S2 S4 
+C8 CA C6 C3 
+HQ CK CQ CJ 
+D2 D3 DJ DK 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "15"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:Q83.QJT9643.82.8 A5..AQ763.AK7542 KT9762.K87.JT.Q6 J4.A52.K954.JT93"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS -940"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "0780007800d65ddd65dd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  7
+N  H  8
+N  D  0
+N  C  0
+S NT  0
+S  S  7
+S  H  8
+S  D  0
+S  C  0
+E NT 13
+E  S  6
+E  H  5
+E  D 13
+E  C 13
+W NT 13
+W  S  6
+W  H  5
+W  D 13
+W  C 13
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 25,1,3,56,54,142,122,22,70,24,872,29,29,24,20,186,24,29,187,7,22,10,103,14,12,7,288,15,18,30,20,19,16,7
+[Auction "S"]
+2S =1= Pass 3S 4NT =2= 
+Pass 5C Pass 6C 
+Pass Pass Pass 
+[Note "1: weak"]
+[Note "2: minors"]
+[Play "N"]
+S3 SA S2 S4 
+C8 CA C6 C3 
+H9 CK CQ C9 
+D2 D3 DT DK 
+H3 S5 H7 HA 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "16"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K9863.T73.K8.974 T.AKQ652.2.QT653 J4.J984.AQJ74.K2 AQ752..T9653.AJ8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "462515725265b6b76b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  5
+N  C  1
+S NT  5
+S  S  7
+S  H  2
+S  D  5
+S  C  2
+E NT  6
+E  S  5
+E  H 11
+E  D  6
+E  C 11
+W NT  7
+W  S  6
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 20,2,0,90,34,66,61,102,39,29,35,370,162,236,28,387,49,11,34,37,38,19,7,82,14,24,32,337,29,6,42,7,25,7,33,11,19,11,12,9,21,36,133,43,27,6,23,7,19,16,20,30,14,52,20,13
+[Auction "W"]
+1S Pass 2H =1= Pass 
+2S Pass 3C Pass 
+3NT Pass 4H Pass 
+5C Pass Pass Pass 
+[Note "1: 5+♡ GF"]
+[Play "S"]
+DA D3 D8 D2 
+D4 D5 DK C3 
+H4 D6 H7 HA 
+H8 S2 H3 HK 
+H9 D9 HT HQ 
+HJ CJ S3 H2 
+C2 CA C4 C5 
+CK C8 C9 CT 
+DQ DT S6 C6 
+-  -  -  CQ 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "16"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:K9863.T73.K8.974 T.AKQ652.2.QT653 J4.J984.AQJ74.K2 AQ752..T9653.AJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "462515725265b6b76b6b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  2
+N  D  5
+N  C  1
+S NT  5
+S  S  7
+S  H  2
+S  D  5
+S  C  2
+E NT  6
+E  S  5
+E  H 11
+E  D  6
+E  C 11
+W NT  7
+W  S  6
+W  H 11
+W  D  6
+W  C 11
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 14,1,3,104,29,76,13,143,60,276,20,48,40,1739,35,69,152,132,34,277,40,18,12,22,14,24,64,24,50,53,52,57,7,36,8,101,20,12,13,25,8,13,8,24,7,10,46,41,16,25,17,50,10,19
+[Auction "W"]
+1S Pass 2H Pass 
+3D Pass 3H Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+C7 C3 C2 C8 
+C9 C5 CK CA 
+C4 CQ D4 CJ 
+S3 CT S4 S2 
+H7 C6 D7 S5 
+H3 HA H8 D3 
+HT HK H4 D5 
+D8 HQ H9 D6 
+S6 ST SJ SA 
+DK D2 -  D9 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "17"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:987.K.KQ765.AK62 KT53.AQT985..J85 QJ642.642.J982.Q A.J73.AT43.T9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "472844728496a5996a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  2
+N  D  8
+N  C  4
+S NT  4
+S  S  7
+S  H  2
+S  D  8
+S  C  4
+E NT  9
+E  S  6
+E  H 10
+E  D  5
+E  C  9
+W NT  9
+W  S  6
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 21,2,0,65,57,210,139,232,83,82,58,71,19,36,13,91,37,21,17,21,46,27,49,52,49,155,356,43,9,16,59,74,7,65,899,22,20,7,16,9,10,7,14,9,38,17,530,14,16,48,9,21,48,30,51
+[Auction "N"]
+1D 1H 1S 2D =1= 
+X 4H 5D X 
+Pass Pass Pass 
+[Note "1: ucb"]
+[Play "E"]
+HA H2 H7 HK 
+HQ H4 H3 D5 
+H5 D2 DA DQ 
+S3 S2 SA S8 
+C5 CQ C9 C2 
+H8 H6 HJ D6 
+C8 S4 C3 CA 
+CJ S6 C4 CK 
+SK SJ C7 S9 
+S5 SQ D4 S7 
+-  -  CT -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "17"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:987.K.KQ765.AK62 KT53.AQT985..J85 QJ642.642.J982.Q A.J73.AT43.T9743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "472844728496a5996a59"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  2
+N  D  8
+N  C  4
+S NT  4
+S  S  7
+S  H  2
+S  D  8
+S  C  4
+E NT  9
+E  S  6
+E  H 10
+E  D  5
+E  C  9
+W NT  9
+W  S  6
+W  H 10
+W  D  5
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,98,197,69,92,83,443,569,52,58,258,105,12,19,43,19,9,16,17,15,17,8,21,16,9,7,29,8,46,11,22,7,56,9,19,15,19,9
+[Auction "N"]
+1D 1H 1S 2D =1= 
+X =2= 4H Pass Pass 
+Pass 
+[Note "1:  * ucb [0:08]"]
+[Note "2: support"]
+[Play "S"]
+SQ SA S7 S3 
+D2 DA D7 C5 
+D9 D3 D5 H5 
+S2 C3 S8 SK 
+S4 H7 S9 S5 
+DJ D4 D6 H8 
+SJ HJ HK ST 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "18"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:32.875.AKQ92.QJ8 AJ9.KQT4.T753.K5 KT85.J3.J4.AT432 Q764.A962.86.976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "8759a8759a3672236722"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H  5
+S  D  9
+S  C 10
+E NT  3
+E  S  6
+E  H  7
+E  D  2
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  2
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 7,2,0,97,53,91,69,242,62,53,53,49,151,155,7,89,9,65,22,607,14,55,16,10,26,21,24,67,14,27,20,623,57,28,41,219,23,10,20,29,11,27,8,41,11,15,6,25,39,13,5,18,28,11,25,8,18,7,11,6,10,9,10
+[Auction "E"]
+1C =1= Pass 1D =2= X 
+2H =3= Pass Pass Pass 
+[Note "1: 2+, may have 5♢"]
+[Note "2: hearts"]
+[Note "3: 4♡, 12-14 bal or min unbal"]
+[Play "S"]
+DJ D6 D9 D3 
+D4 D8 DQ D5 
+C3 H2 DK D7 
+SK S4 S2 SJ 
+S5 S6 S3 S9 
+C2 H6 D2 DT 
+CA C6 C8 CK 
+ST S7 H5 SA 
+C4 C7 CQ C5 
+CT C9 CJ HQ 
+H3 HA H7 H4 
+HJ H9 H8 HK 
+S8 SQ DA HT 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "18"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:32.875.AKQ92.QJ8 AJ9.KQT4.T753.K5 KT85.J3.J4.AT432 Q764.A962.86.976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "8759a8759a3672236722"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  9
+N  C 10
+S NT  8
+S  S  7
+S  H  5
+S  D  9
+S  C 10
+E NT  3
+E  S  6
+E  H  7
+E  D  2
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  2
+W  C  2
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 7,1,3,266,14,48,68,36,37,67,109,146,88,31,46,113,24,5,14,131,45,15,17,278,18,18,18,246,36,13,38,40,14,20,7,48,52,44,12,167,21,18,23,219,26,13,23,47,7,25,8,29,10,10,5,18,5,19,7,9,6,13,5
+[Auction "E"]
+1D =1= Pass 1H Pass 
+2H Pass Pass Pass 
+[Note "1: 3 if 4432"]
+[Play "N"]
+DK D3 DJ D8 
+DQ D5 D4 D6 
+CQ CK CA C7 
+C8 C5 C3 C6 
+H5 H4 HJ HA 
+CJ HT C4 C9 
+D9 D7 S5 H2 
+S2 SJ SK S4 
+H7 HQ H3 H6 
+H8 HK C2 H9 
+S3 SA S8 S6 
+D2 S9 ST SQ 
+DA DT CT S7 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "19"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ75.AKQ3.8.T854 KQ2.J7.AJT765.Q6 T98643.964.94.97 .T852.KQ32.AKJ32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "2850228502957bb957bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  5
+N  D  0
+N  C  2
+S NT  2
+S  S  8
+S  H  5
+S  D  0
+S  C  2
+E NT  9
+E  S  5
+E  H  7
+E  D 11
+E  C 11
+W NT  9
+W  S  5
+W  H  7
+W  D 11
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 14,2,0,80,113,93,61,47,235,45,231,48,90,29,164,29,133,37,41,84,350,22,17,18,30
+[Auction "S"]
+Pass 1C =1= Pass 1NT =2= 
+Pass 2H Pass 2NT =3= 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 2+, could have 5 diamonds"]
+[Note "2: GF 5+♢"]
+[Note "3: waiting"]
+[Play "S"]
+ST D2 SA S2 
+H9 -  H3 H7 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "19"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:AJ75.AKQ3.8.T854 KQ2.J7.AJT765.Q6 T98643.964.94.97 .T852.KQ32.AKJ32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "2850228502957bb957bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  5
+N  D  0
+N  C  2
+S NT  2
+S  S  8
+S  H  5
+S  D  0
+S  C  2
+E NT  9
+E  S  5
+E  H  7
+E  D 11
+E  C 11
+W NT  9
+W  S  5
+W  H  7
+W  D 11
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 21,1,3,27,137,236,183,94,50,36,222,72,43,23,25,30,145,107,254,31,24,25,21,21,17,116,17,42
+[Auction "S"]
+Pass 1C 1H 2D 
+Pass 3D Pass 3S 
+Pass 5D Pass Pass 
+Pass 
+[Play "S"]
+H4 H2 HK H7 
+H6 H5 HQ HJ 
+H9 H8 H3 DJ 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "20"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT987.K7.J7.KJT6 AQ.854.AKT652.74 K63.AT632.Q84.53 542.QJ9.93.AQ982"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "69856698566457664576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  6
+E NT  6
+E  S  4
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  4
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 14,2,0,99,66,113,38,56,62,12,41,34,60,37,7,90,14,41,8,376,13,21,4,52,8,122,12,15,21,6,28,7,24,6,11,16,21,14,30,21,55,35,6,19
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+3NT Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+H3 HQ HK H4 
+SK S2 SJ SQ 
+HA H9 H7 H5 
+H2 HJ C6 H8 
+D4 D9 D7 DA 
+D8 D3 DJ DK 
+DQ C2 S7 D2 
+HT C8 CT C4 
+H6 -  -  -  
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "20"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:JT987.K7.J7.KJT6 AQ.854.AKT652.74 K63.AT632.Q84.53 542.QJ9.93.AQ982"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "69856698566457664576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H  8
+N  D  5
+N  C  6
+S NT  6
+S  S  9
+S  H  8
+S  D  5
+S  C  6
+E NT  6
+E  S  4
+E  H  5
+E  D  7
+E  C  6
+W NT  6
+W  S  4
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 8,1,3,68,184,87,38,101,154,78,22,23,285,55,15,38,25,23,58,345,26,13,644,13,11,11,67,15,19,8,19,269,27,7,835,143,27,26,1664,25,6,31,7,483,44,33,33,34,5,22,22,14,23,6,12,17,27
+[Auction "W"]
+Pass Pass 1D =1= 1H 
+1NT Pass 2D Pass 
+Pass X Pass 2S 
+Pass Pass Pass 
+[Note "1: 3 if 4432"]
+[Play "W"]
+D9 D7 DK D4 
+D3 DJ DA D8 
+CA C6 C7 C3 
+C2 CK C4 C5 
+C8 CT H8 S3 
+H9 HK H4 H2 
+C9 CJ DT S6 
+S4 S7 SA SK 
+S2 S8 SQ H3 
+HJ -  H5 HA 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "21"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT43..J9763.985 875.KJT963.52.43 AJ62.A754.AT.QT7 9.Q82.KQ84.AKJ62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "79374793756394663947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  3
+N  D  7
+N  C  4
+S NT  7
+S  S  9
+S  H  3
+S  D  7
+S  C  5
+E NT  6
+E  S  3
+E  H  9
+E  D  4
+E  C  6
+W NT  6
+W  S  3
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,0,78,95,208,322,124,49,35,314,130,16,83,36,33,12,81,229,40,37,39,21,5,17,40,19,41,27,513,103,21,60,449,18,15,6,17,15,13,6,462,75,16,18,74,17,17,19,603,12,18,74,26,14,20,25,17,16,18,7,28,8,11,13,10,5,10,4
+[Auction "N"]
+Pass 2D =1= X =2= Pass =3= 
+Pass 2H Pass 3H 
+3S Pass 4S Pass 
+Pass Pass 
+[Note "1: weak only multi"]
+[Note "2: 13-15 ish bal or big"]
+[Note "3: bid your major"]
+[Play "E"]
+C4 C7 CJ C8 
+C3 CT CA C9 
+H3 CQ CK C5 
+H9 HA H2 D3 
+D2 DA D4 D6 
+D5 DT DQ D7 
+H6 H4 HQ S3 
+S5 S2 S9 SK 
+S7 S6 C2 SQ 
+HT SJ D8 D9 
+HK H5 H8 S4 
+HJ SA DK DJ 
+S8 H7 C6 ST 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "21"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT43..J9763.985 875.KJT963.52.43 AJ62.A754.AT.QT7 9.Q82.KQ84.AKJ62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS 300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "79374793756394663947"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  3
+N  D  7
+N  C  4
+S NT  7
+S  S  9
+S  H  3
+S  D  7
+S  C  5
+E NT  6
+E  S  3
+E  H  9
+E  D  4
+E  C  6
+W NT  6
+W  S  3
+W  H  9
+W  D  4
+W  C  7
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 22,1,3,186,535,33,75,145,38,337,43,48,28,19,101,156,41,37,23,31,27,267,67,67,19,54,31,30,17,1108,31,17,21,95,17,70,14,50,24,13,29,30,16,17,34,265,25,16,9
+[Auction "N"]
+Pass Pass 1NT =1= Pass 
+2H =2= X 3S =3= 4H 
+4S Pass Pass 5C 
+Pass 5H X Pass 
+Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♠"]
+[Note "3: min with 4-5♠"]
+[Play "N"]
+SK S5 S2 S9 
+D6 D2 DA D8 
+D3 D5 DT DK 
+S3 H9 H4 H2 
+S4 S7 S6 H8 
+D7 S8 H5 DQ 
+D9 H3 HA HQ 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "22"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:74.K.KT962.J8743 A3.AT8532.J84.Q6 JT85.Q764.Q.K952 KQ962.J9.A753.AT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "232472324799b9699b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  4
+N  C  7
+S NT  2
+S  S  3
+S  H  2
+S  D  4
+S  C  7
+E NT  9
+E  S  9
+E  H 11
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,2,0,103,27,102,42,92,42,178,59,93,31,194,26,30,26,29,411,216,37,122,23,32,21,61,62,9,79,722,28,12,28,149,13,52,8,267,15,37,13,14
+[Auction "E"]
+1H Pass 1S Pass 
+2C =1= Pass 2D =2= Pass 
+2H =3= Pass 4H Pass 
+Pass Pass 
+[Note "1: 6+♡ up to 14/17+ or various string hands"]
+[Note "2: 8+"]
+[Note "3: 6+♡ up to 14"]
+[Play "S"]
+DQ DA D2 D4 
+H4 HJ HK HA 
+H6 H9 D6 H2 
+C2 D3 DK D8 
+H7 D5 DT DJ 
+S5 S2 S7 SA 
+-  -  -  HT 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "22"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:74.K.KT962.J8743 A3.AT8532.J84.Q6 JT85.Q764.Q.K952 KQ962.J9.A753.AT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "232472324799b9699b96"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  2
+N  D  4
+N  C  7
+S NT  2
+S  S  3
+S  H  2
+S  D  4
+S  C  7
+E NT  9
+E  S  9
+E  H 11
+E  D  9
+E  C  6
+W NT  9
+W  S  9
+W  H 11
+W  D  9
+W  C  6
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 17,1,3,182,19,30,70,95,20,115,21,26,27,420,150,29,22,21,27,9,6,699,32,17,13,167,10,17,30,9,39,7,24,819,21,17,5,146,16,24,7,22,5
+[Auction "E"]
+1H Pass 1S Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+H4 H9 HK HA 
+H6 HJ D2 H2 
+S5 S2 S4 SA 
+HQ D3 D6 HT 
+DQ DA DT D4 
+SJ SK S7 S3 
+S8 S6 C8 H3 
+H7 -  -  H8 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "23"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AT9.K4.QJ63.K987 843.QJ92.4.QJT65 KJ62.765.K975.42 Q75.AT83.AT82.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "76585765855584765857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  8
+N  C  5
+S NT  7
+S  S  6
+S  H  5
+S  D  8
+S  C  5
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,0,58,113,52,74,32,61,56,14,38,521,789,25,35,51,23,11,13,63,24,17,42,809,32,21,18,25,57,29,10,22,9,40,7,65,32,21,25,158,33,38,20,96,27,42,15,176,26,22,9,22,11,33,33,52,18,6,9,12,16,5,5
+[Auction "S"]
+Pass 1C =1= Pass 1D =2= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 2+, could have 5 diamonds"]
+[Note "2: 4+♡"]
+[Play "N"]
+D3 D4 DK DA 
+D6 H2 D9 D2 
+CK CQ C2 C3 
+S9 S3 SK S5 
+SA S4 S2 SQ 
+ST S8 SJ S7 
+C7 C5 C4 CA 
+DJ H9 D5 D8 
+C8 CJ H6 H8 
+DQ HJ D7 DT 
+C9 C6 H7 HT 
+H4 HQ H5 HA 
+HK CT S6 H3 
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "23"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AT9.K4.QJ63.K987 843.QJ92.4.QJT65 KJ62.765.K975.42 Q75.AT83.AT82.A3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "76585765855584765857"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  5
+N  D  8
+N  C  5
+S NT  7
+S  S  6
+S  H  5
+S  D  8
+S  C  5
+E NT  5
+E  S  5
+E  H  8
+E  D  4
+E  C  7
+W NT  6
+W  S  5
+W  H  8
+W  D  5
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,1,3,27,59,94,63,37,23,55,29,44,153,286,20,21,57,33,13,23,329,26,16,14,236,357,32,9,25,17,195,11,197,27,23,15,70,38,64,50
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 2H Pass Pass 
+Pass 
+[Play "S"]
+C4 C3 CK C6 
+C2 CA C7 C5 
+H7 H3 H4 H9 
+S2 S5 C9 CT 
+H5 S7 C8 CQ 
+SK SQ S9 S3 
+H6 HA HK H2 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "24"]
+[West "Jack Ronayne#474846"]
+[North "Clive Owen#24687"]
+[East "Andy Cope#"]
+[South "Brian Senior#61831"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:943.Q7.T93.KQJT3 AKQ85.9862.A4.A7 J76.AKJT43.QJ.65 T2.5.K87652.9842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "5472454724786a8786a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  2
+N  C  4
+S NT  5
+S  S  4
+S  H  7
+S  D  2
+S  C  4
+E NT  7
+E  S  8
+E  H  6
+E  D 10
+E  C  8
+W NT  7
+W  S  8
+W  H  6
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 12,2,0,66,46,54,81,35,98,134,45,44,24,28,13,12,19,10,5,26,51,10,8,35,13,9,6,23,20,10,435,41,6,31,15,60,78
+[Auction "W"]
+Pass Pass 1S 3H 
+Pass Pass Pass 
+[Play "W"]
+ST S4 SQ S7 
+S2 S3 SA SJ 
+D2 S9 SK S6 
+D5 D3 DA DJ 
+DK D9 D4 DQ 
+C8 CQ CA C5 
+D6 -  S8 C6 
+*
+
+[Event "07 Jun Cope vs Sansom"]
+[Site "RealBridge"]
+[Date "2024.06.07"]
+[Board "24"]
+[West "John Sansom#63310"]
+[North "Steve Raine#117012"]
+[East "Jason Hackett#035424"]
+[South "Giles Ip#415797"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:943.Q7.T93.KQJT3 AKQ85.9862.A4.A7 J76.AKJT43.QJ.65 T2.5.K87652.9842"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Sansom team"]
+[VisitTeam "Cope team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "5472454724786a8786a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  7
+N  D  2
+N  C  4
+S NT  5
+S  S  4
+S  H  7
+S  D  2
+S  C  4
+E NT  7
+E  S  8
+E  H  6
+E  D 10
+E  C  8
+W NT  7
+W  S  8
+W  H  6
+W  D 10
+W  C  8
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 7,1,3,117,44,20,29,36,174,2096,84,26,71,9,92,15,8,5,23,7,38,5,59,15,22,4,238,10,28,5,331,12,32,5,23,35,86,14,9,18,12,10,14,31,11,9
+[Auction "W"]
+Pass Pass 1S 2H 
+Pass Pass Pass 
+[Play "W"]
+ST S3 SQ S6 
+S2 S4 SA SJ 
+D2 S9 SK S7 
+D5 D3 DA DJ 
+DK D9 D4 DQ 
+C8 CK CA C5 
+C2 H7 S8 C6 
+H5 HQ H2 H3 
+D6 DT H8 HA 
+*

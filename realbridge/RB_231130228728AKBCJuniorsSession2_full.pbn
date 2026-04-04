@@ -1,0 +1,754 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "1"]
+[West "Joyce SY Smith#54635"]
+[North "Thomas Freeman-Greene#51590"]
+[East "Cindy Wang#54850"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:3.AT85.A762.J863 KJ54.K9732.J.KT9 T92.6.T98543.Q42 AQ876.QJ4.KQ.A75"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "222862228689b5789b57"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  8
+N  C  6
+S NT  2
+S  S  2
+S  H  2
+S  D  8
+S  C  6
+E NT  8
+E  S  9
+E  H 11
+E  D  5
+E  C  7
+W NT  8
+W  S  9
+W  H 11
+W  D  5
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 18,0,2,125,187,25,206,72,306,105,204,29,86,153,20,24,140,103,12,69,22,17,10,21,160,63,16,11,29,22,14,63,98,72,50,13,83,41,11,23,37,37,18,12,46,18,10,5,11,29,8,40,8,71,52,8,12,15,11,34,7,9,13,6
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+C3 C9 CQ CA 
+S3 SK S2 S6 
+D2 S4 S9 SA 
+H5 SJ ST S7 
+DA DJ D3 DQ 
+D7 H2 D4 DK 
+HA H3 H6 HQ 
+C6 CT C4 C5 
+C8 CK C2 C7 
+H8 H7 D5 HJ 
+HT HK D8 H4 
+D6 H9 D9 S8 
+CJ S5 DT SQ 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "1"]
+[West "David Kranz#52775"]
+[North "Katherine Griffith#51326"]
+[East "Sophie Kranz#52777"]
+[South "Joanna Silk#3019"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:3.AT85.A762.J863 KJ54.K9732.J.KT9 T92.6.T98543.Q42 AQ876.QJ4.KQ.A75"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "222862228689b5789b57"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  2
+N  D  8
+N  C  6
+S NT  2
+S  S  2
+S  H  2
+S  D  8
+S  C  6
+E NT  8
+E  S  9
+E  H 11
+E  D  5
+E  C  7
+W NT  8
+W  S  9
+W  H 11
+W  D  5
+W  C  7
+[OptimumScore "NS -450"]
+[Competition "Pairs"]
+% RBDATA 18,3,1,162,113,38,95,41,23,24,396,91,58,24,255,17,25,23,64,220,30,28,72,20,20,14,112,15,59,23,269,41,38,7,241,29,11,6,12,25,6,10,16,52,12,11,117,21,14,45,15,19,27,5,13,21,15,6,30,11,9,7
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2S Pass 4C 
+Pass 4D Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+C3 C9 CQ CA 
+S3 SK S2 S6 
+D2 S4 S9 SA 
+D6 S5 ST SQ 
+HA H2 H6 H4 
+DA DJ D3 DQ 
+D7 CT D9 DK 
+H5 H3 D4 HJ 
+H8 H7 C2 HQ 
+C6 CK C4 C5 
+HT HK D5 C7 
+*
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "2"]
+[West "David Kranz#52775"]
+[North "Katherine Griffith#51326"]
+[East "Sophie Kranz#52777"]
+[South "Joanna Silk#3019"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ54.T94.A4.J876 8763.KQJ2.K.AKQ5 AT2.A53.Q8763.94 J9.876.JT952.T32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "1C"]
+[Result "8"]
+[Score "NS -90"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "77666776666566666666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Pairs"]
+% RBDATA 0,3,1,347,396,32,34,191,104,9,14,19,57,258,38,42,39,15,21,94,56,23,8,71,20,9,9,39,76,21,14,29,19,12,33,30,20,26,9,125,20,30,14,32,49,30,10,43,8,29,21,14,20,8,7,8,6,11,8
+[Auction "E"]
+1C Pass Pass Pass 
+[Play "S"]
+D6 D2 DA DK 
+D3 D5 D4 C5 
+C4 C2 C6 CA 
+SA S9 S4 S3 
+S2 SJ SK S6 
+HA H6 H4 HJ 
+H3 H7 HT HQ 
+ST C3 S5 S7 
+H5 H8 H9 HK 
+D7 CT SQ S8 
+D8 D9 C7 CQ 
+C9 DT C8 CK 
+DQ DJ CJ H2 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "2"]
+[West "Joyce SY Smith#54635"]
+[North "Thomas Freeman-Greene#51590"]
+[East "Cindy Wang#54850"]
+[South "Jody Burchall#51578"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:KQ54.T94.A4.J876 8763.KQJ2.K.AKQ5 AT2.A53.Q8763.94 J9.876.JT952.T32"]
+[Scoring "MP;MP1"]
+[Round "1"]
+[Declarer "E"]
+[Contract "1C"]
+[Result "7"]
+[Score "NS -70"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "77666776666566666666"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  6
+N  D  6
+N  C  6
+S NT  7
+S  S  7
+S  H  6
+S  D  6
+S  C  6
+E NT  6
+E  S  5
+E  H  6
+E  D  6
+E  C  6
+W NT  6
+W  S  6
+W  H  6
+W  D  6
+W  C  6
+[OptimumScore "NS +90"]
+[Competition "Pairs"]
+% RBDATA 0,0,2,332,106,126,99,195,395,21,16,6,44,88,25,123,37,9,12,23,22,13,39,183,31,5,8,63,29,5,9,127,72,30,23,30,23,32,7,188,133,37,14,19,56,72,7,104,14,18,17,33,20,16,27,8,16,9,5
+[Auction "E"]
+1C Pass Pass Pass 
+[Play "S"]
+D6 D9 DA DK 
+D3 D2 D4 C5 
+H3 H6 H4 HJ 
+HA H7 H9 HQ 
+SA S9 S4 S3 
+S2 SJ SK S6 
+C4 C2 C6 CQ 
+ST C3 S5 S7 
+D7 D5 C7 CK 
+H5 CT SQ S8 
+C9 H8 HT HK 
+DQ DT CJ CA 
+D8 DJ C8 H2 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "3"]
+[West "Jody Burchall#51578"]
+[North "Sophie Kranz#52777"]
+[East "Thomas Freeman-Greene#51590"]
+[South "David Kranz#52775"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T9.QJT63.JT9.985 K532.A85.A843.K4 QJ874.74.K5.QJT6 A6.K92.Q762.A732"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "4442444424999b8999b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  2
+N  C  4
+S NT  4
+S  S  4
+S  H  4
+S  D  2
+S  C  4
+E NT  9
+E  S  9
+E  H  9
+E  D 11
+E  C  8
+W NT  9
+W  S  9
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+% RBDATA 14,1,0,114,194,46,195,21,101,34,45,96,38,16,57,341,27,62,63,24,30,19,26,43,20,10,144,35,65,16,20,54,31,15,44,47,14,37,17,38,15,12,63,26,10,13,24,22,11,12,18,29,7,18,18,42,15,21,14,14,11,11,11,13,10,6
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+HQ H5 H4 HK 
+D9 DA D5 D2 
+DT D3 DK D6 
+C5 CK C6 C2 
+DJ D4 S4 DQ 
+H3 D8 H7 D7 
+C8 C4 CT CA 
+S9 S2 S7 SA 
+ST SK S8 S6 
+H6 HA CJ H2 
+HJ H8 CQ H9 
+HT S3 SJ C3 
+C9 S5 SQ C7 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "3"]
+[West "Joyce SY Smith#54635"]
+[North "Katherine Griffith#51326"]
+[East "Cindy Wang#54850"]
+[South "Joanna Silk#3019"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:T9.QJT63.JT9.985 K532.A85.A843.K4 QJ874.74.K5.QJT6 A6.K92.Q762.A732"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "4442444424999b8999b8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  4
+N  D  2
+N  C  4
+S NT  4
+S  S  4
+S  H  4
+S  D  2
+S  C  4
+E NT  9
+E  S  9
+E  H  9
+E  D 11
+E  C  8
+W NT  9
+W  S  9
+W  H  9
+W  D 11
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+% RBDATA 14,3,2,189,120,91,163,75,23,19,43,82,57,21,11,163,25,176,20,88,14,11,75,31,17,9,44,110,16,21,53,24,18,10,34,11,20,39,41,42,25,9,262,23,52,14,58,20,8,6,38,11,10,24,54,12,14,17,30,7,9,9,11,17,9,7
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+HQ H5 H4 H2 
+HJ HA H7 H9 
+D9 D3 DK D2 
+C5 CK CT C2 
+DT D4 D5 DQ 
+DJ DA S4 D6 
+C8 D8 C6 D7 
+S9 S2 SJ SA 
+C9 C4 CJ CA 
+H3 H8 S7 HK 
+ST SK S8 S6 
+H6 S3 SQ C3 
+HT S5 CQ C7 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "4"]
+[West "Joyce SY Smith#54635"]
+[North "Katherine Griffith#51326"]
+[East "Cindy Wang#54850"]
+[South "Joanna Silk#3019"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q43.Q98753.A54.2 JT82.A4.K93.8654 AK95.KJT.872.QJ3 76.62.QJT6.AKT97"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "57943579433337933379"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  9
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  9
+S  D  4
+S  C  3
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  9
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 12,3,2,153,27,92,298,32,53,41,132,57,32,12,15,45,45,11,24,16,12,21,35,27,12,10,16,37,10,6,12,41,11,6,65,73,13,39,35,18,14,9,14,122,12,33,41,23,12,20,13,26,10,10
+[Auction "W"]
+Pass 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+ST S5 S7 SQ 
+H4 HT H2 H3 
+HA HJ H6 H5 
+D9 D2 D6 DA 
+S2 SA S6 S4 
+S8 SK C7 S3 
+SJ S9 C9 C2 
+C4 CQ CA H7 
+DK D7 DT D4 
+C5 CJ CK H8 
+D3 D8 DQ D5 
+*
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "4"]
+[West "Jody Burchall#51578"]
+[North "Sophie Kranz#52777"]
+[East "Thomas Freeman-Greene#51590"]
+[South "David Kranz#52775"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q43.Q98753.A54.2 JT82.A4.K93.8654 AK95.KJT.872.QJ3 76.62.QJT6.AKT97"]
+[Scoring "MP;MP1"]
+[Round "2"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "57943579433337933379"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  9
+N  D  4
+N  C  3
+S NT  5
+S  S  7
+S  H  9
+S  D  4
+S  C  3
+E NT  3
+E  S  3
+E  H  3
+E  D  7
+E  C  9
+W NT  3
+W  S  3
+W  H  3
+W  D  7
+W  C  9
+[OptimumScore "NS +140"]
+[Competition "Pairs"]
+% RBDATA 12,1,0,75,170,155,248,37,27,19,120,114,42,23,74,38,35,15,70,17,22,21,18,35,29,22,35,59,31,8,33,22,16,5,64,45,51,14,30,19,22,18,28,74,38,19,130,56,16,21,13,17,9,7,31,13,9,18,18,7,45,9
+[Auction "W"]
+Pass 2H Pass 3H 
+Pass Pass Pass 
+[Play "E"]
+SJ S5 S7 SQ 
+H4 HT H2 H3 
+HA HK H6 H5 
+D3 D2 DT DA 
+S2 SK S6 S3 
+S8 SA C7 S4 
+ST S9 C9 H7 
+C8 CJ CK C2 
+C6 C3 CA H8 
+C4 HJ D6 H9 
+C5 CQ CT D4 
+D9 D7 DJ D5 
+DK D8 DQ HQ 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "5"]
+[West "Joanna Silk#3019"]
+[North "Thomas Freeman-Greene#51590"]
+[East "Katherine Griffith#51326"]
+[South "Jody Burchall#51578"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q7.T75.KJ3.AJ632 T53.K632.T965.98 A4.AQJ84.742.K54 KJ9862.9.AQ8.QT7"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "b6c8cc6cac1613116131"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H 12
+N  D  8
+N  C 12
+S NT 12
+S  S  6
+S  H 12
+S  D 10
+S  C 12
+E NT  1
+E  S  6
+E  H  1
+E  D  3
+E  C  1
+W NT  1
+W  S  6
+W  H  1
+W  D  3
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Pairs"]
+% RBDATA 17,0,3,133,53,251,170,168,38,350,33,30,19,65,124,48,15,213,172,23,36,139,55,16,19,53,19,19,8,29,11,23,11,95,27,11,7,27,18,25,6,73,32,14,7,117,25,16,9,51,55,17,9,20,26,8,14,29,27,7,21,15,20,11,5,15,6,10,15
+[Auction "N"]
+Pass Pass 1H 2S 
+3H Pass Pass 3S 
+Pass Pass 4H Pass 
+Pass Pass 
+[Play "W"]
+S8 S7 ST SA 
+C7 CJ C8 C4 
+H9 HT H2 H4 
+S2 H5 H3 HJ 
+CT CA C9 C5 
+S6 H7 H6 HQ 
+S9 D3 HK HA 
+CQ C2 S3 CK 
+DA DJ D5 D2 
+SK SQ S5 S4 
+SJ C3 D6 H8 
+D8 DK D9 D4 
+DQ C6 DT D7 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "5"]
+[West "Joyce SY Smith#54635"]
+[North "Sophie Kranz#52777"]
+[East "Cindy Wang#54850"]
+[South "David Kranz#52775"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q7.T75.KJ3.AJ632 T53.K632.T965.98 A4.AQJ84.742.K54 KJ9862.9.AQ8.QT7"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "b6c8cc6cac1613116131"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  6
+N  H 12
+N  D  8
+N  C 12
+S NT 12
+S  S  6
+S  H 12
+S  D 10
+S  C 12
+E NT  1
+E  S  6
+E  H  1
+E  D  3
+E  C  1
+W NT  1
+W  S  6
+W  H  1
+W  D  3
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Pairs"]
+% RBDATA 18,1,2,474,52,57,141,39,196,57,89,23,90,114,19,23,156,77,21,25,57,187,99,26,225,64,35,11,16,16,13,9,96,19,38,57,126,40,35,23,115,74,114,22,99,125,17,31,55,93,64,62,59,28,10,28,44,44,20,11,15,18,10,8,27,16,9,17,8,8,8,9
+[Auction "N"]
+Pass Pass 1H 1S 
+2C Pass 2H 2S 
+3H Pass 4H Pass 
+Pass 4S Pass Pass 
+Pass 
+[Play "N"]
+HT H2 HJ H9 
+CJ C8 C4 C7 
+CA C9 C5 CT 
+D3 D5 D7 D8 
+C2 S3 CK CQ 
+H5 H3 H4 S2 
+SQ S5 S4 S6 
+H7 H6 H8 S8 
+S7 ST SA S9 
+DK D6 D2 DQ 
+DJ D9 D4 DA 
+C3 DT HQ SK 
+C6 HK HA SJ 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "6"]
+[West "Joanna Silk#3019"]
+[North "Thomas Freeman-Greene#51590"]
+[East "Katherine Griffith#51326"]
+[South "Jody Burchall#51578"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT63.Q.AT9.KQT92 Q84.A94.Q765.J87 J95.JT87652.2.A6 A72.K3.KJ843.543"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Table "1"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "69a5969a596437464374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  5
+N  C  9
+S NT  6
+S  S  9
+S  H 10
+S  D  5
+S  C  9
+E NT  6
+E  S  4
+E  H  3
+E  D  7
+E  C  4
+W NT  6
+W  S  4
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 14,0,3,235,247,167,84,178,50,145,36,126,113,30,116,28,187,17,57,62,17,38,91,23,13,142,22,13,20,22,112,26,9,6,8,10,6,15,15,21,6,6,6,35,22,9,6,21,27,31,8,24,6,24,11,22,7,5,31,14,12,16,14,14,8,6,11,10,9,4
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass 1H 2D 2S 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+D5 D2 DK D9 
+D6 S5 DJ DT 
+D7 H2 D3 DA 
+C7 CA C3 C2 
+C8 C6 C4 CK 
+CJ H5 C5 CQ 
+H4 H6 S2 CT 
+H9 S9 S7 C9 
+HA H7 H3 HQ 
+DQ H8 D4 S3 
+S4 SJ SA S6 
+S8 HT HK ST 
+SQ HJ D8 SK 
+
+[Event "AKBC Juniors Session 2."]
+[Site "RealBridge"]
+[Date "2023.11.30"]
+[Board "6"]
+[West "Joyce SY Smith#54635"]
+[North "Sophie Kranz#52777"]
+[East "Cindy Wang#54850"]
+[South "David Kranz#52775"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT63.Q.AT9.KQT92 Q84.A94.Q765.J87 J95.JT87652.2.A6 A72.K3.KJ843.543"]
+[Scoring "MP;MP1"]
+[Round "3"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "69a5969a596437464374"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  5
+N  C  9
+S NT  6
+S  S  9
+S  H 10
+S  D  5
+S  C  9
+E NT  6
+E  S  4
+E  H  3
+E  D  7
+E  C  4
+W NT  6
+W  S  4
+W  H  3
+W  D  7
+W  C  4
+[OptimumScore "NS +420"]
+[Competition "Pairs"]
+% RBDATA 12,1,2,241,171,100,180,37,127,156,70,25,133,23,13,23,188,27,20,15,43,32,15,29,148,32,18,8,248,60,14,28,60,58,15,18,80,36,26,25,70,66,14,114,66,104,19,7,80,36,50,32,16,19,18,31,17,13,12,10
+[Auction "E"]
+Pass 3H Pass Pass 
+Pass 
+[Play "W"]
+C3 C2 C7 CA 
+C4 CK C8 C6 
+D3 DA D5 D2 
+D4 DT D6 H2 
+HK HQ H4 H5 
+C5 CQ CJ S5 
+D8 D9 D7 H6 
+S2 S3 SQ SJ 
+DJ S6 DQ H7 
+SA ST S4 S9 
+DK C9 S8 H8 
+H3 SK HA HT 
+S7 CT H9 HJ 

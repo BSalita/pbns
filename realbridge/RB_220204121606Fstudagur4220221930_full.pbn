@@ -1,0 +1,5799 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Halldór þorvaldsson#1030"]
+[East "Guðmundur Birkir#1519"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[ScorePercentage "NS 1.39 EW 98.61"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2D X 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+D2 D6 DA D3 
+H2 H3 H8 HA 
+H6 H4 D4 HQ 
+HJ HK S7 H7 
+HT H9 D8 S4 
+D5 S8 D9 DJ 
+DQ ST DT DK 
+CJ CA C2 C3 
+CK C7 C5 CQ 
+SK -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Örn Hauksson#7681"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Svavar Hauksson#6704"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "3"]
+[ScorePercentage "NS 59.72 EW 40.28"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2D Pass 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+S6 ST SJ SA 
+H2 H3 H8 HA 
+H6 HK D4 H7 
+D2 D6 DA D3 
+SK S8 S2 S4 
+S3 SQ S7 S5 
+HJ H4 C2 HQ 
+D5 C7 D8 DK 
+CJ CA C5 C3 
+CK C9 C6 CQ 
+HT H5 D9 D7 
+DQ H9 DT DJ 
+S9 CT C8 C4 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Birgir Olafsson#2498"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "4"]
+[ScorePercentage "NS 59.72 EW 40.28"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+2D 2H 2S X 
+Pass 3C Pass 3H 
+Pass 4H Pass Pass 
+Pass 
+[Play "S"]
+S2 S4 SK S8 
+SJ SA S3 ST 
+H8 HQ H2 H3 
+C8 HA H6 H4 
+D4 H7 HJ HK 
+C2 C3 CJ C9 
+C5 D3 HT H5 
+S7 S5 S9 SQ 
+C6 C4 CK CA 
+D8 CQ S6 C7 
+D9 D7 D5 D6 
+DA DJ D2 H9 
+DT DK DQ CT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Heiðar Árni Baldursson#9809"]
+[North "Gísli Þórarins#1302"]
+[East "Logi Sigurðsson#8911"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Table "7"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Pétur Reimarssson#"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "6"]
+[ScorePercentage "NS 59.72 EW 40.28"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2D X 2H 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+D2 D6 DA D3 
+DQ S8 DT DJ 
+D5 C7 D8 DK 
+H2 H3 H8 HA 
+H6 H4 C5 HQ 
+HT HK C6 H7 
+CJ C9 C2 C3 
+HJ H5 C8 D7 
+CK CA D4 C4 
+S3 H9 S7 S4 
+S6 ST S2 SA 
+S9 CT SJ CQ 
+SK SQ D9 S5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Víðir Jónsson#1676"]
+[North "Kristinn Þórisson#1025"]
+[East "Ottar Armannsson#1502"]
+[South "Viðar Ólason#3140"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 98.61 EW 1.39"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 2D X 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+D2 D6 DA D3 
+DQ H3 DT DJ 
+H2 H4 H8 HA 
+CK CA C2 CQ 
+H6 H5 D4 HQ 
+CJ C7 C5 C3 
+HJ HK C6 H7 
+S3 S8 S2 SA 
+D5 ST D8 DK 
+S6 H9 D9 D7 
+HT C9 C8 C4 
+SK SQ S7 S4 
+S9 CT SJ S5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "1"]
+[West "Einar Guðjohnsen#8501"]
+[North "Sigurður Jón Björgvinsson#2209"]
+[East "Jón Baldursson#1032"]
+[South "Sveinn Ingi Ragnarsson#2301"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:K963.JT62.Q52.KJ QT8.K9543.6.AT97 J72.8.AT984.8652 A54.AQ7.KJ73.Q43"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "6"]
+[Score "NS -300"]
+[Table "1"]
+[ScorePercentage "NS 20.83 EW 79.17"]
+[DoubleDummyTricks "45364453649797997979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  6
+N  C  4
+S NT  4
+S  S  5
+S  H  3
+S  D  6
+S  C  4
+E NT  9
+E  S  7
+E  H  9
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -400"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT =1= Pass Pass =2= X 
+2H Pass Pass X 
+Pass Pass 2S Pass 
+Pass X Pass Pass 
+Pass 
+[Play "W"]
+S4 S3 SQ S2 
+SA S6 S8 S7 
+S5 S9 ST SJ 
+DJ DQ D6 DT 
+D3 D2 H3 D8 
+HQ H2 H4 H8 
+C3 CK CA C2 
+CQ CJ C7 C5 
+HA H6 H5 C6 
+H7 HT HK C8 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Örn Hauksson#7681"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Svavar Hauksson#6704"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H6 H2 HQ H5 
+HA H4 H3 H8 
+H7 HK HJ H9 
+D9 D2 D4 DK 
+DT D3 D7 DA 
+S5 DQ DJ D6 
+CJ C9 C2 C4 
+HT S2 S3 S7 
+S6 SA S4 SJ 
+C3 C5 C6 CA 
+ST D5 S9 D8 
+C8 C7 CQ CK 
+SQ S8 SK CT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Halldór þorvaldsson#1030"]
+[East "Guðmundur Birkir#1519"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S5 S2 SK S7 
+SQ S8 S3 SJ 
+S6 SA S4 C4 
+D9 D2 D4 DA 
+DT D3 D7 DK 
+H6 DQ DJ D6 
+H7 D5 C2 D8 
+C3 C5 C6 CK 
+HA H2 H3 H8 
+ST H4 S9 H5 
+C8 C7 CQ CA 
+HT HK HJ H9 
+CJ C9 HQ CT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Birgir Olafsson#2498"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "4"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1D Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+S3 SJ SQ S2 
+S9 S7 ST SA 
+D7 DA D9 D2 
+D4 D6 DT DQ 
+DJ DK H6 D3 
+H3 D8 H7 D5 
+C2 CA C3 C5 
+C6 CK C8 C7 
+CQ C4 CJ C9 
+SK H5 S6 S8 
+S4 H8 S5 H2 
+HJ H9 HT HK 
+HQ CT HA H4 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Heiðar Árni Baldursson#9809"]
+[North "Gísli Þórarins#1302"]
+[East "Logi Sigurðsson#8911"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "7"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+1C 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H6 H2 HJ H5 
+H7 HK HQ H8 
+D9 D2 D7 DA 
+DT DQ D4 D6 
+S5 D3 DJ DK 
+C8 D5 S3 D8 
+C3 C5 C2 CA 
+CJ C7 C6 CK 
+S6 SA S4 S7 
+ST S2 SK SJ 
+-  -  H3 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Pétur Reimarssson#"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -100"]
+[Table "6"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2NT 
+Pass Pass Pass 
+[Play "W"]
+S5 S2 SK S7 
+SQ S8 S9 SJ 
+H6 H2 HJ H5 
+S6 SA S4 H8 
+D9 D2 D4 DA 
+DT DQ D7 D6 
+C3 D3 DJ DK 
+C8 D5 S3 D8 
+CJ C5 C2 CA 
+H7 C7 C6 CK 
+HT C9 CQ C4 
+HA H4 H3 H9 
+ST HK HQ CT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Víðir Jónsson#1676"]
+[North "Kristinn Þórisson#1025"]
+[East "Ottar Armannsson#1502"]
+[South "Viðar Ólason#3140"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1C =1= Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+S5 S2 SK S7 
+SQ SA S3 SJ 
+D9 D2 D4 DA 
+DT DQ D7 D6 
+H6 D5 DJ DK 
+H7 D3 C2 D8 
+C3 C5 C6 CA 
+C8 C7 CQ CK 
+CJ C9 S4 C4 
+HT H2 H3 H5 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "2"]
+[West "Einar Guðjohnsen#8501"]
+[North "Sigurður Jón Björgvinsson#2209"]
+[East "Jón Baldursson#1032"]
+[South "Sveinn Ingi Ragnarsson#2301"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A82.K42.Q532.975 K943.QJ3.J74.Q62 J7.985.AK86.AKT4 QT65.AT76.T9.J83"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "86799867995763457634"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  6
+N  H  7
+N  D  9
+N  C  9
+S NT  8
+S  S  6
+S  H  7
+S  D  9
+S  C  9
+E NT  5
+E  S  7
+E  H  6
+E  D  3
+E  C  4
+W NT  5
+W  S  7
+W  H  6
+W  D  3
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass 1D Pass 1NT 
+Pass Pass Pass 
+[Play "E"]
+S4 S7 ST S2 
+SK SJ S5 S8 
+S9 H5 SQ SA 
+D7 DA D9 D2 
+D4 DK DT D3 
+DJ D8 H6 DQ 
+HQ D6 H7 D5 
+C2 CA C8 C5 
+C6 CK C3 C7 
+CQ C4 CJ C9 
+S3 H8 S6 H2 
+H3 H9 HT HK 
+HJ CT HA H4 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Örn Hauksson#7681"]
+[North "Ottar Armannsson#1502"]
+[East "Svavar Hauksson#6704"]
+[South "Víðir Jónsson#1676"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 58.33 EW 41.67"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1S 
+Pass 1NT Pass 2S 
+Pass Pass Pass 
+[Play "S"]
+DA D3 D2 D4 
+D5 D6 DK DT 
+C7 C5 CK C2 
+S5 DJ D7 C3 
+C4 CT CA C9 
+H5 DQ D8 SK 
+H2 H6 H3 HA 
+H9 H7 H4 HK 
+S6 S8 S2 SQ 
+S7 SA D9 S3 
+HJ HQ HT CJ 
+SJ H8 C6 ST 
+CQ S9 C8 S4 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Birgir Olafsson#2498"]
+[East "Guðmundur Birkir#1519"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "4"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass =1= Pass 1D 1S =2= 
+X Pass 2C Pass 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+DA D3 D2 DT 
+D5 DJ DK D4 
+C7 C5 CK C2 
+SJ D6 D7 ST 
+C4 CT CA C3 
+H2 DQ D9 SK 
+H5 H6 H4 HA 
+H9 H7 H3 HK 
+CQ S8 C6 C9 
+S5 SA S2 S3 
+HJ HQ HT CJ 
+S6 S9 D8 S4 
+S7 H8 C8 SQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Alda Gudnadottir#1064"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arngunnur R. Jónsdóttir#1009"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "6"]
+[ScorePercentage "NS 91.67 EW 8.33"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D 1S 
+Pass 2S 3C 3S 
+Pass Pass Pass 
+[Play "S"]
+C4 C5 CK C2 
+C7 CT CA C3 
+H2 H6 H4 HA 
+S5 S8 S2 SK 
+S6 S9 D7 SQ 
+H5 H7 H3 HK 
+DA D3 D2 D4 
+D5 D6 DK DT 
+S7 DJ D8 C9 
+CQ SA C6 CJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3DX"]
+[Result "5"]
+[Score "NS -800"]
+[Table "3"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 2S 3D Pass 
+Pass X Pass Pass 
+Pass 
+[Play "E"]
+HK H2 H6 H3 
+HA H5 H7 HT 
+S3 S5 SA S2 
+ST S6 S8 D2 
+D4 DA D3 D7 
+DT D5 DJ DK 
+S4 S7 DQ D9 
+SQ SJ S9 H4 
+SK H9 C5 D8 
+C2 CQ CT C6 
+C3 C4 D6 C8 
+C9 HJ HQ CK 
+CJ C7 H8 CA 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Einar Guðjohnsen#8501"]
+[North "Halldór þorvaldsson#1030"]
+[East "Jón Baldursson#1032"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "S"]
+H5 H6 HT HA 
+D5 DQ DK D4 
+C4 C5 CK C2 
+H2 H7 H3 HK 
+S5 SA S2 S3 
+H9 HQ H4 DT 
+C7 CT CA C3 
+CQ S8 C8 CJ 
+S6 S9 D2 SK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Viðar Ólason#3140"]
+[North "Gísli Þórarins#1302"]
+[East "Kristinn Þórisson#1025"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "7"]
+[ScorePercentage "NS 58.33 EW 41.67"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 2S 2NT Pass 
+3C 3S Pass Pass 
+Pass 
+[Play "S"]
+DA D3 D2 D4 
+D5 D6 DK DT 
+C4 C5 CA C2 
+C7 CT CK C3 
+H2 DJ D7 SQ 
+H5 H6 H4 HA 
+H9 H7 H3 HK 
+CQ S8 C6 C9 
+HJ HQ HT S3 
+S5 S9 S2 S4 
+S6 SA D8 ST 
+S7 DQ D9 CJ 
+SJ H8 C8 SK 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "3"]
+[West "Pétur Reimarssson#"]
+[North "Logi Sigurðsson#8911"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:2.T43.K9872.AK86 KQT43.AK.T4.J932 J765.J952.A5.Q74 A98.Q876.QJ63.T5"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[ScorePercentage "NS 91.67 EW 8.33"]
+[DoubleDummyTricks "54577545778866588665"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  7
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  6
+W  D  6
+W  C  5
+[OptimumScore "NS -120"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass =1= Pass 2NT 3S 
+Pass Pass Pass 
+[Play "S"]
+DA D3 D8 D4 
+D5 D6 DK DT 
+C7 C5 CK C2 
+SJ DJ D7 ST 
+C4 CT CA C3 
+H5 DQ D2 SQ 
+CQ S8 C6 C9 
+H2 H6 HT HA 
+S5 S9 S2 SK 
+H9 H7 H3 HK 
+S6 SA D9 S3 
+HJ HQ H4 CJ 
+S7 H8 C8 S4 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Örn Hauksson#7681"]
+[North "Ottar Armannsson#1502"]
+[East "Svavar Hauksson#6704"]
+[South "Víðir Jónsson#1676"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "5"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+CA C6 C8 C3 
+D3 D7 DJ DA 
+C7 D8 C2 CK 
+S2 S7 S3 S6 
+S5 SJ SA S8 
+C9 SQ S4 S9 
+H2 H5 H4 HQ 
+H3 HA -  H6 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Birgir Olafsson#2498"]
+[East "Guðmundur Birkir#1519"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1S 2NT =1= 4S Pass 
+Pass Pass 
+[Play "N"]
+CA C6 C8 C3 
+H3 H8 HJ HQ 
+S2 SK SA S6 
+H2 H9 H7 H6 
+S5 SQ S3 S8 
+D3 S7 S4 ST 
+C7 D7 C2 CK 
+D4 D8 D5 DA 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Einar Guðjohnsen#8501"]
+[North "Halldór þorvaldsson#1030"]
+[East "Jón Baldursson#1032"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+DQ DA D3 D8 
+H4 HQ H3 H5 
+H7 H6 H2 HA 
+HJ S6 C7 HK 
+C2 CK CA C6 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Alda Gudnadottir#1064"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Arngunnur R. Jónsdóttir#1009"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "6"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+CA C6 C2 C5 
+D3 D7 DJ DA 
+C7 D8 C8 CK 
+S2 S7 S3 S6 
+S5 SJ SA ST 
+DK SQ D5 DT 
+H2 H5 H4 HQ 
+H3 HA H7 H6 
+-  SK S4 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "3"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+H3 H8 HJ HQ 
+S5 S7 SA S8 
+D3 D7 DQ DA 
+S2 SJ S3 S6 
+C7 SQ S4 ST 
+H2 HA H4 H6 
+D4 HK H7 D2 
+C9 HT D5 DT 
+D6 H9 C2 C3 
+CT H5 D9 C4 
+CA C6 C8 CK 
+DK D8 DJ S9 
+CQ SK CJ C5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Viðar Ólason#3140"]
+[North "Gísli Þórarins#1302"]
+[East "Kristinn Þórisson#1025"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "7"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT =1= Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+DQ DA D3 D7 
+H4 HQ H2 H5 
+H7 H6 H3 HA 
+HJ C3 C7 HK 
+C8 CK CA C6 
+DJ D2 D4 D8 
+D5 DT DK H8 
+S3 S6 S2 SK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "4"]
+[West "Pétur Reimarssson#"]
+[North "Logi Sigurðsson#8911"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:52.32.K643.AQT97 KQJ7.AKT985.87.6 A43.J74.QJ95.J82 T986.Q6.AT2.K543"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Table "1"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "62399623997aa347aa34"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  2
+N  H  3
+N  D  9
+N  C  9
+S NT  6
+S  S  2
+S  H  3
+S  D  9
+S  C  9
+E NT  7
+E  S 10
+E  H 10
+E  D  3
+E  C  4
+W NT  7
+W  S 10
+W  H 10
+W  D  3
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1S 2C 3S Pass 
+Pass Pass 
+[Play "N"]
+H2 H5 H7 HQ 
+S2 S7 SA ST 
+D4 D7 DQ DA 
+S5 SJ S3 S6 
+D3 SQ S4 S8 
+H3 HA H4 H6 
+C7 HK HJ D2 
+C9 HT C8 DT 
+CT H9 C2 C3 
+D6 H8 D5 C4 
+CA C6 CJ CK 
+DK -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Ragnheiður Haraldsdóttir#"]
+[North "Svavar Hauksson#6704"]
+[East "Gísli Þórarins#1302"]
+[South "Örn Hauksson#7681"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS 180"]
+[Table "7"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+D2 D5 DQ DA 
+C3 CJ C5 C2 
+C4 C7 H3 CK 
+CA C8 D7 CQ 
+H8 H4 HQ H2 
+D3 D6 D4 DK 
+C6 H5 S7 CT 
+D9 DT S4 C9 
+S5 SK S6 S3 
+ST S2 SJ SA 
+HJ SQ H6 S9 
+DJ S8 H7 D8 
+HA HT HK H9 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Logi Sigurðsson#8911"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass Pass Pass 
+[Play "E"]
+ST SQ S4 S3 
+C3 CJ C5 C2 
+CA C7 H3 C9 
+H8 H4 HQ H2 
+HA H5 H6 H9 
+HJ HT HK D8 
+S5 D5 H7 CT 
+-  -  S6 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Birgir Olafsson#2498"]
+[East "Halldór þorvaldsson#1030"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "4"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1C =1= Pass 1S Pass 
+2C Pass Pass 2H 
+2S Pass Pass Pass 
+[Play "W"]
+HK H2 H8 H4 
+D4 DA D2 D5 
+H3 H9 HA H5 
+DQ DK D3 D6 
+S4 S3 S5 SQ 
+HQ S9 HJ HT 
+S6 SA ST S2 
+C5 C2 C4 C8 
+S7 D8 C3 SK 
+D7 C9 C6 CJ 
+H6 CQ CA C7 
+H7 CT DJ DT 
+SJ CK D9 S8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Viðar Ólason#3140"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Kristinn Þórisson#1025"]
+[South "Pétur Reimarssson#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "9"]
+[Score "NS 380"]
+[Table "2"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 1S Pass 
+2C Pass =1= Pass X 
+Pass Pass Pass 
+[Play "E"]
+ST S2 S6 SA 
+C3 CJ C5 C2 
+C4 C8 H3 C9 
+CA C7 H6 CT 
+S5 SK S7 S3 
+D2 D5 D4 DA 
+C6 H4 H7 CK 
+D3 SQ S4 S9 
+H8 S8 SJ H2 
+HJ H5 HK H9 
+D9 D6 D7 DK 
+DJ DT HQ CQ 
+HA HT DQ D8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Ottar Armannsson#1502"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Víðir Jónsson#1676"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "5"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass Pass X =1= 
+Pass 2C Pass 2H 
+3C Pass Pass Pass 
+[Play "E"]
+ST SK S4 S3 
+CA C7 C5 C2 
+S5 S2 S6 S9 
+C6 C8 H3 CK 
+C3 S8 S7 SA 
+H8 H4 HQ H2 
+C4 SQ SJ H9 
+HA H5 H6 C9 
+HJ CJ H7 CQ 
+D2 D5 HK CT 
+D3 D6 D4 DA 
+D9 DT D7 DK 
+DJ HT DQ D8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Guðmundur Birkir#1519"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2HX"]
+[Result "8"]
+[Score "NS -470"]
+[Table "6"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass =1= Pass 2C =2= 
+Pass 2D Pass 2H 
+Pass Pass X Pass 
+Pass Pass 
+[Play "N"]
+H9 HA H5 H3 
+S9 S5 S2 S4 
+H2 H8 HT HQ 
+SA ST S8 S6 
+CK CA C8 C5 
+C2 C3 CJ H6 
+S3 HJ SK S7 
+C9 C4 C7 H7 
+CT C6 H4 HK 
+CQ D2 SQ SJ 
+DK D3 D5 D4 
+DA D9 D6 DQ 
+D8 DJ DT D7 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "5"]
+[West "Einar Guðjohnsen#8501"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Jón Baldursson#1032"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A93.92.AK8.KQT92 T5.AJ8.J932.A643 KQ82.T54.T65.J87 J764.KQ763.Q74.5"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3CX"]
+[Result "9"]
+[Score "NS 670"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "77559775596587465874"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  5
+N  D  5
+N  C  9
+S NT  7
+S  S  7
+S  H  5
+S  D  5
+S  C  9
+E NT  6
+E  S  5
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  5
+W  H  8
+W  D  7
+W  C  4
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT =1= Pass Pass 2C 
+Pass 2H Pass Pass 
+3C X Pass Pass 
+Pass 
+[Play "E"]
+ST S2 S7 SA 
+C3 C7 C5 C2 
+C4 C8 H3 C9 
+CA CJ H6 CT 
+H8 H4 HQ H2 
+HJ H5 H7 H9 
+HA HT HK CQ 
+C6 D5 D7 CK 
+S5 S8 SJ S9 
+D2 D6 D4 DA 
+D3 SQ S4 S3 
+D9 SK S6 D8 
+DJ DT DQ DK 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Ragnheiður Haraldsdóttir#"]
+[North "Svavar Hauksson#6704"]
+[East "Gísli Þórarins#1302"]
+[South "Örn Hauksson#7681"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "7"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 1C Pass 
+2NT Pass Pass Pass 
+[Play "S"]
+S5 S2 SJ S6 
+S8 S3 SA S4 
+SK SQ S7 S9 
+ST CT C8 H6 
+CA CJ C2 C6 
+C4 CQ C3 C9 
+DT D9 D2 D3 
+H3 H2 HT HA 
+C5 D4 H5 CK 
+H4 -  -  H9 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Guðmundur Birkir#1519"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Table "6"]
+[ScorePercentage "NS 33.33 EW 66.67"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Birgir Olafsson#2498"]
+[East "Halldór þorvaldsson#1030"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "4"]
+[ScorePercentage "NS 8.33 EW 91.67"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 1C Pass 
+2NT Pass Pass Pass 
+[Play "S"]
+H4 HK H8 H6 
+C4 CT C3 C6 
+DT D9 D5 D3 
+H3 H2 HT HA 
+DQ D4 D2 D7 
+S5 S2 SA S4 
+S8 SQ S7 S6 
+D6 HJ H5 H9 
+C5 HQ H7 CK 
+C7 DJ DK DA 
+ST S3 C8 D8 
+CA CJ C2 C9 
+SK CQ SJ S9 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Logi Sigurðsson#8911"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[ScorePercentage "NS 8.33 EW 91.67"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+1D Pass 1H Pass 
+1NT Pass 2NT Pass 
+Pass Pass 
+[Play "S"]
+S5 S2 SA S4 
+SK S3 SJ S6 
+S8 SQ S7 S9 
+CA CT C2 C6 
+ST D4 C8 D3 
+H3 H2 HT HA 
+C4 CJ C3 CK 
+C5 CQ H7 C9 
+H4 HJ H5 H6 
+C7 HQ H8 H9 
+D6 HK D5 D7 
+DT D9 D2 DA 
+DQ DJ DK D8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Viðar Ólason#3140"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Kristinn Þórisson#1025"]
+[South "Pétur Reimarssson#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Table "2"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+1NT =1= Pass 3S =2= Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+S5 S2 SJ S4 
+S8 S3 SA S6 
+SK SQ S7 S9 
+ST D4 C8 C6 
+D6 D9 DK DA 
+CA CT C3 CK 
+DQ DJ D2 D3 
+DT CJ D5 D7 
+C4 -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Einar Guðjohnsen#8501"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Jón Baldursson#1032"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "3"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+1D =1= Pass 1H Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+C4 CT C8 CK 
+DQ D4 D2 D3 
+CA CJ C3 C6 
+C5 CQ C2 C9 
+D6 DJ DK DA 
+DT D9 D5 D7 
+C7 S2 S7 H6 
+S5 S3 SA S4 
+H3 H2 H5 HA 
+S8 SQ H7 D8 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "6"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Ottar Armannsson#1502"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Víðir Jónsson#1676"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7.T875.K52.832 964.A96.A873.K96 KT85.43.QT6.A754 Q32.KQJ2.J94.QJT"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "67667676677677676776"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  6
+N  D  6
+N  C  7
+S NT  6
+S  S  7
+S  H  6
+S  D  6
+S  C  7
+E NT  7
+E  S  6
+E  H  7
+E  D  7
+E  C  6
+W NT  7
+W  S  6
+W  H  7
+W  D  7
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Pairs"]
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+C4 CQ C3 C6 
+DT D9 D2 D3 
+CA CT C2 CK 
+C5 CJ C8 C9 
+D6 DJ DK DA 
+DQ D4 D5 D7 
+C7 S2 HT H6 
+S5 S3 SA S6 
+SK SQ S7 S4 
+S8 H2 SJ S9 
+-  -  H5 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Ottar Armannsson#1502"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Víðir Jónsson#1676"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS -200"]
+[Table "5"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D X 
+1S Pass 1NT Pass 
+Pass Pass 
+[Play "E"]
+C5 C9 CQ C2 
+C7 CA C6 C3 
+HQ HT H3 H7 
+CK S2 C4 CT 
+C8 D3 D4 CJ 
+S8 S4 S3 SA 
+SJ S5 S9 S6 
+SK S7 H8 D2 
+SQ ST H5 HJ 
+D8 D9 DA D5 
+DK DJ D7 D6 
+H6 H2 H4 HA 
+HK H9 DT DQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Örn Hauksson#7681"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Svavar Hauksson#6704"]
+[South "Pétur Reimarssson#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass Pass 2C 2NT 
+Pass Pass Pass 
+[Play "S"]
+CA C4 C2 C5 
+C9 CQ C3 C7 
+S2 S3 S6 SK 
+D3 D4 D2 DK 
+D9 DT DQ D8 
+H2 C6 CJ CK 
+S4 H3 CT C8 
+S5 S9 SA S8 
+H9 H4 H7 HQ 
+HT H5 HA HK 
+DJ H8 HJ H6 
+S7 D7 D6 SJ 
+ST DA D5 SQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Halldór þorvaldsson#1030"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "4"]
+[Score "NS -300"]
+[Table "6"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D X 
+1S Pass Pass Pass 
+[Play "W"]
+H4 H7 HK H2 
+C4 C2 C7 CA 
+H5 HJ HQ HT 
+C6 C3 CK C9 
+CQ CT C5 D3 
+DA D2 D8 D9 
+H3 HA H6 H9 
+S3 SA S8 S2 
+S9 CJ C8 DJ 
+DT DQ DK S4 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Einar Guðjohnsen#8501"]
+[North "Birgir Olafsson#2498"]
+[East "Jón Baldursson#1032"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "4"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D 1NT 
+Pass Pass Pass 
+[Play "S"]
+S4 S3 SA S8 
+S2 S9 S6 SQ 
+C9 CQ C3 C5 
+H2 H3 H7 HK 
+CA C4 C2 C7 
+D3 D4 D5 D8 
+S5 H4 HJ SK 
+S7 H5 D2 SJ 
+H9 H8 HA H6 
+ST C6 CJ CK 
+HT D7 D6 HQ 
+D9 DT DQ DK 
+DJ DA CT C8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Kristinn Þórisson#1025"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Viðar Ólason#3140"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS 200"]
+[Table "3"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1NT X 
+XX =1= Pass 2C =2= Pass 
+2S 3D Pass Pass 
+Pass 
+[Play "N"]
+SA S8 S7 S3 
+S6 SJ S5 S9 
+D2 D8 D3 DA 
+H7 HK H9 H4 
+D5 SQ S2 C4 
+C3 C5 CA C6 
+C2 C7 C9 CQ 
+D6 DK D9 D4 
+DQ SK ST H3 
+CJ CK DJ H5 
+HA H6 H2 H8 
+CT -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Gísli Þórarins#1302"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "7"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D X 
+Pass 1NT Pass 2NT 
+Pass Pass Pass 
+[Play "N"]
+SA S8 S2 S3 
+S6 SJ S4 S9 
+C3 C5 C9 CQ 
+H7 HK H2 H3 
+C2 C7 CA C4 
+D2 DK DJ D4 
+D5 SQ S5 H5 
+CT CK S7 C6 
+CJ C8 ST D7 
+DQ D8 D3 DA 
+HA H6 H9 H4 
+D6 SK D9 DT 
+HJ HQ HT H8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "7"]
+[West "Heiðar Árni Baldursson#9809"]
+[North "Guðmundur Birkir#1519"]
+[East "Logi Sigurðsson#8911"]
+[South "Pétur Skarphéðinsson#1899"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:A6.AJ7.Q652.JT32 KQJ8.KQ6.K8.K875 T7542.T92.J93.A9 93.8543.AT74.Q64"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "1"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "45555454549887888878"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  5
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  5
+S  C  4
+E NT  9
+E  S  8
+E  H  8
+E  D  7
+E  C  8
+W NT  8
+W  S  8
+W  H  8
+W  D  7
+W  C  8
+[OptimumScore "NS -600"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass Pass 1D 1NT =1= 
+Pass Pass Pass 
+[Play "S"]
+DJ D4 D2 DK 
+S2 S3 SA SK 
+H9 H3 H7 HQ 
+C9 CQ C2 C5 
+CA C4 CT C7 
+HT H4 HA H6 
+H2 C6 CJ CK 
+D3 H5 HJ HK 
+D9 DA D5 D8 
+S4 H8 C3 C8 
+S5 S9 S6 SQ 
+S7 D7 D6 SJ 
+ST DT DQ S8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Ottar Armannsson#1502"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Víðir Jónsson#1676"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "5"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1D 2C X 
+Pass 2S 3C 3S 
+Pass Pass Pass 
+[Play "E"]
+H3 H2 HA H4 
+S8 H9 H5 HK 
+DA D7 D3 D2 
+D9 D8 DQ DK 
+SK S5 S2 S3 
+C9 C6 C4 CK 
+SA S9 S6 S4 
+C3 -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Örn Hauksson#7681"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Svavar Hauksson#6704"]
+[South "Pétur Reimarssson#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2H X Pass 2S 
+Pass Pass 3C Pass 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+H7 H4 H3 H9 
+HA HK C3 H2 
+C4 CK C5 C6 
+S2 S3 SK S5 
+C2 C8 CJ CA 
+S6 SQ SA S9 
+H5 D2 CT CQ 
+H6 S4 S8 SJ 
+H8 S7 D9 ST 
+HT D4 DT HQ 
+D3 D5 C7 HJ 
+D6 DJ DA D7 
+DQ DK C9 D8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Kristinn Þórisson#1025"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Viðar Ólason#3140"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "4CX"]
+[Result "9"]
+[Score "NS 100"]
+[Table "3"]
+[ScorePercentage "NS 91.67 EW 8.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2H X 3C 3NT 
+Pass Pass 4C X 
+Pass Pass Pass 
+[Play "S"]
+SJ S2 S7 SA 
+S5 S6 S3 SK 
+S9 C2 S4 S8 
+C6 C4 CK C3 
+ST H5 SQ C7 
+CQ H6 C8 C9 
+D8 D3 DJ DA 
+CA H7 D2 CT 
+D7 D6 DK D9 
+H2 DQ D4 DT 
+H9 HA H4 H3 
+HJ H8 HK C5 
+HQ HT D5 CJ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Einar Guðjohnsen#8501"]
+[North "Birgir Olafsson#2498"]
+[East "Jón Baldursson#1032"]
+[South "Guðni Ingvarsson#1290"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2HX"]
+[Result "8"]
+[Score "NS -470"]
+[Table "4"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2H X Pass Pass 
+Pass 
+[Play "N"]
+D2 D9 D7 D6 
+C8 CJ CA C4 
+CK C3 C6 C2 
+DK DA D8 D3 
+D4 DT S5 DQ 
+S3 SA S9 S2 
+S4 SK ST S6 
+S7 S8 SJ H5 
+H4 H3 H9 H6 
+HK C5 H2 H7 
+SQ C7 CQ H8 
+D5 C9 HJ HA 
+DJ CT HQ HT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Halldór þorvaldsson#1030"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Table "6"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2D =1= X Pass 2H 
+Pass 2NT Pass 3S 
+Pass 4S X Pass 
+Pass Pass 
+[Play "W"]
+C4 C8 C9 CQ 
+S6 SQ SK S5 
+HA HK H3 H2 
+H5 H4 S8 H9 
+C2 CK C5 C6 
+S2 S3 SA S9 
+D6 D2 DA D8 
+H6 D4 CJ CA 
+H7 -  -  SJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Gísli Þórarins#1302"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "7"]
+[Score "NS 100"]
+[Table "7"]
+[ScorePercentage "NS 91.67 EW 8.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2D =1= Pass 2H Pass 
+Pass X Pass Pass 
+Pass 
+[Play "S"]
+D8 D3 DJ DA 
+H2 HA H4 H3 
+H9 H5 HK C3 
+S5 S2 S7 SA 
+S9 S6 S3 SK 
+ST H6 S4 S8 
+HJ H7 D2 C5 
+D7 DQ DK DT 
+C6 C2 CK C7 
+CQ C4 C8 CJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "8"]
+[West "Heiðar Árni Baldursson#9809"]
+[North "Guðmundur Birkir#1519"]
+[East "Logi Sigurðsson#8911"]
+[South "Pétur Skarphéðinsson#1899"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q743.K4.KJ542.K8 AK8.3.AT9.JT9753 JT95.QJ92.87.AQ6 62.AT8765.Q63.42"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Table "1"]
+[ScorePercentage "NS 66.67 EW 33.33"]
+[DoubleDummyTricks "68664686645577855778"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  8
+N  H  6
+N  D  6
+N  C  4
+S NT  6
+S  S  8
+S  H  6
+S  D  6
+S  C  4
+E NT  5
+E  S  5
+E  H  7
+E  D  7
+E  C  8
+W NT  5
+W  S  5
+W  H  7
+W  D  7
+W  C  8
+[OptimumScore "NS +100"]
+[Competition "Pairs"]
+[Auction "W"]
+2D =1= X 2H Pass 
+Pass Pass 
+[Play "S"]
+SJ S2 S7 SK 
+D7 D3 DJ DT 
+S5 S6 S3 SA 
+H2 HA H4 H3 
+H9 H5 HK C3 
+CQ C2 C8 C9 
+CA C4 CK C5 
+D8 D6 DK DA 
+S9 H8 S4 S8 
+HJ H7 D2 C7 
+ST H6 SQ CT 
+C6 DQ D4 D9 
+HQ HT D5 CJ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Gísli Þórarins#1302"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "7"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass 2NT Pass 
+3C Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+C6 C3 C7 CT 
+D8 DJ D7 D3 
+SK S2 S3 SQ 
+HJ H5 H2 HA 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Einar Guðjohnsen#8501"]
+[North "Ottar Armannsson#1502"]
+[East "Jón Baldursson#1032"]
+[South "Víðir Jónsson#1676"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "5"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 1D Pass 
+1NT Pass 6NT Pass 
+Pass Pass 
+[Play "E"]
+H2 HA HJ H5 
+C7 CJ C2 C3 
+D2 D3 D8 DJ 
+D4 D5 D9 DQ 
+S3 SQ SK S2 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Guðni Ingvarsson#1290"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Birgir Olafsson#2498"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 490"]
+[Table "6"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+Pass Pass 2D =1= Pass 
+2H Pass 2NT Pass 
+3C X Pass Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+C6 C3 C7 CT 
+D8 DJ D7 D3 
+D9 DQ D2 D5 
+HJ H5 H4 HA 
+S6 H6 H2 HK 
+C2 H7 D4 DA 
+S7 H9 D6 DK 
+C4 S2 S5 DT 
+CQ CA H8 CJ 
+C8 CK HT H3 
+C9 C5 S3 S8 
+S9 S4 ST SQ 
+SK SJ HQ SA 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Logi Sigurðsson#8911"]
+[East "Halldór þorvaldsson#1030"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "1"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 1D Pass 
+1H Pass 3D Pass 
+4C Pass 4NT Pass 
+5D Pass 6NT Pass 
+Pass Pass 
+[Play "W"]
+C4 C3 C7 CT 
+D8 DJ D2 D3 
+D9 DQ D4 D5 
+SK S2 S5 SQ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Örn Hauksson#7681"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Svavar Hauksson#6704"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "7H"]
+[Result "10"]
+[Score "NS -150"]
+[Table "4"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 1D Pass 
+1NT Pass 2H Pass 
+3H Pass 4NT Pass 
+5D Pass 7H Pass 
+Pass Pass 
+[Play "W"]
+HJ H5 H2 HA 
+S6 H7 H8 H3 
+S7 S2 S3 SA 
+D8 DJ D2 D3 
+D9 DQ D4 DA 
+C2 S4 D6 DK 
+C4 SJ D7 DT 
+S9 H6 S5 S8 
+C6 CA C7 CT 
+C8 CK ST CJ 
+C9 C3 HT HK 
+SK H9 HQ SQ 
+CQ C5 H4 D5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Pétur Reimarssson#"]
+[North "Sigurður Jón Björgvinsson#2209"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Sveinn Ingi Ragnarsson#2301"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Table "2"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT =1= Pass 2NT =2= Pass 
+3C =3= Pass 3H =4= Pass 
+3NT Pass 6NT Pass 
+Pass Pass 
+[Play "E"]
+D2 D3 D9 DQ 
+D4 D5 D8 DJ 
+S3 SQ SK S2 
+C7 CT CQ CA 
+H8 HA HJ H5 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "9"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Kristinn Þórisson#1025"]
+[East "Guðmundur Birkir#1519"]
+[South "Viðar Ólason#3140"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J42.9765.QJ.AK53 T53.QT842.7642.7 AQ8.AK3.AKT53.JT K976.J.98.Q98642"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS -50"]
+[Table "3"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "caac9caaca1231312313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 10
+N  H 10
+N  D 12
+N  C  9
+S NT 12
+S  S 10
+S  H 10
+S  D 12
+S  C 10
+E NT  1
+E  S  2
+E  H  3
+E  D  1
+E  C  3
+W NT  1
+W  S  2
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +990"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 3C =1= Pass 
+3H Pass 4NT Pass 
+5D Pass 6NT Pass 
+Pass Pass 
+[Play "E"]
+D2 D3 D8 DQ 
+S3 SQ SK S2 
+C7 CT C2 CA 
+D4 D5 D9 DJ 
+S5 S8 S6 SJ 
+ST SA S7 S4 
+D6 DA C4 C3 
+H2 HA HJ H5 
+D7 DK C6 H6 
+H8 DT C8 H7 
+H4 CJ CQ CK 
+HT HK S9 H9 
+HQ H3 C9 C5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Gísli Þórarins#1302"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "7"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+D3 D4 D7 DA 
+H6 H2 H9 HA 
+HT H3 HJ HK 
+S2 H4 HQ H5 
+ST S3 S4 S5 
+DJ DQ D9 D2 
+CA C3 C5 CJ 
+D6 D5 D8 DK 
+C6 H8 C7 H7 
+C4 CT C2 CK 
+C8 CQ S8 C9 
+SA S6 SJ SQ 
+DT S9 SK S7 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Guðni Ingvarsson#1290"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Birgir Olafsson#2498"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "6"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+C4 C3 C7 C9 
+HT H2 HQ H5 
+CA CT C5 CK 
+C6 CQ C2 CJ 
+D3 D4 D9 DK 
+DT DQ D7 D2 
+D6 D5 D8 DA 
+H6 H3 H9 HA 
+S2 H4 HJ HK 
+ST H8 S4 H7 
+SA S3 S8 S5 
+C8 S6 SJ S7 
+DJ S9 SK SQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Einar Guðjohnsen#8501"]
+[North "Ottar Armannsson#1502"]
+[East "Jón Baldursson#1032"]
+[South "Víðir Jónsson#1676"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "5"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+DJ D4 D9 DK 
+C4 CT C7 C9 
+H6 H8 HJ HK 
+HT H2 H9 H7 
+CA C3 C5 CJ 
+C6 CQ C2 CK 
+S2 H3 HQ HA 
+ST H4 D7 H5 
+D3 D5 D8 DA 
+D6 DQ S4 D2 
+SA S9 S8 SQ 
+C8 S3 SJ S5 
+DT S6 SK S7 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Örn Hauksson#7681"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Svavar Hauksson#6704"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "4"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 1C Pass 
+Pass X 2NT Pass 
+Pass Pass 
+[Play "N"]
+D3 D4 D7 DA 
+C4 C3 C7 C9 
+H6 H2 H9 HA 
+HT H3 HJ HK 
+S2 H4 HQ H5 
+ST S3 S4 S5 
+DJ DQ D8 D2 
+CA CT C2 CJ 
+D6 D5 D9 DK 
+C6 CQ C5 CK 
+C8 H8 S8 H7 
+SA S6 SJ SQ 
+DT S9 SK S7 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Pétur Reimarssson#"]
+[North "Sigurður Jón Björgvinsson#2209"]
+[East "Hannes G Sigurðsson#5355"]
+[South "Sveinn Ingi Ragnarsson#2301"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+C4 C3 C7 C9 
+H6 H2 H9 HA 
+HT H3 HJ HK 
+S2 H4 HQ H5 
+C6 CT C5 CK 
+ST H8 D9 H7 
+D3 D4 D7 DA 
+D6 D5 D8 DK 
+DJ DQ S4 D2 
+-  CQ C2 CJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Logi Sigurðsson#8911"]
+[East "Halldór þorvaldsson#1030"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "1"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2D =1= Pass 
+2H Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+DJ DQ D8 D2 
+H6 H2 H9 HK 
+C4 CT C5 C9 
+HT H3 HJ HA 
+S2 H4 HQ H7 
+ST S3 S4 S5 
+CA C3 C7 CK 
+C6 CQ C2 CJ 
+D3 H8 D9 H5 
+D6 D4 D7 DK 
+DT D5 S8 DA 
+SA S6 SJ S7 
+C8 S9 SK SQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "10"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Kristinn Þórisson#1025"]
+[East "Guðmundur Birkir#1519"]
+[South "Viðar Ólason#3140"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AT2.T6.JT63.A864 963.8432.Q54.QT3 KJ84.QJ9.987.752 Q75.AK75.AK2.KJ9"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "3"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "66566665667777777877"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  5
+N  D  6
+N  C  6
+S NT  6
+S  S  6
+S  H  5
+S  D  6
+S  C  6
+E NT  7
+E  S  7
+E  H  7
+E  D  7
+E  C  7
+W NT  7
+W  S  7
+W  H  8
+W  D  7
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+Pass Pass 2D =1= Pass 
+2H =2= Pass 2NT Pass 
+Pass Pass 
+[Play "N"]
+D3 D4 D9 DA 
+CA C3 C5 CK 
+DJ DQ D8 D2 
+D6 D5 D7 DK 
+C4 CT C2 CJ 
+C6 CQ C7 C9 
+H6 H2 HQ HK 
+HT H3 H9 HA 
+S2 H8 HJ H5 
+SA S3 SJ SQ 
+DT H4 S4 H7 
+C8 S6 S8 S5 
+ST S9 SK S7 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Einar Guðjohnsen#8501"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Jón Baldursson#1032"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "6"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H2 H5 HQ HK 
+C4 CK CA C2 
+HA H6 H8 HJ 
+HT H9 H7 H3 
+H4 S3 S2 S8 
+S4 -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Guðni Ingvarsson#1290"]
+[North "Logi Sigurðsson#8911"]
+[East "Birgir Olafsson#2498"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "1"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+H2 H5 H7 HJ 
+D7 D5 D4 DA 
+C4 CK CA C2 
+S9 SA S2 S8 
+D3 D6 H8 DQ 
+D9 D8 C7 DK 
+C5 DT HQ D2 
+S7 DJ C3 ST 
+S4 C6 C8 CT 
+SJ H6 C9 CJ 
+H4 S3 S5 CQ 
+HT H9 SQ H3 
+HA S6 SK HK 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Pétur Reimarssson#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+H2 H5 HQ HK 
+D3 D5 D4 DA 
+D7 D6 S2 DK 
+D9 D8 C3 DQ 
+C4 DT H7 D2 
+C5 DJ C7 S8 
+S4 CK CA C2 
+HT H6 H8 H3 
+HA H9 C8 HJ 
+H4 S3 C9 ST 
+S7 SA S5 CT 
+S9 C6 SQ CJ 
+SJ S6 SK CQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Table "4"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C 1NT Pass 2C 
+Pass 2D 2H 2NT 
+Pass Pass Pass 
+[Play "N"]
+S4 S3 SQ S8 
+HA H5 HQ HK 
+S7 S6 SK ST 
+H2 H6 H8 HJ 
+C4 CK CA C2 
+HT H9 H7 H3 
+H4 D5 S2 CQ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Viðar Ólason#3140"]
+[North "Halldór þorvaldsson#1030"]
+[East "Kristinn Þórisson#1025"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "3"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C =1= 1NT Pass 3S =2= 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+S4 S3 SQ S8 
+HA H5 H8 HJ 
+S7 S6 SK ST 
+S9 SA S2 H3 
+D7 D5 D4 DA 
+D3 D6 C3 DK 
+D9 D8 C7 DQ 
+C5 DT C8 D2 
+SJ DJ C9 C2 
+C4 CK CA CT 
+H2 H6 S5 CJ 
+H4 H9 H7 HK 
+HT C6 HQ CQ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Svavar Hauksson#6704"]
+[East "Guðmundur Birkir#1519"]
+[South "Örn Hauksson#7681"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C 1D Pass 2D 
+Pass Pass 2H Pass 
+Pass Pass 
+[Play "E"]
+DJ D4 D2 D3 
+D5 H7 DQ D7 
+SA SK S8 S4 
+S3 SQ ST S7 
+C6 C3 C2 C4 
+S6 S2 H3 S9 
+D6 H8 DK D9 
+CK CA CT C5 
+H5 C7 CJ H2 
+H6 HQ HK HA 
+H9 S5 DA SJ 
+DT C8 HJ H4 
+D8 C9 CQ HT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "11"]
+[West "Víðir Jónsson#1676"]
+[North "Gísli Þórarins#1302"]
+[East "Ottar Armannsson#1502"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:J974.AT42.973.54 A63.965.JT865.K6 KQ52.Q87.4.A9873 T8.KJ3.AKQ2.QJT2"]
+[Scoring "MP;MP1"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Table "7"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "4863648636856a6856a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H  6
+N  D  3
+N  C  6
+S NT  4
+S  S  8
+S  H  6
+S  D  3
+S  C  6
+E NT  8
+E  S  5
+E  H  6
+E  D 10
+E  C  6
+W NT  8
+W  S  5
+W  H  6
+W  D 10
+W  C  6
+[OptimumScore "NS -130"]
+[Competition "Pairs"]
+[Auction "S"]
+1C =1= 1NT Pass 2NT =2= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+S4 S3 SQ S8 
+SJ S6 S2 ST 
+S7 SA S5 H3 
+C4 CK C3 C2 
+C5 C6 CA CT 
+S9 H5 SK DA 
+HA H6 H7 HJ 
+H2 H9 HQ HK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Dagbjört Hannesdóttir#6038"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Áróra Jóhannsdóttir#2307"]
+[South "Pétur Reimarssson#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+SA H2 S2 S7 
+H3 H7 H4 HA 
+S3 H8 S5 S9 
+C8 C2 CT CA 
+HQ C4 H6 HK 
+S4 D2 HJ HT 
+CK C5 C3 C7 
+SJ -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Einar Guðjohnsen#8501"]
+[North "Arngunnur R. Jónsdóttir#1009"]
+[East "Jón Baldursson#1032"]
+[South "Alda Gudnadottir#1064"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "6"]
+[ScorePercentage "NS 16.67 EW 83.33"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+DQ D2 D8 DK 
+S3 H2 S8 S7 
+C8 C2 C3 CA 
+S4 H7 S2 S9 
+DJ DA D3 DT 
+H3 D9 D4 C7 
+HQ H8 H4 HK 
+S6 C4 H6 HA 
+C9 D5 HJ HT 
+SA D6 S5 SQ 
+ST -  -  -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Guðni Ingvarsson#1290"]
+[North "Logi Sigurðsson#8911"]
+[East "Birgir Olafsson#2498"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "5"]
+[Score "NS 1100"]
+[Table "1"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 2C =1= 3S X 
+4S X Pass Pass 
+Pass 
+[Play "S"]
+DA D4 DT DQ 
+D2 D3 DK DJ 
+H7 H4 HA H3 
+H2 H6 HK HQ 
+C2 C3 CA C8 
+CQ C6 C7 C9 
+C4 CT S9 CK 
+D5 S2 SQ SA 
+D6 S5 SK SJ 
+-  -  S7 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Loftur Þór Pétursson#1613"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Hjálmar S. Pálsson#1012"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "4"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+DQ D2 D8 DK 
+H3 H2 H4 HK 
+HQ H7 H6 HA 
+DJ DA D3 DT 
+S3 D9 D4 C7 
+S4 D7 HJ S7 
+C8 C2 C6 CA 
+ST H8 S5 S9 
+S6 D6 S2 SQ 
+SJ D5 S8 SK 
+C9 C4 C3 H5 
+-  -  -  H9 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Pétur Skarphéðinsson#1899"]
+[North "Svavar Hauksson#6704"]
+[East "Guðmundur Birkir#1519"]
+[South "Örn Hauksson#7681"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "5"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2D 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+C8 C2 CJ CA 
+H3 H2 H6 HA 
+HQ H7 H4 HK 
+S3 H8 HJ HT 
+SA D2 S5 SQ 
+SJ C4 S2 SK 
+S4 D5 D8 H9 
+S6 D6 D4 H5 
+CK C5 C3 C7 
+ST D7 S8 S7 
+C9 CQ C6 S9 
+DJ DA D3 DT 
+DQ D9 CT DK 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Viðar Ólason#3140"]
+[North "Halldór þorvaldsson#1030"]
+[East "Kristinn Þórisson#1025"]
+[South "Hrafnhildur Skúladóttir#1269"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "3"]
+[ScorePercentage "NS 41.67 EW 58.33"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2S =1= 
+Pass 3NT Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+DQ D2 D4 DK 
+SA H2 S5 SK 
+C9 C2 CT CA 
+CK C4 C6 C7 
+DJ DA D3 DT 
+C8 CQ C3 S7 
+H3 H7 H4 HA 
+S3 C5 S2 SQ 
+SJ H8 S8 S9 
+HQ D7 D8 H9 
+ST D5 HJ HK 
+S4 D6 H6 HT 
+S6 D9 CJ H5 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "12"]
+[West "Víðir Jónsson#1676"]
+[North "Gísli Þórarins#1302"]
+[East "Ottar Armannsson#1502"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ97.AKT95.KT.A7 AJT643.Q3.QJ.K98 .872.A97652.Q542 852.J64.843.JT63"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Table "7"]
+[ScorePercentage "NS 75.00 EW 25.00"]
+[DoubleDummyTricks "b8ccab8cca2511325113"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  8
+N  H 12
+N  D 12
+N  C 10
+S NT 11
+S  S  8
+S  H 12
+S  D 12
+S  C 10
+E NT  2
+E  S  5
+E  H  1
+E  D  1
+E  C  3
+W NT  2
+W  S  5
+W  H  1
+W  D  1
+W  C  3
+[OptimumScore "NS +1430"]
+[Competition "Pairs"]
+[Auction "W"]
+Pass 1H 1S 2H 
+Pass 4H Pass Pass 
+Pass 
+[Play "E"]
+DQ D2 D4 DK 
+DJ DA D3 DT 
+H3 D9 D8 C7 
+CK C2 C3 CA 
+HQ H2 H4 HA 
+SA H7 S5 SQ 
+S3 D7 H6 H9 
+ST H8 S2 S7 
+C8 CQ C6 S9 
+-  D5 HJ HK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Svavar Hauksson#6704"]
+[East "Halldór þorvaldsson#1030"]
+[South "Örn Hauksson#7681"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "5"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1C Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+D7 D6 DJ DA 
+S5 SK S4 S2 
+C4 S6 S3 SA 
+D2 D9 D5 DT 
+D8 SJ ST S7 
+H4 HA H2 H7 
+H5 HK H6 HT 
+H9 H3 HQ S8 
+DQ DK D4 D3 
+CA C2 C3 CK 
+HJ C6 H8 S9 
+C5 C9 CT SQ 
+C7 CJ CQ C8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Alda Gudnadottir#1064"]
+[North "Logi Sigurðsson#8911"]
+[East "Arngunnur R. Jónsdóttir#1009"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 2H Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+S3 S2 S5 S6 
+S4 S7 C4 SK 
+ST S8 C5 SJ 
+C3 CK CA C2 
+H2 H7 H5 HK 
+CT C8 C7 C6 
+HQ HT H4 HA 
+CQ S9 D2 C9 
+D5 D3 D7 DK 
+H6 -  -  CJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Guðni Ingvarsson#1290"]
+[North "Kristinn Þórisson#1025"]
+[East "Birgir Olafsson#2498"]
+[South "Viðar Ólason#3140"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "3"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1C =1= Pass 1H =2= Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+S4 S2 S5 SK 
+C3 CK CA C2 
+H6 H7 H4 HA 
+S3 SA D2 S6 
+CT C8 C5 C6 
+ST S7 C4 SJ 
+CQ S8 C7 CJ 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "4"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 2H Pass 
+2S Pass 4NT Pass 
+5H Pass 6S Pass 
+Pass Pass 
+[Play "E"]
+D4 D3 DQ DK 
+S3 S2 S5 SK 
+S4 S7 C4 SJ 
+ST SA D2 S6 
+H2 H7 H4 HA 
+H6 HT H5 HK 
+D5 DT D7 D6 
+DJ DA D8 D9 
+H8 SQ C5 H3 
+CQ C8 C7 CJ 
+C3 CK CA C2 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Guðmundur Birkir#1519"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Pétur Skarphéðinsson#1899"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "6"]
+[ScorePercentage "NS 25.00 EW 75.00"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 2H Pass 
+2S Pass 4NT Pass 
+5H Pass 6S Pass 
+Pass Pass 
+[Play "E"]
+H6 HT HJ HA 
+S4 S2 S5 SK 
+S3 SA C4 S6 
+ST S7 C5 SJ 
+D5 DT DQ D6 
+CT C8 CA C2 
+-  -  H4 -  
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Víðir Jónsson#1676"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Ottar Armannsson#1502"]
+[South "Pétur Reimarssson#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS -200"]
+[Table "2"]
+[ScorePercentage "NS 0.00 EW 100.00"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+2S Pass 4NT Pass 
+5H Pass 6S Pass 
+Pass Pass 
+[Play "E"]
+S3 S2 S5 SJ 
+S4 S7 D2 SK 
+ST SA C4 S6 
+H2 H7 H4 HA 
+C3 CK CA C2 
+H6 HT H5 HK 
+H8 S8 H9 H3 
+CT C8 C5 C6 
+HQ S9 HJ D6 
+D4 D3 D7 DK 
+D5 DA D8 D9 
+DJ DT DQ C9 
+CQ SQ C7 CJ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "13"]
+[West "Einar Guðjohnsen#8501"]
+[North "Gísli Þórarins#1302"]
+[East "Jón Baldursson#1032"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ6.AK3.K96.J962 T43.Q862.J54.QT3 AQ9872.T7.AT3.K8 5.J954.Q872.A754"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Table "7"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "bb889bb8892254322543"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  8
+N  C  9
+S NT 11
+S  S 11
+S  H  8
+S  D  8
+S  C  9
+E NT  2
+E  S  2
+E  H  5
+E  D  4
+E  C  3
+W NT  2
+W  S  2
+W  H  5
+W  D  4
+W  C  3
+[OptimumScore "NS +660"]
+[Competition "Pairs"]
+[Auction "N"]
+1NT Pass 2H =1= Pass 
+2S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+H6 HT HJ HA 
+C3 CK CA C2 
+H2 H7 H4 HK 
+S3 S2 S5 SK 
+S4 S7 H9 SJ 
+ST SA H5 S6 
+H8 SQ D2 D6 
+D5 S8 C4 C6 
+CT C8 C5 C9 
+HQ S9 C7 H3 
+D4 D3 D7 DK 
+DJ DA D8 D9 
+CQ DT DQ CJ 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Hrafnhildur Skúladóttir#1269"]
+[North "Svavar Hauksson#6704"]
+[East "Halldór þorvaldsson#1030"]
+[South "Örn Hauksson#7681"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "5"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+Pass Pass 
+[Play "S"]
+SA S2 S3 S6 
+SK S7 S4 SJ 
+S8 S9 SQ S5 
+CQ C3 C6 C8 
+C2 C4 C9 CT 
+H4 H2 H6 HA 
+HQ H5 H9 HK 
+CK CJ C5 CA 
+D2 H7 C7 ST 
+D7 DA D3 DT 
+DJ D4 D5 H3 
+HJ D8 D6 HT 
+DK DQ D9 H8 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Hjálmar S. Pálsson#1012"]
+[North "Áróra Jóhannsdóttir#2307"]
+[East "Loftur Þór Pétursson#1613"]
+[South "Dagbjört Hannesdóttir#6038"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3HX"]
+[Result "8"]
+[Score "NS 100"]
+[Table "4"]
+[ScorePercentage "NS 100.00 EW 0.00"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+3H X Pass Pass 
+Pass 
+[Play "S"]
+SA S2 S3 S6 
+SK S7 S4 S5 
+S8 S9 SQ SJ 
+CQ C3 C6 C8 
+C2 C4 C9 CT 
+H4 H2 H6 HK 
+HJ H5 H9 HA 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Guðni Ingvarsson#1290"]
+[North "Kristinn Þórisson#1025"]
+[East "Birgir Olafsson#2498"]
+[South "Viðar Ólason#3140"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "3"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H 1NT 2H Pass 
+Pass Pass 
+[Play "S"]
+SA S2 S3 S6 
+SK S7 S4 SJ 
+S8 S9 SQ S5 
+C2 C3 C6 CA 
+H4 H2 H6 HA 
+HJ H5 H9 HK 
+D2 C4 C5 ST 
+DJ DQ D3 DT 
+D7 DA D5 C8 
+DK D8 D9 H8 
+CQ CJ C7 CT 
+HQ H7 D6 H3 
+CK D4 C9 HT 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Alda Gudnadottir#1064"]
+[North "Logi Sigurðsson#8911"]
+[East "Arngunnur R. Jónsdóttir#1009"]
+[South "Heiðar Árni Baldursson#9809"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS -150"]
+[Table "1"]
+[ScorePercentage "NS 8.33 EW 91.67"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+Pass X Pass 2NT 
+Pass Pass Pass 
+[Play "E"]
+H8 HJ H7 H6 
+S5 S8 S9 SQ 
+DT DJ DQ D3 
+HK H4 H5 H9 
+HA HQ H2 C6 
+HT C2 S7 C5 
+H3 D2 S2 C7 
+CA CQ C4 C9 
+C8 CK C3 S3 
+S6 SA D4 S4 
+SJ SK D8 D5 
+CT DK DA D6 
+ST D7 CJ D9 
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Víðir Jónsson#1676"]
+[North "Hannes G Sigurðsson#5355"]
+[East "Ottar Armannsson#1502"]
+[South "Pétur Reimarssson#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[ScorePercentage "NS 50.00 EW 50.00"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+Pass Pass 
+[Play "S"]
+SA S2 S3 S5 
+SK S7 S4 ST 
+S8 S9 SQ S6 
+CK C3 C5 C8 
+CQ C4 C6 CA 
+H4 H2 H6 HA 
+HQ H5 H9 HK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Sveinn Ingi Ragnarsson#2301"]
+[North "Guðmundur Birkir#1519"]
+[East "Sigurður Jón Björgvinsson#2209"]
+[South "Pétur Skarphéðinsson#1899"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Table "6"]
+[ScorePercentage "NS 83.33 EW 16.67"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+3H Pass Pass Pass 
+[Play "S"]
+SK S2 S3 S6 
+SA S7 S4 ST 
+S8 S9 SQ S5 
+CQ C3 C5 C8 
+CK C4 C6 CA 
+H4 H2 H6 HA 
+HJ H5 H9 HK 
+*
+
+[Event "Föstudagur 4.2.2022  19:30"]
+[Site "RealBridge"]
+[Date "2022.02.04"]
+[Board "14"]
+[West "Einar Guðjohnsen#8501"]
+[North "Gísli Þórarins#1302"]
+[East "Jón Baldursson#1032"]
+[South "Ragnheiður Haraldsdóttir#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:Q43.96.9653.9765 JT65.AKT83.T.AT8 AK8.QJ4.KJ72.KQ2 972.752.AQ84.J43"]
+[Scoring "MP;MP1"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS -150"]
+[Table "7"]
+[ScorePercentage "NS 8.33 EW 91.67"]
+[DoubleDummyTricks "65576655767886677856"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  5
+N  D  7
+N  C  6
+S NT  6
+S  S  5
+S  H  5
+S  D  7
+S  C  6
+E NT  7
+E  S  8
+E  H  8
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+[OptimumScore "NS -110"]
+[Competition "Pairs"]
+[Auction "E"]
+1H X 2H Pass 
+Pass X Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+DT DK DA D6 
+HK H4 H2 H9 
+S5 S8 S9 SQ 
+C8 CK C4 C5 
+S6 SK S2 S3 
+ST SA S7 S4 
+CT DJ DQ D3 
+-  -  H5 H6 
+*

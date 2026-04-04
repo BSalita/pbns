@@ -1,0 +1,3037 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "1"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT65.J87.972.964 97.AT954.J83.Q73 KQJ4.Q62.AK65.K2 832.K3.QT4.AJT85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "67564675747586975869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  4
+E NT  7
+E  S  5
+E  H  8
+E  D  6
+E  C  9
+W NT  7
+W  S  5
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 18,2,1,563,64,44,53,105,43,49,103,34,17,33,147,37,20,185,52,36,17,92,40,48,43,111,40,21,22,15,26,22,19,83,95,14,53,34,25,15,35,14,24,23,12,80,24,22,15,17,14,15,20,17,18,30,12,19,20,15,11,23,12,11,11
+[Auction "N"]
+Pass Pass 1D Pass 
+1S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+HA H2 H3 H8 
+C3 CK CA C4 
+H4 H6 HK H7 
+CQ C2 CJ C6 
+H5 HQ S2 HJ 
+S7 S4 S3 ST 
+C7 SJ C5 C9 
+S9 SQ S8 S5 
+H9 SK C8 SA 
+D3 DA D4 D2 
+D8 DK DT D7 
+DJ D5 DQ D9 
+HT D6 CT S6 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "1"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT65.J87.972.964 97.AT954.J83.Q73 KQJ4.Q62.AK65.K2 832.K3.QT4.AJT85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "67564675747586975869"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  5
+N  D  6
+N  C  4
+S NT  6
+S  S  7
+S  H  5
+S  D  7
+S  C  4
+E NT  7
+E  S  5
+E  H  8
+E  D  6
+E  C  9
+W NT  7
+W  S  5
+W  H  8
+W  D  6
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,0,3,949,350,457,15,138,142,82,100,21,38,241,102,76,24,47,27,26,40,144,16,37,58,60,78,23,31,71,17,112,14,49,17,9,15,17,14,10,25,25,10,16,15,30
+[Auction "N"]
+Pass Pass 1D Pass 
+1S Pass 3S Pass 
+Pass Pass 
+[Play "E"]
+H4 H2 HK H7 
+HA HQ H3 H8 
+H5 H6 S8 HJ 
+S7 SJ S2 S5 
+S9 SQ S3 S6 
+D8 DA D4 D2 
+D3 DK DT D7 
+DJ D5 DQ D9 
+-  -  CA -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "2"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:942.98.AKQ65.T42 J6.A32.JT8.KQ865 QT873.JT5.42.J97 AK5.KQ764.973.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "160411604187a7987a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  0
+N  D  4
+N  C  1
+S NT  1
+S  S  6
+S  H  0
+S  D  4
+S  C  1
+E NT  8
+E  S  7
+E  H 10
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,0,3,153,23,93,52,235,35,115,90,18,20,41,221,20,13,11,11,19,9,17,11,136,16,40,36,20,15,66,21,9,34,8,38,13,8,23,34,14,31,18,23,7,31,11,13
+[Auction "E"]
+Pass Pass 1H =1= Pass 
+2C =2= Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+DK D8 D4 D3 
+DA DT D2 D7 
+DQ DJ S3 D9 
+S9 SJ SQ SA 
+H8 HA H5 H4 
+H9 H2 HJ HQ 
+D5 H3 HT HK 
+C2 C5 C7 CA 
+C4 -  -  C3 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "2"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:942.98.AKQ65.T42 J6.A32.JT8.KQ865 QT873.JT5.42.J97 AK5.KQ764.973.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "160411604187a7987a79"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  6
+N  H  0
+N  D  4
+N  C  1
+S NT  1
+S  S  6
+S  H  0
+S  D  4
+S  C  1
+E NT  8
+E  S  7
+E  H 10
+E  D  7
+E  C  9
+W NT  8
+W  S  7
+W  H 10
+W  D  7
+W  C  9
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,1,125,48,31,178,46,45,199,58,41,34,395,32,28,25,54,304,29,24,25,23,9,26,22,22,207,34,567,83,147,96,92,56,25,32,33,19,24,27
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 2S Pass 
+3H Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+DK D8 D2 D3 
+DA DT D4 D7 
+DQ DJ C7 D9 
+D6 C5 HT HQ 
+H8 HA H5 H4 
+H9 H2 HJ HK 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "3"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8742.Q.53.AQT753 AT.T8654.J842.42 J95.K972.KQ76.J9 KQ63.AJ3.AT9.K86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "76447764475688566986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  4
+N  C  7
+S NT  7
+S  S  6
+S  H  4
+S  D  4
+S  C  7
+E NT  5
+E  S  6
+E  H  8
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 7,0,3,103,41,451,126,44,37,22,40,45,62,224,85,19,214,37,19,8,244,27,11,128,27,46,11,15,41,35,12,24,40,54,19,9,110,142,12,71,39,24,41,8,77,11,13,6,101,31,34,14,96,18,10,8,24,15,26,8,9,10,7,14
+[Auction "S"]
+Pass 1NT Pass 2D 
+Pass 2H Pass Pass 
+Pass 
+[Play "N"]
+S8 SA S9 S3 
+D5 D2 DQ DA 
+HQ H4 H2 HA 
+S2 ST S5 SK 
+S4 H5 SJ S6 
+C3 H6 H7 HJ 
+D3 D4 DK DT 
+CA C2 CJ CK 
+CQ C4 C9 C6 
+CT H8 H9 C8 
+C5 HT HK H3 
+C7 D8 D7 D9 
+S7 DJ D6 SQ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "3"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8742.Q.53.AQT753 AT.T8654.J842.42 J95.K972.KQ76.J9 KQ63.AJ3.AT9.K86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "76447764475688566986"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  4
+N  D  4
+N  C  7
+S NT  7
+S  S  6
+S  H  4
+S  D  4
+S  C  7
+E NT  5
+E  S  6
+E  H  8
+E  D  8
+E  C  5
+W NT  6
+W  S  6
+W  H  9
+W  D  8
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 6,2,1,131,85,106,37,159,81,59,37,35,50,79,37,132,90,37,24,30,23,31,18,97,27,22,19,117,27,31,64,262,40,30,46,38,29,27,13,25,28,21,12,134,20,24,29,47,43,19,27,20,19,30,16,20,15,216,47
+[Auction "S"]
+Pass 1S Pass Pass 
+X Pass 2C Pass 
+2D Pass Pass Pass 
+[Play "W"]
+SK S2 SA S5 
+SQ S4 ST SJ 
+S6 S7 D2 S9 
+HA HQ H8 H2 
+S3 S8 DJ DQ 
+H3 C3 H4 HK 
+HJ D3 H5 H7 
+D9 D5 D4 D6 
+C8 C5 C2 CJ 
+C6 CT C4 C9 
+CK CA D8 DK 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "4"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:3.KT7.AQ8542.Q73 AJ9.J83.J9.J8642 KQ2.6542.K73.KT9 T87654.AQ9.T6.A5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "96897968974743647435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  9
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  4
+E  S  7
+E  H  4
+E  D  3
+E  C  6
+W NT  4
+W  S  7
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 9,2,1,151,115,26,149,104,205,44,137,150,30,26,18,35,37,90,30,85,34,16,35,17,30,23,147,58,46,17,33,74,22,17,15,15,11,25,22,14,3,18,17,13,25,26,25,18,29,47
+[Auction "W"]
+Pass 1D Pass 2NT 
+Pass Pass Pass 
+[Play "W"]
+S8 S3 SA S2 
+S6 C3 SJ SK 
+DT DQ D9 D3 
+D6 D2 DJ DK 
+S4 H7 S9 SQ 
+H9 DA C2 D7 
+HQ D8 C4 H2 
+C5 D5 C6 H4 
+S5 D4 C8 H5 
+CA CQ CJ C9 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "4"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:3.KT7.AQ8542.Q73 AJ9.J83.J9.J8642 KQ2.6542.K73.KT9 T87654.AQ9.T6.A5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "96897968974743647435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H  8
+N  D  9
+N  C  7
+S NT  9
+S  S  6
+S  H  8
+S  D  9
+S  C  7
+E NT  4
+E  S  7
+E  H  4
+E  D  3
+E  C  6
+W NT  4
+W  S  7
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,104,56,44,86,24,49,138,170,46,607,55,66,44,12,29,40,162,21,35,19,32,27,242,90,29,24,20,181,40,20,11,38
+[Auction "W"]
+Pass 1D Pass 1H 
+1S 2D 2S 2NT 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+S5 S3 SA S2 
+S4 C3 SJ SK 
+D6 DA D9 D3 
+CA CQ C6 C9 
+ST -  -  -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "5"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:742.9.KQJT54.986 Q3.J764.82.AQ742 KJ9865.KQT2.97.J AT.A853.A63.KT53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "58474584748595984849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  7
+N  C  4
+S NT  5
+S  S  8
+S  H  4
+S  D  7
+S  C  4
+E NT  8
+E  S  5
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  4
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,0,3,205,115,141,33,19,156,32,14,28,27,332,47,29,16,14,17,10,68,58,131,30,116,28,20,20,20,42,14,6,26,17,17,25,14,10,21,34,19,133,25,28,54,26,37,7,40,23,9,13,22,13,66,11,17,24,7,14,19,32,6,9
+[Auction "N"]
+2D Pass Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+DK D2 D9 D3 
+DQ D8 D7 D6 
+DJ H4 S6 DA 
+C6 CA CJ C3 
+C8 C2 S5 CK 
+C9 C4 H2 CT 
+D4 CQ S8 C5 
+S4 C7 S9 H3 
+H9 H6 HT HA 
+D5 H7 HQ H5 
+DT HJ HK H8 
+S2 SQ SJ ST 
+S7 S3 SK SA 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "5"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:742.9.KQJT54.986 Q3.J764.82.AQ742 KJ9865.KQT2.97.J AT.A853.A63.KT53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "58474584748595984849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  8
+N  H  4
+N  D  7
+N  C  4
+S NT  5
+S  S  8
+S  H  4
+S  D  7
+S  C  4
+E NT  8
+E  S  5
+E  H  9
+E  D  5
+E  C  9
+W NT  8
+W  S  4
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,310,99,156,67,248,43,590,55,254,91,45,25,43,52,42,25,51,41,33,14,36,26,24,34,654,36,11,32,14,32,13,30,39,319,42,13,130,31,46,15,47,30,22,13
+[Auction "N"]
+2D =1= Pass 2S Pass 
+3S Pass Pass Pass 
+[Play "W"]
+C3 C6 CA CJ 
+C5 C8 C4 S5 
+D3 DT D8 D9 
+HA H9 H4 HQ 
+SA S2 S3 S6 
+ST S4 SQ SK 
+D6 DJ D2 D7 
+DA DK H6 S8 
+H3 S7 H7 H2 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "6"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:72.7.AKJ3.AQJ432 A83.A43.T962.875 KT64.QJ65.54.KT9 QJ95.KT982.Q87.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "a769ba769b3674236742"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  6
+N  D  9
+N  C 11
+S NT 10
+S  S  7
+S  H  6
+S  D  9
+S  C 11
+E NT  3
+E  S  6
+E  H  7
+E  D  4
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  4
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 10,0,3,91,39,47,46,50,144,39,246,46,94,38,76,45,140,268,276,16,50,24,9,17,9,14,9,5,13,15,12,6,28,18,9,13,6,20,12,21,11,35,8,10,7,16,14,66,12,20,18,9,16
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2D 
+Pass 3C Pass Pass 
+Pass 
+[Play "E"]
+C7 C9 C6 C2 
+D2 D4 D7 DK 
+D6 D5 D8 DA 
+D9 CT DQ D3 
+C5 CK H2 CA 
+C8 S4 S5 CQ 
+H3 H5 H8 CJ 
+DT S6 S9 DJ 
+SA ST SJ S2 
+HA -  -  -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "6"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:72.7.AKJ3.AQJ432 A83.A43.T962.875 KT64.QJ65.54.KT9 QJ95.KT982.Q87.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "a769ba769b3674236742"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H  6
+N  D  9
+N  C 11
+S NT 10
+S  S  7
+S  H  6
+S  D  9
+S  C 11
+E NT  3
+E  S  6
+E  H  7
+E  D  4
+E  C  2
+W NT  3
+W  S  6
+W  H  7
+W  D  4
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,238,70,34,132,34,62,49,271,88,79,48,83,40,24,25,52,405,38,61,214,60,22,30,15,79,32,234,53,211,35,17,94,27,33,30,36,64,24,12,38,21,19,15,57,23,29,85,44,18,18,73,67,15,41,359,43,20,13,13,20,12,11,14,15,13,15,14
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass 1H Pass 3C 
+Pass 3S Pass 3NT 
+Pass Pass Pass 
+[Play "E"]
+S3 S4 S9 S2 
+SA S6 S5 S7 
+S8 SK SJ H7 
+D2 D4 D7 DA 
+C5 CK C6 C2 
+C7 CT H2 C3 
+C8 C9 H8 CA 
+H3 D5 H9 CQ 
+H4 H5 D8 CJ 
+D6 ST DQ C4 
+D9 H6 SQ DK 
+DT HJ HT DJ 
+HA HQ HK D3 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "7"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T74.QJ97.AKJT.96 A32.3.Q53.AQJT84 J965.KT652.987.7 KQ8.A84.642.K532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "3576235762a867ba867b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  7
+N  D  6
+N  C  2
+S NT  3
+S  S  5
+S  H  7
+S  D  6
+S  C  2
+E NT 10
+E  S  8
+E  H  6
+E  D  7
+E  C 11
+W NT 10
+W  S  8
+W  H  6
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,294,42,81,55,62,37,218,63,46,25,17,31,522,331,18,74,20,26,19,21,30,16,32,8,11,10,50,12,487,17,21,9,39,12,9,13,34,11,28,25,34,60,25,16,27,10,8,9,29,9,18,10,15,8,19,22,14,12,9,6,11,15,6
+[Auction "S"]
+Pass 1C Pass 2C =1= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "N"]
+DA D3 D7 D2 
+HQ H3 H2 HA 
+C9 C4 C7 CK 
+C6 CA D9 C5 
+DT CQ H5 C3 
+S7 CJ D8 C2 
+DJ CT S5 D4 
+S4 C8 S6 H4 
+ST S2 S9 SK 
+H7 SA SJ S8 
+H9 S3 H6 SQ 
+DK D5 HT D6 
+HJ DQ HK H8 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "7"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T74.QJ97.AKJT.96 A32.3.Q53.AQJT84 J965.KT652.987.7 KQ8.A84.642.K532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "3576235762a867ba867b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  5
+N  H  7
+N  D  6
+N  C  2
+S NT  3
+S  S  5
+S  H  7
+S  D  6
+S  C  2
+E NT 10
+E  S  8
+E  H  6
+E  D  7
+E  C 11
+W NT 10
+W  S  8
+W  H  6
+W  D  7
+W  C 11
+[OptimumScore "NS -630"]
+[Competition "Teams"]
+% RBDATA 15,2,1,253,80,233,41,89,186,108,34,36,408,90,122,49,1016,241,16,19,356,43,30,29,135,44,21,30,74,105,14,25,25,55,19,10,47
+[Auction "S"]
+Pass 1NT Pass 2S =1= 
+Pass 3C =2= Pass 3H 
+Pass 4C Pass Pass 
+Pass 
+[Play "N"]
+DA D3 D9 D2 
+HQ H3 H2 HA 
+C6 CA C7 C2 
+C9 C4 D7 CK 
+DK D5 D8 D4 
+DJ -  -  -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "8"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ95.KQ9.T75.KJ7 A83.AJ7.98.QT965 Q62.6543.AQ32.42 T74.T82.KJ64.A83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "56674676757666876668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,64,58,72,230,31,83,186,19,19,11,22,26,8,25,121,10,8,45,27,15,24,39,21,19,47,23,57,16,90,25,81,68,127,24,125,18,17,17,23,26,7,14,45,12,6
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+C6 C2 CA C7 
+CQ C4 C8 CJ 
+CT H3 C3 CK 
+S8 SQ S7 S5 
+HA H4 H8 HQ 
+C9 D2 D4 D5 
+C5 H5 S4 H9 
+D9 D3 DJ D7 
+SA S2 ST SJ 
+D8 DA D6 DT 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "8"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KJ95.KQ9.T75.KJ7 A83.AJ7.98.QT965 Q62.6543.AQ32.42 T74.T82.KJ64.A83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "56674676757666876668"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  6
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  7
+S  H  6
+S  D  7
+S  C  5
+E NT  7
+E  S  6
+E  H  6
+E  D  6
+E  C  8
+W NT  7
+W  S  6
+W  H  6
+W  D  6
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,190,200,46,29,50,57,203,125,67,34,61,28,16,29,50,43,21,51,36,25,26,48,34,25,22,18,177,27,73,128,61,28,156,22,348,42,16,23,47,23,20,18,43,58,25,22,19,18,10,14,28,11,19,14,21,13,5
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass 
+[Play "E"]
+CT C2 CA C7 
+CQ C4 C8 CJ 
+C9 H3 C3 CK 
+S3 SQ S4 S5 
+HA H4 H2 HK 
+C6 D2 S7 D5 
+C5 H5 ST D7 
+D9 DA D4 DT 
+SA S2 H8 S9 
+D8 D3 DJ H9 
+S8 DQ DK SJ 
+H7 S6 D6 SK 
+HJ H6 HT HQ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "9"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J75.K54.32.AT874 KT93.T9763.JT5.Q AQ4.Q2.AK76.K653 862.AJ8.Q984.J92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "a989ba879b3454234542"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  9
+N  C 11
+S NT 10
+S  S  8
+S  H  7
+S  D  9
+S  C 11
+E NT  3
+E  S  4
+E  H  5
+E  D  4
+E  C  2
+W NT  3
+W  S  4
+W  H  5
+W  D  4
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,0,3,45,44,79,33,133,38,162,32,89,24,25,62,81,55,30,17,36,28,20,13,8,23,24,8,82,34,24,14,20,13,25,171,116,174,14,8,31,59,8,153,19,102,21,10,245,21,10,20,36,17,11,18
+[Auction "N"]
+Pass Pass 1D Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+H6 HQ HA H4 
+H3 H2 HJ H5 
+H7 D6 H8 HK 
+CQ CK C2 C4 
+S3 C3 C9 CT 
+H9 C5 CJ CA 
+HT C6 S6 C8 
+S9 D7 D4 C7 
+ST SQ S8 S5 
+SK SA S2 S7 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "9"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J75.K54.32.AT874 KT93.T9763.JT5.Q AQ4.Q2.AK76.K653 862.AJ8.Q984.J92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "a989ba879b3454234542"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H  8
+N  D  9
+N  C 11
+S NT 10
+S  S  8
+S  H  7
+S  D  9
+S  C 11
+E NT  3
+E  S  4
+E  H  5
+E  D  4
+E  C  2
+W NT  3
+W  S  4
+W  H  5
+W  D  4
+W  C  2
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,1,113,34,78,76,277,90,610,81,40,30,68,201,137,39,110,39,18,35,34,34,34,40,38,50,22,32,25,12,12,24,29,19,21,42,22,27,25,29,23,63,22,23
+[Auction "N"]
+Pass Pass 1C Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S6 S5 S9 SQ 
+C2 C4 CQ CK 
+C9 CT H9 C3 
+CJ CA H3 C5 
+D4 C8 H6 C6 
+S8 C7 H7 D6 
+HA H4 HT HQ 
+S2 SJ SK SA 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "10"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:7.A75.AT76.KQ972 KT986542.Q.Q2.T4 A.8643.J943.AJ86 QJ3.KJT92.K85.53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "857aa857aa3863338633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  7
+N  D 10
+N  C 10
+S NT  8
+S  S  5
+S  H  7
+S  D 10
+S  C 10
+E NT  3
+E  S  8
+E  H  6
+E  D  3
+E  C  3
+W NT  3
+W  S  8
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 13,0,3,369,118,32,23,106,191,75,32,42,33,115,10,75,36,28,9,343,28,8,8,290,53,14,22,67
+[Auction "E"]
+3S Pass Pass Pass 
+[Play "S"]
+D3 D5 DA D2 
+C8 C3 CK CT 
+CJ C5 C2 C4 
+SA S3 S7 S5 
+H6 HJ HA HQ 
+-  -  D6 -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "10"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:7.A75.AT76.KQ972 KT986542.Q.Q2.T4 A.8643.J943.AJ86 QJ3.KJT92.K85.53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "4"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "857aa857aa3863338633"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  7
+N  D 10
+N  C 10
+S NT  8
+S  S  5
+S  H  7
+S  D 10
+S  C 10
+E NT  3
+E  S  8
+E  H  6
+E  D  3
+E  C  3
+W NT  3
+W  S  8
+W  H  6
+W  D  3
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 17,2,1,305,103,40,162,36,149,39,31,19,137,112,47,33,29,42,20,45,161,57,16,26,38,24,14,25,31,22,30,31,55,41,19,23,142,32,19,21,495,53,14,19,46,74,22,18,11,53,15,19,12,45,13,15,12,232,46,30,15,26,20,9
+[Auction "E"]
+3S Pass Pass X 
+Pass 4H Pass Pass 
+Pass 
+[Play "W"]
+SQ S7 S8 SA 
+H2 H5 HQ H3 
+D8 DA DQ D3 
+H9 HA S2 H4 
+DK D6 D2 D9 
+HK H7 S4 H6 
+HJ C2 S5 H8 
+SJ D7 SK C6 
+S3 C7 ST C8 
+C3 C9 S9 D4 
+C5 DT S6 CA 
+HT CQ C4 CJ 
+D5 CK CT DJ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "11"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T.T982.AQJT7543. QJ3.A753.K8.Q542 K762.KJ4.92.JT83 A9854.Q6.6.AK976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "1159122591ba84cba84b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  9
+N  C  1
+S NT  2
+S  S  2
+S  H  5
+S  D  9
+S  C  1
+E NT 11
+E  S 10
+E  H  8
+E  D  4
+E  C 12
+W NT 11
+W  S 10
+W  H  8
+W  D  4
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 23,0,3,81,97,156,138,29,29,33,54,38,200,22,18,19,64,314,53,10,53,41,17,11,36,101,25,9,39,18,10,14,25,13,24,17,220,26,18,13,10,14,26,10,287,29,9,11,204,17,14,121,9,12,8,39,11,13,8,6,12,15,9,35,8,9,12,7
+[Auction "S"]
+Pass 1S 4D 4S 
+Pass Pass 5D Pass 
+Pass 5S Pass Pass 
+Pass 
+[Play "N"]
+HT HA H4 H6 
+ST SQ S2 S4 
+D3 SJ SK SA 
+D4 S3 S7 S9 
+D5 H3 S6 S8 
+DA D8 D9 D6 
+H9 H5 HK HQ 
+H2 H7 HJ S5 
+D7 C2 C3 CA 
+DT CQ C8 C6 
+DJ DK D2 C7 
+H8 C4 CT CK 
+DQ C5 CJ C9 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "11"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:T.T982.AQJT7543. QJ3.A753.K8.Q542 K762.KJ4.92.JT83 A9854.Q6.6.AK976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -300"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "1159122591ba84cba84b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  1
+N  H  5
+N  D  9
+N  C  1
+S NT  2
+S  S  2
+S  H  5
+S  D  9
+S  C  1
+E NT 11
+E  S 10
+E  H  8
+E  D  4
+E  C 12
+W NT 11
+W  S 10
+W  H  8
+W  D  4
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 21,2,1,279,53,243,127,36,95,205,54,172,40,38,185,74,45,45,271,44,36,17,21,124,30,46,184,35,15,31,125,61,49,18,314,38,14,22,15,23,15,23,60,25,35,32
+[Auction "S"]
+Pass 1S 5D X 
+Pass Pass Pass 
+[Play "E"]
+SQ S2 S4 ST 
+SJ S6 S5 D3 
+HA H4 H6 H8 
+S3 S7 S8 D4 
+H3 HJ HQ H2 
+C5 C3 CK D5 
+D8 D2 D6 DA 
+DK D9 C6 D7 
+C2 C8 C9 DT 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "12"]
+[West "Kostas#"]
+[North "Stuart Leigh#401690"]
+[East "Eryk Gozdowski#418628"]
+[South "David hull#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT5.AKQJ3.QJ7.AT Q4.T92.KT9632.K8 63.86.A85.QJ9753 AJ9872.754.4.642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "a7a8a9798a2625226252"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C 10
+E NT  2
+E  S  6
+E  H  2
+E  D  5
+E  C  2
+W NT  2
+W  S  6
+W  H  2
+W  D  5
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 14,0,3,84,191,52,154,18,53,55,198,13,96,275,16,50,419,22,10,43,296,53,20,9,83,24,7,6,15,26,25,15
+[Auction "W"]
+2S X Pass 3C 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+SQ S3 S2 S5 
+S4 S6 SA ST 
+HT H6 H7 HA 
+C8 C3 C4 CA 
+CK C5 C2 CT 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "12"]
+[West "Chris Brewin#29358"]
+[North "Peter Brook#"]
+[East "Brian Kelly#39822"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KT5.AKQJ3.QJ7.AT Q4.T92.KT9632.K8 63.86.A85.QJ9753 AJ9872.754.4.642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "6"]
+[Score "NS 800"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "a7a8a9798a2625226252"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  7
+N  H 10
+N  D  8
+N  C 10
+S NT  9
+S  S  7
+S  H  9
+S  D  8
+S  C 10
+E NT  2
+E  S  6
+E  H  2
+E  D  5
+E  C  2
+W NT  2
+W  S  6
+W  H  2
+W  D  5
+W  C  2
+[OptimumScore "NS +630"]
+[Competition "Teams"]
+% RBDATA 18,2,1,219,181,66,65,35,76,39,21,416,200,18,65,27,128,167,157,26,49,22,12,12,104,24,131,27,280,32,55,14,22,22,9,14,23,33,24,201,104,25,589,51,147,52,20,17,22,36,22,3,46,69,25,47,74,37,43,31,132,34,21,26,12,20,30,18
+[Auction "W"]
+2S X 3S Pass 
+Pass 4H Pass Pass 
+4S X Pass Pass 
+Pass 
+[Play "N"]
+HK H2 H8 H4 
+HA H9 H6 H5 
+HQ HT C7 H7 
+CA C8 C3 C2 
+CT CK C5 C4 
+S5 SQ S3 S2 
+SK S4 S6 SJ 
+HJ D2 C9 S7 
+ST D3 D5 SA 
+H3 D6 CJ S9 
+D7 D9 D8 S8 
+DJ DK DA D4 
+DQ DT CQ C6 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "13"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ7653.QJ74.9.K7 K9.AK.AK8.AQ5432 A42.9832.75432.6 T8.T65.QJT6.JT98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "1873118721c45ac7459b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  7
+N  D  3
+N  C  1
+S NT  1
+S  S  8
+S  H  7
+S  D  2
+S  C  1
+E NT 12
+E  S  4
+E  H  5
+E  D 10
+E  C 12
+W NT  7
+W  S  4
+W  H  5
+W  D  9
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 14,1,3,324,451,97,32,38,76,57,68,30,24,29,360,304,27,87,72,70,24,12,26,37,39,25,96,52,21,27,11,18,11,26,13,207,10,13,46,27,10,32,16,16,25,24,18,16,11,22,15,43,9,13,12,53,10,13,14,29,10,11,13,17,13,12
+[Auction "N"]
+Pass 2C =1= Pass 2D =2= 
+Pass 2NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+H8 H5 H7 HA 
+D7 DQ D9 D8 
+C6 CJ CK CA 
+D2 D6 S7 DK 
+D3 DT S3 DA 
+H2 C8 C7 C2 
+S2 C9 H4 C3 
+D4 DJ S5 S9 
+H3 CT S6 CQ 
+S4 S8 SJ C4 
+H9 ST SQ C5 
+D5 H6 HJ HK 
+SA HT HQ SK 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "13"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ7653.QJ74.9.K7 K9.AK.AK8.AQ5432 A42.9832.75432.6 T8.T65.QJT6.JT98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "1873118721c45ac7459b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  8
+N  H  7
+N  D  3
+N  C  1
+S NT  1
+S  S  8
+S  H  7
+S  D  2
+S  C  1
+E NT 12
+E  S  4
+E  H  5
+E  D 10
+E  C 12
+W NT  7
+W  S  4
+W  H  5
+W  D  9
+W  C 11
+[OptimumScore "NS -1400"]
+[Competition "Teams"]
+% RBDATA 20,2,0,893,68,96,56,159,139,47,652,81,36,33,48,155,93,50,67,40,36,20,15,20,48,38,8,43,22,139,16,80
+[Auction "N"]
+Pass 2C =1= Pass 2D =2= 
+2S 3C Pass 4C 
+Pass 5C Pass Pass 
+Pass 
+[Play "S"]
+SA S8 S3 S9 
+S4 ST SJ SK 
+C6 C8 C7 CA 
+S2 C9 CK C2 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "14"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K83.T83.T764.A63 AQT.J965.AKJ3.94 72.AK74.98.KQJT2 J9654.Q2.Q52.875"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "64658446586868568685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  5
+N  C  8
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  8
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 8,1,3,140,96,54,28,119,193,24,20,131,139,13,9,97,21,13,11,80,20,13,26,184,44,13,14,10,23,11,22,21,26,11,13,48,32,15,11,21,40,13,12,19,44,14,12,14,22,9,11,26,17,12,7,8,16,6,13,11,12,13,6
+[Auction "E"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "S"]
+CK C5 C3 C4 
+CQ C7 C6 C9 
+CJ C8 CA ST 
+D8 DQ D4 D3 
+S2 S4 S3 SQ 
+S7 S5 S8 SA 
+D9 D2 D6 DA 
+H4 D5 D7 DK 
+H7 H2 DT DJ 
+HK HQ H3 H5 
+HA S6 H8 H6 
+C2 S9 SK H9 
+CT SJ HT HJ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "14"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:K83.T83.T764.A63 AQT.J965.AKJ3.94 72.AK74.98.KQJT2 J9654.Q2.Q52.875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "64658446586868568685"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  6
+N  D  5
+N  C  8
+S NT  4
+S  S  4
+S  H  6
+S  D  5
+S  C  8
+E NT  6
+E  S  8
+E  H  6
+E  D  8
+E  C  5
+W NT  6
+W  S  8
+W  H  6
+W  D  8
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 5,2,0,139,127,77,95,77,325,132,15,21,20,47,19,19,15,50,22,23,185,44,17,6,20,27,17,7,25,67,39,21,176,578,211,35,34,33,136,29,18,20,24,21,22,16,19,6,33,25,16,7,20,16,18,6,13,18,17,7
+[Auction "E"]
+1D 2C Pass Pass 
+Pass 
+[Play "W"]
+D2 D4 DK D8 
+D5 D6 DA D9 
+DQ D7 D3 CT 
+H2 H3 H6 HA 
+HQ H8 H5 HK 
+S6 HT HJ H4 
+S4 DT DJ S2 
+C8 CA H9 H7 
+C5 C3 C4 CJ 
+C7 C6 C9 CQ 
+S5 S3 ST CK 
+S9 S8 SQ C2 
+SJ SK SA S7 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "15"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:9642.AJ873.92.T3 AKJ.KT652.63.J75 53.Q.KT8754.KQ92 QT87.94.AQJ.A864"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "3346433464a9979a9979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  4
+S  D  6
+S  C  4
+E NT 10
+E  S  9
+E  H  9
+E  D  7
+E  C  9
+W NT 10
+W  S  9
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,212,123,82,200,42,110,117,19,21,72,123,41,41,163,53,13,45,32,32,16,22,188,196,35,24
+[Auction "S"]
+2D Pass Pass 2H 
+Pass 3NT Pass Pass 
+Pass 
+[Play "N"]
+D9 D3 DK DA 
+H3 H2 HQ H9 
+D2 D6 DT DQ 
+HJ HK D4 H4 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "15"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:9642.AJ873.92.T3 AKJ.KT652.63.J75 53.Q.KT8754.KQ92 QT87.94.AQJ.A864"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "3346433464a9979a9979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  4
+N  D  6
+N  C  4
+S NT  3
+S  S  3
+S  H  4
+S  D  6
+S  C  4
+E NT 10
+E  S  9
+E  H  9
+E  D  7
+E  C  9
+W NT 10
+W  S  9
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -430"]
+[Competition "Teams"]
+% RBDATA 10,1,3,244,52,24,149,104,51,21,115,35,340,24,732,67,215,41,91,130,14,74,195,43,52,59,182,20,30,14,165,34,10,13,123,21,13,38,565,21,40,7,85,17,41,6,10,23,8,11,9,19,7,14,7,12,10,14,8,14,6,20,12,14,12,18,13,9,13,8
+[Auction "S"]
+Pass 1C Pass 1H 
+2D Pass Pass X 
+Pass 2S Pass 3C 
+Pass Pass Pass 
+[Play "N"]
+D9 D3 D4 DJ 
+C3 C5 C9 C4 
+D2 D6 DT DQ 
+CT C7 C2 CA 
+H3 CJ CQ C6 
+H7 H2 CK C8 
+H8 H5 D7 DA 
+S2 SA S3 S7 
+S4 SK S5 S8 
+S6 SJ D5 SQ 
+S9 H6 D8 ST 
+HA HT HQ H4 
+HJ HK DK H9 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "16"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A952.J754.A3.K63 T.AT983.9852.854 Q7643.62.J64.JT7 KJ8.KQ.KQT7.AQ92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "4743447434869a9869a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  8
+E  S  6
+E  H  9
+E  D 10
+E  C  9
+W NT  8
+W  S  6
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 14,1,3,226,93,178,60,37,32,49,34,18,70,59,330,36,47,37,40,12,21,10,16,31,16,232,57,22,52,122,33,26,20,15,35,8,13,18,37,11,57,21,27,9,11,74,25,12,17,9,33,8,12,8,26,8,11,11
+[Auction "W"]
+2NT Pass 3D Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S2 ST SQ SK 
+H5 H3 H6 HK 
+H4 HA H2 HQ 
+CK C8 CT CQ 
+C6 C4 CJ CA 
+C3 C5 C7 C9 
+H7 D2 D4 C2 
+DA D5 D6 DK 
+D3 D9 DJ DQ 
+S5 D8 S3 DT 
+S9 H8 S4 D7 
+-  -  -  S8 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "16"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:A952.J754.A3.K63 T.AT983.9852.854 Q7643.62.J64.JT7 KJ8.KQ.KQT7.AQ92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "4743447434869a9869a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  4
+N  D  3
+N  C  4
+S NT  4
+S  S  7
+S  H  4
+S  D  3
+S  C  4
+E NT  8
+E  S  6
+E  H  9
+E  D 10
+E  C  9
+W NT  8
+W  S  6
+W  H  9
+W  D 10
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 12,2,0,366,146,79,48,42,39,165,60,161,266,10,69,128,51,86,220,135,54,12,28,34,29,23,9,371,343,47,16,258,73,34,8,1001,49,32,31,92,46,17,8,28,28,406,41,21,54,44,230,15,31,36,71,17,17,18,22,12,14,16,15
+[Auction "W"]
+2NT Pass 3D Pass 
+3H Pass Pass Pass 
+[Play "N"]
+DA D2 D6 DT 
+D3 D5 D4 DK 
+H4 H3 H2 HK 
+H5 H8 H6 HQ 
+S2 D8 DJ DQ 
+SA ST S3 SK 
+C3 C4 CT CQ 
+S5 H9 S4 S8 
+H7 HA S6 D7 
+HJ D9 S7 C2 
+S9 HT SQ SJ 
+C6 C5 C7 CA 
+CK C8 CJ C9 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "17"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT3.T85.T952.742 Q65.AJ62.AJ4.KT8 KJ984.K9.863.AJ5 72.Q743.KQ7.Q963"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "67465674657697866978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  6
+S  C  5
+E NT  7
+E  S  6
+E  H  9
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,119,66,109,95,50,55,48,52,89,21,29,123,261,29,12,35,48,27,38,93,507,39,26,36,33,9,10,23,100,24,12,91,26,26,28,34,47,13,53,121,35,34,26,45,67,26,41,30,25,22,13,18,16,7,11,33,13,7,14,7,12,6,12
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+D6 DK D2 D4 
+HK H3 H5 HJ 
+D8 D7 DT DA 
+H9 H4 H8 HA 
+S8 HQ HT H2 
+CA C3 C2 CK 
+D3 DQ D5 DJ 
+SK S2 S3 SQ 
+C5 C6 C4 CT 
+CJ CQ C7 C8 
+S4 C9 ST S5 
+S9 H7 D9 H6 
+SJ S7 SA S6 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "17"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AT3.T85.T952.742 Q65.AJ62.AJ4.KT8 KJ984.K9.863.AJ5 72.Q743.KQ7.Q963"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "67465674657697866978"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  7
+N  H  4
+N  D  6
+N  C  5
+S NT  6
+S  S  7
+S  H  4
+S  D  6
+S  C  5
+E NT  7
+E  S  6
+E  H  9
+E  D  7
+E  C  8
+W NT  6
+W  S  6
+W  H  9
+W  D  7
+W  C  8
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,2,0,126,138,51,77,99,54,118,73,48,17,24,206,103,97,41,24,214,38,7,215,30,94,11,23,36,12,33,56,24,32,8,45,122,43,85,19,39,18,18,47,22,11,13,24,15,23,65
+[Auction "N"]
+Pass 1C 1S X 
+2S 3H Pass 4H 
+Pass Pass Pass 
+[Play "S"]
+S8 S2 SA S5 
+SK S7 ST SQ 
+D8 DK D2 D4 
+HK H3 H5 HJ 
+CA C3 C7 C8 
+D6 D7 D9 DJ 
+S4 H4 S3 S6 
+H9 HQ H8 H2 
+D3 H7 HT HA 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "18"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K97.AK43.A7.JT95 Q3.96.K9652.AKQ7 T865.J85.JT.8432 AJ42.QT72.Q843.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "11"]
+[Score "NS -150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "454354543598898989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  3
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  3
+S  C  5
+E NT  9
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 6,1,3,158,58,32,40,57,44,58,33,131,125,94,461,60,22,16,28,19,8,12,97,26,24,36,36,10,28,18,22,10,12,13,23,11,12,11,19,9,13,9,18,9,13,10,26,7,12,8,12,5,14
+[Auction "E"]
+1D Pass 1H Pass 
+2C Pass 2D Pass 
+Pass Pass 
+[Play "S"]
+S8 S2 SK S3 
+DT D3 DA D5 
+DJ DQ D7 D2 
+S6 S4 S7 SQ 
+C2 C6 C5 CA 
+C3 H2 C9 CK 
+C4 H7 CT CQ 
+C8 D4 CJ C7 
+S5 SJ S9 H6 
+ST SA H3 H9 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "18"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:K97.AK43.A7.JT95 Q3.96.K9652.AKQ7 T865.J85.JT.8432 AJ42.QT72.Q843.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "454354543598898989a8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  4
+N  D  3
+N  C  5
+S NT  4
+S  S  5
+S  H  4
+S  D  3
+S  C  5
+E NT  9
+E  S  8
+E  H  8
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H  9
+W  D 10
+W  C  8
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 14,2,0,103,61,302,150,38,45,206,115,123,35,230,125,20,156,32,268,70,22,148,31,21,29,107,54,46,886,153,381,54,39,39,33,32,206,28,40,18,21,14,20,19,17,32,44,17,28,99,48,48,17,22,19,18,53,21,20,19,11,9,16,10,11,19,17,8,17
+[Auction "E"]
+1D Pass 1H Pass 
+2C Pass 3D Pass 
+3S =1= Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+CJ CA C2 C6 
+DA D2 DT DQ 
+C5 CK C3 D3 
+SK SQ S5 S2 
+CT CQ C4 S4 
+S7 S3 S6 SJ 
+S9 C7 S8 SA 
+D7 D9 DJ D4 
+H4 H6 ST D8 
+C9 D5 C8 H2 
+HA H9 H8 H7 
+HK D6 H5 HT 
+H3 DK HJ HQ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "19"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8763.J32.T95.T94 KQJ92.A9.AK6.AJ3 T54.QT75.QJ42.Q7 A.K864.873.K8652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -1440"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "0022000220ddbbdddbbd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  2
+N  D  2
+N  C  0
+S NT  0
+S  S  0
+S  H  2
+S  D  2
+S  C  0
+E NT 13
+E  S 13
+E  H 11
+E  D 11
+E  C 13
+W NT 13
+W  S 13
+W  H 11
+W  D 11
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 29,1,3,118,23,26,177,106,27,38,57,41,39,37,153,51,130,96,31,35,160,293,35,60,75,46,15,15,39,26,22,32,142,57,14,23,62,131,18,16,17,71,18,25,12,41,13,42
+[Auction "S"]
+Pass Pass Pass 2C 
+Pass 2D =1= Pass 2S 
+Pass 3C Pass 3NT 
+Pass 6NT Pass Pass 
+Pass 
+[Play "S"]
+DQ D3 D5 DA 
+S5 SA S3 S2 
+CQ C2 C4 CJ 
+C7 C8 C9 CA 
+H5 CK CT C3 
+D2 C5 H2 D6 
+S4 C6 S6 S9 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "19"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:8763.J32.T95.T94 KQJ92.A9.AK6.AJ3 T54.QT75.QJ42.Q7 A.K864.873.K8652"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -1370"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "0022000220ddbbdddbbd"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  2
+N  D  2
+N  C  0
+S NT  0
+S  S  0
+S  H  2
+S  D  2
+S  C  0
+E NT 13
+E  S 13
+E  H 11
+E  D 11
+E  C 13
+W NT 13
+W  S 13
+W  H 11
+W  D 11
+W  C 13
+[OptimumScore "NS -2220"]
+[Competition "Teams"]
+% RBDATA 25,2,0,80,113,64,112,102,171,43,50,34,312,49,107,40,626,52,252,37,742,68,45,39,194,44,19,45,1475,459,39,19,63,38,19,29,119,39,18,27,131,78,10,26,74,31,9,29,12,36,8,22
+[Auction "S"]
+Pass Pass Pass 2C =1= 
+Pass 2D =2= Pass 2NT 
+Pass 3C =3= Pass 3S 
+Pass 4C =4= Pass 4D 
+Pass 4H Pass 5C 
+Pass 6C Pass Pass 
+Pass 
+[Play "S"]
+S4 SA S7 S2 
+CQ C2 C4 CJ 
+C7 C8 C9 CA 
+S5 CK CT C3 
+D2 D3 D5 DK 
+ST D7 S3 SK 
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "20"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ84.975.K2.T943 T963.AK32.Q5.A76 A72.T6.AJ6.KQJ82 J5.QJ84.T98743.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "8755a8755a5488354883"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  5
+N  C 10
+S NT  8
+S  S  7
+S  H  5
+S  D  5
+S  C 10
+E NT  5
+E  S  4
+E  H  8
+E  D  8
+E  C  3
+W NT  5
+W  S  4
+W  H  8
+W  D  8
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,1,3,140,26,90,72,293,18,82,59,55,153,75,87,13,32,62,368,21,28,36,40,20,15,51,32,25,30,33,555,98,28,30,33,26,31,51,31,26,9,41,30,19,20,361,89,25,10,114,76,16,9,31,76,45,27,24,25,13,12,14,19,20,6,9,19,7,11
+[Auction "W"]
+Pass Pass 1C Pass 
+1D Pass 1H 2C 
+2H 3C 3H Pass 
+Pass Pass 
+[Play "S"]
+CK C5 C9 CA 
+C2 H4 C3 C7 
+S2 SJ SQ S3 
+HT HQ H5 H2 
+D6 DT DK D5 
+H6 H8 H7 HA 
+DA D3 D2 DQ 
+CQ S5 C4 C6 
+SA HJ S4 S6 
+DJ D9 S8 H3 
+S7 D4 SK S9 
+C8 D7 CT HK 
+CJ D8 H9 ST 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "20"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:KQ84.975.K2.T943 T963.AK32.Q5.A76 A72.T6.AJ6.KQJ82 J5.QJ84.T98743.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "8755a8755a5488354883"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  5
+N  D  5
+N  C 10
+S NT  8
+S  S  7
+S  H  5
+S  D  5
+S  C 10
+E NT  5
+E  S  4
+E  H  8
+E  D  8
+E  C  3
+W NT  5
+W  S  4
+W  H  8
+W  D  8
+W  C  3
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 7,2,0,148,86,162,115,320,59,40,80,20,63,69,165,32,23,215,55,36,123,83,18,36,7,345,21,28,17,97,39,10,27,186,57,15,11,264,32,13,28,261,38,21,57,43,226,27,23,16,20,20,38,11,66,44,27,23,18,24,12,32,9,53,18
+[Auction "W"]
+Pass Pass 1NT Pass 
+2C Pass 2H Pass 
+Pass Pass 
+[Play "S"]
+CK C5 C4 CA 
+D6 D7 DK D5 
+S2 S5 SK S3 
+C2 H4 CT C6 
+DA D3 D2 DQ 
+CQ SJ C3 C7 
+CJ D4 C9 H2 
+S7 H8 S4 S6 
+DJ D8 H7 HK 
+SA HJ S8 S9 
+C8 D9 SQ HA 
+H6 HQ H5 ST 
+HT DT H9 H3 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "21"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A2.8642.AK9832.3 743.AQT93.Q765.4 J95.J75..AQJ7652 KQT86.K.JT4.KT98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "45568455789876588765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  6
+N  C  8
+S NT  4
+S  S  5
+S  H  5
+S  D  7
+S  C  8
+E NT  9
+E  S  8
+E  H  7
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 8,1,3,142,64,134,46,33,387,356,174,35,48,176,114,16,262,24,60,14,432,35,32,15,9,41,9,15,8,35,18,85,76,22,24,7,20,20,11,21,100,35,12,15,9,22,19,13,6,25,7,11,22,13,7,12,8,16,6,48,8,12,7,16
+[Auction "N"]
+1D 1H Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "N"]
+DK D5 C6 D4 
+D9 D6 S5 DT 
+H2 HA H5 HK 
+H4 HQ H7 DJ 
+C3 C4 CA C8 
+SA S3 SJ SK 
+S2 S4 S9 ST 
+D2 S7 C2 C9 
+D8 D7 C5 S6 
+D3 H3 C7 SQ 
+H6 H9 CJ CK 
+H8 HT HJ S8 
+DA DQ CQ CT 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "21"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A2.8642.AK9832.3 743.AQT93.Q765.4 J95.J75..AQJ7652 KQT86.K.JT4.KT98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "45568455789876588765"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  5
+N  D  6
+N  C  8
+S NT  4
+S  S  5
+S  H  5
+S  D  7
+S  C  8
+E NT  9
+E  S  8
+E  H  7
+E  D  6
+E  C  5
+W NT  8
+W  S  8
+W  H  7
+W  D  6
+W  C  5
+[OptimumScore "NS -400"]
+[Competition "Teams"]
+% RBDATA 10,2,0,111,114,64,436,90,35,52,62,178,46,87,111,9,38,321,39,27,23,22,13,25,195,21,8,27,20,37,23,25,24,234,40,114,31,85,24,27,23,23,20,21,72,26,19,6,24,24,19,30,31,150,61,24,6,32,21,5,12,20,18,6,17
+[Auction "N"]
+1D 1H 2C X 
+2D Pass 3C Pass 
+Pass Pass 
+[Play "W"]
+HK H2 H3 H7 
+SK SA S3 S5 
+D4 DA D5 H5 
+DT DK D6 HJ 
+CK C3 C4 CQ 
+CT D2 H9 CJ 
+C8 D3 D7 CA 
+C9 D8 S7 C7 
+DJ D9 DQ C2 
+S6 H4 S4 C5 
+SQ S2 HT SJ 
+ST H6 HQ S9 
+S8 H8 HA C6 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "22"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7543.2.KQ86.K9 KQ862.K64.5.J752 T9.Q983.A9432.QT .AJT75.JT7.A8643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "77482774826695b6695b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  4
+N  D  8
+N  C  2
+S NT  7
+S  S  7
+S  H  4
+S  D  8
+S  C  2
+E NT  6
+E  S  6
+E  H  9
+E  D  5
+E  C 11
+W NT  6
+W  S  6
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 8,1,3,93,51,83,38,322,65,55,32,96,25,145,89,352,33,23,34,26,16,43,149,73,21,10,428,42,9,22,31,32,14,61,208,54,22,8,16,14,80,16,66,28,7,65,57,18,16,81,138,208,164,9,28,14,22,63,17,24,27,12,9,14,5,11
+[Auction "E"]
+Pass Pass 1H 1S 
+2H Pass Pass 2S 
+Pass Pass Pass 
+[Play "E"]
+D5 D2 DT DK 
+S2 S9 H5 SA 
+SQ ST C3 S3 
+HK H3 H7 H2 
+H6 H8 HT S4 
+C2 CT CA CK 
+S6 D3 D7 D6 
+C5 CQ C4 C9 
+H4 H9 HJ S5 
+C7 DA DJ D8 
+S8 D4 C6 DQ 
+SK D9 HA S7 
+CJ HQ C8 SJ 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "22"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:AJ7543.2.KQ86.K9 KQ862.K64.5.J752 T9.Q983.A9432.QT .AJT75.JT7.A8643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "77482774826695b6695b"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  7
+N  H  4
+N  D  8
+N  C  2
+S NT  7
+S  S  7
+S  H  4
+S  D  8
+S  C  2
+E NT  6
+E  S  6
+E  H  9
+E  D  5
+E  C 11
+W NT  6
+W  S  6
+W  H  9
+W  D  5
+W  C 11
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,0,72,34,125,93,267,49,407,178,39,29,282,153,25,17,268,704,44,20,232,39,27,34,132,56,17,13,145,84,51,30,30,30,25,20,66,42,18,50,26,52,26,21,364,44,18,42,79,19,30,26,31,23,11,33,47
+[Auction "E"]
+Pass Pass 1H 1S 
+2S =1= Pass 4H Pass 
+Pass Pass 
+[Play "N"]
+DK D5 D2 D7 
+D6 H4 D3 DT 
+C9 C2 CT CA 
+CK C5 CQ C3 
+D8 H6 D4 DJ 
+H2 HK H3 H5 
+S3 S2 S9 H7 
+S4 S6 H8 HA 
+S5 CJ H9 C4 
+DQ S8 DA HT 
+S7 C7 HQ C8 
+-  -  D9 -  
+*
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "23"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K62.K98.KQT965.2 AJ.AQ74.84.QT754 QT973.32.2.KJ863 854.JT65.AJ73.A9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "57355573558697886a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  3
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 9,1,3,101,102,41,134,68,428,50,634,47,53,206,19,12,470,50,21,7,33,40,9,30,8,34,17,24,52,31,8,13,63,85,10,31,29,43,30,30,372,33,15,21,25,18,18,9,25,25,15,9,19,14,13,7,17,14,14,5,15,6,6,8
+[Auction "S"]
+Pass Pass 1D 2C 
+Pass 2NT Pass Pass 
+Pass 
+[Play "N"]
+DK D4 D2 D3 
+SK SA S3 S4 
+C2 C4 C3 CA 
+HK HA H2 HJ 
+H8 HQ H3 H5 
+H9 H7 C6 HT 
+D5 H4 C8 H6 
+S6 SJ SQ S5 
+S2 D8 ST S8 
+D6 C5 S9 C9 
+D9 C7 S7 D7 
+DT CT CK DJ 
+DQ CQ CJ DA 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "23"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:K62.K98.KQT965.2 AJ.AQ74.84.QT754 QT973.32.2.KJ863 854.JT65.AJ73.A9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "57355573558697886a78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  3
+N  D  5
+N  C  5
+S NT  5
+S  S  7
+S  H  3
+S  D  5
+S  C  5
+E NT  8
+E  S  6
+E  H  9
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 8,2,0,83,135,156,66,33,79,73,25,149,74,124,18,279,254,23,21,16,22,31,23,12,653,112,25,17,29,19,8,147,38,214,41,146,29,33,81,34,44,7,30,17,18,20,18,23,35,24,44,165,35,38,32,23,67,31,16,27,33,21,6,20,22,17,7
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 2D X 
+2S Pass Pass Pass 
+[Play "W"]
+HJ HK HA H2 
+H5 H8 HQ H3 
+H6 H9 H4 S9 
+DA D5 D8 D2 
+S4 S2 SJ SQ 
+C9 C2 C4 C3 
+CA S6 C5 C6 
+D3 DK D4 C8 
+D7 DQ SA CJ 
+S5 SK CQ CK 
+DJ D6 H7 S7 
+S8 D9 C7 ST 
+HT DT CT S3 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "24"]
+[West "Kostas#"]
+[North "Brian Kelly#39822"]
+[East "Eryk Gozdowski#418628"]
+[South "Chris Brewin#29358"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A53.853.T92.AJ83 Q98.AQ762.6.K975 JT42.KJ.J854.T62 K76.T94.AKQ73.Q4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "453454534598a9898a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,1,3,132,35,77,36,58,37,74,41,81,35,51,98,19,21,260,343,18,26,158,48,35,14,21,13,16,24,22,13,34,22,161,30,20,39,24,28,22,26,106,36,16,16,80,179,13,41,72,322,37,24,215,389,25,11,18,23,19,27,37,15,21,25,8,19,8,10
+[Auction "W"]
+1D Pass 1H Pass 
+1NT Pass 2C =1= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Play "S"]
+SJ S6 S5 SQ 
+D4 DA D2 D6 
+D5 DK D9 S8 
+D8 DQ DT S9 
+S2 S7 S3 H2 
+C2 CQ CA C5 
+S4 SK SA H6 
+CT C4 CJ C9 
+HJ H4 H3 H7 
+C6 H9 C3 C7 
+HK HT H5 HQ 
+DJ D3 C8 HA 
+ST D7 H8 CK 
+
+[Event "12 June Brewin vs Goodchild"]
+[Site "RealBridge"]
+[Date "2025.06.12"]
+[Board "24"]
+[West "David hull#"]
+[North "Peter Brook#"]
+[East "Stuart Leigh#401690"]
+[South "chris goodchild#"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:A53.853.T92.AJ83 Q98.AQ762.6.K975 JT42.KJ.J854.T62 K76.T94.AKQ73.Q4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Goodchild team"]
+[VisitTeam "Brewin team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "453454534598a9898a98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  3
+N  D  4
+N  C  5
+S NT  4
+S  S  5
+S  H  3
+S  D  4
+S  C  5
+E NT  9
+E  S  8
+E  H 10
+E  D  9
+E  C  8
+W NT  9
+W  S  8
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 17,2,0,233,82,186,48,30,27,42,41,62,102,18,17,36,584,44,28,50,72,39,56,375,85,21,41,24,50,39,581,161,44,21,14,15,22,30,16,15,44,7,18,161,58,14,24
+[Auction "W"]
+1NT Pass 2D Pass 
+2H Pass 2NT Pass 
+4H Pass Pass Pass 
+[Play "N"]
+H3 H2 HJ H4 
+D9 D6 D5 DA 
+H5 H6 HK HT 
+D2 S8 D4 DK 
+CA C5 C2 C4 
+SA S9 S2 S6 
+S5 SQ S4 S7 
+H8 H7 D8 H9 
+*

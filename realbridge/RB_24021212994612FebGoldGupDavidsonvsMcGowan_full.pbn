@@ -1,0 +1,3051 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "1"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9543.QT542.876.A .AJ76.KQJT4.9752 AQ2.9.953.KQJ643 KJT876.K83.A2.T8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -5 EW 5"]
+[DoubleDummyTricks "44546444466888768887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  6
+E NT  6
+E  S  8
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  8
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,324,231,40,194,66,84,23,366,56,19,665,38,49,370,25,32,20,58,27,11,25,7,24,81,34,595,284,34,25,61,19,25,13,25,13,19,15,26,45,14,14,209,63,13,15,89,33,23,13,22,14,13,11,16,13,14,9,10,4,12,10
+[Auction "N"]
+Pass 1D 2C 2S 
+Pass 3D Pass Pass 
+Pass 
+[Play "S"]
+H9 H3 H2 HJ 
+CJ C8 CA C2 
+D3 H8 H4 H6 
+CK CT S5 C5 
+C3 DA S4 C7 
+D5 D2 D6 DK 
+D9 S6 D7 DQ 
+C4 S7 D8 DJ 
+S2 HK H5 H7 
+SQ S8 S9 D4 
+C6 ST S3 DT 
+SA SJ HT HA 
+CQ SK HQ C9 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "1"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:9543.QT542.876.A .AJ76.KQJT4.9752 AQ2.9.953.KQJ643 KJT876.K83.A2.T8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 5 EW -5"]
+[DoubleDummyTricks "44546444466888768887"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  5
+N  D  4
+N  C  6
+S NT  4
+S  S  4
+S  H  4
+S  D  4
+S  C  6
+E NT  6
+E  S  8
+E  H  8
+E  D  8
+E  C  7
+W NT  6
+W  S  8
+W  H  8
+W  D  8
+W  C  7
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 13,0,3,216,283,669,57,74,237,111,1396,81,64,93,159,209,31,6,86,188,28,25,119,22,33,55,29,18,23,10,73,22,80,32,49,448,45,14,37,34,37,39,95,20,24,44,153,19,19,15,13,22
+[Auction "N"]
+Pass 1D 2C 2S 
+Pass 2NT Pass 3S 
+Pass Pass Pass 
+[Play "N"]
+CA C2 C6 C8 
+H4 H6 H9 HK 
+S3 C5 SQ SJ 
+D6 C7 CK CT 
+S9 C9 CQ S8 
+H2 HJ S2 H3 
+D7 D4 CJ S7 
+S4 DT SA SK 
+D8 DJ D3 DA 
+S5 -  -  ST 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "2"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT63.T65.T.T8752 A74.A987.J732.J4 K9852.KJ3.K65.Q9 Q.Q42.AQ984.AK63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "272142721496ac996ac9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  1
+N  C  4
+S NT  2
+S  S  7
+S  H  2
+S  D  1
+S  C  4
+E NT  9
+E  S  6
+E  H 10
+E  D 12
+E  C  9
+W NT  9
+W  S  6
+W  H 10
+W  D 12
+W  C  9
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,0,3,91,177,57,101,285,112,44,164,93,358,77,151,49,46,386,26,12,24,67,23,21,75,422,33,16,71,72,38,12,10,44,45,21,16,7,23,11,36,35,19,13,8,71,29,8,26,14,23,8,6,15,22,11,8,25,16,17,4,15,6,8,5
+[Auction "E"]
+Pass 1S 2D Pass 
+2NT =1= Pass 3NT Pass 
+Pass Pass 
+[Note "1:  * good raise to 3♢ [0:35]"]
+[Play "S"]
+S5 SQ S6 S4 
+D5 DA DT D2 
+DK D4 H5 D7 
+S8 C3 ST SA 
+D6 D8 C2 DJ 
+H3 D9 H6 D3 
+C9 DQ C5 H8 
+CQ CA C7 C4 
+S2 C6 C8 CJ 
+HJ H2 HT HA 
+HK H4 CT H7 
+SK CK S3 S7 
+S9 HQ SJ H9 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "2"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:JT63.T65.T.T8752 A74.A987.J732.J4 K9852.KJ3.K65.Q9 Q.Q42.AQ984.AK63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "272142721496ac996ac9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  7
+N  H  2
+N  D  1
+N  C  4
+S NT  2
+S  S  7
+S  H  2
+S  D  1
+S  C  4
+E NT  9
+E  S  6
+E  H 10
+E  D 12
+E  C  9
+W NT  9
+W  S  6
+W  H 10
+W  D 12
+W  C  9
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 17,2,1,119,68,302,120,296,42,59,38,26,499,35,213,537,47,21,20,60,16,25,12,198,491,42,26,150,21,22,23,606,38,181,4,184,35,13,48,133,56,13,20,319,50,16,39,25,13,14,13,48,21,11,6,22,19,11,11,6,14,13,9
+[Auction "E"]
+Pass 1S X 3S 
+4H Pass Pass Pass 
+[Play "S"]
+S2 SQ SJ S4 
+H3 H2 H6 HA 
+HK H4 H5 H7 
+S5 C3 ST SA 
+D5 DQ DT D2 
+D6 DA HT D7 
+S8 HQ S3 S7 
+DK D9 C5 DJ 
+SK C6 S6 H8 
+C9 CK C2 C4 
+CQ CA C8 CJ 
+HJ D8 C7 D3 
+S9 D4 CT H9 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "3"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT86.Q87.642.72 AQ95.K632.T5.Q43 72.AT954.Q73.KJT 43.J.AKJ98.A9865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "4563345633987aa887aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  3
+E NT  9
+E  S  8
+E  H  7
+E  D 10
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,0,3,218,42,80,150,505,38,55,173,60,18,23,64,143,22,20,26,33,34,10,18,15,13,9,22,16,223,19,365,32,89,17,317,28,59,44,55,30,11,16,51,22,7,26,55,23,15,8,15,17,17,15,40,55,9,14,8,30,9,16,17,7,8,5
+[Auction "S"]
+Pass 1D 1S X 
+Pass 2C Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S7 S3 SK SA 
+D3 D8 D2 DT 
+D7 D9 D4 D5 
+DQ DA D6 H3 
+S2 S4 ST SQ 
+CT C5 C7 C3 
+HA HJ H8 H2 
+HT C6 H7 HK 
+CJ CA C2 C4 
+H4 DK S6 H6 
+H5 DJ S8 CQ 
+CK C8 HQ S5 
+H9 C9 SJ S9 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "3"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT86.Q87.642.72 AQ95.K632.T5.Q43 72.AT954.Q73.KJT 43.J.AKJ98.A9865"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "4563345633987aa887aa"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  5
+N  H  6
+N  D  3
+N  C  3
+S NT  4
+S  S  5
+S  H  6
+S  D  3
+S  C  3
+E NT  9
+E  S  8
+E  H  7
+E  D 10
+E  C 10
+W NT  8
+W  S  8
+W  H  7
+W  D 10
+W  C 10
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 14,2,1,43,97,64,231,96,154,52,102,24,137,43,251,17,41,33,19,357,37,50,307,17,30,23,367,36,296,20,377,36,22,42,442,13,16,27,45,11,21,23,71,19,12,4,22,54,12,12,23,21,27,21,22,19,18,8,19
+[Auction "S"]
+Pass 1D 1S X 
+Pass 2C Pass 2NT 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+S7 S3 SK SA 
+CT CA C2 C3 
+CJ C9 C7 C4 
+H4 HJ HQ HK 
+D3 D8 D2 DT 
+D7 D9 D4 D5 
+DQ DA D6 H2 
+H5 DK S6 H3 
+S2 DJ H8 H6 
+H9 S4 ST SQ 
+-  -  -  CQ 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "4"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.65.AQJ6532.T54 KQJ643.32.K84.K8 AT.QJ87.T7.J9762 9875.AKT94.9.AQ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2237522375ab968ab968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  7
+N  C  5
+S NT  2
+S  S  2
+S  H  3
+S  D  7
+S  C  5
+E NT 10
+E  S 11
+E  H  9
+E  D  6
+E  C  8
+W NT 10
+W  S 11
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,2,1,276,75,221,66,54,43,49,16,14,172,38,22,67,120,3,34,41,75,21,11,71,51,23,24,27,9,28,38
+[Auction "W"]
+1H 3D 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+DT D9 DA D4 
+D7 H4 DJ DK 
+SA S5 S2 SQ 
+C2 C3 CT CK 
+ST S7 D6 SK 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "4"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:2.65.AQJ6532.T54 KQJ643.32.K84.K8 AT.QJ87.T7.J9762 9875.AKT94.9.AQ3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2237522375ab968ab968"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  7
+N  C  5
+S NT  2
+S  S  2
+S  H  3
+S  D  7
+S  C  5
+E NT 10
+E  S 11
+E  H  9
+E  D  6
+E  C  8
+W NT 10
+W  S 11
+W  H  9
+W  D  6
+W  C  8
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 18,0,3,57,149,68,171,1239,133,419,57,104,38,57,137,34,15,296,30,27,8,12,62,10,6,218,30,14
+[Auction "W"]
+1H 3D =1= 3S Pass 
+4D =2= Pass 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2: A good spade raise or a good hand with H"]
+[Play "S"]
+DT D9 DA D4 
+C2 C3 C4 CK 
+SA S5 S2 SK 
+C6 CQ C5 -  
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "5"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ3.KT52.A76.QT7 K8.98.QT94.J9542 A7542.AQ64.J5.A6 T96.J73.K832.K83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9ab779ab773226532265"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 11
+N  D  7
+N  C  7
+S NT  9
+S  S 10
+S  H 11
+S  D  7
+S  C  7
+E NT  3
+E  S  2
+E  H  2
+E  D  6
+E  C  5
+W NT  3
+W  S  2
+W  H  2
+W  D  6
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,0,3,140,45,242,224,275,53,80,20,245,296,22,10,202,148,29,147,143,33,30,22,52,19,32,10,14,30,10,9,54,15,16,13,22,47,22,16,19,27,17,11,47,18,10,51,20,8,18,7,30,15,20,37,34,30,31,18,11,22,8,9
+[Auction "N"]
+1H Pass 2NT Pass 
+4H =1= Pass Pass Pass 
+[Note "1: minimum, no further interest"]
+[Play "E"]
+C4 CA C3 C7 
+C9 C6 CK CT 
+SK SA ST SQ 
+D4 D5 D2 DA 
+C2 DJ C8 CQ 
+D9 H4 D3 D6 
+S8 S2 S9 SJ 
+DT H6 D8 D7 
+H8 HQ H3 H2 
+H9 HA H7 H5 
+C5 S4 S6 S3 
+DQ S5 DK HT 
+CJ S7 HJ HK 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "5"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ3.KT52.A76.QT7 K8.98.QT94.J9542 A7542.AQ64.J5.A6 T96.J73.K832.K83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9ab779ab773226532265"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H 11
+N  D  7
+N  C  7
+S NT  9
+S  S 10
+S  H 11
+S  D  7
+S  C  7
+E NT  3
+E  S  2
+E  H  2
+E  D  6
+E  C  5
+W NT  3
+W  S  2
+W  H  2
+W  D  6
+W  C  5
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 17,2,1,132,90,42,68,122,82,111,65,119,77,35,70,74,32,373,215,352,52,764,58,62,28,52,27,21,79,121,56,16,111,16,38,21,48,126,26,17,20,34,26,10,10,21,26,11,9,24,41,13,17,20,11,12,11
+[Auction "N"]
+1C Pass 1S Pass 
+1NT =1= Pass 2D =2= Pass 
+2H Pass 4H Pass 
+Pass Pass 
+[Note "1: 11-14"]
+[Note "2: GF check back"]
+[Play "E"]
+DT D5 D3 D7 
+H9 H4 H3 HT 
+H8 HA H7 H2 
+C2 HQ HJ H5 
+SK S2 S6 SQ 
+D4 DJ DK DA 
+S8 S4 S9 SJ 
+C4 SA ST S3 
+C5 S5 C8 C7 
+D9 S7 D2 CT 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "6"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K9865.Q9432.K6.A A4.AK87.973.KJ72 JT73.5.AQ852.T63 Q2.JT6.JT4.Q9854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "6b7a46b7a43263732637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  7
+N  D 10
+N  C  4
+S NT  6
+S  S 11
+S  H  7
+S  D 10
+S  C  4
+E NT  3
+E  S  2
+E  H  6
+E  D  3
+E  C  7
+W NT  3
+W  S  2
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 4,2,1,223,38,116,99,59,88,45,311,21,36,89,42,42,38,24,41,9,22,151,19,13,58,21,12,37,118,118,19,26,14,74,9,31,19,36,56,18,10,33,27,32,22,74,26,10,26,53,24,4,30,3,12,16,15,10,36,4,18
+[Auction "E"]
+1H Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+S5 S4 ST SQ 
+CA C2 CT C4 
+S6 SA S3 S2 
+H4 CK C3 C5 
+H2 CJ C6 C8 
+H3 HA H5 H6 
+S8 C7 D2 CQ 
+S9 D3 D5 C9 
+H9 HK D8 HJ 
+HQ H7 DQ HT 
+DK D7 DA D4 
+SK D9 S7 DT 
+D6 H8 SJ DJ 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "6"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:K9865.Q9432.K6.A A4.AK87.973.KJ72 JT73.5.AQ852.T63 Q2.JT6.JT4.Q9854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "6b7a46b7a43263732637"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  7
+N  D 10
+N  C  4
+S NT  6
+S  S 11
+S  H  7
+S  D 10
+S  C  4
+E NT  3
+E  S  2
+E  H  6
+E  D  3
+E  C  7
+W NT  3
+W  S  2
+W  H  6
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 13,0,3,53,92,25,198,28,300,491,297,94,122,24,261,602,53,69,34,100,29,35,765,29,11,16,84,34,21,24,578,12,23,26,62,15,19,8,54,6,18,6,64,7,31,15,29,19
+[Auction "E"]
+1NT Pass Pass 2C =1= 
+Pass 2S X 3S 
+Pass Pass Pass 
+[Note "1: Both majors"]
+[Play "W"]
+DJ D6 D3 DA 
+S2 S5 SA SJ 
+H6 H2 HK H5 
+HT H3 HA S7 
+SQ SK S4 S3 
+D4 DK D7 D2 
+HJ HQ H7 D5 
+C4 H4 H8 ST 
+DT -  -  DQ 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "7"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT742.KQ.7.KQ74 6.9875.A8532.A86 KJ5.AT643.6.J532 983.J2.KQJT94.T9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6ba4a6ba4a2119221192"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H 10
+N  D  4
+N  C 10
+S NT  6
+S  S 11
+S  H 10
+S  D  4
+S  C 10
+E NT  2
+E  S  1
+E  H  1
+E  D  9
+E  C  2
+W NT  2
+W  S  1
+W  H  1
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 23,2,1,61,94,121,214,62,175,36,47,188,57,260,20,285,39,15,28,33,25,14,22
+[Auction "S"]
+Pass 2D 3S 5D 
+5S Pass Pass Pass 
+[Play "E"]
+DA D6 D4 D7 
+CA C2 CT C7 
+C8 C3 C9 CK 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "7"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:AQT742.KQ.7.KQ74 6.9875.A8532.A86 KJ5.AT643.6.J532 983.J2.KQJT94.T9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6ba4a6ba4a2119221192"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H 10
+N  D  4
+N  C 10
+S NT  6
+S  S 11
+S  H 10
+S  D  4
+S  C 10
+E NT  2
+E  S  1
+E  H  1
+E  D  9
+E  C  2
+W NT  2
+W  S  1
+W  H  1
+W  D  9
+W  C  2
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 23,0,3,184,111,83,124,437,24,49,107,51,18,121,133,33,19,88,21,38,9,127,27,7,22,15,12,17,9,30,7,26,7,16,8,15,6
+[Auction "S"]
+Pass 2D =1= 2S 5D 
+Pass Pass 5S Pass 
+Pass Pass 
+[Note "1: weak with D"]
+[Play "E"]
+CA C2 C9 C7 
+DA D6 D4 D7 
+C8 C3 CT CK 
+S6 SJ S3 S2 
+D2 SK S8 S4 
+D3 S5 S9 SA 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "8"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K92.QT4.K854.975 J85.9653.AQT.K63 AT743.AJ8.76.QT8 Q6.K72.J932.AJ42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "46454464548788987889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  4
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,2,1,152,56,49,62,65,99,51,27,79,64,214,27,23,197,37,19,54,125,110,29,5,165,23,45,5,41,15,22,4,164,18,35,3,249,32,32,5,495,38,24,34,78,31,113,31,49,11,45,3
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+H2 HQ H3 H8 
+CJ C5 C3 CT 
+D2 DK DA D6 
+CA C7 C6 CQ 
+C2 C9 CK C8 
+D3 D4 DQ D7 
+H7 H4 H6 HA 
+S6 SK S5 S3 
+SQ S2 S8 ST 
+HK HT H5 HJ 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "8"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:K92.QT4.K854.975 J85.9653.AQT.K63 AT743.AJ8.76.QT8 Q6.K72.J932.AJ42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "46454464548788987889"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  5
+N  C  4
+S NT  4
+S  S  6
+S  H  4
+S  D  5
+S  C  4
+E NT  8
+E  S  7
+E  H  8
+E  D  8
+E  C  9
+W NT  8
+W  S  7
+W  H  8
+W  D  8
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 8,0,3,43,28,142,202,21,70,181,107,17,25,281,61,17,217,42,29,15,37,112,23,11,81,26,29,13,11,19,12,16,231,49,25,19,366,24,14,63,29,16,16,20,26,26,43,19,80,22,10,43
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 2S Pass Pass 
+Pass 
+[Play "W"]
+D2 D4 DQ D6 
+CJ C5 C3 C8 
+DJ D8 DT D7 
+CA C7 C6 CT 
+C4 C9 CK CQ 
+HK H4 H3 H8 
+H2 HT H5 HJ 
+S6 SK S5 S3 
+SQ S2 S8 SA 
+D3 S9 SJ S4 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "9"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:96.AKQT8.KQ2.K62 QJ832..J975.Q873 A5.97632.T43.AJT KT74.J54.A86.954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "96b8996b882725327254"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 11
+N  D  8
+N  C  9
+S NT  9
+S  S  6
+S  H 11
+S  D  8
+S  C  8
+E NT  2
+E  S  7
+E  H  2
+E  D  5
+E  C  3
+W NT  2
+W  S  7
+W  H  2
+W  D  5
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,148,220,299,95,52,21,23,138,29,17,45,25,30,20,26,49,10,12,99,12,11,8,65,24,9,16,12,27,18,14,346,23,10,8,28,16,52,16,19,9,9,19,21,25,17,18,7
+[Auction "N"]
+1H 1S 4H Pass 
+Pass Pass 
+[Play "E"]
+SQ SA S4 S6 
+S2 H2 H4 HA 
+S3 H3 HJ HK 
+C3 H6 H5 HQ 
+S8 S5 ST S9 
+D5 D3 D6 DK 
+C7 CT C4 CK 
+C8 CJ C5 C2 
+CQ CA C9 C6 
+D7 D4 DA D2 
+-  -  D8 -  
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "9"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:96.AKQT8.KQ2.K62 QJ832..J975.Q873 A5.97632.T43.AJT KT74.J54.A86.954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "96b8996b882725327254"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  6
+N  H 11
+N  D  8
+N  C  9
+S NT  9
+S  S  6
+S  H 11
+S  D  8
+S  C  8
+E NT  2
+E  S  7
+E  H  2
+E  D  5
+E  C  3
+W NT  2
+W  S  7
+W  H  2
+W  D  5
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,2,1,186,421,292,150,159,45,27,49,234,137,51,17,45,41,15,132,42,50,13,18,28,186,12,14,27,53,16,34,33,38,16,24,194,101,17,137,20,80,21,14,21,27,12,24,64,20,9,8,12,14,13,9
+[Auction "N"]
+1H Pass 3C =1= Pass 
+4H Pass Pass Pass 
+[Note "1: 10-12 HCP 4+♡"]
+[Play "E"]
+SQ SA S7 S6 
+S2 H2 H4 HA 
+S3 H3 H5 HK 
+D5 H6 HJ HQ 
+SJ S5 SK S9 
+D7 D3 D6 DQ 
+S8 H9 S4 H8 
+D9 D4 DA D2 
+DJ DT D8 DK 
+C3 CT C4 CK 
+C7 CJ C5 C2 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "10"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:754.QT7.9743.Q65 KJ3.K92.Q8.AK832 QT96.A643.65.J94 A82.J85.AKJT2.T7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "2331223312a99caa99ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  1
+N  C  2
+S NT  2
+S  S  3
+S  H  3
+S  D  1
+S  C  2
+E NT 10
+E  S  9
+E  H  9
+E  D 12
+E  C 10
+W NT 10
+W  S  9
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,0,3,83,73,414,51,160,78,40,29,69,266,36,233,23,100,71,27,58,12,83,39,56,22,445,46,10,16,285,50,18,33,24,23,7,18,18,25,14,6,10,31,8,38,6,30,7,32,9
+[Auction "E"]
+1NT Pass 3C =1= Pass 
+3D =2= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 5card stayman"]
+[Note "2: no 5 card major"]
+[Play "S"]
+ST S2 S4 SJ 
+D5 DA D4 D8 
+C4 CT CQ CA 
+C9 C7 C5 C2 
+S6 S8 S5 SK 
+D6 D2 D3 DQ 
+CJ H5 C6 CK 
+H3 H8 D7 C8 
+H4 HJ D9 C3 
+-  -  -  S3 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "10"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:754.QT7.9743.Q65 KJ3.K92.Q8.AK832 QT96.A643.65.J94 A82.J85.AKJT2.T7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "2331223312a99caa99ba"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  3
+N  H  3
+N  D  1
+N  C  2
+S NT  2
+S  S  3
+S  H  3
+S  D  1
+S  C  2
+E NT 10
+E  S  9
+E  H  9
+E  D 12
+E  C 10
+W NT 10
+W  S  9
+W  H  9
+W  D 11
+W  C 10
+[OptimumScore "NS -1370"]
+[Competition "Teams"]
+% RBDATA 14,2,1,227,49,79,54,103,25,86,43,27,12,33,340,28,32,265,12,13,37,21,4,17,25,30,20,49,4,31,19,46,27,50,26,22,4,214,32,14,3,31,36,12,10,36,17,12,16,13,10,11,10,21
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "S"]
+S9 S2 S7 SJ 
+D6 D2 D7 DQ 
+D5 DT D4 D8 
+H3 DJ D3 C2 
+H4 DK D9 H2 
+H6 DA S5 C3 
+S6 SA S4 S3 
+SQ S8 C6 SK 
+C4 C7 C5 CA 
+C9 CT CQ CK 
+-  -  -  C8 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "11"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:98.QJ982.J9864.2 A642.T754.QT7.T8 JT.AK.AK5.KQ9753 KQ753.63.32.AJ64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "65998659987844578435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  9
+N  C  8
+S NT  6
+S  S  5
+S  H  9
+S  D  9
+S  C  8
+E NT  7
+E  S  8
+E  H  4
+E  D  4
+E  C  5
+W NT  7
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 14,2,1,252,146,156,90,68,74,119,46,121,32,67,69,24,4,163,23,51,27,118,33,4,24,11,18,6,12,86,31,3,25,7,15,6,13,77,99,13,199,67,20,11,44,20,16,22,4,20,18,35,5,28,15,21,3,18,14,13,3,12,4,11,3
+[Auction "S"]
+2NT =1= Pass 3D =2= Pass 
+3H Pass 3NT Pass 
+Pass Pass 
+[Note "1: 20-21"]
+[Note "2:  * ♡ [0:06]"]
+[Play "W"]
+SK S8 S6 ST 
+C4 C2 CT CK 
+D2 D4 D7 DA 
+D3 D6 DT DK 
+H3 H2 H4 HA 
+H6 H8 H5 HK 
+SQ S9 S2 SJ 
+S3 D8 SA C3 
+C6 D9 DQ D5 
+S5 H9 S4 C5 
+S7 HJ H7 C7 
+CA DJ C8 C9 
+CJ HQ HT CQ 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "11"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:98.QJ982.J9864.2 A642.T754.QT7.T8 JT.AK.AK5.KQ9753 KQ753.63.32.AJ64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "65998659987844578435"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  9
+N  D  9
+N  C  8
+S NT  6
+S  S  5
+S  H  9
+S  D  9
+S  C  8
+E NT  7
+E  S  8
+E  H  4
+E  D  4
+E  C  5
+W NT  7
+W  S  8
+W  H  4
+W  D  3
+W  C  5
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,399,28,146,96,538,331,43,40,43,148,53,176,168,32,44,40,35,32,29,13,87,33,57,29,207,22,36,10,120,23,53,15,191,27,276,148,82,20,15,346,29,19,18,37,25,19,11,16,28,17,9,6,24,16,11,8,7,16,7,18
+[Auction "S"]
+1C 1S X 3S 
+4H Pass Pass Pass 
+[Play "W"]
+SK S9 S6 ST 
+S3 S8 SA SJ 
+CA C2 CT CQ 
+H6 H2 H4 HK 
+H3 H8 H5 HA 
+C4 H9 C8 C3 
+S5 HQ H7 D5 
+S7 HJ HT C5 
+D3 D4 D7 DK 
+C6 D6 S2 CK 
+D2 D8 DT DA 
+CJ D9 S4 C9 
+SQ DJ DQ C7 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "12"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQJ42.Q84.985.97 T6.AJT.AJ74.J652 K93.2.T63.AKQT84 875.K97653.KQ2.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "393393933922aa222aa2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  3
+N  D  3
+N  C  9
+S NT  3
+S  S  9
+S  H  3
+S  D  3
+S  C  9
+E NT  2
+E  S  2
+E  H 10
+E  D 10
+E  C  2
+W NT  2
+W  S  2
+W  H 10
+W  D 10
+W  C  2
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 18,2,1,357,59,113,61,52,142,43,22,50,233,57,202,27,122,33,15,26,82,28,36,13,17,20,9,14,148,33,28,14,29,37,12,14
+[Auction "W"]
+2H Pass 3H X 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+HA H2 H9 H4 
+D4 D3 DQ D9 
+DA D6 DK D8 
+DJ DT D2 D5 
+HJ S3 H3 H8 
+S6 SK S5 S2 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "12"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AQJ42.Q84.985.97 T6.AJT.AJ74.J652 K93.2.T63.AKQT84 875.K97653.KQ2.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "393393933922aa222aa2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  9
+N  H  3
+N  D  3
+N  C  9
+S NT  3
+S  S  9
+S  H  3
+S  D  3
+S  C  9
+E NT  2
+E  S  2
+E  H 10
+E  D 10
+E  C  2
+W NT  2
+W  S  2
+W  H 10
+W  D 10
+W  C  2
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 12,0,3,338,118,79,127,27,56,29,151,77,17,36,181,22,16,16,25,11,8,10,17,41,20,22,51,6,11
+[Auction "W"]
+2H =1= Pass 3H Pass 
+Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+C9 C2 CT C3 
+C7 C5 CA H9 
+H4 HT H2 HK 
+H8 HJ C4 H5 
+HQ HA C8 H3 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "13"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT.J2.Q984.J7532 Q.AQ75.KJ7.AKQ94 A9876543.9.A32.T K2.KT8643.T65.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "2825328243b5b8ab5b8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  2
+N  D  5
+N  C  3
+S NT  2
+S  S  8
+S  H  2
+S  D  4
+S  C  3
+E NT 11
+E  S  5
+E  H 11
+E  D  8
+E  C 10
+W NT 11
+W  S  5
+W  H 11
+W  D  8
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 17,0,3,62,276,155,56,109,21,46,81,107,16,85,29,102,29,15,411,30,117,20,128,22,21,34
+[Auction "N"]
+Pass 1C 3S Pass 
+Pass X Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+SJ SQ SA S2 
+D4 D7 DA D5 
+C2 CA CT C6 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "13"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT.J2.Q984.J7532 Q.AQ75.KJ7.AKQ94 A9876543.9.A32.T K2.KT8643.T65.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "2825328243b5b8ab5b8a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  8
+N  H  2
+N  D  5
+N  C  3
+S NT  2
+S  S  8
+S  H  2
+S  D  4
+S  C  3
+E NT 11
+E  S  5
+E  H 11
+E  D  8
+E  C 10
+W NT 11
+W  S  5
+W  H 11
+W  D  8
+W  C 10
+[OptimumScore "NS -660"]
+[Competition "Teams"]
+% RBDATA 17,2,1,114,207,214,110,66,99,26,191,51,42,22,42,242,12,48,340,55,37,18,88,16,42,15,72,10,24,13,47,25,17,4,81,27,14,8,369,14,15,40,14,10,39,15,42,24,81,12,11
+[Auction "N"]
+Pass 1C 3S Pass 
+Pass X Pass 4H 
+Pass Pass Pass 
+[Play "N"]
+SJ SQ SA S2 
+C5 CA CT C6 
+H2 HA H9 H3 
+HJ H5 S9 HK 
+ST D7 S3 SK 
+C3 CK S4 C8 
+C2 CQ S5 D5 
+C7 C4 S6 H4 
+D8 DJ DA D6 
+-  -  D2 -  
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "14"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKT7.85.J5.K8643 Q986.Q73.QT2.AT5 42.KT62.98764.97 J53.AJ94.AK3.QJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "2234422344bba98bba98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  4
+N  C  4
+S NT  2
+S  S  2
+S  H  3
+S  D  4
+S  C  4
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C  8
+W NT 11
+W  S 11
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,0,3,72,78,26,47,178,66,106,40,303,69,21,34,267,30,56,419,39,32,36,35,13,17,13,19,33,58,380,89,68,72,345,22,15,41,36,19,48,30,44,33,10,10,10,17,9,13,53,20,10,9,13,87,18,14,9,34,6,8,13,19,13,8,11,19,10,7
+[Auction "E"]
+Pass Pass 1NT Pass 
+3C =1= Pass 3D =2= Pass 
+3H =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 5-card stayman"]
+[Note "2: no 5cd major"]
+[Note "3: 4♠"]
+[Play "N"]
+C4 C5 C9 CQ 
+H8 H3 H2 HA 
+H5 HQ HK H4 
+CK CA C7 C2 
+ST S9 S2 S3 
+C3 CT D4 CJ 
+D5 D2 D6 DA 
+DJ DT D7 DK 
+S7 DQ D8 D3 
+C6 H7 HT HJ 
+SK S6 H6 H9 
+SA S8 S4 S5 
+C8 SQ D9 SJ 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "14"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AKT7.85.J5.K8643 Q986.Q73.QT2.AT5 42.KT62.98764.97 J53.AJ94.AK3.QJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "2234422344bba98bba98"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  2
+N  S  2
+N  H  3
+N  D  4
+N  C  4
+S NT  2
+S  S  2
+S  H  3
+S  D  4
+S  C  4
+E NT 11
+E  S 11
+E  H 10
+E  D  9
+E  C  8
+W NT 11
+W  S 11
+W  H 10
+W  D  9
+W  C  8
+[OptimumScore "NS -460"]
+[Competition "Teams"]
+% RBDATA 14,2,1,164,22,55,97,230,28,255,48,170,19,40,25,18,319,187,58,499,17,36,28,135,36,26,3,329,48,19,3,405,39,21,20,63,28,13,306,19,303,14,16,109,37,32,5,108,18,21,11,35,10,20,11,15,9,15,19,23,17,19,9,21,8,9,5
+[Auction "E"]
+Pass Pass 1H 1S 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+S4 S3 ST SQ 
+H2 HJ H5 H3 
+C7 CQ C3 C5 
+S2 SJ SK S6 
+D9 DK D5 D2 
+H6 S5 SA S8 
+D4 DA DJ DT 
+C9 CJ CK CA 
+D6 H4 S7 S9 
+D7 C2 C4 CT 
+D8 D3 C6 DQ 
+HK HA H8 HQ 
+HT H9 C8 H7 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "15"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K7642.KJ54.K5.AT QT5..AQJT93.9642 98.AQT987.74.KQ5 AJ3.632.862.J873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "69a4568a454429844298"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  4
+N  C  5
+S NT  6
+S  S  8
+S  H 10
+S  D  4
+S  C  5
+E NT  4
+E  S  4
+E  H  2
+E  D  9
+E  C  8
+W NT  4
+W  S  4
+W  H  2
+W  D  9
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,0,3,247,24,253,278,290,30,37,51,19,165,30,16,60,27,7,11,625,99,203,33,51,189,26,7,98,19,19,14,66,34,22,179,36,23,22,15,51,13,19,7
+[Auction "S"]
+1H Pass 2NT =1= 3D 
+4H Pass Pass Pass 
+[Note "1: gf heart raise"]
+[Play "W"]
+D6 DK DA D4 
+D8 D5 DQ D7 
+CJ CA C6 C5 
+H2 HK DJ H7 
+H3 H4 D3 HA 
+H6 H5 D9 HQ 
+S3 SK S5 S8 
+C3 CT C2 CK 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "15"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K7642.KJ54.K5.AT QT5..AQJT93.9642 98.AQT987.74.KQ5 AJ3.632.862.J873"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "69a4568a454429844298"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  9
+N  H 10
+N  D  4
+N  C  5
+S NT  6
+S  S  8
+S  H 10
+S  D  4
+S  C  5
+E NT  4
+E  S  4
+E  H  2
+E  D  9
+E  C  8
+W NT  4
+W  S  4
+W  H  2
+W  D  9
+W  C  8
+[OptimumScore "NS +300"]
+[Competition "Teams"]
+% RBDATA 17,2,1,50,155,243,208,146,95,49,40,82,80,29,5,276,11,28,3,171,27,34,13,12,107,9,37,18,20,11,27,4,24,10,16,6,39,3,45,6,22,4,11,9,128
+[Auction "S"]
+1H Pass 2NT =1= 3D 
+4H Pass Pass Pass 
+[Note "1: 4+card game raise"]
+[Play "W"]
+D6 DK DA D4 
+D8 D5 DQ D7 
+CJ CA C6 C5 
+H2 H4 D3 HQ 
+H3 HK DJ H9 
+H6 H5 DT HT 
+C3 CT C2 CQ 
+C7 S2 C4 CK 
+SA -  -  S8 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "16"]
+[West "Paul Barton#409240"]
+[North "Richard Cumming-Bruce#"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "Nicholas#00526448"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ5.AK97.5.KQJ83 AT863.Q64.A62.A5 94.J8532.T743.T4 K72.T.KQJ98.9762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "32836328369a5a79a5a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  8
+N  D  3
+N  C  6
+S NT  3
+S  S  2
+S  H  8
+S  D  3
+S  C  6
+E NT  9
+E  S 10
+E  H  5
+E  D 10
+E  C  7
+W NT  9
+W  S 10
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 18,0,3,108,138,194,105,260,233,23,74,14,29,88,266,12,60,69,126,11,36,173,171,20,9,27,38,34,12,237,31,9,19,38,103,30,9,42,12,41,6,48,48,65,11,96,29,10,17,13,15,14,28,6,20
+[Auction "W"]
+Pass 1C =1= 1S Pass 
+2C =2= 3C 4S Pass 
+Pass Pass 
+[Note "1: cd be short"]
+[Note "2: good raise with 3cd S"]
+[Play "S"]
+CT C2 C8 CA 
+H2 HT HK H4 
+D3 D8 D5 DA 
+H3 S2 H7 H6 
+C4 C6 CJ C5 
+S9 C7 CQ S6 
+D4 DK S5 D2 
+H5 C9 CK S8 
+S4 SK SJ S3 
+H8 S7 SQ SA 
+D7 -  -  D6 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "16"]
+[West "John Clarke#029825"]
+[North "Liz Mcgowan#11557"]
+[East "Andrew Black#017039"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ5.AK97.5.KQJ83 AT863.Q64.A62.A5 94.J8532.T743.T4 K72.T.KQJ98.9762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "32836328369a5a79a5a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  8
+N  D  3
+N  C  6
+S NT  3
+S  S  2
+S  H  8
+S  D  3
+S  C  6
+E NT  9
+E  S 10
+E  H  5
+E  D 10
+E  C  7
+W NT  9
+W  S 10
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,1,265,95,163,31,103,152,54,45,118,46,60,257,61,18,23,456,38,60,24,442,34,13,27,29,68,24,16,66,24,13,14,150,39,22,40,46,90,21,19,19,39,15,88,20,20,23,8,34,30,13,16,22,27,20,10,23,20,18,16,25,16,13,10
+[Auction "W"]
+Pass 1C 1S Pass 
+2S 3H Pass 4H 
+Pass Pass Pass 
+[Play "E"]
+SA S4 S7 S5 
+DA D3 DJ D5 
+S6 S9 SK SQ 
+D2 D4 DK H9 
+H4 H2 HT HA 
+C5 CT C6 C3 
+H6 H3 S2 HK 
+S3 C4 C2 SJ 
+CA H5 C7 CQ 
+D6 D7 D8 H7 
+S8 DT C9 CK 
+HQ H8 D9 CJ 
+ST HJ DQ C8 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "17"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q654.K.AQ87.JT83 J873.T7532.6.A96 T2.A98.T9543.752 AK9.QJ64.KJ2.KQ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "5"]
+[Score "NS -1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -15 EW 15"]
+[DoubleDummyTricks "65375653756895778957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  3
+S  D  7
+S  C  5
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C  7
+W NT  7
+W  S  8
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,0,359,45,84,434,206,122,29,168,62,125,20,39,91,202,91,108,44,23,151,40,29,29,54,11,32,73,143,13,17,276,43,21,60,45,46,18,41,71,46,13,14,50,122,17,42,163,21,37,12,36,22,15,16,41,22,14,12,30,14,11,14,27,21,13,11,14,16,13,14
+[Auction "N"]
+Pass Pass 2D =1= 2NT 
+Pass 3C =2= Pass 3H 
+Pass 4H Pass Pass 
+4S X Pass Pass 
+Pass 
+[Note "1: weak"]
+[Note "2: Stayman"]
+[Play "E"]
+D6 D3 DK DA 
+H2 H8 H4 HK 
+CA C2 C4 CJ 
+H7 HA H6 D7 
+S3 D4 D2 D8 
+HT H9 HJ S4 
+C9 C5 CQ C3 
+S7 D5 DJ DQ 
+C6 C7 CK C8 
+S8 S2 SA S5 
+SJ ST SK S6 
+H3 D9 HQ SQ 
+H5 DT S9 CT 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "17"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q654.K.AQ87.JT83 J873.T7532.6.A96 T2.A98.T9543.752 AK9.QJ64.KJ2.KQ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 15 EW -15"]
+[DoubleDummyTricks "65375653756895778957"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  5
+N  H  3
+N  D  7
+N  C  5
+S NT  6
+S  S  5
+S  H  3
+S  D  7
+S  C  5
+E NT  6
+E  S  8
+E  H  9
+E  D  5
+E  C  7
+W NT  7
+W  S  8
+W  H  9
+W  D  5
+W  C  7
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,602,54,315,86,164,34,85,249,169,314,59,98,97,114,60,559,401,37,10,167,35,12,64,290,148,51,8,43,69,24,151,209,220,36,14,427,220,31,9,19,35,14,32,177,39,26,58
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2S =1= 
+Pass 2NT =2= Pass 4H =3= 
+Pass Pass Pass 
+[Note "1: H raise, either 18-19 bal or GF"]
+[Note "2: enquiry"]
+[Note "3: 18-19 bal with 4cd H"]
+[Play "S"]
+ST SA S6 S3 
+H8 HQ HK H2 
+C2 CK CJ C6 
+HA HJ D8 H3 
+DT DK DA D6 
+C5 C4 C3 CA 
+H9 H4 S4 HT 
+S2 S9 SQ S7 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "18"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J976.95.J93.AKQ6 A3.AJ6.AK64.J974 QT8.KQ8432.T.T52 K542.T7.Q8752.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "5583655836875a7875a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  8
+S  D  3
+S  C  6
+E NT  8
+E  S  7
+E  H  5
+E  D 10
+E  C  7
+W NT  8
+W  S  7
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 4,2,0,180,55,98,54,56,158,17,54,100,15,12,23,30,65,43,16,171,48,32,17,30,73,23,60,141,33,65,68,105,32,16,4,35,60,15,19,37,29,10,12,19,32,22,22,15,56,11,9,25,67,12,11,16,17,4,9
+[Auction "E"]
+1NT =1= Pass Pass Pass 
+[Note "1: 15-17"]
+[Play "S"]
+H4 H7 H9 HJ 
+DT D2 D3 DA 
+CT D5 D9 DK 
+C2 DQ DJ D6 
+H2 D7 C6 D4 
+H3 D8 H5 H6 
+C5 C3 CQ C4 
+S8 S2 S6 SA 
+H8 C8 CK C7 
+ST SK S7 S3 
+HQ HT S9 HA 
+HK S4 CA C9 
+SQ S5 SJ CJ 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "18"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J976.95.J93.AKQ6 A3.AJ6.AK64.J974 QT8.KQ8432.T.T52 K542.T7.Q8752.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "5583655836875a7875a7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  5
+N  H  8
+N  D  3
+N  C  6
+S NT  5
+S  S  5
+S  H  8
+S  D  3
+S  C  6
+E NT  8
+E  S  7
+E  H  5
+E  D 10
+E  C  7
+W NT  8
+W  S  7
+W  H  5
+W  D 10
+W  C  7
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 4,1,3,122,112,19,189,76,220,21,8,93,52,8,26,14,34,13,19,16,57,9,11,31,150,11,12,251,29,10,348,33,26,55,46,14,31,11,32,10,35,10,16,10,24,8,11,24,6,31,7,10,5,40,7,9,6,21,6
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+HK H7 H5 HA 
+DT D2 D3 DA 
+C2 D5 D9 DK 
+C5 DQ DJ D6 
+H2 D8 S6 D4 
+H3 HT H9 H6 
+CT D7 S7 HJ 
+S8 S2 SJ SA 
+ST SK S9 S3 
+H4 C8 CA C4 
+H8 C3 CK C7 
+HQ S4 CQ C9 
+SQ S5 C6 CJ 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "19"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:52.93.AQ87.AKT95 QJ8743.J5.9.6432 AKT6.AT862.KT52. 9.KQ74.J643.QJ87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "a9ab9a9ab93432424313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 11
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D 11
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  2
+E  C  4
+W NT  2
+W  S  4
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 14,2,0,59,121,87,29,55,66,86,66,141,58,94,20,121,196,21,23,114,29,10,14,9,34,19,65,184,64,8,302,174,22,166,18,419,21,5,100,23,19,6,59,493,30,48,18,58,12,27,21,68,30,23,42,53
+[Auction "S"]
+1H Pass 2C Pass 
+2D Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S9 S2 SJ SA 
+D3 DA D9 D2 
+HK H3 H5 H8 
+D4 D7 C2 D5 
+H4 H9 HJ HA 
+D6 D8 S7 DK 
+DJ DQ S3 DT 
+C7 CA C3 H2 
+C8 CK C4 H6 
+H7 S5 S4 SK 
+-  -  -  HT 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "19"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:52.93.AQ87.AKT95 QJ8743.J5.9.6432 AKT6.AT862.KT52. 9.KQ74.J643.QJ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "10"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "a9ab9a9ab93432424313"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 10
+N  D 11
+N  C  9
+S NT 10
+S  S  9
+S  H 10
+S  D 11
+S  C  9
+E NT  3
+E  S  4
+E  H  3
+E  D  2
+E  C  4
+W NT  2
+W  S  4
+W  H  3
+W  D  1
+W  C  3
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 21,1,3,354,22,140,219,626,28,227,38,151,363,104,11,39,35,569,17,75,680,16,23,85,792,41,26,9,683,26,32,26,377,22,15,10,23,19,25,9,370,29,23,58,507,19,23,45,368,615,59,32,84,19,16,14,63,21
+[Auction "S"]
+1H Pass 2C 2S 
+X Pass 3D Pass 
+5D X Pass Pass 
+Pass 
+[Play "E"]
+SQ SK S9 S2 
+D9 D2 D3 DQ 
+S3 DK D4 D7 
+S4 D5 D6 D8 
+C2 H2 C7 CA 
+C3 H6 C8 CK 
+S7 ST H4 S5 
+H5 HA H7 H3 
+S8 S6 CJ DA 
+C6 DT CQ C5 
+-  SA DJ -  
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "20"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K73.A52.53.T9762 962.K6.AQ98762.5 J54.Q8.KT4.AQJ84 AQT8.JT9743.J.K3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "64448644486899568995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  4
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  9
+E  C  5
+W NT  6
+W  S  8
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 11,2,0,235,81,39,41,133,51,29,38,842,97,22,329,54,28,52,26,4,27,118,26,5,15,158,20,18,23,28,21,10,30,33,22,19,38,39,19,50,17,34,10,40,14,29,21,11,12,11,8
+[Auction "W"]
+1H Pass 2D Pass 
+2H Pass 3D Pass 
+Pass Pass 
+[Play "S"]
+S4 S8 SK S6 
+H8 H3 HA H6 
+HQ H4 H5 HK 
+S5 SQ S7 S2 
+D4 HJ H2 C5 
+CA C3 C7 D2 
+DT DJ D3 DA 
+DK H7 D5 D7 
+C4 CK C2 D6 
+C8 -  -  DQ 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "20"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K73.A52.53.T9762 962.K6.AQ98762.5 J54.Q8.KT4.AQJ84 AQT8.JT9743.J.K3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "64448644486899568995"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  4
+N  C  8
+S NT  6
+S  S  4
+S  H  4
+S  D  4
+S  C  8
+E NT  6
+E  S  8
+E  H  9
+E  D  9
+E  C  5
+W NT  6
+W  S  8
+W  H  9
+W  D  9
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 17,1,3,129,87,338,150,22,49,222,154,1176,314,392,173,94,55,39,26,429,513,41,28,52,31,62,27,169,641,31,7,16,38,9,44,12,31,16,27,749,192,42,21,77,98,16,14,84,16,10,9,15,34,11,40,8,28,8,8,10,21,9,8,16
+[Auction "W"]
+1H Pass 1NT Pass 
+2H Pass 4C =1= X 
+Pass =2= Pass XX =3= Pass 
+4H Pass Pass Pass 
+[Note "1: shortage"]
+[Note "2: no 1st round control"]
+[Note "3: 2nd round control but not 1st"]
+[Play "N"]
+CT C5 CA C3 
+SK S2 S4 SQ 
+D3 DA D4 DJ 
+D5 D6 DT H3 
+H2 H6 HQ HJ 
+S3 D2 DK HT 
+HA HK H8 H4 
+C6 D7 CJ CK 
+H5 D8 C4 H9 
+S7 S6 S5 SA 
+C2 S9 SJ S8 
+-  -  CQ -  
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "21"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T875.T9842.AKT7. J64.AJ5.8652.K93 AQ93.7.Q943.AJ84 K2.KQ63.J.QT7652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6a6936a7955363853638"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  6
+N  D  9
+N  C  3
+S NT  6
+S  S 10
+S  H  7
+S  D  9
+S  C  5
+E NT  5
+E  S  3
+E  H  6
+E  D  3
+E  C  8
+W NT  5
+W  S  3
+W  H  6
+W  D  3
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 11,2,0,112,25,71,180,230,83,39,52,178,67,14,9,163,247,11,9,24,56,29,32,81,25,3,11,33,24,4,16,10,23,13,45,138,23,3,9,8,67,5,12,4,53,6,38,13,38,25,60,31,9,18,6
+[Auction "N"]
+Pass Pass 1D 2C 
+3D Pass Pass Pass 
+[Play "W"]
+HK H2 H5 H7 
+DJ DA D2 D3 
+H3 H4 HA D4 
+C2 S5 C3 CA 
+C5 D7 C9 C4 
+H6 H8 HJ D9 
+S2 S7 S4 SA 
+CT DT CK C8 
+HQ H9 S6 DQ 
+CQ HT SJ CJ 
+SK S8 D5 S3 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "21"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T875.T9842.AKT7. J64.AJ5.8652.K93 AQ93.7.Q943.AJ84 K2.KQ63.J.QT7652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6a6936a7955363853638"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  6
+N  D  9
+N  C  3
+S NT  6
+S  S 10
+S  H  7
+S  D  9
+S  C  5
+E NT  5
+E  S  3
+E  H  6
+E  D  3
+E  C  8
+W NT  5
+W  S  3
+W  H  6
+W  D  3
+W  C  8
+[OptimumScore "NS +500"]
+[Competition "Teams"]
+% RBDATA 11,1,3,128,77,94,38,177,47,121,24,116,737,82,18,43,52,13,58,21,119,10,30,137,109,55,38,159,190,99,22,181,31,11,36,17,31,29,11,81,24,19,100,69,20,23,11,28,38,33,48,14,18,15,9,16,40,13,25,4,22,9,14
+[Auction "N"]
+Pass Pass 1D 2C 
+3D Pass Pass Pass 
+[Play "W"]
+C5 D7 C3 C4 
+HQ H2 H5 H7 
+DJ DA D2 D3 
+SK ST S4 SQ 
+C6 H4 CK CA 
+C2 DT C9 C8 
+H3 H8 HA D4 
+CQ DK HJ CJ 
+S2 S5 S6 SA 
+H6 H9 D5 DQ 
+C7 HT D6 D9 
+HK S7 SJ S3 
+CT S8 D8 S9 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "22"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5432.87543.T82.7 AK87.KQ96.94.854 J96.AJ2.A76.AK92 QT.T.KQJ53.QJT63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "44643446439777997779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  9
+E  S  7
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 6,2,0,191,79,215,174,116,44,50,376,12,16,135,17,19,12,34,19,23,12,61,41,12,12,12,17,43,121,30,144,11,112,16,8,17,21,56,32,19,4,34,33,13,15
+[Auction "E"]
+1C =1= 1NT 2D Pass 
+Pass Pass 
+[Note "1: cd be short"]
+[Play "N"]
+C7 C4 CK C3 
+S5 C5 CA C6 
+D2 C8 C2 CT 
+H8 HQ HA HT 
+DT H6 C9 CJ 
+H5 HK H2 CQ 
+D8 D4 D6 DJ 
+H4 D9 DA DK 
+H3 H9 HJ D3 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "22"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:5432.87543.T82.7 AK87.KQ96.94.854 J96.AJ2.A76.AK92 QT.T.KQJ53.QJT63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "44643446439777997779"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  6
+N  D  4
+N  C  3
+S NT  4
+S  S  4
+S  H  6
+S  D  4
+S  C  3
+E NT  9
+E  S  7
+E  H  7
+E  D  7
+E  C  9
+W NT  9
+W  S  7
+W  H  7
+W  D  7
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 15,1,3,300,671,772,627,23,216,108,297,31,22,81,47,23,10,43,22,7,46,19,34,10,12,66,60,11,11,510,22,13,441,50,178,76,43,126,28,77,14,168,25,20,20,45,28,28,10,13,23,25,11,9
+[Auction "E"]
+1C 1NT =1= 4C Pass 
+Pass Pass 
+[Note "1: 17+ could be 1-suited"]
+[Play "S"]
+CK C3 C7 C4 
+S6 SQ S2 S7 
+S9 ST S3 SA 
+SJ HT S4 SK 
+C2 CQ S5 C5 
+DA DK D2 D4 
+HA C6 H3 H6 
+D6 DQ D8 D9 
+D7 D3 DT C8 
+H2 D5 H4 HK 
+HJ DJ H5 HQ 
+-  -  -  H9 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "23"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q986.T75.KT.JT75 K752.A63.5.98643 J.KJ942.AQJ743.2 AT43.Q8.9862.AKQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "73984739846944969449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  9
+N  D  8
+N  C  4
+S NT  7
+S  S  3
+S  H  9
+S  D  8
+S  C  4
+E NT  6
+E  S  9
+E  H  4
+E  D  4
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 10,2,0,161,697,115,192,66,257,105,34,237,20,541,39,66,58,34,15,43,1030,23,21,15,14,27,9,4,12,20,9,4,187,21,8,10,136,24,14,182,49,124,15,29,42,19,14,16,21,74,10,20,20,16,11,13,15,4,17,14,12,9,8,6
+[Auction "S"]
+1D X 1S 2C 
+2H 3C Pass Pass 
+Pass 
+[Play "S"]
+SJ S3 S6 SK 
+HK H8 HT H3 
+H4 HQ H7 H6 
+C2 CQ C5 C3 
+D3 CK C7 C4 
+D4 CA CT C6 
+DA D2 DK D5 
+HJ D6 H5 HA 
+D7 S4 CJ C8 
+DJ D8 DT S2 
+DQ D9 S8 C9 
+H2 SA S9 S5 
+H9 ST SQ S7 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "23"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q986.T75.KT.JT75 K752.A63.5.98643 J.KJ942.AQJ743.2 AT43.Q8.9862.AKQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "73984739846944969449"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  3
+N  H  9
+N  D  8
+N  C  4
+S NT  7
+S  S  3
+S  H  9
+S  D  8
+S  C  4
+E NT  6
+E  S  9
+E  H  4
+E  D  4
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D  4
+W  C  9
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,1,3,145,88,135,149,210,25,54,131,171,543,44,133,224,35,36,23,19,68,30,898,42,12,34,53,74,21,22,36,23,23,19,670,46,8,37,11,45,9,62,9,32,12,25,59,30,11,19,42,17,8,30,14,62,10,21,83,45,18,28,17,15,20,8
+[Auction "S"]
+1D 1NT Pass 2C =1= 
+Pass 2S Pass 4S 
+Pass Pass Pass 
+[Note "1: stayman"]
+[Play "N"]
+DK D5 DA D8 
+C5 C3 C2 CA 
+S8 SK SJ S3 
+H5 H3 HK H8 
+H7 H6 H2 HQ 
+S6 S2 D3 SA 
+C7 C4 D4 CK 
+CT C6 H4 CQ 
+DT S5 D7 D2 
+HT HA H9 D6 
+CJ C8 DJ S4 
+S9 C9 DQ D9 
+SQ S7 HJ ST 
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "24"]
+[West "Nicholas#00526448"]
+[North "Liz Mcgowan#11557"]
+[East "Richard Cumming-Bruce#"]
+[South "Gints Freimanis#522627"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:72.98432.J98.932 AQT65.A.KT32.AT8 43.7.AQ54.KQJ765 KJ98.KQJT65.76.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1015710157ccc85bbb85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  1
+N  D  5
+N  C  7
+S NT  1
+S  S  0
+S  H  1
+S  D  5
+S  C  7
+E NT 12
+E  S 12
+E  H 12
+E  D  8
+E  C  5
+W NT 11
+W  S 11
+W  H 11
+W  D  8
+W  C  5
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 28,2,0,225,56,43,168,203,74,126,36,147,35,200,23,204,40,237,26,40,34,16,207,40,42,129,16,13,20,83,11,10,19,33,18,15,24,69,20,20,21,17,29,15,37,22,25,10,4,21,19,8,10,16,19,15,10,20,17,11,6,9,11,12,13
+[Auction "W"]
+1H Pass 1S 2C 
+3S Pass 4C =1= Pass 
+4S Pass 4NT Pass 
+5D Pass 6S Pass 
+Pass Pass 
+[Note "1: cue"]
+[Play "S"]
+CK C4 C3 CA 
+S3 S8 S2 SA 
+S4 S9 S7 SQ 
+H7 H5 H4 HA 
+C5 SJ C2 C8 
+C6 HK H2 D2 
+D4 HQ H3 D3 
+D5 HJ H8 DT 
+C7 HT H9 DK 
+DQ D6 D8 S5 
+CJ SK C9 CT 
+*
+
+[Event "12 Feb Gold Gup Davidson vs McGowan"]
+[Site "RealBridge"]
+[Date "2024.02.12"]
+[Board "24"]
+[West "Paul Barton#409240"]
+[North "Andrew Black#017039"]
+[East "Jun Nakamaru-Pinder#455138"]
+[South "John Clarke#029825"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:72.98432.J98.932 AQT65.A.KT32.AT8 43.7.AQ54.KQJ765 KJ98.KQJT65.76.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "McGowan team"]
+[VisitTeam "Davidson team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1015710157ccc85bbb85"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  0
+N  H  1
+N  D  5
+N  C  7
+S NT  1
+S  S  0
+S  H  1
+S  D  5
+S  C  7
+E NT 12
+E  S 12
+E  H 12
+E  D  8
+E  C  5
+W NT 11
+W  S 11
+W  H 11
+W  D  8
+W  C  5
+[OptimumScore "NS -990"]
+[Competition "Teams"]
+% RBDATA 18,1,3,484,40,72,222,110,85,257,102,228,203,740,131,25,90,12,142,638,53,66,10,209,41,19,25,46,41,112,24,111,34,12,31,17,31
+[Auction "W"]
+1H Pass 1S 2C 
+2S Pass 3C =1= X 
+Pass Pass 4C =2= Pass 
+4S Pass Pass Pass 
+[Note "1: Alerted"]
+[Note "2: Alerted"]
+[Play "S"]
+H7 H5 H2 HA 
+C5 C4 C2 CA 
+S3 SJ S2 S5 
+S4 S8 S7 SA 
+CJ -  -  C8 
+*

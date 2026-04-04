@@ -1,0 +1,3088 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "1"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AKQ.J943.AK853.8 T982.AT85.T742.T J76.KQ762.Q6.Q64 543..J9.AKJ97532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS 500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "49b8479b966323763237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H 11
+N  D  8
+N  C  4
+S NT  7
+S  S  9
+S  H 11
+S  D  9
+S  C  6
+E NT  6
+E  S  3
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  3
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 20,2,1,561,64,251,120,600,67,125,37,80,109,44,16,64,28,21,15,148,33,58,10,150,51,36,79,89,43,42,28,17,55,13,30,15,65,10,14,40,16,29,10
+[Auction "N"]
+1D Pass 1H 5C 
+X Pass Pass Pass 
+[Play "N"]
+SA S2 S7 S5 
+SK S8 S6 S4 
+DA D2 D6 DJ 
+H3 HA H2 S3 
+C8 CT C4 CA 
+D3 D4 C6 CK 
+D5 H5 CQ CJ 
+D8 D7 DQ D9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "1"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:AKQ.J943.AK853.8 T982.AT85.T742.T J76.KQ762.Q6.Q64 543..J9.AKJ97532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "49b8479b966323763237"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  9
+N  H 11
+N  D  8
+N  C  4
+S NT  7
+S  S  9
+S  H 11
+S  D  9
+S  C  6
+E NT  6
+E  S  3
+E  H  2
+E  D  3
+E  C  7
+W NT  6
+W  S  3
+W  H  2
+W  D  3
+W  C  7
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 17,0,3,692,44,61,350,153,34,35,319,239,99,16,22,229,33,19,22,100,20,24,69,223,30,34,24,151,57,34,23,18,45,19,44
+[Auction "N"]
+1D Pass 1H 4C 
+4H Pass Pass Pass 
+[Play "W"]
+CA C8 CT C4 
+S4 SQ S2 S7 
+C5 H3 H5 HQ 
+C7 H4 H8 C6 
+C2 H9 HA H2 
+C3 HJ HT H6 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "2"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T6.QT985.K72.A84 K9872.7.Q96.JT32 AJ43.KJ62.JT8.65 Q5.A43.A543.KQ97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "6"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "75853758536858a6858a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  5
+N  C  3
+S NT  7
+S  S  5
+S  H  8
+S  D  5
+S  C  3
+E NT  6
+E  S  8
+E  H  5
+E  D  8
+E  C 10
+W NT  6
+W  S  8
+W  H  5
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 18,0,3,67,67,86,106,35,173,427,100,26,61,37,42,82,80,47,21,72,34,20,23,27,33,19,27,35,22,19,32,121,21,27,11,146,28,19,31,37,25,68,11,210,71,15,55,62,22,21,16,59,24,28,8,17,21,14,25,47,19,13,7,12,7,45,7
+[Auction "E"]
+Pass Pass 1C 1H 
+1S 3H 3S Pass 
+4S Pass Pass Pass 
+[Play "S"]
+H2 HA HT H7 
+C6 C7 C4 CJ 
+S3 SQ S6 S2 
+SA S5 ST SK 
+H6 H3 HQ S7 
+C5 CK CA C2 
+HJ H4 H9 S8 
+SJ D3 C8 S9 
+HK D4 H5 D6 
+DJ DA D2 D9 
+S4 CQ D7 C3 
+DT D5 DK DQ 
+D8 C9 H8 CT 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "2"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:T6.QT985.K72.A84 K9872.7.Q96.JT32 AJ43.KJ62.JT8.65 Q5.A43.A543.KQ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "75853758536858a6858a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  8
+N  D  5
+N  C  3
+S NT  7
+S  S  5
+S  H  8
+S  D  5
+S  C  3
+E NT  6
+E  S  8
+E  H  5
+E  D  8
+E  C 10
+W NT  6
+W  S  8
+W  H  5
+W  D  8
+W  C 10
+[OptimumScore "NS -130"]
+[Competition "Teams"]
+% RBDATA 8,2,1,172,232,179,146,248,113,32,71,304,84,123,143,47,36,72,22,17,57,273,53,81,9,19,40,20,32,45,121,13,88,254,34,31,24,37,31,15,10,14,32,26,22
+[Auction "E"]
+Pass Pass 1NT =1= Pass 
+2H =2= Pass 2S Pass 
+Pass Pass 
+[Note "1: 15-17hp"]
+[Note "2: sp"]
+[Play "N"]
+ST S2 S3 SQ 
+S6 S7 SJ S5 
+H5 H7 H6 HA 
+C4 CJ C6 C7 
+H8 S8 SA D5 
+DK D6 D8 D4 
+CA C2 C5 CK 
+C8 C3 S4 C9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "3"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:7.KQ95.A72.QJT63 JT952.J763.86.95 Q864.4.T953.K742 AK3.AT82.KQJ4.A8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "64458744686887469875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  5
+N  C  8
+S NT  7
+S  S  4
+S  H  4
+S  D  6
+S  C  8
+E NT  6
+E  S  8
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  9
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,135,70,446,42,316,273,51,26,93,52,53,603,129,55,8,18,44,15,53,16,44,28,13,100,42,7,20,36,17,98,9,71,31,10,7,61,81,33,28,240,36,15,33,20,35,31,12,108,70,9,36,9,14,8,25,22,13,7,24,62,9,9,7
+[Auction "S"]
+Pass 2C 3C Pass 
+Pass X Pass 3S 
+Pass Pass Pass 
+[Play "S"]
+C2 CA C6 C5 
+S4 SA S7 S2 
+S6 SK D2 S5 
+D3 DK DA D6 
+CK C8 CT C9 
+SQ S3 D7 S9 
+C7 H2 CJ ST 
+H4 H8 HK HJ 
+C4 D4 CQ SJ 
+D5 DQ H5 D8 
+D9 DJ C3 H3 
+S8 HA H9 H6 
+DT HT HQ H7 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "3"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:7.KQ95.A72.QJT63 JT952.J763.86.95 Q864.4.T953.K742 AK3.AT82.KQJ4.A8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "64458744686887469875"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  4
+N  H  4
+N  D  5
+N  C  8
+S NT  7
+S  S  4
+S  H  4
+S  D  6
+S  C  8
+E NT  6
+E  S  8
+E  H  8
+E  D  7
+E  C  4
+W NT  6
+W  S  9
+W  H  8
+W  D  7
+W  C  5
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,128,223,182,392,134,29,115,27,44,57,75,33,43,61,121,23,26,96,38,42,13,922,180,58,33,72,36,19,12,50,12,26,16,74,17,21,8,16,16,8,22,12,13,12,14
+[Auction "S"]
+Pass 2NT Pass 3H =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: sp"]
+[Play "N"]
+CQ C5 C2 CA 
+C6 C9 CK C8 
+HQ H3 H4 H2 
+H9 HJ S4 H8 
+DA D6 D9 DJ 
+H5 H6 S6 HT 
+D7 D8 D3 DK 
+S7 S2 S8 SA 
+C3 S5 SQ SK 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "4"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K8.3.AQJ982.Q843 J72.QJT65.K54.96 T54.742.T63.KT72 AQ963.AK98.7.AJ5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "33287332878aa458aa45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  8
+N  C  7
+S NT  3
+S  S  3
+S  H  2
+S  D  8
+S  C  7
+E NT  8
+E  S 10
+E  H 10
+E  D  4
+E  C  5
+W NT  8
+W  S 10
+W  H 10
+W  D  4
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 17,0,3,168,134,30,201,165,43,87,122,164,51,17,43,98,34,50,23,37,54,103,18,32,29,8,30,15,113,21,42,44,30,7,21,21,34,19,39,22,26,30,9,14,30,21,25,29,40,9,46,16,38,7,14
+[Auction "W"]
+1S 2D 2S Pass 
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "S"]
+D6 D7 DA D4 
+DT C5 DQ DK 
+H2 HA H3 H5 
+H4 H8 D2 HJ 
+H7 H9 D8 HT 
+S4 SQ SK S2 
+D3 HK DJ D5 
+S5 S3 S8 SJ 
+ST SA C4 S7 
+C2 S9 D9 C6 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "4"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K8.3.AQJ982.Q843 J72.QJT65.K54.96 T54.742.T63.KT72 AQ963.AK98.7.AJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "33287332878aa458aa45"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  2
+N  D  8
+N  C  7
+S NT  3
+S  S  3
+S  H  2
+S  D  8
+S  C  7
+E NT  8
+E  S 10
+E  H 10
+E  D  4
+E  C  5
+W NT  8
+W  S 10
+W  H 10
+W  D  4
+W  C  5
+[OptimumScore "NS -620"]
+[Competition "Teams"]
+% RBDATA 18,2,1,338,117,167,186,77,91,179,53,28,82,154,259,47,18,24,36,12,91,152,37,51,24,174,28,25,19,269,31,24,26,800,26,12,26,12,20,20,12,16,19,28,16,34,67,39,26,69,24,61,18,34,19,19,13,24,11,15,11,12,32,8,10
+[Auction "W"]
+1S 2D 2S Pass 
+4D Pass 4S Pass 
+Pass Pass 
+[Play "N"]
+H3 HQ H4 H9 
+SK S2 S4 SQ 
+C8 C6 CK CA 
+S8 SJ S5 S3 
+D2 S7 ST SA 
+D8 H5 H2 HA 
+D9 H6 H7 HK 
+DJ HT D6 H8 
+DQ HJ D3 D7 
+DA D4 DT S6 
+C3 C9 CT C5 
+CQ D5 C2 CJ 
+C4 DK C7 S9 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "5"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K75.AT98.8742.84 T843.K5.A5.AKT52 AQJ9.J6.Q3.QJ976 62.Q7432.KJT96.3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "5"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 8 EW -8"]
+[DoubleDummyTricks "57447574478688686886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 10,0,3,98,29,122,276,93,76,98,80,48,114,55,41,27,358,33,7,16,10,31,21,15,54,48,7,20,335,16,28,7,64,47,11,11,120,45,108,22,11,32,7,25,134,27,14,25,59,16,19,7,16,18,20,13,47,14,16,9,19,8,8,6
+[Auction "N"]
+Pass 1C 1S X 
+2S 3C Pass Pass 
+Pass 
+[Play "S"]
+HJ H2 HT HK 
+C7 C3 C4 CA 
+C6 D6 C8 CK 
+S9 S2 S5 S3 
+SA S6 S7 S4 
+SQ H3 SK ST 
+DQ DK D8 D5 
+D3 D9 D2 DA 
+SJ H4 D7 S8 
+H6 H7 H8 H5 
+C9 HQ HA C5 
+CJ DT D4 C2 
+CQ DJ H9 CT 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "5"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K75.AT98.8742.84 T843.K5.A5.AKT52 AQJ9.J6.Q3.QJ976 62.Q7432.KJT96.3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -8 EW 8"]
+[DoubleDummyTricks "57447574478688686886"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  4
+N  D  4
+N  C  7
+S NT  5
+S  S  7
+S  H  4
+S  D  4
+S  C  7
+E NT  8
+E  S  6
+E  H  8
+E  D  8
+E  C  6
+W NT  8
+W  S  6
+W  H  8
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 4,2,1,143,131,488,49,151,46,59,156,92,364,158,41,380,40,11,17,42,40,86,375,38,56,14,104,23,15,16,26,36,161,22,22,68,13,12,29,30,29,52,72,13,13,95,13,59,13,37,33,37,21,32,23
+[Auction "N"]
+Pass 1C =1= Pass 1H 
+Pass 1S Pass 1NT 
+Pass Pass Pass 
+[Note "1: 2+"]
+[Play "N"]
+D7 DA D3 D6 
+S5 S3 S9 S6 
+S7 S4 SJ S2 
+SK S8 SA H4 
+H9 ST SQ H2 
+D2 D5 DQ DK 
+D4 C2 C7 D9 
+D8 C5 C6 DT 
+C8 CT C9 DJ 
+HA H5 H6 H7 
+C4 -  -  -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "6"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J95.AQ853.964.95 AQT6.9.AJT52.KQ6 K73.KJ7642.Q.AT8 842.T.K873.J7432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "6393363933694a9694a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  3
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D 10
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D 10
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,0,3,65,169,62,132,79,38,20,56,295,21,27,29,82,34,26,419,39,30,16,202,18,43,20,94,46,31,9,54,37,51,15,18,30,24,19,23,41,39,38
+[Auction "E"]
+1D 1H 2D 4H 
+Pass Pass Pass 
+[Play "W"]
+D3 D4 DA DQ 
+D7 D6 D5 H2 
+HT HQ H9 H6 
+C2 C9 CK CA 
+C4 H3 DT HK 
+C3 C5 CQ C8 
+S2 S5 SA S3 
+S4 S9 S6 S7 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "6"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:J95.AQ853.964.95 AQT6.9.AJT52.KQ6 K73.KJ7642.Q.AT8 842.T.K873.J7432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "6393363933694a9694a9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  9
+N  D  3
+N  C  3
+S NT  6
+S  S  3
+S  H  9
+S  D  3
+S  C  3
+E NT  6
+E  S  9
+E  H  4
+E  D 10
+E  C  9
+W NT  6
+W  S  9
+W  H  4
+W  D 10
+W  C  9
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 17,2,1,201,244,141,313,207,323,52,39,239,47,27,30,34,98,76,28,164,113,33,27,256,54,54,18,165,78,14,39,17,158,28,33,29,33,117,15,188,104,17,18,463,48,23,30,84,19,39,11,56,20,33,16,20,30,19,10,22
+[Auction "E"]
+1D 1H Pass 3H 
+Pass 4H Pass Pass 
+X Pass Pass Pass 
+[Play "W"]
+D7 D4 DA DQ 
+D3 D6 DJ H2 
+HT HQ H9 H4 
+D8 D9 D2 H6 
+S2 H8 D5 H7 
+C2 C5 CQ CA 
+C4 C9 CK C8 
+CJ H3 C6 CT 
+S4 S9 ST SK 
+S8 SJ SQ S3 
+C3 S5 SA S7 
+-  -  DT -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "7"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT.QJ92.J832.AJ 86542.KT.K64.986 973.A854.AT5.K42 AJ.763.Q97.QT753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "a9ba9a9ba93423434234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  9
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  4
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 4,0,3,73,49,169,27,157,67,32,259,55,21,74,26,8,13,18,24,22,14,154,24,15,18,33,19,69,12,10,80,10,32,17,36,12,40,82,17,21,58,205,32,18,16,39,29,10,22,14,15,42,13,12,22,9,11,9,10,10,5
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12 14"]
+[Play "E"]
+S4 S3 SA ST 
+S2 S7 SJ SK 
+HK HA H3 HJ 
+HT H8 H6 H2 
+S6 S9 C3 SQ 
+C6 H4 H7 HQ 
+C8 H5 C5 H9 
+D4 DT DQ D2 
+C9 C2 C7 CJ 
+S5 C4 CT CA 
+D6 DA D7 D3 
+S8 CK CQ D8 
+DK D5 D9 DJ 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "7"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQT.QJ92.J832.AJ 86542.KT.K64.986 973.A854.AT5.K42 AJ.763.Q97.QT753"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "a9ba9a9ba93423434234"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S  9
+N  H 11
+N  D 10
+N  C  9
+S NT 10
+S  S  9
+S  H 11
+S  D 10
+S  C  9
+E NT  3
+E  S  4
+E  H  2
+E  D  3
+E  C  4
+W NT  3
+W  S  4
+W  H  2
+W  D  3
+W  C  4
+[OptimumScore "NS +650"]
+[Competition "Teams"]
+% RBDATA 7,2,1,131,120,362,99,756,54,96,67,246,42,153,66,76,23,75,59,20,7,64,12,28,28,34,17,20,21,23,85,13,12,67,30,19,45,176,182,43,16,84,25,10,12,13,7,31,17,48,17,12,17,16
+[Auction "S"]
+Pass Pass 1NT =1= Pass 
+2C =2= X 2H Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: st"]
+[Play "E"]
+C8 C2 CT CJ 
+HK HA H3 HQ 
+HT H4 H6 H9 
+C9 C4 C5 CA 
+S2 H5 H7 HJ 
+D4 DT DQ D2 
+C6 CK C3 ST 
+D6 DA D7 D3 
+DK D5 D9 DJ 
+S6 S3 SA SQ 
+-  -  SJ -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "8"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT53.A73.Q52.AK2 K74.QT954.J76.T7 QJ86.KJ.AT9.9654 92.862.K843.QJ83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "aa999aa9993344433444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  9
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D  9
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  4
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 18,0,3,118,51,26,136,30,142,32,37,22,22,262,27,38,102,21,20,21,29,24,13,18,12,32,71,21,80,19,16,25,181,20,15,25,77,33,49,25,25,61,21,12,37,18,16,31,42,27,20,22,65,14
+[Auction "W"]
+Pass 1S Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Play "E"]
+CT C4 C8 CK 
+H4 HK H2 H3 
+SK SQ S2 S3 
+C7 C5 CJ CA 
+S4 S6 S9 SA 
+S7 S8 D3 ST 
+H5 C9 CQ C2 
+H9 HJ H8 HA 
+D6 D9 DK DQ 
+DJ DA D8 D5 
+-  DT D4 -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "8"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:AT53.A73.Q52.AK2 K74.QT954.J76.T7 QJ86.KJ.AT9.9654 92.862.K843.QJ83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "aa999aa9993344433444"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 10
+N  H  9
+N  D  9
+N  C  9
+S NT 10
+S  S 10
+S  H  9
+S  D  9
+S  C  9
+E NT  3
+E  S  3
+E  H  4
+E  D  4
+E  C  4
+W NT  3
+W  S  3
+W  H  4
+W  D  4
+W  C  4
+[OptimumScore "NS +430"]
+[Competition "Teams"]
+% RBDATA 13,2,1,115,126,188,154,739,102,41,489,44,264,155,13,22,97,8,20,41,254,40,17,13,140,86,22,20,22,30,41,18,60,18,15,16,15,29,15,18,39,18,14,12,14,23,13,87,12,20,9,14,9,13,9,7,9,19,11,8,9,7,19,8
+[Auction "W"]
+Pass 1C 1H X 
+2H =1= 3S Pass Pass 
+Pass 
+[Note "1: h support and some hp"]
+[Play "E"]
+HT HJ H2 H3 
+SK SQ S2 S3 
+D6 D9 DK D2 
+DJ DA D3 D5 
+S4 SJ S9 S5 
+S7 S6 H6 SA 
+H4 HK H8 H7 
+D7 DT D4 DQ 
+H5 C4 C3 HA 
+C7 C5 C8 CA 
+CT C6 CQ CK 
+H9 C9 CJ C2 
+HQ S8 D8 ST 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "9"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A86.AJ42.Q743.Q4 Q9.KQ865.8.KJ532 KJ73.73.AJT52.97 T542.T9.K96.AT86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "4"]
+[Score "NS -200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "57594574946584965849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  9
+N  C  4
+S NT  5
+S  S  7
+S  H  4
+S  D  9
+S  C  4
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  9
+W NT  6
+W  S  5
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 9,0,3,142,80,472,120,164,22,169,46,33,88,31,16,370,32,26,12,28,18,13,38,49,50,23,13,81,20,22,11,16,26,18,13,16,58,12,19,70,20,19,12,18,22,23,23,16,20,14,15,18,30,23
+[Auction "N"]
+1NT =1= 2H X =2= Pass 
+2NT Pass Pass Pass 
+[Note "1: 12 14"]
+[Note "2: take out"]
+[Play "E"]
+C3 C7 CA C4 
+H5 H3 HT HA 
+D8 D2 DK DQ 
+H6 H7 H9 H4 
+CK C9 CT CQ 
+HK S3 D6 H2 
+HQ S7 D9 HJ 
+CJ SJ C6 D3 
+H8 D5 S2 D4 
+C5 DT C8 D7 
+S9 -  S4 S6 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "9"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A86.AJ42.Q743.Q4 Q9.KQ865.8.KJ532 KJ73.73.AJT52.97 T542.T9.K96.AT86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "57594574946584965849"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  7
+N  H  5
+N  D  9
+N  C  4
+S NT  5
+S  S  7
+S  H  4
+S  D  9
+S  C  4
+E NT  6
+E  S  5
+E  H  8
+E  D  4
+E  C  9
+W NT  6
+W  S  5
+W  H  8
+W  D  4
+W  C  9
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,360,246,966,152,809,101,95,27,125,91,45,39,237,136,15,11,553,38,8,14,222,36,90,45,151,22,45,110,96,17,10,20,43,32,178,61,17,9,9,57,37,62,25,14,39,13,9,8,10,20,11,32
+[Auction "N"]
+1NT =1= 2H =2= X Pass 
+3D Pass Pass Pass 
+[Note "1: 12=14"]
+[Note "2: hearts+minor"]
+[Play "E"]
+HK H7 H9 HA 
+CK C7 C6 CQ 
+HQ H3 HT H2 
+H5 C9 D6 H4 
+C2 D2 C8 C4 
+S9 S3 S2 SA 
+D8 DA D9 D3 
+H6 DT DK D4 
+C3 D5 CA S6 
+SQ SK S4 S8 
+C5 S7 S5 D7 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "10"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQT9.Q975.K75.J9 74.K84.J82.A8653 J532.62.AT94.QT4 K86.AJT3.Q63.K72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "79785797856465764658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  9
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  4
+E  H  6
+E  D  5
+E  C  7
+W NT  6
+W  S  4
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 4,0,3,43,34,103,48,15,42,106,118,33,109,94,43,17,24,38,14,65,218,86,28,38,23,99,22,96,24,18,162,45,28,502,38,40,39,94,27,24,34,19,57,14,70,17,25,18,17,19,25,88,16,13,14,16,23,9,24,29,13
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass 
+[Play "N"]
+SQ S4 S3 SK 
+CJ C3 C4 CK 
+C9 C5 CT C7 
+S9 S7 S2 S6 
+SA H4 S5 S8 
+ST C6 SJ H3 
+HQ HK H6 HJ 
+D7 CA CQ C2 
+D5 C8 H2 D3 
+H5 H8 D4 HA 
+H7 D2 D9 HT 
+DK D8 DT D6 
+H9 DJ DA DQ 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "10"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQT9.Q975.K75.J9 74.K84.J82.A8653 J532.62.AT94.QT4 K86.AJT3.Q63.K72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "79785797856465764658"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  9
+N  H  7
+N  D  8
+N  C  5
+S NT  7
+S  S  9
+S  H  7
+S  D  8
+S  C  5
+E NT  6
+E  S  4
+E  H  6
+E  D  5
+E  C  7
+W NT  6
+W  S  4
+W  H  6
+W  D  5
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 3,2,1,243,68,103,126,229,145,42,193,202,99,298,30,49,167,38,42,15,57,29,28,73,218,156,14,33,46,53,18,10,32,20,26,12,34,46,12,32,20,45,15,22,331,39,19,13,37,17,14,32,15,15,28,18
+[Auction "E"]
+Pass Pass 1C X 
+Pass 1S Pass Pass 
+Pass 
+[Play "W"]
+D3 D5 DJ DA 
+S6 S9 S4 S2 
+CK C9 C3 C4 
+S8 ST S7 S3 
+SK SA C5 S5 
+C7 CJ CA CT 
+HA H5 H4 H2 
+HJ HQ HK H6 
+H3 H7 H8 SJ 
+C2 H9 C6 CQ 
+D6 D7 D2 D9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "11"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ752.Q87.3.J832 83.95.AK9765.T95 AT96.K43.J2.AKQ7 J4.AJT62.QT84.64"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "6a55b6a65b4368243682"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D  5
+N  C 11
+S NT  6
+S  S 10
+S  H  6
+S  D  5
+S  C 11
+E NT  4
+E  S  3
+E  H  6
+E  D  8
+E  C  2
+W NT  4
+W  S  3
+W  H  6
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,111,44,174,57,139,28,196,139,17,16,24,83,33,17,78,22,22,17,59,21,24,25,147,31,18,9,59,139,24,7,135,43,58,7,135,43,35,47,43,21,23,29,120,50,17,21
+[Auction "S"]
+1S Pass 4S Pass 
+Pass Pass 
+[Play "W"]
+D4 D3 DK D2 
+C4 C2 C9 CA 
+S4 SQ S3 S9 
+SJ S2 S8 SA 
+C6 C3 C5 CK 
+H2 C8 CT CQ 
+D8 CJ D5 C7 
+H6 SK D7 S6 
+HA H7 H5 HK 
+HJ HQ H9 H4 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "11"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:KQ752.Q87.3.J832 83.95.AK9765.T95 AT96.K43.J2.AKQ7 J4.AJT62.QT84.64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "6a55b6a65b4368243682"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 10
+N  H  5
+N  D  5
+N  C 11
+S NT  6
+S  S 10
+S  H  6
+S  D  5
+S  C 11
+E NT  4
+E  S  3
+E  H  6
+E  D  8
+E  C  2
+W NT  4
+W  S  3
+W  H  6
+W  D  8
+W  C  2
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,241,73,95,252,142,38,63,42,49,20,58,34,178,34,319,32,56,41,27,31,15,7,31,17,11,10,116,24,25,8,27,11,9,8,15,64,20,54,9,32,18,27,14,12,20,9
+[Auction "S"]
+1C 1H 1S Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DA D2 D8 D3 
+H9 H3 H6 HQ 
+S3 S6 S4 SK 
+S8 S9 SJ SQ 
+C5 C7 C6 CJ 
+C9 CA C4 C2 
+D5 DJ D4 S5 
+H5 HK HA H7 
+D6 H4 HJ H8 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "12"]
+[West "liz hayton#410498"]
+[North "Robert Plumley#33074"]
+[East "Alan Scott#024026"]
+[South "Susie Farnon#26278"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ52.K6542..QJ93 A97.A97.KJ9872.5 T843.QJT8.Q6.AT8 J6.3.AT543.K7642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "12"]
+[Score "NS -650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "48a1448a15843b7843b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H 10
+N  D  1
+N  C  4
+S NT  4
+S  S  8
+S  H 10
+S  D  1
+S  C  5
+E NT  8
+E  S  4
+E  H  3
+E  D 11
+E  C  7
+W NT  8
+W  S  4
+W  H  3
+W  D 11
+W  C  7
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 21,0,3,130,50,53,153,210,137,29,166,27,40,21,61,67,61,18,146,48,12,12,32,121,16,22,51,23,27,26,22,26,18,122,22,29,17,18,13,17,10,22,14,22,8,23,12,16,18,26,14,20,8,9,17,21,8,20
+[Auction "W"]
+Pass 1H 2D 3H 
+5D Pass Pass X 
+Pass Pass Pass 
+[Play "S"]
+HQ H3 H6 HA 
+D6 D3 H5 DK 
+CA C2 C3 C5 
+S8 S6 SQ SA 
+DQ DA S5 D2 
+C8 CK C9 S7 
+CT C4 CJ D8 
+H8 D4 H2 H7 
+HT C6 CQ D7 
+HJ D5 H4 H9 
+S3 C7 S2 S9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "12"]
+[West "Rune Hauge#112693"]
+[North "John Coleman#415553"]
+[East "Andy Hall#"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:KQ52.K6542..QJ93 A97.A97.KJ9872.5 T843.QJT8.Q6.AT8 J6.3.AT543.K7642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6DX"]
+[Result "12"]
+[Score "NS -1090"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "48a1448a15843b7843b7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  8
+N  H 10
+N  D  1
+N  C  4
+S NT  4
+S  S  8
+S  H 10
+S  D  1
+S  C  5
+E NT  8
+E  S  4
+E  H  3
+E  D 11
+E  C  7
+W NT  8
+W  S  4
+W  H  3
+W  D 11
+W  C  7
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 26,2,1,184,74,191,212,340,132,97,272,92,147,69,83,167,73,155,152,26,179,43,52,46,214,413,19,29,548,85,16,8,26,28,9,21,140,46,17,25,250,42,32,11,150,31,18,16,245,43,21,9,68,17,10,29,74,14,30,14,65,29,18,19,14,13,11,17
+[Auction "W"]
+Pass 1H 3D 3H 
+3NT 4H Pass Pass 
+4S X Pass Pass 
+5C X 5S X 
+6D X Pass Pass 
+Pass 
+[Play "S"]
+HQ H3 H6 HA 
+CA C2 C9 C5 
+S8 S6 SQ SA 
+D6 D3 S2 DK 
+H8 D4 H2 H7 
+C8 C4 CJ D7 
+DQ DA H4 DJ 
+CT CK C3 S7 
+HT C6 CQ D9 
+HJ D5 H5 H9 
+S3 C7 S5 S9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "13"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ9863.J8.T32.62 52.KQT93.A86.JT4 A.A7642.KQ74.953 QT74.5.J95.AKQ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "37463374639697a96979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  4
+N  D  6
+N  C  3
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT  9
+W  S  6
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 8,1,3,1148,101,84,215,36,306,23,21,147,121,18,22,16,29,35,14,16,13,18,25,85,49,21,14,109,20,19,12,41,33,12,12,45,73,73,17,103,19,13,29,22,62,34,10,20,17,47,14,18,27,8,34,16,12,15,11
+[Auction "N"]
+2S =1= Pass Pass Pass 
+[Note "1: weak"]
+[Play "E"]
+HK HA H5 H8 
+HQ H2 C7 HJ 
+CJ C3 C8 C2 
+CT C5 CQ C6 
+C4 C9 CK S6 
+DA D4 D5 D2 
+D6 DK D9 D3 
+H3 H4 DJ S3 
+S2 SA S4 S8 
+H9 H6 CA S9 
+D8 D7 S7 DT 
+S5 H7 ST SJ 
+HT DQ SQ SK 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "13"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ9863.J8.T32.62 52.KQT93.A86.JT4 A.A7642.KQ74.953 QT74.5.J95.AKQ87"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "37463374639697a96979"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  4
+N  D  6
+N  C  3
+S NT  3
+S  S  7
+S  H  4
+S  D  6
+S  C  3
+E NT  9
+E  S  6
+E  H  9
+E  D  7
+E  C 10
+W NT  9
+W  S  6
+W  H  9
+W  D  7
+W  C  9
+[OptimumScore "NS -600"]
+[Competition "Teams"]
+% RBDATA 13,2,0,613,146,924,83,276,72,145,549,132,43,126,95,99,28,26,108,36,54,37,227,58,45,25,145,18,16,148,192,46,30,445,44,29,32,208,50,20,33,39,22,154,29,37,57,25,26,78,33,27,24,35,27,19,19,34,27,9,11,28,14,7,15
+[Auction "N"]
+2D =1= Pass 2NT =2= Pass 
+3D =3= Pass 3S Pass 
+Pass Pass 
+[Note "1: multi"]
+[Note "2: what is your bid"]
+[Note "3: wk 2 in S"]
+[Play "W"]
+CA C2 C4 C3 
+H5 H8 H9 HA 
+D5 HJ HQ H2 
+D9 D2 D6 DK 
+DJ S3 H3 H4 
+S4 S6 S2 SA 
+C7 S8 HT H6 
+S7 SK S5 C5 
+C8 DT DA D4 
+ST D3 D8 DQ 
+SQ S9 CT D7 
+CK C6 CJ C9 
+CQ SJ HK H7 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "14"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:7632.AT4.QJT42.9 85.K985.97.JT872 KT4.J763.863.AKQ AQJ9.Q2.AK5.6543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66674666747775977759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  4
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  9
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 4,1,3,46,220,147,231,24,105,66,125,28,89,76,7,24,196,27,7,15,27,30,7,97,47,55,23,7,19,24,12,16,51,22,17,14
+[Auction "E"]
+Pass 1C Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+DA D2 D7 D6 
+SA S2 S5 S4 
+SQ S3 S8 SK 
+DK D4 D9 D3 
+SJ S6 C2 ST 
+S9 S7 H5 H3 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "14"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:7632.AT4.QJT42.9 85.K985.97.JT872 KT4.J763.863.AKQ AQJ9.Q2.AK5.6543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66674666747775977759"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  7
+N  C  4
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  4
+E NT  7
+E  S  7
+E  H  7
+E  D  5
+E  C  9
+W NT  7
+W  S  7
+W  H  7
+W  D  5
+W  C  9
+[OptimumScore "NS -110"]
+[Competition "Teams"]
+% RBDATA 7,2,0,190,267,150,252,73,103,267,34,33,62,88,40,17,215,45,11,17,72,43,44,36,15,38,25,14,203,42,11,18,51,39,14,40,29,52,17,31,86,22,12,8,53,27,21,8,33,23,33,22,23,82,20,93,23,24,27,8,17,9,15,23
+[Auction "E"]
+Pass 1NT =1= Pass 2C =2= 
+Pass 2H Pass Pass 
+Pass 
+[Note "1: 12 14"]
+[Note "2:  * stayman [0:11]"]
+[Play "W"]
+DA D2 D9 D8 
+DK D4 D7 D6 
+D5 DT H8 D3 
+SJ S2 S8 ST 
+SA S3 S5 S4 
+S9 S6 H9 SK 
+C3 C9 CJ CA 
+C4 S7 C2 CK 
+C5 DJ C7 CQ 
+H2 HT HK H3 
+C6 DQ CT H6 
+HQ HA H5 H7 
+SQ H4 C8 HJ 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "15"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AJ632..KQ643.854 7.AJT875.J2.AKQ2 KT.9643.AT975.T3 Q9854.KQ2.8.J976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "372b2372b255b2855b29"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D 11
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D 11
+S  C  2
+E NT  5
+E  S  5
+E  H 11
+E  D  2
+E  C  8
+W NT  5
+W  S  5
+W  H 11
+W  D  2
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 17,1,3,102,56,88,39,125,267,315,40,185,154,62,18,27,39,74,47,17,98,51,43,22,117,199,9,44,482,24,44,10,25,193,39,26,17,138,18,15,9,34,9,12,17,14,11,9,22,13,7,47,8,21
+[Auction "S"]
+Pass Pass 1S 2H 
+2S 3H Pass 4C 
+Pass 4H Pass Pass 
+Pass 
+[Play "S"]
+SK S4 S6 S7 
+ST SQ SA H5 
+D5 D8 DQ D2 
+C3 S5 S3 HT 
+DA H2 D3 DJ 
+H3 HQ C4 H7 
+H4 HK C5 H8 
+CT C6 C8 CA 
+H6 S8 S2 HA 
+H9 -  -  HJ 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "15"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:AJ632..KQ643.854 7.AJT875.J2.AKQ2 KT.9643.AT975.T3 Q9854.KQ2.8.J976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "372b2372b255b2855b29"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  7
+N  H  2
+N  D 11
+N  C  2
+S NT  3
+S  S  7
+S  H  2
+S  D 11
+S  C  2
+E NT  5
+E  S  5
+E  H 11
+E  D  2
+E  C  8
+W NT  5
+W  S  5
+W  H 11
+W  D  2
+W  C  9
+[OptimumScore "NS -200"]
+[Competition "Teams"]
+% RBDATA 17,2,0,110,31,418,38,150,32,66,42,158,27,35,125,118,26,20,28,89,13,27,174,26,61,35,20,36,18,35,21
+[Auction "S"]
+Pass Pass 1S 4H 
+Pass Pass Pass 
+[Play "S"]
+SK S4 S2 S7 
+ST SQ SA H5 
+D5 D8 DQ DJ 
+C3 C6 C5 CA 
+D7 HK D3 D2 
+-  HQ -  -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "16"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQ974.9653.T2.76 AJ5.AJ7.J986.K95 T6.QT84.KQ53.AQ2 832.K2.A74.JT843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "47864478549657886578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D  6
+N  C  4
+S NT  4
+S  S  7
+S  H  8
+S  D  5
+S  C  4
+E NT  9
+E  S  6
+E  H  5
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 8,1,3,102,65,88,128,124,306,26,43,67,30,511,29,29,42,34,9,15,19,30,18,16,16,20,39,13,110,60,23,21,205,15,10,8,75,20,39,21,41,36,24,56,516,22,12,15,83,17,11,16,12,13,11,23,12,24,11,9,13,6,10,16
+[Auction "W"]
+Pass Pass 1NT =1= X 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "E"]
+D6 D3 DA D2 
+H7 H4 HK H3 
+HA H8 H2 H5 
+HJ HQ S2 H6 
+DJ DK D7 DT 
+D8 DQ D4 H9 
+SA S6 S3 SK 
+D9 D5 S8 S9 
+S5 ST C3 SQ 
+C5 CA C4 C6 
+SJ HT C8 C7 
+CK C2 CT S4 
+C9 CQ CJ S7 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "16"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KQ974.9653.T2.76 AJ5.AJ7.J986.K95 T6.QT84.KQ53.AQ2 832.K2.A74.JT843"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "47864478549657886578"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  7
+N  H  8
+N  D  6
+N  C  4
+S NT  4
+S  S  7
+S  H  8
+S  D  5
+S  C  4
+E NT  9
+E  S  6
+E  H  5
+E  D  7
+E  C  8
+W NT  8
+W  S  6
+W  H  5
+W  D  7
+W  C  8
+[OptimumScore "NS -300"]
+[Competition "Teams"]
+% RBDATA 4,2,0,110,104,114,123,32,55,264,203,29,25,66,46,34,13,52,15,45,77,473,79,12,16,36,52,13,61,29,30,7,11,93,36,10,12,32,18,23,12,20,13,45,91,21,11,22,18,20,53,14,10,12,20,10,8,9,22,8,8
+[Auction "W"]
+Pass Pass 1NT =1= Pass 
+Pass Pass 
+[Note "1: 12 14"]
+[Play "S"]
+H4 H2 H9 HJ 
+C2 CJ C7 C5 
+CA C3 C6 CK 
+DK DA DT D6 
+CQ CT H6 C9 
+DQ D4 D2 D8 
+H8 HK H3 H7 
+S6 C8 H5 S5 
+ST C4 S4 SJ 
+D3 D7 S7 DJ 
+D5 S2 S9 SA 
+HT S3 SK HA 
+HQ S8 SQ D9 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "17"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:962.75.8743.A985 AJ843.AQT98.JT.Q Q.K63.K52.KT7643 KT75.J42.AQ96.J2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "31138311387bb957bb95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  1
+N  D  3
+N  C  8
+S NT  3
+S  S  1
+S  H  1
+S  D  3
+S  C  8
+E NT  7
+E  S 11
+E  H 11
+E  D  9
+E  C  5
+W NT  7
+W  S 11
+W  H 11
+W  D  9
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,1,3,186,107,125,184,237,43,521,176,51,16,36,68,36,62,20,65,29,31,8,62,20,15,42,77,22,16,28,14,29,8,17,49,29,8,10,79,31,13,18,17,22,25,14,17,24,21,43,25,13,7,28,18
+[Auction "N"]
+Pass 1S =1= 2C 3S 
+4C 4H Pass 4S 
+Pass Pass Pass 
+[Note "1: 5+ spades"]
+[Play "S"]
+C6 C2 CA CQ 
+H3 H2 H7 HA 
+SQ SK S2 S3 
+C3 CJ C5 S4 
+C4 S5 S6 SA 
+C7 S7 S9 SJ 
+D2 D6 D3 DJ 
+D5 DA D4 DT 
+H6 HJ H5 HQ 
+HK H4 C8 H9 
+DK -  -  -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "17"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:962.75.8743.A985 AJ843.AQT98.JT.Q Q.K63.K52.KT7643 KT75.J42.AQ96.J2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -500"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "31138311387bb957bb95"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  1
+N  H  1
+N  D  3
+N  C  8
+S NT  3
+S  S  1
+S  H  1
+S  D  3
+S  C  8
+E NT  7
+E  S 11
+E  H 11
+E  D  9
+E  C  5
+W NT  7
+W  S 11
+W  H 11
+W  D  9
+W  C  5
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 20,2,0,68,37,177,122,94,42,45,27,119,71,53,159,53,31,43,84,64,32,27,48,44,27,25,62,30,50,33,259,72,23,52,52,26,16,42,55,50,14,41,72,30,38,71,70,29,33,31,13,45,136,21,33,48,32,19,32,47,18,21,16,9,25,22,55,13,8,17
+[Auction "N"]
+Pass 1S 3C 3S 
+Pass 4S Pass Pass 
+5C Pass Pass X 
+Pass Pass Pass 
+[Play "W"]
+S5 S2 SA SQ 
+S7 S6 S8 C3 
+C2 CA CQ C4 
+ST S9 SJ C6 
+CJ C5 S4 CK 
+H2 C8 HT C7 
+DA D3 DJ DK 
+H4 H5 HA H3 
+D6 D4 DT D2 
+HJ H7 H9 HK 
+SK C9 H8 H6 
+D9 D7 S3 D5 
+DQ D8 HQ CT 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "18"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKQJT4.QT9.K9.AQ 82.852.A653.J975 9765.AK3.8.KT432 3.J764.QJT742.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "cca7b7c96b1036210362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 10
+N  D  7
+N  C 11
+S NT  7
+S  S 12
+S  H  9
+S  D  6
+S  C 11
+E NT  1
+E  S  0
+E  H  3
+E  D  6
+E  C  2
+W NT  1
+W  S  0
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,1,3,42,170,47,471,27,221,26,277,30,643,75,268,31,770,51,172,26,45,30,83,235,29,30,34,21,11,23,65,16,15,16,95,22,12,20,47,19,14,15,25,22,16,21,76,12,10,18,38,21,10,27,11,57,11,8
+[Auction "E"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3S 
+Pass 4NT Pass 5D 
+Pass 5H Pass 6S 
+Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2:  * stayman [0:43]"]
+[Play "E"]
+C5 C2 C8 CA 
+S2 S5 S3 SA 
+S8 S6 D4 SK 
+C7 C3 C6 CQ 
+H2 HA H4 H9 
+C9 CK D2 D9 
+CJ C4 D7 SQ 
+H5 HK H6 HT 
+D3 CT DT DK 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "18"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:AKQJT4.QT9.K9.AQ 82.852.A653.J975 9765.AK3.8.KT432 3.J764.QJT742.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1460"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "cca7b7c96b1036210362"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 12
+N  H 10
+N  D  7
+N  C 11
+S NT  7
+S  S 12
+S  H  9
+S  D  6
+S  C 11
+E NT  1
+E  S  0
+E  H  3
+E  D  6
+E  C  2
+W NT  1
+W  S  0
+W  H  3
+W  D  6
+W  C  2
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 28,2,0,87,95,37,303,86,294,52,172,58,1226,30,395,59,343,28,214,50,53,33,20,148,26,17,32,28,10,33,38,17,37,32,38,36,15,23,23,30,25,26,48,34,24,24,25,18,16,37,43,68,21,42,29,27,11,22,10,31,12,107,11,56,9,9
+[Auction "E"]
+Pass Pass Pass 2NT =1= 
+Pass 3C =2= Pass 3S =3= 
+Pass 4NT Pass 5D =4= 
+Pass 5S Pass 6S 
+Pass Pass Pass 
+[Note "1: 20-22"]
+[Note "2: puppet st"]
+[Note "3: 5 Spades"]
+[Note "4: 0/3"]
+[Play "E"]
+H5 HA H4 H9 
+S2 S5 S3 SA 
+S8 S6 D4 SK 
+C5 C2 C6 CA 
+C7 C3 C8 CQ 
+H8 HK H7 HT 
+C9 CK D2 D9 
+CJ C4 D7 SQ 
+H2 H3 H6 HQ 
+D6 S9 DT S4 
+D3 CT DJ DK 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "19"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ5.K9.AK432.AK9 AK93.QJ32.75.642 T76.T8654.Q98.83 842.A7.JT6.QJT75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "878a6878a65653756537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D 10
+N  C  6
+S NT  8
+S  S  7
+S  H  8
+S  D 10
+S  C  6
+E NT  5
+E  S  6
+E  H  5
+E  D  3
+E  C  7
+W NT  5
+W  S  6
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,1,3,147,186,55,27,176,45,131,29,621,40,36,143,34,29,73,97,24,12,22,28,18,22,64,20,13,18,99,29,17,14,16,22,56,32,64,34,11,21,11,55,10,14
+[Auction "S"]
+Pass Pass 2NT Pass 
+3D Pass 3H Pass 
+Pass Pass 
+[Play "E"]
+SA S6 S2 S5 
+D7 DQ D6 D2 
+H2 H4 H7 HK 
+H3 H5 HA H9 
+SK S7 S8 SQ 
+HQ H6 S4 C9 
+HJ H8 C5 D3 
+S3 ST C7 SJ 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "19"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:QJ5.K9.AK432.AK9 AK93.QJ32.75.642 T76.T8654.Q98.83 842.A7.JT6.QJT75"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "878a6878a65653756537"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  7
+N  H  8
+N  D 10
+N  C  6
+S NT  8
+S  S  7
+S  H  8
+S  D 10
+S  C  6
+E NT  5
+E  S  6
+E  H  5
+E  D  3
+E  C  7
+W NT  5
+W  S  6
+W  H  5
+W  D  3
+W  C  7
+[OptimumScore "NS +130"]
+[Competition "Teams"]
+% RBDATA 12,2,0,107,48,185,56,758,51,135,235,344,75,55,39,66,37,231,148,34,23,164,27,12,23,15,60,34,20,46,48,46,15,32,33,14,37,193,50,33,53,19,48,28,31,114,55,18,24,19,33,61,25,46,29,17,12,9,32,24,10,19,21,9,16,8,8,15,58
+[Auction "S"]
+Pass Pass 2D =1= Pass 
+2H =2= Pass 2NT =3= Pass 
+3D =4= Pass 3H Pass 
+Pass Pass 
+[Note "1: multi"]
+[Note "2: P or correct"]
+[Note "3: 19-20 bal"]
+[Note "4: H"]
+[Play "W"]
+CQ CK C2 C3 
+D6 D2 D7 DQ 
+HA H9 H3 H4 
+CJ CA C4 C8 
+H7 HK H2 H5 
+S2 S5 SK S6 
+C5 C9 C6 H6 
+S4 D3 HJ HT 
+S8 D4 HQ H8 
+C7 SJ SA S7 
+CT SQ S3 ST 
+DT DK D5 D8 
+DJ DA S9 D9 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "20"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q72.32.QT632.K65 8.AKJ9.98754.A94 A43.T5.AKJ.QT872 KJT965.Q8764..J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "63187631876ab546ab54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  1
+N  D  8
+N  C  7
+S NT  6
+S  S  3
+S  H  1
+S  D  8
+S  C  7
+E NT  6
+E  S 10
+E  H 11
+E  D  5
+E  C  4
+W NT  6
+W  S 10
+W  H 11
+W  D  5
+W  C  4
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 8,1,3,184,72,32,213,235,272,17,41,62,201,45,20,72,20,103,67,636,44,22,48,70,28,23,53,39,37,45,45,73,30,23,17,26,23,18,28,39,38,21,12,28,30,26,12,14,9,14,11,18,26,14,12,14,29,13,8,16,12,21,9
+[Auction "W"]
+Pass Pass 1D 1NT 
+2S Pass Pass Pass 
+[Play "N"]
+H3 HA H5 H4 
+SQ S8 S3 S9 
+H2 H9 HT HQ 
+S2 D4 SA SK 
+CK CA C2 C3 
+D2 D5 DA S5 
+S7 D7 S4 SJ 
+D3 HK DJ H6 
+D6 HJ DK H7 
+DT D8 C7 S6 
+C5 D9 C8 H8 
+DQ C4 CT ST 
+C6 C9 CQ CJ 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "20"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:Q72.32.QT632.K65 8.AKJ9.98754.A94 A43.T5.AKJ.QT872 KJT965.Q8764..J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "63187631876ab546ab54"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  3
+N  H  1
+N  D  8
+N  C  7
+S NT  6
+S  S  3
+S  H  1
+S  D  8
+S  C  7
+E NT  6
+E  S 10
+E  H 11
+E  D  5
+E  C  4
+W NT  6
+W  S 10
+W  H 11
+W  D  5
+W  C  4
+[OptimumScore "NS -650"]
+[Competition "Teams"]
+% RBDATA 8,2,0,248,64,44,168,109,216,143,49,177,35,23,33,20,31,24,64,18,36,14,43,57,47,20,92,37,81,30,105,422,44,21,86,225,55,21,40,63,37,39,13,23,17,14,15,19,32,17,10,53,65,15,10,30,11,29,10
+[Auction "W"]
+2S =1= Pass Pass Pass 
+[Note "1: weak"]
+[Play "N"]
+D3 D7 DA S5 
+H3 HA H5 H6 
+SQ S8 S3 S6 
+D2 D8 DJ S9 
+S2 C4 SA ST 
+H2 HJ HT H4 
+D6 HK S4 H7 
+CK CA CT CJ 
+DT D4 DK SJ 
+S7 D5 C2 SK 
+C5 H9 C7 HQ 
+DQ D9 C8 H8 
+C6 C9 CQ C3 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "21"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K74.K3.Q854.K732 AJ2.AJ95.AJ9.QT4 T.8642.T632.J865 Q98653.QT7.K7.A9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "0013300033ddc99ddc99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  1
+N  D  3
+N  C  3
+S NT  0
+S  S  0
+S  H  0
+S  D  3
+S  C  3
+E NT 13
+E  S 13
+E  H 12
+E  D  9
+E  C  9
+W NT 13
+W  S 13
+W  H 12
+W  D  9
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 18,1,3,199,32,198,69,51,23,73,149,58,123,41,572,55,24,40,86,89,13,37,766,371,106,44,193,17,28,14,195,17,21,31,43,41,33,9,82,54,23,24,65,39,40,13,56,43,15,14,22,54,22,11
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 1NT Pass 2C 
+Pass 3S Pass 4C 
+Pass 4D Pass 4S 
+Pass Pass Pass 
+[Play "N"]
+C2 C4 C8 C9 
+S4 SJ ST S3 
+C3 CT C5 CA 
+SK SA C6 SQ 
+S7 S2 CJ S9 
+HK HA H4 HQ 
+H3 H5 H2 HT 
+D4 H9 H6 H7 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "21"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K74.K3.Q854.K732 AJ2.AJ95.AJ9.QT4 T.8642.T632.J865 Q98653.QT7.K7.A9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "13"]
+[Score "NS -510"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "0013300033ddc99ddc99"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  1
+N  D  3
+N  C  3
+S NT  0
+S  S  0
+S  H  0
+S  D  3
+S  C  3
+E NT 13
+E  S 13
+E  H 12
+E  D  9
+E  C  9
+W NT 13
+W  S 13
+W  H 12
+W  D  9
+W  C  9
+[OptimumScore "NS -1520"]
+[Competition "Teams"]
+% RBDATA 18,2,0,199,151,82,31,107,211,328,36,59,40,57,21,104,11,188,46,28,79,23,25,90,28,123,43,10,55,40,26,11,40,26,21,43,42,12,22,26,49,24,22,20,30,24,25,17
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 1NT =1= Pass 3S 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: 15 17"]
+[Play "N"]
+S4 S2 ST SQ 
+S7 SJ C6 S5 
+SK SA D6 S6 
+D5 D9 D2 DK 
+H3 H5 H2 HT 
+HK HA H4 HQ 
+C3 HJ H6 H7 
+C2 H9 H8 C9 
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "22"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q972.A82.K.AQ432 J853.KT63.JT84.5 KT.QJ9754.53.K86 A64..AQ9762.JT97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "6682966829774b4774a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  2
+N  C  9
+S NT  6
+S  S  6
+S  H  8
+S  D  2
+S  C  9
+E NT  7
+E  S  7
+E  H  4
+E  D 11
+E  C  4
+W NT  7
+W  S  7
+W  H  4
+W  D 10
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,1,3,44,165,164,226,49,115,181,288,21,39,19,50,64,25,9,37,20,17,30,27,164,309,32,16,155,31,240,482,68,14,19,12,182,33,18,56,65,20,45,110
+[Auction "E"]
+Pass 1H 2D 3D 
+X 3H Pass 4H 
+Pass Pass Pass 
+[Play "W"]
+DA DK D4 D5 
+CJ C2 C5 CK 
+D6 H2 HK HQ 
+D2 HA DJ D3 
+C7 CA H3 C6 
+SA S2 S3 ST 
+CT CQ H6 C8 
+-  -  HT -  
+*
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "22"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:Q972.A82.K.AQ432 J853.KT63.JT84.5 KT.QJ9754.53.K86 A64..AQ9762.JT97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "6682966829774b4774a4"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  8
+N  D  2
+N  C  9
+S NT  6
+S  S  6
+S  H  8
+S  D  2
+S  C  9
+E NT  7
+E  S  7
+E  H  4
+E  D 11
+E  C  4
+W NT  7
+W  S  7
+W  H  4
+W  D 10
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 17,2,0,80,377,134,340,50,550,291,162,101,71,23,26,52,86,21,116,32,55,41,146,35,39,26,193,50,193,36,74,104,33,30,20,17,25,40,15,70,50,11,57,26,14,11,26,17,13,24,125,23,29,17,30,22,15,27,89,17,9,10,9,19,9,8
+[Auction "E"]
+Pass 2D =1= Pass 2NT =2= 
+Pass 3C =3= 3D 4H 
+Pass Pass Pass 
+[Note "1: wk M, st m or 19 20"]
+[Note "2: strong asking bid"]
+[Note "3: wk 6cd H"]
+[Play "E"]
+DJ D3 DA DK 
+D4 D5 D2 H2 
+H3 H4 D6 HA 
+H6 H9 D7 H8 
+HK HJ S4 S2 
+DT H5 D9 S7 
+HT HQ DQ S9 
+C5 CK C7 C2 
+D8 C8 C9 CQ 
+S3 C6 CT CA 
+S5 ST SA SQ 
+S8 H7 CJ C3 
+SJ SK S6 C4 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "23"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T3.KT.AJ7543.Q85 K75.A754.T8.AJ92 AQ96.QJ98.KQ6.K6 J842.632.92.T743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "b9bb8b9bb82422524225"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 11
+N  D 11
+N  C  8
+S NT 11
+S  S  9
+S  H 11
+S  D 11
+S  C  8
+E NT  2
+E  S  4
+E  H  2
+E  D  2
+E  C  5
+W NT  2
+W  S  4
+W  H  2
+W  D  2
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,1,3,448,35,176,31,31,24,100,127,17,38,132,25,31,16,18,113,25,129,95,36,8,9,17,12,9,7,10,36,18,24,48,19,34,18,40,69,37,49,18,31,10,80,13,16,22,15,14,15,10,5,13,13,11,6,11,13,11,6
+[Auction "S"]
+1NT Pass 3NT Pass 
+Pass Pass 
+[Play "W"]
+S2 S3 SK SA 
+H2 HK HA H8 
+S4 ST S7 SQ 
+D2 D3 D8 DK 
+D9 D4 DT DQ 
+H6 DA C9 D6 
+H3 DJ S5 S9 
+S8 D7 H4 C6 
+C3 D5 H5 CK 
+C4 HT H7 HQ 
+C7 C5 C2 HJ 
+CT C8 CJ H9 
+SJ CQ CA S6 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "23"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:T3.KT.AJ7543.Q85 K75.A754.T8.AJ92 AQ96.QJ98.KQ6.K6 J842.632.92.T743"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "b9bb8b9bb82422524225"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S  9
+N  H 11
+N  D 11
+N  C  8
+S NT 11
+S  S  9
+S  H 11
+S  D 11
+S  C  8
+E NT  2
+E  S  4
+E  H  2
+E  D  2
+E  C  5
+W NT  2
+W  S  4
+W  H  2
+W  D  2
+W  C  5
+[OptimumScore "NS +660"]
+[Competition "Teams"]
+% RBDATA 14,2,0,519,40,112,82,399,39,40,121,53,238,23,46,429,32,43,41,16,49,28,14,44,23,15,34,36,20,16,28,27,41,16,55,52,37,19,19,38,16,33,26,15,9,35,54,14,12,14,77,12,50,10,9,15,31,13,8,22,22,12,8
+[Auction "S"]
+1H Pass 2D Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S2 ST SK SA 
+H2 HK HA H8 
+S4 S3 S7 SQ 
+D2 D3 DT DK 
+D9 D4 D8 DQ 
+H3 DA CJ D6 
+C3 DJ H4 C6 
+C4 D7 H5 CK 
+H6 D5 H7 S6 
+C7 HT C2 HQ 
+S8 C5 C9 HJ 
+CT C8 S5 H9 
+SJ CQ CA S9 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "24"]
+[West "liz hayton#410498"]
+[North "Andy Hall#"]
+[East "Alan Scott#024026"]
+[South "Rune Hauge#112693"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q.J8732.A987.J54 J5.Q954.QJ.AKT62 AK642.AK6.K5.Q98 T9873.T.T6432.73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "98988989883435534355"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  3
+E  S  4
+E  H  3
+E  D  5
+E  C  5
+W NT  3
+W  S  4
+W  H  3
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 17,1,3,54,51,253,75,295,438,28,120,31,49,22,19,353,26,23,114,180,16,11,70,25,32,29,65,47,19,15,43,28,11,14,393,20,11,55,304,26,12,10,241,16,11,10,48,21,15,45,23,293,35,23,26,19,45,17,12,75,22,9,6,16,10,9
+[Auction "W"]
+Pass Pass 1NT =1= X 
+2C =2= 2H Pass 4H 
+Pass Pass Pass 
+[Note "1: 12-14"]
+[Note "2: Alerted"]
+[Play "E"]
+CA C8 C7 C5 
+CK C9 C3 C4 
+C6 CQ HT CJ 
+DJ D5 D6 DA 
+S5 S2 S3 SQ 
+H4 HA D4 H2 
+SJ SA S7 D7 
+DQ DK D2 D8 
+H5 SK S8 D9 
+CT S4 S9 H3 
+H9 HK D3 H7 
+HQ H6 ST H8 
+C2 S6 DT HJ 
+
+[Event "9 Apr NICKO Plumley vs Coleman"]
+[Site "RealBridge"]
+[Date "2024.04.09"]
+[Board "24"]
+[West "Susie Farnon#26278"]
+[North "John Coleman#415553"]
+[East "Robert Plumley#33074"]
+[South "Marilyn Murtagh#310071"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:Q.J8732.A987.J54 J5.Q954.QJ.AKT62 AK642.AK6.K5.Q98 T9873.T.T6432.73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Coleman team"]
+[VisitTeam "Plumley team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "98988989883435534355"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S  8
+N  H  9
+N  D  8
+N  C  8
+S NT  9
+S  S  8
+S  H  9
+S  D  8
+S  C  8
+E NT  3
+E  S  4
+E  H  3
+E  D  5
+E  C  5
+W NT  3
+W  S  4
+W  H  3
+W  D  5
+W  C  5
+[OptimumScore "NS +400"]
+[Competition "Teams"]
+% RBDATA 14,2,0,45,187,96,142,375,91,77,192,27,442,44,157,36,34,25,222,190,38,47,81,28,155,17,509,30,16,36,29,35,22,36,64,59,376,40,276,30,64,102,40,48,61,25,33,58,16,142,72,47,16,39,20,36,41,12,17,25,13,34,20,31,30,21,50,22,11,9
+[Auction "W"]
+Pass Pass 1NT =1= X 
+2H =2= X 2S Pass 
+Pass 3D Pass 3NT 
+Pass Pass Pass 
+[Note "1: 12 14"]
+[Note "2: transfer"]
+[Play "W"]
+D3 D7 DQ DK 
+HT H2 H4 HA 
+S3 SQ S5 S2 
+C3 H3 H5 HK 
+S7 D8 SJ SA 
+S8 C4 C6 SK 
+D2 H7 H9 H6 
+D4 DA DJ D5 
+C7 H8 HQ S4 
+S9 C5 CA C8 
+D6 CJ CK C9 
+DT D9 C2 CQ 
+ST HJ CT S6 

@@ -1,0 +1,4023 @@
+% PBN 2.1
+% Content-type: text/x-pbn; charset=UTF-8
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "1"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:94.A87.QJ87.AJ95 J32.KT53.AK2.T74 T75.Q64.T64.Q863 AKQ86.J92.953.K2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 4 EW -4"]
+[DoubleDummyTricks "54578545788885588855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  8
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  8
+E NT  8
+E  S  8
+E  H  8
+E  D  5
+E  C  5
+W NT  8
+W  S  8
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 13,2,1,160,277,74,266,51,120,38,46,28,304,44,140,34,28,142,25,30,78,24,20,12,44,23,28,13,58,96,166,27,82,53,28,22,36,143,46,32,24,46,15,23,38,19,13,11,23,23,17,9,29,15,21,19,12,21,14,70
+[Auction "N"]
+1NT =1= Pass Pass 2D =2= 
+Pass 2H =3= Pass 2S 
+Pass 3S Pass Pass 
+Pass 
+[Note "1:  * 12-14 [0:26]"]
+[Note "2: single suited major"]
+[Note "3:  * pass or convert [0:21]"]
+[Play "N"]
+DQ DA D6 D5 
+S4 SJ S5 S6 
+S9 S2 S7 SA 
+D7 S3 ST SK 
+HA H3 H4 H9 
+H8 H5 HQ H2 
+D8 DK D4 D3 
+H7 HK H6 HJ 
+C5 HT DT D9 
+CA C4 C3 CK 
+DJ D2 C6 C2 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "1"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:94.A87.QJ87.AJ95 J32.KT53.AK2.T74 T75.Q64.T64.Q863 AKQ86.J92.953.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "5"]
+[Score "NS -300"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -4 EW 4"]
+[DoubleDummyTricks "54578545788885588855"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  4
+N  H  5
+N  D  7
+N  C  8
+S NT  5
+S  S  4
+S  H  5
+S  D  7
+S  C  8
+E NT  8
+E  S  8
+E  H  8
+E  D  5
+E  C  5
+W NT  8
+W  S  8
+W  H  8
+W  D  5
+W  C  5
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 4,0,3,494,92,306,495,62,150,33,37,366,22,40,106,33,38,34,74,26,25,21,40,60,11,51,43,44,17,124,26,22,11,35,854,31,36,12,37,49,10,55,337,62,14,42,52,145,30,19,32,29
+[Auction "N"]
+1NT =1= Pass Pass X 
+Pass Pass Pass 
+[Note "1: 11-14"]
+[Play "E"]
+DA D4 D3 D7 
+S2 S5 SQ S4 
+S3 S7 SA S9 
+SJ ST SK C5 
+HT C3 S8 H7 
+D2 C6 S6 H8 
+H3 H4 H2 HA 
+DK D6 D9 DQ 
+HK H6 H9 C9 
+CT CQ CK CA 
+H5 -  -  D8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "2"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q976432.A53.4.K6 JT.Q.KJT.AQJ9853 8.K98742.Q9875.7 AK5.JT6.A632.T42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "1784117841b659cb659c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  8
+N  D  4
+N  C  1
+S NT  1
+S  S  7
+S  H  8
+S  D  4
+S  C  1
+E NT 11
+E  S  6
+E  H  5
+E  D  9
+E  C 12
+W NT 11
+W  S  6
+W  H  5
+W  D  9
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 14,2,1,94,124,62,92,130,131,139,42,19,45,331,234,29,54,398,29,22,10,28,35,33,22,75,11,25,43,41,32,21,6,29,28,25,9,47,20,47,11,39,22,46,11,29,18,36,9,54,34,21,7,35,6,24,35,39,8,36,18,16,18,8,6
+[Auction "E"]
+1C Pass 1D 1S 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "N"]
+S6 ST S8 S5 
+D4 DT D7 DA 
+C6 C3 C7 CT 
+CK CA D5 C2 
+S2 CQ H4 C4 
+S3 CJ H2 D3 
+S4 C9 D8 D6 
+S7 C8 H7 H6 
+S9 C5 H8 HJ 
+SQ SJ H9 SA 
+H3 HQ HK SK 
+H5 DK D9 D2 
+HA DJ DQ HT 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "2"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:Q976432.A53.4.K6 JT.Q.KJT.AQJ9853 8.K98742.Q9875.7 AK5.JT6.A632.T42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "1784117841b659cb659c"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  7
+N  H  8
+N  D  4
+N  C  1
+S NT  1
+S  S  7
+S  H  8
+S  D  4
+S  C  1
+E NT 11
+E  S  6
+E  H  5
+E  D  9
+E  C 12
+W NT 11
+W  S  6
+W  H  5
+W  D  9
+W  C 12
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 21,0,3,141,147,497,166,541,86,56,302,93,82,60,40,39,35,22,58,559,39,25,19,74,38,137,10,410,350,38,22,395,24,41,263,280,60,22,43,46,90,21,8,115
+[Auction "E"]
+1C 1H 2D 2S 
+5D Pass Pass Pass 
+[Play "N"]
+HA HQ H9 H6 
+S6 ST S8 S5 
+D4 DT D5 D2 
+S4 DK D7 D3 
+S2 SJ C7 SK 
+C6 CQ D8 C2 
+H3 DJ HK HT 
+CK CA D9 C4 
+-  -  H8 -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "3"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:763.T96.764.J652 AKQ8.A43.QJ52.AK JT542.QJ72.T98.4 9.K85.AK3.QT9873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -1440"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -17 EW 17"]
+[DoubleDummyTricks "1220112201cbbdccbbdc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  2
+N  D  0
+N  C  1
+S NT  1
+S  S  2
+S  H  2
+S  D  0
+S  C  1
+E NT 12
+E  S 11
+E  H 11
+E  D 13
+E  C 12
+W NT 12
+W  S 11
+W  H 11
+W  D 13
+W  C 12
+[OptimumScore "NS -2140"]
+[Competition "Teams"]
+% RBDATA 29,2,1,64,80,42,88,35,89,40,32,43,334,49,337,57,51,21,36,285,32,23,35,24,19,9,29,29,34,11,116,125,28,12,63,18,28,65,232,45,10,62
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2D 
+Pass 2NT Pass 6NT 
+Pass Pass Pass 
+[Play "N"]
+HT HA H2 H5 
+C2 CK C4 C3 
+C5 CA S2 C7 
+D4 D2 D8 DA 
+C6 H3 D9 CQ 
+CJ S8 DT CT 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "3"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:763.T96.764.J652 AKQ8.A43.QJ52.AK JT542.QJ72.T98.4 9.K85.AK3.QT9873"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "7C"]
+[Result "12"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 17 EW -17"]
+[DoubleDummyTricks "1220112201cbbdccbbdc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  1
+N  S  2
+N  H  2
+N  D  0
+N  C  1
+S NT  1
+S  S  2
+S  H  2
+S  D  0
+S  C  1
+E NT 12
+E  S 11
+E  H 11
+E  D 13
+E  C 12
+W NT 12
+W  S 11
+W  H 11
+W  D 13
+W  C 12
+[OptimumScore "NS -2140"]
+[Competition "Teams"]
+% RBDATA 30,0,3,125,49,43,92,214,56,82,248,121,312,56,46,66,589,91,30,73,135,198,62,56,492,40,21,55,24,46,27,41,183,56,13,24,213,115,23,19
+[Auction "S"]
+Pass 1C Pass 1D 
+X 2C Pass 4NT =1= 
+Pass 5C Pass 5D =2= 
+Pass 7C Pass Pass 
+Pass 
+[Note "1:  * 14/30 [0:08]"]
+[Note "2:  * Q ask [0:06]"]
+[Play "N"]
+D6 D2 D8 DK 
+S7 SA S4 S9 
+S3 S8 ST C7 
+C2 CK C4 C3 
+C5 CA S5 C8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "4"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K943.T.K64.AQT73 T76.K95.T9832.K4 85.Q743.QJ7.J952 AQJ2.AJ862.A5.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -2 EW 2"]
+[DoubleDummyTricks "443494434989a8489a94"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  9
+S NT  4
+S  S  4
+S  H  3
+S  D  4
+S  C  9
+E NT  8
+E  S  9
+E  H 10
+E  D  8
+E  C  4
+W NT  8
+W  S  9
+W  H 10
+W  D  9
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 7,2,1,115,66,239,43,157,52,85,135,31,57,285,60,28,36,126,35,44,17,50,38,25,36,86,37,53,32,31,158,22,33,53,93,32,39
+[Auction "W"]
+1H X 2H =1= Pass 
+Pass Pass 
+[Note "1: 5-8 3 card suppport"]
+[Play "N"]
+HT H5 H3 HJ 
+C3 HK H4 H2 
+S4 H9 H7 H6 
+SK ST S8 S2 
+D4 D2 D7 DA 
+S3 D3 HQ HA 
+C7 CK C2 C6 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "4"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:K943.T.K64.AQT73 T76.K95.T9832.K4 85.Q743.QJ7.J952 AQJ2.AJ862.A5.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 2 EW -2"]
+[DoubleDummyTricks "443494434989a8489a94"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  4
+N  H  3
+N  D  4
+N  C  9
+S NT  4
+S  S  4
+S  H  3
+S  D  4
+S  C  9
+E NT  8
+E  S  9
+E  H 10
+E  D  8
+E  C  4
+W NT  8
+W  S  9
+W  H 10
+W  D  9
+W  C  4
+[OptimumScore "NS -500"]
+[Competition "Teams"]
+% RBDATA 15,0,3,142,103,133,272,161,432,49,627,70,81,33,23,65,140,33,505,73,18,9,61,27,19,21,25,22,9,35,370,26,18,20,19,17,40,23,17,19,14,9,85,17,35,8
+[Auction "W"]
+1H X 2H Pass 
+Pass 3C Pass 4C 
+Pass Pass Pass 
+[Play "E"]
+H5 H3 HJ HT 
+D2 D7 DA DK 
+S6 S5 SA S4 
+S7 S8 SQ SK 
+ST C2 S2 S3 
+CK C9 C6 C3 
+D3 DJ D5 D4 
+C4 C5 C8 CT 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "5"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K53.2.J52.KQJ765 QT8.AKT5.AK6.A93 974.J8764.Q43.82 AJ62.Q93.T987.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "32326323269a9a69a9a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  2
+N  C  6
+S NT  3
+S  S  2
+S  H  3
+S  D  2
+S  C  6
+E NT  9
+E  S 10
+E  H  9
+E  D 10
+E  C  6
+W NT  9
+W  S 10
+W  H  9
+W  D 10
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,2,1,159,73,106,114,53,46,167,188,31,15,30,48,93,13,31,14,60,14,18,19,35,11,14,19,250,29,10,49,12,30,10,30,34,15,48,12,45,8,24,10,29,10,69,24,28,9,8,11,14,30,46,9,7,13,23,9,24,8,7,9,21,6,6
+[Auction "N"]
+1C X Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass 
+[Play "S"]
+H6 H3 H2 HT 
+S4 S2 S3 SQ 
+S7 S6 SK ST 
+C8 C4 CK C3 
+C2 CT CQ CA 
+H4 HQ C6 H5 
+H7 H9 C5 HA 
+H8 D7 D2 HK 
+S9 SJ S5 S8 
+HJ SA D5 C9 
+D3 D8 DJ DA 
+D4 D9 C7 DK 
+DQ DT CJ D6 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "5"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K53.2.J52.KQJ765 QT8.AKT5.AK6.A93 974.J8764.Q43.82 AJ62.Q93.T987.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "32326323269a9a69a9a6"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  2
+N  C  6
+S NT  3
+S  S  2
+S  H  3
+S  D  2
+S  C  6
+E NT  9
+E  S 10
+E  H  9
+E  D 10
+E  C  6
+W NT  9
+W  S 10
+W  H  9
+W  D 10
+W  C  6
+[OptimumScore "NS -420"]
+[Competition "Teams"]
+% RBDATA 14,0,3,167,73,52,263,66,96,50,171,59,25,44,25,60,606,136,23,7,42,19,32,10,120,20,213,40,199,38,11,38,10,61,33,43,418,45,8,14,14,37,18,19,21,32,36,7,21,8,71,7,13,17,143,7
+[Auction "N"]
+Pass 2NT =1= Pass 3C =2= 
+X 3D =3= Pass 3H =4= 
+Pass 3NT =5= Pass Pass 
+Pass 
+[Note "1:  * 20-22 [0:07]"]
+[Note "2: Stayman"]
+[Note "3:  * no 5cm. have a club stop [0:18]"]
+[Note "4: Denies 4H"]
+[Note "5:  * not 4S [0:12]"]
+[Play "S"]
+C8 C4 CJ C3 
+C2 CT CK C9 
+H7 H3 CQ CA 
+H4 HQ H2 H5 
+H6 H9 S3 HA 
+D4 D7 D5 DA 
+S7 S2 SK SQ 
+S4 D8 C7 D6 
+S9 S6 C5 HT 
+H8 D9 C6 S8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "6"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT953.AQ8.54.A97 A2.J542.AQJ87.J5 J764.KT97..QT842 Q8.63.KT9632.K63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "6b85b6b85b7248272482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  8
+N  D  5
+N  C 11
+S NT  6
+S  S 11
+S  H  8
+S  D  5
+S  C 11
+E NT  7
+E  S  2
+E  H  4
+E  D  8
+E  C  2
+W NT  7
+W  S  2
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 14,2,1,237,62,349,76,341,69,392,62,16,39,25,149,49,19,193,156,38,8,28,74,51,30,92,41,17,20,114,18,62,120,108,34,22,14,103,31,31,14,22,19,51,20,33,17,35,15,13,19,39,10,13,25,8,11,28,15,38,6,9,34,8,5
+[Auction "E"]
+1NT =1= Pass 2NT =2= Pass 
+3C =3= Pass 3NT Pass 
+Pass Pass 
+[Note "1: 12-14"]
+[Note "2: diamonds"]
+[Note "3: likes"]
+[Play "S"]
+C4 C3 C9 CJ 
+C2 D2 D5 DQ 
+S4 D3 D4 DJ 
+S6 DT S3 D7 
+H7 D6 S5 DA 
+C8 CK CA C5 
+CT C6 C7 H4 
+CQ H3 H8 H2 
+H9 H6 HA H5 
+HK S8 HQ HJ 
+HT D9 S9 S2 
+S7 SQ SK SA 
+SJ DK ST D8 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "6"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KT953.AQ8.54.A97 A2.J542.AQJ87.J5 J764.KT97..QT842 Q8.63.KT9632.K63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "6b85b6b85b7248272482"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S 11
+N  H  8
+N  D  5
+N  C 11
+S NT  6
+S  S 11
+S  H  8
+S  D  5
+S  C 11
+E NT  7
+E  S  2
+E  H  4
+E  D  8
+E  C  2
+W NT  7
+W  S  2
+W  H  4
+W  D  8
+W  C  2
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 21,0,3,79,58,155,168,119,195,483,439,45,52,21,55,564,37,31,55,34,29,132,150,80,51,14,242,51,32,112,190,35,10,11,322,29,53,50,541,30,17,67,61,42,39,142,80,17,21,308,63,39,26,26,15,15,21,9
+[Auction "E"]
+1C Pass 2D =1= 2S 
+4D 4S 5D X 
+Pass Pass Pass 
+[Note "1: Weak"]
+[Play "N"]
+S5 S2 SJ SQ 
+D4 DJ S7 D2 
+D5 DA S6 D3 
+H8 H2 H7 H3 
+HA H4 H9 H6 
+HQ H5 HT DT 
+S3 DQ C2 D9 
+C7 HJ HK DK 
+S9 D7 C4 D6 
+CA C5 CT CK 
+C9 CJ CQ C3 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "7"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ43.T82.K9532.A A865.AQJ9.Q8.J85 J97.K653.T4.9643 T2.74.AJ76.KQT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS -110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "46463464638676987769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  6
+S  H  4
+S  D  6
+S  C  3
+E NT  8
+E  S  6
+E  H  7
+E  D  6
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 5,2,1,55,50,69,37,51,168,63,37,45,119,229,59,23,57,27,22,27,71,31,28,24,50,37,23,59,165,30,24,30,18,120,45,51,159,22,21,24,110,47,21,13,95,28,23,14,21,36,20,23
+[Auction "S"]
+Pass Pass 1D X 
+Pass 2C Pass Pass 
+Pass 
+[Play "N"]
+SK SA S9 S2 
+CA C5 C3 CK 
+SQ S5 S7 ST 
+S3 S6 SJ C2 
+H2 HQ HK H4 
+DK D8 DT D6 
+D3 DQ D4 D7 
+D2 CJ C4 C7 
+S4 C8 C6 CT 
+H8 S8 C9 CQ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "7"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:KQ43.T82.K9532.A A865.AQJ9.Q8.J85 J97.K653.T4.9643 T2.74.AJ76.KQT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "46463464638676987769"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  4
+N  S  6
+N  H  4
+N  D  6
+N  C  3
+S NT  4
+S  S  6
+S  H  4
+S  D  6
+S  C  3
+E NT  8
+E  S  6
+E  H  7
+E  D  6
+E  C  9
+W NT  8
+W  S  7
+W  H  7
+W  D  6
+W  C  9
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 10,0,3,153,34,68,24,68,129,130,259,46,170,292,42,63,161,24,29,24,173,29,20,52,261,33,22,30,22,43,11,10,22,28,15,15,54,35,35,55,36,28,623,283,95,504,28,35,15,27,16,50,39
+[Auction "S"]
+Pass Pass 1D X 
+Pass 3C Pass Pass 
+Pass 
+[Play "N"]
+D3 DQ D4 D6 
+D2 D8 DT DA 
+H8 HJ HK H4 
+SQ SA S7 S2 
+H2 HA H3 H7 
+HT HQ H5 ST 
+S3 S5 S9 C2 
+D5 CJ SJ D7 
+S4 S6 H6 C7 
+DK C8 C9 DJ 
+-  -  C3 -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "8"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:.KJ854.AK943.Q52 AKQJ95..7.AJT943 873.Q92.JT82.K86 T642.AT763.Q65.7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -480"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "50883508828c5398c53a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  0
+N  H  8
+N  D  8
+N  C  3
+S NT  5
+S  S  0
+S  H  8
+S  D  8
+S  C  2
+E NT  8
+E  S 12
+E  H  5
+E  D  3
+E  C  9
+W NT  8
+W  S 12
+W  H  5
+W  D  3
+W  C 10
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 23,2,1,99,44,478,146,218,164,87,321,173,55,235,234,408,38,33,58,32,99,40,13,142,95,36,24,55,32,22,35,23,27,24,12,115,28,25,28,30,25,194,19,39,17
+[Auction "W"]
+Pass 1H 2H =1= 3H 
+3S 4D 4H Pass 
+4S Pass 5D Pass 
+5S Pass Pass Pass 
+[Note "1: ♠ and minor"]
+[Play "N"]
+DK D7 D8 D6 
+H5 C3 HQ HA 
+C2 CA C6 C7 
+C5 C4 C8 S4 
+H4 S5 H9 H3 
+CQ C9 CK ST 
+D3 -  -  S2 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "8"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:.KJ854.AK943.Q52 AKQJ95..7.AJT943 873.Q92.JT82.K86 T642.AT763.Q65.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS -1010"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "50883508828c5398c53a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  0
+N  H  8
+N  D  8
+N  C  3
+S NT  5
+S  S  0
+S  H  8
+S  D  8
+S  C  2
+E NT  8
+E  S 12
+E  H  5
+E  D  3
+E  C  9
+W NT  8
+W  S 12
+W  H  5
+W  D  3
+W  C 10
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 28,0,3,67,92,100,125,274,248,427,215,77,52,314,58,83,17,861,31,48,32,531,52,13,7,156,41,15,17,37,34,15,57,28,33,21,12,18
+[Auction "W"]
+Pass 1H 1S Pass 
+3S 4D 6S Pass 
+Pass Pass 
+[Play "S"]
+H2 HA H5 D7 
+C6 C7 C5 CA 
+S3 S2 D3 SA 
+C8 S4 C2 C3 
+D2 D5 DK S5 
+CK S6 CQ C4 
+-  ST -  -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "9"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ765.A743.K4.AJ J.JT96.983.T7432 A9832.Q2.AQ52.K6 T4.K85.JT76.Q985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 14 EW -14"]
+[DoubleDummyTricks "bc9b8cc9b81132511325"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  9
+N  D 11
+N  C  8
+S NT 12
+S  S 12
+S  H  9
+S  D 11
+S  C  8
+E NT  1
+E  S  1
+E  H  3
+E  D  2
+E  C  5
+W NT  1
+W  S  1
+W  H  3
+W  D  2
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 28,2,1,100,36,214,77,364,55,620,71,347,33,61,49,51,22,497,60,550,22,72,31,703,231,48,14,106,24,10,21,67,169,8,23
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3D =2= Pass 4D Pass 
+4H Pass 4S Pass 
+4NT Pass 5S =3= Pass 
+6S Pass Pass Pass 
+[Note "1: jacoby"]
+[Note "2: Not min, no shortage"]
+[Note "3: 2of 5 plus trump q"]
+[Play "E"]
+HJ HQ HK HA 
+SJ S2 S4 SK 
+C2 SA ST S5 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "9"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ765.A743.K4.AJ J.JT96.983.T7432 A9832.Q2.AQ52.K6 T4.K85.JT76.Q985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "12"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -14 EW 14"]
+[DoubleDummyTricks "bc9b8cc9b81132511325"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H  9
+N  D 11
+N  C  8
+S NT 12
+S  S 12
+S  H  9
+S  D 11
+S  C  8
+E NT  1
+E  S  1
+E  H  3
+E  D  2
+E  C  5
+W NT  1
+W  S  1
+W  H  3
+W  D  2
+W  C  5
+[OptimumScore "NS +990"]
+[Competition "Teams"]
+% RBDATA 33,0,3,186,58,215,43,295,54,619,58,168,103,555,55,317,52,579,51,414,56,2338,53,79,109,95,739,63,33,41,41,9,18,75,25,19,36
+[Auction "N"]
+1S Pass 2NT =1= Pass 
+3D =2= Pass 4C Pass 
+4D Pass 4NT Pass 
+5D =3= Pass 5S Pass 
+6D =4= Pass 7S Pass 
+Pass Pass 
+[Note "1: Jackoby"]
+[Note "2: 15+hcp no singleton"]
+[Note "3: 0 or 3"]
+[Note "4: 3 and ♢K"]
+[Play "E"]
+HJ HQ HK HA 
+SJ S2 S4 SK 
+HT SA ST S5 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "10"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ862.A32.A5.J74 K973.K98.J742.A2 T4.Q4.KQ986.Q963 J5.JT765.T3.KT85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "78698775985575555745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  8
+S NT  7
+S  S  7
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 14,2,1,69,68,64,43,27,49,47,81,20,84,44,26,45,227,211,46,106,423,21,79,32,13,81,13,12,56,161,9,43,173,27,36,12,744,30,11,31,19,27,30,21,792,29,117,14,20,143,19,20,9,123,21,61,419,37,30
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 2D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass 
+[Play "E"]
+D4 D8 DT DA 
+D7 DK D3 D5 
+D2 DQ H5 S2 
+DJ D6 H6 S6 
+H8 HQ H7 H2 
+S7 D9 S5 S8 
+SK S4 SJ SQ 
+S3 ST C5 SA 
+CA C3 C8 C4 
+S9 C6 HJ H3 
+C2 C9 CK -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "10"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ862.A32.A5.J74 K973.K98.J742.A2 T4.Q4.KQ986.Q963 J5.JT765.T3.KT85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "78698775985575555745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  8
+N  H  6
+N  D  9
+N  C  8
+S NT  7
+S  S  7
+S  H  5
+S  D  9
+S  C  8
+E NT  5
+E  S  5
+E  H  7
+E  D  5
+E  C  5
+W NT  5
+W  S  5
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 4,0,3,52,42,43,134,72,193,76,143,71,115,283,41,56,11,53,47,48,434,38,43,25,20,67,27,30,560,48,12,14,51,16,25,19,234,34,14,10,710,40,27,49,938,39,58,50,28,102,11,25,32,71,10,94,25,42,4,15,4,24,7,9
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass Pass 
+Pass 
+[Play "W"]
+HJ H2 HK H4 
+H5 H3 H9 HQ 
+S5 SQ SK S4 
+H6 HA H8 C3 
+D3 DA D4 D6 
+DT D5 D2 DK 
+C8 S2 D7 DQ 
+C5 C4 DJ D8 
+CK C7 C2 C6 
+HT S6 S3 ST 
+H7 S8 S7 D9 
+CT CJ CA C9 
+SJ SA S9 CQ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "11"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A987.T.QT86.A854 KQJ532.Q8.95.J63 64.J732.AK43.QT7 T.AK9654.J72.K92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "66698666987774577745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  9
+N  C  8
+S NT  6
+S  S  6
+S  H  6
+S  D  9
+S  C  8
+E NT  7
+E  S  7
+E  H  7
+E  D  4
+E  C  5
+W NT  7
+W  S  7
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 11,2,1,82,64,68,402,317,121,56,84,97,62,31,62,215,55,11,28,96,291,26,23,20,21,24,97,132,36,14,36,332,39,36,20,19,24,27,15,307,35,26,11,475,17,24,18,188,50,18,8,42,12,116,29,21,7,22,16,27,21,13,7,25,17,8,11
+[Auction "S"]
+Pass 1H X XX =1= 
+1NT 2H Pass Pass 
+3D Pass Pass Pass 
+[Note "1: ♠5+ 5-9 "]
+[Play "W"]
+HK HT H8 H2 
+ST SA S5 S6 
+CK C4 C3 CT 
+C9 C5 C6 CQ 
+D2 DQ D5 D3 
+D7 D6 D9 DA 
+C2 CA CJ C7 
+DJ D8 S3 DK 
+H4 DT HQ H3 
+H5 C8 S2 S4 
+H6 S7 SJ D4 
+H9 S8 SQ H7 
+HA S9 SK HJ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "11"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:A987.T.QT86.A854 KQJ532.Q8.95.J63 64.J732.AK43.QT7 T.AK9654.J72.K92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "66698666987774577745"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  9
+N  C  8
+S NT  6
+S  S  6
+S  H  6
+S  D  9
+S  C  8
+E NT  7
+E  S  7
+E  H  7
+E  D  4
+E  C  5
+W NT  7
+W  S  7
+W  H  7
+W  D  4
+W  C  5
+[OptimumScore "NS +110"]
+[Competition "Teams"]
+% RBDATA 12,0,3,90,72,101,493,199,63,143,57,536,54,53,97,75,118,22,305,46,15,9,33,219,55,27,34,62,27,45,273,35,19,18,16,19,14,17,113,42,24,53,88,34,20,48,13,20,8,22,17,28,18,29,10,29,10,4,19,15,12,9,8,9,8,3
+[Auction "S"]
+Pass 1H X 1S 
+2D 2H 3D 3H 
+Pass Pass Pass 
+[Play "N"]
+D6 D5 DK D2 
+D8 D9 DA D7 
+CA C3 C7 C2 
+C4 C6 CT CK 
+SA S2 S4 ST 
+C5 CJ CQ C9 
+DQ H8 D3 DJ 
+S7 SK S6 H4 
+HT HQ H2 H5 
+S8 SQ D4 H6 
+S9 S3 H3 HA 
+DT S5 H7 HK 
+C8 SJ HJ H9 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "12"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T97.42.AKJ32.AJT AKJ2.A973.QT8.74 Q8653.KQT.75.K96 4.J865.964.Q8532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "9a6889a6883364533645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D  8
+N  C  8
+S NT  9
+S  S 10
+S  H  6
+S  D  8
+S  C  8
+E NT  3
+E  S  3
+E  H  6
+E  D  4
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 11,2,1,72,149,125,296,110,116,22,132,93,97,36,129,70,183,470,52,11,338,43,60,15,10,15,40,15,9,29,23,11,46,59,13,28,75,23,7,28,11,24,8,15,11,26,27,20,15,39,34,19,29,19,33,31
+[Auction "W"]
+Pass 1NT =1= 2C =2= X 
+2H Pass Pass X 
+Pass 3D Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Note "2: ♠♡"]
+[Play "E"]
+SK S3 S4 S9 
+HA HT HJ H2 
+SA S5 H5 S7 
+S2 S6 D6 ST 
+C7 C6 C3 CT 
+D8 D5 D4 DA 
+H3 HQ H8 H4 
+DQ D7 D9 DJ 
+SJ S8 C2 D2 
+DT C9 H6 DK 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "12"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:T97.42.AKJ32.AJT AKJ2.A973.QT8.74 Q8653.KQT.75.K96 4.J865.964.Q8532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "9a6889a6883364533645"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 10
+N  H  6
+N  D  8
+N  C  8
+S NT  9
+S  S 10
+S  H  6
+S  D  8
+S  C  8
+E NT  3
+E  S  3
+E  H  6
+E  D  4
+E  C  5
+W NT  3
+W  S  3
+W  H  6
+W  D  4
+W  C  5
+[OptimumScore "NS +620"]
+[Competition "Teams"]
+% RBDATA 8,0,3,69,176,80,121,42,64,48,73,63,153,182,132,39,43,28,27,29,96,27,24,94,354,41,17,27,36,24,20,31,106,23,20,9,25,77,17,28,18,40
+[Auction "W"]
+Pass 1NT =1= Pass 2H 
+Pass 2S Pass Pass 
+Pass 
+[Note "1: 12-14"]
+[Play "E"]
+C7 C6 CQ CA 
+S2 S3 S4 S9 
+SK S5 C5 S7 
+D8 D5 D4 DJ 
+SA S6 C2 ST 
+HA HT H8 H2 
+C4 CK C3 CT 
+-  SQ C8 -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "13"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ42.98643.7.J75 Q765.T.AJT65.K43 3.AJ75.K32.AQ962 AT98.KQ2.Q984.T8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "75949769496749467484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  4
+N  C  9
+S NT  7
+S  S  6
+S  H  9
+S  D  4
+S  C  9
+E NT  6
+E  S  7
+E  H  4
+E  D  9
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,2,1,59,30,52,75,131,212,146,91,57,37,49,456,46,102,98,9,24,203,32,10,9,23,9,16,22,499,36,17,34,46,165,33,9,18,73,19,88,58,29,112,10,13,36,8,28,86,362,19,72,32,20,11,9,26
+[Auction "N"]
+Pass Pass 1C X 
+1H 2D 3H Pass 
+Pass 3S Pass Pass 
+Pass 
+[Play "S"]
+HA H2 H3 HT 
+CA C8 C5 C4 
+C2 CT CJ CK 
+S3 S8 SK SQ 
+D2 D4 D7 DA 
+H5 S9 SJ S7 
+C6 ST S2 S5 
+H7 HQ H4 C3 
+DK D8 H6 DJ 
+D3 DQ S4 D5 
+-  -  C7 -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "13"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ42.98643.7.J75 Q765.T.AJT65.K43 3.AJ75.K32.AQ962 AT98.KQ2.Q984.T8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "75949769496749467484"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  5
+N  H  9
+N  D  4
+N  C  9
+S NT  7
+S  S  6
+S  H  9
+S  D  4
+S  C  9
+E NT  6
+E  S  7
+E  H  4
+E  D  9
+E  C  4
+W NT  6
+W  S  7
+W  H  4
+W  D  8
+W  C  4
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 13,0,3,117,53,50,74,129,36,299,68,169,100,63,772,90,19,62,277,145,118,33,556,175,42,36,47,24,25,25,72,10,23,34,707,27,20,56,92,22,14,13,570,73,9,58,582,48,47,28,161,102,50,112,72,24,21,146,22,34,40,17,15,18,10,17,14,8,21,7
+[Auction "N"]
+Pass Pass 1C X 
+1H 2C =1= 3H Pass 
+Pass X =2= Pass 3S 
+Pass Pass Pass 
+[Note "1: Alerted"]
+[Note "2:  * takeout [0:06]"]
+[Play "N"]
+H8 HT HA H2 
+S2 S5 S3 SA 
+H3 C3 H5 HK 
+H4 C4 H7 HQ 
+D7 D5 DK D9 
+C5 CK CA C8 
+C7 S6 CQ CT 
+S4 D6 D2 D8 
+CJ DT C2 S8 
+SK S7 D3 S9 
+H9 DA HJ ST 
+SJ DJ C6 D4 
+H6 SQ C9 DQ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "14"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T8742.Q.KT72.AJ3 AK5.KJT753.AJ6.7 .A842.4.KQ986542 QJ963.96.Q9853.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "12"]
+[Score "NS 650"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "7434b6433b49a7149971"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  3
+N  D  4
+N  C 11
+S NT  6
+S  S  4
+S  H  3
+S  D  3
+S  C 11
+E NT  4
+E  S  9
+E  H 10
+E  D  7
+E  C  1
+W NT  4
+W  S  9
+W  H  9
+W  D  7
+W  C  1
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,2,1,119,141,126,385,218,54,51,35,96,188,17,27,20,33,22,10,26,22,24,36,23,41,22,24,23,21,23,29,30,79,32,12,21,18,22,25,28,26,19,9,28,29
+[Auction "E"]
+1H 4C Pass 5C 
+X Pass Pass Pass 
+[Play "W"]
+H9 HQ HK HA 
+H6 C3 H7 H2 
+S3 S2 SK C2 
+D3 CJ H5 H4 
+S6 S4 S5 C4 
+S9 CA H3 H8 
+SJ S7 SA C5 
+CT D2 C7 CK 
+D5 -  -  CQ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "14"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:T8742.Q.KT72.AJ3 AK5.KJT753.AJ6.7 .A842.4.KQ986542 QJ963.96.Q9853.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "12"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "7434b6433b49a7149971"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  4
+N  H  3
+N  D  4
+N  C 11
+S NT  6
+S  S  4
+S  H  3
+S  D  3
+S  C 11
+E NT  4
+E  S  9
+E  H 10
+E  D  7
+E  C  1
+W NT  4
+W  S  9
+W  H  9
+W  D  7
+W  C  1
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,0,3,155,332,91,188,72,64,62,35,49,227,40,22,33,34,38,25,65,24,21,25,41,140,42,21,30,12,24,35,51,89,56,14,374,26,36,20,431,937,53,16,18,20,40,7
+[Auction "E"]
+1H 4C Pass 5C 
+X Pass Pass Pass 
+[Play "W"]
+H9 HQ HK HA 
+H6 C3 H3 H2 
+S3 S2 SK C2 
+D5 CJ H5 H4 
+S6 S4 S5 C4 
+SQ CA H7 H8 
+D9 DK DA D4 
+D3 D2 HJ CQ 
+CT S7 C7 CK 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "15"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:864.95.KQ7.AJT32 A7532.AK43.T4.Q7 K.J6.AJ9632.K865 QJT9.QT872.85.94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "333aa333aa2992129921"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D 10
+N  C 10
+S NT  3
+S  S  3
+S  H  3
+S  D 10
+S  C 10
+E NT  2
+E  S  9
+E  H  9
+E  D  2
+E  C  1
+W NT  2
+W  S  9
+W  H  9
+W  D  2
+W  C  1
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 18,2,1,92,47,91,49,65,402,151,53,234,50,38,49,74,22,17,68,40,57,10,9,8,50,15,26,21,6,8,154,64,14,9,16,23,9,27,131,28,8,9,10,31,9,6,10,7,9,32
+[Auction "S"]
+1D Pass 2C X 
+3C 4C =1= 4D 4S 
+Pass Pass Pass 
+[Note "1: pick a major"]
+[Play "S"]
+C5 C4 CA CQ 
+D6 D5 DK D4 
+DA D8 DQ DT 
+CK C9 C3 C7 
+C6 S9 CT H3 
+SK SQ S4 S3 
+DJ H2 D7 S2 
+D2 ST S6 S5 
+D9 SJ S8 S7 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "15"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:864.95.KQ7.AJT32 A7532.AK43.T4.Q7 K.J6.AJ9632.K865 QJT9.QT872.85.94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "333aa333aa2992129921"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  3
+N  D 10
+N  C 10
+S NT  3
+S  S  3
+S  H  3
+S  D 10
+S  C 10
+E NT  2
+E  S  9
+E  H  9
+E  D  2
+E  C  1
+W NT  2
+W  S  9
+W  H  9
+W  D  2
+W  C  1
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 12,0,3,173,41,78,86,150,66,221,41,92,45,53,112,20,61,19,226,23,37,20,15,9,26,16,31,11,593,44,10,31,24,36,28,11,52,35,21,9,30,49,31,52,27,23,219,22
+[Auction "S"]
+1D Pass 2C X 
+3C 3H Pass Pass 
+Pass 
+[Play "N"]
+DK D4 D2 D8 
+DQ DT D3 D5 
+CA C7 C5 C4 
+C3 CQ CK C9 
+D7 H3 DA SJ 
+H5 HA H6 H2 
+H9 HK HJ H7 
+C2 H4 D6 HQ 
+S4 SA SK SQ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "16"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJT53.KQ3.QJ92.8 62.J9.8763.AQ764 AQ84.7642.4.KJT3 97.AT85.AKT5.952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "8a8768a8764356653566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  6
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  5
+E  D  6
+E  C  6
+W NT  5
+W  S  3
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,2,1,104,75,27,221,89,46,45,165,112,96,21,366,48,13,30,106,35,18,24,29,22,17,12,39,28,21,12,51,180,28,64,22,20,8,9,13,10,20,11
+[Auction "W"]
+Pass 1S Pass 4S 
+Pass Pass Pass 
+[Play "E"]
+HJ H2 HA H3 
+H9 H4 H8 HK 
+CA C3 C2 C8 
+D7 D4 DK D2 
+S2 H6 H5 HQ 
+C4 CT C9 D9 
+S6 S4 S7 SJ 
+C6 SA S9 S3 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "16"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:KJT53.KQ3.QJ92.8 62.J9.8763.AQ764 AQ84.7642.4.KJT3 97.AT85.AKT5.952"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "8a8768a8764356653566"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S 10
+N  H  8
+N  D  7
+N  C  6
+S NT  8
+S  S 10
+S  H  8
+S  D  7
+S  C  6
+E NT  4
+E  S  3
+E  H  5
+E  D  6
+E  C  6
+W NT  5
+W  S  3
+W  H  5
+W  D  6
+W  C  6
+[OptimumScore "NS +420"]
+[Competition "Teams"]
+% RBDATA 18,0,3,94,117,45,354,170,117,397,45,22,21,226,28,25,36,26,18,15,148,30,23,17,51,423,35,30,423,24,19,26,27,20,19,12,83,24,22,9,43,34,18,18,56,16,9,4
+[Auction "W"]
+Pass 1S Pass 4D 
+X 4S Pass Pass 
+Pass 
+[Play "E"]
+D7 D4 DK D2 
+H9 H2 H5 HQ 
+CA C3 C2 C8 
+S2 S4 S7 ST 
+D3 S8 D5 D9 
+HJ H4 HA H3 
+S6 H6 H8 HK 
+C4 CK C5 DJ 
+C6 SA S9 S3 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "17"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q84.QT87653.J4.8 J2.AJ42.QT8.AQT4 T653.K9.963.KJ76 AK97..AK752.9532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "5"]
+[Score "NS -1100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -12 EW 12"]
+[DoubleDummyTricks "3351233512aa8cbaa8bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  1
+N  C  2
+S NT  3
+S  S  3
+S  H  5
+S  D  1
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D 12
+E  C 11
+W NT 10
+W  S 10
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 17,2,1,126,167,105,76,61,97,44,30,252,110,11,78,12,15,7,82,10,18,8,438,31,16,8,16,24,47,7,309,30,11,6,44,292,21,6,9,19,27,6
+[Auction "N"]
+3H Pass 4H X 
+Pass Pass Pass 
+[Play "E"]
+SJ S3 SK S4 
+S2 S5 SA S8 
+H2 S6 S9 SQ 
+CA C6 C9 C8 
+D8 D3 DK D4 
+DT D6 DA DJ 
+HJ ST S7 H8 
+HA HK D7 H3 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "17"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "-"]
+[Deal "N:Q84.QT87653.J4.8 J2.AJ42.QT8.AQT4 T653.K9.963.KJ76 AK97..AK752.9532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3HX"]
+[Result "6"]
+[Score "NS -500"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 12 EW -12"]
+[DoubleDummyTricks "3351233512aa8cbaa8bb"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  3
+N  H  5
+N  D  1
+N  C  2
+S NT  3
+S  S  3
+S  H  5
+S  D  1
+S  C  2
+E NT 10
+E  S 10
+E  H  8
+E  D 12
+E  C 11
+W NT 10
+W  S 10
+W  H  8
+W  D 11
+W  C 11
+[OptimumScore "NS -920"]
+[Competition "Teams"]
+% RBDATA 12,0,3,210,80,342,45,174,58,62,38,149,22,54,50,11,23,12,28,9,28,10,32,39,27,18,903,34,37,8,63,19,28,43,338,38,9,14,46,33,19,7,5,20,10,23,12,21,17,16
+[Auction "N"]
+3H Pass Pass X 
+Pass Pass Pass 
+[Play "E"]
+SJ S3 SK S4 
+S2 S5 SA S8 
+H2 S6 S9 SQ 
+D8 D3 DK D4 
+DQ D6 DA DJ 
+H4 ST S7 C8 
+CA C6 C5 H3 
+HA H9 D2 H6 
+DT D9 D5 H5 
+HJ HK C2 H7 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "18"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J82.AKQJ74.Q53.8 T9653.T8.7.KT932 K4.96532.K92.J76 AQ7..AJT864.AQ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "51720517217c4bc7c4bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  7
+N  D  2
+N  C  0
+S NT  5
+S  S  1
+S  H  7
+S  D  2
+S  C  1
+E NT  7
+E  S 12
+E  H  4
+E  D 11
+E  C 12
+W NT  7
+W  S 12
+W  H  4
+W  D 11
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,56,58,57,163,91,134,284,50,33,43,191,42,70,673,38,10,241,28,11,31,12,58,11,7,10,19,10,25,13,23,7,21,9,17,19,27,10,26,9,14
+[Auction "E"]
+Pass Pass 1D 2H 
+Pass 4H X Pass 
+4S Pass Pass Pass 
+[Play "S"]
+H3 S7 H7 H8 
+C6 C4 C8 CK 
+H2 SQ H4 HT 
+S4 SA S2 S3 
+D2 DA D3 D7 
+D9 D4 D5 S5 
+SK D6 S8 ST 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "18"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:J82.AKQJ74.Q53.8 T9653.T8.7.KT932 K4.96532.K92.J76 AQ7..AJT864.AQ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "51720517217c4bc7c4bc"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  1
+N  H  7
+N  D  2
+N  C  0
+S NT  5
+S  S  1
+S  H  7
+S  D  2
+S  C  1
+E NT  7
+E  S 12
+E  H  4
+E  D 11
+E  C 12
+W NT  7
+W  S 12
+W  H  4
+W  D 11
+W  C 12
+[OptimumScore "NS -980"]
+[Competition "Teams"]
+% RBDATA 18,0,3,192,44,426,53,37,423,73,121,20,526,240,601,68,17,93,30,16,50,19,80,16,60,14,18,9,24,27,23,8,148,30,19,60,29,93,79,13,63,12,64,12,7
+[Auction "E"]
+2S =1= Pass 2NT =2= 3H 
+Pass 4H 4S Pass 
+Pass Pass 
+[Note "1: weak"]
+[Note "2:  * Enquiry [0:06]"]
+[Play "S"]
+H5 S7 H4 H8 
+C7 C4 C8 CK 
+H2 SQ H7 HT 
+S4 SA S2 S3 
+C6 CA S8 C2 
+DK DA D3 D7 
+D2 D4 DQ S5 
+SK D6 SJ ST 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "19"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT97.Q9.T642.54 32.T8752.KQ753.K A85.AKJ64.A.A973 Q64.3.J98.QJT862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -10 EW 10"]
+[DoubleDummyTricks "bca78bca782125521255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H 10
+N  D  7
+N  C  8
+S NT 11
+S  S 12
+S  H 10
+S  D  7
+S  C  8
+E NT  2
+E  S  1
+E  H  2
+E  D  5
+E  C  5
+W NT  2
+W  S  1
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 14,0,3,403,50,82,55,215,46,140,55,284,37,32,99,34,15,145,27,16,35,24,33,46,25,131,34,46,14,55,57,14,12,74,17,55,8,25,57,69,33,268,41,9,16,57,17,87,9,151,16,75,21,12,21,30,11,5
+[Auction "S"]
+1H Pass 1S Pass 
+3C Pass 3NT Pass 
+Pass Pass 
+[Play "E"]
+D5 DA D8 D2 
+H2 H4 H3 HQ 
+HT HJ C8 H9 
+H5 HA C2 C4 
+H7 HK D9 D4 
+S3 SA S6 S7 
+H8 H6 C6 S9 
+DK C3 DJ D6 
+DQ C7 CT DT 
+D7 C9 CQ ST 
+D3 S5 CJ SJ 
+S2 -  -  -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "19"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "N:KJT97.Q9.T642.54 32.T8752.KQ753.K A85.AKJ64.A.A973 Q64.3.J98.QJT862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 10 EW -10"]
+[DoubleDummyTricks "bca78bca782125521255"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 12
+N  H 10
+N  D  7
+N  C  8
+S NT 11
+S  S 12
+S  H 10
+S  D  7
+S  C  8
+E NT  2
+E  S  1
+E  H  2
+E  D  5
+E  C  5
+W NT  2
+W  S  1
+W  H  2
+W  D  5
+W  C  5
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 18,2,1,225,55,55,21,145,74,145,19,87,72,136,22,574,50,296,159,36,14,1328,55,10,12,35,51,9,130,345,48,35,19,934,33,62,26,38,32,14,10,97,16,37,28,371,52,21,17,123,37,27,48,93,20,17,70,80,30,15,8,18,12,7,14,10,9,6,12
+[Auction "S"]
+1H Pass 1S Pass 
+3C Pass 3H Pass 
+3S Pass 4S Pass 
+Pass Pass 
+[Play "E"]
+DK DA D8 D2 
+CK CA C6 C4 
+D5 C3 C8 C5 
+D3 C7 CJ S9 
+D7 S8 D9 D4 
+H2 H4 H3 HQ 
+DQ SA DJ D6 
+H5 HA S4 H9 
+H7 C9 CT S7 
+S2 S5 S6 DT 
+H8 H6 CQ ST 
+S3 HJ SQ SK 
+HT HK C2 SJ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "20"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ6.9.974.AK543 T98.8654.K653.J9 742.AQ32.AJ8.QT7 Q53.KJT7.QT2.862"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "bb89bcc89c1153111531"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 11
+S NT 12
+S  S 12
+S  H  8
+S  D  9
+S  C 12
+E NT  1
+E  S  1
+E  H  5
+E  D  3
+E  C  1
+W NT  1
+W  S  1
+W  H  5
+W  D  3
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,0,3,86,119,52,54,28,123,30,317,47,66,82,75,342,20,237,402,50,29,21,29,21,33,25,515,37,12,22,1268,31,33,27,40,13,24,13,117,9,37,16,46,19,29,18,52,21,41,23,85,13,23
+[Auction "W"]
+Pass 1C Pass 1H 
+Pass 1S Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+D2 D4 DK DA 
+C2 CA C9 C7 
+C6 C3 CJ CQ 
+S5 SA S9 S2 
+C8 CK D3 CT 
+H7 C4 D6 H2 
+HT C5 H4 S4 
+HJ H9 H5 HA 
+S3 SK ST S7 
+-  D7 D5 D8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "20"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "N:AKJ6.9.974.AK543 T98.8654.K653.J9 742.AQ32.AJ8.QT7 Q53.KJT7.QT2.862"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "bb89bcc89c1153111531"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 11
+N  S 11
+N  H  8
+N  D  9
+N  C 11
+S NT 12
+S  S 12
+S  H  8
+S  D  9
+S  C 12
+E NT  1
+E  S  1
+E  H  5
+E  D  3
+E  C  1
+W NT  1
+W  S  1
+W  H  5
+W  D  3
+W  C  1
+[OptimumScore "NS +1440"]
+[Competition "Teams"]
+% RBDATA 14,2,1,90,66,27,69,48,46,23,301,74,250,41,70,62,51,14,375,144,18,104,37,37,27,17,19,10,27,29,41,29,33,125,48,39,50,74,58,8,436,67,87,25,29,20,31,15,25,26,123,16,33,46,85,30,9,72,137,20,8,19,25,21,7,22,10,11,19,9
+[Auction "W"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2D =1= 
+Pass 3C Pass 3NT 
+Pass Pass Pass 
+[Note "1: gf"]
+[Play "W"]
+D2 D4 DK DA 
+C2 CA C9 C7 
+C6 C3 CJ CQ 
+C8 CK D3 CT 
+HT C4 H6 H2 
+H7 C5 D5 S2 
+S3 SA S8 S7 
+S5 SK S9 S4 
+DT D7 D6 D8 
+SQ S6 ST DJ 
+DQ D9 H4 H3 
+HJ H9 H5 HQ 
+HK SJ H8 HA 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "21"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ843.AQ6.7.A432 T65.4.8.KJT98765 A72.K9875.AK54.Q K9.JT32.QJT9632."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 13 EW -13"]
+[DoubleDummyTricks "cbb75cbc851215712157"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 11
+N  D  7
+N  C  5
+S NT 12
+S  S 11
+S  H 12
+S  D  8
+S  C  5
+E NT  1
+E  S  2
+E  H  1
+E  D  5
+E  C  7
+W NT  1
+W  S  2
+W  H  1
+W  D  5
+W  C  7
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 18,0,3,95,58,324,36,194,32,38,241,27,10,434,56,18,6,16,31,20,8,685,55,31,37,81
+[Auction "N"]
+1S 4C 4S Pass 
+Pass Pass 
+[Play "E"]
+D8 DA D2 D7 
+S5 SA S9 S3 
+S6 S2 SK S4 
+ST D4 D6 C2 
+CK -  -  -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "21"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ843.AQ6.7.A432 T65.4.8.KJT98765 A72.K9875.AK54.Q K9.JT32.QJT9632."]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -13 EW 13"]
+[DoubleDummyTricks "cbb75cbc851215712157"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 12
+N  S 11
+N  H 11
+N  D  7
+N  C  5
+S NT 12
+S  S 11
+S  H 12
+S  D  8
+S  C  5
+E NT  1
+E  S  2
+E  H  1
+E  D  5
+E  C  7
+W NT  1
+W  S  2
+W  H  1
+W  D  5
+W  C  7
+[OptimumScore "NS +1400"]
+[Competition "Teams"]
+% RBDATA 28,2,1,101,94,540,101,671,35,43,41,156,202,55,28,1274,24,11,39,16,27,22,11,67,42,10,44,9
+[Auction "N"]
+1S 4C 5C Pass 
+6S Pass Pass Pass 
+[Play "E"]
+H4 H5 HT HQ 
+S5 SA S9 S3 
+S6 S2 SK S4 
+ST H7 H2 H6 
+CK -  -  -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "22"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ65.A4.A7.QT854 73.8732.Q92.A973 T4.KJ96.T6543.J2 AQ982.QT5.KJ8.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS -100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -6 EW 6"]
+[DoubleDummyTricks "66677666777776677766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  7
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 10,0,3,49,42,142,434,80,240,47,230,44,96,36,78,188,513,64,541,43,10,29,33,25,33,31,48,435,36,18,48,90,70,574,347,23,9,8,50,14,15,9,244,23,10,21,46,19,19,29,70,31,4,13,19,22,32,9,35,15,42,11,9,12,3,12
+[Auction "E"]
+Pass Pass 1NT =1= 2D =2= 
+Pass 2H =3= Pass 3C =4= 
+Pass Pass Pass 
+[Note "1: 15-17"]
+[Note "2: ♠ and another"]
+[Note "3: Alerted"]
+[Note "4: 5(+)♣"]
+[Play "E"]
+D2 D3 DK DA 
+H7 H6 H5 HA 
+H2 HK HT H4 
+S7 ST SQ SK 
+D9 D4 DJ D7 
+C3 C2 CK C4 
+CA CJ C6 C5 
+DQ D5 D8 C8 
+S3 S4 S8 S5 
+H3 H9 HQ CT 
+C7 D6 S2 CQ 
+H8 DT S9 S6 
+C9 HJ SA SJ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "22"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "N:KJ65.A4.A7.QT854 73.8732.Q92.A973 T4.KJ96.T6543.J2 AQ982.QT5.KJ8.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 6 EW -6"]
+[DoubleDummyTricks "66677666777776677766"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  6
+N  S  6
+N  H  6
+N  D  7
+N  C  7
+S NT  6
+S  S  6
+S  H  6
+S  D  7
+S  C  7
+E NT  7
+E  S  7
+E  H  7
+E  D  6
+E  C  6
+W NT  7
+W  S  7
+W  H  7
+W  D  6
+W  C  6
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,2,1,43,43,50,236,41,82,199,52,184,78,38,68,31,34,47,122,46,11,12,35,46,238,36,29,41,12,18,122,20,11,85,748,54,184,77,822,47,165,15,13,24,17,18,62,15,12,72
+[Auction "E"]
+Pass Pass 1S 1NT 
+Pass Pass Pass 
+[Play "E"]
+S7 ST SQ SK 
+C7 CJ CK C4 
+S3 S4 SA S5 
+D2 D3 S8 SJ 
+C3 C2 C6 CQ 
+C9 D4 D8 C8 
+DQ D5 DJ D7 
+CA H6 S2 C5 
+D9 D6 DK DA 
+H2 H9 H5 CT 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "23"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q7.KJ9853.J84.93 J832.AQT6.Q9.QJ5 AK.72.752.AKT642 T9654.4.AKT63.87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 7 EW -7"]
+[DoubleDummyTricks "53737537378868688686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  3
+N  C  7
+S NT  5
+S  S  3
+S  H  7
+S  D  3
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  6
+W NT  8
+W  S  8
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 18,0,3,93,245,147,45,78,218,45,17,36,29,100,110,18,113,19,21,16,52,24,31,14,139,34,21,38,25,28,36,46,110
+[Auction "S"]
+1C 1S Pass 2NT =1= 
+Pass 4S Pass Pass 
+Pass 
+[Note "1: Alerted"]
+[Play "N"]
+C9 CJ CK C8 
+C3 C5 CA C7 
+SQ CQ C6 S9 
+D4 D9 D7 DT 
+S7 S8 SK S4 
+-  -  D2 -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "23"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:Q7.KJ9853.J84.93 J832.AQT6.Q9.QJ5 AK.72.752.AKT642 T9654.4.AKT63.87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -7 EW 7"]
+[DoubleDummyTricks "53737537378868688686"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  7
+N  D  3
+N  C  7
+S NT  5
+S  S  3
+S  H  7
+S  D  3
+S  C  7
+E NT  8
+E  S  8
+E  H  6
+E  D  8
+E  C  6
+W NT  8
+W  S  8
+W  H  6
+W  D  8
+W  C  6
+[OptimumScore "NS -120"]
+[Competition "Teams"]
+% RBDATA 6,2,1,81,114,167,60,89,113,62,185,194,62,104,45,125,40,26,891,49,15,25,31,30,11,24,413,36,12,22,34,283,39,21,32,29,28,13,27,24,11,12,24,20,20,11
+[Auction "S"]
+1C 1D 1H 1NT 
+2C Pass Pass 2D 
+Pass Pass Pass 
+[Play "N"]
+C9 CJ CK C7 
+S7 S2 SK S6 
+SQ S3 SA S9 
+C3 C5 CA C8 
+D4 CQ C6 S4 
+H9 HA H7 H4 
+D8 DQ D2 D3 
+DJ D9 D5 DA 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "24"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQT75.T7.AKT643. 62.K52.987.KT742 J9.AQJ3.Q52.AJ53 A843.9864.J.Q986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "acbc7bcbc71121611216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 11
+N  D 12
+N  C  7
+S NT 11
+S  S 12
+S  H 11
+S  D 12
+S  C  7
+E NT  1
+E  S  1
+E  H  2
+E  D  1
+E  C  6
+W NT  1
+W  S  1
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 14,2,1,91,47,26,67,83,47,31,145,61,100,34,277,57,96,20,514,63,48,17,587,272,35,34,17,45,32,9,55,24,23,199,120,186,50,23,32,34,85,45,48,12,29,249,28,39,87,26,33,13,26,24,43,27,19,8,32,39,18,7,27,19,8,19,20,18,7,19,13,12,20,6
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C =1= 
+Pass 2S Pass 2NT 
+Pass 3H Pass 3NT 
+Pass Pass Pass 
+[Note "1: gf"]
+[Play "W"]
+C6 S5 CK CA 
+DJ DA D7 D2 
+H8 D3 D8 DQ 
+S3 DK D9 D5 
+S4 D4 S6 H3 
+H4 DT S2 S9 
+S8 D6 C4 C3 
+H6 H7 H2 HQ 
+H9 HT H5 HA 
+SA S7 C2 SJ 
+CQ ST C7 C5 
+C9 SQ CT CJ 
+C8 SK HK HJ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "24"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "-"]
+[Deal "N:KQT75.T7.AKT643. 62.K52.987.KT742 J9.AQJ3.Q52.AJ53 A843.9864.J.Q986"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "acbc7bcbc71121611216"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT 10
+N  S 12
+N  H 11
+N  D 12
+N  C  7
+S NT 11
+S  S 12
+S  H 11
+S  D 12
+S  C  7
+E NT  1
+E  S  1
+E  H  2
+E  D  1
+E  C  6
+W NT  1
+W  S  1
+W  H  2
+W  D  1
+W  C  6
+[OptimumScore "NS +980"]
+[Competition "Teams"]
+% RBDATA 14,0,3,78,106,2061,155,43,61,51,369,34,60,66,428,43,42,33,538,362,30,73,275,26,52,20,106,33,44,27,367,27,38,8,177,291,23,4,28,22,130,43,47,26,294,41,34,16,198,16,145,22,90,18,55,56,34,4,32,47,4,29,53,15,22,5,9,28,4,9
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C 
+Pass 2S Pass 3NT 
+Pass Pass Pass 
+[Play "W"]
+C6 S5 CK CA 
+DJ DA D8 D2 
+H6 H7 H2 HQ 
+S3 D3 D7 DQ 
+S4 DK D9 D5 
+H4 DT C2 C3 
+S8 D6 C4 S9 
+H9 D4 S2 H3 
+H8 HT H5 HA 
+SA S7 S6 SJ 
+C8 ST CT CJ 
+C9 SQ C7 C5 
+CQ SK HK HJ 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "25"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ83.A3.872.9862 6.J97652.J6.JT74 AQT97.KQ4.A5.KQ3 542.T8.KQT943.A5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "9b7799b7793266432664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D  7
+N  C  9
+S NT  9
+S  S 11
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  6
+E  D  6
+E  C  4
+W NT  3
+W  S  2
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,63,34,88,60,249,26,82,34,77,49,55,36,209,398,22,19,131,23,12,3,77,20,65,18,94,19,28,15,318,25,23,28,68,21,31,7,79,24,39,25,782,59,8,19,84,17,21,8,35,162,36,4,5
+[Auction "N"]
+Pass Pass 2NT Pass 
+3C =1= Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: puppet "]
+[Play "W"]
+DK D2 D6 DA 
+S2 S3 S6 SA 
+S4 S8 H2 SQ 
+S5 SJ H5 S7 
+C5 C2 C4 CK 
+H8 HA H6 H4 
+CA C6 C7 CQ 
+HT H3 H7 HK 
+D3 D7 H9 HQ 
+D9 D8 DJ D5 
+-  -  CT -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "25"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ83.A3.872.9862 6.J97652.J6.JT74 AQT97.KQ4.A5.KQ3 542.T8.KQT943.A5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "9b7799b7793266432664"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  9
+N  S 11
+N  H  7
+N  D  7
+N  C  9
+S NT  9
+S  S 11
+S  H  7
+S  D  7
+S  C  9
+E NT  3
+E  S  2
+E  H  6
+E  D  6
+E  C  4
+W NT  3
+W  S  2
+W  H  6
+W  D  6
+W  C  4
+[OptimumScore "NS +450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,76,24,86,96,362,26,78,62,1038,35,44,36,183,145,35,37,77,39,20,13,94,35,51,13,85,44,22,27,18,39,21,57,521,47,15,30,16,20,26,16,28,33,25,9,36,30,17,8,19,42,19,7,12,23,24,16,10,17,18,12,11,11,18,7
+[Auction "N"]
+Pass Pass 2NT Pass 
+3C =1= Pass 3S Pass 
+4S Pass Pass Pass 
+[Note "1: puppet"]
+[Play "W"]
+DK D2 D6 DA 
+S4 S3 S6 ST 
+S2 SJ H6 S9 
+S5 SK H2 SQ 
+CA C2 C7 CK 
+HT HA H5 H4 
+H8 H3 H7 HK 
+D3 D7 H9 HQ 
+C5 C6 C4 CQ 
+D9 D8 DJ D5 
+D4 C8 CJ C3 
+DT C9 CT S7 
+DQ S8 HJ SA 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "26"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K5.Q765.KJ5.AKJ6 AQT8643.J.Q.Q843 J92.KT98.T73.975 7.A432.A98642.T2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -1 EW 1"]
+[DoubleDummyTricks "84766847565957659576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  7
+N  D  6
+N  C  6
+S NT  8
+S  S  4
+S  H  7
+S  D  5
+S  C  6
+E NT  5
+E  S  9
+E  H  5
+E  D  7
+E  C  6
+W NT  5
+W  S  9
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,0,3,188,37,105,119,53,77,33,177,210,61,40,22,137,28,39,9,27,36,3,9,35,94,14,36,255,21,70,35,81,34,14,21
+[Auction "E"]
+1S Pass 1NT X 
+2S Pass Pass Pass 
+[Play "S"]
+C7 C2 CK C3 
+S2 S7 S5 SQ 
+S9 D2 SK SA 
+SJ H2 H7 S3 
+C9 CT CA C4 
+C5 D4 CJ CQ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "26"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:K5.Q765.KJ5.AKJ6 AQT8643.J.Q.Q843 J92.KT98.T73.975 7.A432.A98642.T2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 1 EW -1"]
+[DoubleDummyTricks "84766847565957659576"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H  7
+N  D  6
+N  C  6
+S NT  8
+S  S  4
+S  H  7
+S  D  5
+S  C  6
+E NT  5
+E  S  9
+E  H  5
+E  D  7
+E  C  6
+W NT  5
+W  S  9
+W  H  5
+W  D  7
+W  C  6
+[OptimumScore "NS -140"]
+[Competition "Teams"]
+% RBDATA 8,2,1,86,51,132,145,30,96,76,58,140,128,20,21,87,571,38,12,71,36,15,7,61,38,16,378,258,27,12,13,14,35,13,26,37,15,42,12,26,92,11,63,37,25,18,8
+[Auction "E"]
+1S Pass 2D X 
+2S Pass Pass Pass 
+[Play "S"]
+C7 C2 CK C4 
+S2 S7 S5 SQ 
+S9 D2 SK SA 
+SJ D4 H5 S6 
+HK HA H6 HJ 
+C5 CT CA C3 
+HT H2 HQ S3 
+H8 D6 H7 ST 
+C9 D8 D5 S8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "27"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:6.AJT987.J9.JT83 T973.6532.A432.4 KJ42.Q.KT6.K9752 AQ85.K4.Q875.AQ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "53839548496959469594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  3
+N  C  9
+S NT  5
+S  S  4
+S  H  8
+S  D  4
+S  C  9
+E NT  6
+E  S  9
+E  H  5
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 12,0,3,171,76,310,144,303,324,85,147,33,15,112,19,33,16,24,22,23,23,53,23,28,40,12,288,32,11,76,20,11,16,145,22,29,23,9,154,22,4,45,18,44,10
+[Auction "S"]
+1C 1NT 3H =1= Pass 
+Pass Pass 
+[Note "1: fit jump"]
+[Play "E"]
+C4 C2 CQ C3 
+D4 C5 CA C8 
+H2 C7 C6 CT 
+DA D6 D5 D9 
+ST SJ SQ S6 
+S3 S2 SA H7 
+D2 DK D7 DJ 
+H3 HQ HK HA 
+H5 S4 H4 HJ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "27"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "-"]
+[Deal "N:6.AJT987.J9.JT83 T973.6532.A432.4 KJ42.Q.KT6.K9752 AQ85.K4.Q875.AQ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "53839548496959469594"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  3
+N  H  8
+N  D  3
+N  C  9
+S NT  5
+S  S  4
+S  H  8
+S  D  4
+S  C  9
+E NT  6
+E  S  9
+E  H  5
+E  D  9
+E  C  4
+W NT  6
+W  S  9
+W  H  5
+W  D  9
+W  C  4
+[OptimumScore "NS -100"]
+[Competition "Teams"]
+% RBDATA 7,2,1,117,116,123,49,60,74,131,131,47,18,534,58,30,28,159,54,40,19,20,27,9,39,14,27,27,10,36,15,16,12,45,20,17,205,217,13,141,39,19,20,59,30,55,24,10,11,16,17,32,19,35,110,9,13,10,12,10,5
+[Auction "S"]
+1C 1NT 2H Pass 
+Pass Pass 
+[Play "E"]
+ST SJ SQ S6 
+DA D6 D5 DJ 
+S9 S2 S5 H7 
+D2 DK D7 D9 
+H3 HQ HK HA 
+H2 C2 H4 HJ 
+H5 DT S8 HT 
+H6 C5 C6 H9 
+C4 C7 CQ CJ 
+S3 S4 SA H8 
+S7 C9 CA C3 
+D3 CK DQ C8 
+D4 SK D8 CT 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "28"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:972.J98.A98754.7 K.T6543.KJT.KQT2 AQJT854.KQ7.62.5 63.A2.Q3.AJ98643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 100"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 11 EW -11"]
+[DoubleDummyTricks "5a4925a4925384a5384a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H  4
+N  D  9
+N  C  2
+S NT  5
+S  S 10
+S  H  4
+S  D  9
+S  C  2
+E NT  5
+E  S  3
+E  H  8
+E  D  4
+E  C 10
+W NT  5
+W  S  3
+W  H  8
+W  D  4
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,0,3,66,72,29,420,84,117,127,619,37,80,25,525,78,47,13,781,36,14,12,21,24,29,42,162,43,45,112,48,31,29,12
+[Auction "W"]
+1C Pass 1H 3S 
+Pass 4S 5C X 
+Pass Pass Pass 
+[Play "N"]
+S7 SK SA S3 
+H9 H3 HK HA 
+C7 CQ C5 C3 
+DA DT D2 D3 
+H8 H4 HQ H2 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "28"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:972.J98.A98754.7 K.T6543.KJT.KQT2 AQJT854.KQ7.62.5 63.A2.Q3.AJ98643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -11 EW 11"]
+[DoubleDummyTricks "5a4925a4925384a5384a"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S 10
+N  H  4
+N  D  9
+N  C  2
+S NT  5
+S  S 10
+S  H  4
+S  D  9
+S  C  2
+E NT  5
+E  S  3
+E  H  8
+E  D  4
+E  C 10
+W NT  5
+W  S  3
+W  H  8
+W  D  4
+W  C 10
+[OptimumScore "NS +100"]
+[Competition "Teams"]
+% RBDATA 20,2,1,129,86,31,156,105,161,180,1086,95,56,46,164,64,40,361,300,43,107,36,106,25,24,179,82,14,26
+[Auction "W"]
+1C Pass 1H 1S 
+2C 2S 3S Pass 
+4C Pass Pass 4S 
+Pass Pass 5C Pass 
+Pass Pass 
+[Play "N"]
+S2 SK SA S6 
+C7 CT C5 C3 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "29"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ4.KJ963.A652.J T8.A85.KQJ83.T65 AQ7653.QT.T94.84 92.742.7.AKQ9732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS 200"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 9 EW -9"]
+[DoubleDummyTricks "59833598336226862268"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  8
+N  D  3
+N  C  3
+S NT  5
+S  S  9
+S  H  8
+S  D  3
+S  C  3
+E NT  6
+E  S  2
+E  H  2
+E  D  6
+E  C  8
+W NT  6
+W  S  2
+W  H  2
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 15,0,3,195,68,69,117,218,199,308,65,140,197,44,154,15,1012,33,16,75,21,27,12,24,40,80,10,50,15,42,15,42,39,19,28,9,17,11,28,7,45,16,35,10
+[Auction "N"]
+1H Pass 1S 3C 
+3D 4C Pass Pass 
+Pass 
+[Play "N"]
+S4 S8 SA S2 
+H3 HA HQ H2 
+CJ C5 C4 CK 
+D2 C6 C8 CA 
+DA D3 D9 D7 
+SK ST S3 S9 
+HK H5 HT H4 
+HJ H8 S5 H7 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "29"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ4.KJ963.A652.J T8.A85.KQJ83.T65 AQ7653.QT.T94.84 92.742.7.AKQ9732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -9 EW 9"]
+[DoubleDummyTricks "59833598336226862268"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  5
+N  S  9
+N  H  8
+N  D  3
+N  C  3
+S NT  5
+S  S  9
+S  H  8
+S  D  3
+S  C  3
+E NT  6
+E  S  2
+E  H  2
+E  D  6
+E  C  8
+W NT  6
+W  S  2
+W  H  2
+W  D  6
+W  C  8
+[OptimumScore "NS +140"]
+[Competition "Teams"]
+% RBDATA 18,2,1,88,34,482,138,208,72,133,64,112,31,39,34,78,59,11,32,199,26,31,21,1723,40,178,32,52,30,11,26,16,21,29,33,51,43,8,18
+[Auction "N"]
+1H Pass 1S 3C 
+Pass Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+CK CJ C5 C4 
+D7 D2 DJ D4 
+S2 D5 DK D9 
+H4 H3 HA HQ 
+S9 D6 D3 DT 
+CQ SJ C6 C8 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "30"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ6.Q84.K9.T7432 QT3.K5.8752.KQ95 854.9762.AJT43.A K972.AJT3.Q6.J86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -3 EW 3"]
+[DoubleDummyTricks "76775767756655866558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  7
+N  C  5
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 4,0,3,70,44,177,88,53,76,34,94,77,63,24,28,49,17,143,26,86,35,30,17,47,46,24,8,53,15,109,9,36,20,128,13,200,21,8
+[Auction "E"]
+Pass Pass 1C =1= Pass 
+1NT Pass Pass Pass 
+[Note "1: cld be 3"]
+[Play "S"]
+DT DQ DK D2 
+D3 D6 D9 D5 
+CA C6 C4 C5 
+DA S2 C2 D7 
+DJ S7 C3 D8 
+D4 S9 S6 S3 
+S8 SK SA -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "30"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "E"]
+[Vulnerable "-"]
+[Deal "N:AJ6.Q84.K9.T7432 QT3.K5.8752.KQ95 854.9762.AJT43.A K972.AJT3.Q6.J86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 3 EW -3"]
+[DoubleDummyTricks "76775767756655866558"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  7
+N  S  6
+N  H  7
+N  D  7
+N  C  5
+S NT  7
+S  S  6
+S  H  7
+S  D  7
+S  C  5
+E NT  6
+E  S  6
+E  H  5
+E  D  5
+E  C  8
+W NT  6
+W  S  6
+W  H  5
+W  D  5
+W  C  8
+[OptimumScore "NS -90"]
+[Competition "Teams"]
+% RBDATA 7,2,1,62,53,97,84,39,365,82,124,123,119,101,62,24,96,39,24,9,22,21,21,43,39,32,22,10,40,172,55,13,21,184,38,11,25,19,27,348,70,333,11,29,78,25,129,23,89,27,8,33,62,8,26,26,58,22,22,9,24,8,21,11
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass 2H =1= Pass Pass 
+Pass 
+[Note "1: h+other"]
+[Play "W"]
+C6 C2 CQ CA 
+D6 DK D5 D3 
+C8 C3 C5 H2 
+DQ D9 D2 DA 
+CJ S6 D7 DT 
+HT HQ D8 DJ 
+HJ C4 C9 H6 
+S2 SJ SQ S4 
+HA H4 H5 H7 
+S7 SA S3 S5 
+S9 C7 CK H9 
+SK H8 ST S8 
+H3 CT HK D4 
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "31"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K9.K85.9654.Q963 AQ8732.T63.T87.K JT.J92.AJ32.T752 654.AQ74.KQ.AJ84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "3236532355aba78aba78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  6
+N  C  5
+S NT  3
+S  S  2
+S  H  3
+S  D  5
+S  C  5
+E NT 10
+E  S 11
+E  H 10
+E  D  7
+E  C  8
+W NT 10
+W  S 11
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,0,3,75,28,37,22,51,105,128,30,67,22,37,289,373,29,17,56,17,42,9,767,27,57,11,33,43,11,38,40,40,11,11,18,21,8,58,17,22,21,34
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 1NT =1= Pass 4S 
+Pass Pass Pass 
+[Note "1:  * 15-17 [0:11]"]
+[Play "S"]
+H2 H4 HK H3 
+DA DQ D6 D7 
+C7 C4 C3 CK 
+SJ S4 S9 SA 
+D2 DK D4 D8 
+C2 CA C6 DT 
+ST S5 SK S2 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "31"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:K9.K85.9654.Q963 AQ8732.T63.T87.K JT.J92.AJ32.T752 654.AQ74.KQ.AJ84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "3236532355aba78aba78"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  3
+N  S  2
+N  H  3
+N  D  6
+N  C  5
+S NT  3
+S  S  2
+S  H  3
+S  D  5
+S  C  5
+E NT 10
+E  S 11
+E  H 10
+E  D  7
+E  C  8
+W NT 10
+W  S 11
+W  H 10
+W  D  7
+W  C  8
+[OptimumScore "NS -450"]
+[Competition "Teams"]
+% RBDATA 18,2,1,62,65,62,23,36,85,69,133,40,44,17,43,359,65,12,19,42,16,11,188,186,28,16,224,20,10,26,225,29,11,31,10,30,10,20,11,25,17,23,38,20,23,8,12,35,16,11,39
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 1NT Pass 4S 
+Pass Pass Pass 
+[Play "S"]
+C7 C8 C9 CK 
+DA DQ D6 D8 
+C2 CA C3 H3 
+D2 DK D4 D7 
+ST S4 S9 SA 
+DJ S5 D5 DT 
+SJ S6 SK S3 
+D3 C4 D9 S2 
+H2 HQ HK H6 
+-  -  CQ -  
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "32"]
+[West "Adam Dunn#117596"]
+[North "Richard Edwards#401500"]
+[East "Dafydd Jones#105020"]
+[South "Robert Ross#39431"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ4.Q943.Q9543.T 9532.752.T8762.3 AK76.J.K.AJ98765 T8.AKT86.AJ.KQ42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "1"]
+[Room "Closed"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS 0 EW -0"]
+[DoubleDummyTricks "88679886795576455764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  7
+N  C  9
+S NT  8
+S  S  8
+S  H  6
+S  D  7
+S  C  9
+E NT  5
+E  S  5
+E  H  7
+E  D  6
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 5,0,3,66,87,49,143,49,80,23,67,163,21,24,728,41,5,12,240,49,6,68,124,24,20,4,33,75,15,11,384,22,36,8,137,134,4,26,151,128,9,27,18,9,14,15,19,19
+[Auction "W"]
+1H Pass Pass 2C 
+Pass Pass Pass 
+[Play "W"]
+HA H3 H2 HJ 
+DA D3 D2 DK 
+HK H4 H5 C5 
+C2 CT C3 CA 
+C4 D4 D6 C6 
+CQ D5 H7 C7 
+CK H9 D7 C8 
+DJ DQ D8 S6 
+S8 S4 S2 SK 
+H6 -  -  CJ 
+*
+
+[Event "25 Feb Edwards vs Harouni"]
+[Site "RealBridge"]
+[Date "2025.02.25"]
+[Board "32"]
+[West "John Rolph#78483"]
+[North "Gary JONES#12166"]
+[East "Sandy Fulton#29154"]
+[South "Jerry Harouni#43328"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "N:QJ4.Q943.Q9543.T 9532.752.T8762.3 AK76.J.K.AJ98765 T8.AKT86.AJ.KQ42"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Table "2"]
+[Room "Open"]
+[HomeTeam "Harouni team"]
+[VisitTeam "Edwards team"]
+[ScoreIMP "NS -0 EW 0"]
+[DoubleDummyTricks "88679886795576455764"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  8
+N  H  6
+N  D  7
+N  C  9
+S NT  8
+S  S  8
+S  H  6
+S  D  7
+S  C  9
+E NT  5
+E  S  5
+E  H  7
+E  D  6
+E  C  4
+W NT  5
+W  S  5
+W  H  7
+W  D  6
+W  C  4
+[OptimumScore "NS +120"]
+[Competition "Teams"]
+% RBDATA 5,2,1,98,35,38,110,77,190,65,222,65,16,24,315,25,18,19,70,50,9,38,14,27,22,42,325,34,12,30,16,27,22,9,39,41,20,9,114
+[Auction "W"]
+1H Pass Pass 2C 
+Pass Pass Pass 
+[Play "W"]
+HK H3 H2 HJ 
+DA D3 D2 DK 
+DJ DQ D6 S6 
+CQ CT C3 C5 
+ST S4 S5 SK 
+C2 D4 H5 CA 
+CK D5 S2 CJ 
+S8 -  -  -  
+*
